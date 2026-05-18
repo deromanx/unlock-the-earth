@@ -1053,6 +1053,123 @@ Object.assign(ZH_TO_A2, {
   '約旦/巴勒斯坦':'JO',
 });
 
+const TIERS = [
+  {
+    min:0, max:0,
+    title:'待啟程', sub:'世界在等著你出發',
+    color:'#7A9AAF',
+    svg:`<svg viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M28 28V20Q28 15 33 15H47Q52 15 52 20V28" stroke="#7A9AAF" stroke-width="2.5" stroke-linecap="round"/>
+      <rect x="14" y="28" width="52" height="34" rx="6" stroke="#7A9AAF" stroke-width="2.5"/>
+      <line x1="14" y1="43" x2="66" y2="43" stroke="#7A9AAF" stroke-width="1.5" opacity="0.4"/>
+      <rect x="33" y="39" width="14" height="8" rx="2.5" stroke="#7A9AAF" stroke-width="2"/>
+      <circle cx="24" cy="64" r="3" stroke="#7A9AAF" stroke-width="2"/>
+      <circle cx="56" cy="64" r="3" stroke="#7A9AAF" stroke-width="2"/>
+    </svg>`
+  },
+  {
+    min:1, max:9,
+    title:'地圖新鮮人', sub:'第一步，最難也最珍貴',
+    color:'#F5C842',
+    svg:`<svg viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M10 18 L30 12 L50 20 L70 14 L70 62 L50 68 L30 60 L10 66 Z" stroke="#F5C842" stroke-width="2" stroke-linejoin="round"/>
+      <line x1="30" y1="12" x2="30" y2="60" stroke="#F5C842" stroke-width="1" opacity="0.35"/>
+      <line x1="50" y1="20" x2="50" y2="68" stroke="#F5C842" stroke-width="1" opacity="0.35"/>
+      <circle cx="24" cy="33" r="4" fill="#F5C842"/>
+      <circle cx="56" cy="47" r="4" fill="#F5C842"/>
+      <path d="M24 33 Q37 26 56 47" stroke="#F5C842" stroke-width="1.5" stroke-dasharray="4 3" fill="none"/>
+    </svg>`
+  },
+  {
+    min:10, max:24,
+    title:'洲際漫遊者', sub:'已跨越第一道海岸線',
+    color:'#F5C842',
+    svg:`<svg viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <circle cx="40" cy="40" r="27" stroke="#F5C842" stroke-width="2.5"/>
+      <circle cx="40" cy="40" r="3.5" fill="#F5C842"/>
+      <polygon points="40,14 35,40 45,40" fill="#F5C842"/>
+      <polygon points="40,66 35,40 45,40" fill="#F5C842" opacity="0.3"/>
+      <polygon points="14,40 40,35 40,45" fill="#F5C842" opacity="0.3"/>
+      <polygon points="66,40 40,35 40,45" fill="#F5C842" opacity="0.3"/>
+    </svg>`
+  },
+  {
+    min:25, max:44,
+    title:'環球探索者', sub:'地球上已有你的足跡',
+    color:'#F5C842',
+    svg:`<svg viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <circle cx="40" cy="40" r="25" stroke="#F5C842" stroke-width="2.5"/>
+      <ellipse cx="40" cy="40" rx="12" ry="25" stroke="#F5C842" stroke-width="1.5" opacity="0.45"/>
+      <line x1="15" y1="40" x2="65" y2="40" stroke="#F5C842" stroke-width="1.5" opacity="0.45"/>
+      <path d="M18 32 Q40 28 62 32" fill="none" stroke="#F5C842" stroke-width="1" opacity="0.3"/>
+      <path d="M18 48 Q40 52 62 48" fill="none" stroke="#F5C842" stroke-width="1" opacity="0.3"/>
+      <path d="M23 55 Q32 20 57 26" fill="none" stroke="#F5C842" stroke-width="2.5" stroke-linecap="round"/>
+      <circle cx="23" cy="55" r="3.5" fill="#F5C842"/>
+      <circle cx="57" cy="26" r="3.5" fill="#F5C842"/>
+    </svg>`
+  },
+  {
+    min:45, max:64,
+    title:'地平線獵手', sub:'世界的一半屬於你',
+    color:'#F5A840',
+    svg:`<svg viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <circle cx="22" cy="42" r="16" stroke="#F5A840" stroke-width="2.5"/>
+      <circle cx="58" cy="42" r="16" stroke="#F5A840" stroke-width="2.5"/>
+      <line x1="38" y1="35" x2="42" y2="35" stroke="#F5A840" stroke-width="3" stroke-linecap="round"/>
+      <line x1="38" y1="49" x2="42" y2="49" stroke="#F5A840" stroke-width="3" stroke-linecap="round"/>
+      <circle cx="22" cy="42" r="8" fill="#F5A840" fill-opacity="0.1" stroke="#F5A840" stroke-width="1.5" opacity="0.5"/>
+      <circle cx="58" cy="42" r="8" fill="#F5A840" fill-opacity="0.1" stroke="#F5A840" stroke-width="1.5" opacity="0.5"/>
+    </svg>`
+  },
+  {
+    min:65, max:84,
+    title:'傳奇旅行者', sub:'地圖上幾乎找不到空白',
+    color:'#F5A030',
+    svg:`<svg viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M10 62 L18 34 L28 52 L40 22 L52 52 L62 34 L70 62 Z" stroke="#F5A030" stroke-width="2.5" stroke-linejoin="round" fill="#F5A030" fill-opacity="0.09"/>
+      <line x1="10" y1="67" x2="70" y2="67" stroke="#F5A030" stroke-width="3" stroke-linecap="round"/>
+      <circle cx="40" cy="22" r="4.5" fill="#F5A030"/>
+      <circle cx="18" cy="34" r="3" fill="#F5A030"/>
+      <circle cx="62" cy="34" r="3" fill="#F5A030"/>
+      <line x1="40" y1="14" x2="40" y2="17" stroke="#F5A030" stroke-width="2" stroke-linecap="round" opacity="0.75"/>
+      <line x1="35" y1="16" x2="37" y2="18" stroke="#F5A030" stroke-width="1.5" stroke-linecap="round" opacity="0.6"/>
+      <line x1="45" y1="16" x2="43" y2="18" stroke="#F5A030" stroke-width="1.5" stroke-linecap="round" opacity="0.6"/>
+    </svg>`
+  },
+  {
+    min:85, max:99,
+    title:'地球守護者', sub:'你見過幾乎所有角落',
+    color:'#EE8822',
+    svg:`<svg viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <circle cx="40" cy="44" r="20" stroke="#EE8822" stroke-width="2.5"/>
+      <ellipse cx="40" cy="44" rx="10" ry="20" stroke="#EE8822" stroke-width="1.5" opacity="0.45"/>
+      <line x1="20" y1="44" x2="60" y2="44" stroke="#EE8822" stroke-width="1.5" opacity="0.45"/>
+      <ellipse cx="40" cy="40" rx="34" ry="12" stroke="#EE8822" stroke-width="1.5" stroke-dasharray="5 3" opacity="0.5" transform="rotate(-20 40 40)"/>
+      <circle cx="10" cy="28" r="3" fill="#EE8822"/>
+      <circle cx="70" cy="34" r="2.5" fill="#EE8822" opacity="0.85"/>
+      <circle cx="50" cy="11" r="2" fill="#EE8822" opacity="0.75"/>
+    </svg>`
+  },
+  {
+    min:100, max:100,
+    title:'地球解鎖者', sub:'恭喜！你完全解鎖了地球',
+    color:'#FFD700',
+    svg:`<svg viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <rect x="18" y="38" width="44" height="30" rx="6" stroke="#FFD700" stroke-width="2.5" fill="#FFD700" fill-opacity="0.07"/>
+      <path d="M29 38 V28 Q29 14 40 14 Q51 14 51 28 V22" stroke="#FFD700" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+      <circle cx="40" cy="55" r="5" stroke="#FFD700" stroke-width="2" fill="#FFD700" fill-opacity="0.2"/>
+      <line x1="40" y1="60" x2="40" y2="65" stroke="#FFD700" stroke-width="2.5" stroke-linecap="round"/>
+      <circle cx="62" cy="18" r="2.5" fill="#FFD700" opacity="0.9"/>
+      <circle cx="70" cy="30" r="1.5" fill="#FFD700" opacity="0.7"/>
+      <circle cx="67" cy="10" r="1.5" fill="#FFD700" opacity="0.65"/>
+    </svg>`
+  },
+];
+
+function getTier(pct) {
+  return TIERS.find(t => pct >= t.min && pct <= t.max) || TIERS[1];
+}
+
 let visitedMode = false;
 let visitedCountries = new Set(JSON.parse(localStorage.getItem('ute-visited') || '[]'));
 let countriesLayer = null;
@@ -1243,7 +1360,14 @@ function renderVisitedPanel() {
 function showVisitedOverlay() {
   const count = visitedCountries.size;
   const pct = Math.round(count / 195 * 100);
+  const tier = getTier(pct);
+
+  document.getElementById('visited-tier-illu').innerHTML = tier.svg;
+  document.getElementById('visited-tier-title').textContent = tier.title;
+  document.getElementById('visited-tier-title').style.color = tier.color;
+  document.getElementById('visited-tier-sub').textContent = tier.sub;
   document.getElementById('visited-pct-text').textContent = pct + '%';
+  document.getElementById('visited-pct-text').style.color = tier.color;
   document.getElementById('visited-stats-row').textContent = `你去過 ${count} 個國家 / 195 個`;
   const countries = getVisitedDetails();
   document.getElementById('visited-chips').innerHTML = countries.map(c =>
