@@ -1,0 +1,72 @@
+[
+  {
+    "name": "馬丘比丘",
+    "name_en": "Machu Picchu",
+    "lat": -13.163,
+    "lon": -72.545,
+    "country": "秘魯",
+    "region": "美洲",
+    "quote": "那我这趟秘鲁之行,其实就是最期待的马丘比丘",
+    "context": "講者原本秘魯之行最期待的目的地"
+  },
+  {
+    "name": "熱水鎮",
+    "name_en": "Aguas Calientes",
+    "lat": -13.155,
+    "lon": -72.525,
+    "country": "秘魯",
+    "region": "美洲",
+    "quote": "然后当时就其实有数百位游客,他就被困在马丘比丘山脚下的热水镇",
+    "context": "數百名遊客因政變與機場關閉被困的小鎮"
+  },
+  {
+    "name": "庫斯科機場",
+    "name_en": "Alejandro Velasco Astete International Airport",
+    "lat": -13.535,
+    "lon": -71.938,
+    "country": "秘魯",
+    "region": "美洲",
+    "quote": "随后呢,Cuzco的机场突然宣布关闭",
+    "context": "因政變抗議潮而宣布關閉，導致遊客受困"
+  },
+  {
+    "name": "墨西哥駐秘魯大使館",
+    "name_en": "Embassy of Mexico in Peru",
+    "lat": -12.097,
+    "lon": -77.036,
+    "country": "秘魯",
+    "region": "美洲",
+    "quote": "于是他们就决定驱车,先往墨西哥的驻秘鲁大使馆,先往那边逃",
+    "context": "前總統被彈劾後試圖尋求政治庇護的地點"
+  },
+  {
+    "name": "秘魯總統府",
+    "name_en": "Government Palace of Peru",
+    "lat": -12.045,
+    "lon": -77.03,
+    "country": "秘魯",
+    "region": "美洲",
+    "quote": "然后其实总统府外,也有一大批声势更庞大的压力",
+    "context": "前總統支持者聚集抗議施加壓力的地點"
+  },
+  {
+    "name": "國際法院（海牙法庭）",
+    "name_en": "International Court of Justice",
+    "lat": 52.087,
+    "lon": 4.296,
+    "country": "荷蘭",
+    "region": "歐洲",
+    "quote": "然后甚至在十年前的2014年,还闹上了荷兰的海牙法庭",
+    "context": "仲裁秘魯與智利之間領海主權爭議的機構"
+  },
+  {
+    "name": "阿塔加馬沙漠",
+    "name_en": "Atacama Desert",
+    "lat": -23.863,
+    "lon": -69.133,
+    "country": "智利",
+    "region": "美洲",
+    "quote": "那当时呢,就是鸟粪矿,然后其实它运藏上最丰富的地方,是在阿达嘎玛沙漠",
+    "context": "19世紀鳥糞戰爭中礦產豐富的爭議地區"
+  }
+]

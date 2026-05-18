@@ -1,0 +1,82 @@
+[
+  {
+    "name": "孟威村",
+    "name_en": "Muang Ngoi",
+    "lat": 20.707,
+    "lon": 102.613,
+    "country": "寮国",
+    "region": "亞洲",
+    "quote": "我就发现了一个很可爱的小村落 它叫孟威",
+    "context": "交通不便、尚未过度商业化的纯朴村落"
+  },
+  {
+    "name": "农桥",
+    "name_en": "Nong Khiaw",
+    "lat": 20.573,
+    "lon": 102.634,
+    "country": "寮国",
+    "region": "亞洲",
+    "quote": "那个地方要到农桥 应该就知道 很多人到",
+    "context": "前往孟威村的重要水路转运点"
+  },
+  {
+    "name": "梦峰（孟丰）",
+    "name_en": "Muang Feuang",
+    "lat": 18.508,
+    "lon": 101.972,
+    "country": "寮国",
+    "region": "亞洲",
+    "quote": "还有到一个地方叫梦峰 但那里是大家都住在水上",
+    "context": "被包装成水上人家，实际已过度观光化的景点"
+  },
+  {
+    "name": "旺阳潟湖",
+    "name_en": "Blue Lagoon",
+    "lat": 18.926,
+    "lon": 102.395,
+    "country": "寮国",
+    "region": "亞洲",
+    "quote": "他可以骑机车 然后他有很多细湖",
+    "context": "旺阳郊外值得骑机车前往的自然风景区"
+  },
+  {
+    "name": "金三角",
+    "name_en": "Golden Triangle",
+    "lat": 20.353,
+    "lon": 100.082,
+    "country": "泰国",
+    "region": "亞洲",
+    "quote": "我就从泰国 然后有个金三角那边进去",
+    "context": "讲者第一次前往寮国的边界入口"
+  },
+  {
+    "name": "清孔",
+    "name_en": "Chiang Khong",
+    "lat": 20.261,
+    "lon": 100.404,
+    "country": "泰国",
+    "region": "亞洲",
+    "quote": "跨越妹公河 然后到青莱对不对 青孔那边",
+    "context": "从寮国搭船越过湄公河抵达泰国的边境城镇"
+  },
+  {
+    "name": "大熊鼠图书室",
+    "name_en": "Big Brother Mouse",
+    "lat": 19.892,
+    "lon": 102.142,
+    "country": "寮国",
+    "region": "亞洲",
+    "quote": "它好像叫什么 English Mouth 还是什么的",
+    "context": "龙坡邦当地让外国旅客与当地小孩练习英文的机构"
+  },
+  {
+    "name": "国立自然科学博物馆",
+    "name_en": "National Museum of Natural Science",
+    "lat": 24.157,
+    "lon": 120.666,
+    "country": "台湾",
+    "region": "亞洲",
+    "quote": "像我们台中的话 就是科学博物馆",
+    "context": "讲者举例适合带孩子去学习与互动的在地场馆"
+  }
+]

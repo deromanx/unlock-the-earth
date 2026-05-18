@@ -1,0 +1,125 @@
+[
+  {
+    "name": "奇琴伊察",
+    "name_en": "Chichen Itza",
+    "lat": 20.684,
+    "lon": -88.567,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "奇形一場嘛，應該算是瑪雅目前遺跡中單一最大是不是還是怎樣。",
+    "context": "瑪雅後古典時期的巔峰代表性遺跡，世界七大奇景之一。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/El_Castillo_Stitch_2008_Edit_1.jpg/330px-El_Castillo_Stitch_2008_Edit_1.jpg"
+  },
+  {
+    "name": "雨蛇神聖廟",
+    "name_en": "Temple of Kukulcan",
+    "lat": 20.683,
+    "lon": -88.568,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "就是雨蛇神聖廟，不曉得之前有沒有來賓分享過，它其實建造的非常的去運用科技來去建造它。",
+    "context": "奇琴伊察核心金字塔，利用天文科技打造春秋分的光影奇觀。"
+  },
+  {
+    "name": "圖倫",
+    "name_en": "Tulum",
+    "lat": 20.215,
+    "lon": -87.429,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "也是蠻有名的這個旅遊聖地的瑪雅遺址，叫做圖倫。",
+    "context": "建在沿海地區的瑪雅遺址，具備眺望大海的獨特景觀。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Tulum_2.jpg/330px-Tulum_2.jpg"
+  },
+  {
+    "name": "圖倫風神廟",
+    "name_en": "Temple of the God of Winds",
+    "lat": 20.216,
+    "lon": -87.428,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "它裡面有一個風神廟，那據說這個風神廟它是有這個警哨的功能。",
+    "context": "傳說具備颶風預警功能的建築，風大時會發出聲響。"
+  },
+  {
+    "name": "奇琴伊察聖井 (熔岩洞)",
+    "name_en": "Sacred Cenote",
+    "lat": 20.687,
+    "lon": -88.567,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "如果你去齊秦依查的話，這個園區它裡面其實就有一個熔岩洞，那這個就是他們活人獻祭的地方。",
+    "context": "瑪雅文明神聖的天然石灰岩洞，用於活人獻祭儀式。"
+  },
+  {
+    "name": "特諾奇提特蘭",
+    "name_en": "Tenochtitlan",
+    "lat": 19.433,
+    "lon": -99.133,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "創建了這個湖中央的一個水中威尼斯，叫做特諾奇迪特蘭。",
+    "context": "阿茲特克帝國的首都，建於特斯科科湖中央的水中城市。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Painting_of_Tenochtitlan-Tlatelolco_on_Lake_Texcoco_%289755215791%29.jpg/330px-Painting_of_Tenochtitlan-Tlatelolco_on_Lake_Texcoco_%289755215791%29.jpg"
+  },
+  {
+    "name": "墨西哥城憲法廣場",
+    "name_en": "Zocalo (Plaza de la Constitución)",
+    "lat": 19.432,
+    "lon": -99.133,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "在那邊可以看到呢？就是在墨西哥市的舊城區它的縣府廣場那邊。",
+    "context": "墨西哥市中心廣場，原為阿茲特克儀式中心。"
+  },
+  {
+    "name": "墨西哥城主教座堂",
+    "name_en": "Mexico City Metropolitan Cathedral",
+    "lat": 19.434,
+    "lon": -99.133,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "那這個主教堂底下其實就是曾經的阿茲特克的遺跡。",
+    "context": "西班牙殖民者在阿茲特克遺跡上建立的巨大主教座堂。"
+  },
+  {
+    "name": "大神廟",
+    "name_en": "Templo Mayor",
+    "lat": 19.435,
+    "lon": -99.131,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "可以看到Tenocity Land的一個大祖神廟呢，就是在這個祖教堂它的北邊。",
+    "context": "阿茲特克帝國最核心的神廟遺跡，現存於墨西哥市舊城區。"
+  },
+  {
+    "name": "日月神廟 (特奧蒂瓦坎)",
+    "name_en": "Pyramids of the Sun and Moon (Teotihuacan)",
+    "lat": 19.692,
+    "lon": -98.843,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "另外還蠻多旅行團可能會去參加這個日月神廟。",
+    "context": "古老的特奧蒂瓦坎文明遺址，後被阿茲特克文明吸收。"
+  },
+  {
+    "name": "韋拉克魯斯",
+    "name_en": "Veracruz",
+    "lat": 19.173,
+    "lon": -96.134,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "就是在墨西哥中部，那這個是Velacruz海港登陸。",
+    "context": "西班牙征服者科爾特斯最初在墨西哥登陸的海港。"
+  },
+  {
+    "name": "坎昆",
+    "name_en": "Cancun",
+    "lat": 21.161,
+    "lon": -86.851,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "那這個士兵呢，他之前曾經在坎昆的外海遭遇傳難。",
+    "context": "現代著名度假聖地，也是早期西班牙士兵遇難獲救之地。"
+  }
+]

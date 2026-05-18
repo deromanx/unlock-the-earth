@@ -1,0 +1,33 @@
+[
+  {
+    "name": "提拉納碉堡博物館",
+    "name_en": "Bunk'Art Museum",
+    "lat": 41.349,
+    "lon": 19.861,
+    "country": "阿爾巴尼亞",
+    "region": "歐洲",
+    "quote": "我在阿尔巴尼亚的首都Tirana的一个碉堡博物馆里面还有看到的一些历史相关资料",
+    "context": "來賓在此看到共產時期受迫害的歷史統計資料"
+  },
+  {
+    "name": "烏斯懷亞",
+    "name_en": "Ushuaia",
+    "lat": -54.801,
+    "lon": -68.303,
+    "country": "阿根廷",
+    "region": "美洲",
+    "quote": "一路走到阿根廷的乌斯淮亚，然后从乌斯淮亚再搭船",
+    "context": "來賓計畫搭船前往南極洲的起點城市",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Ushuaia_aerial_panorama.jpg/330px-Ushuaia_aerial_panorama.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "加拉巴哥群島",
+    "name_en": "Galápagos Islands",
+    "lat": -0.823,
+    "lon": -91.1,
+    "country": "厄瓜多",
+    "region": "美洲",
+    "quote": "我去加拉巴尔丘寻岛潜水，然后那边遇到一对德国情侣",
+    "context": "來賓在此潛水並遇到推薦阿爾巴尼亞的旅客"
+  }
+]

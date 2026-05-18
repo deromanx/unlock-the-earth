@@ -1,0 +1,83 @@
+[
+  {
+    "name": "黃刀鎮",
+    "name_en": "Yellowknife",
+    "lat": 62.454,
+    "lon": -114.371,
+    "country": "加拿大",
+    "region": "美洲",
+    "quote": "我就挑那些知名的极光小镇 什么黄刀镇啊什么",
+    "context": "被提及為知名的追極光地點"
+  },
+  {
+    "name": "康克魯斯瓦格 (Kangaloose Walk)",
+    "name_en": "Kangerlussuaq",
+    "lat": 67.008,
+    "lon": -50.689,
+    "country": "格陵蘭",
+    "region": "極地",
+    "quote": "西南角的话 最大的城市叫做Kangaloose Walk",
+    "context": "氣候最穩定，是進入格陵蘭的主要門戶"
+  },
+  {
+    "name": "伊盧利薩特 (Illulisat)",
+    "name_en": "Ilulissat",
+    "lat": 69.216,
+    "lon": -51.1,
+    "country": "格陵蘭",
+    "region": "極地",
+    "quote": "往北的话 是另外一个非常知名的旅游城市叫Illulisat",
+    "context": "擁有世界最大的冰川與峽灣地形",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/The_colors_from_Ilulissat_-_Greenland._-_panoramio.jpg/330px-The_colors_from_Ilulissat_-_Greenland._-_panoramio.jpg"
+  },
+  {
+    "name": "努克 (Nuke)",
+    "name_en": "Nuuk",
+    "lat": 64.181,
+    "lon": -51.694,
+    "country": "格陵蘭",
+    "region": "極地",
+    "quote": "往南的话 就是格林兰的首都 就是Nuke",
+    "context": "格陵蘭首都，集結較多文化與人文"
+  },
+  {
+    "name": "660高地 (Point 66)",
+    "name_en": "Point 660",
+    "lat": 67.153,
+    "lon": -50.026,
+    "country": "格陵蘭",
+    "region": "極地",
+    "quote": "它最有名就是Icecap跟Point 66",
+    "context": "可直接走到格陵蘭冰蓋邊緣的著名景點"
+  },
+  {
+    "name": "格陵蘭冰蓋 (Icecap)",
+    "name_en": "Greenland Ice Sheet",
+    "lat": 67.166,
+    "lon": -50.0,
+    "country": "格陵蘭",
+    "region": "極地",
+    "quote": "它最有名就是Icecap跟Point 66",
+    "context": "世界第二大冰蓋，旅客可直接走在上方"
+  },
+  {
+    "name": "高雄港",
+    "name_en": "Kaohsiung Harbor",
+    "lat": 22.616,
+    "lon": 120.27,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "其实Illulisat 它是就是一个 想象成高雄海港",
+    "context": "講者用來比喻伊盧利薩特的峽灣地形"
+  },
+  {
+    "name": "市民大道",
+    "name_en": "Civic Boulevard",
+    "lat": 25.048,
+    "lon": 121.531,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "市民大道两条的宽度",
+    "context": "講者用來比喻站在冰蓋邊緣的安全視覺距離"
+  }
+]

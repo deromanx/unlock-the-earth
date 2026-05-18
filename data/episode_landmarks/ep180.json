@@ -1,0 +1,22 @@
+[
+  {
+    "name": "法魯克醫療城",
+    "name_en": "Faruk Medical City",
+    "lat": 35.584,
+    "lon": 45.418,
+    "country": "伊拉克",
+    "region": "亞洲",
+    "quote": "私立醫院它就超爆有錢，因為私立醫院是當地最大貴族醫院，最大電信公司開的醫院",
+    "context": "蘇萊曼尼亞最大的頂級私立醫院，設施豪華如飯店。"
+  },
+  {
+    "name": "伊朗-伊拉克邊境水溝 (Tawila 附近)",
+    "name_en": "Iran-Iraq Border (near Tawila)",
+    "lat": 35.202,
+    "lon": 46.175,
+    "country": "伊拉克",
+    "region": "亞洲",
+    "quote": "我一腳踏在伊朗，一腳踏在伊拉克...那裡算是一個觀光聖地",
+    "context": "兩國邊界的特殊觀光點，遊客可跨越小水溝拍照。"
+  }
+]

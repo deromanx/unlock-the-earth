@@ -1,0 +1,74 @@
+[
+  {
+    "name": "大英博物館",
+    "name_en": "British Museum",
+    "lat": 51.519,
+    "lon": -0.127,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "首先參觀的是大英博物館，英文叫做British Museum",
+    "context": "位於布盧姆斯伯里的世界著名博物館。"
+  },
+  {
+    "name": "布盧姆斯伯里",
+    "name_en": "Bloomsbury",
+    "lat": 51.526,
+    "lon": -0.126,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "就在布盧姆斯伯里這個地區。",
+    "context": "大英博物館所在的倫敦學術與文化區。"
+  },
+  {
+    "name": "特拉法加廣場",
+    "name_en": "Trafalgar Square",
+    "lat": 51.508,
+    "lon": -0.128,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "然後我們走到了特拉法加廣場，Trafalgar Square",
+    "context": "倫敦市中心的著名公共廣場。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Trafalgar_Square%2C_London_2_-_Jun_2009.jpg/330px-Trafalgar_Square%2C_London_2_-_Jun_2009.jpg"
+  },
+  {
+    "name": "納爾遜紀念柱",
+    "name_en": "Nelson's Column",
+    "lat": 51.507,
+    "lon": -0.127,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "這裡有納爾遜紀念柱，非常壯觀。",
+    "context": "位於特拉法加廣場中心的紀念性建築。"
+  },
+  {
+    "name": "倫敦眼",
+    "name_en": "London Eye",
+    "lat": 51.503,
+    "lon": -0.119,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "看到了倫敦眼，London Eye",
+    "context": "泰晤士河南岸的巨大摩天輪地標。"
+  },
+  {
+    "name": "威斯敏斯特橋",
+    "name_en": "Westminster Bridge",
+    "lat": 51.5,
+    "lon": -0.124,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "還有威斯敏斯特橋。",
+    "context": "橫跨泰晤士河、連結議會大廈的拱橋。"
+  },
+  {
+    "name": "布里克斯頓",
+    "name_en": "Brixton",
+    "lat": 51.461,
+    "lon": -0.115,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "下午我們去了布里克斯頓，Brixton，這是倫敦著名的加勒比海社區",
+    "context": "倫敦南部具代表性的多文化社區。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lambeth_Town_Hall_%288715334040%29.jpg/330px-Lambeth_Town_Hall_%288715334040%29.jpg"
+  }
+]

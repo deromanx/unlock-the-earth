@@ -1,0 +1,75 @@
+[
+  {
+    "name": "馬賽馬拉國家保護區",
+    "name_en": "Maasai Mara National Reserve",
+    "lat": -1.483,
+    "lon": 35.143,
+    "country": "肯亞",
+    "region": "非洲",
+    "quote": "在馬賽馬拉應該很多 馬賽馬拉基本上全都是啊 剛剛就好幾台車 那每一個人都六 都有五六個人",
+    "context": "肯亞著名的國家保護區，講者在此觀察獅子、獵豹等野生動物的行為。"
+  },
+  {
+    "name": "莫希",
+    "name_en": "Moshi",
+    "lat": -3.348,
+    "lon": 37.34,
+    "country": "坦尚尼亞",
+    "region": "非洲",
+    "quote": "去坦尚尼亞的Moshi Moshi Moshi這個一個城鎮 就是很多人去Kiri Manjaro山",
+    "context": "位於吉力馬札羅山腳下的城鎮，是登山者的主要集散與休息據點。"
+  },
+  {
+    "name": "吉力馬札羅山",
+    "name_en": "Mount Kilimanjaro",
+    "lat": -3.067,
+    "lon": 37.355,
+    "country": "坦尚尼亞",
+    "region": "非洲",
+    "quote": "就是很多人去Kiri Manjaro山 可以坐最高峰的時候 會在這個鎮裡面 開始休息幾天",
+    "context": "非洲最高峰，講者曾在此考慮是否花費千元美金攀登，最後因價格放棄。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Kilimanjaro_from_Amboseli.jpg/330px-Kilimanjaro_from_Amboseli.jpg"
+  },
+  {
+    "name": "三累斯薩拉姆 (山南港)",
+    "name_en": "Dar es Salaam",
+    "lat": -6.792,
+    "lon": 39.203,
+    "country": "坦尚尼亞",
+    "region": "非洲",
+    "quote": "後來就直接 就在坐車去山南港 山南港 他是在坦尚尼亞靠海的地方",
+    "context": "坦尚尼亞最大城市與港口，講者在此停留數週辦理美簽，並觀察到賭場文化。"
+  },
+  {
+    "name": "桑吉巴島",
+    "name_en": "Zanzibar",
+    "lat": -6.137,
+    "lon": 39.362,
+    "country": "坦尚尼亞",
+    "region": "非洲",
+    "quote": "他跟一個島 滿滿近的叫做 山吉巴島 山吉巴 OK 我不是罵髒話 是真的",
+    "context": "著名的度假海島，具有豐富的伊斯蘭文化歷史，講者在此度假回血一週。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Zanzibar.svg/330px-Flag_of_Zanzibar.svg.png"
+  },
+  {
+    "name": "石頭鎮",
+    "name_en": "Stone Town",
+    "lat": -6.165,
+    "lon": 39.192,
+    "country": "坦尚尼亞",
+    "region": "非洲",
+    "quote": "三七八有石頭鎮 就是他們 那個主要的鎮 還有一些 以前的一些文化的東西",
+    "context": "桑吉巴島上的歷史核心城區，是島上最具文化看點的地區。"
+  },
+  {
+    "name": "坦贊鐵路",
+    "name_en": "TAZARA Railway",
+    "lat": -6.828,
+    "lon": 39.245,
+    "country": "坦尚尼亞",
+    "region": "非洲",
+    "quote": "我拿到美國簽證後 我馬上去買 坦上鐵路的火車票 鐵路火車票 就坦上尼亞跟桑比亞 直接的火車",
+    "context": "連接坦尚尼亞與尚比亞的跨國鐵路，講者搭乘四天三夜橫跨東非。",
+    "image": "https://upload.wikimedia.org/wikipedia/en/b/b7/TAZARA_Logo.png"
+  }
+]

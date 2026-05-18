@@ -1,0 +1,45 @@
+[
+  {
+    "name": "台北車站",
+    "name_en": "Taipei Main Station",
+    "lat": 25.047,
+    "lon": 121.517,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "那一次我还记得 我们在一个录音室 在北车那边",
+    "context": "主持人與來賓過去錄製熱門集數「墨西哥」時的錄音室所在地點。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/TRA_Taipei_Station_and_Zhongxiao_West_Road_at_night_20210115.jpg/330px-TRA_Taipei_Station_and_Zhongxiao_West_Road_at_night_20210115.jpg"
+  },
+  {
+    "name": "海德堡",
+    "name_en": "Heidelberg",
+    "lat": 49.398,
+    "lon": 8.672,
+    "country": "德國",
+    "region": "歐洲",
+    "quote": "我在德国生活过两年 也是心有七七烟啊 对 如果在德国海德堡的街头有一间7-11",
+    "context": "主持人曾居住的德國城市，用來對比歐洲與台灣生活機能的極大差異。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/K%C3%B6nigstuhl%2C_Heidelberg%2C_U-17.jpg/330px-K%C3%B6nigstuhl%2C_Heidelberg%2C_U-17.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "阿姆斯特丹",
+    "name_en": "Amsterdam",
+    "lat": 52.367,
+    "lon": 4.904,
+    "country": "荷蘭",
+    "region": "歐洲",
+    "quote": "但是在Amsterdam的话 有很多外国人去那边工作",
+    "context": "來賓米卡目前定居的城市，討論其國際化背景與語言使用的現況。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Imagen_de_los_canales_conc%C3%A9ntricos_en_%C3%81msterdam.png/330px-Imagen_de_los_canales_conc%C3%A9ntricos_en_%C3%81msterdam.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "錢櫃 KTV",
+    "name_en": "Cashbox KTV",
+    "lat": 25.046,
+    "lon": 121.524,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "特别周末的时候 你们经过前柜 哇超多人在外面",
+    "context": "提及台灣豐富夜生活的代表性地點，與歐洲早關門的商店作對比。"
+  }
+]

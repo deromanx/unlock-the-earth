@@ -1,0 +1,53 @@
+[
+  {
+    "name": "星宿海青年旅館 (Star Hostel)",
+    "name_en": "Star Hostel",
+    "lat": 25.05,
+    "lon": 121.516,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "你知道我在Star Hostel那边 路过一段时间赢",
+    "context": "主持人提到早期曾在此處錄音。"
+  },
+  {
+    "name": "烏斯懷亞",
+    "name_en": "Ushuaia",
+    "lat": -54.801,
+    "lon": -68.302,
+    "country": "阿根廷",
+    "region": "美洲",
+    "quote": "大家经常去那个呃 乌斯怀亚 对 乌斯怀亚 去到南京那边",
+    "context": "許多旅客會前往的南部城市，作為搭船前往南極的起點。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Ushuaia_aerial_panorama.jpg/330px-Ushuaia_aerial_panorama.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "伊瓜蘇瀑布",
+    "name_en": "Iguazu Falls",
+    "lat": -25.695,
+    "lon": -54.436,
+    "country": "阿根廷",
+    "region": "美洲",
+    "quote": "就是刚讲到那个大瀑布 伊瓜苏",
+    "context": "位於阿根廷北部的著名大瀑布景點。"
+  },
+  {
+    "name": "巴塔哥尼亞國家公園",
+    "name_en": "Patagonia National Park",
+    "lat": -47.114,
+    "lon": -72.485,
+    "country": "阿根廷",
+    "region": "美洲",
+    "quote": "它还有一个很著名的 一个公园 叫做 Patagonia 那个国家公园",
+    "context": "阿根廷南部著名的國家公園，為熱門的徒步旅行地點。"
+  },
+  {
+    "name": "阿根廷國家藝術大學",
+    "name_en": "National University of the Arts",
+    "lat": -34.594,
+    "lon": -58.373,
+    "country": "阿根廷",
+    "region": "美洲",
+    "quote": "他们是旁边的一所 阿根廷艺术类大学",
+    "context": "當地藝術學生抗議政府因經濟因素可能關閉該校。"
+  }
+]

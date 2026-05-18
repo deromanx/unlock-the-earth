@@ -1,0 +1,111 @@
+[
+  {
+    "name": "台中市議會",
+    "name_en": "Taichung City Council",
+    "lat": 24.15,
+    "lon": 120.643,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "带民众透过台中议会议事流程，台中地方派系等主题，成为共同监督市政的公民",
+    "context": "節目開頭提到監督地方市政與議會的重要性。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Taichung_City_Council_2024.svg/330px-Taichung_City_Council_2024.svg.png"
+  },
+  {
+    "name": "凡城",
+    "name_en": "Van",
+    "lat": 38.501,
+    "lon": 43.372,
+    "country": "土耳其",
+    "region": "亞洲",
+    "quote": "拿了之后立刻去到边境的另一个城市叫做Van，就是土耳其跟伊朗边境的",
+    "context": "講者從土耳其陸路進入伊朗前的最後一個邊境城市。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/2018_Ford_Transit_Custom_300_Base_2.0_facelift.jpg/330px-2018_Ford_Transit_Custom_300_Base_2.0_facelift.jpg"
+  },
+  {
+    "name": "大不里士",
+    "name_en": "Tabriz",
+    "lat": 38.08,
+    "lon": 46.291,
+    "country": "伊朗",
+    "region": "亞洲",
+    "quote": "大布里市是离Van比较近的一个大城市，它这是以前一个私路的一个中继站",
+    "context": "講者進入伊朗後的第一站，具有深厚的絲路歷史與突厥文化。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Tabriz_Municipality_Sa%27at_Tower.jpg/330px-Tabriz_Municipality_Sa%27at_Tower.jpg"
+  },
+  {
+    "name": "大不里士藍色清真寺",
+    "name_en": "Blue Mosque, Tabriz",
+    "lat": 38.073,
+    "lon": 46.301,
+    "country": "伊朗",
+    "region": "亞洲",
+    "quote": "看了一些他们的一个蓝色清真寺，我觉得很漂亮，他那瓷砖是一片一片贴",
+    "context": "大不里士著名的清真寺，以精美的藍色瓷磚拼貼藝術聞名。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Blue_Mosque_%28Tabriz%29_General_view.jpg/330px-Blue_Mosque_%28Tabriz%29_General_view.jpg"
+  },
+  {
+    "name": "大不里士大市集",
+    "name_en": "Tabriz Bazaar",
+    "lat": 38.08,
+    "lon": 46.292,
+    "country": "伊朗",
+    "region": "亞洲",
+    "quote": "还有他们的那个很古老的那个Bazaar市集，也是蛮大的，很有趣",
+    "context": "絲路古文化遺留的大型市集，建築設計與天井非常漂亮。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Mozaffariyeh%2C_Grand_Bazzar_of_Tabriz%2C_IRAN.jpg/330px-Mozaffariyeh%2C_Grand_Bazzar_of_Tabriz%2C_IRAN.jpg"
+  },
+  {
+    "name": "詩人陵園",
+    "name_en": "Mausoleum of Poets",
+    "lat": 38.084,
+    "lon": 46.302,
+    "country": "伊朗",
+    "region": "亞洲",
+    "quote": "去完蓝色清真寺之后，他说他想要去一个地方，一个诗人的墓",
+    "context": "大不里士的文化地標，講者在此感受到伊朗人的熱情好客。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Maghbaratolshoara_Tabriz%2C_Iran.jpg/330px-Maghbaratolshoara_Tabriz%2C_Iran.jpg"
+  },
+  {
+    "name": "哈馬丹",
+    "name_en": "Hamadan",
+    "lat": 34.798,
+    "lon": 48.514,
+    "country": "伊朗",
+    "region": "亞洲",
+    "quote": "我就去了一个城市叫做哈马丹，他原本要去那边看是因为看到他们有一个景点",
+    "context": "伊朗古城，講者提及那裡有類似美國總統石雕的大峭壁石雕。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Hamedan_13971219000404636878130198589248_82460_PhotoT.jpg/330px-Hamedan_13971219000404636878130198589248_82460_PhotoT.jpg"
+  },
+  {
+    "name": "設拉子",
+    "name_en": "Shiraz",
+    "lat": 29.591,
+    "lon": 52.583,
+    "country": "伊朗",
+    "region": "亞洲",
+    "quote": "跑去一个地方叫色拉子，玫瑰城吧，以前种很多玫瑰",
+    "context": "伊朗南部的經典旅遊城市，被稱為玫瑰之城。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Darvaze_Ghoran11.jpg/330px-Darvaze_Ghoran11.jpg"
+  },
+  {
+    "name": "波斯波利斯",
+    "name_en": "Persepolis",
+    "lat": 29.935,
+    "lon": 52.891,
+    "country": "伊朗",
+    "region": "亞洲",
+    "quote": "去看他们经典一个大遗迹叫做波士波里斯，就是以前波士帝国古代的时候的一个首都",
+    "context": "波斯帝國最具代表性的古代遺址，距今已有2500年歷史。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Gate_of_All_Nations%2C_Persepolis.jpg/330px-Gate_of_All_Nations%2C_Persepolis.jpg"
+  },
+  {
+    "name": "萬國門",
+    "name_en": "Gate of All Nations",
+    "lat": 29.936,
+    "lon": 52.89,
+    "country": "伊朗",
+    "region": "亞洲",
+    "quote": "一进去就会看到一个很大的一个门，这个地方叫做万国门",
+    "context": "波斯波利斯遺址中的壯觀入口，是古代各國朝貢必經之地。"
+  }
+]

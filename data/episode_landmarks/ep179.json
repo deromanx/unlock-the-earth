@@ -1,0 +1,118 @@
+[
+  {
+    "name": "南竿",
+    "name_en": "Nangan",
+    "lat": 26.158,
+    "lon": 119.929,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "我現在碰到那個有一個在南竿的",
+    "context": "提到另一位來賓鏡虹目前的工作地點。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/%E5%8D%97%E7%AB%BF%E5%A4%A9%E5%90%8E%E5%AE%AE.JPG/330px-%E5%8D%97%E7%AB%BF%E5%A4%A9%E5%90%8E%E5%AE%AE.JPG?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "艾比爾",
+    "name_en": "Erbil",
+    "lat": 36.191,
+    "lon": 44.009,
+    "country": "伊拉克",
+    "region": "亞洲",
+    "quote": "你可以飛艾比爾，對，然後可以去他附近三個大城市玩一玩",
+    "context": "庫德斯坦自治區的首府，也是進入北伊拉克的門戶。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Shar_Park%2C_Hawler%2C_Erbil_Governorate%2C_Iraq.jpg/330px-Shar_Park%2C_Hawler%2C_Erbil_Governorate%2C_Iraq.jpg"
+  },
+  {
+    "name": "巴比倫飯店",
+    "name_en": "Babylon Warwick Hotel",
+    "lat": 33.298,
+    "lon": 44.385,
+    "country": "伊拉克",
+    "region": "亞洲",
+    "quote": "我那時候是住，算是他們最好的飯店叫巴比倫飯店",
+    "context": "位於巴格達，安檢極嚴，是許多政要與外籍工程師的居住地。",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/60/Babylon_Warwick_Hotel_in_Baghdad%2C_Iraq_2016.jpg/330px-Babylon_Warwick_Hotel_in_Baghdad%2C_Iraq_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "拿捷夫",
+    "name_en": "Najaf",
+    "lat": 31.992,
+    "lon": 44.351,
+    "country": "伊拉克",
+    "region": "亞洲",
+    "quote": "實業派他們的聖地有三個，一個是在伊朗，兩個在伊拉克，就是拿捷夫跟卡拉巴赫",
+    "context": "什葉派聖地，是第一任哈里發阿里的埋葬地。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Shrine_of_Imam_Ali_Najaf_August_2023.jpg/330px-Shrine_of_Imam_Ali_Najaf_August_2023.jpg"
+  },
+  {
+    "name": "卡拉巴赫",
+    "name_en": "Karbala",
+    "lat": 32.616,
+    "lon": 44.024,
+    "country": "伊拉克",
+    "region": "亞洲",
+    "quote": "卡拉巴赫是因為就是阿里他兒子 Hossain 死在那裡就對了",
+    "context": "什葉派聖地，指卡爾巴拉，為阿里之子海珊戰死殉教之地。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Karbala_City_3.jpg/330px-Karbala_City_3.jpg"
+  },
+  {
+    "name": "巴比倫古城",
+    "name_en": "Ancient City of Babylon",
+    "lat": 32.543,
+    "lon": 44.424,
+    "country": "伊拉克",
+    "region": "亞洲",
+    "quote": "第一站我就到了巴比倫，喔巴比倫，就是古巴比倫那個",
+    "context": "著名的美索不達米亞文明遺址，位於巴格達南方。"
+  },
+  {
+    "name": "巴比倫門",
+    "name_en": "Ishtar Gate",
+    "lat": 32.544,
+    "lon": 44.422,
+    "country": "伊拉克",
+    "region": "亞洲",
+    "quote": "巴比倫最大就是，一個巴比倫門跟他的圍牆",
+    "context": "巴比倫遺址中最著名的標誌性建築物入口。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Berl%C3%ADn%2C_Museo_de_P%C3%A9rgamo_05.jpg/330px-Berl%C3%ADn%2C_Museo_de_P%C3%A9rgamo_05.jpg"
+  },
+  {
+    "name": "巴比倫空中花園",
+    "name_en": "Hanging Gardens of Babylon",
+    "lat": 32.542,
+    "lon": 44.421,
+    "country": "伊拉克",
+    "region": "亞洲",
+    "quote": "巴比倫空中花園，現在還有空中花園可以看嗎，好像還在那個重建中",
+    "context": "古代世界七大奇蹟之一，傳說中的巴比倫標誌建築。"
+  },
+  {
+    "name": "薩達姆·海珊行宮",
+    "name_en": "Saddam Hussein's Palace (Babylon)",
+    "lat": 32.538,
+    "lon": 44.42,
+    "country": "伊拉克",
+    "region": "亞洲",
+    "quote": "海珊那時候其實他在統治伊拉克的時候，他蓋了很多他自己的別墅",
+    "context": "前獨裁者海珊在古代巴比倫遺址旁建造的豪華行宮。"
+  },
+  {
+    "name": "巴比倫圍牆",
+    "name_en": "Walls of Babylon",
+    "lat": 32.543,
+    "lon": 44.425,
+    "country": "伊拉克",
+    "region": "亞洲",
+    "quote": "巴比倫最大就是，一個巴比倫門跟他的圍牆",
+    "context": "古巴比倫城的城牆遺址，與城門共同構成景點主體。"
+  },
+  {
+    "name": "巴比倫之獅",
+    "name_en": "Lion of Babylon",
+    "lat": 32.542,
+    "lon": 44.423,
+    "country": "伊拉克",
+    "region": "亞洲",
+    "quote": "還有他兩頭獅子，巴比倫的兩頭獅子，他要把它復原起來",
+    "context": "巴比倫古遺址內的代表性石雕，象徵古代王權。"
+  }
+]

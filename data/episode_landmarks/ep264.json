@@ -1,0 +1,43 @@
+[
+  {
+    "name": "金字塔",
+    "name_en": "Giza Pyramids",
+    "lat": 29.979,
+    "lon": 31.134,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "人生清單不就是什麼 看金字塔看極光",
+    "context": "被舉例為常見的人生必去景點清單之一",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Pyramids_of_the_Giza_Necropolis.jpg/330px-Pyramids_of_the_Giza_Necropolis.jpg"
+  },
+  {
+    "name": "馬丘比丘",
+    "name_en": "Machu Picchu",
+    "lat": -13.163,
+    "lon": -72.545,
+    "country": "秘魯",
+    "region": "美洲",
+    "quote": "然後還有什麼 去馬丘比丘之類的嗎",
+    "context": "被舉例為常見的人生必去景點清單之一"
+  },
+  {
+    "name": "黃刀鎮",
+    "name_en": "Yellowknife",
+    "lat": 62.454,
+    "lon": -114.372,
+    "country": "加拿大",
+    "region": "美洲",
+    "quote": "然後再去黃刀鎮 然後再去回到溫哥華",
+    "context": "主角們前往加拿大觀賞極光的主要目的地"
+  },
+  {
+    "name": "白馬市",
+    "name_en": "Whitehorse",
+    "lat": 60.721,
+    "lon": -135.057,
+    "country": "加拿大",
+    "region": "美洲",
+    "quote": "在那個玉空白馬那邊住",
+    "context": "朋友居住及推薦前往體驗的極光景點"
+  }
+]

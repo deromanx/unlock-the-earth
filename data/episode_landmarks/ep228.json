@@ -1,0 +1,93 @@
+[
+  {
+    "name": "杜拜國際機場",
+    "name_en": "Dubai International Airport",
+    "lat": 25.253,
+    "lon": 55.365,
+    "country": "阿拉伯聯合大公國",
+    "region": "亞洲",
+    "quote": "我机场就很大 很大 如同大家想象的杜拜的机场一样",
+    "context": "討論初次造訪杜拜的機場印象"
+  },
+  {
+    "name": "哈里發塔",
+    "name_en": "Burj Khalifa",
+    "lat": 25.197,
+    "lon": 55.274,
+    "country": "阿拉伯聯合大公國",
+    "region": "亞洲",
+    "quote": "因为哈里发塔大概20072008才盖好",
+    "context": "討論杜拜地標與金融危機的命名歷史",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Burj_Khalifa_%28worlds_tallest_building%29_and_the_Dubai_skyline_%2825781049892%29.jpg/330px-Burj_Khalifa_%28worlds_tallest_building%29_and_the_Dubai_skyline_%2825781049892%29.jpg"
+  },
+  {
+    "name": "棕櫚島",
+    "name_en": "Palm Islands",
+    "lat": 25.112,
+    "lon": 55.139,
+    "country": "阿拉伯聯合大公國",
+    "region": "亞洲",
+    "quote": "那什么棕榈岛 对对对 世界群岛 很炫炮",
+    "context": "討論杜拜知名的人造島嶼計畫"
+  },
+  {
+    "name": "世界群島",
+    "name_en": "The World Islands",
+    "lat": 25.216,
+    "lon": 55.166,
+    "country": "阿拉伯聯合大公國",
+    "region": "亞洲",
+    "quote": "那什么棕榈岛 对对对 世界群岛 很炫炮",
+    "context": "杜拜著名但鮮少人買的填海造陸計畫"
+  },
+  {
+    "name": "謝赫扎耶德路",
+    "name_en": "Sheikh Zayed Road",
+    "lat": 25.204,
+    "lon": 55.27,
+    "country": "阿拉伯聯合大公國",
+    "region": "亞洲",
+    "quote": "或是那条大道 叫Shed Zero 你可以把它当成是 杜拜的宗孝东路",
+    "context": "全杜拜最繁華的八線道主要幹道"
+  },
+  {
+    "name": "科威特塔",
+    "name_en": "Kuwait Towers",
+    "lat": 29.389,
+    "lon": 48.003,
+    "country": "科威特",
+    "region": "亞洲",
+    "quote": "科威特也有像这样的塔 可是他们 他们不擦玻璃",
+    "context": "與杜拜的塔做對比，提到其玻璃不乾淨"
+  },
+  {
+    "name": "忠孝東路",
+    "name_en": "Zhongxiao East Road",
+    "lat": 25.041,
+    "lon": 121.543,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "你可以把它当成是 杜拜的宗孝东路",
+    "context": "用來比喻謝赫扎耶德路的繁華"
+  },
+  {
+    "name": "山手線",
+    "name_en": "Yamanote Line",
+    "lat": 35.681,
+    "lon": 139.767,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "如果东京 我们讲三首线好了 或是台北的板南线",
+    "context": "用來比喻杜拜地鐵擁擠程度的日本鐵路"
+  },
+  {
+    "name": "板南線",
+    "name_en": "Bannan Line",
+    "lat": 25.046,
+    "lon": 121.516,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "如果东京 我们讲三首线好了 或是台北的板南线",
+    "context": "用來比喻杜拜地鐵擁擠程度的台北捷運"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "name": "懷唐伊",
+    "name_en": "Waitangi",
+    "lat": -35.281,
+    "lon": 174.082,
+    "country": "紐西蘭",
+    "region": "大洋洲",
+    "quote": "等于他们在北岛一个叫Waytangi的地方",
+    "context": "1840年毛利酋長與英國政府簽署條約的歷史地點。"
+  },
+  {
+    "name": "皇后鎮",
+    "name_en": "Queenstown",
+    "lat": -45.031,
+    "lon": 168.662,
+    "country": "紐西蘭",
+    "region": "大洋洲",
+    "quote": "要不到南边的皇后镇",
+    "context": "紐西蘭南島著名的旅遊中心與極限運動勝地。"
+  },
+  {
+    "name": "亞瑟隘口",
+    "name_en": "Arthur's Pass",
+    "lat": -42.941,
+    "lon": 171.561,
+    "country": "紐西蘭",
+    "region": "大洋洲",
+    "quote": "Arthurs Pass 过来到西边",
+    "context": "連接基督城與西海岸的重要交通隘口。"
+  },
+  {
+    "name": "法蘭士·約瑟夫小鎮",
+    "name_en": "Franz Josef",
+    "lat": -43.387,
+    "lon": 170.181,
+    "country": "紐西蘭",
+    "region": "大洋洲",
+    "quote": "在我们就是我们France Joseph小镇就可以玩",
+    "context": "位於南島西岸，僅400常住人口的冰河觀光小鎮。"
+  },
+  {
+    "name": "法蘭士·約瑟夫冰河",
+    "name_en": "Franz Josef Glacier",
+    "lat": -43.466,
+    "lon": 170.189,
+    "country": "紐西蘭",
+    "region": "大洋洲",
+    "quote": "France Joseph第四大的",
+    "context": "著名的可進入冰河，是主角擔任冰河向導的工作地點。"
+  },
+  {
+    "name": "福克斯冰河",
+    "name_en": "Fox Glacier",
+    "lat": -43.513,
+    "lon": 170.016,
+    "country": "紐西蘭",
+    "region": "大洋洲",
+    "quote": "然后还有Fox 跟France Joseph 三个冰河",
+    "context": "紐西蘭南島西岸著名的冰河踐行景點之一。"
+  },
+  {
+    "name": "塔斯曼冰河",
+    "name_en": "Tasman Glacier",
+    "lat": -43.6,
+    "lon": 170.25,
+    "country": "紐西蘭",
+    "region": "大洋洲",
+    "quote": "包括最大的是Tasman Tasman冰河",
+    "context": "紐西蘭境內規模與面積最大的冰河。"
+  },
+  {
+    "name": "嘉明湖",
+    "name_en": "Jiaming Lake",
+    "lat": 23.295,
+    "lon": 121.034,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "冰斗就像嘉明湖，他其实",
+    "context": "節目中用來向聽眾解釋「冰斗」地形的台灣地標。"
+  }
+]

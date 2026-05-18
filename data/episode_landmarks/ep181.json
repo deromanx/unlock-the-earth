@@ -1,0 +1,53 @@
+[
+  {
+    "name": "聖地牙哥主教座堂",
+    "name_en": "Catedral de Santiago de Compostela",
+    "lat": 42.88,
+    "lon": -8.544,
+    "country": "西班牙",
+    "region": "歐洲",
+    "quote": "反正他的终点呢, 就一定是那个 San Diego, 就是那个教堂",
+    "context": "朝聖之路的終點，Podcast 討論的核心目標。"
+  },
+  {
+    "name": "法國之路",
+    "name_en": "Camino Francés",
+    "lat": 42.766,
+    "lon": -3.882,
+    "country": "西班牙",
+    "region": "歐洲",
+    "quote": "我选择就是最简单的路, 最简单就是最多人, 然后比较偏安全的路, 就是法国之路",
+    "context": "講者選擇的朝聖路線，也是最熱門的路線。"
+  },
+  {
+    "name": "庇里牛斯山",
+    "name_en": "Pyrenees",
+    "lat": 43.048,
+    "lon": -1.232,
+    "country": "西班牙",
+    "region": "歐洲",
+    "quote": "第一天, 你就会经过一个非常猛, 大家俗称大魔王的一个山",
+    "context": "朝聖之路第一天的挑戰，需翻越且永無止境的上坡。"
+  },
+  {
+    "name": "檳城",
+    "name_en": "Penang",
+    "lat": 5.414,
+    "lon": 100.329,
+    "country": "馬來西亞",
+    "region": "亞洲",
+    "quote": "曾经去马来西亚冰城自助旅行过, 那是人生第一次",
+    "context": "講者人生中第一次自助旅行的地點。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Penang_%28Malaysia%29.svg/330px-Flag_of_Penang_%28Malaysia%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "大安森林公園",
+    "name_en": "Daan Forest Park",
+    "lat": 25.032,
+    "lon": 121.535,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "不是什么大安公园那种, 大安森林公园那一种, 是真的是山区",
+    "context": "被講者用來對比朝聖之路上危險的原始黑森林。"
+  }
+]

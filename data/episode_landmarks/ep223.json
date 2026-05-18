@@ -1,0 +1,82 @@
+[
+  {
+    "name": "柯芬園",
+    "name_en": "Covent Garden",
+    "lat": 51.512,
+    "lon": -0.123,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "他的爸爸就在科芬园这里开了一个这个理法厅",
+    "context": "透納父親開設理髮廳的地點，也是充滿活力、各種人群聚集的街區。"
+  },
+  {
+    "name": "梅登巷21號",
+    "name_en": "21 Maiden Lane",
+    "lat": 51.51,
+    "lon": -0.123,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "他的理法厅，就是21号Mainton Lane，就在科分园里面",
+    "context": "透納父親理髮廳的確切地址與透納故居，現址已變成一間酒吧。"
+  },
+  {
+    "name": "皇家藝術學院",
+    "name_en": "Royal Academy of Arts",
+    "lat": 51.509,
+    "lon": -0.14,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "他就在RA，就是皇家艺术学院展出了一幅画，那个对年轻人来说是很了不得的事情",
+    "context": "透納的母校，他年輕時即在此展出畫作，後來也成為該院的院士。"
+  },
+  {
+    "name": "馬蓋特",
+    "name_en": "Margate",
+    "lat": 51.385,
+    "lon": 1.386,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "有时候他就会带去Margat这个地方，Margat是沿海一带的小城市",
+    "context": "透納常去的海邊小城，讓他能頻繁接觸海景並成為其畫作的靈感。"
+  },
+  {
+    "name": "滑鐵盧橋",
+    "name_en": "Waterloo Bridge",
+    "lat": 51.508,
+    "lon": -0.117,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "那他那时候展出他的一幅画，就是这个开幕的滑铁卢之桥",
+    "context": "畫家康斯特勃展出的畫作主題，描繪了慶祝滑鐵盧戰役勝利的橋上人群。"
+  },
+  {
+    "name": "國家美術館",
+    "name_en": "National Gallery",
+    "lat": 51.508,
+    "lon": -0.128,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "接下来离他很近的呢，也是一个很重要很重要的地标，就是National Gallery",
+    "context": "距離透納生活圈很近的倫敦重要地標，於2024年迎來成立200週年。"
+  },
+  {
+    "name": "奇美博物館",
+    "name_en": "Chimei Museum",
+    "lat": 22.934,
+    "lon": 120.226,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "在奇美，在奇美博物馆，他们有展一次",
+    "context": "英國國家美術館200週年巡迴亞洲展覽在台灣的展出地點。"
+  },
+  {
+    "name": "國家兩廳院",
+    "name_en": "National Theater and Concert Hall",
+    "lat": 25.035,
+    "lon": 121.518,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "你爸爸开了一个理发厅在什么，在两厅院旁边，然后两厅院里面的人",
+    "context": "主持人用來比喻透納父親理髮廳位置的絕佳性，方便台灣聽眾理解。"
+  }
+]

@@ -1,0 +1,113 @@
+[
+  {
+    "name": "烏普利斯克岩城",
+    "name_en": "Uplistsikhe",
+    "lat": 41.967,
+    "lon": 44.209,
+    "country": "喬治亞",
+    "region": "歐洲",
+    "quote": "有個地方叫做烏普利斯克岩城，它是從鐵器時代呢，就有人居住在那個地方",
+    "context": "鐵器時代挖掘而成的石洞城市遺址，具有上百座洞穴。"
+  },
+  {
+    "name": "哥里",
+    "name_en": "Gori",
+    "lat": 41.981,
+    "lon": 44.113,
+    "country": "喬治亞",
+    "region": "歐洲",
+    "quote": "史達林，他是在喬治亞一個小鎮叫Gori出生的",
+    "context": "前蘇聯領導人史達林的出生地，保留有其故居與雕像。"
+  },
+  {
+    "name": "史達林博物館",
+    "name_en": "Joseph Stalin Museum",
+    "lat": 41.985,
+    "lon": 44.113,
+    "country": "喬治亞",
+    "region": "歐洲",
+    "quote": "他那邊的小鎮還是有保留那個史達林的雕像還是有還有他的博物館",
+    "context": "位於哥里，展示史達林生前用品與防彈車等遺物。"
+  },
+  {
+    "name": "史達林故居",
+    "name_en": "Stalin's Birthplace House",
+    "lat": 41.985,
+    "lon": 44.113,
+    "country": "喬治亞",
+    "region": "歐洲",
+    "quote": "甚至連他以前出生的房子，長大的房子呢，都用一個建築物蓋過去來保存下來",
+    "context": "史達林出生的小木屋，現被包覆在紀念建築內保護。"
+  },
+  {
+    "name": "哥里城堡",
+    "name_en": "Gori Fortress",
+    "lat": 41.987,
+    "lon": 44.108,
+    "country": "喬治亞",
+    "region": "歐洲",
+    "quote": "以前他大概七世紀的時候呢，他那邊就蓋了一個很大的城堡",
+    "context": "位於哥里市中心山丘上的七世紀中世紀防禦工事。"
+  },
+  {
+    "name": "提比利斯硫磺溫泉",
+    "name_en": "Tbilisi Sulfur Baths",
+    "lat": 41.688,
+    "lon": 44.811,
+    "country": "喬治亞",
+    "region": "歐洲",
+    "quote": "Tiblesi這個字，就是保暖之處，因為就很多溫泉",
+    "context": "首都市中心著名的溫泉區，城市名稱由此而來。"
+  },
+  {
+    "name": "提比利斯地鐵",
+    "name_en": "Tbilisi Metro",
+    "lat": 41.721,
+    "lon": 44.792,
+    "country": "喬治亞",
+    "region": "歐洲",
+    "quote": "提比利斯最特殊的地方，就是他的地鐵一進去就可以聞到硫磺的味道",
+    "context": "因地理位置充滿硫磺味，且早期深度較深以防破壞古蹟。"
+  },
+  {
+    "name": "南奧賽提亞",
+    "name_en": "South Ossetia",
+    "lat": 42.233,
+    "lon": 43.966,
+    "country": "喬治亞",
+    "region": "歐洲",
+    "quote": "是南奧賽提亞跟阿布哈茲嘛",
+    "context": "境內尋求獨立的自治區，導致喬治亞與俄羅斯斷交。"
+  },
+  {
+    "name": "阿布哈茲",
+    "name_en": "Abkhazia",
+    "lat": 43.001,
+    "lon": 41.023,
+    "country": "喬治亞",
+    "region": "歐洲",
+    "quote": "是南奧賽提亞跟阿布哈茲嘛",
+    "context": "受俄羅斯承認的自治區，為該地區衝突的火藥庫之一。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_the_Republic_of_Abkhazia.svg/330px-Flag_of_the_Republic_of_Abkhazia.svg.png"
+  },
+  {
+    "name": "納卡地區",
+    "name_en": "Nagorno-Karabakh",
+    "lat": 39.817,
+    "lon": 46.752,
+    "country": "亞塞拜然",
+    "region": "亞洲",
+    "quote": "在2020年，宣布雅塞巴爾贏得多會納卡",
+    "context": "南高加索爭議領土，2020年爆發大規模武裝衝突。"
+  },
+  {
+    "name": "圖庫曼",
+    "name_en": "San Miguel de Tucumán",
+    "lat": -26.824,
+    "lon": -65.222,
+    "country": "阿根廷",
+    "region": "美洲",
+    "quote": "Winnie帶我們去Tukuman，那Tukuman只是你的思路旅行的小小一環",
+    "context": "講者在上一集節目中分享過的阿根廷旅遊目的地。"
+  }
+]

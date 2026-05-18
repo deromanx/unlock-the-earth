@@ -1,0 +1,149 @@
+[
+  {
+    "name": "印來湖",
+    "name_en": "Inle Lake",
+    "lat": 20.584,
+    "lon": 96.93,
+    "country": "緬甸",
+    "region": "亞洲",
+    "quote": "本來那次的行程是要去，去英來湖的，對，可是因為就嚴重腹瀉，所以我在曼德勒多待了兩天，然後就只好捨棄英來湖",
+    "context": "講者第一次去緬甸時因病錯過，第二次終於成行的重要景點。"
+  },
+  {
+    "name": "大金石",
+    "name_en": "Kyaiktiyo Pagoda",
+    "lat": 17.481,
+    "lon": 97.098,
+    "country": "緬甸",
+    "region": "亞洲",
+    "quote": "再來就去大金石，哦大金石你有去，直接從丙屋林後面就是大金石",
+    "context": "緬甸著名的佛教聖地，講者在第二次行程中造訪的壯觀景點。"
+  },
+  {
+    "name": "普甘",
+    "name_en": "Bagan",
+    "lat": 21.171,
+    "lon": 94.858,
+    "country": "緬甸",
+    "region": "亞洲",
+    "quote": "然後還有去普甘，就是有很多古代佛塔的那個古城",
+    "context": "擁有眾多古代佛塔的古城，是遊客第一次去緬甸的必去路線。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bagan%2C_Burma.jpg/330px-Bagan%2C_Burma.jpg"
+  },
+  {
+    "name": "丙屋林",
+    "name_en": "Pyin Oo Lwin",
+    "lat": 22.033,
+    "lon": 96.466,
+    "country": "緬甸",
+    "region": "亞洲",
+    "quote": "去曼德的一個小時車程的那個一個叫丙屋林的地方。那是以前英國人統治時代的時候，英國人的避暑聖地",
+    "context": "地勢較高、氣候涼爽的避暑勝地，曾是英國殖民時期的重要據點。"
+  },
+  {
+    "name": "翁山市場",
+    "name_en": "Bogyoke Aung San Market",
+    "lat": 16.78,
+    "lon": 96.155,
+    "country": "緬甸",
+    "region": "亞洲",
+    "quote": "去緬甸中心那個又叫翁山市場的地方，那邊可以找到黑市匯率",
+    "context": "仰光市中心的著名市場，講者提到此處可換取較佳的黑市匯率。"
+  },
+  {
+    "name": "華星街",
+    "name_en": "Huaxing Street",
+    "lat": 24.988,
+    "lon": 121.512,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "台灣有一條，就是在華星街，恩對中和華星街，這個我很熟，中和大男士角富姐，對，那邊有很多緬甸裔的居民",
+    "context": "位於台灣中和的緬甸街，聚集許多緬甸餐廳與居民，是重要文化社區。"
+  },
+  {
+    "name": "中正紀念堂",
+    "name_en": "Chiang Kai-shek Memorial Hall",
+    "lat": 25.035,
+    "lon": 121.519,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "我記得之前有一個很大的，是在中正紀念堂那邊的一個集會",
+    "context": "2021年緬甸政變後，在台灣舉辦大規模示威抗議的地點。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Chiang_Kai-shek_memorial_amk.jpg/330px-Chiang_Kai-shek_memorial_amk.jpg"
+  },
+  {
+    "name": "國立臺灣大學",
+    "name_en": "National Taiwan University",
+    "lat": 25.017,
+    "lon": 121.539,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "參加活動它的範圍局限在台大校園裡面。它的出發點就是大家在圖書館那邊接，然後圖書館到正門有一條很長的道路",
+    "context": "講者曾在此參加支持緬甸民主的遊行活動，提及校內特定遊行路線。",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/National_Taiwan_University_seal.svg/330px-National_Taiwan_University_seal.svg.png"
+  },
+  {
+    "name": "黑河機場",
+    "name_en": "Heho Airport",
+    "lat": 20.716,
+    "lon": 96.795,
+    "country": "緬甸",
+    "region": "亞洲",
+    "quote": "飛到英來湖，最接著叫一個黑河機場",
+    "context": "通往英萊湖的主要門戶機場，講者在此轉機前往景點。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Airport%2C_Heho%2C_Myanmar.jpg/330px-Airport%2C_Heho%2C_Myanmar.jpg"
+  },
+  {
+    "name": "該古佛塔",
+    "name_en": "Kakku Pagodas",
+    "lat": 20.435,
+    "lon": 97.2,
+    "country": "緬甸",
+    "region": "亞洲",
+    "quote": "本來想要去一個叫做該古佛塔的地方，就是他有很多很多的佛塔，然後大概離英來湖車程一個小時左右",
+    "context": "擁有大量佛塔的景點，但講者因當地武裝衝突無法前往。"
+  },
+  {
+    "name": "勾特架橋",
+    "name_en": "Gokteik Viaduct",
+    "lat": 22.339,
+    "lon": 96.862,
+    "country": "緬甸",
+    "region": "亞洲",
+    "quote": "如果你坐火車的話，它中間會經過一個叫做國際高架橋，特高架橋的地方，那個高架橋就是很壯觀",
+    "context": "緬甸著名的鐵路高架橋，講者提及時表示因衝突停駛而深感可惜。"
+  },
+  {
+    "name": "廟屋",
+    "name_en": "Mrauk U",
+    "lat": 20.597,
+    "lon": 93.19,
+    "country": "緬甸",
+    "region": "亞洲",
+    "quote": "去西部若開邦的一個叫做廟屋的地方，那邊有很多佛塔，有點像普甘啊",
+    "context": "若開邦著名的古城，因當地武裝衝突對遊客關閉，講者未能成行。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/MysticalMraukU.jpg/330px-MysticalMraukU.jpg"
+  },
+  {
+    "name": "底波",
+    "name_en": "Hsipaw",
+    "lat": 22.622,
+    "lon": 97.297,
+    "country": "緬甸",
+    "region": "亞洲",
+    "quote": "我想要去一個叫底波的地方，底波跟丙屋林中間有鐵路",
+    "context": "禪邦的一個城鎮，講者原定規劃前往，但因鐵路停駛而受阻。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Hsipaw%2C_Myanmar.jpg/330px-Hsipaw%2C_Myanmar.jpg"
+  },
+  {
+    "name": "仰光機場",
+    "name_en": "Yangon International Airport",
+    "lat": 16.907,
+    "lon": 96.133,
+    "country": "緬甸",
+    "region": "亞洲",
+    "quote": "我在陽光機場待個四個小時，換錢，然後買電話卡，然後飛到英來湖",
+    "context": "講者在此入境並觀察到安檢與匯率的顯著變化。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Yangon_International_Airport_MRD-2.jpg/330px-Yangon_International_Airport_MRD-2.jpg"
+  }
+]

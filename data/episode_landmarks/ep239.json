@@ -1,0 +1,115 @@
+[
+  {
+    "name": "國立清華大學",
+    "name_en": "National Tsing Hua University",
+    "lat": 24.796,
+    "lon": 120.996,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "目前是计划 去清大 读研究所",
+    "context": "講者計畫去就讀研究所的大學"
+  },
+  {
+    "name": "杉原千畝紀念館",
+    "name_en": "Sugihara House",
+    "lat": 54.898,
+    "lon": 23.931,
+    "country": "立陶宛",
+    "region": "歐洲",
+    "quote": "那是一个以前的外交领事馆 然后是日本人跟其他某些国家外交官的一个外交领事馆",
+    "context": "日本外交官發放難民簽證的領事館舊址"
+  },
+  {
+    "name": "景美人權文化園區",
+    "name_en": "Jing-Mei White Terror Memorial Park",
+    "lat": 24.986,
+    "lon": 121.532,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "我忘记是景美人权纪念园区 还是在绿岛的人权园区 我看过这个故事",
+    "context": "提及台灣展示過類似人權故事的園區"
+  },
+  {
+    "name": "綠島人權文化園區",
+    "name_en": "Green Island Human Rights Cultural Park",
+    "lat": 22.674,
+    "lon": 121.496,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "我忘记是景美人权纪念园区 还是在绿岛的人权园区 我看过这个故事",
+    "context": "提及台灣展示過類似人權故事的園區"
+  },
+  {
+    "name": "立陶宛體育大學",
+    "name_en": "Lithuanian Sports University",
+    "lat": 54.897,
+    "lon": 23.934,
+    "country": "立陶宛",
+    "region": "歐洲",
+    "quote": "我们学校跟立陶宛体育大学新签的合约 然后我是第一个去的",
+    "context": "講者前往參與交換計畫的學校"
+  },
+  {
+    "name": "考納斯綠林體育館",
+    "name_en": "Žalgiris Arena",
+    "lat": 54.89,
+    "lon": 23.914,
+    "country": "立陶宛",
+    "region": "歐洲",
+    "quote": "所以整个立陶宛最大的篮球体育馆 就在考纳斯 就在我学校附近",
+    "context": "立陶宛知名籃球俱樂部的主場"
+  },
+  {
+    "name": "大橋頭",
+    "name_en": "Daqiaotou",
+    "lat": 25.063,
+    "lon": 121.513,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "因为我住在大桥头的时候 我在那个大澳城附近 好像有看到一个专门卖立陶宛啤酒的",
+    "context": "講者以前居住過的台北地區"
+  },
+  {
+    "name": "大稻埕",
+    "name_en": "Dadaocheng",
+    "lat": 25.056,
+    "lon": 121.509,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "因为我住在大桥头的时候 我在那个大澳城附近 好像有看到一个专门卖立陶宛啤酒的",
+    "context": "講者曾看到專賣立陶宛啤酒的地點"
+  },
+  {
+    "name": "特拉卡伊島上城堡",
+    "name_en": "Trakai Island Castle",
+    "lat": 54.652,
+    "lon": 24.933,
+    "country": "立陶宛",
+    "region": "歐洲",
+    "quote": "还有我们去了一个地方叫水上城堡 它叫 特拉卡伊",
+    "context": "立陶宛14世紀強盛時期遺留的湖中島城堡",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Trakai_castle_2016.jpg/330px-Trakai_castle_2016.jpg"
+  },
+  {
+    "name": "第九要塞",
+    "name_en": "Ninth Fort",
+    "lat": 54.945,
+    "lon": 23.874,
+    "country": "立陶宛",
+    "region": "歐洲",
+    "quote": "还有在考纳斯一个 比较有名的经典 叫做第九要塞",
+    "context": "二戰期間關押猶太人的地方，現為人權園區",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Kauno_IX_forto_vaizdas.jpg/330px-Kauno_IX_forto_vaizdas.jpg"
+  },
+  {
+    "name": "考納斯市政廳",
+    "name_en": "Kaunas Town Hall",
+    "lat": 54.897,
+    "lon": 23.886,
+    "country": "立陶宛",
+    "region": "歐洲",
+    "quote": "在考纳斯老街的一个市政厅前面 公园的地板有放几块石头",
+    "context": "紀念蘇聯統治時期在此自焚抗議的年輕人",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Kaunas_Town_Hall_1%2C_Kaunas%2C_Lithuania_-_Diliff.jpg/330px-Kaunas_Town_Hall_1%2C_Kaunas%2C_Lithuania_-_Diliff.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  }
+]

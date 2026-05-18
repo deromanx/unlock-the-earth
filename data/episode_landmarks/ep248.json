@@ -1,0 +1,265 @@
+[
+  {
+    "name": "鼓浪屿",
+    "name_en": "Gulangyu",
+    "lat": 24.448,
+    "lon": 118.067,
+    "country": "中国",
+    "region": "亞洲",
+    "quote": "我去过古浪雨",
+    "context": "讲者过去曾去过的小范围城市旅游地点",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/2018%E5%B9%B4%E7%9A%84%E9%BC%93%E6%B5%AA%E5%B1%BF.jpg/330px-2018%E5%B9%B4%E7%9A%84%E9%BC%93%E6%B5%AA%E5%B1%BF.jpg"
+  },
+  {
+    "name": "重庆南路",
+    "name_en": "Chongqing South Road",
+    "lat": 25.039,
+    "lon": 121.514,
+    "country": "台湾",
+    "region": "亞洲",
+    "quote": "第一次到了台北 骑人摩托车 经过重庆南路",
+    "context": "讲者回忆年轻时经过台北总统府附近的街道"
+  },
+  {
+    "name": "凯达格兰大道",
+    "name_en": "Ketagalan Boulevard",
+    "lat": 25.039,
+    "lon": 121.516,
+    "country": "台湾",
+    "region": "亞洲",
+    "quote": "然后那时候还叫接收路 凯德格兰大道",
+    "context": "讲者回忆野百合学运时期的政治中心广场"
+  },
+  {
+    "name": "紫禁城 (故宫)",
+    "name_en": "Forbidden City",
+    "lat": 39.916,
+    "lon": 116.39,
+    "country": "中国",
+    "region": "亞洲",
+    "quote": "就是去了紫禁城 觉得 为什么没有想象的大",
+    "context": "讲者到北京旅游时造访的第一站",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/The_Forbidden_City_-_View_from_Coal_Hill.jpg/330px-The_Forbidden_City_-_View_from_Coal_Hill.jpg"
+  },
+  {
+    "name": "天安门广场",
+    "name_en": "Tiananmen Square",
+    "lat": 39.905,
+    "lon": 116.391,
+    "country": "中国",
+    "region": "亞洲",
+    "quote": "那个感觉 天安门广场 我想去体会一下",
+    "context": "感受国家中央政府前面的政治气氛与气魄"
+  },
+  {
+    "name": "颐和园",
+    "name_en": "Summer Palace",
+    "lat": 39.999,
+    "lon": 116.275,
+    "country": "中国",
+    "region": "亞洲",
+    "quote": "再挑就是颐和园 园明园 就是园林的地方",
+    "context": "为了体会北京的园林风格而选择的区域"
+  },
+  {
+    "name": "圆明园",
+    "name_en": "Old Summer Palace",
+    "lat": 40.008,
+    "lon": 116.298,
+    "country": "中国",
+    "region": "亞洲",
+    "quote": "再挑就是颐和园 园明园 就是园林的地方",
+    "context": "为了体会北京的园林风格而选择的区域"
+  },
+  {
+    "name": "樱桃斜街",
+    "name_en": "Yingtao Xiejie",
+    "lat": 39.895,
+    "lon": 116.392,
+    "country": "中国",
+    "region": "亞洲",
+    "quote": "它那条街叫樱桃斜街 樱桃",
+    "context": "讲者住在北京外城北边的老胡同区街道"
+  },
+  {
+    "name": "铁树斜街",
+    "name_en": "Tieshu Xiejie",
+    "lat": 39.894,
+    "lon": 116.39,
+    "country": "中国",
+    "region": "亞洲",
+    "quote": "然后我们旁边那条叫铁树斜街 铁树",
+    "context": "讲者住宿地旁边的胡同，同样保有几百年的格局"
+  },
+  {
+    "name": "达园",
+    "name_en": "Dayuan",
+    "lat": 39.997,
+    "lon": 116.286,
+    "country": "中国",
+    "region": "亞洲",
+    "quote": "我们就挑一个 它叫达园 我觉得它离 圆明园 颐和园都不远",
+    "context": "讲者意外住进的国务院下辖的园林宾馆"
+  },
+  {
+    "name": "中南海",
+    "name_en": "Zhongnanhai",
+    "lat": 39.912,
+    "lon": 116.38,
+    "country": "中国",
+    "region": "亞洲",
+    "quote": "紫禁城的西边 嗯 是中南海嘛",
+    "context": "中国国家领导人的办公中心与行政中枢"
+  },
+  {
+    "name": "北海公园",
+    "name_en": "Beihai Park",
+    "lat": 39.925,
+    "lon": 116.383,
+    "country": "中国",
+    "region": "亞洲",
+    "quote": "中南海的北边有一个北海",
+    "context": "紫禁城附近的景点，曾经是皇家御花园"
+  },
+  {
+    "name": "景山公园 (煤山)",
+    "name_en": "Jingshan Park",
+    "lat": 39.925,
+    "lon": 116.396,
+    "country": "中国",
+    "region": "亞洲",
+    "quote": "紫禁城的北边呢 它叫景山公园 也是一个公园",
+    "context": "明朝崇祯皇帝上吊的地点"
+  },
+  {
+    "name": "太和殿",
+    "name_en": "Hall of Supreme Harmony",
+    "lat": 39.916,
+    "lon": 116.39,
+    "country": "中国",
+    "region": "亞洲",
+    "quote": "太和殿等于是真的是皇帝要登基的时候的那个地方",
+    "context": "体现中国历代以来标准统一与中央集权的地方"
+  },
+  {
+    "name": "保和殿",
+    "name_en": "Hall of Preserving Harmony",
+    "lat": 39.918,
+    "lon": 116.39,
+    "country": "中国",
+    "region": "亞洲",
+    "quote": "太和殿宝和殿",
+    "context": "讲者参观紫禁城外朝时提到的宫殿"
+  },
+  {
+    "name": "乾清宫",
+    "name_en": "Palace of Heavenly Purity",
+    "lat": 39.919,
+    "lon": 116.39,
+    "country": "中国",
+    "region": "亞洲",
+    "quote": "但是前清宫是算内庭",
+    "context": "紫禁城内庭的居住与办公区域"
+  },
+  {
+    "name": "午门",
+    "name_en": "Meridian Gate",
+    "lat": 39.911,
+    "lon": 116.39,
+    "country": "中国",
+    "region": "亞洲",
+    "quote": "还要经过一个五门",
+    "context": "紫禁城最前方的正式入口"
+  },
+  {
+    "name": "端门",
+    "name_en": "Duanmen",
+    "lat": 39.91,
+    "lon": 116.39,
+    "country": "中国",
+    "region": "亞洲",
+    "quote": "然后再进一个端门 这才是真正进了这进城",
+    "context": "天安门与午门之间的入口"
+  },
+  {
+    "name": "人民大会堂",
+    "name_en": "Great Hall of the People",
+    "lat": 39.904,
+    "lon": 116.387,
+    "country": "中国",
+    "region": "亞洲",
+    "quote": "你可以看到那个什么人民大会堂啊",
+    "context": "位于天安门广场西侧，中共建政后所建"
+  },
+  {
+    "name": "中国国家博物馆",
+    "name_en": "National Museum of China",
+    "lat": 39.904,
+    "lon": 116.395,
+    "country": "中国",
+    "region": "亞洲",
+    "quote": "然后这边是什么国家博物馆",
+    "context": "位于天安门广场东侧，清朝时为六部所在地"
+  },
+  {
+    "name": "毛主席纪念堂",
+    "name_en": "Chairman Mao Memorial Hall",
+    "lat": 39.901,
+    "lon": 116.391,
+    "country": "中国",
+    "region": "亞洲",
+    "quote": "它的南边还有一个什么毛泽东纪念馆 然后毛泽东纪念堂",
+    "context": "位于天安门广场南侧，存放毛泽东遗体"
+  },
+  {
+    "name": "国立故宫博物院",
+    "name_en": "National Palace Museum",
+    "lat": 25.102,
+    "lon": 121.548,
+    "country": "台湾",
+    "region": "亞洲",
+    "quote": "就很像我们的那个外双戏的故宫博物院",
+    "context": "讲者觉得紫禁城的建筑和台北故宫很像",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/73/National_Palace_Museum_logo.svg/330px-National_Palace_Museum_logo.svg.png"
+  },
+  {
+    "name": "北京大学",
+    "name_en": "Peking University",
+    "lat": 39.991,
+    "lon": 116.305,
+    "country": "中国",
+    "region": "亞洲",
+    "quote": "那附近还有什么 北大 清大",
+    "context": "园林附近的名校，占地曾是昔日园林的一部分"
+  },
+  {
+    "name": "清华大学",
+    "name_en": "Tsinghua University",
+    "lat": 40.0,
+    "lon": 116.326,
+    "country": "中国",
+    "region": "亞洲",
+    "quote": "那附近还有什么 北大 清大",
+    "context": "园林附近的名校，占地曾是昔日园林的一部分"
+  },
+  {
+    "name": "福缘门社区",
+    "name_en": "Fuyuanmen Community",
+    "lat": 39.999,
+    "lon": 116.287,
+    "country": "中国",
+    "region": "亞洲",
+    "quote": "还写一个社区叫福园门社区",
+    "context": "讲者在达园附近本来想探勘但发现已被拆除的社区"
+  },
+  {
+    "name": "西静园公墓 (东北义园)",
+    "name_en": "Xijingyuan Cemetery",
+    "lat": 39.993,
+    "lon": 116.282,
+    "country": "中国",
+    "region": "亞洲",
+    "quote": "然后现在叫做西静元公墓",
+    "context": "918事变后流落北京的东北人过世后的葬身地"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "name": "海德堡大學",
+    "name_en": "Heidelberg University",
+    "lat": 49.41,
+    "lon": 8.682,
+    "country": "德國",
+    "region": "歐洲",
+    "quote": "海德堡大學的醫療人類學啊,它跟印度有很強的淵源",
+    "context": "講者就讀碩士的學校，也是其印度研究與旅程的起點。"
+  },
+  {
+    "name": "泰姬瑪哈陵",
+    "name_en": "Taj Mahal",
+    "lat": 27.175,
+    "lon": 78.042,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "腦中想像的印度,大部分都是以北印度為主的那種泰基馬哈林啊",
+    "context": "講者提到一般大眾對印度最典型且具代表性的地標印象。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Taj_Mahal_%28Edited%29.jpeg/330px-Taj_Mahal_%28Edited%29.jpeg"
+  },
+  {
+    "name": "浦那",
+    "name_en": "Pune",
+    "lat": 18.52,
+    "lon": 73.856,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "他去印度中部,一個叫Puna的地方",
+    "context": "講者同學進行研究的地方，因環境衝擊而一度感到崩潰。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Pune_West_skyline_-_March_2017.jpg/330px-Pune_West_skyline_-_March_2017.jpg"
+  },
+  {
+    "name": "科欽地鐵",
+    "name_en": "Kochi Metro",
+    "lat": 9.992,
+    "lon": 76.301,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "科慶是有地鐵,那它的地鐵,其實我覺得應該可以媲美台北捷運",
+    "context": "講者對當地現代化交通設施的評價，認為其整潔且舒適。"
+  },
+  {
+    "name": "科欽舊城區",
+    "name_en": "Fort Kochi / Old Town Kochi",
+    "lat": 9.966,
+    "lon": 76.241,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "我在柯青那邊,我基本上住在舊城区",
+    "context": "講者在科欽停留時的主要活動與居住區域。"
+  },
+  {
+    "name": "阿拉布薩",
+    "name_en": "Alappuzha",
+    "lat": 9.498,
+    "lon": 76.338,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "我在一個叫阿拉布薩斯阿的一個小村莊",
+    "context": "講者在此地疑似確診，並經歷長達七小時的火車延誤。"
+  },
+  {
+    "name": "特里凡得琅",
+    "name_en": "Thiruvananthapuram / Trivandrum",
+    "lat": 8.524,
+    "lon": 76.936,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "搭火車去Trivandran接近我的那個傳統醫學中心",
+    "context": "講者進行醫療人類學研究的目的地，亦在此參加當地婚禮。"
+  }
+]

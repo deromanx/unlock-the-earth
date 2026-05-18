@@ -1,0 +1,113 @@
+[
+  {
+    "name": "王子街",
+    "name_en": "Princes Street",
+    "lat": 55.952,
+    "lon": -3.197,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "愛丁堡主要有兩條路，就是你一定要去走，就是一條是，就是說王子街",
+    "context": "愛丁堡新城區的主要購物幹道。"
+  },
+  {
+    "name": "皇家一英里",
+    "name_en": "Royal Mile",
+    "lat": 55.95,
+    "lon": -3.185,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "另外一條路叫做Royal Miles，它在舊城，它主要的舊城幹道",
+    "context": "連接城堡與皇宮的歷史軸線。"
+  },
+  {
+    "name": "愛丁堡城堡",
+    "name_en": "Edinburgh Castle",
+    "lat": 55.948,
+    "lon": -3.2,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "Royal Miles它主要是從城堡，到伊丁堡24的皇宮",
+    "context": "位於皇家一英里終點的古老城堡。"
+  },
+  {
+    "name": "荷里路德宮",
+    "name_en": "Palace of Holyroodhouse",
+    "lat": 55.952,
+    "lon": -3.172,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "那皇宮呢，一個小tip，就是你在夏天的時候去皇宮是沒辦法進去的",
+    "context": "英國君主在蘇格蘭的官方官邸。"
+  },
+  {
+    "name": "聖吉爾斯大教堂",
+    "name_en": "St Giles' Cathedral",
+    "lat": 55.949,
+    "lon": -3.19,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "然後一路往下走，然後會經過一個很漂亮很漂亮的就是大教堂",
+    "context": "皇家一英里上的重要哥德式教堂。"
+  },
+  {
+    "name": "愛丁堡福爾摩斯雕像",
+    "name_en": "Sherlock Holmes Statue, Edinburgh",
+    "lat": 55.956,
+    "lon": -3.188,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "愛丁堡也有一個，哦，福爾摩斯像",
+    "context": "位於作者出生地附近的紀念雕像。"
+  },
+  {
+    "name": "倫敦福爾摩斯雕像",
+    "name_en": "Sherlock Holmes Statue, London",
+    "lat": 51.522,
+    "lon": -0.156,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "倫敦有一個福爾摩斯的像",
+    "context": "節目中提到倫敦亦有著名人物雕像。"
+  },
+  {
+    "name": "白金漢宮",
+    "name_en": "Buckingham Palace",
+    "lat": 51.501,
+    "lon": -0.141,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "它的東宮是白金翰",
+    "context": "與愛丁堡皇宮對應的英國王室主宮。"
+  },
+  {
+    "name": "愛丁堡大學",
+    "name_en": "University of Edinburgh",
+    "lat": 55.947,
+    "lon": -3.187,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "潘尼西林或者是麻醉劑，都是愛丁堡大姐發明的",
+    "context": "節目中提到的醫學發明地（大姐為大學之音誤）。",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/University_of_Edinburgh_ceremonial_roundel.svg/330px-University_of_Edinburgh_ceremonial_roundel.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "愛丁堡舊城",
+    "name_en": "Old Town Edinburgh",
+    "lat": 55.948,
+    "lon": -3.191,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "愛丁堡其實是兩個很小的town夾在一起，就是Old Town跟New Town",
+    "context": "愛丁堡保存完整歷史建築的區域。"
+  },
+  {
+    "name": "愛丁堡新城",
+    "name_en": "New Town Edinburgh",
+    "lat": 55.953,
+    "lon": -3.193,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "它就是主要都在新城那邊是王子街",
+    "context": "愛丁堡規劃整齊的現代商務區域。"
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "name": "聖矛修道院",
+    "name_en": "Monastery of Geghard",
+    "lat": 40.14,
+    "lon": 44.818,
+    "country": "亞美尼亞",
+    "region": "亞洲",
+    "quote": "它里面是有供奉那个 当初刺进耶稣的那个 那个毛 朗基努斯之枪",
+    "context": "供奉朗基努斯之槍的古老修道院，建築從懸崖山壁中開鑿而成。"
+  },
+  {
+    "name": "深坑修道院",
+    "name_en": "Khor Virap",
+    "lat": 39.878,
+    "lon": 44.576,
+    "country": "亞美尼亞",
+    "region": "亞洲",
+    "quote": "顾名思义呢 就是他 教堂 有个小洞 哦 在地底下",
+    "context": "位於亞拉拉特山腳下，聖人哥里高利曾被囚禁於此的地下坑洞達13年。"
+  },
+  {
+    "name": "亞拉拉特山",
+    "name_en": "Mount Ararat",
+    "lat": 39.702,
+    "lon": 44.298,
+    "country": "土耳其",
+    "region": "亞洲",
+    "quote": "传闻算是说 那个诺亚方舟 是停在那个山上",
+    "context": "亞美尼亞的聖山與精神象徵，傳說為諾亞方舟停泊處，現位於土耳其境內。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Mount_Ararat_and_the_Yerevan_skyline_in_spring_%2850mm%29.jpg/330px-Mount_Ararat_and_the_Yerevan_skyline_in_spring_%2850mm%29.jpg"
+  }
+]

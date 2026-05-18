@@ -1,0 +1,114 @@
+[
+  {
+    "name": "東京鐵塔",
+    "name_en": "Tokyo Tower",
+    "lat": 35.658,
+    "lon": 139.745,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "我后来只要回到日本看到东京铁塔就有回家的那种安心感",
+    "context": "講者在日本居住後對此地標產生歸屬感",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Tokyo_Tower_2023.jpg/330px-Tokyo_Tower_2023.jpg"
+  },
+  {
+    "name": "山崎蒸餾所",
+    "name_en": "Yamazaki Distillery",
+    "lat": 34.892,
+    "lon": 135.673,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "他的这个盖的日本第一间酒厂就是威士忌的政六所就是山崎",
+    "context": "日本第一間威士忌蒸餾所"
+  },
+  {
+    "name": "山崎站",
+    "name_en": "Yamazaki Station",
+    "lat": 34.892,
+    "lon": 135.679,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "因为它就是一个小小的车站就是叫三期站嘛它那边就有一块石碑",
+    "context": "位於京都與大阪交界處，前往酒廠的車站"
+  },
+  {
+    "name": "天王山",
+    "name_en": "Tennouzan",
+    "lat": 34.897,
+    "lon": 135.673,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "那走的路上会看到一个三期合战的石碑他写天王山之战",
+    "context": "戰國歷史重要戰役發生地，影響日文語言"
+  },
+  {
+    "name": "新千歲機場",
+    "name_en": "New Chitose Airport",
+    "lat": 42.775,
+    "lon": 141.662,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "如果从千岁机场你做到那个小尊",
+    "context": "前往北海道威士忌酒廠的交通起點",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Shinchitose.aierial_shoot.jpg/330px-Shinchitose.aierial_shoot.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "小樽",
+    "name_en": "Otaru",
+    "lat": 43.19,
+    "lon": 140.994,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "从小尊还要再搭那种路面电车很小那种电车大概只有两节车厢那种还要搭五站",
+    "context": "前往余市的轉乘城市，有壽司與運河"
+  },
+  {
+    "name": "余市蒸餾所",
+    "name_en": "Yoichi Distillery",
+    "lat": 43.184,
+    "lon": 140.792,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "还要搭五站才能到这个渔市就是到现在还很不方便",
+    "context": "竹鶴政孝在北海道建立的威士忌酒廠"
+  },
+  {
+    "name": "天狗山",
+    "name_en": "Tenguyama",
+    "lat": 43.176,
+    "lon": 140.963,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "小尊附近有个天狗山嘛那天狗山就在威士附近",
+    "context": "日劇初戀拍攝地，有纜車可搭乘"
+  },
+  {
+    "name": "Rita大道",
+    "name_en": "Rita Boulevard",
+    "lat": 43.185,
+    "lon": 140.793,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "你沿着这个Rita大道那个阿正取的",
+    "context": "通往余市蒸餾所的道路名稱"
+  },
+  {
+    "name": "小樽運河",
+    "name_en": "Otaru Canal",
+    "lat": 43.199,
+    "lon": 141.001,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "小尊看看运河啦夜景啦还是很完美的旅程",
+    "context": "小樽周邊的觀光行程建議"
+  },
+  {
+    "name": "醉霞酒吧",
+    "name_en": "Zuixia Bar",
+    "lat": 22.628,
+    "lon": 120.302,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "高雄有个酒吧叫醉霞我在醉霞喝酒的时候",
+    "context": "講者開始擔任威士忌酒展翻譯的契機"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "name": "暹粒",
+    "name_en": "Siem Reap",
+    "lat": 13.363,
+    "lon": 103.856,
+    "country": "柬埔寨",
+    "region": "亞洲",
+    "quote": "你在柬埔寨哪里做志工啊? 先立",
+    "context": "講者前往做志工的主要城市基地。"
+  },
+  {
+    "name": "吳哥窟",
+    "name_en": "Angkor Wat",
+    "lat": 13.412,
+    "lon": 103.867,
+    "country": "柬埔寨",
+    "region": "亞洲",
+    "quote": "因为五个户不是内圈外圈小圈大圈外圈嘛",
+    "context": "志工團帶領小朋友前往參觀的知名景點。"
+  },
+  {
+    "name": "台中市議會",
+    "name_en": "Taichung City Council",
+    "lat": 24.162,
+    "lon": 120.647,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "带民众透过台中议会议事流程",
+    "context": "好民文化行動協會監督市政的政府機構。"
+  },
+  {
+    "name": "台中舊城",
+    "name_en": "Taichung Old Town",
+    "lat": 24.137,
+    "lon": 120.686,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "他们将举办旧城导览工作坊",
+    "context": "協會舉辦導覽工作坊以認識文史的地點。"
+  }
+]

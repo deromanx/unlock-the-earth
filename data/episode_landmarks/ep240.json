@@ -1,0 +1,24 @@
+[
+  {
+    "name": "天山山脉",
+    "name_en": "Tian Shan Mountains",
+    "lat": 42.028,
+    "lon": 80.132,
+    "country": "哈萨克",
+    "region": "亞洲",
+    "quote": "天山山脉 正好它可以帮它抓住 就是水汽",
+    "context": "拦截水汽，调节哈萨克南部气候与降雨",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Alpine_meadows_and_snow-covered_peaks_in_Khan_Tengri_Nature_Park%2C_Tien_Shan.jpg/330px-Alpine_meadows_and_snow-covered_peaks_in_Khan_Tengri_Nature_Park%2C_Tien_Shan.jpg"
+  },
+  {
+    "name": "喜马拉雅山",
+    "name_en": "Himalayas",
+    "lat": 27.988,
+    "lon": 86.925,
+    "country": "尼泊尔/中国",
+    "region": "亞洲",
+    "quote": "印度板块跟欧亚大陆板块 会挤压 形成出那个很大的 那个喜马拉雅山",
+    "context": "解释中亚地区发生大地震的板块运动原因",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Himalayas_and_allied_ranges_NASA_Landsat_showing_the_eight_thousanders%2C_annotated_with_major_rivers.jpg/330px-Himalayas_and_allied_ranges_NASA_Landsat_showing_the_eight_thousanders%2C_annotated_with_major_rivers.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  }
+]

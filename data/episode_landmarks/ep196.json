@@ -1,0 +1,52 @@
+[
+  {
+    "name": "宜珍火山",
+    "name_en": "Ijen Volcano",
+    "lat": -8.058,
+    "lon": 114.242,
+    "country": "印尼",
+    "region": "亞洲",
+    "quote": "東爪哇有一個非常有名的火山叫一針火山",
+    "context": "節目核心討論地點，以極端採礦環境與壯觀火山景致著稱。"
+  },
+  {
+    "name": "宜珍火山口",
+    "name_en": "Kawah Ijen Crater",
+    "lat": -8.058,
+    "lon": 114.242,
+    "country": "印尼",
+    "region": "亞洲",
+    "quote": "還要跟著下到那個 200 公尺深的火山口",
+    "context": "礦工採集硫磺的具體地點，環境險惡且充滿高濃度毒氣。"
+  },
+  {
+    "name": "波羅摩火山",
+    "name_en": "Mount Bromo",
+    "lat": -7.942,
+    "lon": 112.953,
+    "country": "印尼",
+    "region": "亞洲",
+    "quote": "帶著遊客去宜征火山，或是去波羅摩山",
+    "context": "受訪者提到的著名火山景點，也是當地礦工嚮往轉行當導遊的目標。"
+  },
+  {
+    "name": "外南夢港口",
+    "name_en": "Ketapang Ferry Terminal",
+    "lat": -8.136,
+    "lon": 114.396,
+    "country": "印尼",
+    "region": "亞洲",
+    "quote": "我下船之後，然後我就從港口走出來",
+    "context": "受訪者從巴厘島搭船抵達東爪哇，與當地礦工接應的地點。"
+  },
+  {
+    "name": "努山塔拉",
+    "name_en": "Nusantara",
+    "lat": -0.961,
+    "lon": 116.71,
+    "country": "印尼",
+    "region": "亞洲",
+    "quote": "未來叫命名，叫努山塔拉",
+    "context": "印尼政府預計遷往加里曼丹的新首都位址，因雅加達城市問題而選定。"
+  }
+]

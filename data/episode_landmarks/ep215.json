@@ -1,0 +1,114 @@
+[
+  {
+    "name": "卡夫卡出生地故居",
+    "name_en": "Franz Kafka Birthplace",
+    "lat": 50.088,
+    "lon": 14.418,
+    "country": "捷克",
+    "region": "歐洲",
+    "quote": "布拉格的卡夫卡出生地 故居 就在旧城广场旁边",
+    "context": "來賓抵達布拉格後第一個尋找的地標"
+  },
+  {
+    "name": "舊城廣場",
+    "name_en": "Old Town Square",
+    "lat": 50.087,
+    "lon": 14.42,
+    "country": "捷克",
+    "region": "歐洲",
+    "quote": "就在旧城广场旁边 圣灵果拉斯教堂的门的左边",
+    "context": "用來描述卡夫卡故居所在的具體位置",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Prague_07-2016_View_from_Old_Town_Hall_Tower_img3.jpg/330px-Prague_07-2016_View_from_Old_Town_Hall_Tower_img3.jpg"
+  },
+  {
+    "name": "聖尼古拉教堂",
+    "name_en": "St. Nicholas Church",
+    "lat": 50.088,
+    "lon": 14.419,
+    "country": "捷克",
+    "region": "歐洲",
+    "quote": "圣灵果拉斯教堂的门的左边",
+    "context": "說明卡夫卡故居的確切參照物"
+  },
+  {
+    "name": "巴黎鐵塔",
+    "name_en": "Eiffel Tower",
+    "lat": 48.858,
+    "lon": 2.294,
+    "country": "法國",
+    "region": "歐洲",
+    "quote": "比如说巴黎可能是铁塔",
+    "context": "舉例說明吸引旅客前往城市的著名地標",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Tour_Eiffel_Wikimedia_Commons_%28cropped%29.jpg/330px-Tour_Eiffel_Wikimedia_Commons_%28cropped%29.jpg"
+  },
+  {
+    "name": "萬里長城",
+    "name_en": "Great Wall of China",
+    "lat": 40.431,
+    "lon": 116.57,
+    "country": "中國",
+    "region": "亞洲",
+    "quote": "可能你去北京 就是要去爬万里长城等等",
+    "context": "舉例說明旅行者對於特定目的地的憧憬"
+  },
+  {
+    "name": "長濱城",
+    "name_en": "Nagahama Castle",
+    "lat": 35.376,
+    "lon": 136.264,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "长槟城是琵琶湖畔的一个就是战国时期的古堡",
+    "context": "主持人分享與朋友造訪的戰國時期古堡"
+  },
+  {
+    "name": "琵琶湖",
+    "name_en": "Lake Biwa",
+    "lat": 35.333,
+    "lon": 136.166,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "长槟城是琵琶湖畔的一个就是战国时期的古堡",
+    "context": "說明長濱城所在的地理位置"
+  },
+  {
+    "name": "北莊城",
+    "name_en": "Kitanosho Castle",
+    "lat": 36.061,
+    "lon": 136.218,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "这个壁画的标题是北庄城破 还是北庄城落之类的",
+    "context": "長濱城內壁畫所描繪的歷史場景"
+  },
+  {
+    "name": "卡帕多奇亞",
+    "name_en": "Cappadocia",
+    "lat": 38.643,
+    "lon": 34.829,
+    "country": "土耳其",
+    "region": "亞洲",
+    "quote": "一定会去做热气球 卡巴托奇亚地方",
+    "context": "來賓提到去土耳其必定造訪的熱氣球勝地"
+  },
+  {
+    "name": "環城大道",
+    "name_en": "Ringstraße",
+    "lat": 48.204,
+    "lon": 16.361,
+    "country": "奧地利",
+    "region": "歐洲",
+    "quote": "现在城墙拆掉了 变成叫环城大道",
+    "context": "來賓用跑步丈量並驗證其長度的維也納景點"
+  },
+  {
+    "name": "臺北府城北門",
+    "name_en": "North Gate",
+    "lat": 25.048,
+    "lon": 121.511,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "然后你再去跑一下台北 现在剩下北门了",
+    "context": "用來與維也納對比以丈量感受城市大小"
+  }
+]

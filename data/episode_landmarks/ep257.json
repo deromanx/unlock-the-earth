@@ -1,0 +1,63 @@
+[
+  {
+    "name": "捷運府中站",
+    "name_en": "Fuzhong Station",
+    "lat": 25.008,
+    "lon": 121.459,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "他在捷运府中站那边 他有一条路",
+    "context": "縮減車道並改為徒步區的成功交通改造案例"
+  },
+  {
+    "name": "永和",
+    "name_en": "Yonghe District",
+    "lat": 25.008,
+    "lon": 121.514,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "高密度发生在永和",
+    "context": "人行道中斷與交通設計不連貫的代表區域"
+  },
+  {
+    "name": "中和",
+    "name_en": "Zhonghe District",
+    "lat": 24.993,
+    "lon": 121.496,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "中和更多人",
+    "context": "提及人口密度與缺乏完善都市計畫的區域"
+  },
+  {
+    "name": "烏特勒支",
+    "name_en": "Utrecht",
+    "lat": 52.091,
+    "lon": 5.121,
+    "country": "荷蘭",
+    "region": "歐洲",
+    "quote": "荷兰有个城市叫乌特勒芝",
+    "context": "大眾運輸與自行車道規劃良好而不塞車的城市"
+  },
+  {
+    "name": "海德堡",
+    "name_en": "Heidelberg",
+    "lat": 49.398,
+    "lon": 8.672,
+    "country": "德國",
+    "region": "歐洲",
+    "quote": "我现在在德国海德堡的时候 其实也有这种感觉",
+    "context": "騎自行車比開車更具運輸效率的體驗地",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/K%C3%B6nigstuhl%2C_Heidelberg%2C_U-17.jpg/330px-K%C3%B6nigstuhl%2C_Heidelberg%2C_U-17.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "交通大學",
+    "name_en": "National Chiao Tung University",
+    "lat": 24.786,
+    "lon": 120.999,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "交通大学做完的研究是",
+    "context": "提出車道變窄能降低機車鑽車機率的研究機構"
+  }
+]

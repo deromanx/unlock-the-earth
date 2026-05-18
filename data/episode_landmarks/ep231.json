@@ -1,0 +1,33 @@
+[
+  {
+    "name": "同志社大學",
+    "name_en": "Doshisha University",
+    "lat": 35.029,
+    "lon": 135.76,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "我念是同志社嘛 那已经是在京都寓所的北边",
+    "context": "講者過去在京都就讀的大學"
+  },
+  {
+    "name": "京都御所",
+    "name_en": "Kyoto Imperial Palace",
+    "lat": 35.025,
+    "lon": 135.762,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "那已经是在京都寓所的北边",
+    "context": "作為描述同志社大學位置的相對地標",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Kyoto-gosho_Kenreimon_%28open%29.JPG/330px-Kyoto-gosho_Kenreimon_%28open%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "JR京都車站",
+    "name_en": "Kyoto Station",
+    "lat": 34.985,
+    "lon": 135.758,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "城南 就是JR车站更后面的地方",
+    "context": "用以形容違規腳踏車保管場位置偏遠"
+  }
+]

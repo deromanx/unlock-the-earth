@@ -1,0 +1,72 @@
+[
+  {
+    "name": "海斯碼頭",
+    "name_en": "Hythe Pier",
+    "lat": 50.873,
+    "lon": -1.394,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "它有全世界最長的碼頭鐵路...物理上，你可以從它的那個就是陸地端走到海中央",
+    "context": "擁有世界最長碼頭鐵路，可徒步走入海中，是講者印象深刻的景點。"
+  },
+  {
+    "name": "溫徹斯特城堡大會廳",
+    "name_en": "The Great Hall, Winchester Castle",
+    "lat": 51.062,
+    "lon": -1.319,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "號稱是當時的圓桌...就直接在牆壁上...他就放在Windows Castle有個所謂的大會廳",
+    "context": "存放傳說中亞瑟王與圓桌武士的圓桌，是溫徹斯特歷史的重要象徵。"
+  },
+  {
+    "name": "溫徹斯特大教堂",
+    "name_en": "Winchester Cathedral",
+    "lat": 51.06,
+    "lon": -1.313,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "Winchester你可以也可以看到有一個很大教堂...只要是灌Cassetto的地方它一定就是City",
+    "context": "具有歷史意義的主教座堂，使溫徹斯特在法律地位上被定義為城市。"
+  },
+  {
+    "name": "新森林國家公園",
+    "name_en": "New Forest National Park",
+    "lat": 50.865,
+    "lon": -1.565,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "全英國最新的國家公園叫做新森林國家公園...它其實裡面有很多它那個歷史真的可以最受到古羅馬時期",
+    "context": "英國較新的國家公園，擁有豐富自然景觀與古羅馬歷史背景。"
+  },
+  {
+    "name": "林德赫斯特",
+    "name_en": "Lyndhurst",
+    "lat": 50.873,
+    "lon": -1.579,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "走進來這個國家公園之後你可以到一個叫Lindhurst...它是國家公園的正中心的一個行政中心",
+    "context": "新森林國家公園的行政中心，也是愛麗絲夢遊仙境原型的居住地。"
+  },
+  {
+    "name": "布萊頓海灘",
+    "name_en": "Brighton Beach",
+    "lat": 50.819,
+    "lon": -0.137,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "純粹是因為我討厭岩灘...如果有人很喜歡那個岩石海灘Brighton是你一定要去的地方",
+    "context": "以著名的岩石海灘（岩灘）聞名，是倫敦近郊熱門的一日遊目的地。"
+  },
+  {
+    "name": "普茲茅斯歷史造船廠",
+    "name_en": "Portsmouth Historic Dockyard",
+    "lat": 50.801,
+    "lon": -1.109,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "普茲茅斯很有名的軍港他聽很多軍艦",
+    "context": "著名的歷史軍港，停泊許多軍艦，是英格蘭南部的重要地標。"
+  }
+]

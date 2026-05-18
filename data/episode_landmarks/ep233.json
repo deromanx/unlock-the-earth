@@ -1,0 +1,32 @@
+[
+  {
+    "name": "剛果王國遺跡 (姆班扎剛果)",
+    "name_en": "M'banza-Kongo",
+    "lat": -6.267,
+    "lon": 14.24,
+    "country": "安哥拉",
+    "region": "非洲",
+    "quote": "严格来说他是算钢果王国的遗迹",
+    "context": "提及安哥拉北部的世界遺產"
+  },
+  {
+    "name": "索蘇斯鹽沼 (紅色沙漠)",
+    "name_en": "Sossusvlei",
+    "lat": -24.733,
+    "lon": 15.283,
+    "country": "納米比亞",
+    "region": "非洲",
+    "quote": "纳米比亚就是那个红色沙漠很有名",
+    "context": "提及安哥拉南方鄰國納米比亞的著名景觀"
+  },
+  {
+    "name": "洲際飯店 (盧安達)",
+    "name_en": "InterContinental Luanda Miramar",
+    "lat": -8.814,
+    "lon": 13.23,
+    "country": "安哥拉",
+    "region": "非洲",
+    "quote": "除了这个洲际饭店之外的卢安达是怎么样的光景",
+    "context": "討論盧安達市區內極度奢華的高級飯店"
+  }
+]

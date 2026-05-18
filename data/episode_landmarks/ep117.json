@@ -1,0 +1,82 @@
+[
+  {
+    "name": "海德堡酒吧街",
+    "name_en": "Untere Straße",
+    "lat": 49.4121,
+    "lon": 8.7052,
+    "country": "德國",
+    "region": "歐洲",
+    "quote": "Winter Strasse就是在海德堡的一個酒吧街",
+    "context": "位於海德堡老城的酒吧一條街，是當地夜生活與社交的核心地點。"
+  },
+  {
+    "name": "內卡河",
+    "name_en": "Neckar River",
+    "lat": 49.4172,
+    "lon": 8.6753,
+    "country": "德國",
+    "region": "歐洲",
+    "quote": "海德國 因為這邊不是那個NECA 就是一條河嗎",
+    "context": "流經海德堡的河流，夏天是居民進行划船與水上活動的場所。"
+  },
+  {
+    "name": "科隆中央火車站",
+    "name_en": "Cologne Central Station",
+    "lat": 50.9433,
+    "lon": 6.9583,
+    "country": "德國",
+    "region": "歐洲",
+    "quote": "結果沒想到要開進科隆火車站的時候",
+    "context": "講者描述在此站遭遇火車故障、非法越軌等多重延誤的具體地點。"
+  },
+  {
+    "name": "黑森林",
+    "name_en": "Black Forest",
+    "lat": 48.0,
+    "lon": 8.2,
+    "country": "德國",
+    "region": "歐洲",
+    "quote": "越野滑雪其實就是你可以把它想像我們去黑森林好了",
+    "context": "德國著名森林景區，被提及作為進行越野滑雪運動的場地。"
+  },
+  {
+    "name": "駐慕尼黑台北代表處",
+    "name_en": "Taipei Representative Office in Munich",
+    "lat": 48.1453,
+    "lon": 11.5831,
+    "country": "德國",
+    "region": "歐洲",
+    "quote": "我就打電話去給慕尼黑的德國辦事處問說",
+    "context": "講者辦理赴台簽證的地點，用以對比台德兩國行政效率的差異。"
+  },
+  {
+    "name": "海德堡外事局",
+    "name_en": "Ausländerbehörde Heidelberg",
+    "lat": 49.4046,
+    "lon": 8.6745,
+    "country": "德國",
+    "region": "歐洲",
+    "quote": "我在外事局的資料大概有厚厚一點",
+    "context": "辦理居留證的行政機關，用以反映德國行政數位化落後的實況。"
+  },
+  {
+    "name": "海德堡大學",
+    "name_en": "Heidelberg University",
+    "lat": 49.4101,
+    "lon": 8.7062,
+    "country": "德國",
+    "region": "歐洲",
+    "quote": "我就拿了所有那種文件什麼到學校的一個辦公室",
+    "context": "講者註冊入學的地點，分享了德國行政死板且缺乏彈性的趣聞。"
+  },
+  {
+    "name": "海德堡老城",
+    "name_en": "Heidelberg Altstadt",
+    "lat": 49.4115,
+    "lon": 8.7103,
+    "country": "德國",
+    "region": "歐洲",
+    "quote": "因為你之前是住在海德堡市區",
+    "context": "海德堡的核心生活區域，是講者在德國最初定居的社區範圍。"
+  }
+]

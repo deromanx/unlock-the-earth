@@ -1,0 +1,54 @@
+[
+  {
+    "name": "大峽谷",
+    "name_en": "Grand Canyon",
+    "lat": 36.107,
+    "lon": -112.113,
+    "country": "美國",
+    "region": "美洲",
+    "quote": "大家都会想到说 是不是大峡谷",
+    "context": "提到美國知名國家公園時的舉例"
+  },
+  {
+    "name": "優勝美地",
+    "name_en": "Yosemite",
+    "lat": 37.865,
+    "lon": -119.538,
+    "country": "美國",
+    "region": "美洲",
+    "quote": "是不是 尤士美帝",
+    "context": "提到美國知名國家公園時的舉例",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Half_Dome_with_Eastern_Yosemite_Valley_%2850MP%29.jpg/330px-Half_Dome_with_Eastern_Yosemite_Valley_%2850MP%29.jpg"
+  },
+  {
+    "name": "白沙國家公園",
+    "name_en": "White Sands",
+    "lat": 32.787,
+    "lon": -106.326,
+    "country": "美國",
+    "region": "美洲",
+    "quote": "我最喜欢的 国家公园呢 就这个 White Sands",
+    "context": "來賓最喜歡、並待了一個禮拜的國家公園"
+  },
+  {
+    "name": "洛斯阿拉莫斯",
+    "name_en": "Los Alamos",
+    "lat": 35.882,
+    "lon": -106.303,
+    "country": "美國",
+    "region": "美洲",
+    "quote": "就在那附近 哦 那一块 Los Almos",
+    "context": "提到白沙國家公園附近研發原子彈的地方"
+  },
+  {
+    "name": "海德堡",
+    "name_en": "Heidelberg",
+    "lat": 49.398,
+    "lon": 8.672,
+    "country": "德國",
+    "region": "歐洲",
+    "quote": "偶尔我会想象 假设我现在在 人在海德堡",
+    "context": "主持人回想過去在德國留學生活的小城市",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/K%C3%B6nigstuhl%2C_Heidelberg%2C_U-17.jpg/330px-K%C3%B6nigstuhl%2C_Heidelberg%2C_U-17.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  }
+]

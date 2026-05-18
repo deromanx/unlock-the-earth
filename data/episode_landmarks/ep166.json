@@ -1,0 +1,53 @@
+[
+  {
+    "name": "澤烏瑪馬賽克博物館",
+    "name_en": "Zeugma Mosaic Museum",
+    "lat": 37.075,
+    "lon": 37.382,
+    "country": "土耳其",
+    "region": "亞洲",
+    "quote": "那邊有一個超級漂亮的馬賽克博物館，他有一個類似萌娜麗莎微笑的作品，但他是由馬賽克拼起來的",
+    "context": "位於土耳其東部，收藏有著名的「吉普賽女郎」馬賽克作品。"
+  },
+  {
+    "name": "塔克星廣場",
+    "name_en": "Taksim Square",
+    "lat": 41.037,
+    "lon": 28.985,
+    "country": "土耳其",
+    "region": "歐洲",
+    "quote": "就遇到伊斯坦堡的一個很有名的廣場叫塔克星廣場，那邊就是發生了一件爆炸案",
+    "context": "伊斯坦堡的重要地標，節目中提到曾在此發生恐攻爆炸案。"
+  },
+  {
+    "name": "國立政治大學",
+    "name_en": "National Chengchi University",
+    "lat": 24.986,
+    "lon": 121.576,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "所以政大土耳其文... 但是我不知道是哪一所，所以政大土耳其文",
+    "context": "講者就讀的大學，設有台灣唯一的土耳其語文學系。"
+  },
+  {
+    "name": "西門町",
+    "name_en": "Ximending",
+    "lat": 25.044,
+    "lon": 121.506,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "我去西門町找朋友，我從西門町捷運站出來的時候，不是有廣場嗎，我當下看到人那麼多反應是我很害怕",
+    "context": "講者回國後因創傷後壓力症候群，在人潮擁擠處感到不安的場景。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/%E5%BE%9E%E5%B1%88%E8%87%A3%E6%B0%8F%E8%A5%BF%E9%96%80%E9%96%80%E5%B8%82%E5%88%B0%E9%8C%A2%E6%AB%83%E5%8F%B0%E5%8C%97%E4%B8%AD%E8%8F%AF%E6%96%B0%E9%A4%A8_20211204.jpg/330px-%E5%BE%9E%E5%B1%88%E8%87%A3%E6%B0%8F%E8%A5%BF%E9%96%80%E9%96%80%E5%B8%82%E5%88%B0%E9%8C%A2%E6%AB%83%E5%8F%B0%E5%8C%97%E4%B8%AD%E8%8F%AF%E6%96%B0%E9%A4%A8_20211204.jpg"
+  },
+  {
+    "name": "土耳其教育部",
+    "name_en": "Ministry of National Education (Turkey)",
+    "lat": 39.921,
+    "lon": 32.852,
+    "country": "土耳其",
+    "region": "亞洲",
+    "quote": "他的畢業證書要先送去，就是土耳其中央的，就是土耳其教育部去，那教育部在安卡拉嘛",
+    "context": "位於安卡拉，是辦理畢業證書驗證且流程漫長的公務機關。"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "name": "信義安和",
+    "name_en": "Xinyi Anhe",
+    "lat": 25.033,
+    "lon": 121.551,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "哦 從信義安和 開45分鐘到 東北角",
+    "context": "節目開場提到的出發地點，位於台北市中心。"
+  },
+  {
+    "name": "東北角",
+    "name_en": "Northeast Coast",
+    "lat": 25.016,
+    "lon": 121.951,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "為什麼要搬到東北角 因為 好 應該像說早期 我在那邊開的店",
+    "context": "講者居住與經營潛水店的地點，為台灣知名海岸風景區。"
+  },
+  {
+    "name": "中永和",
+    "name_en": "Zhonghe and Yonghe Districts",
+    "lat": 24.999,
+    "lon": 121.5,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "比如說你住在 中永和 也有可能這一段 就要花這個時間",
+    "context": "作為通勤時間對比的台北衛星城鎮。"
+  },
+  {
+    "name": "小琉球",
+    "name_en": "Xiaoliuqiu (Lamay Island)",
+    "lat": 22.342,
+    "lon": 120.37,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "那一次 就是在小琉球 然後背起屏 到海底看海龜",
+    "context": "主持人第一次體驗潛水並看見海龜的地點。"
+  },
+  {
+    "name": "四王群島",
+    "name_en": "Raja Ampat Islands",
+    "lat": -0.5,
+    "lon": 130.5,
+    "country": "印尼",
+    "region": "亞洲",
+    "quote": "每一次我都第一個告訴大家就是 在這個印尼的 我們叫做四王群島",
+    "context": "講者強烈推薦的世界級潛水聖地，珊瑚多樣性極高。"
+  },
+  {
+    "name": "索隆",
+    "name_en": "Sorong",
+    "lat": -0.876,
+    "lon": 131.256,
+    "country": "印尼",
+    "region": "亞洲",
+    "quote": "雅加達在 有直飛的搬機 到那邊的一個最大的城市 對 叫索隆",
+    "context": "前往西巴布亞四王群島的主要門戶城市。"
+  },
+  {
+    "name": "Cat Creek (Cape Kri)",
+    "name_en": "Cape Kri",
+    "lat": -0.555,
+    "lon": 130.675,
+    "country": "印尼",
+    "region": "亞洲",
+    "quote": "那個地方叫做Cat Creek 那它就是被列維斯記錄",
+    "context": "四王群島中，創下單次潛水觀察生物種類世界紀錄的潛點。"
+  },
+  {
+    "name": "達爾文港",
+    "name_en": "Port of Darwin",
+    "lat": -12.463,
+    "lon": 130.844,
+    "country": "澳洲",
+    "region": "大洋洲",
+    "quote": "最近的距離 送到加壓艙 那最近的呢 是要送到澳洲的達爾文港",
+    "context": "早期四王群島醫療條件不足時，最近的加壓艙所在地。"
+  },
+  {
+    "name": "綠島",
+    "name_en": "Green Island",
+    "lat": 22.661,
+    "lon": 121.484,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "東北角的 綠島 小琉球 墾丁 藍魚 都有他自己不同特色",
+    "context": "講者列舉的台灣知名離島潛水地點。"
+  },
+  {
+    "name": "墾丁",
+    "name_en": "Kenting",
+    "lat": 21.948,
+    "lon": 120.797,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "東北角的 綠島 小琉球 墾丁 藍魚 都有他自己不同特色",
+    "context": "台灣南端的潛水勝地。"
+  },
+  {
+    "name": "蘭嶼",
+    "name_en": "Orchid Island",
+    "lat": 22.042,
+    "lon": 121.558,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "東北角的 綠島 小琉球 墾丁 藍魚 都有他自己不同特色",
+    "context": "講者提到的台灣離島潛點（逐字稿誤記為藍魚）。"
+  }
+]

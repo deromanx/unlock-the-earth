@@ -1,0 +1,24 @@
+[
+  {
+    "name": "索科特拉島",
+    "name_en": "Socotra",
+    "lat": 12.463,
+    "lon": 53.823,
+    "country": "葉門",
+    "region": "亞洲",
+    "quote": "因为夜门有一个龙邪岛",
+    "context": "原本計畫順道拜訪但因交通不便放棄",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Socotra_satview.jpg/330px-Socotra_satview.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "馬斯喀特國際機場",
+    "name_en": "Muscat International Airport",
+    "lat": 23.593,
+    "lon": 58.281,
+    "country": "阿曼",
+    "region": "亞洲",
+    "quote": "我们就是在马斯克机场",
+    "context": "抵達阿曼的第一站，覺得機場裝潢超華麗",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Aerial_view_of_Muscat_International_Airport_%28Ank_Kunar%2C_Infosys_Limited%29_02.jpg/330px-Aerial_view_of_Muscat_International_Airport_%28Ank_Kunar%2C_Infosys_Limited%29_02.jpg"
+  }
+]

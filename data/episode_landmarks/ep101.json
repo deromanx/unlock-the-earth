@@ -1,0 +1,62 @@
+[
+  {
+    "name": "生動台北錄音室",
+    "name_en": "Sound Taipei Studio",
+    "lat": 25.049,
+    "lon": 121.517,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "我們現在在生動台北錄音室這樣",
+    "context": "本集節目錄音的地點，位於台北車站後站附近的共構空間。"
+  },
+  {
+    "name": "華音街",
+    "name_en": "Huayin Street",
+    "lat": 25.049,
+    "lon": 121.516,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "這條街我不知道再出了什麼事，華音街，好吃了一大堆",
+    "context": "位於台北車站後站的街道，以擁有眾多美食名店聞名。"
+  },
+  {
+    "name": "Star Hostel",
+    "name_en": "Star Hostel",
+    "lat": 25.049,
+    "lon": 121.517,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "是在那個Star Hostel裡面共購這樣",
+    "context": "位於台北車站旁的知名青年旅館，錄音室設置於其空間內。"
+  },
+  {
+    "name": "台北車站",
+    "name_en": "Taipei Main Station",
+    "lat": 25.048,
+    "lon": 121.517,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "台北車站後站...住在這裡很合理啊，就是台北車站旁邊",
+    "context": "台北重要的交通轉運樞紐，是錄音地點與相關美食街的所在地。"
+  },
+  {
+    "name": "W Hotel",
+    "name_en": "W Taipei",
+    "lat": 25.039,
+    "lon": 121.564,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "我可能會想要住W Hotel，靠腰，這個等級不同",
+    "context": "節目中提到的高端飯店，被用來與青年旅館的定位做對比。"
+  },
+  {
+    "name": "墨西哥市",
+    "name_en": "Mexico City",
+    "lat": 19.432,
+    "lon": -99.133,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "然後現在墨西哥市還會辦王林杰遊行",
+    "context": "亡靈節大遊行的舉辦地，該活動受007電影啟發而規模盛大。"
+  }
+]

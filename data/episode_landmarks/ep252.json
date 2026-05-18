@@ -1,0 +1,165 @@
+[
+  {
+    "name": "玉門關",
+    "name_en": "Yumen Pass",
+    "lat": 40.354,
+    "lon": 93.864,
+    "country": "中國",
+    "region": "亞洲",
+    "quote": "他們說西域 其實大概很大一部分 都是在那個 玉門關那附近",
+    "context": "解釋古代西域的地理位置起點",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Dunhuang.yumenguan.jpg/330px-Dunhuang.yumenguan.jpg"
+  },
+  {
+    "name": "秦始皇陵兵馬俑",
+    "name_en": "Terracotta Army",
+    "lat": 34.384,
+    "lon": 109.273,
+    "country": "中國",
+    "region": "亞洲",
+    "quote": "去看個兵馬俑 我覺得就是 已經算是經典行程了",
+    "context": "西安最著名且必去的歷史景點",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/51714-Terracota-Army.jpg/330px-51714-Terracota-Army.jpg"
+  },
+  {
+    "name": "陝西歷史博物館",
+    "name_en": "Shaanxi History Museum",
+    "lat": 34.225,
+    "lon": 108.954,
+    "country": "中國",
+    "region": "亞洲",
+    "quote": "然後它還有那個陝西歷史博物館 可以去看它的那個相關的一些展覽",
+    "context": "展出歷代帝王陵墓及出土文物的地點",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Shaanxi_History_Museum.jpg/330px-Shaanxi_History_Museum.jpg"
+  },
+  {
+    "name": "華清池",
+    "name_en": "Huaqing Pool",
+    "lat": 34.364,
+    "lon": 109.213,
+    "country": "中國",
+    "region": "亞洲",
+    "quote": "有一天的行程就是要去那個看兵馬泳 然後看華清池",
+    "context": "唐玄宗與楊貴妃的故事及西安事變發生地"
+  },
+  {
+    "name": "鴻門宴遺址",
+    "name_en": "Hongmen Banquet Site",
+    "lat": 34.375,
+    "lon": 109.255,
+    "country": "中國",
+    "region": "亞洲",
+    "quote": "我們附近有個就是當初鴻門宴 就是項羽劉邦的那個鴻門宴",
+    "context": "兵馬俑附近的復刻歷史景區"
+  },
+  {
+    "name": "驪山",
+    "name_en": "Mount Li",
+    "lat": 34.363,
+    "lon": 109.213,
+    "country": "中國",
+    "region": "亞洲",
+    "quote": "當初西安事變的那個地點 就在華清池後面的那個離山上面那邊",
+    "context": "西安事變蔣中正被軟禁的地點"
+  },
+  {
+    "name": "秦始皇陵",
+    "name_en": "Mausoleum of the First Qin Emperor",
+    "lat": 34.381,
+    "lon": 109.254,
+    "country": "中國",
+    "region": "亞洲",
+    "quote": "就是那個秦始皇的始皇陵",
+    "context": "未被盜掘的古代帝王陵墓"
+  },
+  {
+    "name": "乾陵",
+    "name_en": "Qianling Mausoleum",
+    "lat": 34.573,
+    "lon": 108.218,
+    "country": "中國",
+    "region": "亞洲",
+    "quote": "然後我現在在講的是 就是武則天跟那個唐高宗的那個前陵",
+    "context": "唐高宗與武則天合葬的風水寶地"
+  },
+  {
+    "name": "華山",
+    "name_en": "Mount Hua",
+    "lat": 34.482,
+    "lon": 110.08,
+    "country": "中國",
+    "region": "亞洲",
+    "quote": "還有就是跟金庸比較有關的就是那個華山",
+    "context": "金庸武俠小說中著名場景，以險峻著稱"
+  },
+  {
+    "name": "長空棧道",
+    "name_en": "Plank Walk in the Sky",
+    "lat": 34.477,
+    "lon": 110.082,
+    "country": "中國",
+    "region": "亞洲",
+    "quote": "他就是在南峰的一個邊邊 邊邊有個長空戰道 可以去體驗",
+    "context": "華山第一險，建立在絕壁上的棧道"
+  },
+  {
+    "name": "南天門",
+    "name_en": "Nantianmen",
+    "lat": 34.478,
+    "lon": 110.083,
+    "country": "中國",
+    "region": "亞洲",
+    "quote": "你要去爬之前 你要先經過一個地方 叫做南天門",
+    "context": "前往長空棧道必經的道觀"
+  },
+  {
+    "name": "蒼龍嶺",
+    "name_en": "Canglong Ridge",
+    "lat": 34.488,
+    "lon": 110.083,
+    "country": "中國",
+    "region": "亞洲",
+    "quote": "所以他會有一個 叫做蒼龍嶺嘛 就是一路從那個 一路的樓梯",
+    "context": "華山上連續向下的陡峭階梯"
+  },
+  {
+    "name": "嵩山",
+    "name_en": "Mount Song",
+    "lat": 34.484,
+    "lon": 112.936,
+    "country": "中國",
+    "region": "亞洲",
+    "quote": "松山不是在河南",
+    "context": "吐槽金庸小說中門派距離太遠不合理"
+  },
+  {
+    "name": "武當山",
+    "name_en": "Wudang Mountains",
+    "lat": 32.404,
+    "lon": 111.006,
+    "country": "中國",
+    "region": "亞洲",
+    "quote": "他只來得及救到武當",
+    "context": "討論倚天屠龍記中門派救援的距離"
+  },
+  {
+    "name": "七賢莊青年旅館",
+    "name_en": "Qixianzhuang Youth Hostel",
+    "lat": 34.269,
+    "lon": 108.953,
+    "country": "中國",
+    "region": "亞洲",
+    "quote": "然後他叫做七賢莊青年旅館",
+    "context": "由八路軍通訊處舊址改建的特色青旅"
+  },
+  {
+    "name": "鐘樓廣場星巴克",
+    "name_en": "Bell Tower Square Starbucks",
+    "lat": 34.26,
+    "lon": 108.946,
+    "country": "中國",
+    "region": "亞洲",
+    "quote": "我唯一去比較現代 就只有他那個星巴克 廣場內的星巴克",
+    "context": "擁有西安特色美人魚Logo的現代咖啡廳"
+  }
+]

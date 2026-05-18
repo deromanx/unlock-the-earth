@@ -1,0 +1,73 @@
+[
+  {
+    "name": "台北表演藝術中心",
+    "name_en": "Taipei Performing Arts Center",
+    "lat": 25.086,
+    "lon": 121.526,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "會在台北表演藝術中心，演出一個叫做Stone Monkeys 馬嗨猴的舞台劇作品",
+    "context": "烏犬劇場演出舞台劇的地點。"
+  },
+  {
+    "name": "吉薩金字塔",
+    "name_en": "Pyramids of Giza",
+    "lat": 29.979,
+    "lon": 31.134,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "在埃及，在做金字塔的時候，就是跟印度進口鑽石來切石頭用的",
+    "context": "提及古代埃及使用鑽石切割石材。"
+  },
+  {
+    "name": "太極馬哈陵",
+    "name_en": "Taj Mahal",
+    "lat": 27.175,
+    "lon": 78.042,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "你知道他蓋了哪一個最大的建築物，就是太極馬哈陵的建造者",
+    "context": "沙迦漢為紀念妻子所蓋的建築。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Taj_Mahal_%28Edited%29.jpeg/330px-Taj_Mahal_%28Edited%29.jpeg"
+  },
+  {
+    "name": "德里",
+    "name_en": "Delhi",
+    "lat": 28.613,
+    "lon": 77.209,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "從伊朗這邊整個突破，進入今天的德里",
+    "context": "納迪爾沙侵略蒙兀兒帝國的目標。"
+  },
+  {
+    "name": "拉荷爾",
+    "name_en": "Lahore",
+    "lat": 31.52,
+    "lon": 74.358,
+    "country": "巴基斯坦",
+    "region": "亞洲",
+    "quote": "它最後一個離開的地方，其實是今天的老後，拉荷爾應該算是現在的巴基斯坦",
+    "context": "鑽石流轉至席克帝國時的中心。"
+  },
+  {
+    "name": "格林公園",
+    "name_en": "Green Park",
+    "lat": 51.504,
+    "lon": -0.142,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "大概在今天Green Park附近，他要進一間豪宅的時候，被一個瘋子，用棍子打到他頭上淤情",
+    "context": "維多利亞女王在此附近遭瘋子襲擊。"
+  },
+  {
+    "name": "萬國博覽會 (水晶宮舊址)",
+    "name_en": "The Great Exhibition (Crystal Palace Site)",
+    "lat": 51.503,
+    "lon": -0.165,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "就放在英國知名的萬國博覽會，The Great Exhibition裡面",
+    "context": "光之山鑽石在英國首次公開展覽的地點。"
+  }
+]

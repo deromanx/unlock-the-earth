@@ -1,0 +1,23 @@
+[
+  {
+    "name": "涉谷",
+    "name_en": "Shibuya",
+    "lat": 35.6591,
+    "lon": 139.7006,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "涉谷那个地方 虽然说买东西好像很过瘾 但是在那边待久了 我就会觉得 哦 什么时候结束",
+    "context": "講者以此處人潮擁擠的感受，對比紐西蘭地廣人稀的舒適感。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Shibuya_skyline_from_Tokyu_Plaza_in_Omotesando%2C_Harajuku%2C_Tokyo%2C_2024_May.jpg/330px-Shibuya_skyline_from_Tokyu_Plaza_in_Omotesando%2C_Harajuku%2C_Tokyo%2C_2024_May.jpg"
+  },
+  {
+    "name": "安平古堡",
+    "name_en": "Anping Old Fort",
+    "lat": 23.0016,
+    "lon": 120.1611,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "台南的安平古堡 现在叫什么... 它现在叫做热兰遮层... 它的英文就叫 Fort Zealandia",
+    "context": "節目以此地說明紐西蘭地名來源與台灣熱蘭遮城的歷史淵源。"
+  }
+]

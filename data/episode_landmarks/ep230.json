@@ -1,0 +1,33 @@
+[
+  {
+    "name": "蒼古",
+    "name_en": "Canggu",
+    "lat": -8.647,
+    "lon": 115.138,
+    "country": "印尼",
+    "region": "亞洲",
+    "quote": "圈谷的那个住宿是只抢手的",
+    "context": "討論在峇里島數位遊牧時尋找住宿的熱門街區"
+  },
+  {
+    "name": "斯普利特",
+    "name_en": "Split",
+    "lat": 43.508,
+    "lon": 16.44,
+    "country": "克羅埃西亞",
+    "region": "歐洲",
+    "quote": "我就很喜欢那个克罗莱西亚的Split",
+    "context": "受訪者喜愛的數位遊牧私房據點"
+  },
+  {
+    "name": "海德堡",
+    "name_en": "Heidelberg",
+    "lat": 49.407,
+    "lon": 8.69,
+    "country": "德國",
+    "region": "歐洲",
+    "quote": "像我自己在国外生活过两年嘛在海德堡",
+    "context": "受訪者過去曾生活兩年並建立社群的城市",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/K%C3%B6nigstuhl%2C_Heidelberg%2C_U-17.jpg/330px-K%C3%B6nigstuhl%2C_Heidelberg%2C_U-17.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  }
+]

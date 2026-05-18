@@ -1,0 +1,53 @@
+[
+  {
+    "name": "白馬",
+    "name_en": "Whitehorse",
+    "lat": 60.721,
+    "lon": -135.057,
+    "country": "加拿大",
+    "region": "美洲",
+    "quote": "那个白马就那么小的一个地方，然后很多地方你可能其实也去了好几次",
+    "context": "作為探勘與體驗數位遊牧的城鎮"
+  },
+  {
+    "name": "列治文",
+    "name_en": "Richmond",
+    "lat": 49.166,
+    "lon": -123.133,
+    "country": "加拿大",
+    "region": "美洲",
+    "quote": "那时候我们不是还去那个Richmond，Richmond那个早期的华人区吗",
+    "context": "溫哥華華人聚集且生活便利的社區"
+  },
+  {
+    "name": "溫哥華唐人街",
+    "name_en": "Vancouver Chinatown",
+    "lat": 49.28,
+    "lon": -123.098,
+    "country": "加拿大",
+    "region": "美洲",
+    "quote": "或是中国城的附近也通常有可能是比较脏乱",
+    "context": "溫哥華市區中較髒亂的區域"
+  },
+  {
+    "name": "喜士定街 (逐字稿譯為上斯街)",
+    "name_en": "Hastings Street",
+    "lat": 49.282,
+    "lon": -123.093,
+    "country": "加拿大",
+    "region": "美洲",
+    "quote": "我们那时候好像，我们还特意去上斯街参观这样",
+    "context": "溫哥華市中心遊民較多的特定街區"
+  },
+  {
+    "name": "海德堡",
+    "name_en": "Heidelberg",
+    "lat": 49.398,
+    "lon": 8.672,
+    "country": "德國",
+    "region": "歐洲",
+    "quote": "但是在海德堡，我觉得第一点就是因为他不是英语系国家",
+    "context": "用來比較異地建立社交圈難度的小城市",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/K%C3%B6nigstuhl%2C_Heidelberg%2C_U-17.jpg/330px-K%C3%B6nigstuhl%2C_Heidelberg%2C_U-17.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  }
+]

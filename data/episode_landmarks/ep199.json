@@ -1,0 +1,53 @@
+[
+  {
+    "name": "金沙酒店",
+    "name_en": "Marina Bay Sands",
+    "lat": 1.2838,
+    "lon": 103.8592,
+    "country": "新加坡",
+    "region": "亞洲",
+    "quote": "去那個金沙酒店 還有那個Super Tree 那個附近 非常可怕",
+    "context": "被描述為人類文明發展的奇觀，具備高度開發的城市景觀。"
+  },
+  {
+    "name": "超級樹",
+    "name_en": "Supertree Grove",
+    "lat": 1.282,
+    "lon": 103.8644,
+    "country": "新加坡",
+    "region": "亞洲",
+    "quote": "去那個金沙酒店 還有那個Super Tree 那個附近 非常可怕",
+    "context": "新加坡著名的地標，被形容為像是模擬城市遊戲中的最高級景觀。"
+  },
+  {
+    "name": "新加坡國家博物館",
+    "name_en": "National Museum of Singapore",
+    "lat": 1.2966,
+    "lon": 103.8485,
+    "country": "新加坡",
+    "region": "亞洲",
+    "quote": "在新加坡的那個 應該是叫 National Museum 還是就是他們的",
+    "context": "來賓在此觀看關於新加坡被獨立歷史的震撼影片。"
+  },
+  {
+    "name": "新加坡樟宜機場",
+    "name_en": "Singapore Changi Airport",
+    "lat": 1.3644,
+    "lon": 103.9915,
+    "country": "新加坡",
+    "region": "亞洲",
+    "quote": "新加坡機場應該滿繁忙的 非常繁忙 而且很快速",
+    "context": "展示新加坡作為高效智商國家的繁忙交通樞紐。",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Changi_Airport_logo.svg/330px-Changi_Airport_logo.svg.png"
+  },
+  {
+    "name": "樟宜機場第五航廈",
+    "name_en": "Changi Airport Terminal 5",
+    "lat": 1.341,
+    "lon": 104.01,
+    "country": "新加坡",
+    "region": "亞洲",
+    "quote": "然後他們還在 大概第五航廈啦",
+    "context": "節目中提到的正在開發中的大規模機場擴建工程。"
+  }
+]

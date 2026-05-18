@@ -1,0 +1,64 @@
+[
+  {
+    "name": "富士山",
+    "name_en": "Mount Fuji",
+    "lat": 35.36,
+    "lon": 138.727,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "我就跟学生请假 去爬富士山",
+    "context": "讲者提及过去曾请假去旅行的地点",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/View_of_Mount_Fuji_from_%C5%8Cwakudani_20211202.jpg/330px-View_of_Mount_Fuji_from_%C5%8Cwakudani_20211202.jpg"
+  },
+  {
+    "name": "白楼鞋 (巴里洛切)",
+    "name_en": "San Carlos de Bariloche",
+    "lat": -41.133,
+    "lon": -71.31,
+    "country": "阿根廷",
+    "region": "美洲",
+    "quote": "他从阿根廷的首都 骑到大概 白楼鞋",
+    "context": "切格瓦拉当年机车坏掉的小城市"
+  },
+  {
+    "name": "吴树怀雅 (乌斯怀亚)",
+    "name_en": "Ushuaia",
+    "lat": -54.801,
+    "lon": -68.303,
+    "country": "阿根廷",
+    "region": "美洲",
+    "quote": "然后一路骑到世界的尽头 吴树怀雅",
+    "context": "讲者南美洲机车旅行的最终目的地",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Ushuaia_aerial_panorama.jpg/330px-Ushuaia_aerial_panorama.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "五月街",
+    "name_en": "Avenida Primero de Mayo",
+    "lat": 4.593,
+    "lon": -74.148,
+    "country": "哥伦比亚",
+    "region": "美洲",
+    "quote": "他有一个叫五月街的 MyUstrait 就是五月花号",
+    "context": "讲者在波哥大寻找并购买机车的街区"
+  },
+  {
+    "name": "寡达贝 (瓜塔佩)",
+    "name_en": "Guatapé",
+    "lat": 6.233,
+    "lon": -75.161,
+    "country": "哥伦比亚",
+    "region": "美洲",
+    "quote": "一路就是从那个 寡达贝啊 麦德林开始 然后往下骑",
+    "context": "讲者在哥伦比亚机车旅行的起点之一"
+  },
+  {
+    "name": "马修比丘 (马丘比丘)",
+    "name_en": "Machu Picchu",
+    "lat": -13.163,
+    "lon": -72.545,
+    "country": "秘鲁",
+    "region": "美洲",
+    "quote": "整个秘鲁应该只有马修比丘 没有垃圾",
+    "context": "讲者认为秘鲁唯一没有被垃圾污染的著名遗迹"
+  }
+]

@@ -1,0 +1,85 @@
+[
+  {
+    "name": "瓦拉納西",
+    "name_en": "Varanasi",
+    "lat": 25.317,
+    "lon": 82.973,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "比如说我们到了定点, 我们在加坡, 或是我们在瓦拉纳西",
+    "context": "印度13天行程中的重要定點城市之一。"
+  },
+  {
+    "name": "賈加浦爾",
+    "name_en": "Jaipur",
+    "lat": 26.912,
+    "lon": 75.787,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "比如说我们到了定点, 我们在加坡, 或是我们在瓦拉纳西",
+    "context": "印度行程城市（原文誤植為加坡），為自由探索據點。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/East_facade_Hawa_Mahal_Jaipur_from_ground_level_%28July_2022%29_-_img_01.jpg/330px-East_facade_Hawa_Mahal_Jaipur_from_ground_level_%28July_2022%29_-_img_01.jpg"
+  },
+  {
+    "name": "瑪琅",
+    "name_en": "Malang",
+    "lat": -7.966,
+    "lon": 112.632,
+    "country": "印尼",
+    "region": "亞洲",
+    "quote": "然后我们就再回到了那个城市, 那个城市的马浪",
+    "context": "位於爪哇島的城市，是前往偏鄉村落與火山的據點。"
+  },
+  {
+    "name": "苦舊村",
+    "name_en": "Kucur Village",
+    "lat": -7.954,
+    "lon": 112.528,
+    "country": "印尼",
+    "region": "亞洲",
+    "quote": "老师就带着我们去到其中的一个村庄, 那个村庄叫苦旧村, 那真的就是没有任何的游客",
+    "context": "節目核心討論的偏鄉村落，在此進行深度人文交流。"
+  },
+  {
+    "name": "泰姬瑪哈陵",
+    "name_en": "Taj Mahal",
+    "lat": 27.175,
+    "lon": 78.042,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "在一些比较大的景点比如说印度的一些什么太极马哈林啊",
+    "context": "印度具代表性的大型景點（原文誤植為太極馬哈林）。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Taj_Mahal_%28Edited%29.jpeg/330px-Taj_Mahal_%28Edited%29.jpeg"
+  },
+  {
+    "name": "婆羅浮屠",
+    "name_en": "Borobudur",
+    "lat": -7.608,
+    "lon": 110.203,
+    "country": "印尼",
+    "region": "亞洲",
+    "quote": "或者是像印尼的婆罗夫妥啊等等的",
+    "context": "印尼重要的歷史文化景點（原文誤植為婆羅夫妥）。"
+  },
+  {
+    "name": "龍坡邦",
+    "name_en": "Luang Prabang",
+    "lat": 19.883,
+    "lon": 102.133,
+    "country": "寮國",
+    "region": "亞洲",
+    "quote": "比如说辽国龙泊帮我们就会有一个下午的走读",
+    "context": "團隊會在此安排城市走讀導覽行程。"
+  },
+  {
+    "name": "英迪拉·甘地國際機場",
+    "name_en": "Indira Gandhi International Airport",
+    "lat": 28.556,
+    "lon": 77.1,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "比如说印度的新德里机场大家想办法过去",
+    "context": "印度團的指定集合地點。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2024-12-14-00_00_2024-12-14-23_59_Sentinel-2_L2A_True_color_%28cropped%29.jpg/330px-2024-12-14-00_00_2024-12-14-23_59_Sentinel-2_L2A_True_color_%28cropped%29.jpg"
+  }
+]

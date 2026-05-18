@@ -1,0 +1,104 @@
+[
+  {
+    "name": "師大附中",
+    "name_en": "The Senior High School of National Taiwan Normal University",
+    "lat": 25.035,
+    "lon": 121.541,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "你知道我們的來賓其實是附中的比例頗高",
+    "context": "主持人與來賓共同的母校，節目中多次提及。"
+  },
+  {
+    "name": "吳哥窟",
+    "name_en": "Angkor Wat",
+    "lat": 13.412,
+    "lon": 103.867,
+    "country": "柬埔寨",
+    "region": "亞洲",
+    "quote": "吳哥就是比較像是千年以前的古都",
+    "context": "柬埔寨最具代表性的千年古蹟遺址。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Buddhist_monks_in_front_of_the_Angkor_Wat.jpg/330px-Buddhist_monks_in_front_of_the_Angkor_Wat.jpg"
+  },
+  {
+    "name": "光華商場",
+    "name_en": "Guanghua Digital Plaza",
+    "lat": 25.045,
+    "lon": 121.532,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "以前我們在買筆電，你如果去光華商場",
+    "context": "討論筆電品牌通路時提及的電子產品商圈。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Guang_Hua_Digital_Plaza_and_Mitsubishi_Delica_4WD_20080203.jpg/330px-Guang_Hua_Digital_Plaza_and_Mitsubishi_Delica_4WD_20080203.jpg"
+  },
+  {
+    "name": "BKK區",
+    "name_en": "Boeung Keng Kang",
+    "lat": 11.551,
+    "lon": 104.926,
+    "country": "柬埔寨",
+    "region": "亞洲",
+    "quote": "他在BKK那邊，對，下次有機會可以去看一下",
+    "context": "金邊的高級住宅與商業區，咖啡文化盛行。"
+  },
+  {
+    "name": "星巴克旗艦店",
+    "name_en": "Starbucks Flagship Store (BKK)",
+    "lat": 11.553,
+    "lon": 104.927,
+    "country": "柬埔寨",
+    "region": "亞洲",
+    "quote": "星巴克在京邊就有旗艦店，然後蓋的很豪華",
+    "context": "提及金邊極具規模的連鎖咖啡旗艦店。"
+  },
+  {
+    "name": "象山",
+    "name_en": "Xiangshan (Elephant Mountain)",
+    "lat": 25.027,
+    "lon": 121.571,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "他是那個日本的牌子，在台灣也有在象山的附近",
+    "context": "提及特定咖啡品牌在台北的店鋪位置。"
+  },
+  {
+    "name": "鑽石島",
+    "name_en": "Diamond Island (Koh Pich)",
+    "lat": 11.556,
+    "lon": 104.939,
+    "country": "柬埔寨",
+    "region": "亞洲",
+    "quote": "有一個鑽石島，那個島基本上就Diamond Island",
+    "context": "金邊由中國建設公司主導的大型開發區。"
+  },
+  {
+    "name": "湄公河",
+    "name_en": "Mekong River",
+    "lat": 11.56,
+    "lon": 104.945,
+    "country": "柬埔寨",
+    "region": "亞洲",
+    "quote": "從金邊的舊市區，跨過那個美工河",
+    "context": "金邊舊市區與新開發區（鑽石島）的分界線。"
+  },
+  {
+    "name": "永旺夢樂城",
+    "name_en": "Aeon Mall Phnom Penh",
+    "lat": 11.549,
+    "lon": 104.931,
+    "country": "柬埔寨",
+    "region": "亞洲",
+    "quote": "就那個當地百貨公司叫Aeon",
+    "context": "柬埔寨當地知名的日本大型連鎖百貨公司。"
+  },
+  {
+    "name": "永旺夢樂城3",
+    "name_en": "Aeon Mall Mean Chey (Aeon 3)",
+    "lat": 11.503,
+    "lon": 104.925,
+    "country": "柬埔寨",
+    "region": "亞洲",
+    "quote": "就現在已經開到Aeon 3了",
+    "context": "討論中國一帶一路政策帶動的商業建設進展。"
+  }
+]

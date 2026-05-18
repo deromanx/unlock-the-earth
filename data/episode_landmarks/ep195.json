@@ -1,0 +1,93 @@
+[
+  {
+    "name": "沙灣那吉",
+    "name_en": "Savannakhet",
+    "lat": 16.566,
+    "lon": 104.75,
+    "country": "寮國",
+    "region": "亞洲",
+    "quote": "曼谷有直飛沙灣那吉，現在去寮國的那個難易度變簡單了",
+    "context": "寮國的城市，被提及是近期數位遊牧的重鎮。"
+  },
+  {
+    "name": "庫塔",
+    "name_en": "Kuta",
+    "lat": -8.718,
+    "lon": 115.169,
+    "country": "印度尼西亞",
+    "region": "亞洲",
+    "quote": "我住的地方是庫塔，庫塔算是巴黎島南端，就是很熱鬧的一個城鎮還城市",
+    "context": "巴厘島熱鬧的區域，講者因其過於商業化而印象欠佳。"
+  },
+  {
+    "name": "金巴蘭",
+    "name_en": "Jimbaran",
+    "lat": -8.77,
+    "lon": 115.17,
+    "country": "印度尼西亞",
+    "region": "亞洲",
+    "quote": "什麼金巴蘭啊、烏布啊，就是這些在巴黎島很受遊客歡迎的城市，我都沒去",
+    "context": "巴厘島南部受歡迎的海灘區域，與爆炸案故事相關。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Jimbaran200507-1.jpg/330px-Jimbaran200507-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "烏布",
+    "name_en": "Ubud",
+    "lat": -8.507,
+    "lon": 115.262,
+    "country": "印度尼西亞",
+    "region": "亞洲",
+    "quote": "我第一個地方選的是烏布，烏布他也是巴黎島非常受遊客歡迎的一個區域",
+    "context": "講者第二次旅行的首站，認為其商業與在地文化取得平衡。"
+  },
+  {
+    "name": "布羅摩火山",
+    "name_en": "Mount Bromo",
+    "lat": -7.942,
+    "lon": 112.953,
+    "country": "印度尼西亞",
+    "region": "亞洲",
+    "quote": "我去巴黎島之前我去了布羅摩跟宜正，我就是我連續跑了兩座火山",
+    "context": "位於東爪哇的著名火山，講者在抵達巴厘島前曾造訪。"
+  },
+  {
+    "name": "宜珍火山",
+    "name_en": "Mount Ijen",
+    "lat": -8.058,
+    "lon": 114.242,
+    "country": "印度尼西亞",
+    "region": "亞洲",
+    "quote": "我東爪哇第一個要確定是宜珍火山，然後它其實離巴黎島沒有太遠",
+    "context": "東爪哇的火山，以藍火聞名，地理位置與巴厘島相近。"
+  },
+  {
+    "name": "德格拉朗梯田",
+    "name_en": "Tegalalang Rice Terrace",
+    "lat": -8.435,
+    "lon": 115.279,
+    "country": "印度尼西亞",
+    "region": "亞洲",
+    "quote": "巴黎島他們的比如說宣傳照片跟影片，一定會有一個東西，叫做梯田",
+    "context": "巴厘島著名的梯田景觀，展現了傳統的蘇巴克灌溉技術。"
+  },
+  {
+    "name": "布拉坦水神廟",
+    "name_en": "Pura Ulun Danu Bratan",
+    "lat": -8.275,
+    "lon": 115.166,
+    "country": "印度尼西亞",
+    "region": "亞洲",
+    "quote": "很多人會去的那個什麼布拉坦水神廟，就很多人會去打卡的地方，其實也是在祭拜水神",
+    "context": "位於湖邊的著名神廟，是巴厘島重要的打卡點與宗教地標。"
+  },
+  {
+    "name": "巴厘島爆炸案紀念碑",
+    "name_en": "Bali Bombing Memorial",
+    "lat": -8.717,
+    "lon": 115.174,
+    "country": "印度尼西亞",
+    "region": "亞洲",
+    "quote": "會到庫塔一座紀念碑去，為過去就是不幸罹難的亡生者，為他們舉行那個欺負儀式",
+    "context": "紀念2002年庫塔恐怖攻擊受難者的碑誌，氛圍肅穆。"
+  }
+]

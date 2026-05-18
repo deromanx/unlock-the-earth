@@ -1,0 +1,52 @@
+[
+  {
+    "name": "小美人魚雕像",
+    "name_en": "The Little Mermaid",
+    "lat": 55.693,
+    "lon": 12.599,
+    "country": "丹麥",
+    "region": "歐洲",
+    "quote": "美人语的雕像",
+    "context": "哥本哈根的代表性地標，體積不大且位於港口邊。"
+  },
+  {
+    "name": "蒂沃利花園",
+    "name_en": "Tivoli Gardens",
+    "lat": 55.674,
+    "lon": 12.568,
+    "country": "丹麥",
+    "region": "歐洲",
+    "quote": "世界上现存第二古老的主题乐园",
+    "context": "哥本哈根的知名景點，設有平面的雲霄飛車。"
+  },
+  {
+    "name": "維格蘭雕塑公園",
+    "name_en": "Vigeland Sculpture Park",
+    "lat": 59.927,
+    "lon": 10.7,
+    "country": "挪威",
+    "region": "歐洲",
+    "quote": "叫维格兰 雕塑公园",
+    "context": "奧斯陸著名公園，內有212座雕像。"
+  },
+  {
+    "name": "生命之柱",
+    "name_en": "The Monolith",
+    "lat": 59.927,
+    "lon": 10.699,
+    "country": "挪威",
+    "region": "歐洲",
+    "quote": "有一个最大 最醒目就是 叫生命之柱",
+    "context": "維格蘭雕塑公園內最醒目的地標，由人像組成。"
+  },
+  {
+    "name": "霍爾門科倫滑雪跳台",
+    "name_en": "Holmenkollen Ski Jump",
+    "lat": 59.964,
+    "lon": 10.668,
+    "country": "挪威",
+    "region": "歐洲",
+    "quote": "他叫赫尔门科伦 滑雪跳台",
+    "context": "奧斯陸巨大的滑雪跳台，夏季參觀仍感震撼。"
+  }
+]

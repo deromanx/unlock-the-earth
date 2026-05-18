@@ -1,0 +1,72 @@
+[
+  {
+    "name": "帕米爾公路",
+    "name_en": "Pamir Highway (M41)",
+    "lat": 38.38,
+    "lon": 73.18,
+    "country": "塔吉克",
+    "region": "亞洲",
+    "quote": "我覺得塔吉克最精彩的地方，也就是帕米爾公路",
+    "context": "節目討論的核心路線，穿越世界屋脊的高海拔公路。"
+  },
+  {
+    "name": "帕米爾高原",
+    "name_en": "Pamir Plateau",
+    "lat": 38.25,
+    "lon": 73.33,
+    "country": "塔吉克",
+    "region": "亞洲",
+    "quote": "它被稱之為世界屋極嘛，所以它等於是世界的天花板",
+    "context": "被稱為「世界屋脊」，海拔極高且景色開闊的高原。"
+  },
+  {
+    "name": "奧什",
+    "name_en": "Osh",
+    "lat": 40.513,
+    "lon": 72.816,
+    "country": "吉爾吉斯",
+    "region": "亞洲",
+    "quote": "最美的那一段，也就是從基爾吉斯的南邊，有一個城市叫Osh",
+    "context": "帕米爾公路經典旅行路段的起點城市。"
+  },
+  {
+    "name": "瓦漢走廊",
+    "name_en": "Wakhan Corridor",
+    "lat": 37.1,
+    "lon": 72.8,
+    "country": "塔吉克",
+    "region": "亞洲",
+    "quote": "接著會往下切到瓦漢走廊，就是它跟阿富汗的邊界",
+    "context": "位於塔吉克與阿富汗邊界，公路南段經過的狹長地帶。"
+  },
+  {
+    "name": "馬可波羅羊界碑",
+    "name_en": "Marco Polo Sheep Monument (Kyzyl-Art Pass)",
+    "lat": 39.384,
+    "lon": 73.328,
+    "country": "塔吉克",
+    "region": "亞洲",
+    "quote": "那個戒碑就是馬可波羅揚，他作為一個icon，一個戒碑",
+    "context": "位於塔吉克與吉爾吉斯邊界上的標誌性地標。"
+  },
+  {
+    "name": "杜尚別",
+    "name_en": "Dushanbe",
+    "lat": 38.535,
+    "lon": 68.779,
+    "country": "塔吉克",
+    "region": "亞洲",
+    "quote": "一直到首都都上被做結束，其實這是最好看的一段",
+    "context": "塔吉克首都，為帕米爾公路旅行的終點。"
+  },
+  {
+    "name": "聖人紀念公園",
+    "name_en": "Saints' Memorial Park / Shrine",
+    "lat": 37.045,
+    "lon": 72.695,
+    "country": "塔吉克",
+    "region": "亞洲",
+    "quote": "他們會把他拿去，放到聖人的紀念公園，做裝飾",
+    "context": "當地人用馬可波羅羊角裝飾的紀念性空間。"
+  }
+]

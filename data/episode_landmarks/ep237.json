@@ -1,0 +1,104 @@
+[
+  {
+    "name": "吉力馬札羅山",
+    "name_en": "Mount Kilimanjaro",
+    "lat": -3.067,
+    "lon": 37.355,
+    "country": "坦尚尼亞",
+    "region": "非洲",
+    "quote": "吉利马杂洛山能够代表非洲 因为它毕竟是非洲最高峰",
+    "context": "本集節目主角們前往挑戰的非洲第一高峰。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Kilimanjaro_from_Amboseli.jpg/330px-Kilimanjaro_from_Amboseli.jpg"
+  },
+  {
+    "name": "聖母峰",
+    "name_en": "Mount Everest",
+    "lat": 27.988,
+    "lon": 86.925,
+    "country": "尼泊爾",
+    "region": "亞洲",
+    "quote": "其实跟大家想象中什么攀爬圣母峰什么那种情节应该是天差地缘",
+    "context": "用來對比攀登吉力馬札羅山的難易度與情境。"
+  },
+  {
+    "name": "萊莫紹路線",
+    "name_en": "Lemosho Route",
+    "lat": -3.078,
+    "lon": 37.115,
+    "country": "坦尚尼亞",
+    "region": "非洲",
+    "quote": "第一个是我们是爬雷摩修路",
+    "context": "來賓一行人攀登吉力馬札羅山所選擇的路線。"
+  },
+  {
+    "name": "伊真火山",
+    "name_en": "Mount Ijen",
+    "lat": -8.058,
+    "lon": 114.242,
+    "country": "印尼",
+    "region": "亞洲",
+    "quote": "我有爬过那个爪哇岛的伊真火山",
+    "context": "主持人分享過去在黑暗中攀爬火山的經驗。"
+  },
+  {
+    "name": "布羅莫火山",
+    "name_en": "Mount Bromo",
+    "lat": -7.942,
+    "lon": 112.953,
+    "country": "印尼",
+    "region": "亞洲",
+    "quote": "我有朋友是去爬印尼 那一个 那座山叫什么 有点忘了 那一个 陀罗摩河山",
+    "context": "提及近期朋友出國挑戰攀登的其他海外名山。"
+  },
+  {
+    "name": "印加古道",
+    "name_en": "Inca Trail",
+    "lat": -13.228,
+    "lon": -72.505,
+    "country": "秘魯",
+    "region": "美洲",
+    "quote": "明年秘鲁想去爬印加古道",
+    "context": "來賓計畫明年要去挑戰的著名健行路線。"
+  },
+  {
+    "name": "西北峽灣",
+    "name_en": "Westfjords",
+    "lat": 65.918,
+    "lon": -23.161,
+    "country": "冰島",
+    "region": "歐洲",
+    "quote": "像我前年去冰岛就有去那个西北峡湾那边去践行",
+    "context": "來賓分享前年曾在冰島健行的地點。"
+  },
+  {
+    "name": "巴拉夫營地",
+    "name_en": "Barafu Camp",
+    "lat": -3.076,
+    "lon": 37.361,
+    "country": "坦尚尼亞",
+    "region": "非洲",
+    "quote": "基地营在四千六 四千六百多",
+    "context": "攀登吉力馬札羅山攻頂前的最後準備營地。"
+  },
+  {
+    "name": "富士山",
+    "name_en": "Mount Fuji",
+    "lat": 35.36,
+    "lon": 138.727,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "那我从Google map上看他好像形状长得一样富士山",
+    "context": "用來形容吉力馬札羅山在空照圖上的獨立山體形狀。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/View_of_Mount_Fuji_from_%C5%8Cwakudani_20211202.jpg/330px-View_of_Mount_Fuji_from_%C5%8Cwakudani_20211202.jpg"
+  },
+  {
+    "name": "吉力馬札羅國際機場",
+    "name_en": "Kilimanjaro International Airport",
+    "lat": -3.429,
+    "lon": 37.074,
+    "country": "坦尚尼亞",
+    "region": "非洲",
+    "quote": "大部分人直接飞到 Kilimanjaro Airport 它是一个 International Airport",
+    "context": "前往吉力馬札羅山的主要機場。"
+  }
+]

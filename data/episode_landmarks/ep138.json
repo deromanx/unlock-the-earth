@@ -1,0 +1,43 @@
+[
+  {
+    "name": "阿瑪迪斯角",
+    "name_en": "Pointe des Almadies",
+    "lat": 14.74,
+    "lon": -17.525,
+    "country": "塞內加爾",
+    "region": "非洲",
+    "quote": "我們那邊有一個地名叫阿瑪迪,就是意思是西非之角",
+    "context": "非洲大陸的最西端點，具備重要的地理與戰略位置。"
+  },
+  {
+    "name": "黑人文明博物館",
+    "name_en": "Museum of Black Civilisations",
+    "lat": 14.678,
+    "lon": -17.435,
+    "country": "塞內加爾",
+    "region": "非洲",
+    "quote": "蓋了蠻多東西的,像是什麼...新正寺、博物館,就是非洲文物館",
+    "context": "由中國援建的現代化博物館，展示非洲藝術與文明歷史。"
+  },
+  {
+    "name": "塞內加爾國家摔角場",
+    "name_en": "National Wrestling Arena",
+    "lat": 14.757,
+    "lon": -17.387,
+    "country": "塞內加爾",
+    "region": "非洲",
+    "quote": "還有跟那個叫什麼去的,摔腳場,摔腳場,對,他們的國民運動摔腳場",
+    "context": "中國建設的體育館，專為塞內加爾國民運動摔角而設。"
+  },
+  {
+    "name": "達卡大清真寺",
+    "name_en": "Great Mosque of Dakar",
+    "lat": 14.679,
+    "lon": -17.445,
+    "country": "塞內加爾",
+    "region": "非洲",
+    "quote": "蓋了蠻多東西的,像是什麼...Moskey叫什麼,新正寺",
+    "context": "當地重要的伊斯蘭宗教地標，常出現在跨國援建名單中。",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/da/Grand_Mosque_of_Dakar_DSC07363-2.jpg/330px-Grand_Mosque_of_Dakar_DSC07363-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  }
+]

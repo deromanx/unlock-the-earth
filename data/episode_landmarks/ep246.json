@@ -1,0 +1,186 @@
+[
+  {
+    "name": "北大武山喜多麗斷崖",
+    "name_en": "Mount Beidawu Xiduoli Cliff",
+    "lat": 22.628,
+    "lon": 120.732,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "我那时候在 北大武山 山上的那个 席多利断崖 那边就有一个宝",
+    "context": "相隔四年無人尋獲的寶藏"
+  },
+  {
+    "name": "北京大學紅樓",
+    "name_en": "Peking University Red Building",
+    "lat": 39.925,
+    "lon": 116.403,
+    "country": "中國",
+    "region": "亞洲",
+    "quote": "其实是在北大红楼 就是 北京大学的红楼",
+    "context": "藏在五四運動發起地看板後的寶藏"
+  },
+  {
+    "name": "富田林市",
+    "name_en": "Tondabayashi",
+    "lat": 34.5,
+    "lon": 135.6,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "富田林城市 它那个城市其实是江户时代的街道",
+    "context": "在此找到多個寶藏並搶到頭香"
+  },
+  {
+    "name": "交河故城",
+    "name_en": "Jiaohe Ruins",
+    "lat": 42.951,
+    "lon": 89.065,
+    "country": "中國",
+    "region": "亞洲",
+    "quote": "土鲁番那边有一个古城 叫交合古城 它那边就是现在是世界遗产",
+    "context": "作者人生中第一次搶到頭香的寶藏地點"
+  },
+  {
+    "name": "雷門",
+    "name_en": "Kaminarimon",
+    "lat": 35.711,
+    "lon": 139.796,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "譬如说你想象得到的东京 雷门 对 雷门那边就有保 不意外",
+    "context": "舉例知名熱門景點通常都會有寶藏",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Day2-2_%2840909714314%29.jpg/330px-Day2-2_%2840909714314%29.jpg"
+  },
+  {
+    "name": "台北101",
+    "name_en": "Taipei 101",
+    "lat": 25.034,
+    "lon": 121.564,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "然后台北101 这边也有保 就是比较大的景点 这边通常都会有保",
+    "context": "說明大型知名景點一定會有人藏寶"
+  },
+  {
+    "name": "青島大學",
+    "name_en": "Qingdao University",
+    "lat": 36.071,
+    "lon": 120.418,
+    "country": "中國",
+    "region": "亞洲",
+    "quote": "有一个保在青岛大学里面 青岛大学 对 青岛大学",
+    "context": "為尋寶走進校園，意外欣賞到櫻花林"
+  },
+  {
+    "name": "亞速群島",
+    "name_en": "Azores",
+    "lat": 37.741,
+    "lon": -25.675,
+    "country": "葡萄牙",
+    "region": "歐洲",
+    "quote": "葡萄牙有一个群岛 叫做亚述群岛",
+    "context": "為尋寶特地搭機前往，在瀑布景區尋獲"
+  },
+  {
+    "name": "茵萊湖",
+    "name_en": "Inle Lake",
+    "lat": 20.558,
+    "lon": 96.915,
+    "country": "緬甸",
+    "region": "亞洲",
+    "quote": "我在那个缅甸的英来湖 你应该有去过吗",
+    "context": "遇到最特別的實體寶藏，由當地僧侶擔任NPC",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Inle_Lake_%28Myanmar%29.jpg/330px-Inle_Lake_%28Myanmar%29.jpg"
+  },
+  {
+    "name": "四號公園",
+    "name_en": "823 Memorial Park",
+    "lat": 25.002,
+    "lon": 121.512,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "其实四号公园也有 四号公园也有 但四号公园的话 它就是",
+    "context": "拿到帶著寵物遺願的旅行蟲的地方"
+  },
+  {
+    "name": "朝聖之路",
+    "name_en": "Camino de Santiago",
+    "lat": 42.88,
+    "lon": -8.545,
+    "country": "西班牙",
+    "region": "歐洲",
+    "quote": "那时候是在朝圣之路上面 朝圣之路的路上 对朝圣之路的路上",
+    "context": "在庇護所附近尋找偽裝在樹枝裡的寶藏"
+  },
+  {
+    "name": "萬里長城",
+    "name_en": "Great Wall of China",
+    "lat": 40.431,
+    "lon": 116.57,
+    "country": "中國",
+    "region": "亞洲",
+    "quote": "譬如说要去长城 要去看自由女神",
+    "context": "舉例旅行蟲可能被設定的環遊世界目標"
+  },
+  {
+    "name": "自由女神像",
+    "name_en": "Statue of Liberty",
+    "lat": 40.689,
+    "lon": -74.044,
+    "country": "美國",
+    "region": "美洲",
+    "quote": "譬如说要去长城 要去看自由女神",
+    "context": "舉例旅行蟲可能被設定的環遊世界目標"
+  },
+  {
+    "name": "富國島",
+    "name_en": "Phu Quoc",
+    "lat": 10.228,
+    "lon": 103.957,
+    "country": "越南",
+    "region": "亞洲",
+    "quote": "我那时候是在复国岛 其实是在复国岛 越南",
+    "context": "第一次得知並查到地理尋寶遊戲的地點"
+  },
+  {
+    "name": "馬尼拉經濟文化辦事處",
+    "name_en": "Manila Economic and Cultural Office",
+    "lat": 25.056,
+    "lon": 121.543,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "他们其实是叫做 马尼拉文化办事处 以前那个办事处 在我们公司楼上",
+    "context": "因涉及政治敏感字眼而一度被官方拒絕上架"
+  },
+  {
+    "name": "熊野古道",
+    "name_en": "Kumano Kodo",
+    "lat": 33.841,
+    "lon": 135.772,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "走朝圣之路或是走雄尾古道 应该角度还是有点不一样",
+    "context": "節目開頭提及的另一條知名徒步路線"
+  },
+  {
+    "name": "故宮博物院",
+    "name_en": "Forbidden City",
+    "lat": 39.916,
+    "lon": 116.39,
+    "country": "中國",
+    "region": "亞洲",
+    "quote": "因为那时候是住在北京 故宫附近",
+    "context": "提及當時在北京居住的地標",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/The_Forbidden_City_-_View_from_Coal_Hill.jpg/330px-The_Forbidden_City_-_View_from_Coal_Hill.jpg"
+  },
+  {
+    "name": "墾丁",
+    "name_en": "Kenting",
+    "lat": 21.946,
+    "lon": 120.796,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "譬如说他现在旅行到肯丁了 然后就拍照给他",
+    "context": "舉例旅行蟲到達的地點並拍照回傳",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Maobitou_Cape_01.jpg/330px-Maobitou_Cape_01.jpg"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "name": "拉旭",
+    "name_en": "Lashio",
+    "lat": 22.933,
+    "lon": 97.75,
+    "country": "緬甸",
+    "region": "亞洲",
+    "quote": "從小長大的地方是在緬甸哪裡啊？緬甸北部，拉旭。",
+    "context": "講者出生成長的故鄉，也是本次節目討論的核心地點。"
+  },
+  {
+    "name": "滇緬公路",
+    "name_en": "Burma Road",
+    "lat": 22.933,
+    "lon": 97.75,
+    "country": "緬甸",
+    "region": "亞洲",
+    "quote": "它就是，在早期的時候，在歷史的，我們講歷史脈絡的時候，它可能會講到這個滇緬公路。",
+    "context": "二戰時期重要的軍事物資補給線，帶動了當地的貿易與移民。"
+  },
+  {
+    "name": "囊囊",
+    "name_en": "Namlan",
+    "lat": 22.422,
+    "lon": 97.551,
+    "country": "緬甸",
+    "region": "亞洲",
+    "quote": "我淘了兩天一夜...我從那去啊到另外一個地方囊囊。",
+    "context": "講者在 2024 年戰亂中逃難時經過的具體城鎮。"
+  },
+  {
+    "name": "東枝",
+    "name_en": "Taunggyi",
+    "lat": 20.789,
+    "lon": 97.033,
+    "country": "緬甸",
+    "region": "亞洲",
+    "quote": "第二天我們要準備又要去東枝。",
+    "context": "講者逃難路程中的目的地之一，因大廠較多而被選為避難處。"
+  },
+  {
+    "name": "南勢角",
+    "name_en": "Nanshijiao",
+    "lat": 24.99,
+    "lon": 121.509,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "我去吃那個南勢角的緬甸對的華興街裡面的。",
+    "context": "位於新北市中和區，是台灣知名的緬甸華人聚居社區。"
+  },
+  {
+    "name": "華新街",
+    "name_en": "Huaxin Street",
+    "lat": 24.987,
+    "lon": 121.511,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "我去吃那個南勢角的緬甸...華新街裡面的。",
+    "context": "台灣著名的「緬甸街」，聚集許多緬甸家鄉味料理。"
+  },
+  {
+    "name": "國港會館",
+    "name_en": "Kokang Association",
+    "lat": 22.933,
+    "lon": 97.75,
+    "country": "緬甸",
+    "region": "亞洲",
+    "quote": "拉旭的話就很多會館，比如說國港會館，雲南會館。",
+    "context": "拉旭當地的華人社團建築，是民間文化傳承與互助的中心。"
+  },
+  {
+    "name": "雲南會館",
+    "name_en": "Yunnan Association",
+    "lat": 22.933,
+    "lon": 97.75,
+    "country": "緬甸",
+    "region": "亞洲",
+    "quote": "拉旭的話就很多會館，比如說國港會館，雲南會館。",
+    "context": "拉旭當地的雲南同鄉聚集場所，負責推廣文化與社群聯繫。"
+  },
+  {
+    "name": "福建會館",
+    "name_en": "Fujian Association",
+    "lat": 22.933,
+    "lon": 97.75,
+    "country": "緬甸",
+    "region": "亞洲",
+    "quote": "然後什麼福建會館，然後兩廣會館。",
+    "context": "當地華人民間組織，在缺乏官方承認下自行維護社群。"
+  },
+  {
+    "name": "兩廣會館",
+    "name_en": "Liangguang Association",
+    "lat": 22.933,
+    "lon": 97.75,
+    "country": "緬甸",
+    "region": "亞洲",
+    "quote": "然後什麼福建會館，然後兩廣會館。",
+    "context": "廣東與廣西同鄉在拉旭的組織場所，對抗戰後孤軍提供援助。"
+  },
+  {
+    "name": "光明社",
+    "name_en": "Guangming Society",
+    "lat": 22.933,
+    "lon": 97.75,
+    "country": "緬甸",
+    "region": "亞洲",
+    "quote": "還有社團，什麼光明社，這些都有。",
+    "context": "拉旭當地發達的民間社團之一，展現了緊密的社群網絡。"
+  }
+]

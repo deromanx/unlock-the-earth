@@ -1,0 +1,73 @@
+[
+  {
+    "name": "塔美爾",
+    "name_en": "Thamel",
+    "lat": 27.714,
+    "lon": 85.311,
+    "country": "尼泊爾",
+    "region": "亞洲",
+    "quote": "我們大部分背包客 都會停在一個鬧區叫Tamiel",
+    "context": "加德滿都著名的背包客區，充滿青年旅館與夜店。"
+  },
+  {
+    "name": "安納普納基地營",
+    "name_en": "Annapurna Base Camp",
+    "lat": 28.53,
+    "lon": 83.878,
+    "country": "尼泊爾",
+    "region": "亞洲",
+    "quote": "所以我們為什麼講ABC跟EBC 就是Evers跟安納普納 Best Camp",
+    "context": "安納普納登山路線的終點站，海拔約4130公尺。"
+  },
+  {
+    "name": "聖母峰基地營",
+    "name_en": "Everest Base Camp",
+    "lat": 28.007,
+    "lon": 86.853,
+    "country": "尼泊爾",
+    "region": "亞洲",
+    "quote": "不管是爬聖母峰 基地 不管是查安那普那基地",
+    "context": "位於聖母峰腳下的基地，全球最著名的健行目的地之一。"
+  },
+  {
+    "name": "布恩山",
+    "name_en": "Poon Hill",
+    "lat": 28.4,
+    "lon": 83.722,
+    "country": "尼泊爾",
+    "region": "亞洲",
+    "quote": "ABC它途中會經過一個叫Pong Hill",
+    "context": "安納普納健行路線中著名的觀景台，可眺望雪山群。"
+  },
+  {
+    "name": "魚尾峰",
+    "name_en": "Machhapuchhre",
+    "lat": 28.497,
+    "lon": 83.949,
+    "country": "尼泊爾",
+    "region": "亞洲",
+    "quote": "然後到魚尾峰 什麼都可以一圈看",
+    "context": "形狀獨特的聖山，是安納普納群山中最顯眼的標誌。"
+  },
+  {
+    "name": "杜布羅夫尼克",
+    "name_en": "Dubrovnik",
+    "lat": 42.64,
+    "lon": 18.11,
+    "country": "克羅埃西亞",
+    "region": "歐洲",
+    "quote": "我就去了那個克羅來西亞的Dubonik",
+    "context": "講者在 Gap Year 期間從亞洲陸路前往歐洲時經過的城市。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/The_walls_of_the_fortress_and_View_of_the_old_city._panorama.jpg/330px-The_walls_of_the_fortress_and_View_of_the_old_city._panorama.jpg"
+  },
+  {
+    "name": "中尼公路",
+    "name_en": "Arniko Highway",
+    "lat": 27.954,
+    "lon": 85.882,
+    "country": "尼泊爾",
+    "region": "亞洲",
+    "quote": "喔對那個中尼公路直接開來",
+    "context": "連接西藏與加德滿都的重要公路，許多年輕遊客經此入尼。"
+  }
+]

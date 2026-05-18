@@ -1,0 +1,118 @@
+[
+  {
+    "name": "托卡伊",
+    "name_en": "Tokaj",
+    "lat": 48.116,
+    "lon": 21.408,
+    "country": "匈牙利",
+    "region": "歐洲",
+    "quote": "匈牙利有名的大概就是贵府酒吧,就是那个甜酒,TOKAI",
+    "context": "匈牙利著名的貴腐甜酒產區。"
+  },
+  {
+    "name": "埃斯泰爾戈姆",
+    "name_en": "Esztergom",
+    "lat": 47.785,
+    "lon": 18.739,
+    "country": "匈牙利",
+    "region": "歐洲",
+    "quote": "比较靠斯洛伐克这边的Estagon...最后才潜到布达佩斯来的",
+    "context": "匈牙利歷史上的前首都。"
+  },
+  {
+    "name": "維謝格拉德",
+    "name_en": "Visegrád",
+    "lat": 47.784,
+    "lon": 18.97,
+    "country": "匈牙利",
+    "region": "歐洲",
+    "quote": "比较靠斯洛伐克这边的Estagon,然后或者是Vichigrat这些地方",
+    "context": "多瑙河畔的歷史要塞城市。"
+  },
+  {
+    "name": "布達佩斯自由女神像",
+    "name_en": "Liberty Statue (Budapest)",
+    "lat": 47.487,
+    "lon": 19.048,
+    "country": "匈牙利",
+    "region": "歐洲",
+    "quote": "在布达佩斯有一个自由女神像...在那个山上面就开始有各种就是投影",
+    "context": "曾被投射雷射影像抗議總理的地標。"
+  },
+  {
+    "name": "中歐大學",
+    "name_en": "Central European University",
+    "lat": 47.5,
+    "lon": 19.049,
+    "country": "匈牙利",
+    "region": "歐洲",
+    "quote": "匈牙利最有名的一所大学叫中欧大学",
+    "context": "因政府打壓而被迫外遷的學術重鎮。"
+  },
+  {
+    "name": "塞克薩德",
+    "name_en": "Szekszárd",
+    "lat": 46.35,
+    "lon": 18.7,
+    "country": "匈牙利",
+    "region": "歐洲",
+    "quote": "南边有一个叫做Sexar的城市",
+    "context": "匈牙利南部的著名紅酒產區。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Megyesz%C3%A9khely_-_Tolna_megye_-_Szeksz%C3%A1rd.jpg/330px-Megyesz%C3%A9khely_-_Tolna_megye_-_Szeksz%C3%A1rd.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "德布勒森",
+    "name_en": "Debrecen",
+    "lat": 47.531,
+    "lon": 21.624,
+    "country": "匈牙利",
+    "region": "歐洲",
+    "quote": "东边的地方有一个叫Debrecen,其实它是一个非常大的大学城",
+    "context": "匈牙利東部重要的教育與學術中心。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Universit%C3%A4t_Debrecen_Nr._3.jpg/330px-Universit%C3%A4t_Debrecen_Nr._3.jpg"
+  },
+  {
+    "name": "佩奇",
+    "name_en": "Pécs",
+    "lat": 46.072,
+    "lon": 18.232,
+    "country": "匈牙利",
+    "region": "歐洲",
+    "quote": "还有一个叫做Pesh的城市...我觉得就有点像海德堡",
+    "context": "充滿文化氣息的南部大學城。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/P%C3%A9cs_Montage.jpg/330px-P%C3%A9cs_Montage.jpg"
+  },
+  {
+    "name": "巴拉頓湖",
+    "name_en": "Lake Balaton",
+    "lat": 46.85,
+    "lon": 17.74,
+    "country": "匈牙利",
+    "region": "歐洲",
+    "quote": "中欧最大的内陆湖泊,就是巴拉顿湖",
+    "context": "被稱為「匈牙利之海」的度假勝地。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Balaton_Hungary_Landscape.jpg/330px-Balaton_Hungary_Landscape.jpg"
+  },
+  {
+    "name": "獅子山",
+    "name_en": "Lion Rock",
+    "lat": 22.352,
+    "lon": 114.182,
+    "country": "中國香港",
+    "region": "亞洲",
+    "quote": "有点像是那个时候香港狮子山,他们不是会在那边排蜡烛什么的",
+    "context": "節目中提到的社會運動類比地標。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Lion_Rock_5.jpg/330px-Lion_Rock_5.jpg"
+  },
+  {
+    "name": "海德堡",
+    "name_en": "Heidelberg",
+    "lat": 49.398,
+    "lon": 8.672,
+    "country": "德國",
+    "region": "歐洲",
+    "quote": "我觉得就有点像海德堡,它就是一个,它就是有几间有名的大学",
+    "context": "被用來形容佩奇市風格的德國城市。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/K%C3%B6nigstuhl%2C_Heidelberg%2C_U-17.jpg/330px-K%C3%B6nigstuhl%2C_Heidelberg%2C_U-17.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  }
+]

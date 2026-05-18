@@ -1,0 +1,132 @@
+[
+  {
+    "name": "花园大道",
+    "name_en": "Garden Route",
+    "lat": -34.033,
+    "lon": 23.05,
+    "country": "南非",
+    "region": "非洲",
+    "quote": "因为我刚好我现在住的地方叫花园大道",
+    "context": "讲者目前居住地，气候宜人且受欧洲移民欢迎"
+  },
+  {
+    "name": "厄加勒斯角",
+    "name_en": "Cape Agulhas",
+    "lat": -34.829,
+    "lon": 20.0,
+    "country": "南非",
+    "region": "非洲",
+    "quote": "过了那个非洲最南端的那个点 俄勒斯角",
+    "context": "非洲大陆的最南端"
+  },
+  {
+    "name": "开普角",
+    "name_en": "Cape Point",
+    "lat": -34.356,
+    "lon": 18.497,
+    "country": "南非",
+    "region": "非洲",
+    "quote": "然后我们就是在开普角的这个范围的南部",
+    "context": "讲者居住地所在的一个地理区域参考点"
+  },
+  {
+    "name": "约翰尼斯堡CBD",
+    "name_en": "Johannesburg CBD",
+    "lat": -26.204,
+    "lon": 28.047,
+    "country": "南非",
+    "region": "非洲",
+    "quote": "熔熔那一集他们讲到被抢的是约翰尼斯堡CBD",
+    "context": "治安非常差、连当地人都会避开的市中心区域"
+  },
+  {
+    "name": "伊利莎白港市中心",
+    "name_en": "Port Elizabeth Downtown",
+    "lat": -33.96,
+    "lon": 25.623,
+    "country": "南非",
+    "region": "非洲",
+    "quote": "他在伊利莎白港的Downtown被抢",
+    "context": "治安极差，连南非人都不建议前往的区域"
+  },
+  {
+    "name": "马来营",
+    "name_en": "Bo-Kaap",
+    "lat": -33.918,
+    "lon": 18.413,
+    "country": "南非",
+    "region": "非洲",
+    "quote": "开普敦有一个区域 就是有很多 我们来讲 Kamerlay 他就是这群人 马来营",
+    "context": "早期被流放政治犯及奴隶后裔聚居形成的独特文化区"
+  },
+  {
+    "name": "克鲁格国家公园",
+    "name_en": "Kruger National Park",
+    "lat": -23.988,
+    "lon": 31.554,
+    "country": "南非",
+    "region": "非洲",
+    "quote": "克鲁哥国家公园一定要去",
+    "context": "讲者强烈推荐的经典野生动物保护区"
+  },
+  {
+    "name": "鲸鱼之路",
+    "name_en": "Whale Route",
+    "lat": -34.422,
+    "lon": 19.226,
+    "country": "南非",
+    "region": "非洲",
+    "quote": "海岸线这条路有名的是一条路叫金鱼之路",
+    "context": "可以从陆地上肉眼近距离观赏鲸鱼的知名海岸路线"
+  },
+  {
+    "name": "西蒙斯镇",
+    "name_en": "Simon's Town",
+    "lat": -34.193,
+    "lon": 18.433,
+    "country": "南非",
+    "region": "非洲",
+    "quote": "一个是Simon's Town旁边的Borders Beach",
+    "context": "邻近著名野生企鹅观赏海滩的小镇"
+  },
+  {
+    "name": "博尔德斯海滩",
+    "name_en": "Boulders Beach",
+    "lat": -34.197,
+    "lon": 18.451,
+    "country": "南非",
+    "region": "非洲",
+    "quote": "一个是Simon's Town旁边的Borders Beach",
+    "context": "大部分观光客前往开普半岛一日游时看企鹅的海滩"
+  },
+  {
+    "name": "开普半岛",
+    "name_en": "Cape Peninsula",
+    "lat": -34.15,
+    "lon": 18.4,
+    "country": "南非",
+    "region": "非洲",
+    "quote": "那个是大部分人家在做开埔半岛一日游",
+    "context": "包含好望角等知名景点，通常安排一日游的半岛区域"
+  },
+  {
+    "name": "好望角",
+    "name_en": "Cape of Good Hope",
+    "lat": -34.358,
+    "lon": 18.472,
+    "country": "南非",
+    "region": "非洲",
+    "quote": "到那个好望角的时候中间会停下来看企鹅的地方",
+    "context": "开普半岛一日游的重要地标之一"
+  },
+  {
+    "name": "斯托尼角",
+    "name_en": "Stony Point",
+    "lat": -34.373,
+    "lon": 18.821,
+    "country": "南非",
+    "region": "非洲",
+    "quote": "那我应该是中文世界第一个推荐另外一个地方叫Stoning Point",
+    "context": "讲者私心推荐、观光客较少且能维持野生生态的企鹅栖息地"
+  }
+]

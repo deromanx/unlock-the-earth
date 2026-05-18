@@ -1,0 +1,86 @@
+[
+  {
+    "name": "艾菲爾鐵塔",
+    "name_en": "Eiffel Tower",
+    "lat": 48.858,
+    "lon": 2.294,
+    "country": "法國",
+    "region": "歐洲",
+    "quote": "大家在去巴黎玩的時候，事前一定會做很多功課...埃菲爾鐵塔、聖母院啊",
+    "context": "被列為耳熟能詳的大景點，是遊客必做的功課。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Tour_Eiffel_Wikimedia_Commons_%28cropped%29.jpg/330px-Tour_Eiffel_Wikimedia_Commons_%28cropped%29.jpg"
+  },
+  {
+    "name": "巴黎聖母院",
+    "name_en": "Notre-Dame de Paris",
+    "lat": 48.853,
+    "lon": 2.349,
+    "country": "法國",
+    "region": "歐洲",
+    "quote": "埃菲爾鐵塔、聖母院啊、什麼之類的。",
+    "context": "節目中提到的大眾知名景點之一。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Notre-Dame_de_Paris%2C_4_October_2017.jpg/330px-Notre-Dame_de_Paris%2C_4_October_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "羅浮宮",
+    "name_en": "Louvre Museum",
+    "lat": 48.86,
+    "lon": 2.337,
+    "country": "法國",
+    "region": "歐洲",
+    "quote": "羅浮宮，奧塞美術館，凡爾賽宮，你排一排發現就五天了。",
+    "context": "內涵豐富的博物館，受訪者曾持有年票並多次造訪。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Louvre_Museum_Wikimedia_Commons.jpg/330px-Louvre_Museum_Wikimedia_Commons.jpg"
+  },
+  {
+    "name": "奧塞美術館",
+    "name_en": "Musée d'Orsay",
+    "lat": 48.859,
+    "lon": 2.326,
+    "country": "法國",
+    "region": "歐洲",
+    "quote": "奧塞跟局員的聯名的年票，這個年票呢，它其實並不貴。",
+    "context": "重點推薦美術館，持有年票可享受尊榮提前進館。"
+  },
+  {
+    "name": "凡爾賽宮",
+    "name_en": "Palace of Versailles",
+    "lat": 48.804,
+    "lon": 2.12,
+    "country": "法國",
+    "region": "歐洲",
+    "quote": "羅浮宮，奧塞美術館，凡爾賽宮，你排一排發現就五天了。",
+    "context": "行程排入後會極度消耗體力的知名宮殿景點。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Versailles-Chateau-Jardins02.jpg/330px-Versailles-Chateau-Jardins02.jpg"
+  },
+  {
+    "name": "里沃利街",
+    "name_en": "Rue de Rivoli",
+    "lat": 48.857,
+    "lon": 2.352,
+    "country": "法國",
+    "region": "歐洲",
+    "quote": "在羅浮宮後面有一條很大的街叫Hivoli，就是一條很主要的幹道。",
+    "context": "原為主要幹道，現被改建為全歐洲最大的自行車道。"
+  },
+  {
+    "name": "龐畢度中心",
+    "name_en": "Centre Pompidou",
+    "lat": 48.86,
+    "lon": 2.352,
+    "country": "法國",
+    "region": "歐洲",
+    "quote": "龐碧度中心有超多隻space invader，它旁邊有一棟建築。",
+    "context": "街頭藝術高度密集的場景，有大型馬賽克藝術裝置。"
+  },
+  {
+    "name": "橘園美術館",
+    "name_en": "Musée de l'Orangerie",
+    "lat": 48.863,
+    "lon": 2.322,
+    "country": "法國",
+    "region": "歐洲",
+    "quote": "以橘原美術館為例好了，其實這個是我想推薦給大家的一個美術館。",
+    "context": "規模較小但含金量極高，推薦給對美術沒特別研究的遊客。"
+  }
+]

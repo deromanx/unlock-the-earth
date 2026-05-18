@@ -1,0 +1,113 @@
+[
+  {
+    "name": "泰寮友誼大橋",
+    "name_en": "Thai-Lao Friendship Bridge",
+    "lat": 17.876,
+    "lon": 102.714,
+    "country": "寮國",
+    "region": "亞洲",
+    "quote": "那时候我去泳征的时候是徒步走那个太辽有一大桥",
+    "context": "主持人當初從泰國徒步進入寮國的邊境橋樑",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Thai-Lao_Friendship_Bridge_%2810729268664%29.jpg/330px-Thai-Lao_Friendship_Bridge_%2810729268664%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "瓦岱國際機場",
+    "name_en": "Wattay International Airport",
+    "lat": 17.988,
+    "lon": 102.563,
+    "country": "寮國",
+    "region": "亞洲",
+    "quote": "那机场离市区 大概要开车20分钟的车程",
+    "context": "永珍的機場，附近開了第一間7-11"
+  },
+  {
+    "name": "三江市場",
+    "name_en": "San Jiang Market",
+    "lat": 17.969,
+    "lon": 102.576,
+    "country": "寮國",
+    "region": "亞洲",
+    "quote": "有一个地方叫做三江 他连城市名都换成三江 永珍人也叫他三江了",
+    "context": "永珍的中國城，聚集許多中國人與中文招牌"
+  },
+  {
+    "name": "凱旋門 (Patuxai)",
+    "name_en": "Patuxai Monument",
+    "lat": 17.97,
+    "lon": 102.618,
+    "country": "寮國",
+    "region": "亞洲",
+    "quote": "那个凯旋门 它叫Pattusai 凯旋门早就建好了 是辽国人自己建的",
+    "context": "寮國人自己建造的凱旋門，來賓認為遠勝巴黎的"
+  },
+  {
+    "name": "巴黎凱旋門",
+    "name_en": "Arc de Triomphe",
+    "lat": 48.873,
+    "lon": 2.295,
+    "country": "法國",
+    "region": "歐洲",
+    "quote": "我觉得Pattusai 远胜巴黎的凯旋门",
+    "context": "被來賓拿來與永珍的凱旋門做比較"
+  },
+  {
+    "name": "雪山隧道",
+    "name_en": "Hsuehshan Tunnel",
+    "lat": 24.896,
+    "lon": 121.758,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "我在过去 雪睡很塞耶",
+    "context": "聊到高速公路車程時，被拿來比喻塞車情況"
+  },
+  {
+    "name": "中央廣場烏隆他尼購物中心",
+    "name_en": "Central Plaza Udon Thani",
+    "lat": 17.405,
+    "lon": 102.802,
+    "country": "泰國",
+    "region": "亞洲",
+    "quote": "去那个 mall 那个 Central Plaza 很大的 mall 它里面还有 Uniqlo",
+    "context": "寮國外派圈常去採買、看電影與吃麥當勞的泰國商場"
+  },
+  {
+    "name": "新北投捷運站",
+    "name_en": "Xinbeitou MRT Station",
+    "lat": 25.136,
+    "lon": 121.502,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "我们就从 新北投捷迷站走出来 前面就有很多餐厅",
+    "context": "主持人帶寮國朋友Noy遊台北時的午餐地點"
+  },
+  {
+    "name": "寮國國際貿易展覽中心",
+    "name_en": "Lao ITECC",
+    "lat": 17.949,
+    "lon": 102.639,
+    "country": "寮國",
+    "region": "亞洲",
+    "quote": "每一个星期六在ITEC ITEC是一个 它有点是像Mall",
+    "context": "週末有市集，可以買到農作物與野味"
+  },
+  {
+    "name": "北韓餐廳",
+    "name_en": "Pyongyang Restaurant",
+    "lat": 17.958,
+    "lon": 102.628,
+    "country": "寮國",
+    "region": "亞洲",
+    "quote": "我们在辽国有去过北韩的餐厅",
+    "context": "提供韓國菜，晚上七點有女服務生變裝表演"
+  },
+  {
+    "name": "北韓駐寮國大使館",
+    "name_en": "Embassy of North Korea in Laos",
+    "lat": 17.954,
+    "lon": 102.626,
+    "country": "寮國",
+    "region": "亞洲",
+    "quote": "他们也有北韩的大使馆 然后我有就是经过 然后赶快拿手机偷偷起来",
+    "context": "來賓在永珍經過時偷偷拍照的地方"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "name": "大馬士革大學",
+    "name_en": "Damascus University",
+    "lat": 33.5042,
+    "lon": 36.2758,
+    "country": "敘利亞",
+    "region": "亞洲",
+    "quote": "像我在大馬斯克大學裡面上課，我的老師都沒有在包頭巾",
+    "context": "講者在當地念語言學校的地點之一，提到校內風氣相對自由。",
+    "image": "https://upload.wikimedia.org/wikipedia/en/7/74/Damascus_University.png"
+  },
+  {
+    "name": "麥加",
+    "name_en": "Mecca",
+    "lat": 21.4225,
+    "lon": 39.8262,
+    "country": "沙烏地阿拉伯",
+    "region": "亞洲",
+    "quote": "那就提到就是說，那你去麥家朝聖的經驗",
+    "context": "課程教材提到的宗教朝聖地，為穆斯林信仰的核心與地標。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Great_Mosque_of_Mecca1.jpg/330px-Great_Mosque_of_Mecca1.jpg"
+  }
+]

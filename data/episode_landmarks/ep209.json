@@ -1,0 +1,123 @@
+[
+  {
+    "name": "馬丘比丘",
+    "name_en": "Machu Picchu",
+    "lat": -13.163,
+    "lon": -72.545,
+    "country": "秘魯",
+    "region": "美洲",
+    "quote": "第五天到馬丘比丘，就這樣走過去",
+    "context": "印加遺址，受訪者徒步五天抵達的終點。"
+  },
+  {
+    "name": "庫斯科",
+    "name_en": "Cusco",
+    "lat": -13.531,
+    "lon": -71.967,
+    "country": "秘魯",
+    "region": "美洲",
+    "quote": "從Cuzco走到馬丘比丘",
+    "context": "徒步旅程的起點，古印加帝國首都。"
+  },
+  {
+    "name": "薩干代步道",
+    "name_en": "Salkantay Trek",
+    "lat": -13.333,
+    "lon": -72.633,
+    "country": "秘魯",
+    "region": "美洲",
+    "quote": "他有一條步道叫薩干代，然後我們就從Cuzco開始走",
+    "context": "徒步至馬丘比丘的替代路線，海拔最高4600公尺。"
+  },
+  {
+    "name": "瓦納比丘",
+    "name_en": "Huayna Picchu",
+    "lat": -13.156,
+    "lon": -72.545,
+    "country": "秘魯",
+    "region": "美洲",
+    "quote": "去爬玩那比丘，就是在馬丘比丘旁的山，然後我們就爬到最上面",
+    "context": "馬丘比丘旁的尖峰，可俯瞰整個遺址景觀。"
+  },
+  {
+    "name": "亞馬遜雨林",
+    "name_en": "Amazon Rainforest",
+    "lat": -3.749,
+    "lon": -73.253,
+    "country": "秘魯",
+    "region": "美洲",
+    "quote": "亞馬遜雨林，親眼看到你在國家地理頻道才會看到的景色",
+    "context": "入住雨林旅館四天三夜，觀察原住民生活。"
+  },
+  {
+    "name": "阿里吉巴 (阿雷基帕)",
+    "name_en": "Arequipa",
+    "lat": -16.409,
+    "lon": -71.537,
+    "country": "秘魯",
+    "region": "美洲",
+    "quote": "它是白色之城，就它建築都是白色，因為它都是用火山灰蓋",
+    "context": "秘魯最漂亮的城市，建築多由火山石建成。"
+  },
+  {
+    "name": "米斯蒂火山",
+    "name_en": "El Misti",
+    "lat": -16.294,
+    "lon": -71.409,
+    "country": "秘魯",
+    "region": "美洲",
+    "quote": "一路爬到5822公尺，火山是那種你踩一下它會陷下去",
+    "context": "阿里吉巴旁的火山，受訪者在此經歷艱難登頂。"
+  },
+  {
+    "name": "拉巴斯",
+    "name_en": "La Paz",
+    "lat": -16.489,
+    "lon": -68.119,
+    "country": "玻利維亞",
+    "region": "美洲",
+    "quote": "我們在首都的拉巴斯，我們待了兩周",
+    "context": "玻利維亞行政首都，受訪者在此遭遇大罷工。"
+  },
+  {
+    "name": "天空之境 (烏尤尼鹽沼)",
+    "name_en": "Salar de Uyuni",
+    "lat": -20.133,
+    "lon": -67.483,
+    "country": "玻利維亞",
+    "region": "美洲",
+    "quote": "大家的目光都會落在天空之境",
+    "context": "玻利維亞最知名的景點，世界最大鹽沼。"
+  },
+  {
+    "name": "瓦伊納波托西山",
+    "name_en": "Huayna Potosí",
+    "lat": -16.262,
+    "lon": -68.155,
+    "country": "玻利維亞",
+    "region": "美洲",
+    "quote": "去挑戰6800公尺的雪山，它是要雪盤，就是爬在雪上",
+    "context": "拉巴斯附近的雪山，受訪者進行冰川攀登挑戰。"
+  },
+  {
+    "name": "米蘭馬爾彭薩機場",
+    "name_en": "Milan Malpensa Airport",
+    "lat": 45.63,
+    "lon": 8.723,
+    "country": "義大利",
+    "region": "歐洲",
+    "quote": "我選的那個地方在米蘭的那個國際機場附近",
+    "context": "受訪者即將前往交換的據點，交通位置便利。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Milan_malpensa_terminal_airport.jpg/330px-Milan_malpensa_terminal_airport.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "聖地牙哥",
+    "name_en": "Santiago",
+    "lat": -33.448,
+    "lon": -70.667,
+    "country": "智利",
+    "region": "美洲",
+    "quote": "這次就是只有到智利的首都，我們就玩到森迪亞哥",
+    "context": "智利首都，本次南美旅程抵達的最南端城市。"
+  }
+]

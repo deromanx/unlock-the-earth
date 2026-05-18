@@ -1,0 +1,94 @@
+[
+  {
+    "name": "台中市議會",
+    "name_en": "Taichung City Council",
+    "lat": 24.162,
+    "lon": 120.647,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "带民众透过台中议会议事流程、台中地方派系等主题，成为共同监督市政的公民",
+    "context": "開場介紹好民文化行動協會監督市政的對象。"
+  },
+  {
+    "name": "奧斯陸大學",
+    "name_en": "University of Oslo",
+    "lat": 59.938,
+    "lon": 10.722,
+    "country": "挪威",
+    "region": "歐洲",
+    "quote": "我就是在2016年到2017年，去了挪威的奥斯陆大学當交換學生",
+    "context": "來賓 Nathan 當年進行交換學生的主要地點。"
+  },
+  {
+    "name": "奧斯陸機場",
+    "name_en": "Oslo Airport",
+    "lat": 60.197,
+    "lon": 11.1,
+    "country": "挪威",
+    "region": "歐洲",
+    "quote": "一下到挪威的机场的时候就是呼吸到新鲜空气，我就觉得天哪我夏天结束了",
+    "context": "Nathan 抵達挪威時對當地氣溫的第一印象。"
+  },
+  {
+    "name": "聖壇岩",
+    "name_en": "Preikestolen",
+    "lat": 58.986,
+    "lon": 6.188,
+    "country": "挪威",
+    "region": "歐洲",
+    "quote": "第一个就是圣坛岩，它就是一个很像讲台的那个地方",
+    "context": "挪威著名的三大奇岩之一，形狀像講台。"
+  },
+  {
+    "name": "奇蹟岩",
+    "name_en": "Kjeragbolten",
+    "lat": 59.033,
+    "lon": 6.653,
+    "country": "挪威",
+    "region": "歐洲",
+    "quote": "第二个是奇迹岩...它就是一颗石头夹在两个山的中间的那颗石头",
+    "context": "挪威三大奇岩之一，夾在山壁間的奇特景觀。"
+  },
+  {
+    "name": "巨人之舌",
+    "name_en": "Trolltunga",
+    "lat": 60.124,
+    "lon": 6.74,
+    "country": "挪威",
+    "region": "歐洲",
+    "quote": "第三个就叫做巨人之蛇，然后它是一个很像舌头，然后就是一个很尖的就凸出来",
+    "context": "挪威三大奇岩之一，從山壁凸出的知名拍照點。"
+  },
+  {
+    "name": "卡爾約翰大道",
+    "name_en": "Karl Johans gate",
+    "lat": 59.914,
+    "lon": 10.738,
+    "country": "挪威",
+    "region": "歐洲",
+    "quote": "就在那个市中心最大条的那条人行街道上，叫做卡尔约翰大道",
+    "context": "奧斯陸最主要的街道，也是國慶遊行的必經之地。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Karl_Johans_gate_sett_fra_Akersgata%2C_Oslo.jpg/330px-Karl_Johans_gate_sett_fra_Akersgata%2C_Oslo.jpg"
+  },
+  {
+    "name": "奧斯陸皇宮",
+    "name_en": "The Royal Palace",
+    "lat": 59.917,
+    "lon": 10.727,
+    "country": "挪威",
+    "region": "歐洲",
+    "quote": "国王皇后啊...站在皇宫里面一年一度出现这样子",
+    "context": "挪威皇室居住地，國慶日遊行的終點。"
+  },
+  {
+    "name": "特羅姆瑟",
+    "name_en": "Tromsø",
+    "lat": 69.649,
+    "lon": 18.955,
+    "country": "挪威",
+    "region": "歐洲",
+    "quote": "去挪威很北边的一个城市，它叫做极光，它就是一个极光小镇，然后叫做特罗姆色",
+    "context": "位於北極圈內的極光觀光小鎮。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Troms%C3%B8_sentrum_%285835702754%29.jpg/330px-Troms%C3%B8_sentrum_%285835702754%29.jpg"
+  }
+]

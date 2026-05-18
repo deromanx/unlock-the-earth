@@ -1,0 +1,46 @@
+[
+  {
+    "name": "瑞典議會大廈",
+    "name_en": "Riksdag",
+    "lat": 59.327,
+    "lon": 18.068,
+    "country": "瑞典",
+    "region": "歐洲",
+    "quote": "瑞典史上第一次被倒戈,他被丢出议会",
+    "context": "瑞典首相因租金政策在此遭議會不信任投票。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Riksdagen_%28current_composition%29.svg/330px-Riksdagen_%28current_composition%29.svg.png"
+  },
+  {
+    "name": "北極圈",
+    "name_en": "Arctic Circle",
+    "lat": 66.562,
+    "lon": 19.0,
+    "country": "瑞典",
+    "region": "極地",
+    "quote": "有台湾人是住在瑞典的极圈内",
+    "context": "節目中提及瑞典極北地區特有的永夜氣候環境。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Arctic_circle.svg/330px-Arctic_circle.svg.png"
+  },
+  {
+    "name": "勘察家半島",
+    "name_en": "Kamchatka Peninsula",
+    "lat": 56.133,
+    "lon": 160.163,
+    "country": "俄羅斯",
+    "region": "亞洲",
+    "quote": "或者是更上面那种西伯利亚的，可能勘察家半岛之类的",
+    "context": "節目中用以類比瑞典高緯度地理特徵的半島。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Location_Kamchatka_Peninsula.PNG/330px-Location_Kamchatka_Peninsula.PNG"
+  },
+  {
+    "name": "斯德哥爾摩市中心",
+    "name_en": "Stockholm City Centre",
+    "lat": 59.33,
+    "lon": 18.068,
+    "country": "瑞典",
+    "region": "歐洲",
+    "quote": "他提出他要调涨一些市中心的房屋的一些租金什么",
+    "context": "討論瑞典社會主義政策下對精華區租金的強大控制。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Stockholm_boroughs_2007.svg/330px-Stockholm_boroughs_2007.svg.png"
+  }
+]

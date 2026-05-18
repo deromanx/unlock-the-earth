@@ -1,0 +1,43 @@
+[
+  {
+    "name": "大灣",
+    "name_en": "Grand Baie",
+    "lat": -20.006,
+    "lon": 57.582,
+    "country": "模里西斯",
+    "region": "非洲",
+    "quote": "而且除非你是住在北部大湾那种",
+    "context": "提及模里西斯北部交通較方便的觀光區域"
+  },
+  {
+    "name": "路易士港",
+    "name_en": "Port Louis",
+    "lat": -20.161,
+    "lon": 57.501,
+    "country": "模里西斯",
+    "region": "非洲",
+    "quote": "尤其是我们的首都路易四港那边",
+    "context": "提及首都容易塞車的交通狀況"
+  },
+  {
+    "name": "長灘島",
+    "name_en": "Boracay",
+    "lat": 11.967,
+    "lon": 121.925,
+    "country": "菲律賓",
+    "region": "亞洲",
+    "quote": "可能是长滩岛",
+    "context": "主持人對海島度假勝地的既定印象",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Boracay_White_Beach.png/330px-Boracay_White_Beach.png"
+  },
+  {
+    "name": "普吉島",
+    "name_en": "Phuket",
+    "lat": 7.88,
+    "lon": 98.392,
+    "country": "泰國",
+    "region": "亞洲",
+    "quote": "或是什么普及岛这种概念这样",
+    "context": "作為海島度假的刻板印象對比"
+  }
+]

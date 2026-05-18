@@ -1,0 +1,144 @@
+[
+  {
+    "name": "奇美博物館",
+    "name_en": "Chimei Museum",
+    "lat": 22.935,
+    "lon": 120.226,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "在11月9号礼拜六下午2点到6点在奇美博物馆会有世界糖尿病日的园游会",
+    "context": "舉辦世界糖尿病日活動的地點"
+  },
+  {
+    "name": "仰光",
+    "name_en": "Yangon",
+    "lat": 16.866,
+    "lon": 96.195,
+    "country": "緬甸",
+    "region": "亞洲",
+    "quote": "仰光是因为它历史背景的关系就还蛮特殊它有点融合了东南亚城市跟南亚城市",
+    "context": "緬甸第一大城，融合多元文化",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/ShwedagonPagoda.jpg/330px-ShwedagonPagoda.jpg"
+  },
+  {
+    "name": "蒲甘",
+    "name_en": "Bagan",
+    "lat": 21.171,
+    "lon": 94.858,
+    "country": "緬甸",
+    "region": "亞洲",
+    "quote": "我从最南边也是缅甸的第一大城阳光出发然后顺时针先去了蒲甘",
+    "context": "經典遊客路線中的佛塔之城",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bagan%2C_Burma.jpg/330px-Bagan%2C_Burma.jpg"
+  },
+  {
+    "name": "曼德勒",
+    "name_en": "Mandalay",
+    "lat": 21.958,
+    "lon": 96.089,
+    "country": "緬甸",
+    "region": "亞洲",
+    "quote": "然后再到北边的那个顶点是第二大城曼德勒",
+    "context": "緬甸第二大城，行程中的重要據點",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Mandalay%2C_Myanmar.jpg/330px-Mandalay%2C_Myanmar.jpg"
+  },
+  {
+    "name": "英來湖",
+    "name_en": "Inle Lake",
+    "lat": 20.583,
+    "lon": 96.93,
+    "country": "緬甸",
+    "region": "亞洲",
+    "quote": "原本预计是去英来湖但是后来也是有一些插曲所以没有去成",
+    "context": "知名自然景觀，以單腳划船漁夫聞名",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Inle_Lake_%28Myanmar%29.jpg/330px-Inle_Lake_%28Myanmar%29.jpg"
+  },
+  {
+    "name": "蠟戍",
+    "name_en": "Lashio",
+    "lat": 22.956,
+    "lon": 97.753,
+    "country": "緬甸",
+    "region": "亞洲",
+    "quote": "他从蜡树因为战争内战的关系所以逃离他的家乡",
+    "context": "受訪者父親因戰爭逃離的故鄉",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Lashio_sight_IMG_0595.JPG/330px-Lashio_sight_IMG_0595.JPG"
+  },
+  {
+    "name": "曼德勒大皇宮",
+    "name_en": "Mandalay Palace",
+    "lat": 21.992,
+    "lon": 96.096,
+    "country": "緬甸",
+    "region": "亞洲",
+    "quote": "我的hustle其实距离那个曼德勒的大皇宫大概就三四个街口",
+    "context": "曼德勒核心地標，周邊設有軍事檢查哨",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Mandalay_Palace%2C_Myanmar.jpg/330px-Mandalay_Palace%2C_Myanmar.jpg"
+  },
+  {
+    "name": "曼德勒總醫院",
+    "name_en": "Mandalay General Hospital",
+    "lat": 21.976,
+    "lon": 96.098,
+    "country": "緬甸",
+    "region": "亞洲",
+    "quote": "我就走到下一条街是曼德勒的总医院的门口那边有一些家属",
+    "context": "受訪者在宵禁期間尋找路邊攤吃宵夜處",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/MGH_Compound.jpg/330px-MGH_Compound.jpg"
+  },
+  {
+    "name": "英瓦古城",
+    "name_en": "Inwa",
+    "lat": 21.854,
+    "lon": 95.981,
+    "country": "緬甸",
+    "region": "亞洲",
+    "quote": "有一个叫英瓦古城它其实在市区的南边",
+    "context": "位於曼德勒郊區的歷史古城遺址",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Ruins%2C_Innwa%2C_Mandalay_Division%2C_Burma.jpg/330px-Ruins%2C_Innwa%2C_Mandalay_Division%2C_Burma.jpg"
+  },
+  {
+    "name": "伊洛瓦底江",
+    "name_en": "Irrawaddy River",
+    "lat": 21.94,
+    "lon": 95.968,
+    "country": "緬甸",
+    "region": "亞洲",
+    "quote": "伊洛瓦底江上面有两条跨江的大桥每一天能不能过那个江情况都不一样",
+    "context": "緬甸母親河，橋樑通行受局勢影響",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Irrawaddy-River-Myanmar-Burma-2005.jpg/330px-Irrawaddy-River-Myanmar-Burma-2005.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "敏貢",
+    "name_en": "Mingun",
+    "lat": 22.05,
+    "lon": 95.918,
+    "country": "緬甸",
+    "region": "亞洲",
+    "quote": "过了伊洛瓦底江对面有一个叫敏贡的小城市",
+    "context": "江對岸的小鎮，有著名的大白塔",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Mingun.jpg/330px-Mingun.jpg"
+  },
+  {
+    "name": "欣畢梅佛塔",
+    "name_en": "Hsinbyume Pagoda",
+    "lat": 22.052,
+    "lon": 95.921,
+    "country": "緬甸",
+    "region": "亞洲",
+    "quote": "它有一个有名的有点完美的佛塔就是他整个佛塔还完美系佛塔",
+    "context": "敏貢純白色波浪狀佛塔，曾有反抗軍",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Mya_Thein_Tan_Pagoda%2C_Min_Kun.jpg/330px-Mya_Thein_Tan_Pagoda%2C_Min_Kun.jpg"
+  },
+  {
+    "name": "奈比多",
+    "name_en": "Naypyidaw",
+    "lat": 19.763,
+    "lon": 96.078,
+    "country": "緬甸",
+    "region": "亞洲",
+    "quote": "高速公路连接仰光然后经过首都奈比多到曼德勒",
+    "context": "緬甸首都，位於主要交通幹道上",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/NPT_Water_Fountain.jpg/330px-NPT_Water_Fountain.jpg"
+  }
+]

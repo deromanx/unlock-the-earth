@@ -1,0 +1,94 @@
+[
+  {
+    "name": "斯里納加爾",
+    "name_en": "Srinagar",
+    "lat": 34.083,
+    "lon": 74.797,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "那時候是去斯里納加爾，斯里納加爾這是他的那個，算是神會，他是冬天的首都。",
+    "context": "克什米爾的首府，講者在節目中主要停留與討論的城市。"
+  },
+  {
+    "name": "拉達克",
+    "name_en": "Ladakh",
+    "lat": 34.152,
+    "lon": 77.577,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "突上去的就是克什米爾跟拉達克，對拉達克，拉達克之前很多人愛去，很漂亮。",
+    "context": "位於北北印的區域，因地理景觀與電影拍攝地而聞名。"
+  },
+  {
+    "name": "黃金廟",
+    "name_en": "Golden Temple",
+    "lat": 31.62,
+    "lon": 74.876,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "他們去他們的手足，他們那個什麼黃金天佛，就是我講又挖阿堪坑無限對那邊也漂亮。",
+    "context": "位於阿姆利則的錫克教聖地，講者提及西北印景點時提到。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/The_Golden_Temple_of_Amrithsar_7.jpg/330px-The_Golden_Temple_of_Amrithsar_7.jpg"
+  },
+  {
+    "name": "奧斯威辛集中營",
+    "name_en": "Auschwitz Concentration Camp",
+    "lat": 50.027,
+    "lon": 19.202,
+    "country": "波蘭",
+    "region": "歐洲",
+    "quote": "我們上一次一起錄音的時候，我們是講奧斯威星集中營，是一個非常硬的主題。",
+    "context": "節目開頭提到的前一集討論主題，作為沉重話題的對比。"
+  },
+  {
+    "name": "瓦拉納西",
+    "name_en": "Varanasi",
+    "lat": 25.317,
+    "lon": 82.973,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "因為像德里還有瓦拉納西這一塊是大家常去印度的核心區域叫北印。",
+    "context": "被提及為印度教的核心區域及北印度的重要旅遊城市。"
+  },
+  {
+    "name": "德里",
+    "name_en": "Delhi",
+    "lat": 28.613,
+    "lon": 77.209,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "因為像德里還有瓦拉納西這一塊是大家常去印度的核心區域叫北印。",
+    "context": "印度的核心區域與交通樞紐，講者在此遇到克什米爾朋友。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Jama_Masjid_2011.jpg/330px-Jama_Masjid_2011.jpg"
+  },
+  {
+    "name": "大吉嶺",
+    "name_en": "Darjeeling",
+    "lat": 27.041,
+    "lon": 88.266,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "像國瓦、習津、大吉那些，其實他們都有類似像一國兩制的方式。",
+    "context": "提及為印度境內具有獨特行政地位或文化特色的地區。"
+  },
+  {
+    "name": "錫金",
+    "name_en": "Sikkim",
+    "lat": 27.331,
+    "lon": 88.613,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "像國瓦、習津、大吉那些，其實他們都有類似像一國兩制的方式。",
+    "context": "被提及為印度多元政治結構下具有特殊地位的邦。"
+  },
+  {
+    "name": "果阿",
+    "name_en": "Goa",
+    "lat": 15.49,
+    "lon": 73.827,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "像國瓦、習津、大吉那些，其實他們都有類似像一國兩制的方式。",
+    "context": "被提及為印度具有獨特歷史背景與行政制度的地區。"
+  }
+]

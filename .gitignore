@@ -1,0 +1,13 @@
+# 逐字稿：pipeline 原料，不部署到網站
+data/transcripts/
+
+# Pipeline 腳本：本機執行，不需要對外公開
+scripts/
+
+# macOS
+.DS_Store
+
+# 暫存
+*.tmp
+*.log
+logs/

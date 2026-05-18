@@ -1,0 +1,65 @@
+[
+  {
+    "name": "雙叟咖啡館",
+    "name_en": "Les Deux Magots",
+    "lat": 48.854,
+    "lon": 2.3331,
+    "country": "法國",
+    "region": "歐洲",
+    "quote": "尤其我想巴黎最有名的就是那個雙叟跟花神嘛",
+    "context": "提到巴黎著名的咖啡文化代表。"
+  },
+  {
+    "name": "花神咖啡館",
+    "name_en": "Café de Flore",
+    "lat": 48.8541,
+    "lon": 2.3325,
+    "country": "法國",
+    "region": "歐洲",
+    "quote": "尤其我想巴黎最有名的就是那個雙叟跟花神嘛",
+    "context": "提到巴黎著名的咖啡文化代表。"
+  },
+  {
+    "name": "巴黎地鐵",
+    "name_en": "Paris Métro",
+    "lat": 48.8584,
+    "lon": 2.3475,
+    "country": "法國",
+    "region": "歐洲",
+    "quote": "巴黎的地鐵是，已經上百年了，是故機，所以它沒有所謂的電扶梯跟電梯這種東西",
+    "context": "討論其歷史悠久且缺乏無障礙設施。"
+  },
+  {
+    "name": "威尼斯",
+    "name_en": "Venice",
+    "lat": 45.4341,
+    "lon": 12.3385,
+    "country": "義大利",
+    "region": "歐洲",
+    "quote": "威尼斯就，你從一落地，一進到那個島上開始，他就哇，噼里啪啦跟你講說，威尼斯以前怎樣怎樣",
+    "context": "討論威尼斯的歷史厚度與迷宮般的巷弄。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Venezia_aerial_view.jpg/330px-Venezia_aerial_view.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "海德堡",
+    "name_en": "Heidelberg",
+    "lat": 49.4128,
+    "lon": 8.7048,
+    "country": "德國",
+    "region": "歐洲",
+    "quote": "因為我以前在德國，我是住在海德堡。海德堡已經很靠近法國",
+    "context": "講者曾在當地唸書，並以此地為據點。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/K%C3%B6nigstuhl%2C_Heidelberg%2C_U-17.jpg/330px-K%C3%B6nigstuhl%2C_Heidelberg%2C_U-17.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "佛羅倫斯",
+    "name_en": "Florence",
+    "lat": 43.7696,
+    "lon": 11.2558,
+    "country": "義大利",
+    "region": "歐洲",
+    "quote": "佛羅倫斯也是這樣子，但是又不太一樣",
+    "context": "提到具有強烈城市驕傲的歷史名城。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/FirenzeDec092023_01.jpg/330px-FirenzeDec092023_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  }
+]

@@ -1,0 +1,96 @@
+[
+  {
+    "name": "國立臺灣大學",
+    "name_en": "National Taiwan University",
+    "lat": 25.017,
+    "lon": 121.537,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "那時候在台大有一門課，是農學院開的選修，它叫可可學",
+    "context": "講者在此修習可可學，開啟對甜點與巧克力的興趣。"
+  },
+  {
+    "name": "師大法語中心",
+    "name_en": "NTNU French Center",
+    "lat": 25.026,
+    "lon": 121.527,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "去之前已經在師大法語中心短短去學了兩三年",
+    "context": "前往法國打工度假前，在此學習法文基礎。"
+  },
+  {
+    "name": "布龍泰",
+    "name_en": "Bronte",
+    "lat": 37.789,
+    "lon": 14.832,
+    "country": "義大利",
+    "region": "歐洲",
+    "quote": "開心果節在西西里島的東邊，一個叫做Blonde的一個小村",
+    "context": "西西里島著名的開心果產地，舉辦年度開心果節。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Foto_zino_-_panoramio.jpg/330px-Foto_zino_-_panoramio.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "阿爾巴",
+    "name_en": "Alba",
+    "lat": 44.7,
+    "lon": 8.034,
+    "country": "義大利",
+    "region": "歐洲",
+    "quote": "一開始落腳的地方叫Alba，Alba，A-L-B-A，中文好像叫阿爾巴吧",
+    "context": "皮埃蒙特大區的觀光小鎮，以白松露和榛果聞名。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Alexander_III_and_Ollamh_R%C3%ADgh.JPG/330px-Alexander_III_and_Ollamh_R%C3%ADgh.JPG"
+  },
+  {
+    "name": "朗格羅埃羅和蒙費拉托",
+    "name_en": "Langhe-Roero and Monferrato",
+    "lat": 44.655,
+    "lon": 8.016,
+    "country": "義大利",
+    "region": "歐洲",
+    "quote": "那邊是一個聯合國世界遺產，叫做Lange Montferrat",
+    "context": "聯合國世界遺產釀酒區，擁有獨特的葡萄酒文化地景。"
+  },
+  {
+    "name": "巴洛洛",
+    "name_en": "Barolo",
+    "lat": 44.61,
+    "lon": 7.944,
+    "country": "義大利",
+    "region": "歐洲",
+    "quote": "那像有在喝酒的人可能會知道巴洛洛",
+    "context": "著名的義大利葡萄酒產區村莊，位於皮埃蒙特大區。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Cascin_Adelaide_Barolo_%26_decanter.jpg/330px-Cascin_Adelaide_Barolo_%26_decanter.jpg"
+  },
+  {
+    "name": "巴巴雷斯克",
+    "name_en": "Barbaresco",
+    "lat": 44.724,
+    "lon": 8.081,
+    "country": "義大利",
+    "region": "歐洲",
+    "quote": "再來是Barbalesco，那些葡萄園都在那邊",
+    "context": "著名的義大利紅酒產區村莊，以其生產的葡萄園地景著稱。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Prunotto_Barbaresco_1967.jpg/330px-Prunotto_Barbaresco_1967.jpg"
+  },
+  {
+    "name": "費列羅總部",
+    "name_en": "Ferrero Headquarters",
+    "lat": 44.703,
+    "lon": 8.024,
+    "country": "義大利",
+    "region": "歐洲",
+    "quote": "金沙的母公司是費列羅，費列羅他的總部就設在阿拉巴",
+    "context": "國際知名巧克力品牌金沙（Ferrero）的總部所在地。"
+  },
+  {
+    "name": "科爾泰米利亞",
+    "name_en": "Cortemilia",
+    "lat": 44.577,
+    "lon": 8.193,
+    "country": "義大利",
+    "region": "歐洲",
+    "quote": "他那個地方叫做Gordemiria，那也算是一個真國的盛產的地方",
+    "context": "位於山谷中的榛果盛產地，是榛果節的舉辦地點。"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "name": "乌兹别克驻泰国大使馆",
+    "name_en": "Embassy of Uzbekistan in Bangkok",
+    "lat": 13.741,
+    "lon": 100.544,
+    "country": "泰国",
+    "region": "亞洲",
+    "quote": "就是到曼谷的物资别克大使馆办签证",
+    "context": "主持人办理乌兹别克实体签证的具体地点"
+  },
+  {
+    "name": "越南驻泰国大使馆",
+    "name_en": "Embassy of Vietnam in Bangkok",
+    "lat": 13.736,
+    "lon": 100.547,
+    "country": "泰国",
+    "region": "亞洲",
+    "quote": "大马路上有越南大使馆 非常的非常的宏伟",
+    "context": "乌兹别克大使馆周边大马路上的显著地标"
+  },
+  {
+    "name": "日本驻泰国大使馆",
+    "name_en": "Embassy of Japan in Bangkok",
+    "lat": 13.73,
+    "lon": 100.545,
+    "country": "泰国",
+    "region": "亞洲",
+    "quote": "附近有日本大使馆",
+    "context": "乌兹别克大使馆附近的其他国家大使馆"
+  },
+  {
+    "name": "西瓦古城",
+    "name_en": "Itchan Kala",
+    "lat": 41.377,
+    "lon": 60.358,
+    "country": "乌兹别克斯坦",
+    "region": "亞洲",
+    "quote": "所以当时就从西瓦古城这边 入境土库曼",
+    "context": "主持人离开乌兹别克前往土库曼边境的出发地"
+  },
+  {
+    "name": "Shava边境",
+    "name_en": "Shavat Border Crossing",
+    "lat": 41.664,
+    "lon": 59.982,
+    "country": "乌兹别克斯坦",
+    "region": "亞洲",
+    "quote": "到那个Shava的边境",
+    "context": "连接乌兹别克斯坦与土库曼斯坦两国的陆路口岸"
+  }
+]

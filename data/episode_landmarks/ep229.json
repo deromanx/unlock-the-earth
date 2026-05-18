@@ -1,0 +1,92 @@
+[
+  {
+    "name": "大堡礁",
+    "name_en": "Great Barrier Reef",
+    "lat": -18.287,
+    "lon": 147.699,
+    "country": "澳洲",
+    "region": "大洋洲",
+    "quote": "可是你就可以去大宝教玩",
+    "context": "講者在澳洲當觀光大使時去玩的地方"
+  },
+  {
+    "name": "海神廟",
+    "name_en": "Tanah Lot",
+    "lat": -8.621,
+    "lon": 115.087,
+    "country": "印尼",
+    "region": "亞洲",
+    "quote": "什么海神庙啊",
+    "context": "巴里島著名必去觀光景點"
+  },
+  {
+    "name": "蒼古",
+    "name_en": "Canggu",
+    "lat": -8.647,
+    "lon": 115.138,
+    "country": "印尼",
+    "region": "亞洲",
+    "quote": "苍古这个地段",
+    "context": "數位遊牧者喜愛的集散地"
+  },
+  {
+    "name": "Finns海灘俱樂部",
+    "name_en": "Finns Beach Club",
+    "lat": -8.666,
+    "lon": 115.144,
+    "country": "印尼",
+    "region": "亞洲",
+    "quote": "F-I-N-N-S",
+    "context": "蒼古地區有名的海灘俱樂部"
+  },
+  {
+    "name": "阿美",
+    "name_en": "Amed",
+    "lat": -8.334,
+    "lon": 115.655,
+    "country": "印尼",
+    "region": "亞洲",
+    "quote": "去这个地方叫做阿美",
+    "context": "適合潛水與放鬆的北方海灘小鎮"
+  },
+  {
+    "name": "Nusa群島",
+    "name_en": "Nusa Islands",
+    "lat": -8.683,
+    "lon": 115.533,
+    "country": "印尼",
+    "region": "亞洲",
+    "quote": "叫做Nusa",
+    "context": "巴里島附近的離島，適合海上運動"
+  },
+  {
+    "name": "Gili群島",
+    "name_en": "Gili Islands",
+    "lat": -8.35,
+    "lon": 116.033,
+    "country": "印尼",
+    "region": "亞洲",
+    "quote": "Gilly群岛",
+    "context": "沒有車輛且盛行蘑菇的觀光島嶼"
+  },
+  {
+    "name": "烏布",
+    "name_en": "Ubud",
+    "lat": -8.506,
+    "lon": 115.262,
+    "country": "印尼",
+    "region": "亞洲",
+    "quote": "我会推荐大家可以去污补",
+    "context": "充滿藝術與靈性的梯田小鎮"
+  },
+  {
+    "name": "Yoga Barn",
+    "name_en": "The Yoga Barn",
+    "lat": -8.517,
+    "lon": 115.263,
+    "country": "印尼",
+    "region": "亞洲",
+    "quote": "就叫做Yoga Barn",
+    "context": "提供狂喜舞蹈等課程的大型瑜伽中心"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "name": "哥倫比亞大學",
+    "name_en": "Columbia University",
+    "lat": 40.807,
+    "lon": -73.962,
+    "country": "美國",
+    "region": "美洲",
+    "quote": "我没有升上哥伦比亚大学",
+    "context": "主持人開玩笑說因沒考上該大學所以去哥倫比亞",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Coat_of_Arms_of_Columbia_University.svg/330px-Coat_of_Arms_of_Columbia_University.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "薩倫托",
+    "name_en": "Salento",
+    "lat": 4.637,
+    "lon": -75.57,
+    "country": "哥倫比亞",
+    "region": "美洲",
+    "quote": "中间有一个就是小山区 它就是专门是用来徒步的 叫做Solanto",
+    "context": "哥倫比亞的小山區城鎮，是熱門的徒步旅行地點",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/The_heel_of_the_boot_of_Italy.jpeg/330px-The_heel_of_the_boot_of_Italy.jpeg"
+  },
+  {
+    "name": "波哥大老城區",
+    "name_en": "Bogotá Old City (La Candelaria)",
+    "lat": 4.597,
+    "lon": -74.072,
+    "country": "哥倫比亞",
+    "region": "美洲",
+    "quote": "我在住在他们的老城区 他们每两个街口就会有一个警察",
+    "context": "主持人在波哥大居住及觀看著名塗鴉的歷史街區"
+  }
+]

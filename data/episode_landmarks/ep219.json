@@ -1,0 +1,23 @@
+[
+  {
+    "name": "墨尔本中央商业区",
+    "name_en": "Melbourne CBD",
+    "lat": -37.813,
+    "lon": 144.962,
+    "country": "澳洲",
+    "region": "大洋洲",
+    "quote": "我工作的地方在CBD 就是墨尔本的市中心",
+    "context": "讲者在墨尔本担任甜点师的工作地点所在的商业区"
+  },
+  {
+    "name": "成功岭",
+    "name_en": "Chenggongling",
+    "lat": 24.119,
+    "lon": 120.598,
+    "country": "台湾",
+    "region": "亞洲",
+    "quote": "一般人见成功岭 然后你被班长骂",
+    "context": "比喻厨房如同军队般的军事化高压管理及责骂文化",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Chengkungling_Main_Gate_Front_Oct2011.jpg/330px-Chengkungling_Main_Gate_Front_Oct2011.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  }
+]

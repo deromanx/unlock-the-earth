@@ -1,0 +1,213 @@
+[
+  {
+    "name": "故宮南院",
+    "name_en": "Southern Branch of the National Palace Museum",
+    "lat": 23.473,
+    "lon": 120.293,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "我才热腾腾的上周末才从故宫南院回来",
+    "context": "主持人近期前往觀看浮世繪特展的博物館"
+  },
+  {
+    "name": "日本橋",
+    "name_en": "Nihonbashi",
+    "lat": 35.684,
+    "lon": 139.774,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "他这条东海道53次呢他的起点是日本桥",
+    "context": "浮世繪《東海道五十三次》描繪的起點"
+  },
+  {
+    "name": "三條大橋",
+    "name_en": "Sanjo Ohashi",
+    "lat": 35.009,
+    "lon": 135.771,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "终点是这个京都的三条大桥",
+    "context": "《東海道五十三次》的終點站"
+  },
+  {
+    "name": "鴨川",
+    "name_en": "Kamo River",
+    "lat": 35.039,
+    "lon": 135.773,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "因为他就在亚川鼎鼎有名的恒越亚川那边",
+    "context": "三條大橋所橫跨的知名河川"
+  },
+  {
+    "name": "富士山",
+    "name_en": "Mount Fuji",
+    "lat": 35.36,
+    "lon": 138.727,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "我有看到当然富士山就不用说了光是有富士山的景就一大堆了",
+    "context": "浮世繪中非常常見的自然地標",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/View_of_Mount_Fuji_from_%C5%8Cwakudani_20211202.jpg/330px-View_of_Mount_Fuji_from_%C5%8Cwakudani_20211202.jpg"
+  },
+  {
+    "name": "小田原城",
+    "name_en": "Odawara Castle",
+    "lat": 35.251,
+    "lon": 139.153,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "你有去过那个啊小田园树哦对对对对",
+    "context": "東海道上的宿場之一"
+  },
+  {
+    "name": "吉原遊廓",
+    "name_en": "Yoshiwara",
+    "lat": 35.724,
+    "lon": 139.794,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "比较瑟瑟的呢就是吉原游扩的部分",
+    "context": "江戶時代娛樂與美人畫的取材背景",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cherry_Blossom_Time_in_Nakanocho_of_the_Yoshiwara_LACMA_16.14.48.jpg/330px-Cherry_Blossom_Time_in_Nakanocho_of_the_Yoshiwara_LACMA_16.14.48.jpg"
+  },
+  {
+    "name": "伊勢神宮",
+    "name_en": "Ise Jingu",
+    "lat": 34.455,
+    "lon": 136.725,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "大家都是可能要去一世神功参拜啊或者是要干嘛的",
+    "context": "江戶時代旅遊風氣興盛的目的地之一",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Naiku_04.jpg/330px-Naiku_04.jpg"
+  },
+  {
+    "name": "上野公園",
+    "name_en": "Ueno Park",
+    "lat": 35.714,
+    "lon": 139.774,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "他就是从现在的大概是上野公园这一带然后一直画到这个东京湾",
+    "context": "《江戶名所圖屏風》描繪的市區起點",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Ueno_park.jpg/330px-Ueno_park.jpg"
+  },
+  {
+    "name": "東京灣",
+    "name_en": "Tokyo Bay",
+    "lat": 35.533,
+    "lon": 139.8,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "他就是从现在的大概是上野公园这一带然后一直画到这个东京湾",
+    "context": "《江戶名所圖屏風》描繪的市區終點",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Tokyo_Bay_by_Sentinel-2%2C_2018-10-30.jpg/330px-Tokyo_Bay_by_Sentinel-2%2C_2018-10-30.jpg"
+  },
+  {
+    "name": "出光美術館",
+    "name_en": "Idemitsu Museum of Arts",
+    "lat": 35.676,
+    "lon": 139.761,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "这一次就是有展出这个来自出光美术馆的这个江户民所图屏风",
+    "context": "故宮南院展品的借展單位",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Imperial_Garden_Theater%2C_Tokyo.jpg/330px-Imperial_Garden_Theater%2C_Tokyo.jpg"
+  },
+  {
+    "name": "國立故宮博物院",
+    "name_en": "National Palace Museum",
+    "lat": 25.102,
+    "lon": 121.548,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "然后台北的故宫开幕是1965年",
+    "context": "收藏豐富歷史國寶的博物館",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/73/National_Palace_Museum_logo.svg/330px-National_Palace_Museum_logo.svg.png"
+  },
+  {
+    "name": "羅浮宮",
+    "name_en": "Louvre Museum",
+    "lat": 48.86,
+    "lon": 2.337,
+    "country": "法國",
+    "region": "歐洲",
+    "quote": "那当然就是拿最代表性的这个罗浮宫",
+    "context": "對比故宮館藏數量的國際知名博物館",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Louvre_Museum_Wikimedia_Commons.jpg/330px-Louvre_Museum_Wikimedia_Commons.jpg"
+  },
+  {
+    "name": "北京故宮",
+    "name_en": "Palace Museum",
+    "lat": 39.916,
+    "lon": 116.39,
+    "country": "中國",
+    "region": "亞洲",
+    "quote": "其实是北京故宫开放的100年",
+    "context": "即將迎來建院百年的博物館",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/The_Palace_Museum_Logo.svg/330px-The_Palace_Museum_Logo.svg.png"
+  },
+  {
+    "name": "紫禁城",
+    "name_en": "Forbidden City",
+    "lat": 39.916,
+    "lon": 116.39,
+    "country": "中國",
+    "region": "亞洲",
+    "quote": "那其实故宫毕竟就是故宫嘛我们以前的紫金城呢",
+    "context": "故宮文物的發源地",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/The_Forbidden_City_-_View_from_Coal_Hill.jpg/330px-The_Forbidden_City_-_View_from_Coal_Hill.jpg"
+  },
+  {
+    "name": "養性殿",
+    "name_en": "Hall of Character Cultivation",
+    "lat": 39.918,
+    "lon": 116.397,
+    "country": "中國",
+    "region": "亞洲",
+    "quote": "那其实像是这个肉行石它是在养性殿找到的嘛",
+    "context": "知名文物「肉形石」的發現地點",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/BeijingForbiddenCity3.jpg/330px-BeijingForbiddenCity3.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "永和宮",
+    "name_en": "Palace of Eternal Harmony",
+    "lat": 39.919,
+    "lon": 116.396,
+    "country": "中國",
+    "region": "亞洲",
+    "quote": "然后翠玉白菜它是在永和殿这边找到的",
+    "context": "知名文物「翠玉白菜」的發現地點"
+  },
+  {
+    "name": "國立台灣美術館",
+    "name_en": "National Taiwan Museum of Fine Arts",
+    "lat": 24.141,
+    "lon": 120.663,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "那他现在是被台湾的这个国美馆嗯点唱",
+    "context": "典藏國寶「甘露水」的美術館"
+  },
+  {
+    "name": "中和",
+    "name_en": "Zhonghe",
+    "lat": 24.993,
+    "lon": 121.485,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "我知道中和八景叫我家附近",
+    "context": "對照台灣名勝時提及的地區"
+  },
+  {
+    "name": "永和",
+    "name_en": "Yonghe",
+    "lat": 25.008,
+    "lon": 121.514,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "但是你中和人吗不是这边是永和这个有很大的差别",
+    "context": "主持人的居住地與節目宣傳地"
+  }
+]

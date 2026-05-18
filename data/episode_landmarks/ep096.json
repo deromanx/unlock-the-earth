@@ -1,0 +1,32 @@
+[
+  {
+    "name": "台中市議會",
+    "name_en": "Taichung City Council",
+    "lat": 24.1503,
+    "lon": 120.6434,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "帶民眾透過台中議會議事流程",
+    "context": "協會舉辦工作坊的地點，讓民眾認識地方議事運作。"
+  },
+  {
+    "name": "台中舊城區",
+    "name_en": "Taichung Old Town",
+    "lat": 24.1425,
+    "lon": 120.6811,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "他們將舉辦舊城導覽工作坊",
+    "context": "以此地景導覽方式，帶領大眾認識台中的在地歷史。"
+  },
+  {
+    "name": "自由路",
+    "name_en": "Ziyou Road",
+    "lat": 24.1395,
+    "lon": 120.6832,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "好民他們每年都會舉辦自由路上藝術節",
+    "context": "台中重要道路，為藝術節名稱來源，具歷史文化意義。"
+  }
+]

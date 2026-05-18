@@ -1,0 +1,173 @@
+[
+  {
+    "name": "科學博物館",
+    "name_en": "Science Museum",
+    "lat": 51.497,
+    "lon": -0.174,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "譬如说上Science Museum或是圣巴塞洛姆医院在里面其实可以看到很多过去的",
+    "context": "可看到過去醫療歷史足跡的景點"
+  },
+  {
+    "name": "聖巴多羅買醫院",
+    "name_en": "St Bartholomew's Hospital",
+    "lat": 51.517,
+    "lon": -0.101,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "或是圣巴塞洛姆医院在里面其实可以看到很多过去的算是历史上的足迹",
+    "context": "可看到過去醫療歷史足跡的醫院"
+  },
+  {
+    "name": "塔丘地鐵站",
+    "name_en": "Tower Hill Tube Station",
+    "lat": 51.509,
+    "lon": -0.076,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "比较靠近东边我们这个地方有一个捷运站叫Tower Hill",
+    "context": "靠近東邊，附近有行會小教堂"
+  },
+  {
+    "name": "倫敦塔",
+    "name_en": "Tower of London",
+    "lat": 51.508,
+    "lon": -0.075,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "就是靠近伦敦塔这一带",
+    "context": "鄰近有許多行會小教堂的區域",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Tower_of_London_from_the_Shard_%288515883950%29.jpg/330px-Tower_of_London_from_the_Shard_%288515883950%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "聖奧拉夫教堂",
+    "name_en": "St Olave's Church, Hart Street",
+    "lat": 51.511,
+    "lon": -0.079,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "其中有个教堂叫St Olaf's 这个St Olaf教堂 它虽小",
+    "context": "埋葬許多瘟疫死者，見證疫情影響"
+  },
+  {
+    "name": "倫敦橋",
+    "name_en": "London Bridge",
+    "lat": 51.507,
+    "lon": -0.087,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "这个Olaf其实是和一个故事 伦敦桥垮下来有关",
+    "context": "提及與挪威國王奇襲維京人有關的故事"
+  },
+  {
+    "name": "溫莎城堡",
+    "name_en": "Windsor Castle",
+    "lat": 51.483,
+    "lon": -0.604,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "他当时就从伦敦逃离出来 他就躲在瘟沙和汉不顿宫",
+    "context": "亨利八世躲避瘟疫的逃亡地之一"
+  },
+  {
+    "name": "漢普頓宮",
+    "name_en": "Hampton Court Palace",
+    "lat": 51.403,
+    "lon": -0.337,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "他当时就从伦敦逃离出来 他就躲在瘟沙和汉不顿宫",
+    "context": "亨利八世躲避瘟疫的逃亡地之一"
+  },
+  {
+    "name": "亞姆村",
+    "name_en": "Eyam",
+    "lat": 53.284,
+    "lon": -1.676,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "这个地方叫做AM 它叫EYAM",
+    "context": "為防瘟疫擴散而自我隔離的貿易小鎮"
+  },
+  {
+    "name": "謝菲爾德博物館",
+    "name_en": "Sheffield Museum",
+    "lat": 53.381,
+    "lon": -1.492,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "他在Sheffield博物馆里面 然后还在AIM博物馆里面",
+    "context": "展出1666年亞姆村隔離事件"
+  },
+  {
+    "name": "亞姆博物館",
+    "name_en": "Eyam Museum",
+    "lat": 53.284,
+    "lon": -1.674,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "然后还在AIM博物馆里面 你都可以看到他们讲这个1666年的",
+    "context": "展出亞姆村因瘟疫自我隔離的歷史"
+  },
+  {
+    "name": "博羅市場",
+    "name_en": "Borough Market",
+    "lat": 51.505,
+    "lon": -0.09,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "很多人都会喜欢去那个巴罗市集 他是我们英国算是伦敦最老的这个蔬国市集",
+    "context": "倫敦最古老蔬果市集，現為熱門景點"
+  },
+  {
+    "name": "薩瑟克座堂",
+    "name_en": "Southwark Cathedral",
+    "lat": 51.506,
+    "lon": -0.088,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "就是Sufford Cathedral 就是伦敦河岸南部保留最完整的教堂",
+    "context": "埋葬哈佛家族與太陽藥丸發明者"
+  },
+  {
+    "name": "舊手術劇院博物館",
+    "name_en": "The Old Operating Theatre Museum and Herb Garret",
+    "lat": 51.505,
+    "lon": -0.087,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "就叫旧手术剧院博物馆或者是我们英文应该叫The Old Operation Theater",
+    "context": "19世紀改建的手術教學室遺址"
+  },
+  {
+    "name": "聖湯瑪斯醫院",
+    "name_en": "St Thomas' Hospital",
+    "lat": 51.501,
+    "lon": -0.118,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "以前都是圣汤马斯医院的一部分",
+    "context": "舊手術劇院博物館原先所屬的醫院"
+  },
+  {
+    "name": "亨特里安博物館",
+    "name_en": "Hunterian Museum",
+    "lat": 51.516,
+    "lon": -0.117,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "他就有个很有名的医疗博物馆 叫Hunterian Museum",
+    "context": "外科醫生解剖與醫療標本收藏博物館"
+  },
+  {
+    "name": "霍本",
+    "name_en": "Holborn",
+    "lat": 51.517,
+    "lon": -0.119,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "他就在Hoban这个地方",
+    "context": "亨特里安博物館所在的街區"
+  }
+]

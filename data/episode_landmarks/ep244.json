@@ -1,0 +1,62 @@
+[
+  {
+    "name": "波浪岩",
+    "name_en": "Wave Rock",
+    "lat": -32.396,
+    "lon": 118.897,
+    "country": "澳洲",
+    "region": "大洋洲",
+    "quote": "波浪岩就是Weblog 就是一个澳洲一个蛮著名的景点",
+    "context": "西澳著名的自然景點"
+  },
+  {
+    "name": "國王公園",
+    "name_en": "King's Park",
+    "lat": -31.96,
+    "lon": 115.833,
+    "country": "澳洲",
+    "region": "大洋洲",
+    "quote": "像是一个是国王公园 King's Park",
+    "context": "伯斯市區的知名大型植物園"
+  },
+  {
+    "name": "二戰紀念碑",
+    "name_en": "State War Memorial",
+    "lat": -31.956,
+    "lon": 115.845,
+    "country": "澳洲",
+    "region": "大洋洲",
+    "quote": "他里面有一个 就是二战纪念碑",
+    "context": "位於國王公園內，紀念參與二戰的軍人"
+  },
+  {
+    "name": "北橋",
+    "name_en": "Northbridge",
+    "lat": -31.947,
+    "lon": 115.857,
+    "country": "澳洲",
+    "region": "大洋洲",
+    "quote": "在博斯那边有一个 比较大的华人巨礼 其实叫做北桥",
+    "context": "伯斯的華人區，有許多亞洲超市與餐廳"
+  },
+  {
+    "name": "倫敦閣",
+    "name_en": "London Court",
+    "lat": -31.953,
+    "lon": 115.859,
+    "country": "澳洲",
+    "region": "大洋洲",
+    "quote": "其实附近 还有一个叫伦敦阁",
+    "context": "充滿英式風情的步道與特色商店街"
+  },
+  {
+    "name": "博斯監獄（弗里曼特爾監獄）",
+    "name_en": "Fremantle Prison",
+    "lat": -32.055,
+    "lon": 115.753,
+    "country": "澳洲",
+    "region": "大洋洲",
+    "quote": "然后其中一个很重要的就是有一个博士监狱",
+    "context": "歷史悠久的監獄古蹟，擁有特殊的地下水道行程"
+  }
+]

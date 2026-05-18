@@ -1,0 +1,43 @@
+[
+  {
+    "name": "溫布頓",
+    "name_en": "Wimbledon",
+    "lat": 51.421,
+    "lon": -0.205,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "然后就定居在温布顿那一区这样子",
+    "context": "來賓定居的倫敦分區，討論其丘陵地形及生活便利性"
+  },
+  {
+    "name": "好萊塢",
+    "name_en": "Hollywood",
+    "lat": 34.092,
+    "lon": -118.328,
+    "country": "美國",
+    "region": "美洲",
+    "quote": "因为好莱坞的关系所以看很多电影对美国文化也比较熟悉",
+    "context": "提及因好萊塢電影影響，多數人對美國文化較為熟悉"
+  },
+  {
+    "name": "海德堡",
+    "name_en": "Heidelberg",
+    "lat": 49.398,
+    "lon": 8.672,
+    "country": "德國",
+    "region": "歐洲",
+    "quote": "我在海德堡的生活跟在台北的生活上一个很根本的差异",
+    "context": "主持人分享在海德堡的生活經驗，對比生活型態差異",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/K%C3%B6nigstuhl%2C_Heidelberg%2C_U-17.jpg/330px-K%C3%B6nigstuhl%2C_Heidelberg%2C_U-17.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "台大醫院",
+    "name_en": "National Taiwan University Hospital",
+    "lat": 25.04,
+    "lon": 121.518,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "觉得不可能每个人还有一个感冒一个冲台大医院",
+    "context": "舉例說明醫療資源分配與分級醫療制度的重要性"
+  }
+]

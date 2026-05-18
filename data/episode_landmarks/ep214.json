@@ -1,0 +1,313 @@
+[
+  {
+    "name": "骏府城",
+    "name_en": "Sunpu Castle",
+    "lat": 34.978,
+    "lon": 138.383,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "有个叫郡府城的地方",
+    "context": "战国时期今川义元的根据地"
+  },
+  {
+    "name": "桶狭间",
+    "name_en": "Okehazama Battlefield",
+    "lat": 35.053,
+    "lon": 136.966,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "就是在统霞间被之前新城打到",
+    "context": "今川义元战败的历史古战场"
+  },
+  {
+    "name": "阳明山",
+    "name_en": "Yangmingshan",
+    "lat": 25.162,
+    "lon": 121.554,
+    "country": "台湾",
+    "region": "亞洲",
+    "quote": "但他通常不会去阳明山",
+    "context": "代表台北人的假日休闲踏青地"
+  },
+  {
+    "name": "北投",
+    "name_en": "Beitou",
+    "lat": 25.132,
+    "lon": 121.498,
+    "country": "台湾",
+    "region": "亞洲",
+    "quote": "你也比较少看到观光客会去北投",
+    "context": "本地人常去、观光客较少的区域"
+  },
+  {
+    "name": "台北101",
+    "name_en": "Taipei 101",
+    "lat": 25.033,
+    "lon": 121.564,
+    "country": "台湾",
+    "region": "亞洲",
+    "quote": "第一次来台北玩的景点其实很固定嘛 101",
+    "context": "观光客初访台北的固定景点"
+  },
+  {
+    "name": "南门市场",
+    "name_en": "Nanmen Market",
+    "lat": 25.032,
+    "lon": 121.518,
+    "country": "台湾",
+    "region": "亞洲",
+    "quote": "早上去南门市场",
+    "context": "观光客常去的传统市场"
+  },
+  {
+    "name": "西门町",
+    "name_en": "Ximending",
+    "lat": 25.043,
+    "lon": 121.505,
+    "country": "台湾",
+    "region": "亞洲",
+    "quote": "最后饭店在西门町",
+    "context": "观光客必去的商圈",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/%E5%BE%9E%E5%B1%88%E8%87%A3%E6%B0%8F%E8%A5%BF%E9%96%80%E9%96%80%E5%B8%82%E5%88%B0%E9%8C%A2%E6%AB%83%E5%8F%B0%E5%8C%97%E4%B8%AD%E8%8F%AF%E6%96%B0%E9%A4%A8_20211204.jpg/330px-%E5%BE%9E%E5%B1%88%E8%87%A3%E6%B0%8F%E8%A5%BF%E9%96%80%E9%96%80%E5%B8%82%E5%88%B0%E9%8C%A2%E6%AB%83%E5%8F%B0%E5%8C%97%E4%B8%AD%E8%8F%AF%E6%96%B0%E9%A4%A8_20211204.jpg"
+  },
+  {
+    "name": "士林夜市",
+    "name_en": "Shilin Night Market",
+    "lat": 25.088,
+    "lon": 121.524,
+    "country": "台湾",
+    "region": "亞洲",
+    "quote": "比方说我就不会去士林夜市",
+    "context": "本地人较少去的观光夜市"
+  },
+  {
+    "name": "东京铁塔",
+    "name_en": "Tokyo Tower",
+    "lat": 35.658,
+    "lon": 139.745,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "你只要想到东京 你就会想到东京铁塔",
+    "context": "最经典的东京印象地标"
+  },
+  {
+    "name": "浅草",
+    "name_en": "Asakusa",
+    "lat": 35.714,
+    "lon": 139.796,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "东京铁塔 浅草",
+    "context": "东京刻板印象的观光景点"
+  },
+  {
+    "name": "明治神宫",
+    "name_en": "Meiji Jingu",
+    "lat": 35.676,
+    "lon": 139.699,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "你会去想到明治神宫",
+    "context": "观光客熟知的传统景点"
+  },
+  {
+    "name": "新宿",
+    "name_en": "Shinjuku",
+    "lat": 35.69,
+    "lon": 139.7,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "西边有一个新速车站",
+    "context": "东京西侧的主要交通枢纽"
+  },
+  {
+    "name": "涩谷",
+    "name_en": "Shibuya",
+    "lat": 35.659,
+    "lon": 139.7,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "新宿涉谷 那些东西你马上就可以想到",
+    "context": "观光客熟悉的繁华街区",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Shibuya_skyline_from_Tokyu_Plaza_in_Omotesando%2C_Harajuku%2C_Tokyo%2C_2024_May.jpg/330px-Shibuya_skyline_from_Tokyu_Plaza_in_Omotesando%2C_Harajuku%2C_Tokyo%2C_2024_May.jpg"
+  },
+  {
+    "name": "临江街夜市",
+    "name_en": "Linjiang Street Night Market",
+    "lat": 25.03,
+    "lon": 121.554,
+    "country": "台湾",
+    "region": "亞洲",
+    "quote": "我可能会带他去临江街 因为那边其实逛起来比较舒服",
+    "context": "较有品质、适合带外地朋友去的夜市",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Linjiang_Street_Night_Market.jpg/330px-Linjiang_Street_Night_Market.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "宁夏夜市",
+    "name_en": "Ningxia Night Market",
+    "lat": 25.055,
+    "lon": 121.515,
+    "country": "台湾",
+    "region": "亞洲",
+    "quote": "最糟糕的就是宁夏夜市",
+    "context": "人潮过于拥挤的夜市",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Ningxia_Night_Market_20250520.jpg/330px-Ningxia_Night_Market_20250520.jpg"
+  },
+  {
+    "name": "公馆",
+    "name_en": "Gongguan",
+    "lat": 25.015,
+    "lon": 121.534,
+    "country": "台湾",
+    "region": "亞洲",
+    "quote": "我可能会带他去公馆走走",
+    "context": "具本地生活感的街区"
+  },
+  {
+    "name": "古亭站",
+    "name_en": "Guting Station",
+    "lat": 25.026,
+    "lon": 121.522,
+    "country": "台湾",
+    "region": "亞洲",
+    "quote": "我可能会带他去古亭站那边找个酒吧喝酒",
+    "context": "适合本地人小酌的区域",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Cross-platform_transfer_at_Guting_station_April_2026.jpg/330px-Cross-platform_transfer_at_Guting_station_April_2026.jpg"
+  },
+  {
+    "name": "东京车站",
+    "name_en": "Tokyo Station",
+    "lat": 35.681,
+    "lon": 139.767,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "东边有一个东京车站",
+    "context": "东京东侧的主要交通枢纽",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Tokyo-STA_Marunouchi-Entrance_2023.jpg/330px-Tokyo-STA_Marunouchi-Entrance_2023.jpg"
+  },
+  {
+    "name": "上野",
+    "name_en": "Ueno",
+    "lat": 35.711,
+    "lon": 139.775,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "我在上野 我们约个吃饭",
+    "context": "观光客爱去但对西侧居民较远之地",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Ueno_park.jpg/330px-Ueno_park.jpg"
+  },
+  {
+    "name": "台场",
+    "name_en": "Odaiba",
+    "lat": 35.626,
+    "lon": 139.775,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "再跑去台场",
+    "context": "观光一日游的常见行程点",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Odaiba_close_up_-_2025_Jan_14_01-27PM.jpeg/330px-Odaiba_close_up_-_2025_Jan_14_01-27PM.jpeg"
+  },
+  {
+    "name": "中正纪念堂",
+    "name_en": "Chiang Kai-shek Memorial Hall",
+    "lat": 25.034,
+    "lon": 121.521,
+    "country": "台湾",
+    "region": "亞洲",
+    "quote": "去了中正纪念堂之后",
+    "context": "台北典型的观光景点",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Chiang_Kai-shek_memorial_amk.jpg/330px-Chiang_Kai-shek_memorial_amk.jpg"
+  },
+  {
+    "name": "九份",
+    "name_en": "Jiufen",
+    "lat": 25.109,
+    "lon": 121.844,
+    "country": "台湾",
+    "region": "亞洲",
+    "quote": "然后就跑到九份去",
+    "context": "台北周边的热门观光小镇",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Jiufen_Amei_Tea_House_08.23.jpg/330px-Jiufen_Amei_Tea_House_08.23.jpg"
+  },
+  {
+    "name": "淡水",
+    "name_en": "Tamsui",
+    "lat": 25.169,
+    "lon": 121.443,
+    "country": "台湾",
+    "region": "亞洲",
+    "quote": "回来之后去逛一下淡水",
+    "context": "台北周边的热门观光地",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/%E7%B4%85%E6%AF%9B%E5%9F%8E%E4%B9%8B%E7%BE%8E.jpg/330px-%E7%B4%85%E6%AF%9B%E5%9F%8E%E4%B9%8B%E7%BE%8E.jpg"
+  },
+  {
+    "name": "自由之丘",
+    "name_en": "Jiyugaoka",
+    "lat": 35.607,
+    "lon": 139.668,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "像我很喜欢跑去像自由之丘",
+    "context": "东京人买生活杂货与甜点的高级街区"
+  },
+  {
+    "name": "高圆寺",
+    "name_en": "Koenji",
+    "lat": 35.705,
+    "lon": 139.649,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "像高原市 你知道什么人去高原市",
+    "context": "充满独特古着店与吃茶店的街区"
+  },
+  {
+    "name": "日本桥",
+    "name_en": "Nihonbashi",
+    "lat": 35.684,
+    "lon": 139.774,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "比方说忽然跑去日本桥那边走走",
+    "context": "有深厚历史及百年老铺的重镇"
+  },
+  {
+    "name": "东京大学",
+    "name_en": "The University of Tokyo",
+    "lat": 35.712,
+    "lon": 139.762,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "我那时候在东大交换学生的时候",
+    "context": "日本第一学府，周边具学术气息"
+  },
+  {
+    "name": "本乡",
+    "name_en": "Hongo",
+    "lat": 35.708,
+    "lon": 139.761,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "我最后一篇写东大旁边的本乡",
+    "context": "东京的文教区，早期文豪聚集地"
+  },
+  {
+    "name": "汤岛神社",
+    "name_en": "Yushima Tenmangu",
+    "lat": 35.707,
+    "lon": 139.768,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "那个神社叫汤岛神社",
+    "context": "祈求考上东大的文昌帝君神社"
+  },
+  {
+    "name": "杂司谷",
+    "name_en": "Zoshigaya",
+    "lat": 35.718,
+    "lon": 139.715,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "我想住的地方 哪里 杂丝谷",
+    "context": "讲者幻想不用工作时向往居住的街区"
+  }
+]

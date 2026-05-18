@@ -1,0 +1,82 @@
+[
+  {
+    "name": "左營高鐵站",
+    "name_en": "Zuoying HSR Station",
+    "lat": 22.688,
+    "lon": 120.308,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "我們一開始就直接從左營高鐵站嘛",
+    "context": "行程的起點，團隊從此處出發前往屏東部落。"
+  },
+  {
+    "name": "里那里聚落",
+    "name_en": "Rinari Settlement",
+    "lat": 22.701,
+    "lon": 120.647,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "然後就直接衝去里那里，那裡看起來是好幾個不同的部落聚在一起",
+    "context": "八八風災後由三個部落遷徙組成的永久屋聚落。"
+  },
+  {
+    "name": "馬家部落",
+    "name_en": "Majia Tribe",
+    "lat": 22.702,
+    "lon": 120.648,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "我自己的部落是馬家，屬於排灣族",
+    "context": "里那里聚落內的三大部落之一，屬於排灣族。"
+  },
+  {
+    "name": "好茶部落",
+    "name_en": "Haocha Tribe",
+    "lat": 22.703,
+    "lon": 120.645,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "還有一個是好茶部落，屬於露凱族",
+    "context": "里那里聚落內的三大部落之一，屬於魯凱族。"
+  },
+  {
+    "name": "大社部落",
+    "name_en": "Dasha Tribe",
+    "lat": 22.705,
+    "lon": 120.646,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "還有來自三地門鄉的大社村，大社部落是排灣族",
+    "context": "里那里聚落內的三大部落之一，由三地門鄉遷入。"
+  },
+  {
+    "name": "原鄉好茶部落",
+    "name_en": "Old Haocha Village",
+    "lat": 22.646,
+    "lon": 120.737,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "最嚴重的是好茶部落，就是它原鄉的好茶部落整個被衝不見了",
+    "context": "舊好茶聚落遺址，在八八風災中受損最為嚴重。"
+  },
+  {
+    "name": "原鄉馬家部落",
+    "name_en": "Old Majia Village",
+    "lat": 22.651,
+    "lon": 120.672,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "就原鄉馬家是都還蠻完整的，但是因為已經被縣政府化為紅色警戒區",
+    "context": "保存較完整的舊石板屋建築群，現為紅色警戒區。"
+  },
+  {
+    "name": "愛寮溪",
+    "name_en": "Ailiao Creek",
+    "lat": 22.645,
+    "lon": 120.73,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "因為他們原本居住的地方在愛寮溪的河畔旁邊，其實是很容易被水災弄掉的",
+    "context": "流經舊好茶部落旁的溪流，為當年的受災區域。"
+  }
+]

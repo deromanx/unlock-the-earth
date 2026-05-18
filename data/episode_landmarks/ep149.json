@@ -1,0 +1,85 @@
+[
+  {
+    "name": "西敏寺",
+    "name_en": "Westminster Abbey",
+    "lat": 51.4994,
+    "lon": -0.1273,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "西敏寺就是加冕典禮會發生的地方，都有很多的重新整修啊",
+    "context": "英國皇室舉辦加冕典禮的正統舞台"
+  },
+  {
+    "name": "白金漢宮",
+    "name_en": "Buckingham Palace",
+    "lat": 51.5014,
+    "lon": -0.1419,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "白金漢宮前方，其實在下午的時候，你就會看到很多軍隊正在排演了",
+    "context": "軍隊為加冕典禮進行排演的地點"
+  },
+  {
+    "name": "溫莎",
+    "name_en": "Windsor",
+    "lat": 51.4839,
+    "lon": -0.6044,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "在溫莎裡面也有一個聖喬治小教堂",
+    "context": "皇家重要教堂所在地"
+  },
+  {
+    "name": "聖喬治小教堂",
+    "name_en": "St George's Chapel",
+    "lat": 51.4838,
+    "lon": -0.6065,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "在溫莎裡面也有一個聖喬治小教堂...都是屬於皇家特用教堂",
+    "context": "位於溫莎內的皇家特用教堂"
+  },
+  {
+    "name": "倫敦塔",
+    "name_en": "Tower of London",
+    "lat": 51.5081,
+    "lon": -0.0759,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "在倫敦塔裡面，也有一個小教堂...都是屬於皇家特用教堂",
+    "context": "設有皇家特用小教堂的歷史建築",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Tower_of_London_from_the_Shard_%288515883950%29.jpg/330px-Tower_of_London_from_the_Shard_%288515883950%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "聖保羅大教堂",
+    "name_en": "St Paul's Cathedral",
+    "lat": 51.5138,
+    "lon": -0.1,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "查爾斯三世當然是查爾斯王子的時候，他就是在聖保羅結婚",
+    "context": "查爾斯三世與戴安娜的婚禮地點"
+  },
+  {
+    "name": "倫敦老城區",
+    "name_en": "City of London",
+    "lat": 51.5123,
+    "lon": -0.0909,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "倫敦老城區這裡，然後他們就會放62泡禮炮",
+    "context": "加冕典禮時鳴放禮炮的特定區域",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Bank_junction_-_2020-09-20_%282%29.jpg/330px-Bank_junction_-_2020-09-20_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "羅浮宮",
+    "name_en": "Louvre Museum",
+    "lat": 48.8606,
+    "lon": 2.3376,
+    "country": "法國",
+    "region": "歐洲",
+    "quote": "你知道那個時候哪一個博物館挖到寶嗎...就是今天的羅浮宮",
+    "context": "曾買下英國內戰變賣的皇室珠寶",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Louvre_Museum_Wikimedia_Commons.jpg/330px-Louvre_Museum_Wikimedia_Commons.jpg"
+  }
+]

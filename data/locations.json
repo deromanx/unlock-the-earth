@@ -1,0 +1,1675 @@
+{
+  "270": {
+    "destination": "黃刀鎮",
+    "country": "加拿大",
+    "region": "美洲",
+    "lat": 62.454,
+    "lon": -114.372
+  },
+  "269": {
+    "destination": "砂拉越",
+    "country": "馬來西亞",
+    "region": "亞洲",
+    "lat": 1.549,
+    "lon": 110.353
+  },
+  "268": {
+    "destination": "台灣",
+    "country": "台灣",
+    "region": "亞洲",
+    "lat": 25.033,
+    "lon": 121.565
+  },
+  "267": {
+    "destination": "的的喀喀湖",
+    "country": "玻利維亞",
+    "region": "美洲",
+    "lat": -15.877,
+    "lon": -69.334
+  },
+  "266": {
+    "destination": "倫敦",
+    "country": "英國",
+    "region": "歐洲",
+    "lat": 51.507,
+    "lon": -0.128
+  },
+  "265": {
+    "destination": "倫敦",
+    "country": "英國",
+    "region": "歐洲",
+    "lat": 51.51,
+    "lon": -0.125
+  },
+  "264": {
+    "destination": "黃刀鎮",
+    "country": "加拿大",
+    "region": "美洲",
+    "lat": 62.457,
+    "lon": -114.368
+  },
+  "263": {
+    "destination": "山崎",
+    "country": "日本",
+    "region": "亞洲",
+    "lat": 34.872,
+    "lon": 135.661
+  },
+  "262": {
+    "destination": "格陵蘭",
+    "country": "格陵蘭",
+    "region": "極地",
+    "lat": 64.183,
+    "lon": -51.721
+  },
+  "261": {
+    "destination": "溫哥華",
+    "country": "加拿大",
+    "region": "美洲",
+    "lat": 49.282,
+    "lon": -123.12
+  },
+  "260": {
+    "destination": "烏干達",
+    "country": "烏干達",
+    "region": "非洲",
+    "lat": 0.347,
+    "lon": 32.582
+  },
+  "259": {
+    "destination": "東京",
+    "country": "日本",
+    "region": "亞洲",
+    "lat": 35.676,
+    "lon": 139.65
+  },
+  "258": {
+    "destination": "利比亞",
+    "country": "利比亞",
+    "region": "非洲",
+    "lat": 32.887,
+    "lon": 13.191
+  },
+  "257": {
+    "destination": "台灣",
+    "country": "台灣",
+    "region": "亞洲",
+    "lat": 25.034,
+    "lon": 121.566
+  },
+  "256": {
+    "destination": "南美洲",
+    "country": "阿根廷",
+    "region": "美洲",
+    "lat": -38.416,
+    "lon": -63.617
+  },
+  "255": {
+    "destination": "倫敦",
+    "country": "英國",
+    "region": "歐洲",
+    "lat": 51.507,
+    "lon": -0.128
+  },
+  "254": {
+    "destination": "泰國",
+    "country": "泰國",
+    "region": "亞洲",
+    "lat": 13.756,
+    "lon": 100.502
+  },
+  "253": {
+    "destination": "白馬市",
+    "country": "加拿大",
+    "region": "美洲",
+    "lat": 60.721,
+    "lon": -135.051
+  },
+  "252": {
+    "destination": "敦煌",
+    "country": "中國",
+    "region": "亞洲",
+    "lat": 40.142,
+    "lon": 94.662
+  },
+  "251": {
+    "destination": "耶路撒冷",
+    "country": "以色列",
+    "region": "亞洲",
+    "lat": 31.768,
+    "lon": 35.214
+  },
+  "250": {
+    "destination": "古晉",
+    "country": "馬來西亞",
+    "region": "亞洲",
+    "lat": 1.553,
+    "lon": 110.359
+  },
+  "248": {
+    "destination": "北京",
+    "country": "中國",
+    "region": "亞洲",
+    "lat": 39.904,
+    "lon": 116.407
+  },
+  "247": {
+    "destination": "亞歷山卓",
+    "country": "埃及",
+    "region": "非洲",
+    "lat": 31.2,
+    "lon": 29.919
+  },
+  "245": {
+    "destination": "葉里溫",
+    "country": "亞美尼亞",
+    "region": "亞洲",
+    "lat": 40.179,
+    "lon": 44.515
+  },
+  "244": {
+    "destination": "伯斯",
+    "country": "澳洲",
+    "region": "大洋洲",
+    "lat": -31.951,
+    "lon": 115.861
+  },
+  "243": {
+    "destination": "伯斯",
+    "country": "澳洲",
+    "region": "大洋洲",
+    "lat": -31.951,
+    "lon": 115.861
+  },
+  "242": {
+    "destination": "永珍",
+    "country": "寮國",
+    "region": "亞洲",
+    "lat": 17.975,
+    "lon": 102.633
+  },
+  "241": {
+    "destination": "桑吉巴島",
+    "country": "坦尚尼亞",
+    "region": "非洲",
+    "lat": -6.166,
+    "lon": 39.203
+  },
+  "240": {
+    "destination": "阿拉木圖",
+    "country": "哈薩克",
+    "region": "亞洲",
+    "lat": 43.222,
+    "lon": 76.851
+  },
+  "239": {
+    "destination": "維爾紐斯",
+    "country": "立陶宛",
+    "region": "歐洲",
+    "lat": 54.687,
+    "lon": 25.28
+  },
+  "238": {
+    "destination": "美國",
+    "country": "美國",
+    "region": "美洲",
+    "lat": 37.09,
+    "lon": -95.713
+  },
+  "237": {
+    "destination": "吉力馬札羅山",
+    "country": "坦尚尼亞",
+    "region": "非洲",
+    "lat": -3.067,
+    "lon": 37.355
+  },
+  "236": {
+    "destination": "花園大道",
+    "country": "南非",
+    "region": "非洲",
+    "lat": -33.966,
+    "lon": 22.45
+  },
+  "235": {
+    "destination": "東京",
+    "country": "日本",
+    "region": "亞洲",
+    "lat": 35.689,
+    "lon": 139.692
+  },
+  "234": {
+    "destination": "阿曼",
+    "country": "阿曼",
+    "region": "亞洲",
+    "lat": 23.585,
+    "lon": 58.406
+  },
+  "233": {
+    "destination": "羅安達",
+    "country": "安哥拉",
+    "region": "非洲",
+    "lat": -8.839,
+    "lon": 13.234
+  },
+  "232": {
+    "destination": "貝島",
+    "country": "馬達加斯加",
+    "region": "非洲",
+    "lat": -13.312,
+    "lon": 48.27
+  },
+  "231": {
+    "destination": "京都",
+    "country": "日本",
+    "region": "亞洲",
+    "lat": 35.011,
+    "lon": 135.768
+  },
+  "229": {
+    "destination": "峇里島",
+    "country": "印尼",
+    "region": "亞洲",
+    "lat": -8.341,
+    "lon": 115.092
+  },
+  "228": {
+    "destination": "杜拜",
+    "country": "阿聯",
+    "region": "亞洲",
+    "lat": 25.204,
+    "lon": 55.271
+  },
+  "227": {
+    "destination": "波多",
+    "country": "葡萄牙",
+    "region": "歐洲",
+    "lat": 41.15,
+    "lon": -8.629
+  },
+  "226": {
+    "destination": "倫敦",
+    "country": "英國",
+    "region": "歐洲",
+    "lat": 51.507,
+    "lon": -0.128
+  },
+  "225": {
+    "destination": "倫敦",
+    "country": "英國",
+    "region": "歐洲",
+    "lat": 51.507,
+    "lon": -0.128
+  },
+  "224": {
+    "destination": "阿什哈巴德",
+    "country": "土庫曼",
+    "region": "亞洲",
+    "lat": 37.96,
+    "lon": 58.326
+  },
+  "223": {
+    "destination": "倫敦",
+    "country": "英國",
+    "region": "歐洲",
+    "lat": 51.507,
+    "lon": -0.128
+  },
+  "222": {
+    "destination": "名古屋",
+    "country": "日本",
+    "region": "亞洲",
+    "lat": 35.181,
+    "lon": 136.906
+  },
+  "221": {
+    "destination": "哥倫比亞",
+    "country": "哥倫比亞",
+    "region": "美洲",
+    "lat": 4.711,
+    "lon": -74.072
+  },
+  "220": {
+    "destination": "荷蘭",
+    "country": "荷蘭",
+    "region": "歐洲",
+    "lat": 52.367,
+    "lon": 4.904
+  },
+  "219": {
+    "destination": "墨爾本",
+    "country": "澳洲",
+    "region": "大洋洲",
+    "lat": -37.813,
+    "lon": 144.963
+  },
+  "218": {
+    "destination": "斯德哥爾摩",
+    "country": "瑞典",
+    "region": "歐洲",
+    "lat": 59.329,
+    "lon": 18.068
+  },
+  "217": {
+    "destination": "淡路島",
+    "country": "日本",
+    "region": "亞洲",
+    "lat": 34.343,
+    "lon": 134.896
+  },
+  "216": {
+    "destination": "布宜諾斯艾利斯",
+    "country": "阿根廷",
+    "region": "美洲",
+    "lat": -34.603,
+    "lon": -58.382
+  },
+  "214": {
+    "destination": "東京",
+    "country": "日本",
+    "region": "亞洲",
+    "lat": 35.689,
+    "lon": 139.692
+  },
+  "213": {
+    "destination": "秘魯",
+    "country": "秘魯",
+    "region": "美洲",
+    "lat": -12.046,
+    "lon": -77.042
+  },
+  "212": {
+    "destination": "塞拉耶佛",
+    "country": "波赫",
+    "region": "歐洲",
+    "lat": 43.856,
+    "lon": 18.413
+  },
+  "211": {
+    "destination": "東京",
+    "country": "日本",
+    "region": "亞洲",
+    "lat": 35.689,
+    "lon": 139.692
+  },
+  "209": {
+    "destination": "馬丘比丘",
+    "country": "秘魯",
+    "region": "美洲",
+    "lat": -13.163,
+    "lon": -72.545
+  },
+  "208": {
+    "destination": "紐西蘭南島",
+    "country": "紐西蘭",
+    "region": "大洋洲",
+    "lat": -45.031,
+    "lon": 168.662
+  },
+  "207": {
+    "destination": "曼德勒",
+    "country": "緬甸",
+    "region": "亞洲",
+    "lat": 21.958,
+    "lon": 96.089
+  },
+  "205": {
+    "destination": "巴黎",
+    "country": "法國",
+    "region": "歐洲",
+    "lat": 48.856,
+    "lon": 2.352
+  },
+  "204": {
+    "destination": "杜尚別",
+    "country": "塔吉克",
+    "region": "亞洲",
+    "lat": 38.536,
+    "lon": 68.779
+  },
+  "203": {
+    "destination": "臘戌",
+    "country": "緬甸",
+    "region": "亞洲",
+    "lat": 22.964,
+    "lon": 97.753
+  },
+  "202": {
+    "destination": "巴黎",
+    "country": "法國",
+    "region": "歐洲",
+    "lat": 48.856,
+    "lon": 2.352
+  },
+  "201": {
+    "destination": "佩特拉",
+    "country": "約旦",
+    "region": "亞洲",
+    "lat": 30.328,
+    "lon": 35.444
+  },
+  "200": {
+    "destination": "加拉巴哥群島",
+    "country": "厄瓜多",
+    "region": "美洲",
+    "lat": -0.74,
+    "lon": -90.312
+  },
+  "199": {
+    "destination": "新加坡",
+    "country": "新加坡",
+    "region": "亞洲",
+    "lat": 1.352,
+    "lon": 103.819
+  },
+  "198": {
+    "destination": "北海道",
+    "country": "日本",
+    "region": "亞洲",
+    "lat": 43.062,
+    "lon": 141.354
+  },
+  "197": {
+    "destination": "亞塞拜然",
+    "country": "亞塞拜然",
+    "region": "亞洲",
+    "lat": 40.409,
+    "lon": 49.867
+  },
+  "196": {
+    "destination": "伊真火山",
+    "country": "印尼",
+    "region": "亞洲",
+    "lat": -8.058,
+    "lon": 114.242
+  },
+  "195": {
+    "destination": "峇里島",
+    "country": "印尼",
+    "region": "亞洲",
+    "lat": -8.341,
+    "lon": 115.092
+  },
+  "194": {
+    "destination": "捷克",
+    "country": "捷克",
+    "region": "歐洲",
+    "lat": 50.075,
+    "lon": 14.437
+  },
+  "193": {
+    "destination": "紐西蘭南島",
+    "country": "紐西蘭",
+    "region": "大洋洲",
+    "lat": -45.031,
+    "lon": 168.662
+  },
+  "192": {
+    "destination": "墨西哥",
+    "country": "墨西哥",
+    "region": "美洲",
+    "lat": 19.432,
+    "lon": -99.133
+  },
+  "191": {
+    "destination": "緬甸",
+    "country": "緬甸",
+    "region": "亞洲",
+    "lat": 16.866,
+    "lon": 96.195
+  },
+  "190": {
+    "destination": "澳洲",
+    "country": "澳洲",
+    "region": "大洋洲",
+    "lat": -25.274,
+    "lon": 133.775
+  },
+  "189": {
+    "destination": "坎帕拉",
+    "country": "烏干達",
+    "region": "非洲",
+    "lat": 0.347,
+    "lon": 32.582
+  },
+  "188": {
+    "destination": "巨石陣",
+    "country": "英國",
+    "region": "歐洲",
+    "lat": 51.178,
+    "lon": -1.826
+  },
+  "187": {
+    "destination": "喀拉拉邦",
+    "country": "印度",
+    "region": "亞洲",
+    "lat": 8.524,
+    "lon": 76.936
+  },
+  "186": {
+    "destination": "熊野古道",
+    "country": "日本",
+    "region": "亞洲",
+    "lat": 33.727,
+    "lon": 135.378
+  },
+  "185": {
+    "destination": "柬埔寨",
+    "country": "柬埔寨",
+    "region": "亞洲",
+    "lat": 11.556,
+    "lon": 104.928
+  },
+  "184": {
+    "destination": "倫敦",
+    "country": "英國",
+    "region": "歐洲",
+    "lat": 51.507,
+    "lon": -0.128
+  },
+  "183": {
+    "destination": "墨西哥",
+    "country": "墨西哥",
+    "region": "美洲",
+    "lat": 19.432,
+    "lon": -99.133
+  },
+  "182": {
+    "destination": "龍血島",
+    "country": "葉門",
+    "region": "亞洲",
+    "lat": 12.463,
+    "lon": 53.911
+  },
+  "181": {
+    "destination": "聖地牙哥康波斯特拉",
+    "country": "西班牙",
+    "region": "歐洲",
+    "lat": 42.878,
+    "lon": -8.544
+  },
+  "180": {
+    "destination": "蘇萊曼尼亞",
+    "country": "伊拉克",
+    "region": "亞洲",
+    "lat": 35.556,
+    "lon": 45.435
+  },
+  "179": {
+    "destination": "巴格達",
+    "country": "伊拉克",
+    "region": "亞洲",
+    "lat": 33.315,
+    "lon": 44.366
+  },
+  "177": {
+    "destination": "阿富汗",
+    "country": "阿富汗",
+    "region": "亞洲",
+    "lat": 34.555,
+    "lon": 69.207
+  },
+  "176": {
+    "destination": "北印度",
+    "country": "印度",
+    "region": "亞洲",
+    "lat": 28.613,
+    "lon": 77.208
+  },
+  "175": {
+    "destination": "四王群島",
+    "country": "印尼",
+    "region": "亞洲",
+    "lat": -0.428,
+    "lon": 130.82
+  },
+  "174": {
+    "destination": "帛琉",
+    "country": "帛琉",
+    "region": "大洋洲",
+    "lat": 7.342,
+    "lon": 134.479
+  },
+  "173": {
+    "destination": "孟買",
+    "country": "印度",
+    "region": "亞洲",
+    "lat": 19.076,
+    "lon": 72.877
+  },
+  "172": {
+    "destination": "澳門",
+    "country": "澳門",
+    "region": "亞洲",
+    "lat": 22.197,
+    "lon": 113.543
+  },
+  "171": {
+    "destination": "貝里斯",
+    "country": "貝里斯",
+    "region": "美洲",
+    "lat": 17.504,
+    "lon": -88.196
+  },
+  "170": {
+    "destination": "瓜地馬拉",
+    "country": "瓜地馬拉",
+    "region": "美洲",
+    "lat": 14.634,
+    "lon": -90.506
+  },
+  "168": {
+    "destination": "葡萄牙",
+    "country": "葡萄牙",
+    "region": "歐洲",
+    "lat": 38.722,
+    "lon": -9.139
+  },
+  "166": {
+    "destination": "伊斯坦堡",
+    "country": "土耳其",
+    "region": "亞洲",
+    "lat": 41.008,
+    "lon": 28.978
+  },
+  "165": {
+    "destination": "香港",
+    "country": "香港",
+    "region": "亞洲",
+    "lat": 22.319,
+    "lon": 114.169
+  },
+  "162": {
+    "destination": "科摩多島",
+    "country": "印尼",
+    "region": "亞洲",
+    "lat": -8.589,
+    "lon": 119.441
+  },
+  "161": {
+    "destination": "西西里島",
+    "country": "義大利",
+    "region": "歐洲",
+    "lat": 38.115,
+    "lon": 13.361
+  },
+  "159": {
+    "destination": "西奈山",
+    "country": "埃及",
+    "region": "非洲",
+    "lat": 28.555,
+    "lon": 33.948
+  },
+  "158": {
+    "destination": "開羅",
+    "country": "埃及",
+    "region": "非洲",
+    "lat": 30.044,
+    "lon": 31.235
+  },
+  "157": {
+    "destination": "冰島",
+    "country": "冰島",
+    "region": "歐洲",
+    "lat": 64.146,
+    "lon": -21.942
+  },
+  "156": {
+    "destination": "土耳其",
+    "country": "土耳其",
+    "region": "亞洲",
+    "lat": 38.963,
+    "lon": 35.243
+  },
+  "155": {
+    "destination": "仰光",
+    "country": "緬甸",
+    "region": "亞洲",
+    "lat": 16.866,
+    "lon": 96.195
+  },
+  "154": {
+    "destination": "墨西哥城",
+    "country": "墨西哥",
+    "region": "美洲",
+    "lat": 19.432,
+    "lon": -99.133
+  },
+  "152": {
+    "destination": "圖瓦",
+    "country": "俄羅斯",
+    "region": "亞洲",
+    "lat": 51.719,
+    "lon": 94.439
+  },
+  "151": {
+    "destination": "巴黎",
+    "country": "法國",
+    "region": "歐洲",
+    "lat": 48.856,
+    "lon": 2.352
+  },
+  "149": {
+    "destination": "倫敦",
+    "country": "英國",
+    "region": "歐洲",
+    "lat": 51.507,
+    "lon": -0.128
+  },
+  "148": {
+    "destination": "喬治亞",
+    "country": "喬治亞",
+    "region": "亞洲",
+    "lat": 41.715,
+    "lon": 44.827
+  },
+  "146": {
+    "destination": "埃及",
+    "country": "埃及",
+    "region": "非洲",
+    "lat": 26.82,
+    "lon": 30.802
+  },
+  "145": {
+    "destination": "喀什米爾",
+    "country": "印度",
+    "region": "亞洲",
+    "lat": 34.083,
+    "lon": 74.797
+  },
+  "144": {
+    "destination": "埃及",
+    "country": "埃及",
+    "region": "非洲",
+    "lat": 26.82,
+    "lon": 30.802
+  },
+  "143": {
+    "destination": "尼泊爾",
+    "country": "尼泊爾",
+    "region": "亞洲",
+    "lat": 28.394,
+    "lon": 84.124
+  },
+  "141": {
+    "destination": "永珍",
+    "country": "寮國",
+    "region": "亞洲",
+    "lat": 17.975,
+    "lon": 102.633
+  },
+  "140": {
+    "destination": "沙灣那吉",
+    "country": "寮國",
+    "region": "亞洲",
+    "lat": 16.566,
+    "lon": 104.75
+  },
+  "139": {
+    "destination": "大馬士革",
+    "country": "敘利亞",
+    "region": "亞洲",
+    "lat": 33.513,
+    "lon": 36.276
+  },
+  "138": {
+    "destination": "塞內加爾",
+    "country": "塞內加爾",
+    "region": "非洲",
+    "lat": 14.716,
+    "lon": -17.467
+  },
+  "137": {
+    "destination": "安曼",
+    "country": "約旦",
+    "region": "亞洲",
+    "lat": 31.945,
+    "lon": 35.928
+  },
+  "135": {
+    "destination": "亞瑪爾半島",
+    "country": "俄羅斯",
+    "region": "極地",
+    "lat": 66.53,
+    "lon": 66.602
+  },
+  "134": {
+    "destination": "奧斯威辛",
+    "country": "波蘭",
+    "region": "歐洲",
+    "lat": 50.027,
+    "lon": 19.202
+  },
+  "132": {
+    "destination": "伊朗",
+    "country": "伊朗",
+    "region": "亞洲",
+    "lat": 35.689,
+    "lon": 51.389
+  },
+  "131": {
+    "destination": "首爾",
+    "country": "韓國",
+    "region": "亞洲",
+    "lat": 37.566,
+    "lon": 126.978
+  },
+  "130": {
+    "destination": "匈牙利",
+    "country": "匈牙利",
+    "region": "歐洲",
+    "lat": 47.497,
+    "lon": 19.04
+  },
+  "129": {
+    "destination": "白沙瓦",
+    "country": "巴基斯坦",
+    "region": "亞洲",
+    "lat": 33.997,
+    "lon": 71.477
+  },
+  "128": {
+    "destination": "拉達克",
+    "country": "印度",
+    "region": "亞洲",
+    "lat": 34.152,
+    "lon": 77.577
+  },
+  "127": {
+    "destination": "查德",
+    "country": "查德",
+    "region": "非洲",
+    "lat": 12.113,
+    "lon": 15.044
+  },
+  "126": {
+    "destination": "聖克里斯多福及尼維斯",
+    "country": "聖克里斯多福及尼維斯",
+    "region": "美洲",
+    "lat": 17.3,
+    "lon": -62.733
+  },
+  "125": {
+    "destination": "西伯利亞",
+    "country": "俄羅斯",
+    "region": "亞洲",
+    "lat": 52.287,
+    "lon": 104.281
+  },
+  "124": {
+    "destination": "里約熱內盧",
+    "country": "巴西",
+    "region": "美洲",
+    "lat": -22.906,
+    "lon": -43.172
+  },
+  "123": {
+    "destination": "土庫曼",
+    "country": "土庫曼",
+    "region": "亞洲",
+    "lat": 37.96,
+    "lon": 58.326
+  },
+  "122": {
+    "destination": "伊斯坦堡",
+    "country": "土耳其",
+    "region": "亞洲",
+    "lat": 41.008,
+    "lon": 28.978
+  },
+  "121": {
+    "destination": "巴拉圭",
+    "country": "巴拉圭",
+    "region": "美洲",
+    "lat": -25.263,
+    "lon": -57.575
+  },
+  "120": {
+    "destination": "伊斯坦堡",
+    "country": "土耳其",
+    "region": "亞洲",
+    "lat": 41.008,
+    "lon": 28.978
+  },
+  "119": {
+    "destination": "爪哇島",
+    "country": "印尼",
+    "region": "亞洲",
+    "lat": -7.614,
+    "lon": 110.712
+  },
+  "118": {
+    "destination": "烏干達",
+    "country": "烏干達",
+    "region": "非洲",
+    "lat": 1.373,
+    "lon": 32.29
+  },
+  "117": {
+    "destination": "德國",
+    "country": "德國",
+    "region": "歐洲",
+    "lat": 51.165,
+    "lon": 10.451
+  },
+  "116": {
+    "destination": "南印度",
+    "country": "印度",
+    "region": "亞洲",
+    "lat": 12.971,
+    "lon": 77.594
+  },
+  "115": {
+    "destination": "馬尼拉",
+    "country": "菲律賓",
+    "region": "亞洲",
+    "lat": 14.599,
+    "lon": 120.984
+  },
+  "114": {
+    "destination": "伊朗",
+    "country": "伊朗",
+    "region": "亞洲",
+    "lat": 35.689,
+    "lon": 51.389
+  },
+  "113": {
+    "destination": "南極",
+    "country": "南極",
+    "region": "極地",
+    "lat": -90.0,
+    "lon": 0.0
+  },
+  "112": {
+    "destination": "盧安達",
+    "country": "盧安達",
+    "region": "非洲",
+    "lat": -1.944,
+    "lon": 30.061
+  },
+  "111": {
+    "destination": "模里西斯",
+    "country": "模里西斯",
+    "region": "非洲",
+    "lat": -20.16,
+    "lon": 57.501
+  },
+  "109": {
+    "destination": "英國",
+    "country": "英國",
+    "region": "歐洲",
+    "lat": 51.507,
+    "lon": -0.128
+  },
+  "108": {
+    "destination": "英國",
+    "country": "英國",
+    "region": "歐洲",
+    "lat": 51.507,
+    "lon": -0.128
+  },
+  "107": {
+    "destination": "墨巴本",
+    "country": "史瓦帝尼",
+    "region": "非洲",
+    "lat": -26.305,
+    "lon": 31.136
+  },
+  "106": {
+    "destination": "塞拉耶佛",
+    "country": "波赫",
+    "region": "歐洲",
+    "lat": 43.856,
+    "lon": 18.413
+  },
+  "105": {
+    "destination": "約翰尼斯堡",
+    "country": "南非",
+    "region": "非洲",
+    "lat": -26.204,
+    "lon": 28.047
+  },
+  "104": {
+    "destination": "摩洛哥",
+    "country": "摩洛哥",
+    "region": "非洲",
+    "lat": 31.791,
+    "lon": -7.092
+  },
+  "103": {
+    "destination": "愛丁堡",
+    "country": "英國",
+    "region": "歐洲",
+    "lat": 55.953,
+    "lon": -3.188
+  },
+  "102": {
+    "destination": "肯亞",
+    "country": "肯亞",
+    "region": "非洲",
+    "lat": -1.292,
+    "lon": 36.821
+  },
+  "101": {
+    "destination": "墨西哥",
+    "country": "墨西哥",
+    "region": "美洲",
+    "lat": 19.432,
+    "lon": -99.133
+  },
+  "100": {
+    "destination": "布拉格",
+    "country": "捷克",
+    "region": "歐洲",
+    "lat": 50.075,
+    "lon": 14.437
+  },
+  "99": {
+    "destination": "印度",
+    "country": "印度",
+    "region": "亞洲",
+    "lat": 20.593,
+    "lon": 78.962
+  },
+  "98": {
+    "destination": "奧斯陸",
+    "country": "挪威",
+    "region": "歐洲",
+    "lat": 59.913,
+    "lon": 10.752
+  },
+  "97": {
+    "destination": "暹粒",
+    "country": "柬埔寨",
+    "region": "亞洲",
+    "lat": 13.363,
+    "lon": 103.855
+  },
+  "96": {
+    "destination": "巴基斯坦",
+    "country": "巴基斯坦",
+    "region": "亞洲",
+    "lat": 36.316,
+    "lon": 74.65
+  },
+  "95": {
+    "destination": "麥德林",
+    "country": "哥倫比亞",
+    "region": "美洲",
+    "lat": 6.244,
+    "lon": -75.581
+  },
+  "94": {
+    "destination": "阿曼",
+    "country": "阿曼",
+    "region": "亞洲",
+    "lat": 23.585,
+    "lon": 58.406
+  },
+  "93": {
+    "destination": "瑞典",
+    "country": "瑞典",
+    "region": "歐洲",
+    "lat": 59.329,
+    "lon": 18.068
+  },
+  "92": {
+    "destination": "納米比亞",
+    "country": "納米比亞",
+    "region": "非洲",
+    "lat": -22.56,
+    "lon": 17.065
+  },
+  "90": {
+    "destination": "寮國",
+    "country": "寮國",
+    "region": "亞洲",
+    "lat": 17.975,
+    "lon": 102.633
+  },
+  "89": {
+    "destination": "索馬利蘭",
+    "country": "索馬利亞",
+    "region": "非洲",
+    "lat": 9.562,
+    "lon": 44.065
+  },
+  "88": {
+    "destination": "耶路撒冷",
+    "country": "以色列",
+    "region": "亞洲",
+    "lat": 31.768,
+    "lon": 35.214
+  },
+  "86": {
+    "destination": "馬來西亞",
+    "country": "馬來西亞",
+    "region": "亞洲",
+    "lat": 3.139,
+    "lon": 101.686
+  },
+  "85": {
+    "destination": "伊朗",
+    "country": "伊朗",
+    "region": "亞洲",
+    "lat": 35.689,
+    "lon": 51.389
+  },
+  "84": {
+    "destination": "伯斯",
+    "country": "澳洲",
+    "region": "大洋洲",
+    "lat": -31.951,
+    "lon": 115.861
+  },
+  "83": {
+    "destination": "賽普勒斯",
+    "country": "賽普勒斯",
+    "region": "亞洲",
+    "lat": 35.185,
+    "lon": 33.382
+  },
+  "82": {
+    "destination": "倫敦",
+    "country": "英國",
+    "region": "歐洲",
+    "lat": 51.507,
+    "lon": -0.128
+  },
+  "81": {
+    "destination": "史瓦帝尼",
+    "country": "史瓦帝尼",
+    "region": "非洲",
+    "lat": -26.305,
+    "lon": 31.136
+  },
+  "80": {
+    "destination": "摩洛哥",
+    "country": "摩洛哥",
+    "region": "非洲",
+    "lat": 31.791,
+    "lon": -7.092
+  },
+  "79": {
+    "destination": "曼谷",
+    "country": "泰國",
+    "region": "亞洲",
+    "lat": 13.756,
+    "lon": 100.502
+  },
+  "78": {
+    "destination": "加德滿都",
+    "country": "尼泊爾",
+    "region": "亞洲",
+    "lat": 27.717,
+    "lon": 85.324
+  },
+  "77": {
+    "destination": "倫敦",
+    "country": "英國",
+    "region": "歐洲",
+    "lat": 51.507,
+    "lon": -0.128
+  },
+  "76": {
+    "destination": "立陶宛",
+    "country": "立陶宛",
+    "region": "歐洲",
+    "lat": 54.687,
+    "lon": 25.28
+  },
+  "75": {
+    "destination": "馬拉威",
+    "country": "馬拉威",
+    "region": "非洲",
+    "lat": -13.254,
+    "lon": 34.301
+  },
+  "74": {
+    "destination": "里加",
+    "country": "拉脫維亞",
+    "region": "歐洲",
+    "lat": 56.949,
+    "lon": 24.105
+  },
+  "73": {
+    "destination": "加納利群島",
+    "country": "西班牙",
+    "region": "非洲",
+    "lat": 28.291,
+    "lon": -16.629
+  },
+  "72": {
+    "destination": "愛沙尼亞",
+    "country": "愛沙尼亞",
+    "region": "歐洲",
+    "lat": 59.437,
+    "lon": 24.753
+  },
+  "70": {
+    "destination": "古巴",
+    "country": "古巴",
+    "region": "美洲",
+    "lat": 21.805,
+    "lon": -79.983
+  },
+  "69": {
+    "destination": "澳門",
+    "country": "澳門",
+    "region": "亞洲",
+    "lat": 22.197,
+    "lon": 113.543
+  },
+  "68": {
+    "destination": "貝里斯",
+    "country": "貝里斯",
+    "region": "美洲",
+    "lat": 17.504,
+    "lon": -88.196
+  },
+  "67": {
+    "destination": "貝里斯",
+    "country": "貝里斯",
+    "region": "美洲",
+    "lat": 17.504,
+    "lon": -88.196
+  },
+  "66": {
+    "destination": "釜山",
+    "country": "韓國",
+    "region": "亞洲",
+    "lat": 35.179,
+    "lon": 129.075
+  },
+  "64": {
+    "destination": "杜拜",
+    "country": "阿聯",
+    "region": "亞洲",
+    "lat": 25.204,
+    "lon": 55.271
+  },
+  "62": {
+    "destination": "墨西哥",
+    "country": "墨西哥",
+    "region": "美洲",
+    "lat": 19.432,
+    "lon": -99.133
+  },
+  "61": {
+    "destination": "吉爾吉斯",
+    "country": "吉爾吉斯",
+    "region": "亞洲",
+    "lat": 42.874,
+    "lon": 74.569
+  },
+  "60": {
+    "destination": "烏茲別克",
+    "country": "烏茲別克",
+    "region": "亞洲",
+    "lat": 39.654,
+    "lon": 66.959
+  },
+  "59": {
+    "destination": "伊斯坦堡",
+    "country": "土耳其",
+    "region": "亞洲",
+    "lat": 41.008,
+    "lon": 28.978
+  },
+  "58": {
+    "destination": "盧安達",
+    "country": "盧安達",
+    "region": "非洲",
+    "lat": -1.944,
+    "lon": 30.061
+  },
+  "57": {
+    "destination": "辛巴威",
+    "country": "辛巴威",
+    "region": "非洲",
+    "lat": -17.825,
+    "lon": 31.052
+  },
+  "56": {
+    "destination": "義大利",
+    "country": "義大利",
+    "region": "歐洲",
+    "lat": 41.871,
+    "lon": 12.567
+  },
+  "55": {
+    "destination": "突尼西亞",
+    "country": "突尼西亞",
+    "region": "非洲",
+    "lat": 36.806,
+    "lon": 10.181
+  },
+  "54": {
+    "destination": "巴西",
+    "country": "巴西",
+    "region": "美洲",
+    "lat": -14.235,
+    "lon": -51.925
+  },
+  "53": {
+    "destination": "印度",
+    "country": "印度",
+    "region": "亞洲",
+    "lat": 20.593,
+    "lon": 78.962
+  },
+  "52": {
+    "destination": "墨西哥",
+    "country": "墨西哥",
+    "region": "美洲",
+    "lat": 19.432,
+    "lon": -99.133
+  },
+  "51": {
+    "destination": "亞馬遜河",
+    "country": "巴西",
+    "region": "美洲",
+    "lat": -3.465,
+    "lon": -62.215
+  },
+  "50": {
+    "destination": "瓦拉納西",
+    "country": "印度",
+    "region": "亞洲",
+    "lat": 25.317,
+    "lon": 82.973
+  },
+  "48": {
+    "destination": "科威特",
+    "country": "科威特",
+    "region": "亞洲",
+    "lat": 29.375,
+    "lon": 47.977
+  },
+  "47": {
+    "destination": "科索沃",
+    "country": "科索沃",
+    "region": "歐洲",
+    "lat": 42.662,
+    "lon": 21.165
+  },
+  "45": {
+    "destination": "古巴",
+    "country": "古巴",
+    "region": "美洲",
+    "lat": 23.113,
+    "lon": -82.366
+  },
+  "44": {
+    "destination": "火人節",
+    "country": "美國",
+    "region": "美洲",
+    "lat": 40.787,
+    "lon": -119.203
+  },
+  "43": {
+    "destination": "京都",
+    "country": "日本",
+    "region": "亞洲",
+    "lat": 35.011,
+    "lon": 135.768
+  },
+  "42": {
+    "destination": "沖繩",
+    "country": "日本",
+    "region": "亞洲",
+    "lat": 26.212,
+    "lon": 127.679
+  },
+  "41": {
+    "destination": "秘魯",
+    "country": "秘魯",
+    "region": "美洲",
+    "lat": -12.046,
+    "lon": -77.042
+  },
+  "40": {
+    "destination": "巴勒斯坦",
+    "country": "巴勒斯坦",
+    "region": "亞洲",
+    "lat": 31.945,
+    "lon": 35.214
+  },
+  "39": {
+    "destination": "法國",
+    "country": "法國",
+    "region": "歐洲",
+    "lat": 46.227,
+    "lon": 2.213
+  },
+  "38": {
+    "destination": "開封",
+    "country": "中國",
+    "region": "亞洲",
+    "lat": 34.797,
+    "lon": 114.307
+  },
+  "37": {
+    "destination": "馬達加斯加",
+    "country": "馬達加斯加",
+    "region": "非洲",
+    "lat": -18.766,
+    "lon": 46.869
+  },
+  "36": {
+    "destination": "芬蘭",
+    "country": "芬蘭",
+    "region": "歐洲",
+    "lat": 66.503,
+    "lon": 25.728
+  },
+  "35": {
+    "destination": "平壤",
+    "country": "北韓",
+    "region": "亞洲",
+    "lat": 39.039,
+    "lon": 125.762
+  },
+  "34": {
+    "destination": "波赫",
+    "country": "波赫",
+    "region": "歐洲",
+    "lat": 43.856,
+    "lon": 18.413
+  },
+  "33": {
+    "destination": "緬甸",
+    "country": "緬甸",
+    "region": "亞洲",
+    "lat": 16.866,
+    "lon": 96.195
+  },
+  "31": {
+    "destination": "吐瓦魯",
+    "country": "吐瓦魯",
+    "region": "大洋洲",
+    "lat": -8.517,
+    "lon": 179.191
+  },
+  "30": {
+    "destination": "布達佩斯",
+    "country": "匈牙利",
+    "region": "歐洲",
+    "lat": 47.497,
+    "lon": 19.04
+  },
+  "29": {
+    "destination": "巴拿馬",
+    "country": "巴拿馬",
+    "region": "美洲",
+    "lat": 8.983,
+    "lon": -79.516
+  },
+  "28": {
+    "destination": "西巴布亞",
+    "country": "印尼",
+    "region": "亞洲",
+    "lat": -2.591,
+    "lon": 140.718
+  },
+  "27": {
+    "destination": "巴黎",
+    "country": "法國",
+    "region": "歐洲",
+    "lat": 48.856,
+    "lon": 2.352
+  },
+  "26": {
+    "destination": "印度",
+    "country": "印度",
+    "region": "亞洲",
+    "lat": 20.593,
+    "lon": 78.962
+  },
+  "25": {
+    "destination": "仰光",
+    "country": "緬甸",
+    "region": "亞洲",
+    "lat": 16.866,
+    "lon": 96.195
+  },
+  "24": {
+    "destination": "索菲亞",
+    "country": "保加利亞",
+    "region": "歐洲",
+    "lat": 42.697,
+    "lon": 23.321
+  },
+  "23": {
+    "destination": "倫敦",
+    "country": "英國",
+    "region": "歐洲",
+    "lat": 51.507,
+    "lon": -0.128
+  },
+  "22": {
+    "destination": "倫敦",
+    "country": "英國",
+    "region": "歐洲",
+    "lat": 51.507,
+    "lon": -0.128
+  },
+  "21": {
+    "destination": "歐洲",
+    "country": "歐洲",
+    "region": "歐洲",
+    "lat": 48.856,
+    "lon": 2.352
+  },
+  "20": {
+    "destination": "吳哥窟",
+    "country": "柬埔寨",
+    "region": "亞洲",
+    "lat": 13.412,
+    "lon": 103.866
+  },
+  "19": {
+    "destination": "吳哥窟",
+    "country": "柬埔寨",
+    "region": "亞洲",
+    "lat": 13.412,
+    "lon": 103.866
+  },
+  "18": {
+    "destination": "歐洲",
+    "country": "歐洲",
+    "region": "歐洲",
+    "lat": 48.856,
+    "lon": 2.352
+  },
+  "17": {
+    "destination": "衣索比亞",
+    "country": "衣索比亞",
+    "region": "非洲",
+    "lat": 9.019,
+    "lon": 38.746
+  },
+  "15": {
+    "destination": "哥斯大黎加",
+    "country": "哥斯大黎加",
+    "region": "美洲",
+    "lat": 9.928,
+    "lon": -84.09
+  },
+  "14": {
+    "destination": "加拿大",
+    "country": "加拿大",
+    "region": "美洲",
+    "lat": 45.421,
+    "lon": -75.697
+  },
+  "13": {
+    "destination": "越南",
+    "country": "越南",
+    "region": "亞洲",
+    "lat": 14.058,
+    "lon": 108.277
+  },
+  "12": {
+    "destination": "宿霧",
+    "country": "菲律賓",
+    "region": "亞洲",
+    "lat": 10.315,
+    "lon": 123.885
+  },
+  "8": {
+    "destination": "美國",
+    "country": "美國",
+    "region": "美洲",
+    "lat": 37.09,
+    "lon": -95.713
+  },
+  "7": {
+    "destination": "慕尼黑",
+    "country": "德國",
+    "region": "歐洲",
+    "lat": 48.135,
+    "lon": 11.582
+  },
+  "6": {
+    "destination": "拉薩",
+    "country": "中國",
+    "region": "亞洲",
+    "lat": 29.644,
+    "lon": 91.114
+  },
+  "5": {
+    "destination": "清邁",
+    "country": "泰國",
+    "region": "亞洲",
+    "lat": 18.788,
+    "lon": 98.985
+  },
+  "4": {
+    "destination": "仰光",
+    "country": "緬甸",
+    "region": "亞洲",
+    "lat": 16.866,
+    "lon": 96.195
+  },
+  "3": {
+    "destination": "佛羅倫斯",
+    "country": "義大利",
+    "region": "歐洲",
+    "lat": 43.769,
+    "lon": 11.255
+  },
+  "2": {
+    "destination": "金邊",
+    "country": "柬埔寨",
+    "region": "亞洲",
+    "lat": 11.556,
+    "lon": 104.928
+  },
+  "1": {
+    "destination": "永珍",
+    "country": "寮國",
+    "region": "亞洲",
+    "lat": 17.975,
+    "lon": 102.633
+  }
+}

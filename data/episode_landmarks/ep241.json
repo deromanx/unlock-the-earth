@@ -1,0 +1,79 @@
+[
+  {
+    "name": "吉力馬札羅山",
+    "name_en": "Mount Kilimanjaro",
+    "lat": -3.067,
+    "lon": 37.355,
+    "country": "坦尚尼亞",
+    "region": "非洲",
+    "quote": "而且我没记错的话吉利马杂禄山它是一棵的这样就是它不是一个山脉",
+    "context": "外型特殊的非洲最高峰，被視為需要耗費大量體力的行程",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Kilimanjaro_from_Amboseli.jpg/330px-Kilimanjaro_from_Amboseli.jpg"
+  },
+  {
+    "name": "阿魯沙",
+    "name_en": "Arusha",
+    "lat": -3.366,
+    "lon": 36.682,
+    "country": "坦尚尼亞",
+    "region": "非洲",
+    "quote": "然后你们就从阿鲁莎开始展开你们的旅程",
+    "context": "坦尚尼亞本土 Safari 行程的起點城市",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Arusha_City_view.jpg/330px-Arusha_City_view.jpg"
+  },
+  {
+    "name": "塔蘭吉雷國家公園",
+    "name_en": "Tarangire National Park",
+    "lat": -3.833,
+    "lon": 36.0,
+    "country": "坦尚尼亞",
+    "region": "非洲",
+    "quote": "像我们去的第一个叫做塔兰吉雷国家公园，他就是大象很多",
+    "context": "旅程中第一個造訪的國家公園，特色是能看見許多大象",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Tarangine_%2862%29.jpg/330px-Tarangine_%2862%29.jpg"
+  },
+  {
+    "name": "恩戈羅恩戈羅自然保護區",
+    "name_en": "Ngorongoro Conservation Area",
+    "lat": -3.166,
+    "lon": 35.583,
+    "country": "坦尚尼亞",
+    "region": "非洲",
+    "quote": "他是一个自然保留局叫做Grongoro...他就是有黑犀牛",
+    "context": "第二個造訪的自然保留區，特色是能觀察到黑犀牛",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Ngorongoro-1001-2.jpg/330px-Ngorongoro-1001-2.jpg"
+  },
+  {
+    "name": "塞倫蓋提國家公園",
+    "name_en": "Serengeti National Park",
+    "lat": -2.333,
+    "lon": 34.833,
+    "country": "坦尚尼亞",
+    "region": "非洲",
+    "quote": "Serengeti就是看大前行的地方",
+    "context": "觀賞動物大遷徙（逐字稿誤植為大前行）的知名國家公園",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Serengeti-Landscape-2012.JPG/330px-Serengeti-Landscape-2012.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "桑吉巴島",
+    "name_en": "Zanzibar",
+    "lat": -6.165,
+    "lon": 39.202,
+    "country": "坦尚尼亞",
+    "region": "非洲",
+    "quote": "然后就直接坐飞机飞到桑吉巴",
+    "context": "行程後半段的海島目的地，有獨特的伊斯蘭與阿拉伯文化",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Zanzibar.svg/330px-Flag_of_Zanzibar.svg.png"
+  },
+  {
+    "name": "石頭城",
+    "name_en": "Stone Town",
+    "lat": -6.162,
+    "lon": 39.192,
+    "country": "坦尚尼亞",
+    "region": "非洲",
+    "quote": "像我们刚到那个桑吉巴首府叫石头城",
+    "context": "桑吉巴的首府，擁有許多古老的建築與文化遺跡",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Zanzibar_sultan_palace.jpg/330px-Zanzibar_sultan_palace.jpg"
+  }
+]

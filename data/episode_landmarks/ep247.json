@@ -1,0 +1,56 @@
+[
+  {
+    "name": "埃及博物館",
+    "name_en": "Egyptian Museum",
+    "lat": 30.047,
+    "lon": 31.233,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "到博物館買門票的時候 我就先試試看 一律學生假",
+    "context": "來賓分享使用學生證購買半價門票並與當地人互動的經驗",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Egyptian_Museum_logo.png/330px-Egyptian_Museum_logo.png"
+  },
+  {
+    "name": "吉薩金字塔",
+    "name_en": "Giza Pyramids",
+    "lat": 29.979,
+    "lon": 31.134,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "你現場看到金字塔的 那個感受怎麼樣",
+    "context": "主持人與來賓討論親眼見到金字塔的真實感受與震撼感",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Pyramids_of_the_Giza_Necropolis.jpg/330px-Pyramids_of_the_Giza_Necropolis.jpg"
+  },
+  {
+    "name": "阿布辛貝神廟",
+    "name_en": "Abu Simbel Temples",
+    "lat": 22.337,
+    "lon": 31.626,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "到亞斯文 一個很大的目的就是要 第一個是去阿布星輩",
+    "context": "抵達亞斯文後的主要觀光目的地，讓來賓感到非常震撼"
+  },
+  {
+    "name": "盧克索神廟",
+    "name_en": "Luxor Temple",
+    "lat": 25.7,
+    "lon": 32.639,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "我們就把 陸客所神廟 當作我們的 最後一個 這種文化景點",
+    "context": "旅程中最後一個參觀的文化景點，夕陽光影非常美麗",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Templo_de_Luxor%2C_Luxor%2C_Egipto%2C_2022-04-01%2C_DD_01.jpg/330px-Templo_de_Luxor%2C_Luxor%2C_Egipto%2C_2022-04-01%2C_DD_01.jpg"
+  },
+  {
+    "name": "帝王谷",
+    "name_en": "Valley of the Kings",
+    "lat": 25.74,
+    "lon": 32.601,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "因為盧克所神廟 然後再來是 帝王谷 還有搭熱氣球",
+    "context": "位於盧克索周邊的知名歷史景點，常與熱氣球行程搭配",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Luxor%2C_Tal_der_K%C3%B6nige_%281995%2C_860x605%29.jpg/330px-Luxor%2C_Tal_der_K%C3%B6nige_%281995%2C_860x605%29.jpg"
+  }
+]

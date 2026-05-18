@@ -1,0 +1,84 @@
+[
+  {
+    "name": "仰光國際機場",
+    "name_en": "Yangon International Airport",
+    "lat": 16.907,
+    "lon": 96.133,
+    "country": "緬甸",
+    "region": "亞洲",
+    "quote": "我那時候一進到仰光，我在等那個海關的時候，因為那時候海關排了很多人",
+    "context": "抵達緬甸的第一站，在此因錄影被警察攔阻。"
+  },
+  {
+    "name": "蒲甘",
+    "name_en": "Bagan",
+    "lat": 21.171,
+    "lon": 94.858,
+    "country": "緬甸",
+    "region": "亞洲",
+    "quote": "我又是特別查才知道，哦原來有普甘這東西",
+    "context": "緬甸著名的歷史遺址，被形容不輸吳哥窟。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bagan%2C_Burma.jpg/330px-Bagan%2C_Burma.jpg"
+  },
+  {
+    "name": "吳哥窟",
+    "name_en": "Angkor Wat",
+    "lat": 13.412,
+    "lon": 103.867,
+    "country": "柬埔寨",
+    "region": "亞洲",
+    "quote": "普甘其實不會輸五個窟啊，可是五個窟全世界都知道",
+    "context": "被拿來與緬甸蒲甘做對比的世界級遺蹟。"
+  },
+  {
+    "name": "蘇雷塔",
+    "name_en": "Sule Pagoda",
+    "lat": 16.774,
+    "lon": 96.159,
+    "country": "緬甸",
+    "region": "亞洲",
+    "quote": "你從那個市中心的公園，就是那個蘇雷塔附近的公園，哇你這樣360度看一圈",
+    "context": "仰光市中心的知名地標佛塔。"
+  },
+  {
+    "name": "瑪哈班都拉公園",
+    "name_en": "Maha Bandula Park",
+    "lat": 16.773,
+    "lon": 96.159,
+    "country": "緬甸",
+    "region": "亞洲",
+    "quote": "你從那個市中心的公園，就是那個蘇雷塔附近的公園",
+    "context": "位於蘇雷塔旁的公園，可環視殖民建築。"
+  },
+  {
+    "name": "仰光中央銀行舊址",
+    "name_en": "Central Bank of Myanmar (Old Building)",
+    "lat": 16.772,
+    "lon": 96.158,
+    "country": "緬甸",
+    "region": "亞洲",
+    "quote": "像中央銀行移民署，在他們仰光一些重要的單位還是算是一個比較核心的一個地方",
+    "context": "市中心保留的英式殖民時期政府機關。"
+  },
+  {
+    "name": "仰光移民局辦公室",
+    "name_en": "Immigration Department (Yangon)",
+    "lat": 16.773,
+    "lon": 96.16,
+    "country": "緬甸",
+    "region": "亞洲",
+    "quote": "像中央銀行移民署，在他們仰光一些重要的單位",
+    "context": "仰光市中心重要的政府行政建築。"
+  },
+  {
+    "name": "永珍",
+    "name_en": "Vientiane",
+    "lat": 17.975,
+    "lon": 102.633,
+    "country": "寮國",
+    "region": "亞洲",
+    "quote": "雖然我們對永珍很讚不絕口，可是我覺得永珍就是生命力沒那麼強",
+    "context": "被討論到的寮國首都，與仰光的活力做對比。",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/28/Vientiane_-_Patuxai_-_0003.jpg/330px-Vientiane_-_Patuxai_-_0003.jpg"
+  }
+]

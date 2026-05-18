@@ -1,0 +1,62 @@
+[
+  {
+    "name": "吉薩金字塔群",
+    "name_en": "Giza Pyramid Complex",
+    "lat": 29.979,
+    "lon": 31.134,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "看金字塔啊什么什么的",
+    "context": "來賓在開羅參加食品展期間順便遊覽的知名景點。"
+  },
+  {
+    "name": "基加利萬豪酒店",
+    "name_en": "Kigali Marriott Hotel",
+    "lat": -1.946,
+    "lon": 30.06,
+    "country": "盧安達",
+    "region": "非洲",
+    "quote": "因为我住的是旺豪酒店",
+    "context": "來賓在盧安達首都入住的高級飯店，感受當地現代化發展。"
+  },
+  {
+    "name": "千丘飯店",
+    "name_en": "Hôtel des Mille Collines",
+    "lat": -1.946,
+    "lon": 30.063,
+    "country": "盧安達",
+    "region": "非洲",
+    "quote": "这个大屠杀事件有翻拍成电影，就是鲁安达饭店",
+    "context": "電影《盧安達飯店》的背景地，是大屠殺期間的重要歷史地標。"
+  },
+  {
+    "name": "維龍加國家公園",
+    "name_en": "Virunga National Park",
+    "lat": -1.48,
+    "lon": 29.48,
+    "country": "剛果民主共和國",
+    "region": "非洲",
+    "quote": "我那次就想要去钢果看黑猩猩就对了",
+    "context": "來賓此行的核心目的地，是世界少數可觀察山地大猩猩的地點。"
+  },
+  {
+    "name": "勾馬",
+    "name_en": "Goma",
+    "lat": -1.674,
+    "lon": 29.228,
+    "country": "剛果民主共和國",
+    "region": "非洲",
+    "quote": "我要去的刚好是在最东边，对，在勾马那边",
+    "context": "剛果東部與盧安達交界的重要門戶城市，前往看黑猩猩的必經之地。"
+  },
+  {
+    "name": "阿魯莎",
+    "name_en": "Arusha",
+    "lat": -3.373,
+    "lon": 36.685,
+    "country": "坦尚尼亞",
+    "region": "非洲",
+    "quote": "他们签一签叫阿鲁莎协议",
+    "context": "1993年盧安達政府與FPR簽訂和平協議的坦尚尼亞城市。"
+  }
+]

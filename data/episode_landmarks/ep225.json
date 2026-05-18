@@ -1,0 +1,172 @@
+[
+  {
+    "name": "切爾西",
+    "name_en": "Chelsea",
+    "lat": 51.487,
+    "lon": -0.168,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "就是在Chelsea那边我们有个很老很老的药草花园",
+    "context": "切爾西藥草園的所在地"
+  },
+  {
+    "name": "切爾西藥草園",
+    "name_en": "Chelsea Physic Garden",
+    "lat": 51.485,
+    "lon": -0.162,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "比如说像是什么Chelsea Physic Garden就是在Chelsea那边",
+    "context": "倫敦古老藥草花園，探討早期草本療法"
+  },
+  {
+    "name": "大英博物館",
+    "name_en": "British Museum",
+    "lat": 51.519,
+    "lon": -0.127,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "就是大英博物馆的精神创始人汉斯罗恩他当年就是靠药草赚了很多很多钱",
+    "context": "創始人曾為切爾西藥草園的土地贊助者"
+  },
+  {
+    "name": "銀行地鐵站",
+    "name_en": "Bank Station",
+    "lat": 51.513,
+    "lon": -0.088,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "在伦敦靠近这个bankstation这里有一个小小的pub",
+    "context": "描述威廉巴特勒之首酒吧的相對位置"
+  },
+  {
+    "name": "威廉巴特勒之首酒吧",
+    "name_en": "William Butler's Head Pub",
+    "lat": 51.514,
+    "lon": -0.089,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "有一个小小的pub他叫做William Butler's Head Pub",
+    "context": "17世紀醫生威廉巴特勒以奇妙方式行醫的酒吧"
+  },
+  {
+    "name": "泰晤士河",
+    "name_en": "River Thames",
+    "lat": 51.51,
+    "lon": -0.1,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "他把他扔进太鲁士河里面就直接扔",
+    "context": "威廉巴特勒執行驚嚇療法的地點"
+  },
+  {
+    "name": "史密斯菲爾德市場",
+    "name_en": "Smithfield Market",
+    "lat": 51.518,
+    "lon": -0.101,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "靠近我们的肉市场这个Smithfield Market这边出现了",
+    "context": "外科與理髮匠工會發源地，反映早期屠夫兼職手術"
+  },
+  {
+    "name": "外科與理髮匠工會大廳",
+    "name_en": "Barber-Surgeons' Hall",
+    "lat": 51.518,
+    "lon": -0.096,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "他们的HQ他们的Headquarter还在我们的这个肉这个肉市级旁边这样子",
+    "context": "外科與理髮匠工會至今仍保留的總部辦公室"
+  },
+  {
+    "name": "倫敦老城區",
+    "name_en": "City of London",
+    "lat": 51.515,
+    "lon": -0.093,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "他们也有一个自己的这个工会也是在这个伦敦老城区里面",
+    "context": "早期草藥協會與工會所在的歷史城區"
+  },
+  {
+    "name": "科學博物館",
+    "name_en": "Science Museum",
+    "lat": 51.497,
+    "lon": -0.174,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "我觉得你第一个一定要去的就是我们的科学博物馆Science Museum",
+    "context": "擁有全世界最大醫療歷史樓層的博物館"
+  },
+  {
+    "name": "牛津街",
+    "name_en": "Oxford Street",
+    "lat": 51.515,
+    "lon": -0.141,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "而且他们是在牛津街是英国当时最红最红的购物街",
+    "context": "20世紀初販售電療瘦身器材的熱門購物街"
+  },
+  {
+    "name": "劍橋大學",
+    "name_en": "University of Cambridge",
+    "lat": 52.205,
+    "lon": 0.119,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "那这个结构呢这个模型就在剑桥大学做出来",
+    "context": "DNA雙股螺旋結構模型的發源及製作地"
+  },
+  {
+    "name": "牛津大學",
+    "name_en": "University of Oxford",
+    "lat": 51.752,
+    "lon": -1.255,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "那当时青梅树的成功那他就量产就交给这个牛津大学",
+    "context": "成功量產青黴素的研究團隊所在地"
+  },
+  {
+    "name": "派丁頓車站",
+    "name_en": "Paddington Station",
+    "lat": 51.516,
+    "lon": -0.177,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "有就靠在佩林顿这一站找到的所以就靠近佩林顿这一站",
+    "context": "亞歷山大·弗萊明實驗室附近的知名車站"
+  },
+  {
+    "name": "亞歷山大·弗萊明實驗室博物館",
+    "name_en": "Alexander Fleming Laboratory Museum",
+    "lat": 51.517,
+    "lon": -0.174,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "他的英文叫Alexander Fleming's Laboratory你就按一个按钮",
+    "context": "保留發現青黴素的弗萊明生前工作桌及實驗室"
+  },
+  {
+    "name": "聖巴塞洛繆醫院",
+    "name_en": "St Bartholomew's Hospital",
+    "lat": 51.517,
+    "lon": -0.1,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "有一间这个古老的医院博物馆叫Sembathamil Hospital",
+    "context": "經營超過900年的古老醫院及附設博物館"
+  },
+  {
+    "name": "聖巴多羅買大教堂",
+    "name_en": "St Bartholomew the Great",
+    "lat": 51.518,
+    "lon": -0.1,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "他旁边你还能够进的伦敦气氛最独特的教堂就是St. Barnum Church",
+    "context": "聖巴塞洛繆醫院旁充滿獨特氣氛的12世紀教堂"
+  }
+]

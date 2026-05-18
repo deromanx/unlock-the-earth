@@ -1,0 +1,62 @@
+[
+  {
+    "name": "台中議會",
+    "name_en": "Taichung City Council",
+    "lat": 24.161,
+    "lon": 120.648,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "帶民眾透過台中議會議事流程",
+    "context": "好民文化行動協會舉辦工作坊，帶領民眾認識並監督地方議會。"
+  },
+  {
+    "name": "台北醫學大學附設醫院",
+    "name_en": "Taipei Medical University Hospital",
+    "lat": 25.026,
+    "lon": 121.561,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "我們台北醫學大學附設醫院的醫療團",
+    "context": "派遣醫療團前往史瓦帝尼進行醫療服務與教學的母院。"
+  },
+  {
+    "name": "史京醫院",
+    "name_en": "Mbabane Government Hospital",
+    "lat": -26.326,
+    "lon": 31.144,
+    "country": "史瓦帝尼",
+    "region": "非洲",
+    "quote": "有一間就是他們當地最大的，你可以把它想象成史國的台大醫院吧",
+    "context": "醫療團在史瓦帝尼首都的主要駐點，提供門診與醫療服務。"
+  },
+  {
+    "name": "史瓦帝尼王宮",
+    "name_en": "Ludzikini Royal Palace",
+    "lat": -26.444,
+    "lon": 31.217,
+    "country": "史瓦帝尼",
+    "region": "非洲",
+    "quote": "大概都是我們要到到王宮裡面去",
+    "context": "醫師前往為王室成員提供居家醫療服務的場所。"
+  },
+  {
+    "name": "如威尼",
+    "name_en": "Ezulwini Valley",
+    "lat": -26.416,
+    "lon": 31.183,
+    "country": "史瓦帝尼",
+    "region": "非洲",
+    "quote": "一個離巴巴尼一段地方叫如威尼的地方",
+    "context": "當地的娛樂中心，設有賭場、電影院與SPA等設施。"
+  },
+  {
+    "name": "西北北",
+    "name_en": "Sibebe Rock",
+    "lat": -26.262,
+    "lon": 31.171,
+    "country": "史瓦帝尼",
+    "region": "非洲",
+    "quote": "最著名的旅遊景點是一個叫西北北的一塊大的礁石",
+    "context": "世界第二大單體岩石，是當地著名的登山與休閒景點。"
+  }
+]

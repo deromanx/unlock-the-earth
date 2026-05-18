@@ -1,0 +1,75 @@
+[
+  {
+    "name": "四千美島",
+    "name_en": "Si Phan Don",
+    "lat": 13.945,
+    "lon": 105.918,
+    "country": "寮國",
+    "region": "亞洲",
+    "quote": "四千美島他其實應該是說，他是在湄公河下游，就是很多沙洲所組成的一個區域。",
+    "context": "位於寮國南部湄公河上的群島區域，以數以萬計的沙洲景觀著稱。"
+  },
+  {
+    "name": "東德島",
+    "name_en": "Don Det",
+    "lat": 14.195,
+    "lon": 105.917,
+    "country": "寮國",
+    "region": "亞洲",
+    "quote": "像我住的東德島，他就是很多背包客會去的地方，因為他的島的面積比較大。",
+    "context": "四千美島中著名的背包客集散地，擁有較豐富的住宿與餐飲資源。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Houses_and_guesthouses_on_the_bank_of_Don_Det.jpg/330px-Houses_and_guesthouses_on_the_bank_of_Don_Det.jpg"
+  },
+  {
+    "name": "孔恩瀑布",
+    "name_en": "Khon Phapheng Falls",
+    "lat": 13.972,
+    "lon": 105.938,
+    "country": "寮國",
+    "region": "亞洲",
+    "quote": "它有一個最大的孔恩瀑布，我不知道是因為那個地方它不適合住人，因為它那個水流非常的大。",
+    "context": "東南亞最大的瀑布，水流極其湍急，也是當地重要的漁獲區。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Khone_Phapheng_Falls%2C_Si_Phan_Don%2C_Laos%2C_widest_waterfall_in_the_world.jpg/330px-Khone_Phapheng_Falls%2C_Si_Phan_Don%2C_Laos%2C_widest_waterfall_in_the_world.jpg"
+  },
+  {
+    "name": "巴瑟",
+    "name_en": "Pakse",
+    "lat": 15.116,
+    "lon": 105.795,
+    "country": "寮國",
+    "region": "亞洲",
+    "quote": "我下一站是有先去到一個叫巴瑟的城市，巴瑟，然後那個地方其實沒有什麼特別。",
+    "context": "寮國南部的重要城市，是前往各地區的主要交通與轉乘節點。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Champasak_Palace.jpg/330px-Champasak_Palace.jpg"
+  },
+  {
+    "name": "沙灣那吉",
+    "name_en": "Savannakhet",
+    "lat": 16.561,
+    "lon": 104.751,
+    "country": "寮國",
+    "region": "亞洲",
+    "quote": "我就前往下一個地方叫做沙灣那吉，沙灣那吉，也是一樣到永征的方向中間的一個地方。",
+    "context": "寮國第二大城，以保留完整的法式殖民建築與復古華人街區聞名。"
+  },
+  {
+    "name": "他曲",
+    "name_en": "Thakhek",
+    "lat": 17.397,
+    "lon": 104.814,
+    "country": "寮國",
+    "region": "亞洲",
+    "quote": "因為Take這個地方，算是寮國很有名的環狀摩托車，很適合玩的一個地方。",
+    "context": "位於寮國中部的城市，以環狀摩托車壯遊路線（Loop）知名。"
+  },
+  {
+    "name": "沙灣那吉廢棄電影院",
+    "name_en": "Old Cinema in Savannakhet",
+    "lat": 16.564,
+    "lon": 104.747,
+    "country": "寮國",
+    "region": "亞洲",
+    "quote": "就是早期的可能也是在法國殖民時期，他們有建立一個電影院。現在已經變成一個廢墟了。",
+    "context": "建於1930年代的法式建築廢墟，現已成為文化地標與藝文改造地。"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "name": "印度理工學院孟買分校",
+    "name_en": "Indian Institute of Technology Bombay (IIT Bombay)",
+    "lat": 19.1334,
+    "lon": 72.9133,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "印度理工學院孟買分校... 他英文叫IIT邦北，其實那時候我去是第二位",
+    "context": "講者交換學生的學校，是討論印度校園設施與教育模式的核心地點。"
+  },
+  {
+    "name": "維也納大學",
+    "name_en": "University of Vienna",
+    "lat": 48.213,
+    "lon": 16.3598,
+    "country": "奧地利",
+    "region": "歐洲",
+    "quote": "我第一次去交換的時候，是去奧地利維也納大學",
+    "context": "講者第一次交換學生的學校，用來與印度的交換經驗作人情味對比。"
+  },
+  {
+    "name": "希拉南達尼社區",
+    "name_en": "Hiranandani Gardens, Powai",
+    "lat": 19.1176,
+    "lon": 72.9103,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "我們學校外面有一個一區叫亦爾朗朗尼，然後他這邊有很多的日商韓商",
+    "context": "鄰近IIT Bombay的街區，講者在此尋找日韓泰式料理以解決飲食問題。"
+  },
+  {
+    "name": "松山游泳館",
+    "name_en": "Songshan Swimming Pool",
+    "lat": 25.0494,
+    "lon": 121.5516,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "譬如說你去那個什麼松山游泳館，譬如說你是一個人游泳嗎，沒有人會來跟你攀談吧",
+    "context": "講者用來對比台印社交差異的台灣地標，提及台灣人游泳時較少交流。"
+  },
+  {
+    "name": "賈特拉帕蒂·希瓦吉·馬哈拉傑國際機場",
+    "name_en": "Chhatrapati Shivaji Maharaj International Airport",
+    "lat": 19.0896,
+    "lon": 72.8656,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "我在那個機場外面等的時候呢，有個印度媽媽跟他的小孩，一直很想要跟我講英文",
+    "context": "講者前往接機的地點，在此發生了與印度當地小孩練習英文的趣聞。"
+  },
+  {
+    "name": "海德堡大學",
+    "name_en": "Heidelberg University",
+    "lat": 49.4102,
+    "lon": 8.7062,
+    "country": "德國",
+    "region": "歐洲",
+    "quote": "我也一開始在海德堡碰到印度的同學的時候，我也一開始覺得口音有點難適應",
+    "context": "講者求學期間的地點，在此初次與印度同學深入交流並觀察其口音。"
+  }
+]

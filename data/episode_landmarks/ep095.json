@@ -1,0 +1,54 @@
+[
+  {
+    "name": "台中市議會",
+    "name_en": "Taichung City Council",
+    "lat": 24.162,
+    "lon": 120.647,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "帶民眾透過台中議會議事流程、台中地方派系等主題，成為共同監督市政的公民。",
+    "context": "好民文化行動協會舉辦工作坊的場域，旨在推動公民監督市政。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Taichung_City_Council_2024.svg/330px-Taichung_City_Council_2024.svg.png"
+  },
+  {
+    "name": "埃爾多拉多國際機場",
+    "name_en": "El Dorado International Airport",
+    "lat": 4.701,
+    "lon": -74.146,
+    "country": "哥倫比亞",
+    "region": "美洲",
+    "quote": "所以最後才到Bogoda而已哦，我還沒到美得進，就是到了哥倫比亞當地，花了46個小時。",
+    "context": "受訪者抵達哥倫比亞的第一站，並在此經歷了接機失約的波折。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/El-dorado-from-air.jpg/330px-El-dorado-from-air.jpg"
+  },
+  {
+    "name": "麥德林地鐵",
+    "name_en": "Medellín Metro",
+    "lat": 6.244,
+    "lon": -75.569,
+    "country": "哥倫比亞",
+    "region": "美洲",
+    "quote": "唯一一個有捷運的城市，唯一一個有捷運，對對對，他們的市民非常引以自傲。",
+    "context": "哥倫比亞唯一的捷運系統，是麥德林市民引以為傲的地景。"
+  },
+  {
+    "name": "自由路",
+    "name_en": "Ziyou Road",
+    "lat": 24.14,
+    "lon": 120.684,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "好民他們每年都會舉辦自由路上藝術節，透過電影、劇場以及音樂節的方式認識白色恐怖。",
+    "context": "台中市內的特定街道，好民文化行動協會在此舉辦藝術節紀念歷史。"
+  },
+  {
+    "name": "台中市中區",
+    "name_en": "Central District, Taichung",
+    "lat": 24.143,
+    "lon": 120.682,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "在今年8月，他們將舉辦舊城導覽工作坊，以地景導覽的方式認識台中地區的228事件。",
+    "context": "被稱為「舊城」的特定城區，是轉型正義導覽活動的主要場所。"
+  }
+]

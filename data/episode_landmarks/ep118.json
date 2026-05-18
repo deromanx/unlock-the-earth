@@ -1,0 +1,52 @@
+[
+  {
+    "name": "恩德培機場",
+    "name_en": "Entebbe International Airport",
+    "lat": 0.042,
+    "lon": 32.443,
+    "country": "烏干達",
+    "region": "非洲",
+    "quote": "是首都近郊的機場，叫做恩德培機場。",
+    "context": "講者降落烏干達的第一站，為該國主要國際門戶。"
+  },
+  {
+    "name": "維多利亞湖",
+    "name_en": "Lake Victoria",
+    "lat": -1.0,
+    "lon": 33.0,
+    "country": "烏干達",
+    "region": "非洲",
+    "quote": "就是維多利亞湖嘛。非常的大...它是三個國家環繞。",
+    "context": "非洲最大淡水湖，是當地地理景觀與社群生活的核心。"
+  },
+  {
+    "name": "信義區",
+    "name_en": "Xinyi District",
+    "lat": 25.033,
+    "lon": 121.564,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "你知道信義區其實有一條線，就是某個地方都是豪宅",
+    "context": "用來類比烏干達首都一線之隔的貧富差距現象。"
+  },
+  {
+    "name": "無心街",
+    "name_en": "Wuxing Street",
+    "lat": 25.026,
+    "lon": 121.558,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "就是靠近無心街那一款",
+    "context": "對比信義區豪宅區的另一側，代表台北的舊公寓區。"
+  },
+  {
+    "name": "巴干達王宮",
+    "name_en": "Lubiri Palace (Mengo Palace)",
+    "lat": 0.301,
+    "lon": 32.566,
+    "country": "烏干達",
+    "region": "非洲",
+    "quote": "那反正就是這些王國，其實現在他們有一些什麼王宮啊，或者是一些遺址，其實都還在",
+    "context": "烏干達境內強勢王國巴干達的傳統政治與文化中心遺址。"
+  }
+]

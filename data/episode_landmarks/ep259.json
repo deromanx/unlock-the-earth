@@ -1,0 +1,139 @@
+[
+  {
+    "name": "台北101",
+    "name_en": "Taipei 101",
+    "lat": 25.034,
+    "lon": 121.564,
+    "country": "台湾",
+    "region": "亞洲",
+    "quote": "它的烟火不是像那个台北101一整根爆发的那种",
+    "context": "用以对比说明墨尔本跨年烟火的施放方式",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Taipei_101_logo.svg/330px-Taipei_101_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "尤里卡大楼 (前墨尔本最高楼)",
+    "name_en": "Eureka Tower",
+    "lat": -37.822,
+    "lon": 144.965,
+    "country": "澳洲",
+    "region": "大洋洲",
+    "quote": "我们那栋Building曾经是墨尔本最高楼",
+    "context": "分享之前在墨尔本工作及跨年看烟火的高楼餐厅",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Eureka_Tower%2C_August_2010.png/330px-Eureka_Tower%2C_August_2010.png"
+  },
+  {
+    "name": "布兰登堡门",
+    "name_en": "Brandenburg Gate",
+    "lat": 52.516,
+    "lon": 13.378,
+    "country": "德国",
+    "region": "亞洲",
+    "quote": "布兰灯宝门",
+    "context": "举例说明因看过太多次照片而对实体失去震撼感",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Brandenburger_Tor_abends.jpg/330px-Brandenburger_Tor_abends.jpg"
+  },
+  {
+    "name": "清水寺",
+    "name_en": "Kiyomizu-dera",
+    "lat": 34.995,
+    "lon": 135.785,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "通常是比如大家去清水寺然后北野天满宫",
+    "context": "提及京都最著名、游客最常去的观光寺庙",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Kiyomizu.jpg/330px-Kiyomizu.jpg"
+  },
+  {
+    "name": "北野天满宫",
+    "name_en": "Kitano Tenmangu",
+    "lat": 35.031,
+    "lon": 135.735,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "然后北野天满宫",
+    "context": "作为京都热门观光景点的举例",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Kitano-tenmangu_Kyoto_Japan41s3s4592.jpg/330px-Kitano-tenmangu_Kyoto_Japan41s3s4592.jpg"
+  },
+  {
+    "name": "垦丁",
+    "name_en": "Kenting",
+    "lat": 21.944,
+    "lon": 120.796,
+    "country": "台湾",
+    "region": "亞洲",
+    "quote": "那这个可能就是墾丁的那个细砂",
+    "context": "用垦丁细砂生动比喻和三盆糖细致的颗粒质地",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Maobitou_Cape_01.jpg/330px-Maobitou_Cape_01.jpg"
+  },
+  {
+    "name": "尾山台",
+    "name_en": "Oyamadai",
+    "lat": 35.606,
+    "lon": 139.654,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "在尾台山",
+    "context": "日本国宝级法式甜点名店所在的小众街区",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/TokyuOyamadaiSta-FutakoGates.jpg/330px-TokyuOyamadaiSta-FutakoGates.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "和栗屋",
+    "name_en": "Waguriya",
+    "lat": 35.728,
+    "lon": 139.766,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "有一家店叫做荷丽屋",
+    "context": "品尝以天然栗子风味为主、降低糖奶的蒙布朗名店"
+  },
+  {
+    "name": "键善良房",
+    "name_en": "Kagizen Yoshifusa",
+    "lat": 35.004,
+    "lon": 135.775,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "一个叫建善良房的",
+    "context": "在京都品尝传统甜点葛切，感受独特宁静体验"
+  },
+  {
+    "name": "濑户内海",
+    "name_en": "Seto Inland Sea",
+    "lat": 34.179,
+    "lon": 133.655,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "像他们前北方那边就是赖湖内海",
+    "context": "描述丰岛等诸多宁静岛屿所在的内海海域"
+  },
+  {
+    "name": "丰岛",
+    "name_en": "Teshima",
+    "lat": 34.482,
+    "lon": 134.053,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "叫丰岛",
+    "context": "在四国旅行时探访的一座具有荒凉静谧感的岛屿"
+  },
+  {
+    "name": "丰岛美术馆",
+    "name_en": "Teshima Art Museum",
+    "lat": 34.49,
+    "lon": 134.089,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "上面有一个丰岛美术馆",
+    "context": "形容其独特的建筑与水滴设计带来强烈灵性体验"
+  },
+  {
+    "name": "高知星期天市集 (朝市)",
+    "name_en": "Kochi Sunday Market",
+    "lat": 33.562,
+    "lon": 133.539,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "因为它礼拜天早上还有一个街市",
+    "context": "在高知逛露天市集，探索当地农家种植的特色柑橘"
+  }
+]

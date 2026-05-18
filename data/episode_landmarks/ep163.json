@@ -1,0 +1,73 @@
+[
+  {
+    "name": "南安普敦",
+    "name_en": "Southampton",
+    "lat": 50.908,
+    "lon": -1.404,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "我們的母港是南安普敦",
+    "context": "郵輪航程的起始與終點母港，是乘客上下船的主要地點。"
+  },
+  {
+    "name": "根西島",
+    "name_en": "Guernsey",
+    "lat": 49.448,
+    "lon": -2.585,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "網上會經過Gurrency 一個島叫Gurrency",
+    "context": "郵輪在不列顛群島航線中停靠的其中一個島嶼。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Guernsey.svg/330px-Flag_of_Guernsey.svg.png"
+  },
+  {
+    "name": "波特蘭島",
+    "name_en": "Isle of Portland",
+    "lat": 50.551,
+    "lon": -2.441,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "還有一個島叫Portland 在英國",
+    "context": "位於英國南岸的停靠港口島嶼。"
+  },
+  {
+    "name": "科夫",
+    "name_en": "Cobh",
+    "lat": 51.85,
+    "lon": -8.294,
+    "country": "愛爾蘭",
+    "region": "歐洲",
+    "quote": "一個是COVE 就是COBH 那個念法是 聽說是愛爾蘭的念法 叫COVE",
+    "context": "郵輪在愛爾蘭停靠的港口城鎮，名字有特殊的愛爾蘭唸法。"
+  },
+  {
+    "name": "印威內斯",
+    "name_en": "Inverness",
+    "lat": 57.477,
+    "lon": -4.224,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "蘇格蘭高地的 對 就是Inverness",
+    "context": "蘇格蘭高地最北端的大城市，也是郵輪航線的重要停靠點。"
+  },
+  {
+    "name": "奧克尼群島",
+    "name_en": "Orkney Islands",
+    "lat": 58.98,
+    "lon": -3.27,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "我們船有看到最北叫做Organe Island",
+    "context": "航程中最北端的目的地，乘客常為了體驗極北寒冷感而去。"
+  },
+  {
+    "name": "勒阿弗爾",
+    "name_en": "Le Havre",
+    "lat": 49.494,
+    "lon": 0.107,
+    "country": "法國",
+    "region": "歐洲",
+    "quote": "會停法國的第二大港 叫做The Huff 中文是Love for Heart",
+    "context": "法國重要港口，是前往巴黎參加一日遊行程的中轉站。"
+  }
+]

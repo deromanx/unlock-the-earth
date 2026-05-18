@@ -1,0 +1,1466 @@
+[
+  {
+    "landmark": "大英博物館",
+    "landmark_en": "British Museum",
+    "lat": 51.5194,
+    "lon": -0.127,
+    "appearances": [
+      {
+        "ep": 23,
+        "quote": null,
+        "context": "討論爭議性文物與東亞歷史面孔",
+        "source": "topic"
+      },
+      {
+        "ep": 77,
+        "quote": null,
+        "context": "討論爭議性文物與東亞歷史面孔",
+        "source": "topic"
+      },
+      {
+        "ep": 82,
+        "quote": null,
+        "context": "討論爭議性文物與東亞歷史面孔",
+        "source": "topic"
+      },
+      {
+        "ep": 265,
+        "quote": "離大英博物館不遠 這一區都看起來很昂貴",
+        "context": "用以指示孫中山紀念浮雕所在的地理位置。",
+        "source": "transcript"
+      },
+      {
+        "ep": 266,
+        "quote": "因為在辣英博物館辦了一個有關緬甸的文化展覽，近期嗎？去年或一年半前，是一個中型展覽，可是還蠻棒的。",
+        "context": "討論二戰後緬甸獨立時提及在博物館的展覽。",
+        "source": "transcript"
+      },
+      {
+        "ep": 22,
+        "quote": null,
+        "context": "嘉賓專業導覽地，亦是帝國歷史與文化的縮影。",
+        "source": "topic"
+      },
+      {
+        "ep": 225,
+        "quote": "就是大英博物館的精神創始人漢斯羅恩他當年就是靠藥草賺了很多很多錢",
+        "context": "創始人曾為切爾西藥草園的土地贊助者",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "landmark": "白金漢宮",
+    "landmark_en": "Buckingham Palace",
+    "lat": 51.5014,
+    "lon": -0.1419,
+    "appearances": [
+      {
+        "ep": 82,
+        "quote": null,
+        "context": "王室慶典中心與甘地拜訪地",
+        "source": "topic"
+      },
+      {
+        "ep": 108,
+        "quote": "我告訴你,這女王他現在坐的,他白金漢宮坐的椅子,底下的刺繡,就是他爸爸賜給她",
+        "context": "女王在倫敦的官方官邸，提到其父曾在此為其親手刺繡椅子墊。",
+        "source": "transcript"
+      },
+      {
+        "ep": 109,
+        "quote": null,
+        "context": "王室慶典中心與甘地拜訪地",
+        "source": "topic"
+      },
+      {
+        "ep": 266,
+        "quote": "他在1931年的時候，他去白金漢宮，接見當時的這個國王。",
+        "context": "甘地於1931年訪問倫敦並接見國王的地點。",
+        "source": "transcript"
+      },
+      {
+        "ep": 22,
+        "quote": null,
+        "context": "象徵大英帝國傳統與英國人的嚴謹禮節。",
+        "source": "topic"
+      },
+      {
+        "ep": 149,
+        "quote": "白金漢宮前方，其實在下午的時候，你就會看到很多軍隊正在排演了",
+        "context": "軍隊為加冕典禮進行排演的地點",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "landmark": "聖巴多羅買醫院",
+    "landmark_en": "St Bartholomew's Hospital",
+    "lat": 51.5185,
+    "lon": -0.1015,
+    "appearances": [
+      {
+        "ep": 82,
+        "quote": null,
+        "context": "倫敦最古老醫院，與外科醫療相關",
+        "source": "topic"
+      },
+      {
+        "ep": 225,
+        "quote": "有一間這個古老的醫院博物館叫Sembathamil Hospital",
+        "context": "經營超過900年的古老醫院及附設博物館",
+        "source": "transcript"
+      },
+      {
+        "ep": 226,
+        "quote": "或是聖巴塞洛姆醫院在裡面其實可以看到很多過去的算是歷史上的足跡",
+        "context": "可看到過去醫療歷史足跡的醫院",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "landmark": "西敏寺",
+    "landmark_en": "Westminster Abbey",
+    "lat": 51.4994,
+    "lon": -0.1273,
+    "appearances": [
+      {
+        "ep": 108,
+        "quote": null,
+        "context": "王室加冕典禮與歷史名人安息地",
+        "source": "topic"
+      },
+      {
+        "ep": 149,
+        "quote": "西敏寺就是加冕典禮會發生的地方，都有很多的重新整修啊",
+        "context": "英國皇室舉辦加冕典禮的正統舞臺",
+        "source": "transcript"
+      },
+      {
+        "ep": 266,
+        "quote": null,
+        "context": "王室加冕典禮與歷史名人安息地",
+        "source": "topic"
+      },
+      {
+        "ep": 109,
+        "quote": null,
+        "context": "王室重大儀式場所，黛安娜王妃舉行葬禮之地。",
+        "source": "topic"
+      }
+    ]
+  },
+  {
+    "landmark": "老手術室博物館",
+    "landmark_en": "Old Operating Theatre Museum",
+    "lat": 51.5055,
+    "lon": -0.0888,
+    "appearances": [
+      {
+        "ep": 82,
+        "quote": null,
+        "context": "揭秘早期殘酷的醫療與外科手術史",
+        "source": "topic"
+      },
+      {
+        "ep": 225,
+        "quote": null,
+        "context": "揭秘早期殘酷的醫療與外科手術史",
+        "source": "topic"
+      }
+    ]
+  },
+  {
+    "landmark": "倫敦塔",
+    "landmark_en": "Tower of London",
+    "lat": 51.5081,
+    "lon": -0.0759,
+    "appearances": [
+      {
+        "ep": 149,
+        "quote": "在倫敦塔裡面，也有一個小教堂...都是屬於皇家特用教堂",
+        "context": "設有皇家特用小教堂的歷史建築",
+        "source": "transcript"
+      },
+      {
+        "ep": 150,
+        "quote": null,
+        "context": "存放皇家珠寶與 Koh-i-Nur 鑽石",
+        "source": "topic"
+      },
+      {
+        "ep": 23,
+        "quote": null,
+        "context": "歷史悠久且常有靈異或特殊主題的導覽。",
+        "source": "topic"
+      },
+      {
+        "ep": 77,
+        "quote": null,
+        "context": "位於倫敦橋旁，見證了倫敦千年來的史詩級紛爭。",
+        "source": "topic"
+      },
+      {
+        "ep": 226,
+        "quote": "比較靠近東邊我們這個地方有一個捷運站叫Tower Hill",
+        "context": "靠近東邊，附近有行會小教堂",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "landmark": "銀行站",
+    "landmark_en": "Bank Station",
+    "lat": 51.5134,
+    "lon": -0.089,
+    "appearances": [
+      {
+        "ep": 266,
+        "quote": "借了今天大概15億英鎊，然後就在倫敦bankstation，今天中國銀行在的地方，成立了一個辦公室。",
+        "context": "1833年政府處理黑奴贖回補償的辦公地點。",
+        "source": "transcript"
+      },
+      {
+        "ep": 225,
+        "quote": "在倫敦靠近這個bankstation這裡有一個小小的pub",
+        "context": "描述威廉巴特勒之首酒吧的相對位置",
+        "source": "transcript"
+      },
+      {
+        "ep": 265,
+        "quote": "英國銀行博物館 裡面就有當時這個長州五節來兌換錢的支票",
+        "context": "儲存了日本長州五傑當年兌換日幣歷史單據的博物館。",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "landmark": "大笨鐘",
+    "landmark_en": "Big Ben",
+    "lat": 51.5007,
+    "lon": -0.1246,
+    "appearances": [
+      {
+        "ep": 266,
+        "quote": "就在我們的國會，就是大家熟悉的這個大笨中那邊，他的對面，就有一個聖雄甘地的雕像。",
+        "context": "作為地標提及甘地雕像所處的地理位置。",
+        "source": "transcript"
+      },
+      {
+        "ep": 22,
+        "quote": null,
+        "context": "倫敦最標誌性地標，代表英國生活的日常細節。",
+        "source": "topic"
+      }
+    ]
+  },
+  {
+    "landmark": "紅磚巷",
+    "landmark_en": "Brick Lane",
+    "lat": 51.5218,
+    "lon": -0.0717,
+    "appearances": [
+      {
+        "ep": 266,
+        "quote": "在紅專街這，其實他早期是一個，這個法國移民的區域... 所以這個Brick Lane呢，也有很多很多的這個Bangodash的食物。",
+        "context": "倫敦著名的移民文化街區與孟加拉美食地。",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "landmark": "布里克斯頓",
+    "landmark_en": "Brixton",
+    "lat": 51.4613,
+    "lon": -0.1156,
+    "appearances": [
+      {
+        "ep": 266,
+        "quote": "很多人聚集在今天的這個 Brixton... 有一站叫Brixton，Brixton那邊就有很多，加勒比海的後裔在那。",
+        "context": "戰後牙買加移民聚集並形塑文化的重點區域。",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "landmark": "布克斯頓紀念碑",
+    "landmark_en": "Buxton Memorial Fountain",
+    "lat": 51.4967,
+    "lon": -0.1246,
+    "appearances": [
+      {
+        "ep": 266,
+        "quote": "所以在我們的國會的旁邊，就有一個五顏六色，有點像是一個，小尖塔的紀念碑，它就叫Buckston Memorial。",
+        "context": "位於國會旁，紀念廢除奴隸制度成功的碑記。",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "landmark": "弗利特街 (印刷街)",
+    "landmark_en": "Fleet Street",
+    "lat": 51.5144,
+    "lon": -0.1068,
+    "appearances": [
+      {
+        "ep": 266,
+        "quote": "那條街就在印刷街，其實他們那個設計很有趣，在倫敦的老城區...印刷機就開始在這裡。Fleet Street 印刷機就開始在這裡。",
+        "context": "提及倫敦老城區的報社、印刷與法律產業鏈。",
+        "source": "transcript"
+      },
+      {
+        "ep": 82,
+        "quote": null,
+        "context": "曾是倫敦報業中心，查理二世在此發行倫敦憲報。",
+        "source": "topic"
+      }
+    ]
+  },
+  {
+    "landmark": "前大清駐英公使館",
+    "landmark_en": "Former Chinese Legation",
+    "lat": 51.5208,
+    "lon": -0.1448,
+    "appearances": [
+      {
+        "ep": 265,
+        "quote": null,
+        "context": "孫文在倫敦被清廷公使館囚禁的地點",
+        "source": "topic"
+      }
+    ]
+  },
+  {
+    "landmark": "國會大廈",
+    "landmark_en": "Houses of Parliament",
+    "lat": 51.4994,
+    "lon": -0.1248,
+    "appearances": [
+      {
+        "ep": 266,
+        "quote": "就在我們的國會，就是大家熟悉的這個大笨中那邊，他的對面，就有一個聖雄甘地的雕像。",
+        "context": "提及國會對面設有甘地雕像及其象徵意義。",
+        "source": "transcript"
+      },
+      {
+        "ep": 108,
+        "quote": "下議院就會故意的把門,在皇室的面前關起來,代表說皇室沒有權利進入下議院",
+        "context": "位於威斯敏斯特宮，文中描述了其向王室「摔門」的傳統儀式。",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "landmark": "漢特里安博物館",
+    "landmark_en": "Hunterian Museum",
+    "lat": 51.5153,
+    "lon": -0.1169,
+    "appearances": [
+      {
+        "ep": 226,
+        "quote": "他就有個很有名的醫療博物館 叫Hunterian Museum",
+        "context": "外科醫生解剖與醫療標本收藏博物館",
+        "source": "transcript"
+      },
+      {
+        "ep": 23,
+        "quote": null,
+        "context": "收藏大量人體標本，符合奇特導覽主題。",
+        "source": "topic"
+      }
+    ]
+  },
+  {
+    "landmark": "內殿律師學院",
+    "landmark_en": "Inner Temple",
+    "lat": 51.512,
+    "lon": -0.111,
+    "appearances": [
+      {
+        "ep": 266,
+        "quote": "他當時是在這個In the Temple這，其實跟我們之前那一集聊，孫文住的地方非常的近。",
+        "context": "甘地在倫敦留學法律時所在的法律學院。",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "landmark": "倫敦橋",
+    "landmark_en": "London Bridge",
+    "lat": 51.5079,
+    "lon": -0.0877,
+    "appearances": [
+      {
+        "ep": 77,
+        "quote": null,
+        "context": "探討其垮下來的歷史與橋上貿易",
+        "source": "topic"
+      },
+      {
+        "ep": 226,
+        "quote": "這個Olaf其實是和一個故事 倫敦橋垮下來有關",
+        "context": "提及與挪威國王奇襲維京人有關的故事",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "landmark": "諾丁山",
+    "landmark_en": "Notting Hill",
+    "lat": 51.5095,
+    "lon": -0.2043,
+    "appearances": [
+      {
+        "ep": 266,
+        "quote": "很多人聚集在今天的這個... Notting Hill 這個區域... 嘉年華的方式，慶祝多元民族，尤其是亞買家的音樂，就在Notting Hill這裡發生。",
+        "context": "亞買家移民聚居地及諾丁山嘉年華發源地。",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "landmark": "威斯敏斯特宮（國會大廈）",
+    "landmark_en": "Palace of Westminster",
+    "lat": 51.4995,
+    "lon": -0.1248,
+    "appearances": [
+      {
+        "ep": 77,
+        "quote": null,
+        "context": "泰晤士河大惡臭引發國會休會地點",
+        "source": "topic"
+      }
+    ]
+  },
+  {
+    "landmark": "軍情六處總部",
+    "landmark_en": "SIS Building",
+    "lat": 51.4872,
+    "lon": -0.1225,
+    "appearances": [
+      {
+        "ep": 184,
+        "quote": null,
+        "context": "現代英倫間諜情報網的標誌性總部",
+        "source": "topic"
+      }
+    ]
+  },
+  {
+    "landmark": "聖潘克拉斯",
+    "landmark_en": "St. Pancras",
+    "lat": 51.53,
+    "lon": -0.125,
+    "appearances": [
+      {
+        "ep": 266,
+        "quote": "在隔一年，他們再一次，這個在St.Pancras附近的一個教會的祈禱中，他們就把，亞買家的音樂帶進來。",
+        "context": "早期將亞買家音樂融入當地教會祈禱的地點。",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "landmark": "泰特不列顛",
+    "landmark_en": "Tate Britain",
+    "lat": 51.4911,
+    "lon": -0.1278,
+    "appearances": [
+      {
+        "ep": 223,
+        "quote": null,
+        "context": "收藏光之畫家透納大量作品的美術館",
+        "source": "topic"
+      }
+    ]
+  },
+  {
+    "landmark": "塔維斯托克廣場",
+    "landmark_en": "Tavistock Square",
+    "lat": 51.525,
+    "lon": -0.1294,
+    "appearances": [
+      {
+        "ep": 266,
+        "quote": "離他不遠旁邊有一個公園，叫Tavistock Square，裡面也有一個甘地的紀念雕像。",
+        "context": "倫敦市內設立聖雄甘地紀念雕像的公園。",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "landmark": "倫敦大火紀念碑",
+    "landmark_en": "The Monument",
+    "lat": 51.5101,
+    "lon": -0.0859,
+    "appearances": [
+      {
+        "ep": 82,
+        "quote": null,
+        "context": "倫敦大火事件的標誌性紀念地標",
+        "source": "topic"
+      }
+    ]
+  },
+  {
+    "landmark": "倫敦大學學院",
+    "landmark_en": "University College London",
+    "lat": 51.5246,
+    "lon": -0.134,
+    "appearances": [
+      {
+        "ep": 265,
+        "quote": "讓他們到了倫敦的倫敦大學 UCL大學 就是偷偷去留學這樣子",
+        "context": "日本“長州五傑”赴英秘密留學的大學，校內設有紀念碑。",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "landmark": "倫敦大學",
+    "landmark_en": "University of London",
+    "lat": 51.5246,
+    "lon": -0.129,
+    "appearances": [
+      {
+        "ep": 266,
+        "quote": "所以在倫敦這邊，尤其是靠近我們的倫敦大學...離他不遠旁邊有一個公園，叫Tavistock Square。",
+        "context": "作為甘地紀念雕像所在地的地理座標參照。",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "landmark": "風之訊號廣場",
+    "landmark_en": "Windrush Square",
+    "lat": 51.4614,
+    "lon": -0.1153,
+    "appearances": [
+      {
+        "ep": 266,
+        "quote": null,
+        "context": "紀念戰後牙買加移民歷史的核心地標",
+        "source": "topic"
+      }
+    ]
+  },
+  {
+    "landmark": "福爾摩斯酒吧",
+    "landmark_en": "The Sherlock Holmes Pub",
+    "lat": 51.5071,
+    "lon": -0.1252,
+    "appearances": [
+      {
+        "ep": 22,
+        "quote": null,
+        "context": "酒吧是觀察英國社交「眉眉角角」的最佳場所。",
+        "source": "topic"
+      },
+      {
+        "ep": 265,
+        "quote": "所以他們就到了Old Shade的這個小酒館 去辦了一場記者會這樣子",
+        "context": "孫中山從中國大使館獲釋後向記者發表談話的地點。",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "landmark": "海德公園",
+    "landmark_en": "Hyde Park",
+    "lat": 51.5073,
+    "lon": -0.1657,
+    "appearances": [
+      {
+        "ep": 22,
+        "quote": null,
+        "context": "倫敦生活重心，亦是開啟天氣話題的常見場景。",
+        "source": "topic"
+      },
+      {
+        "ep": 265,
+        "quote": "在這個倫敦在海德公園的另外一個角落 辦了一個日本原意展",
+        "context": "1910年舉辦日本園藝大展，推廣日本文化的場地。",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "landmark": "自然史博物館",
+    "landmark_en": "Natural History Museum",
+    "lat": 51.4967,
+    "lon": -0.1764,
+    "appearances": [
+      {
+        "ep": 23,
+        "quote": null,
+        "context": "探討大眾如何欣賞大型博物館的館藏。",
+        "source": "topic"
+      }
+    ]
+  },
+  {
+    "landmark": "約翰·索恩爵士博物館",
+    "landmark_en": "Sir John Soane's Museum",
+    "lat": 51.517,
+    "lon": -0.1175,
+    "appearances": [
+      {
+        "ep": 23,
+        "quote": null,
+        "context": "倫敦千奇百怪主題導覽的熱門小眾景點。",
+        "source": "topic"
+      }
+    ]
+  },
+  {
+    "landmark": "泰晤士河",
+    "landmark_en": "River Thames",
+    "lat": 51.5055,
+    "lon": -0.0754,
+    "appearances": [
+      {
+        "ep": 77,
+        "quote": null,
+        "context": "1858年發生「大惡臭」，因臭氣薰天迫使國會休會。",
+        "source": "topic"
+      },
+      {
+        "ep": 225,
+        "quote": "他把他扔進太魯士河裡面就直接扔",
+        "context": "威廉巴特勒執行驚嚇療法的地點",
+        "source": "transcript"
+      },
+      {
+        "ep": 265,
+        "quote": "他就在靠近泰魯士河 那邊全部都是倉庫",
+        "context": "早期華人從事港口苦力工作的核心河流區域。",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "landmark": "聖鄧斯坦東教堂花園",
+    "landmark_en": "St Dunstan in the East Church Garden",
+    "lat": 51.5091,
+    "lon": -0.0825,
+    "appearances": [
+      {
+        "ep": 77,
+        "quote": null,
+        "context": "倫敦街頭著名的隱藏景點，由古老教堂廢墟改建。",
+        "source": "topic"
+      }
+    ]
+  },
+  {
+    "landmark": "史密斯菲爾德市場",
+    "landmark_en": "Smithfield Market",
+    "lat": 51.518,
+    "lon": -0.101,
+    "appearances": [
+      {
+        "ep": 82,
+        "quote": null,
+        "context": "倫敦老牌肉品市場，與理髮外科工會歷史息息相關。",
+        "source": "topic"
+      },
+      {
+        "ep": 225,
+        "quote": "靠近我們的肉市場這個Smithfield Market這邊出現了",
+        "context": "外科與理髮匠工會發源地，反映早期屠夫兼職手術",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "landmark": "溫莎",
+    "landmark_en": "Windsor",
+    "lat": 51.483,
+    "lon": -0.604,
+    "appearances": [
+      {
+        "ep": 108,
+        "quote": "不如就叫Winsor吧,那Winsor,他這個名字是,在莎士比亞的... 非常的英格蘭",
+        "context": "溫莎王朝名稱的來源地，也是王室重要的象徵與城堡所在地。",
+        "source": "transcript"
+      },
+      {
+        "ep": 149,
+        "quote": "在溫莎裡面也有一個聖喬治小教堂",
+        "context": "皇家重要教堂所在地",
+        "source": "transcript"
+      },
+      {
+        "ep": 226,
+        "quote": "他當時就從倫敦逃離出來 他就躲在瘟沙和漢不頓宮",
+        "context": "亨利八世躲避瘟疫的逃亡地之一",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "landmark": "伊頓公學",
+    "landmark_en": "Eton College",
+    "lat": 51.492,
+    "lon": -0.608,
+    "appearances": [
+      {
+        "ep": 108,
+        "quote": "當時這個女王由這個,伊頓裡面的教務長來教她,她的歷史教育",
+        "context": "女王青少年時期接受憲法教育與歷史課程的學術來源地。",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "landmark": "肯辛頓宮",
+    "landmark_en": "Kensington Palace",
+    "lat": 51.5058,
+    "lon": -0.1877,
+    "appearances": [
+      {
+        "ep": 109,
+        "quote": null,
+        "context": "黛安娜王妃生前官邸，王室糾葛的核心地標。",
+        "source": "topic"
+      }
+    ]
+  },
+  {
+    "landmark": "聖保羅大教堂",
+    "landmark_en": "St. Paul's Cathedral",
+    "lat": 51.5138,
+    "lon": -0.1015,
+    "appearances": [
+      {
+        "ep": 109,
+        "quote": null,
+        "context": "查爾斯與黛安娜舉辦「世紀婚禮」的地點。",
+        "source": "topic"
+      },
+      {
+        "ep": 149,
+        "quote": "查爾斯三世當然是查爾斯王子的時候，他就是在聖保羅結婚",
+        "context": "查爾斯三世與戴安娜的婚禮地點",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "landmark": "克拉倫斯府",
+    "landmark_en": "Clarence House",
+    "lat": 51.504,
+    "lon": -0.1385,
+    "appearances": [
+      {
+        "ep": 109,
+        "quote": null,
+        "context": "查爾斯與卡蜜拉長年居住官邸，見證情感歷程。",
+        "source": "topic"
+      }
+    ]
+  },
+  {
+    "landmark": "聖喬治小教堂",
+    "landmark_en": "St George's Chapel",
+    "lat": 51.4838,
+    "lon": -0.6065,
+    "appearances": [
+      {
+        "ep": 149,
+        "quote": "在溫莎裡面也有一個聖喬治小教堂...都是屬於皇家特用教堂",
+        "context": "位於溫莎內的皇家特用教堂",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "landmark": "倫敦老城區",
+    "landmark_en": "City of London",
+    "lat": 51.5123,
+    "lon": -0.0909,
+    "appearances": [
+      {
+        "ep": 149,
+        "quote": "倫敦老城區這裡，然後他們就會放62泡禮炮",
+        "context": "加冕典禮時鳴放禮炮的特定區域",
+        "source": "transcript"
+      },
+      {
+        "ep": 225,
+        "quote": "他們也有一個自己的這個工會也是在這個倫敦老城區裡面",
+        "context": "早期草藥協會與工會所在的歷史城區",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "landmark": "格林公園",
+    "landmark_en": "Green Park",
+    "lat": 51.504,
+    "lon": -0.142,
+    "appearances": [
+      {
+        "ep": 150,
+        "quote": "大概在今天Green Park附近，他要進一間豪宅的時候，被一個瘋子，用棍子打到他頭上淤情",
+        "context": "維多利亞女王在此附近遭瘋子襲擊。",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "landmark": "萬國博覽會 (水晶宮舊址)",
+    "landmark_en": "The Great Exhibition (Crystal Palace Site)",
+    "lat": 51.503,
+    "lon": -0.165,
+    "appearances": [
+      {
+        "ep": 150,
+        "quote": "就放在英國知名的萬國博覽會，The Great Exhibition裡面",
+        "context": "光之山鑽石在英國首次公開展覽的地點。",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "landmark": "Holborn 地鐵站",
+    "landmark_en": "Holborn Station",
+    "lat": 51.517,
+    "lon": -0.12,
+    "appearances": [
+      {
+        "ep": 184,
+        "quote": "Q特區是在我們今天倫敦的 Hoban地鐵站這裡的 一個地下基地",
+        "context": "倫敦地下的秘密情報基地所在地，曾為武器研發中心 Q 特區。",
+        "source": "transcript"
+      },
+      {
+        "ep": 226,
+        "quote": "他就在Hoban這個地方",
+        "context": "亨特里安博物館所在的街區",
+        "source": "transcript"
+      },
+      {
+        "ep": 265,
+        "quote": "大概靠近Holben地鐵站 離大英博物館不遠",
+        "context": "用來指示Walwick Court及孫文紀念碑的鄰近地鐵站。",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "landmark": "英國海軍部大樓",
+    "landmark_en": "The Admiralty",
+    "lat": 51.506,
+    "lon": -0.128,
+    "appearances": [
+      {
+        "ep": 184,
+        "quote": "他進入了這個 我們所謂的海軍情報總部裡面",
+        "context": "007 系列作者伊恩·佛萊明二戰期間曾在此任職情報工作。",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "landmark": "柯芬園",
+    "landmark_en": "Covent Garden",
+    "lat": 51.512,
+    "lon": -0.123,
+    "appearances": [
+      {
+        "ep": 223,
+        "quote": "他的爸爸就在科芬園這裡開了一個這個理法廳",
+        "context": "透納父親開設理髮廳的地點，也是充滿活力、各種人群聚集的街區。",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "landmark": "梅登巷21號",
+    "landmark_en": "21 Maiden Lane",
+    "lat": 51.51,
+    "lon": -0.123,
+    "appearances": [
+      {
+        "ep": 223,
+        "quote": "他的理法廳，就是21號Mainton Lane，就在科分園裡面",
+        "context": "透納父親理髮廳的確切地址與透納故居，現址已變成一間酒吧。",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "landmark": "皇家藝術學院",
+    "landmark_en": "Royal Academy of Arts",
+    "lat": 51.509,
+    "lon": -0.14,
+    "appearances": [
+      {
+        "ep": 223,
+        "quote": "他就在RA，就是皇家藝術學院展出了一幅畫，那個對年輕人來說是很了不得的事情",
+        "context": "透納的母校，他年輕時即在此展出畫作，後來也成為該院的院士。",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "landmark": "馬蓋特",
+    "landmark_en": "Margate",
+    "lat": 51.385,
+    "lon": 1.386,
+    "appearances": [
+      {
+        "ep": 223,
+        "quote": "有時候他就會帶去Margat這個地方，Margat是沿海一帶的小城市",
+        "context": "透納常去的海邊小城，讓他能頻繁接觸海景並成為其畫作的靈感。",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "landmark": "滑鐵盧橋",
+    "landmark_en": "Waterloo Bridge",
+    "lat": 51.508,
+    "lon": -0.117,
+    "appearances": [
+      {
+        "ep": 223,
+        "quote": "那他那時候展出他的一幅畫，就是這個開幕的滑鐵盧之橋",
+        "context": "畫家康斯特勃展出的畫作主題，描繪了慶祝滑鐵盧戰役勝利的橋上人群。",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "landmark": "國家美術館",
+    "landmark_en": "National Gallery",
+    "lat": 51.508,
+    "lon": -0.128,
+    "appearances": [
+      {
+        "ep": 223,
+        "quote": "接下來離他很近的呢，也是一個很重要很重要的地標，就是National Gallery",
+        "context": "距離透納生活圈很近的倫敦重要地標，於2024年迎來成立200週年。",
+        "source": "transcript"
+      },
+      {
+        "ep": 265,
+        "quote": "他的北邊是國家一郎 在他的國家一郎的右邊 就有一棟白色的教堂",
+        "context": "用以標示聖馬丁教堂地理位置的著名美術館。",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "landmark": "切爾西",
+    "landmark_en": "Chelsea",
+    "lat": 51.487,
+    "lon": -0.168,
+    "appearances": [
+      {
+        "ep": 225,
+        "quote": "就是在Chelsea那邊我們有個很老很老的藥草花園",
+        "context": "切爾西藥草園的所在地",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "landmark": "切爾西藥草園",
+    "landmark_en": "Chelsea Physic Garden",
+    "lat": 51.485,
+    "lon": -0.162,
+    "appearances": [
+      {
+        "ep": 225,
+        "quote": "比如說像是什麼Chelsea Physic Garden就是在Chelsea那邊",
+        "context": "倫敦古老藥草花園，探討早期草本療法",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "landmark": "威廉巴特勒之首酒吧",
+    "landmark_en": "William Butler's Head Pub",
+    "lat": 51.514,
+    "lon": -0.089,
+    "appearances": [
+      {
+        "ep": 225,
+        "quote": "有一個小小的pub他叫做William Butler's Head Pub",
+        "context": "17世紀醫生威廉巴特勒以奇妙方式行醫的酒吧",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "landmark": "外科與理髮匠工會大廳",
+    "landmark_en": "Barber-Surgeons' Hall",
+    "lat": 51.518,
+    "lon": -0.096,
+    "appearances": [
+      {
+        "ep": 225,
+        "quote": "他們的HQ他們的Headquarter還在我們的這個肉這個肉市級旁邊這樣子",
+        "context": "外科與理髮匠工會至今仍保留的總部辦公室",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "landmark": "科學博物館",
+    "landmark_en": "Science Museum",
+    "lat": 51.497,
+    "lon": -0.174,
+    "appearances": [
+      {
+        "ep": 225,
+        "quote": "我覺得你第一個一定要去的就是我們的科學博物館Science Museum",
+        "context": "擁有全世界最大醫療歷史樓層的博物館",
+        "source": "transcript"
+      },
+      {
+        "ep": 226,
+        "quote": "譬如說上Science Museum或是聖巴塞洛姆醫院在裡面其實可以看到很多過去的",
+        "context": "可看到過去醫療歷史足跡的景點",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "landmark": "牛津街",
+    "landmark_en": "Oxford Street",
+    "lat": 51.515,
+    "lon": -0.141,
+    "appearances": [
+      {
+        "ep": 225,
+        "quote": "而且他們是在牛津街是英國當時最紅最紅的購物街",
+        "context": "20世紀初販售電療瘦身器材的熱門購物街",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "landmark": "劍橋大學",
+    "landmark_en": "University of Cambridge",
+    "lat": 52.205,
+    "lon": 0.119,
+    "appearances": [
+      {
+        "ep": 225,
+        "quote": "那這個結構呢這個模型就在劍橋大學做出來",
+        "context": "DNA雙股螺旋結構模型的發源及製作地",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "landmark": "牛津大學",
+    "landmark_en": "University of Oxford",
+    "lat": 51.752,
+    "lon": -1.255,
+    "appearances": [
+      {
+        "ep": 225,
+        "quote": "那當時青梅樹的成功那他就量產就交給這個牛津大學",
+        "context": "成功量產青黴素的研究團隊所在地",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "landmark": "派丁頓車站",
+    "landmark_en": "Paddington Station",
+    "lat": 51.516,
+    "lon": -0.177,
+    "appearances": [
+      {
+        "ep": 225,
+        "quote": "有就靠在佩林頓這一站找到的所以就靠近佩林頓這一站",
+        "context": "亞歷山大·弗萊明實驗室附近的知名車站",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "landmark": "亞歷山大·弗萊明實驗室博物館",
+    "landmark_en": "Alexander Fleming Laboratory Museum",
+    "lat": 51.517,
+    "lon": -0.174,
+    "appearances": [
+      {
+        "ep": 225,
+        "quote": "他的英文叫Alexander Fleming's Laboratory你就按一個按鈕",
+        "context": "保留發現青黴素的弗萊明生前工作桌及實驗室",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "landmark": "聖奧拉夫教堂",
+    "landmark_en": "St Olave's Church, Hart Street",
+    "lat": 51.511,
+    "lon": -0.079,
+    "appearances": [
+      {
+        "ep": 226,
+        "quote": "其中有個教堂叫St Olaf's 這個St Olaf教堂 它雖小",
+        "context": "埋葬許多瘟疫死者，見證疫情影響",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "landmark": "漢普頓宮",
+    "landmark_en": "Hampton Court Palace",
+    "lat": 51.403,
+    "lon": -0.337,
+    "appearances": [
+      {
+        "ep": 226,
+        "quote": "他當時就從倫敦逃離出來 他就躲在瘟沙和漢不頓宮",
+        "context": "亨利八世躲避瘟疫的逃亡地之一",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "landmark": "亞姆村",
+    "landmark_en": "Eyam",
+    "lat": 53.284,
+    "lon": -1.676,
+    "appearances": [
+      {
+        "ep": 226,
+        "quote": "這個地方叫做AM 它叫EYAM",
+        "context": "為防瘟疫擴散而自我隔離的貿易小鎮",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "landmark": "謝菲爾德博物館",
+    "landmark_en": "Sheffield Museum",
+    "lat": 53.381,
+    "lon": -1.492,
+    "appearances": [
+      {
+        "ep": 226,
+        "quote": "他在Sheffield博物館裡面 然後還在AIM博物館裡面",
+        "context": "展出1666年亞姆村隔離事件",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "landmark": "博羅市場",
+    "landmark_en": "Borough Market",
+    "lat": 51.505,
+    "lon": -0.09,
+    "appearances": [
+      {
+        "ep": 226,
+        "quote": "很多人都會喜歡去那個巴羅市集 他是我們英國算是倫敦最老的這個蔬國市集",
+        "context": "倫敦最古老蔬果市集，現為熱門景點",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "landmark": "薩瑟克座堂",
+    "landmark_en": "Southwark Cathedral",
+    "lat": 51.506,
+    "lon": -0.088,
+    "appearances": [
+      {
+        "ep": 226,
+        "quote": "就是Sufford Cathedral 就是倫敦河岸南部保留最完整的教堂",
+        "context": "埋葬哈佛家族與太陽藥丸發明者",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "landmark": "舊手術劇院博物館",
+    "landmark_en": "The Old Operating Theatre Museum and Herb Garret",
+    "lat": 51.505,
+    "lon": -0.087,
+    "appearances": [
+      {
+        "ep": 226,
+        "quote": "就叫舊手術劇院博物館或者是我們英文應該叫The Old Operation Theater",
+        "context": "19世紀改建的手術教學室遺址",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "landmark": "聖湯瑪斯醫院",
+    "landmark_en": "St Thomas' Hospital",
+    "lat": 51.501,
+    "lon": -0.118,
+    "appearances": [
+      {
+        "ep": 226,
+        "quote": "以前都是聖湯馬斯醫院的一部分",
+        "context": "舊手術劇院博物館原先所屬的醫院",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "landmark": "Saint Pancras火車站",
+    "landmark_en": "St Pancras Railway Station",
+    "lat": 51.53,
+    "lon": -0.126,
+    "appearances": [
+      {
+        "ep": 265,
+        "quote": "他第一個登入的就是 Saint Pancras火車站",
+        "context": "孫中山當年抵達倫敦時第一個抵達的火車站。",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "landmark": "國王十字車站",
+    "landmark_en": "King's Cross Station",
+    "lat": 51.532,
+    "lon": -0.123,
+    "appearances": [
+      {
+        "ep": 265,
+        "quote": "大家有沒有聽過那個哈利波特 有一個叫國王十字車站",
+        "context": "用以說明Saint Pancras火車站旁的知名地標。",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "landmark": "波蘭大使館",
+    "landmark_en": "Embassy of Poland in London",
+    "lat": 51.52,
+    "lon": -0.146,
+    "appearances": [
+      {
+        "ep": 265,
+        "quote": "當時這個中國大使館的地址 現在已經變成波蘭大使館",
+        "context": "清朝駐英大使館舊址，曾是孫中山在倫敦被軟禁的地點。",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "landmark": "波特蘭街",
+    "landmark_en": "Portland Place",
+    "lat": 51.52,
+    "lon": -0.146,
+    "appearances": [
+      {
+        "ep": 265,
+        "quote": "那目前中國大使館還在波特蘭街 只是換了一個地方",
+        "context": "現今中國駐英國大使館所在的街道。",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "landmark": "特拉法加廣場",
+    "landmark_en": "Trafalgar Square",
+    "lat": 51.508,
+    "lon": -0.128,
+    "appearances": [
+      {
+        "ep": 265,
+        "quote": "靠近特拉法家廣場 就是Trafalgo Square那裡 有一個pop叫做The Old Shade",
+        "context": "孫中山獲釋後召開記者會的酒館所在的著名廣場。",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "landmark": "聖馬丁教堂",
+    "landmark_en": "St Martin-in-the-Fields",
+    "lat": 51.508,
+    "lon": -0.126,
+    "appearances": [
+      {
+        "ep": 265,
+        "quote": "所以傳聞孫文就是在那固定的做 三民主義 還有他目前革命的故事的演講",
+        "context": "孫中山在倫敦固定演講三民主義與革命故事的教堂。",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "landmark": "Walwick Court",
+    "landmark_en": "Warwick Court",
+    "lat": 51.518,
+    "lon": -0.114,
+    "appearances": [
+      {
+        "ep": 265,
+        "quote": "在Walwick Court就是一條小小的街道...你就會看到一個孫文的紀念雕像",
+        "context": "孫文曾在此租屋，該地目前藏有一座冷門的孫文浮雕紀念碑。",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "landmark": "倫敦政經學院 (LSE)",
+    "landmark_en": "London School of Economics",
+    "lat": 51.514,
+    "lon": -0.116,
+    "appearances": [
+      {
+        "ep": 265,
+        "quote": "他是先進 LSE London School of Economic 倫敦政經學院",
+        "context": "徐志摩最初到倫敦時就讀的大學。",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "landmark": "Limehouse",
+    "landmark_en": "Limehouse",
+    "lat": 51.511,
+    "lon": -0.032,
+    "appearances": [
+      {
+        "ep": 265,
+        "quote": "在倫敦這個華人第一個登入的地方 就是我們今天叫做Limehouse的 這個區域",
+        "context": "倫敦最早的華人聚落與初代唐人街所在地。",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "landmark": "Colindale",
+    "landmark_en": "Colindale",
+    "lat": 51.595,
+    "lon": -0.249,
+    "appearances": [
+      {
+        "ep": 265,
+        "quote": "很多人喜歡聚集在一個地方 叫Colendale",
+        "context": "二戰後倫敦唐人街被炸燬後，華人往外移居形成的新聚落。",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "landmark": "SOHO",
+    "landmark_en": "Soho",
+    "lat": 51.513,
+    "lon": -0.132,
+    "appearances": [
+      {
+        "ep": 265,
+        "quote": "在倫敦市中心呢 大概它其實是SOHO的一部分",
+        "context": "現今倫敦市中心唐人街所在的著名商業區。",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "landmark": "傑拉德街 (唐人街)",
+    "landmark_en": "Gerrard Street",
+    "lat": 51.511,
+    "lon": -0.13,
+    "appearances": [
+      {
+        "ep": 265,
+        "quote": "他們就開始讓Jerrod Street 變成所謂的唐人街這樣子",
+        "context": "現今倫敦市中心的唐人街街道，主要作為工作與餐飲區。",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "landmark": "Margaret Street",
+    "landmark_en": "Margaret Street",
+    "lat": 51.516,
+    "lon": -0.141,
+    "appearances": [
+      {
+        "ep": 265,
+        "quote": "在倫敦市中心有一條街叫Margaret Street 靠近牛津街那邊 它就是佛光山",
+        "context": "倫敦佛光山所在地，聚集了來自世界各地的華人。",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "landmark": "邱園 (Kew Gardens)",
+    "landmark_en": "Kew Gardens",
+    "lat": 51.478,
+    "lon": -0.295,
+    "appearances": [
+      {
+        "ep": 265,
+        "quote": "這一個這個地使之門 現在還留在倫敦的Q Garden裡面",
+        "context": "當年海德公園日本展結束後的“敕使之門”移置存放處。",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "landmark": "High Street Kensington",
+    "landmark_en": "High Street Kensington",
+    "lat": 51.501,
+    "lon": -0.192,
+    "appearances": [
+      {
+        "ep": 265,
+        "quote": "就在我們這個倫敦寸土寸金的地方 就在High Street Kensington這",
+        "context": "倫敦日本文化中心（Japan House）設立的地點。",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "landmark": "皇家亞伯特廳",
+    "landmark_en": "Royal Albert Hall",
+    "lat": 51.501,
+    "lon": -0.177,
+    "appearances": [
+      {
+        "ep": 265,
+        "quote": "在我們倫敦的亞伯特廳 就辦了一個這個日本相鋪",
+        "context": "舉辦日本相撲巡迴賽的英國高階表演場館。",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "landmark": "印度咖啡館舊址",
+    "landmark_en": "Hindoostane Coffee House",
+    "lat": 51.5175,
+    "lon": -0.1558,
+    "appearances": [
+      {
+        "ep": 266,
+        "quote": null,
+        "context": "洗髮之王 Sake Dean Mahomed 創立全英首家印度餐廳之地。",
+        "source": "topic"
+      }
+    ]
+  },
+  {
+    "landmark": "金斯利會堂",
+    "landmark_en": "Kingsley Hall",
+    "lat": 51.5286,
+    "lon": -0.0247,
+    "appearances": [
+      {
+        "ep": 266,
+        "quote": null,
+        "context": "1931 年甘地訪問倫敦期間，選擇居住在此與基層民眾交流。",
+        "source": "topic"
+      }
+    ]
+  }
+]

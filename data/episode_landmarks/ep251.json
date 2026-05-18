@@ -1,0 +1,88 @@
+[
+  {
+    "name": "中部关口",
+    "name_en": "King Hussein Bridge / Allenby Bridge",
+    "lat": 31.873,
+    "lon": 35.546,
+    "country": "约旦/巴勒斯坦",
+    "region": "亞洲",
+    "quote": "他的中部关口是有两条路一条是给当地人一条是给外国人",
+    "context": "往返约旦与巴勒斯坦/以色列的陆路边境关口"
+  },
+  {
+    "name": "老城区",
+    "name_en": "Old City of Jerusalem",
+    "lat": 31.776,
+    "lon": 35.234,
+    "country": "以色列",
+    "region": "亞洲",
+    "quote": "后来我们就搬到老城里面就是刚才那枯墙走路两分钟",
+    "context": "主持人入住的地点，包含众多历史古迹"
+  },
+  {
+    "name": "哭墙",
+    "name_en": "Western Wall",
+    "lat": 31.776,
+    "lon": 35.234,
+    "country": "以色列",
+    "region": "亞洲",
+    "quote": "他原本应该叫西墙然后哭墙是他的外号",
+    "context": "犹太人悼念祖先与塞纸条许愿的圣地",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Westernwall2.jpg/330px-Westernwall2.jpg"
+  },
+  {
+    "name": "大马士革门",
+    "name_en": "Damascus Gate",
+    "lat": 31.782,
+    "lon": 35.23,
+    "country": "以色列",
+    "region": "亞洲",
+    "quote": "他城区是好几个门有什么大马士革门啊狮子门",
+    "context": "耶路撒冷老城区著名的历史城门之一",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Jerusalem_Damaskustor_BW_1.jpg/330px-Jerusalem_Damaskustor_BW_1.jpg"
+  },
+  {
+    "name": "狮子门",
+    "name_en": "Lions' Gate",
+    "lat": 31.781,
+    "lon": 35.236,
+    "country": "以色列",
+    "region": "亞洲",
+    "quote": "有什么大马士革门啊狮子门很多很有名的很有历史性的城墙",
+    "context": "耶路撒冷老城区著名的历史城门之一",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/LionsGate_Jerusalem.JPG/330px-LionsGate_Jerusalem.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "清真寺",
+    "name_en": "Al-Aqsa Mosque / Dome of the Rock",
+    "lat": 31.776,
+    "lon": 35.235,
+    "country": "以色列",
+    "region": "亞洲",
+    "quote": "还有他们的一个亲证室但是亲证室那时候是封锁的",
+    "context": "穆斯林礼拜地，被认为是不会受空袭的安全点",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Supplicating_Pilgrim_at_Masjid_Al_Haram._Mecca%2C_Saudi_Arabia.jpg/330px-Supplicating_Pilgrim_at_Masjid_Al_Haram._Mecca%2C_Saudi_Arabia.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "圣殿山",
+    "name_en": "Temple Mount",
+    "lat": 31.778,
+    "lon": 35.235,
+    "country": "以色列",
+    "region": "亞洲",
+    "quote": "他在圣殿山上面他也是一座小山丘",
+    "context": "老城所在的区域，附近有不同宗教的墓园",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Jerusalem-2013%282%29-Aerial-Temple_Mount-%28south_exposure%29.jpg/330px-Jerusalem-2013%282%29-Aerial-Temple_Mount-%28south_exposure%29.jpg"
+  },
+  {
+    "name": "橄榄山",
+    "name_en": "Mount of Olives",
+    "lat": 31.778,
+    "lon": 35.243,
+    "country": "以色列",
+    "region": "亞洲",
+    "quote": "去橄榄山啊去那边看一下耶路撒冷的世容",
+    "context": "可俯瞰耶路撒冷市容的高地，设有犹太人墓园",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/2013-Aerial-Mount_of_Olives.jpg/330px-2013-Aerial-Mount_of_Olives.jpg"
+  }
+]

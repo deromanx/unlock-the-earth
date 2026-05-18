@@ -1,0 +1,54 @@
+[
+  {
+    "name": "猴麵包樹大道",
+    "name_en": "Avenue of the Baobabs",
+    "lat": -20.251,
+    "lon": 44.418,
+    "country": "馬達加斯加",
+    "region": "非洲",
+    "quote": "但是有一个猴面包树大道",
+    "context": "當地最著名的打卡景點，可欣賞美麗夕陽"
+  },
+  {
+    "name": "摩隆達瓦",
+    "name_en": "Morondava",
+    "lat": -20.283,
+    "lon": 44.283,
+    "country": "馬達加斯加",
+    "region": "非洲",
+    "quote": "那边搭车去摩隆达瓦",
+    "context": "前往猴麵包樹大道的必經城鎮，車程遙遠"
+  },
+  {
+    "name": "六旗樂園",
+    "name_en": "Six Flags Magic Mountain",
+    "lat": 34.425,
+    "lon": -118.597,
+    "country": "美國",
+    "region": "美洲",
+    "quote": "就发现你知道在洛杉矶有个六骑乐园吗",
+    "context": "曾舉辦生吃馬達加斯加蟑螂以換取特權的活動"
+  },
+  {
+    "name": "海德堡",
+    "name_en": "Heidelberg",
+    "lat": 49.398,
+    "lon": 8.672,
+    "country": "德國",
+    "region": "歐洲",
+    "quote": "是在德国海德堡的时候",
+    "context": "講者在此地上舞蹈課時首次遇見馬達加斯加人",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/K%C3%B6nigstuhl%2C_Heidelberg%2C_U-17.jpg/330px-K%C3%B6nigstuhl%2C_Heidelberg%2C_U-17.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "復活節島",
+    "name_en": "Easter Island",
+    "lat": -27.112,
+    "lon": -109.349,
+    "country": "智利",
+    "region": "大洋洲",
+    "quote": "因为我才刚从复活节岛回来嘛",
+    "context": "探討南島語系發源與遷徙時提到的地點",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Easter_Island_5.jpg/330px-Easter_Island_5.jpg"
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "name": "桃園國際機場",
+    "name_en": "Taoyuan International Airport",
+    "lat": 25.079,
+    "lon": 121.234,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "然后第一次见面 在桃圆机场",
+    "context": "前往非洲前，招募的六名志工夥伴首次見面與集合的出發點",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Taoyuan_International_Airport.jpg/330px-Taoyuan_International_Airport.jpg"
+  },
+  {
+    "name": "奈洛比國際機場",
+    "name_en": "Jomo Kenyatta International Airport",
+    "lat": -1.319,
+    "lon": 36.927,
+    "country": "肯亞",
+    "region": "非洲",
+    "quote": "所以是飞到奈若比国际机场这样子",
+    "context": "抵達肯亞的第一站，機場設施簡陋且清晨氣溫寒冷令人印象深刻"
+  },
+  {
+    "name": "東非大裂谷",
+    "name_en": "Great Rift Valley",
+    "lat": -1.014,
+    "lon": 36.586,
+    "country": "肯亞",
+    "region": "非洲",
+    "quote": "哦对东非大猎谷 哇 马上停车 地课本的巡礼",
+    "context": "搭車前往學校的路途中，特別下車拍照留念的壯觀地理課本地標"
+  }
+]

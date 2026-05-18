@@ -1,0 +1,64 @@
+[
+  {
+    "name": "金字塔",
+    "name_en": "Giza Pyramid Complex",
+    "lat": 29.979,
+    "lon": 31.134,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "大家小時候課本打開，金字塔人面獅身像一大堆，就是夢想清單上面的。",
+    "context": "提及埃及最具代表性的地標與童年夢想。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Pyramids_of_the_Giza_Necropolis.jpg/330px-Pyramids_of_the_Giza_Necropolis.jpg"
+  },
+  {
+    "name": "人面獅身像",
+    "name_en": "Great Sphinx of Giza",
+    "lat": 29.975,
+    "lon": 31.138,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "大家小時候課本打開，金字塔人面獅身像一大堆，就是夢想清單上面的。",
+    "context": "埃及最具代表性的地標之一，常與金字塔並提。"
+  },
+  {
+    "name": "埃及博物館",
+    "name_en": "The Egyptian Museum",
+    "lat": 30.048,
+    "lon": 31.234,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "現在的舊的埃及博物館二樓一整層，幾乎都是圖坦卡蒙的東西。",
+    "context": "位於開羅，收藏大量圖坦卡蒙珍寶的歷史博物館。"
+  },
+  {
+    "name": "阿布辛貝神殿",
+    "name_en": "Abu Simbel Temples",
+    "lat": 22.337,
+    "lon": 31.623,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "拉美西斯二世呢，他留下來的就是各式各樣的神廟跟雕像，阿布辛貝。",
+    "context": "法老拉美西斯二世建造的宏偉神殿。"
+  },
+  {
+    "name": "埃及文明博物館",
+    "name_en": "National Museum of Egyptian Civilization",
+    "lat": 30.008,
+    "lon": 31.249,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "重要的木乃伊，包括這個拉美西斯二世本人的木乃伊，都搬到那個埃及文明博物館了。",
+    "context": "保存拉美西斯二世等重要木乃伊的現代化博物館。"
+  },
+  {
+    "name": "尼羅河",
+    "name_en": "Nile",
+    "lat": 30.044,
+    "lon": 31.236,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "他就塞進去，然後他一躺進去的那一瞬間，那個賽特就把它蓋起來，然後釘死丟到尼羅河裡面。",
+    "context": "古埃及文明的發源地，神話中歐西里斯被丟入處。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Nile_3rd_Cataract_Left.jpg/330px-Nile_3rd_Cataract_Left.jpg"
+  }
+]

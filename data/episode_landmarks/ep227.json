@@ -1,0 +1,150 @@
+[
+  {
+    "name": "商业广场",
+    "name_en": "Praça do Comércio",
+    "lat": 38.707,
+    "lon": -9.136,
+    "country": "葡萄牙",
+    "region": "亞洲",
+    "quote": "其实我书封的这一个叫做商业广场这个地方 也是我对葡萄牙很美好的印象",
+    "context": "讲者新书封面拍摄地，充满美好印象的广场"
+  },
+  {
+    "name": "贝伦区",
+    "name_en": "Belém",
+    "lat": 38.697,
+    "lon": -9.206,
+    "country": "葡萄牙",
+    "region": "亞洲",
+    "quote": "就是说贝伦区 去看修道院 去看贝伦塔",
+    "context": "里斯本的一级观光景点区"
+  },
+  {
+    "name": "修道院",
+    "name_en": "Jerónimos Monastery",
+    "lat": 38.697,
+    "lon": -9.206,
+    "country": "葡萄牙",
+    "region": "亞洲",
+    "quote": "就是说贝伦区 去看修道院 去看贝伦塔",
+    "context": "贝伦区内的知名观光古迹"
+  },
+  {
+    "name": "贝伦塔",
+    "name_en": "Belém Tower",
+    "lat": 38.691,
+    "lon": -9.215,
+    "country": "葡萄牙",
+    "region": "亞洲",
+    "quote": "就是说贝伦区 去看修道院 去看贝伦塔",
+    "context": "贝伦区内的一级观光地标",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Torre_de_Bel%C3%A9m_20180717-2.jpg/330px-Torre_de_Bel%C3%A9m_20180717-2.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "东京铁塔",
+    "name_en": "Tokyo Tower",
+    "lat": 35.658,
+    "lon": 139.745,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "你说东京铁塔 Skytree 然后前草的那一个大灯笼",
+    "context": "讲者举例初访东京必踩的经典地标",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Tokyo_Tower_2023.jpg/330px-Tokyo_Tower_2023.jpg"
+  },
+  {
+    "name": "Skytree",
+    "name_en": "Tokyo Skytree",
+    "lat": 35.71,
+    "lon": 139.81,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "你说东京铁塔 Skytree 然后前草的那一个大灯笼",
+    "context": "讲者举例初访东京必踩的著名景点",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tokyo_Skytree_2014_%E2%85%A2.jpg/330px-Tokyo_Skytree_2014_%E2%85%A2.jpg"
+  },
+  {
+    "name": "前草大灯笼 (雷门)",
+    "name_en": "Kaminarimon",
+    "lat": 35.711,
+    "lon": 139.796,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "你说东京铁塔 Skytree 然后前草的那一个大灯笼",
+    "context": "讲者举例初访东京必踩的经典打卡点",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Day2-2_%2840909714314%29.jpg/330px-Day2-2_%2840909714314%29.jpg"
+  },
+  {
+    "name": "阿尔法马区",
+    "name_en": "Alfama",
+    "lat": 38.712,
+    "lon": -9.129,
+    "country": "葡萄牙",
+    "region": "亞洲",
+    "quote": "比方说我很喜欢他们的老城区 叫做阿尔法马区",
+    "context": "讲者十分喜爱、散步起来很有情调的老城区",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Lisbon_alfalma.jpg/330px-Lisbon_alfalma.jpg"
+  },
+  {
+    "name": "皇家王子区",
+    "name_en": "Príncipe Real",
+    "lat": 38.716,
+    "lon": -9.148,
+    "country": "葡萄牙",
+    "region": "亞洲",
+    "quote": "一个比方说 阿尔法马区 或者是说什么 皇家王子区 这样子",
+    "context": "讲者认为适合近距离悠闲散步的里斯本街区"
+  },
+  {
+    "name": "盛本堵车站 (圣本笃车站)",
+    "name_en": "São Bento Railway Station",
+    "lat": 41.145,
+    "lon": -8.61,
+    "country": "葡萄牙",
+    "region": "亞洲",
+    "quote": "在那个波多的盛本堵车站里面 可以看到非常大片的花砖壁画",
+    "context": "内部有美丽花砖壁画的波多火车站",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Esta%C3%A7%C3%A3o_Ferrovi%C3%A1ria_de_Porto_-_S%C3%A3o_Bento.JPG/330px-Esta%C3%A7%C3%A3o_Ferrovi%C3%A1ria_de_Porto_-_S%C3%A3o_Bento.JPG"
+  },
+  {
+    "name": "斗罗河",
+    "name_en": "Douro River",
+    "lat": 41.14,
+    "lon": -8.614,
+    "country": "葡萄牙",
+    "region": "亞洲",
+    "quote": "其实看着那个斗罗河的风景 然后夕阳从那边落下",
+    "context": "波多看夕阳时的美丽河谷风景",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Rio_Douro_-_Portugal_%2832615481975%29_%28cropped%29.jpg/330px-Rio_Douro_-_Portugal_%2832615481975%29_%28cropped%29.jpg"
+  },
+  {
+    "name": "路易伊士大桥",
+    "name_en": "Dom Luís I Bridge",
+    "lat": 41.14,
+    "lon": -8.609,
+    "country": "葡萄牙",
+    "region": "亞洲",
+    "quote": "我就直接到波多 就是那个看夕阳的那个铁桥边 路易伊士大桥的桥上",
+    "context": "讲者为了欣赏波多绝美夕阳而特地去卡位的铁桥",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Dom_Lu%C3%ADs_I_Bridge_%2836961760686%29.jpg/330px-Dom_Lu%C3%ADs_I_Bridge_%2836961760686%29.jpg"
+  },
+  {
+    "name": "Coffee San Diego (Cafe Santiago)",
+    "name_en": "Cafe Santiago",
+    "lat": 41.146,
+    "lon": -8.604,
+    "country": "葡萄牙",
+    "region": "亞洲",
+    "quote": "我就跑去 他们最经典的那间店 叫做Coffee San Diego",
+    "context": "贩售波多名产「湿答答三明治」的著名店家"
+  },
+  {
+    "name": "莱罗书店",
+    "name_en": "Livraria Lello",
+    "lat": 41.146,
+    "lon": -8.614,
+    "country": "葡萄牙",
+    "region": "亞洲",
+    "quote": "那波多还有一间书店 非常有名 叫做莱罗书店",
+    "context": "世界最美书店之一，相传JK罗琳在此写作"
+  }
+]

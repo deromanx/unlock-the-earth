@@ -1,0 +1,32 @@
+[
+  {
+    "name": "瓜地馬拉市市中心",
+    "name_en": "Historic Center of Guatemala City",
+    "lat": 14.641,
+    "lon": -90.513,
+    "country": "瓜地馬拉",
+    "region": "美洲",
+    "quote": "但是瓜地馬拉市,市中心它的治安非常非常的糟糕",
+    "context": "節目提及該區治安狀況極其糟糕，提醒旅客注意安全。"
+  },
+  {
+    "name": "梅里達",
+    "name_en": "Mérida",
+    "lat": 20.967,
+    "lon": -89.624,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "你中間一定可以停那個MerryDot,對,尤加頓半島",
+    "context": "中美洲旅遊推薦的入門城市，位於墨西哥尤加頓半島。"
+  },
+  {
+    "name": "尤加頓半島",
+    "name_en": "Yucatán Peninsula",
+    "lat": 18.846,
+    "lon": -89.117,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "尤加頓半島就可以看到Maya文化",
+    "context": "提及該地可觀察瑪雅文化，並有特色地窖烤肉美食。"
+  }
+]

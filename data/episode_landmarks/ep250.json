@@ -1,0 +1,122 @@
+[
+  {
+    "name": "富岡火車站",
+    "name_en": "Fugang Railway Station",
+    "lat": 24.934,
+    "lon": 121.082,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "从桃园的富岗火车站 一路延伸至杨梅的休闲农业区",
+    "context": "富岡鐵道藝術生活節的活動起點。"
+  },
+  {
+    "name": "楊梅休閒農業區",
+    "name_en": "Yangmei Leisure Agriculture Area",
+    "lat": 24.887,
+    "lon": 121.144,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "从桃园的富岗火车站 一路延伸至杨梅的休闲农业区",
+    "context": "鐵道藝術節活動串聯的區域。"
+  },
+  {
+    "name": "沙拉越河",
+    "name_en": "Sarawak River",
+    "lat": 1.56,
+    "lon": 110.345,
+    "country": "馬來西亞",
+    "region": "亞洲",
+    "quote": "他有一条 沙拉越河 分南北",
+    "context": "將古晉市分為南市與北市的重要河流。"
+  },
+  {
+    "name": "古晉河濱公園",
+    "name_en": "Kuching Waterfront",
+    "lat": 1.559,
+    "lon": 110.345,
+    "country": "馬來西亞",
+    "region": "亞洲",
+    "quote": "如果说是市区河滨公园那一带 就是观光客最集中那个",
+    "context": "古晉市區觀光客最集中的休閒區域。"
+  },
+  {
+    "name": "亞答街",
+    "name_en": "Carpenter Street",
+    "lat": 1.558,
+    "lon": 110.345,
+    "country": "馬來西亞",
+    "region": "亞洲",
+    "quote": "他有一条华人的街叫亚大街",
+    "context": "古晉市區保留許多傳統華人會館的老街。"
+  },
+  {
+    "name": "古晉潮州會館",
+    "name_en": "Kuching Teochew Association",
+    "lat": 1.558,
+    "lon": 110.345,
+    "country": "馬來西亞",
+    "region": "亞洲",
+    "quote": "里面就有潮州会馆 有潮州的戏台",
+    "context": "位於亞答街內，設有傳統戲台的華人會館。"
+  },
+  {
+    "name": "青雲亭",
+    "name_en": "Cheng Hoon Teng Temple",
+    "lat": 2.197,
+    "lon": 102.247,
+    "country": "馬來西亞",
+    "region": "亞洲",
+    "quote": "他的本店 就是在马六甲 老街清云亭的旁边",
+    "context": "馬六甲老街旁的著名華人廟宇。"
+  },
+  {
+    "name": "印度街",
+    "name_en": "India Street",
+    "lat": 1.559,
+    "lon": 110.344,
+    "country": "馬來西亞",
+    "region": "亞洲",
+    "quote": "他的隔壁就是印度街 然后那个印度街 其实很短",
+    "context": "古晉亞答街旁販售香料與印度商品的街道。"
+  },
+  {
+    "name": "干蜜街",
+    "name_en": "Gambier Street",
+    "lat": 1.56,
+    "lon": 110.343,
+    "country": "馬來西亞",
+    "region": "亞洲",
+    "quote": "那边有一条街 就是叫什么干蜜街",
+    "context": "古晉早期因種植干蜜而發展出的歷史街道。"
+  },
+  {
+    "name": "粉紅清真寺",
+    "name_en": "Kuching City Mosque",
+    "lat": 1.558,
+    "lon": 110.342,
+    "country": "馬來西亞",
+    "region": "亞洲",
+    "quote": "有席客 有一座粉红色的清真寺 有席客教的庙",
+    "context": "古晉印度街附近具特色的粉紅色清真寺。"
+  },
+  {
+    "name": "巷弄裡的清真寺",
+    "name_en": "Masjid India Kuching",
+    "lat": 1.559,
+    "lon": 110.344,
+    "country": "馬來西亞",
+    "region": "亞洲",
+    "quote": "走进去里面 有个清真寺",
+    "context": "隱藏在古晉小印度區狹窄巷弄內的清真寺。"
+  },
+  {
+    "name": "摸乳巷",
+    "name_en": "Molu Alley",
+    "lat": 24.054,
+    "lon": 120.432,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "就是台湾 鹿港有摸乳巷 很窄",
+    "context": "主持人用來比喻古晉印度街狹窄巷弄的景點。"
+  }
+]

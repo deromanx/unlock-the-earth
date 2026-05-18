@@ -1,0 +1,120 @@
+[
+  {
+    "name": "加拉巴哥群島",
+    "name_en": "Galapagos Islands",
+    "lat": -0.477,
+    "lon": -90.36,
+    "country": "厄瓜多",
+    "region": "美洲",
+    "quote": "加拉巴哥群島它離南美大陸遠嗎",
+    "context": "節目的核心討論地點，以生態與演化論聞名。"
+  },
+  {
+    "name": "基多",
+    "name_en": "Quito",
+    "lat": -0.18,
+    "lon": -78.467,
+    "country": "厄瓜多",
+    "region": "美洲",
+    "quote": "我們是從Guito飛",
+    "context": "厄瓜多首都，前往加拉巴哥群島的主要起點。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Bas%C3%ADlica_del_Voto_Nacional%2C_Quito_-_4.jpg/330px-Bas%C3%ADlica_del_Voto_Nacional%2C_Quito_-_4.jpg"
+  },
+  {
+    "name": "聖克魯斯島",
+    "name_en": "Santa Cruz Island",
+    "lat": -0.638,
+    "lon": -90.364,
+    "country": "厄瓜多",
+    "region": "美洲",
+    "quote": "他的主島Santa Cruz",
+    "context": "加拉巴哥群島的主要島嶼，遊客活動的中心。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Santa_Cruz_Island_by_Sentinel-2.jpg/330px-Santa_Cruz_Island_by_Sentinel-2.jpg"
+  },
+  {
+    "name": "聖克里斯多巴島",
+    "name_en": "San Cristóbal Island",
+    "lat": -0.895,
+    "lon": -89.435,
+    "country": "厄瓜多",
+    "region": "美洲",
+    "quote": "一個叫Saint Cristobal它是在這兩個島上有主要兩個機場",
+    "context": "加拉巴哥群島唯二擁有主要機場的島嶼之一。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Paisaje_en_Punta_Pitt%2C_isla_de_San_Crist%C3%B3bal%2C_islas_Gal%C3%A1pagos%2C_Ecuador%2C_2015-07-24%2C_DD_75.JPG/330px-Paisaje_en_Punta_Pitt%2C_isla_de_San_Crist%C3%B3bal%2C_islas_Gal%C3%A1pagos%2C_Ecuador%2C_2015-07-24%2C_DD_75.JPG"
+  },
+  {
+    "name": "巴爾特拉島",
+    "name_en": "Baltra Island",
+    "lat": -0.45,
+    "lon": -90.283,
+    "country": "厄瓜多",
+    "region": "美洲",
+    "quote": "飛那個Baltler Island上面的那個Seamore Airport",
+    "context": "機場所在地，遊客進入聖克魯斯島的門戶。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Alvaro_Sevilla_Design_Isla_Santa_Cruz_Galapagos_foto_tomada_desde_el_avi%C3%B3n.jpg/330px-Alvaro_Sevilla_Design_Isla_Santa_Cruz_Galapagos_foto_tomada_desde_el_avi%C3%B3n.jpg"
+  },
+  {
+    "name": "西摩機場",
+    "name_en": "Seymour Airport",
+    "lat": -0.455,
+    "lon": -90.281,
+    "country": "厄瓜多",
+    "region": "美洲",
+    "quote": "西摩機場這樣子",
+    "context": "位於巴爾特拉島上的機場，通往聖克魯斯島。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Seymour_Airport%2C_Isla_Baltra%2C_Galapagos_Islands.jpg/330px-Seymour_Airport%2C_Isla_Baltra%2C_Galapagos_Islands.jpg"
+  },
+  {
+    "name": "阿約拉港",
+    "name_en": "Puerto Ayora",
+    "lat": -0.743,
+    "lon": -90.313,
+    "country": "厄瓜多",
+    "region": "美洲",
+    "quote": "叫做阿約拉港那邊",
+    "context": "聖克魯斯島的主要港口城市與觀光聚集地。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Main_street%2C_Puerto_Ayora%2C_Santa_Cruz%2C_Galapagos_-_panoramio.jpg/330px-Main_street%2C_Puerto_Ayora%2C_Santa_Cruz%2C_Galapagos_-_panoramio.jpg"
+  },
+  {
+    "name": "查爾斯·達爾文研究站",
+    "name_en": "Charles Darwin Research Station",
+    "lat": -0.742,
+    "lon": -90.304,
+    "country": "厄瓜多",
+    "region": "美洲",
+    "quote": "那邊還有一個達爾文中心",
+    "context": "進行象龜保育與研究的中心，有名的室內景點。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Solitario_George_Lonesome_George_Charles_Darwin_Research_Station_Galapagos_photo_by_Alvaro_Sevilla_Design.JPG/330px-Solitario_George_Lonesome_George_Charles_Darwin_Research_Station_Galapagos_photo_by_Alvaro_Sevilla_Design.JPG"
+  },
+  {
+    "name": "北西摩島",
+    "name_en": "North Seymour Island",
+    "lat": -0.395,
+    "lon": -90.285,
+    "country": "厄瓜多",
+    "region": "美洲",
+    "quote": "我有一個我真的是超級無敵推薦他叫North Seymour",
+    "context": "觀賞軍艦鳥與藍腳鰹鳥求偶行為的最佳勝地。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Isla_Seymour_Norte%2C_islas_Gal%C3%A1pagos%2C_Ecuador%2C_2015-07-23%2C_DD_01.JPG/330px-Isla_Seymour_Norte%2C_islas_Gal%C3%A1pagos%2C_Ecuador%2C_2015-07-23%2C_DD_01.JPG"
+  },
+  {
+    "name": "伊莎貝拉島",
+    "name_en": "Isabela Island",
+    "lat": -0.75,
+    "lon": -91.1,
+    "country": "厄瓜多",
+    "region": "美洲",
+    "quote": "島像是什麼Isabella或者是Santa Cruz",
+    "context": "加拉巴哥最大的島嶼，植被茂密且生態多樣。"
+  },
+  {
+    "name": "平塔島",
+    "name_en": "Pinta Island",
+    "lat": 0.585,
+    "lon": -90.755,
+    "country": "厄瓜多",
+    "region": "美洲",
+    "quote": "他好像叫什麼平塌島相龜",
+    "context": "著名象龜「孤獨喬治」的故鄉島嶼。"
+  }
+]

@@ -1,0 +1,211 @@
+[
+  {
+    "name": "酋长岩",
+    "name_en": "El Capitan",
+    "lat": 37.734,
+    "lon": -119.637,
+    "country": "美国",
+    "region": "美洲",
+    "quote": "就是拍摄美国攀岩运动家挑战徒手、不带户具攀爬球长岩的过程",
+    "context": "纪录片《赤手登峰》中运动员挑战徒手攀爬的地点。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/El_Capitan_en_Californie.jpg/330px-El_Capitan_en_Californie.jpg"
+  },
+  {
+    "name": "马尼拉",
+    "name_en": "Manila",
+    "lat": 14.599,
+    "lon": 120.984,
+    "country": "菲律宾",
+    "region": "亞洲",
+    "quote": "然后我的菲律宾语老师，住在菲律宾，曼尼拉",
+    "context": "小菜为了看望线上学习菲律宾语的老师而前往的城市。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Cityscape_of_Manila%2C_2025_%2801%29.jpg/330px-Cityscape_of_Manila%2C_2025_%2801%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "达兰萨拉",
+    "name_en": "Dharamsala",
+    "lat": 32.219,
+    "lon": 76.323,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "然后我的藏语老师住在北印度的达兰萨拉",
+    "context": "小菜前往北印度快闪看望藏语老师的地点。"
+  },
+  {
+    "name": "泰姬玛哈陵",
+    "name_en": "Taj Mahal",
+    "lat": 27.175,
+    "lon": 78.042,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "因为我们的目标是去北印度，就是太奇马哈林那些大家都会去的地方",
+    "context": "北印度旅行的重点目标景点之一。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Taj_Mahal_%28Edited%29.jpeg/330px-Taj_Mahal_%28Edited%29.jpeg"
+  },
+  {
+    "name": "英迪拉·甘地国际机场",
+    "name_en": "Indira Gandhi International Airport",
+    "lat": 28.556,
+    "lon": 77.1,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "但是我记得德里的机场，好像不是一个很适合人居的地方",
+    "context": "小菜在德里转机并留宿，讨论其安检严格与环境。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/2024-12-14-00_00_2024-12-14-23_59_Sentinel-2_L2A_True_color_%28cropped%29.jpg/330px-2024-12-14-00_00_2024-12-14-23_59_Sentinel-2_L2A_True_color_%28cropped%29.jpg"
+  },
+  {
+    "name": "雅加达",
+    "name_en": "Jakarta",
+    "lat": -6.208,
+    "lon": 106.845,
+    "country": "印尼",
+    "region": "亞洲",
+    "quote": "我那时候是坐捷新航空，然后在新加坡转机，飞亚加达",
+    "context": "印尼之旅的出入境点，讨论其交通与人口压力。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Bundaran_Hotel_Indonesia_%282025%29.jpg/330px-Bundaran_Hotel_Indonesia_%282025%29.jpg"
+  },
+  {
+    "name": "雅加达老城",
+    "name_en": "Kota Tua Jakarta",
+    "lat": -6.134,
+    "lon": 106.813,
+    "country": "印尼",
+    "region": "亞洲",
+    "quote": "他比较著名的景点是荷兰殖民时代的一些老建筑",
+    "context": "雅加达较著名的观光景点，提到其维护状况。"
+  },
+  {
+    "name": "万隆",
+    "name_en": "Bandung",
+    "lat": -6.917,
+    "lon": 107.619,
+    "country": "印尼",
+    "region": "亞洲",
+    "quote": "万龙它是个比较位在山上的城市",
+    "context": "位于爪哇岛山区的城市，气候凉爽。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Bandung_View_dari_Gedung_Wisma_HSBC_Asia_Afrika_4.jpg/330px-Bandung_View_dari_Gedung_Wisma_HSBC_Asia_Afrika_4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "日惹",
+    "name_en": "Yogyakarta",
+    "lat": -7.795,
+    "lon": 110.373,
+    "country": "印尼",
+    "region": "亞洲",
+    "quote": "日泽真的很棒，而且是个很有艺术气息的地方",
+    "context": "被认为最适合数位游牧的印尼城市，充满文化艺术感。"
+  },
+  {
+    "name": "泗水",
+    "name_en": "Surabaya",
+    "lat": -7.257,
+    "lon": 112.752,
+    "country": "印尼",
+    "region": "亞洲",
+    "quote": "还有四岁，我那次没有去四岁",
+    "context": "爪哇岛的主要城市之一，常作为前往火山的据点。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Central_Surabaya_view_taken_from_JW_Marriott_Surabaya.jpg/330px-Central_Surabaya_view_taken_from_JW_Marriott_Surabaya.jpg"
+  },
+  {
+    "name": "婆罗摩火山",
+    "name_en": "Mount Bromo",
+    "lat": -7.942,
+    "lon": 112.953,
+    "country": "印尼",
+    "region": "亞洲",
+    "quote": "然后去那个火山...日泽到火山",
+    "context": "爪哇岛著名的火山景点，行程包含看日出与火山口。"
+  },
+  {
+    "name": "宜珍火山",
+    "name_en": "Mount Ijen",
+    "lat": -8.058,
+    "lon": 114.242,
+    "country": "印尼",
+    "region": "亞洲",
+    "quote": "就是一针火山...对对对，那个我有去，但是那个也是一大早要起来",
+    "context": "具有流气孔景观的火山，登山行程非常艰辛。"
+  },
+  {
+    "name": "巴厘岛",
+    "name_en": "Bali",
+    "lat": -8.34,
+    "lon": 115.092,
+    "country": "印尼",
+    "region": "亞洲",
+    "quote": "然后巴厘岛就是休息的地方，因为前面已经太惨了",
+    "context": "旅程中段放松的地方，讨论其宗教与饮食特色。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Bali_in_Indonesia_%28special_marker%29.svg/330px-Bali_in_Indonesia_%28special_marker%29.svg.png"
+  },
+  {
+    "name": "佛罗伦斯岛",
+    "name_en": "Flores Island",
+    "lat": -8.591,
+    "lon": 120.63,
+    "country": "印尼",
+    "region": "亞洲",
+    "quote": "然后他从巴厘岛坐飞机去，有一个叫做佛罗伦斯岛",
+    "context": "前往观看科莫多龙的主要门户岛屿。"
+  },
+  {
+    "name": "苏门答腊岛",
+    "name_en": "Sumatra",
+    "lat": -0.589,
+    "lon": 101.343,
+    "country": "印尼",
+    "region": "亞洲",
+    "quote": "最西的是苏门达腊",
+    "context": "印尼最西边的大岛。"
+  },
+  {
+    "name": "婆罗洲",
+    "name_en": "Borneo",
+    "lat": 0.961,
+    "lon": 114.554,
+    "country": "印尼",
+    "region": "亞洲",
+    "quote": "婆罗洲是有三个国家，它只配了印尼 马来西亚 跟一个很小的国家叫温来",
+    "context": "由印尼、马来西亚及文莱三国分享的巨大岛屿。"
+  },
+  {
+    "name": "苏拉威西岛",
+    "name_en": "Sulawesi",
+    "lat": -1.43,
+    "lon": 121.445,
+    "country": "印尼",
+    "region": "亞洲",
+    "quote": "它的形状有点像兰花...大部分的时候，它长得像一个K",
+    "context": "讨论其独特的地理形状及主要城市分布。"
+  },
+  {
+    "name": "新几内亚岛",
+    "name_en": "New Guinea",
+    "lat": -5.0,
+    "lon": 140.0,
+    "country": "印尼",
+    "region": "亞洲",
+    "quote": "然后再往东的话，就是第五大岛，新吉内亚岛",
+    "context": "印尼最东端的大岛，由印尼与巴布亚新几内亚共有。"
+  },
+  {
+    "name": "查亚普拉",
+    "name_en": "Jayapura",
+    "lat": -2.591,
+    "lon": 140.669,
+    "country": "印尼",
+    "region": "亞洲",
+    "quote": "飞往印尼最东部的领土，伊利安查亚的首府",
+    "context": "印尼最东部的首府城市，展现印尼跨度之大。"
+  },
+  {
+    "name": "喜马拉雅山脉",
+    "name_en": "Himalayas",
+    "lat": 27.988,
+    "lon": 86.925,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "达兰萨达是比较靠近喜马达亚山",
+    "context": "描述达兰萨拉所处的地理位置背景。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Himalayas_and_allied_ranges_NASA_Landsat_showing_the_eight_thousanders%2C_annotated_with_major_rivers.jpg/330px-Himalayas_and_allied_ranges_NASA_Landsat_showing_the_eight_thousanders%2C_annotated_with_major_rivers.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  }
+]

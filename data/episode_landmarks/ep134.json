@@ -1,0 +1,82 @@
+[
+  {
+    "name": "奧斯維辛集中營",
+    "name_en": "Auschwitz Concentration Camp",
+    "lat": 50.027,
+    "lon": 19.204,
+    "country": "波蘭",
+    "region": "歐洲",
+    "quote": "所以我們現在來談談奧斯維辛集中營。這應該算是納粹當初建立的集中營中目前還保留下來中最有名。",
+    "context": "節目討論的核心主題，納粹最大的集中營遺址。"
+  },
+  {
+    "name": "奧斯維辛一號營",
+    "name_en": "Auschwitz I",
+    "lat": 50.027,
+    "lon": 19.204,
+    "country": "波蘭",
+    "region": "歐洲",
+    "quote": "一號營其實主要是政治犯，還有所謂交換營的人比較多。",
+    "context": "奧斯維辛集中營的第一部分，主要關押政治犯。"
+  },
+  {
+    "name": "「勞動帶來自由」大門",
+    "name_en": "Arbeit Macht Frei Gate",
+    "lat": 50.027,
+    "lon": 19.204,
+    "country": "波蘭",
+    "region": "歐洲",
+    "quote": "他那個門就有寫著德文寫著勞動可以帶來自由，就是 Arbeit Macht Frei。",
+    "context": "集中營入口處標誌性的門，帶有諷刺意味的標語。"
+  },
+  {
+    "name": "奧斯維辛二號營（比克瑙）",
+    "name_en": "Auschwitz II-Birkenau",
+    "lat": 50.035,
+    "lon": 19.178,
+    "country": "波蘭",
+    "region": "歐洲",
+    "quote": "二號營基本上是真的是來來屠殺的，它會把它有一區是有分化了。",
+    "context": "規模更大的二號營，主要作為大規模屠殺中心。"
+  },
+  {
+    "name": "達豪集中營",
+    "name_en": "Dachau Concentration Camp",
+    "lat": 48.27,
+    "lon": 11.468,
+    "country": "德國",
+    "region": "歐洲",
+    "quote": "但是我去過達豪集中營，他在巴伐利亞。那個集中營相較比較小。",
+    "context": "講者提到曾去過的另一個位於德國的集中營。"
+  },
+  {
+    "name": "大安森林公園",
+    "name_en": "Daan Forest Park",
+    "lat": 25.032,
+    "lon": 121.536,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "第1號營它的大小，我覺得大約就是一個大安森林公園的大小。",
+    "context": "講者用來對比集中營面積的台灣知名公園。"
+  },
+  {
+    "name": "紅毛城",
+    "name_en": "Fort San Domingo",
+    "lat": 25.175,
+    "lon": 121.433,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "就像你小時候你去過紅毛城，然後你長大就不見得會自己想要一直去。",
+    "context": "被提及作為歷史教育旅遊點的類比景點。"
+  },
+  {
+    "name": "華山1914文化創意產業園區",
+    "name_en": "Huashan 1914 Creative Park",
+    "lat": 25.044,
+    "lon": 121.529,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "我覺得蠻像華山裡面的建築，對對對對，華山裡面不是倉庫嗎？",
+    "context": "講者用來對比集中營紅磚倉庫建築風格的場所。"
+  }
+]
