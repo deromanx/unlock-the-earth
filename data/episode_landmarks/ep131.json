@@ -3,34 +3,21 @@
     "name": "華盛頓大學",
     "name_en": "University of Washington",
     "lat": 47.655,
-    "lon": -122.308,
+    "lon": -122.303,
     "country": "美國",
     "region": "美洲",
-    "quote": "我在那個華盛頓，美國的華盛頓大學，在西雅圖認識了我那時候的男朋友",
-    "context": "講者高中時期參加短期留學並在此認識初戀男友。",
-    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/University_of_Washington_seal.svg/330px-University_of_Washington_seal.svg.png"
+    "quote": "美国的华盛顿大学",
+    "context": "Iris高中時去短期留學並認識第一任韓國男友的地方"
   },
   {
     "name": "中央大學",
     "name_en": "Chung-Ang University",
     "lat": 37.505,
     "lon": 126.957,
-    "country": "南韓",
+    "country": "韓國",
     "region": "亞洲",
-    "quote": "我去的是首爾的中央大學，聽起來蠻丟的",
-    "context": "講者大學時期前往韓國參加短期留學課程的地點。",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/CAU_emblem.png/330px-CAU_emblem.png"
-  },
-  {
-    "name": "東海大學",
-    "name_en": "Tunghai University",
-    "lat": 24.181,
-    "lon": 120.603,
-    "country": "台灣",
-    "region": "台灣",
-    "quote": "哦 by the way 我是讀東海大學的",
-    "context": "講者在台灣就讀的母校。",
-    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Tunghai_University_logo.svg/330px-Tunghai_University_logo.svg.png"
+    "quote": "我去的是首尔的中央大学",
+    "context": "Iris大學時期前往韓國短期留學的學校"
   },
   {
     "name": "桃園國際機場",
@@ -39,8 +26,7 @@
     "lon": 121.234,
     "country": "台灣",
     "region": "台灣",
-    "quote": "說我看，桃圓機場，怎麼這麼漂亮",
-    "context": "講者藉由機場的現代化程度討論台韓經濟發展變遷。",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Taoyuan_International_Airport.jpg/330px-Taoyuan_International_Airport.jpg"
+    "quote": "桃圆机场",
+    "context": "韓國長輩早年來台時對台灣繁華程度的深刻印象"
   }
 ]

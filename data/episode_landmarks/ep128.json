@@ -1,53 +1,32 @@
 [
   {
+    "name": "西藏村",
+    "name_en": "Majnu-ka-tilla / Tibetan Colony",
+    "lat": 28.701,
+    "lon": 77.227,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "德里也有一個 嗯 就有個底啦 西藏村",
+    "context": "位於德里的流亡藏人聚落，被形容為德里小綠洲"
+  },
+  {
     "name": "班公錯",
     "name_en": "Pangong Tso",
     "lat": 33.722,
     "lon": 78.898,
     "country": "印度",
     "region": "亞洲",
-    "quote": "那个场景就是拉达克的办公厕 对 办公厕 就是办公湖 那个地方",
-    "context": "電影《三個傻瓜》最後場景的拍攝地"
-  },
-  {
-    "name": "德里西藏村",
-    "name_en": "Majnu-ka-tilla",
-    "lat": 28.7,
-    "lon": 77.227,
-    "country": "印度",
-    "region": "亞洲",
-    "quote": "德里也有一个 嗯 就有个底啦 西藏村",
-    "context": "德里市區內的流亡藏人聚落，被形容為小綠洲"
-  },
-  {
-    "name": "甘孜",
-    "name_en": "Garze",
-    "lat": 31.621,
-    "lon": 99.992,
-    "country": "中國",
-    "region": "亞洲",
-    "quote": "我以前在甘孜的地区的时候 看过超爆多牦牛",
-    "context": "講者曾經見到大量犛牛的藏區城鎮"
+    "quote": "那個場景就是拉達克的辦公廁 對 辦公廁 就是辦公湖",
+    "context": "電影《三個傻瓜》的結尾場景，主持人對拉達克的第一印象"
   },
   {
     "name": "列城",
     "name_en": "Leh",
-    "lat": 34.152,
-    "lon": 77.577,
+    "lat": 34.164,
+    "lon": 77.584,
     "country": "印度",
     "region": "亞洲",
-    "quote": "大大克的那个列城 或者是DH 的那个 population比较低这样子",
-    "context": "拉達克當地人口較少的城鎮，容易受外來人口衝擊"
-  },
-  {
-    "name": "納蘭陀大學",
-    "name_en": "Nalanda University",
-    "lat": 25.136,
-    "lon": 85.444,
-    "country": "印度",
-    "region": "亞洲",
-    "quote": "其实去天主这个地方 当时那个纳烂陀大学 应该是",
-    "context": "古代僧人玄奘等人前往天竺求法經過的歷史地標",
-    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Nalanda_Uni_Logo.svg/330px-Nalanda_Uni_Logo.svg.png"
+    "quote": "大大克的那個列城 或者是DH 的他們的那個 population比較低這樣子",
+    "context": "拉達克當地的小城市，因大量觀光客湧入面臨環境衝擊"
   }
 ]

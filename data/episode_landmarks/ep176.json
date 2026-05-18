@@ -2,41 +2,21 @@
   {
     "name": "大稻埕",
     "name_en": "Dadaocheng",
-    "lat": 25.057,
-    "lon": 121.511,
+    "lat": 25.056,
+    "lon": 121.51,
     "country": "台灣",
     "region": "台灣",
-    "quote": "我工作室在大稻埕",
-    "context": "受訪者工作室所在地，是其印度文化表演與練習的核心基地。"
+    "quote": "你是住大稻埕嗎?還是只有工作室在大稻埕?",
+    "context": "來賓開設印度文化工作室的地點"
   },
   {
-    "name": "三重區",
-    "name_en": "Sanchong District",
-    "lat": 25.063,
-    "lon": 121.491,
-    "country": "台灣",
-    "region": "台灣",
-    "quote": "一半住在大稻埕,一半住在一橋之隔的三重",
-    "context": "受訪者的居住地點，鄰近其位於大稻埕的工作室。"
-  },
-  {
-    "name": "印度國立卡塔克舞蹈學院",
+    "name": "國立卡塔克舞蹈學院",
     "name_en": "Kathak Kendra",
-    "lat": 28.595,
-    "lon": 77.185,
+    "lat": 28.586,
+    "lon": 77.19,
     "country": "印度",
     "region": "亞洲",
-    "quote": "如果你在Katakendra,就是他們國立的Katak的學院的話",
-    "context": "印度官方設立的舞蹈學院，提供卡塔克舞與相關樂器的培訓。"
-  },
-  {
-    "name": "台北市立教育大學",
-    "name_en": "Taipei Municipal University of Education",
-    "lat": 25.035,
-    "lon": 121.515,
-    "country": "台灣",
-    "region": "台灣",
-    "quote": "我的第一個大學是那個台北市立教育大學",
-    "context": "受訪者的母校，現已合併為台北市立大學愛國西路校區。"
+    "quote": "如果你在Katakendra就是他們國立的Katak的學院的話",
+    "context": "提及印度國立舞蹈學院的課程與學制"
   }
 ]

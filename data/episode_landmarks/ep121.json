@@ -2,41 +2,11 @@
   {
     "name": "中央警察大學",
     "name_en": "Central Police University",
-    "lat": 25.044,
-    "lon": 121.378,
+    "lat": 25.047,
+    "lon": 121.383,
     "country": "台灣",
     "region": "台灣",
-    "quote": "那我已经在警大读资讯管理系，已经在台湾三年了",
-    "context": "講者 Hector 在台灣留學並就讀的學校"
-  },
-  {
-    "name": "亞松生",
-    "name_en": "Asunción",
-    "lat": -25.263,
-    "lon": -57.575,
-    "country": "巴拉圭",
-    "region": "美洲",
-    "quote": "巴拉圭的首都叫做亚松生",
-    "context": "巴拉圭的首都與講者的家鄉"
-  },
-  {
-    "name": "卡庫佩聖母聖殿",
-    "name_en": "Basilica of Our Lady of Miracles, Caacupé",
-    "lat": -25.385,
-    "lon": -57.141,
-    "country": "巴拉圭",
-    "region": "美洲",
-    "quote": "那天很多人会到教堂那边拜拜，政府特别会举办一个活动",
-    "context": "12月8日聖母節最重要的全國朝聖地標"
-  },
-  {
-    "name": "東方市",
-    "name_en": "Ciudad del Este",
-    "lat": -25.509,
-    "lon": -54.611,
-    "country": "巴拉圭",
-    "region": "美洲",
-    "quote": "很多东方式的人，也是比如说骑脚踏车到那个教堂",
-    "context": "巴拉圭第二大城，當地居民也會前往朝聖"
+    "quote": "那我已经在警大读资讯管理系",
+    "context": "來賓在台灣留學就讀的學校"
   }
 ]

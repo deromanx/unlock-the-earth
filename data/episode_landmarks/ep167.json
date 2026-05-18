@@ -1,55 +1,12 @@
 [
   {
     "name": "夏威夷大學",
-    "name_en": "University of Hawaiʻi at Mānoa",
-    "lat": 21.297,
+    "name_en": "University of Hawaii",
+    "lat": 21.299,
     "lon": -157.819,
     "country": "美國",
     "region": "大洋洲",
     "quote": "我就想說夏威夷大學其實是一個非常好的地方",
-    "context": "講者在此研究島嶼觀點及南島語族文化。"
-  },
-  {
-    "name": "基隆軍港",
-    "name_en": "Keelung Naval Port",
-    "lat": 25.132,
-    "lon": 121.745,
-    "country": "台灣",
-    "region": "台灣",
-    "quote": "因為基隆它就是有軍港，所以就是你就沒有辦法去靠近海邊",
-    "context": "說明基隆因軍事管制影響在地人與海洋的互動。"
-  },
-  {
-    "name": "復活節島",
-    "name_en": "Easter Island",
-    "lat": -27.112,
-    "lon": -109.349,
-    "country": "智利",
-    "region": "大洋洲",
-    "quote": "最北是到夏威夷，然後最東邊就復活節島",
-    "context": "提及南島語族遷徙分布的最東端地理邊界。",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Easter_Island_5.jpg/330px-Easter_Island_5.jpg"
-  },
-  {
-    "name": "關島",
-    "name_en": "Guam",
-    "lat": 13.444,
-    "lon": 144.793,
-    "country": "美國",
-    "region": "大洋洲",
-    "quote": "我2016年的時候去關島參加一個太平洋藝術節",
-    "context": "講者觀察南島文化藝術交流與差異的地點。",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Flag_of_Guam.svg/330px-Flag_of_Guam.svg.png"
-  },
-  {
-    "name": "大溪地",
-    "name_en": "Tahiti",
-    "lat": -17.65,
-    "lon": -149.426,
-    "country": "法國",
-    "region": "大洋洲",
-    "quote": "你會碰到很多其他波里尼西亞來的人，比如說大溪地",
-    "context": "描述夏威夷作為南島語族群匯聚地的多樣性。",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Tahiti.svg/330px-Flag_of_Tahiti.svg.png"
+    "context": "來賓選擇出國留學以探索南島語族觀點的學校"
   }
 ]

@@ -1,72 +1,52 @@
 [
   {
-    "name": "草悟道廣場B區",
-    "name_en": "Calligraphy Greenway Square Area B",
+    "name": "草悟道廣場 B 區",
+    "name_en": "Calligraphy Greenway Plaza Area B",
     "lat": 24.1501,
-    "lon": 120.6657,
+    "lon": 120.6632,
     "country": "台灣",
     "region": "台灣",
-    "quote": "在台中市草务道广场B区 为这些用心的创业青年举办颁奖典礼进行表扬",
-    "context": "台中青年創業品牌頒獎典禮的地點"
+    "quote": "10月13號下午2點 在台中市草務道廣場B區 為這些用心的創業青年舉辦頒獎典禮",
+    "context": "台中青年創業品牌活動的頒獎典禮與市集舉辦地點。"
   },
   {
     "name": "草悟道",
     "name_en": "Calligraphy Greenway",
     "lat": 24.1512,
-    "lon": 120.6641,
+    "lon": 120.6635,
     "country": "台灣",
     "region": "台灣",
-    "quote": "欢迎大家到台中市最绿意盎然的草务道 共同支持在地优质的新创品牌",
-    "context": "台中市具綠意的休閒與市集舉辦地"
+    "quote": "歡迎大家到台中市最綠意盎然的草務道 共同支持在地優質的新創品牌",
+    "context": "台中著名的帶狀景觀空間，本集活動推廣的重點區域。"
   },
   {
     "name": "大嶼山",
     "name_en": "Lantau Island",
-    "lat": 22.2572,
-    "lon": 113.9245,
-    "country": "中國",
+    "lat": 22.2533,
+    "lon": 113.9482,
+    "country": "香港",
     "region": "亞洲",
-    "quote": "坐车到机场 机场它的地点就在大雨山 大雨山其实本身就是一个 非常有名的爬山的地方",
-    "context": "香港著名爬山地點及機場所在地"
+    "quote": "機場它的地點就在大雨山 大雨山其實本身就是一个非常有名的爬山的地方",
+    "context": "香港第一大島，是本集討論香港登山的核心區域與背景。"
   },
   {
     "name": "鳳凰山",
     "name_en": "Lantau Peak",
-    "lat": 22.2504,
-    "lon": 113.9168,
-    "country": "中國",
+    "lat": 22.2491,
+    "lon": 113.9175,
+    "country": "香港",
     "region": "亞洲",
-    "quote": "香港的第二高峰叫做凤凰山 其实就在大雨山",
-    "context": "香港第二高峰，受歡迎的登山路徑"
-  },
-  {
-    "name": "陽明山",
-    "name_en": "Yangmingshan",
-    "lat": 25.1604,
-    "lon": 121.5508,
-    "country": "台灣",
-    "region": "台灣",
-    "quote": "甚至比阳明山大茂山 可能还要再矮一点",
-    "context": "用來與香港山岳對比高度的台灣名山"
+    "quote": "香港的第二高峰叫做鳳凰山，其實就在大雨山",
+    "context": "香港第二高峰，來賓詳細分享了在此攀登的個人經驗。"
   },
   {
     "name": "大帽山",
     "name_en": "Tai Mo Shan",
     "lat": 22.4116,
-    "lon": 114.1221,
-    "country": "中國",
+    "lon": 114.123,
+    "country": "香港",
     "region": "亞洲",
-    "quote": "甚至比阳明山大茂山 可能还要再矮一点",
-    "context": "香港最高峰，用於討論山岳高度對比"
-  },
-  {
-    "name": "香港迪士尼樂園",
-    "name_en": "Hong Kong Disneyland",
-    "lat": 22.313,
-    "lon": 114.0413,
-    "country": "中國",
-    "region": "亞洲",
-    "quote": "Disneyland 什么都玩完了之后 就会觉得香港很无聊",
-    "context": "提到的常見香港觀光景點"
+    "quote": "甚至比陽明山大茂山 可能還要再矮一點",
+    "context": "香港最高峰，被提及用於比較香港與台灣山岳的高度。"
   }
 ]

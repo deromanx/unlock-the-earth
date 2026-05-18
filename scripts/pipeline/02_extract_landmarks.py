@@ -23,7 +23,7 @@ Usage:
   python3 scripts/pipeline/02_extract_landmarks.py --ep 266     # single episode
   python3 scripts/pipeline/02_extract_landmarks.py --start 200  # from ep 200
 """
-import json, subprocess, sys, argparse, re, time
+import json, os, subprocess, sys, argparse, re, time
 from pathlib import Path
 
 ROOT            = Path(__file__).parent.parent.parent
@@ -99,10 +99,13 @@ def extract_landmarks(ep_num, prompt_template=GEMINI_PROMPT_TEMPLATE, min_releva
 
     prompt = prompt_template.format(ep_num=ep_num, transcript=text)
 
+    # Clear NODE_OPTIONS to prevent Claude Code's temp file from breaking Gemini CLI
+    clean_env = {k: v for k, v in os.environ.items() if k != 'NODE_OPTIONS'}
     try:
         result = subprocess.run(
             ['gemini', '-p', prompt],
-            capture_output=True, text=True, timeout=300
+            capture_output=True, text=True, timeout=300,
+            env=clean_env,
         )
         if result.returncode != 0:
             print(f"  Gemini error: {result.stderr[:200]}")

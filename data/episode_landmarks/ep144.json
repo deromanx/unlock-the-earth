@@ -1,108 +1,42 @@
 [
   {
-    "name": "大英博物館",
-    "name_en": "British Museum",
-    "lat": 51.519,
-    "lon": -0.127,
-    "country": "英國",
-    "region": "歐洲",
-    "quote": "我媽媽有一次就帶我去看一個 博物館的那種 大英博物館來台灣的古埃及展覽",
-    "context": "其古埃及展覽啟發了講者對埃及的嚮往。"
-  },
-  {
-    "name": "吉薩",
-    "name_en": "Giza",
-    "lat": 30.013,
-    "lon": 31.208,
-    "country": "埃及",
-    "region": "非洲",
-    "quote": "尼羅河的西岸叫做吉薩 喔 吉薩 金字塔的吉薩",
-    "context": "尼羅河西岸行政區，金字塔所在地。",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Giza-Nile.JPG/330px-Giza-Nile.JPG?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "吉薩金字塔",
-    "name_en": "Giza Pyramid Complex",
+    "name": "吉薩金字塔群",
+    "name_en": "Giza Pyramids",
     "lat": 29.979,
     "lon": 31.134,
     "country": "埃及",
     "region": "非洲",
-    "quote": "吉薩金字塔 但有人又會說 哎 金字塔在開羅 你就會想說 啊 金字塔到底在哪裡 結果後來發現是吉薩",
-    "context": "舉世聞名的建築，講者對其規模感到震撼。",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Pyramids_of_the_Giza_Necropolis.jpg/330px-Pyramids_of_the_Giza_Necropolis.jpg"
+    "quote": "所以大家會說吉薩金字塔",
+    "context": "本集主要討論的古埃及奇觀與旅遊體驗"
   },
   {
     "name": "薩卡拉",
     "name_en": "Saqqara",
     "lat": 29.871,
-    "lon": 31.214,
+    "lon": 31.216,
     "country": "埃及",
     "region": "非洲",
-    "quote": "去開羅的話 其實蠻推薦大家往開羅南部大概開車30分鐘的地方 有個地方叫做薩卡拉",
-    "context": "位於開羅南部，擁有許多金字塔與陵墓。",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Saqqara_pyramid_ver_2.jpg/330px-Saqqara_pyramid_ver_2.jpg"
+    "quote": "往開羅南部大概開車30分鐘的地方有個地方叫做薩卡拉",
+    "context": "強烈推薦前往參觀的另一處金字塔遺址"
   },
   {
-    "name": "階梯金字塔",
-    "name_en": "Step Pyramid of Djoser",
+    "name": "左塞爾階梯金字塔",
+    "name_en": "Pyramid of Djoser",
     "lat": 29.871,
     "lon": 31.216,
     "country": "埃及",
     "region": "非洲",
-    "quote": "第一個金字塔在這邊就叫階梯金字塔",
-    "context": "由印和殿設計，是歷史上第一座金字塔。",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Saqqara_pyramid_ver_2.jpg/330px-Saqqara_pyramid_ver_2.jpg"
-  },
-  {
-    "name": "亞斯文",
-    "name_en": "Aswan",
-    "lat": 24.089,
-    "lon": 32.899,
-    "country": "埃及",
-    "region": "非洲",
-    "quote": "往南我有先去了亞斯文 後來又去了盧克索",
-    "context": "尼羅河上游城市，講者南下的第一站。",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Panoramic_view_of_Aswan%2C_Egypt.jpg/330px-Panoramic_view_of_Aswan%2C_Egypt.jpg"
-  },
-  {
-    "name": "盧克索",
-    "name_en": "Luxor",
-    "lat": 25.687,
-    "lon": 32.64,
-    "country": "埃及",
-    "region": "非洲",
-    "quote": "往南我有先去了亞斯文 後來又去了盧克索",
-    "context": "尼羅河上游重要景點，古稱迪比斯。",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/LuxorHotelsIbnWalidSt.jpg/330px-LuxorHotelsIbnWalidSt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "迪比斯",
-    "name_en": "Thebes",
-    "lat": 25.721,
-    "lon": 32.61,
-    "country": "埃及",
-    "region": "非洲",
-    "quote": "盧克索 如果要用他的古字來說 叫做迪比斯",
-    "context": "盧克索的古稱，與古埃及歷史相關。"
+    "quote": "那第一個金字塔在這邊就叫階梯金字塔",
+    "context": "介紹歷史上第一座金字塔的外觀與建造者"
   },
   {
     "name": "死者之城",
     "name_en": "City of the Dead",
-    "lat": 30.046,
-    "lon": 31.272,
+    "lat": 30.044,
+    "lon": 31.275,
     "country": "埃及",
     "region": "非洲",
-    "quote": "但我想要特別介紹的是死者之城",
-    "context": "活人與死人共生的巨大公墓社區。"
-  },
-  {
-    "name": "開羅老城區",
-    "name_en": "Old Cairo",
-    "lat": 30.006,
-    "lon": 31.23,
-    "country": "埃及",
-    "region": "非洲",
-    "quote": "就在開羅老城區的東方大概 開車大概5到10分鐘的路程",
-    "context": "開羅的歷史核心區域，靠近死者之城。"
+    "quote": "有一個地方叫做死者之城",
+    "context": "介紹開羅特殊的活人與死者共居的龐大公墓社區"
   }
 ]

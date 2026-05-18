@@ -2,128 +2,91 @@
   {
     "name": "種族隔離博物館",
     "name_en": "Apartheid Museum",
-    "lat": -26.236,
-    "lon": 28.008,
+    "lat": -26.237,
+    "lon": 28.002,
     "country": "南非",
     "region": "非洲",
-    "quote": "約翰尼斯堡要看的東西很多，有一個必看的就是那個種族隔離博物館",
-    "context": "記錄南非種族隔離歷史的重要博物館，是遊客必訪地標。",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/South_Africa-Johannesburg-Apartheid_Museum001.jpg/330px-South_Africa-Johannesburg-Apartheid_Museum001.jpg"
+    "quote": "有一個必看的就是那個種族隔離博物館",
+    "context": "探討南非種族隔離歷史與曼德拉的抗爭"
   },
   {
     "name": "索維托",
     "name_en": "Soweto",
-    "lat": -26.241,
-    "lon": 27.854,
+    "lat": -26.267,
+    "lon": 27.858,
     "country": "南非",
     "region": "非洲",
-    "quote": "有個全世界最大的那個平民窟，叫做Soweto",
-    "context": "南非著名的城區，具有深厚的政治歷史背景與觀光團行程。",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Soweto-002.jpg/330px-Soweto-002.jpg"
+    "quote": "叫做Soweto",
+    "context": "參加當地的導覽團，了解當地生活與歷史"
   },
   {
-    "name": "奧蘭多塔 (廢棄火力發電廠)",
+    "name": "奧蘭多發電廠 (索維托火力發電廠)",
     "name_en": "Orlando Towers",
-    "lat": -26.253,
-    "lon": 27.925,
+    "lat": -26.254,
+    "lon": 27.926,
     "country": "南非",
     "region": "非洲",
-    "quote": "它是一個火力發電廠。它是一個廢棄的火力發電廠。那廢棄之後變成什麼？高空彈跳的地方",
-    "context": "位於索維托的廢棄發電廠，現改建為極限運動與彩繪地標。",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Soweto_Cooling_Towers.JPG/330px-Soweto_Cooling_Towers.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    "quote": "它是一個廢棄的火力發電廠",
+    "context": "體驗在兩座火力發電廠中間的高空彈跳"
   },
   {
     "name": "曼德拉故居",
     "name_en": "Mandela House",
     "lat": -26.238,
-    "lon": 27.909,
+    "lon": 27.904,
     "country": "南非",
     "region": "非洲",
-    "quote": "在Soweto那邊，你還可以去一個地方叫做曼德拉紀念館",
-    "context": "曼德拉在索維托的舊居，展示其生活痕跡與紀念物品。",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Mandela_museum_soweto.jpg/330px-Mandela_museum_soweto.jpg"
-  },
-  {
-    "name": "索維托中央市場",
-    "name_en": "Soweto Central Market",
-    "lat": -26.262,
-    "lon": 27.936,
-    "country": "南非",
-    "region": "非洲",
-    "quote": "我們先抵達他的那個中央市場，其實看起來還蠻乾淨的",
-    "context": "索維托城區內的在地市場，是參與當地團導覽的第一站。"
-  },
-  {
-    "name": "獅子與遊獵公園",
-    "name_en": "Lion & Safari Park",
-    "lat": -25.845,
-    "lon": 27.887,
-    "country": "南非",
-    "region": "非洲",
-    "quote": "約翰尼斯堡近郊的一個野生動物園吧...你在那邊可以跟獅子或者是跟獵豹一起漫步",
-    "context": "位於約堡近郊，可與獵豹漫步及觸摸小獅子的半野生景點。",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Tamed_Cheetah_in_Lion_Park%2C_Johannesburg%2C_South_Africa.JPG/330px-Tamed_Cheetah_in_Lion_Park%2C_Johannesburg%2C_South_Africa.JPG"
+    "quote": "他那邊也有曼德拉紀念館",
+    "context": "參觀曼德拉曾經生活的住所及遺物"
   },
   {
     "name": "桌山",
     "name_en": "Table Mountain",
     "lat": -33.962,
-    "lon": 18.413,
+    "lon": 18.409,
     "country": "南非",
     "region": "非洲",
-    "quote": "你知聽過那個table mountain嗎？...上帝的餐桌。它就是四平八文啊",
-    "context": "開普敦最具代表性的地標，山頂平坦如桌，可搭纜車俯瞰。",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Table_Mountain_DanieVDM.jpg/330px-Table_Mountain_DanieVDM.jpg"
+    "quote": "你知聽過那個table mountain嗎",
+    "context": "開普敦的著名地標，平頂山"
   },
   {
-    "name": "杜克島 (海豹島)",
-    "name_en": "Duiker Island",
-    "lat": -34.058,
-    "lon": 18.324,
+    "name": "海豹島",
+    "name_en": "Seal Island",
+    "lat": -34.137,
+    "lon": 18.582,
     "country": "南非",
     "region": "非洲",
-    "quote": "因為我太靠近那個海豹島了嘛，它在那邊曬太陽",
-    "context": "開普敦附近棲息大量海豹的小島，遊客可在此進行潛水體驗。",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Fur_Seals_on_Duiker_Island.JPG/330px-Fur_Seals_on_Duiker_Island.JPG"
-  },
-  {
-    "name": "博爾德斯海灘 (企鵝灘)",
-    "name_en": "Boulders Beach",
-    "lat": -34.197,
-    "lon": 18.451,
-    "country": "南非",
-    "region": "非洲",
-    "quote": "在那邊還可以看到野生的企鵝...走一走就看到三四百隻的企鵝躺在那邊",
-    "context": "位於好望角附近，以能近距離觀察野生非洲企鵝聞名的海灘。"
+    "quote": "我太靠近那個海豹島了嘛",
+    "context": "在開普敦海域與海豹一起潛水"
   },
   {
     "name": "好望角",
     "name_en": "Cape of Good Hope",
-    "lat": -34.358,
+    "lat": -34.356,
     "lon": 18.471,
     "country": "南非",
     "region": "非洲",
-    "quote": "剛有說好望角，你可以去好望角那邊拍拍照。對它其實是非洲最西南的一個地方",
-    "context": "非洲大陸著名的地標，是遊客抵達開普敦必訪的地理標誌。"
+    "quote": "應該在那個好望角那邊",
+    "context": "觀賞野生企鵝及拍照打卡的景點"
   },
   {
     "name": "羅本島",
     "name_en": "Robben Island",
     "lat": -33.807,
-    "lon": 18.371,
+    "lon": 18.369,
     "country": "南非",
     "region": "非洲",
-    "quote": "有個地方叫Ruban Island，那邊是關曼德拉的地方",
-    "context": "世界文化遺產，曾是關押曼德拉的監獄，現由更生人擔任導覽。"
+    "quote": "有個地方叫Ruban Island",
+    "context": "曼德拉被囚禁的地方，由前獄友擔任導遊"
   },
   {
     "name": "克魯格國家公園",
     "name_en": "Kruger National Park",
-    "lat": -24.011,
-    "lon": 31.485,
+    "lat": -23.988,
+    "lon": 31.554,
     "country": "南非",
     "region": "非洲",
-    "quote": "我去克魯格國家公園，參加五天四夜的團。只要一萬六",
-    "context": "南非最大的野生動物保護區，是尋找「非洲五霸」的最佳場所。"
+    "quote": "但是呢我去克福哥國家公園",
+    "context": "參加 Safari 尋找非洲五霸"
   }
 ]

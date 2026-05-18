@@ -1,34 +1,33 @@
 [
   {
+    "name": "聖伊格納西奧",
+    "name_en": "San Ignacio",
+    "lat": 17.159,
+    "lon": -89.071,
+    "country": "貝里斯",
+    "region": "美洲",
+    "quote": "叫Saint Ignatium",
+    "context": "講者參與瑪雅考古所在的城鎮"
+  },
+  {
+    "name": "ATM洞穴",
+    "name_en": "Actun Tunichil Muknal",
+    "lat": 17.097,
+    "lon": -88.864,
+    "country": "貝里斯",
+    "region": "美洲",
+    "quote": "ATM CAVE",
+    "context": "貝里斯的洞穴考古遺址，內部有活人獻祭的遺跡"
+  },
+  {
     "name": "蒂卡爾",
     "name_en": "Tikal",
     "lat": 17.222,
     "lon": -89.623,
     "country": "瓜地馬拉",
     "region": "美洲",
-    "quote": "瓜里馬拉最大的考古遺址是蒂卡爾",
-    "context": "瓜地馬拉境內規模最大的遺址，曾有五到十萬人居住。",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Tikal_3.jpg/330px-Tikal_3.jpg"
-  },
-  {
-    "name": "聖伊格納修",
-    "name_en": "San Ignacio",
-    "lat": 17.158,
-    "lon": -89.071,
-    "country": "貝里斯",
-    "region": "美洲",
-    "quote": "貝里斯西部的第一大城，叫Saint Ignatium",
-    "context": "貝里斯西部主要城鎮，鄰近許多親民且規劃良好的考古遺址。"
-  },
-  {
-    "name": "ATM洞穴",
-    "name_en": "Actun Tunichil Muknal",
-    "lat": 17.114,
-    "lon": -88.981,
-    "country": "貝里斯",
-    "region": "美洲",
-    "quote": "有一個叫ATM，ATM CAVE，就好像潛水進去然後再浮出來",
-    "context": "貝里斯著名的洞穴考古遺址，古代瑪雅人曾在此活人獻祭。"
+    "quote": "萬里馬拉最大的考古遺址是蒂卡爾",
+    "context": "作為巨大瑪雅城邦的代表，曾被卡拉庫遺址打敗"
   },
   {
     "name": "卡拉庫",
@@ -38,27 +37,6 @@
     "country": "貝里斯",
     "region": "美洲",
     "quote": "在他的麻雅的地區有一個叫卡拉库的遺址",
-    "context": "貝里斯強大的瑪雅城邦，曾攻占蒂卡爾並處死其國王。"
-  },
-  {
-    "name": "奇琴伊察",
-    "name_en": "Chichen Itza",
-    "lat": 20.684,
-    "lon": -88.567,
-    "country": "墨西哥",
-    "region": "美洲",
-    "quote": "第一個想到通常就是，要嘛是齊琴依察，要嘛是蒂卡爾這種真的很大的",
-    "context": "著名的瑪雅古蹟，與蒂卡爾同為大眾最熟知的巨型遺址。",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/El_Castillo_Stitch_2008_Edit_1.jpg/330px-El_Castillo_Stitch_2008_Edit_1.jpg"
-  },
-  {
-    "name": "國立臺灣大學",
-    "name_en": "National Taiwan University",
-    "lat": 25.017,
-    "lon": 121.54,
-    "country": "台灣",
-    "region": "台灣",
-    "quote": "台大人類學系的教授就跟我們說，他們其實還有安排說去台大參訪",
-    "context": "講者與各國學者及官員進行瑪雅論壇交流的主要地點。"
+    "context": "貝里斯巨大的瑪雅城邦，英國王子曾去參訪"
   }
 ]

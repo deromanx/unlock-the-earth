@@ -1,116 +1,42 @@
 [
   {
-    "name": "塔配門",
-    "name_en": "Tha Phae Gate",
-    "lat": 18.7877,
-    "lon": 98.9932,
-    "country": "泰國",
-    "region": "亞洲",
-    "quote": "因為那個時候跟我同樣要去塔配門的一對中國母女",
-    "context": "提到在清邁搭乘雙條車時發生的地點與故事。",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Chiang_Mai_-_East_gate_of_the_city_wall_-_0001.jpg/330px-Chiang_Mai_-_East_gate_of_the_city_wall_-_0001.jpg"
-  },
-  {
-    "name": "阿威羅",
-    "name_en": "Aveiro",
-    "lat": 40.6405,
-    "lon": -8.6536,
-    "country": "葡萄牙",
-    "region": "歐洲",
-    "quote": "我走的路線是波多，再到阿威羅，然後里斯本",
-    "context": "講者葡萄牙行程中的第二站，被稱為葡萄牙威尼斯。",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Aveiro1.JPG/330px-Aveiro1.JPG?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
     "name": "杜羅河",
     "name_en": "Douro River",
-    "lat": 41.145,
-    "lon": -8.6141,
+    "lat": 41.14,
+    "lon": -8.614,
     "country": "葡萄牙",
     "region": "歐洲",
-    "quote": "波多是有那個杜羅河穿過的，杜羅河，一條河，一條河",
-    "context": "流經波多的河流，兩岸產出著名的波多酒。",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Rio_Douro_-_Portugal_%2832615481975%29_%28cropped%29.jpg/330px-Rio_Douro_-_Portugal_%2832615481975%29_%28cropped%29.jpg"
-  },
-  {
-    "name": "里斯本上層區",
-    "name_en": "Bairro Alto",
-    "lat": 38.7126,
-    "lon": -9.144,
-    "country": "葡萄牙",
-    "region": "歐洲",
-    "quote": "在里斯本的上層區，欸為什麼啊，這個便宜到不可思議啊",
-    "context": "提到該區域的酒水價格非常便宜且適合夜生活。",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Lisboa-Entrada_no_Bairro_Alto-20140917.jpg/330px-Lisboa-Entrada_no_Bairro_Alto-20140917.jpg"
+    "quote": "因為波多是 有那個 杜羅河穿過的",
+    "context": "提到杜羅河沿岸及上游有許多產波多酒的酒莊"
   },
   {
     "name": "路易一世大橋",
     "name_en": "Dom Luís I Bridge",
     "lat": 41.14,
-    "lon": -8.6095,
+    "lon": -8.609,
     "country": "葡萄牙",
     "region": "歐洲",
-    "quote": "路易儀式大橋嘛，其實是連接波多的舊城區",
-    "context": "連接波多舊城區與加亞新城的重要橋樑標誌。"
+    "quote": "祖景點有那個什麼 路易儀式大橋嘛 其實是連接波多的舊城區",
+    "context": "提及波多的主要景點，連接舊城區與新城區"
   },
   {
-    "name": "波多舊城區",
-    "name_en": "Ribeira District",
-    "lat": 41.1405,
-    "lon": -8.6115,
-    "country": "葡萄牙",
-    "region": "歐洲",
-    "quote": "其實是連接波多的舊城區，也就是很多古城、主教堂啊什麼的",
-    "context": "波多的歷史中心，擁有許多古老建築與教堂。"
-  },
-  {
-    "name": "加亞新城",
+    "name": "嘉雅新城",
     "name_en": "Vila Nova de Gaia",
-    "lat": 41.1333,
-    "lon": -8.6167,
+    "lat": 41.133,
+    "lon": -8.616,
     "country": "葡萄牙",
     "region": "歐洲",
-    "quote": "跟新城區，然後新城區叫那個嘉雅新城",
-    "context": "波多對岸的新城區，是波多酒主要的儲藏銷售地。"
+    "quote": "然後新城區叫那個 嘉雅新城",
+    "context": "提到波多酒的銷售區大多集中於此"
   },
   {
-    "name": "杜羅河谷",
-    "name_en": "Douro Valley",
-    "lat": 41.1614,
-    "lon": -7.7831,
+    "name": "阿威羅",
+    "name_en": "Aveiro",
+    "lat": 40.64,
+    "lon": -8.653,
     "country": "葡萄牙",
     "region": "歐洲",
-    "quote": "你如果不想要去杜羅河谷的上游，你想要就是單純參觀小酒莊的話",
-    "context": "葡萄牙著名的葡萄酒產區，位於杜羅河上游。"
-  },
-  {
-    "name": "龍坡邦",
-    "name_en": "Luang Prabang",
-    "lat": 19.8833,
-    "lon": 102.1333,
-    "country": "寮國",
-    "region": "亞洲",
-    "quote": "龍坡邦那裡嗎？我應該是在旺陽，龍坡邦也有很多",
-    "context": "提到在該地旅遊時見到大量的韓國觀光客。"
-  },
-  {
-    "name": "旺陽",
-    "name_en": "Vang Vieng",
-    "lat": 18.9333,
-    "lon": 102.45,
-    "country": "寮國",
-    "region": "亞洲",
-    "quote": "我應該是在旺陽，龍坡邦也有很多",
-    "context": "講者在寮國遇到眾多韓國遊客的特定城鎮。"
-  },
-  {
-    "name": "波多主教堂",
-    "name_en": "Porto Cathedral",
-    "lat": 41.1428,
-    "lon": -8.6111,
-    "country": "葡萄牙",
-    "region": "歐洲",
-    "quote": "也就是很多古城、主教堂啊什麼的",
-    "context": "波多舊城區內的重要宗教建築與景點。"
+    "quote": "如果你想要坡少一點 你要去的是 我的下一個城市阿威羅",
+    "context": "描述為地形平坦、有運河與彩繪船的小漁村"
   }
 ]

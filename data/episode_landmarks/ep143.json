@@ -1,73 +1,82 @@
 [
   {
-    "name": "塔美爾",
-    "name_en": "Thamel",
-    "lat": 27.714,
-    "lon": 85.311,
-    "country": "尼泊爾",
-    "region": "亞洲",
-    "quote": "我們大部分背包客 都會停在一個鬧區叫Tamiel",
-    "context": "加德滿都著名的背包客區，充滿青年旅館與夜店。"
-  },
-  {
     "name": "安納普納基地營",
     "name_en": "Annapurna Base Camp",
     "lat": 28.53,
     "lon": 83.878,
     "country": "尼泊爾",
     "region": "亞洲",
-    "quote": "所以我們為什麼講ABC跟EBC 就是Evers跟安納普納 Best Camp",
-    "context": "安納普納登山路線的終點站，海拔約4130公尺。"
+    "quote": "我們為什麼講ABC跟EBC，就是Evers跟安那普那 Best Camp",
+    "context": "本集講者前往尼泊爾健行的主要目的地"
   },
   {
     "name": "聖母峰基地營",
     "name_en": "Everest Base Camp",
-    "lat": 28.007,
-    "lon": 86.853,
+    "lat": 28.002,
+    "lon": 86.852,
     "country": "尼泊爾",
     "region": "亞洲",
-    "quote": "不管是爬聖母峰 基地 不管是查安那普那基地",
-    "context": "位於聖母峰腳下的基地，全球最著名的健行目的地之一。"
+    "quote": "第一個就是東邊的聖峰基地，然後一個是西邊的安納普納",
+    "context": "尼泊爾另一條知名的登山路線，作為對比"
   },
   {
-    "name": "布恩山",
-    "name_en": "Poon Hill",
-    "lat": 28.4,
-    "lon": 83.722,
+    "name": "塔美爾區",
+    "name_en": "Thamel",
+    "lat": 27.714,
+    "lon": 85.311,
     "country": "尼泊爾",
     "region": "亞洲",
-    "quote": "ABC它途中會經過一個叫Pong Hill",
-    "context": "安納普納健行路線中著名的觀景台，可眺望雪山群。"
-  },
-  {
-    "name": "魚尾峰",
-    "name_en": "Machhapuchhre",
-    "lat": 28.497,
-    "lon": 83.949,
-    "country": "尼泊爾",
-    "region": "亞洲",
-    "quote": "然後到魚尾峰 什麼都可以一圈看",
-    "context": "形狀獨特的聖山，是安納普納群山中最顯眼的標誌。"
+    "quote": "我們大部分背包客都會停在一個鬧區叫Tamiel",
+    "context": "背包客在加德滿都停留與尋找旅行社的主要街區"
   },
   {
     "name": "杜布羅夫尼克",
     "name_en": "Dubrovnik",
-    "lat": 42.64,
-    "lon": 18.11,
+    "lat": 42.65,
+    "lon": 18.094,
     "country": "克羅埃西亞",
     "region": "歐洲",
     "quote": "我就去了那個克羅來西亞的Dubonik",
-    "context": "講者在 Gap Year 期間從亞洲陸路前往歐洲時經過的城市。",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/The_walls_of_the_fortress_and_View_of_the_old_city._panorama.jpg/330px-The_walls_of_the_fortress_and_View_of_the_old_city._panorama.jpg"
+    "context": "講者去歐洲時選擇的旅遊地，提及當地交通拉車時間很長"
+  },
+  {
+    "name": "嘉明湖",
+    "name_en": "Jiaming Lake",
+    "lat": 23.292,
+    "lon": 121.034,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "大家在台灣去嘉明湖，中部或東部的山",
+    "context": "用來比較在台灣與尼泊爾登山的時間與花費差異"
   },
   {
     "name": "中尼公路",
-    "name_en": "Arniko Highway",
-    "lat": 27.954,
-    "lon": 85.882,
+    "name_en": "China-Nepal Highway",
+    "lat": 27.973,
+    "lon": 85.964,
     "country": "尼泊爾",
     "region": "亞洲",
     "quote": "喔對那個中尼公路直接開來",
-    "context": "連接西藏與加德滿都的重要公路，許多年輕遊客經此入尼。"
+    "context": "提到中國年輕遊客會包車從西藏經此路前往尼泊爾"
+  },
+  {
+    "name": "潘恩山",
+    "name_en": "Poon Hill",
+    "lat": 28.4,
+    "lon": 83.689,
+    "country": "尼泊爾",
+    "region": "亞洲",
+    "quote": "它途中會經過一個叫Pong Hill",
+    "context": "前往ABC途中會經過的觀景小山頭，適合新手體驗"
+  },
+  {
+    "name": "魚尾峰",
+    "name_en": "Machapuchare",
+    "lat": 28.495,
+    "lon": 83.948,
+    "country": "尼泊爾",
+    "region": "亞洲",
+    "quote": "就是從ABC10的山脈，然後到魚尾峰，什麼都可以一圈看",
+    "context": "從潘恩山可以眺望到的周圍知名雪山山峰"
   }
 ]

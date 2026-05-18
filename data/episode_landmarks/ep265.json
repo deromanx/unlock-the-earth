@@ -1,13 +1,13 @@
 [
   {
-    "name": "牛津图书馆 (Bodleian Library)",
+    "name": "牛津大学博德利图书馆",
     "name_en": "Bodleian Library",
-    "lat": 51.754,
+    "lat": 51.753,
     "lon": -1.254,
     "country": "英国",
-    "region": "歐洲",
-    "quote": "在牛津的图书馆 在Bowden Library 有他写的几张翻译文件",
-    "context": "收藏最早赴英华人沈福宗写下的中文与星座翻译文件。"
+    "region": "亞洲",
+    "quote": "在牛津的图书馆，在Bowden Library，有他写的几张翻译文件",
+    "context": "收藏了早期华人神辅真翻译的中文文件"
   },
   {
     "name": "温莎堡",
@@ -15,96 +15,59 @@
     "lat": 51.483,
     "lon": -0.604,
     "country": "英国",
-    "region": "歐洲",
-    "quote": "就是在我们的这个温莎堡 其实有一幅他的画像",
-    "context": "堡内藏有早期华人天主教传教士沈福宗的画像。"
+    "region": "亞洲",
+    "quote": "在我们的这个温莎堡，其实有一幅他的画像",
+    "context": "收藏了早期华人神辅真的画像"
   },
   {
-    "name": "台湾历史博物馆",
+    "name": "国立台湾历史博物馆",
     "name_en": "National Museum of Taiwan History",
-    "lat": 23.058,
-    "lon": 120.207,
+    "lat": 23.061,
+    "lon": 120.241,
     "country": "台湾",
-    "region": "台灣",
-    "quote": "你如果在我们台南的 那个历史博物馆 在第一柜 台南 就有他的那一本书",
-    "context": "展出假台湾人乔治·萨玛纳札撰写的虚构台湾回忆录。"
+    "region": "亞洲",
+    "quote": "你在我们台南的那个历史博物馆，在第一柜台南就有他的那一本书",
+    "context": "收藏假台湾人乔治·萨玛纳札出版的回忆录"
   },
   {
-    "name": "Saint Pancras火车站",
+    "name": "圣潘克拉斯火车站",
     "name_en": "St Pancras Railway Station",
     "lat": 51.53,
     "lon": -0.126,
     "country": "英国",
-    "region": "歐洲",
-    "quote": "他第一个登入的就是 Saint Pancras火车站",
-    "context": "孙中山当年抵达伦敦时第一个抵达的火车站。",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/St_Pancras_Railway_Station_2012-06-23.jpg/330px-St_Pancras_Railway_Station_2012-06-23.jpg"
+    "region": "亞洲",
+    "quote": "他第一个登入的就是Saint Pancras火车站",
+    "context": "孙文来到伦敦时最先抵达的车站"
   },
   {
-    "name": "国王十字车站",
-    "name_en": "King's Cross Station",
-    "lat": 51.532,
-    "lon": -0.123,
+    "name": "沃里克法院巷",
+    "name_en": "Warwick Court",
+    "lat": 51.517,
+    "lon": -0.113,
     "country": "英国",
-    "region": "歐洲",
-    "quote": "大家有没有听过那个哈利波特 有一个叫国王十字车站",
-    "context": "用以说明Saint Pancras火车站旁的知名地标。",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Kings_Cross_-_London_Kings_Cross_railway_station_-_20240915121948.jpg/330px-Kings_Cross_-_London_Kings_Cross_railway_station_-_20240915121948.jpg"
+    "region": "亞洲",
+    "quote": "当时是有租一个房子，就在Walwick Court这边",
+    "context": "孙文在伦敦的租屋处，现设有其雕像"
   },
   {
-    "name": "波兰大使馆",
-    "name_en": "Embassy of Poland in London",
-    "lat": 51.52,
-    "lon": -0.146,
-    "country": "英国",
-    "region": "歐洲",
-    "quote": "当时这个中国大使馆的地址 现在已经变成波兰大使馆",
-    "context": "清朝驻英大使馆旧址，曾是孙中山在伦敦被软禁的地点。",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Polish_Embassy_47_Portland_Place_London.jpg/330px-Polish_Embassy_47_Portland_Place_London.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "波特兰街",
-    "name_en": "Portland Place",
-    "lat": 51.52,
-    "lon": -0.146,
-    "country": "英国",
-    "region": "歐洲",
-    "quote": "那目前中国大使馆还在波特兰街 只是换了一个地方",
-    "context": "现今中国驻英国大使馆所在的街道。",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Portland_Place_-_geograph.org.uk_-_5603983.jpg/330px-Portland_Place_-_geograph.org.uk_-_5603983.jpg"
-  },
-  {
-    "name": "特拉法家广场",
+    "name": "特拉法加广场",
     "name_en": "Trafalgar Square",
     "lat": 51.508,
     "lon": -0.128,
     "country": "英国",
-    "region": "歐洲",
+    "region": "亞洲",
     "quote": "靠近特拉法家广场 就是Trafalgo Square那里 有一个pop叫做The Old Shade",
-    "context": "孙中山获释后召开记者会的酒馆所在的著名广场。",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Trafalgar_Square%2C_London_2_-_Jun_2009.jpg/330px-Trafalgar_Square%2C_London_2_-_Jun_2009.jpg"
+    "context": "标示相关酒馆与教堂位置的重要地标"
   },
   {
-    "name": "The Old Shade小酒馆",
+    "name": "The Old Shades 酒馆",
     "name_en": "The Old Shades",
-    "lat": 51.507,
+    "lat": 51.506,
     "lon": -0.127,
     "country": "英国",
-    "region": "歐洲",
-    "quote": "所以他们就到了Old Shade的这个小酒馆 去办了一场记者会这样子",
-    "context": "孙中山从中国大使馆获释后向记者发表谈话的地点。",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/The_Old_Shades_pub.JPG/330px-The_Old_Shades_pub.JPG"
-  },
-  {
-    "name": "国家艺廊 (国家一郎)",
-    "name_en": "National Gallery",
-    "lat": 51.508,
-    "lon": -0.128,
-    "country": "英国",
-    "region": "歐洲",
-    "quote": "他的北边是国家一郎 在他的国家一郎的右边 就有一栋白色的教堂",
-    "context": "用以标示圣马丁教堂地理位置的著名美术馆。",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Galer%C3%ADa_Nacional%2C_Londres%2C_Inglaterra%2C_2014-08-07%2C_DD_036.JPG/330px-Galer%C3%ADa_Nacional%2C_Londres%2C_Inglaterra%2C_2014-08-07%2C_DD_036.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    "region": "亞洲",
+    "quote": "到了Old Shade的这个小酒馆 去办了一场记者会这样子",
+    "context": "孙文获释后举办记者会的酒馆"
   },
   {
     "name": "圣马丁教堂",
@@ -112,200 +75,68 @@
     "lat": 51.508,
     "lon": -0.126,
     "country": "英国",
-    "region": "歐洲",
-    "quote": "所以传闻孙文就是在那固定的做 三民主义 还有他目前革命的故事的演讲",
-    "context": "孙中山在伦敦固定演讲三民主义与革命故事的教堂。",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Church_of_Saint_Martin-in-the-Fields_%28Southwest_View_-_01%29.jpg/330px-Church_of_Saint_Martin-in-the-Fields_%28Southwest_View_-_01%29.jpg"
+    "region": "亞洲",
+    "quote": "有一个教堂叫St.Martin in the Field 圣马丁教堂",
+    "context": "孙文常在此发表演讲宣传革命理念"
   },
   {
-    "name": "Walwick Court",
-    "name_en": "Warwick Court",
-    "lat": 51.518,
-    "lon": -0.114,
-    "country": "英国",
-    "region": "歐洲",
-    "quote": "在Walwick Court就是一条小小的街道...你就会看到一个孙文的纪念雕像",
-    "context": "孙文曾在此租屋，该地目前藏有一座冷门的孙文浮雕纪念碑。"
-  },
-  {
-    "name": "Holben地铁站",
-    "name_en": "Holborn Station",
-    "lat": 51.517,
-    "lon": -0.119,
-    "country": "英国",
-    "region": "歐洲",
-    "quote": "大概靠近Holben地铁站 离大英博物馆不远",
-    "context": "用来指示Walwick Court及孙文纪念碑的邻近地铁站。"
-  },
-  {
-    "name": "大英博物馆",
-    "name_en": "British Museum",
+    "name": "波特兰街",
+    "name_en": "Portland Place",
     "lat": 51.519,
-    "lon": -0.126,
+    "lon": -0.145,
     "country": "英国",
-    "region": "歐洲",
-    "quote": "离大英博物馆不远 这一区都看起来很昂贵",
-    "context": "用以指示孙中山纪念浮雕所在的地理位置。"
+    "region": "亞洲",
+    "quote": "目前中国大使馆还在波特兰街，只是换了一个地方",
+    "context": "提及目前中国驻英大使馆的所在地"
   },
   {
-    "name": "伦敦政经学院 (LSE)",
-    "name_en": "London School of Economics",
+    "name": "伦敦政经学院",
+    "name_en": "London School of Economics (LSE)",
     "lat": 51.514,
     "lon": -0.116,
     "country": "英国",
-    "region": "歐洲",
-    "quote": "他是先进 LSE London School of Economic 伦敦政经学院",
-    "context": "徐志摩最初到伦敦时就读的大学。"
+    "region": "亞洲",
+    "quote": "他是先进LSE London School of Economic 伦敦政经学院",
+    "context": "徐志摩初到英国时就读的学校"
   },
   {
-    "name": "剑桥国王学院",
+    "name": "剑桥大学国王学院",
     "name_en": "King's College, Cambridge",
     "lat": 52.203,
     "lon": 0.116,
     "country": "英国",
-    "region": "歐洲",
-    "quote": "他就弄了一颗这个徐志摩的石头 在他的国王学院里",
-    "context": "徐志摩《再别康桥》纪念石碑放置的学院。"
+    "region": "亞洲",
+    "quote": "他就弄了一颗这个徐志摩的石头，在他的国王学院里",
+    "context": "存放徐志摩纪念石的剑桥学院"
   },
   {
-    "name": "圣约翰学院",
+    "name": "剑桥大学圣约翰学院",
     "name_en": "St John's College, Cambridge",
     "lat": 52.208,
-    "lon": 0.116,
+    "lon": 0.115,
     "country": "英国",
-    "region": "歐洲",
-    "quote": "你就要去圣约翰学院 找金庸的金庸石",
-    "context": "金庸晚年获得博士学位的学院，内有其留下的石碑对联。"
+    "region": "亞洲",
+    "quote": "你要找到剑桥的神秘地标，你就要去圣约翰学院找金庸的金庸石",
+    "context": "金庸取得博士学位并留下纪念石的学院"
   },
   {
-    "name": "Limehouse",
+    "name": "莱姆豪斯",
     "name_en": "Limehouse",
-    "lat": 51.511,
-    "lon": -0.032,
+    "lat": 51.512,
+    "lon": -0.035,
     "country": "英国",
-    "region": "歐洲",
-    "quote": "在伦敦这个华人第一个登入的地方 就是我们今天叫做Limehouse的 这个区域",
-    "context": "伦敦最早的华人聚落与初代唐人街所在地。"
+    "region": "亞洲",
+    "quote": "在伦敦这个华人第一个登入的地方，就是我们今天叫做Limehouse的这个区域",
+    "context": "早期华人在伦敦聚居与做苦力的区域"
   },
   {
-    "name": "泰晤士河 (泰鲁士河)",
+    "name": "泰晤士河",
     "name_en": "River Thames",
-    "lat": 51.507,
+    "lat": 51.506,
     "lon": -0.087,
     "country": "英国",
-    "region": "歐洲",
-    "quote": "他就在靠近泰鲁士河 那边全部都是仓库",
-    "context": "早期华人从事港口苦力工作的核心河流区域。"
-  },
-  {
-    "name": "Colendale",
-    "name_en": "Colindale",
-    "lat": 51.595,
-    "lon": -0.249,
-    "country": "英国",
-    "region": "歐洲",
-    "quote": "很多人喜欢聚集在一个地方 叫Colendale",
-    "context": "二战后伦敦唐人街被炸毁后，华人往外移居形成的新聚落。"
-  },
-  {
-    "name": "SOHO",
-    "name_en": "Soho",
-    "lat": 51.513,
-    "lon": -0.132,
-    "country": "英国",
-    "region": "歐洲",
-    "quote": "在伦敦市中心呢 大概它其实是SOHO的一部分",
-    "context": "现今伦敦市中心唐人街所在的著名商业区。",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Soho_%281877979497%29.jpg/330px-Soho_%281877979497%29.jpg"
-  },
-  {
-    "name": "Jerrod Street (唐人街)",
-    "name_en": "Gerrard Street",
-    "lat": 51.511,
-    "lon": -0.13,
-    "country": "英国",
-    "region": "歐洲",
-    "quote": "他们就开始让Jerrod Street 变成所谓的唐人街这样子",
-    "context": "现今伦敦市中心的唐人街街道，主要作为工作与餐饮区。"
-  },
-  {
-    "name": "Margaret Street",
-    "name_en": "Margaret Street",
-    "lat": 51.516,
-    "lon": -0.141,
-    "country": "英国",
-    "region": "歐洲",
-    "quote": "在伦敦市中心有一条街叫Margaret Street 靠近牛津街那边 它就是佛光山",
-    "context": "伦敦佛光山所在地，聚集了来自世界各地的华人。"
-  },
-  {
-    "name": "伦敦大学 (UCL)",
-    "name_en": "University College London",
-    "lat": 51.524,
-    "lon": -0.134,
-    "country": "英国",
-    "region": "歐洲",
-    "quote": "让他们到了伦敦的伦敦大学 UCL大学 就是偷偷去留学这样子",
-    "context": "日本“长州五杰”赴英秘密留学的大学，校内设有纪念碑。"
-  },
-  {
-    "name": "英国银行博物馆",
-    "name_en": "Bank of England Museum",
-    "lat": 51.514,
-    "lon": -0.088,
-    "country": "英国",
-    "region": "歐洲",
-    "quote": "英国银行博物馆 里面就有当时这个长州五节来兑换钱的支票",
-    "context": "保存了日本长州五杰当年兑换日币历史单据的博物馆。"
-  },
-  {
-    "name": "海德公园",
-    "name_en": "Hyde Park",
-    "lat": 51.507,
-    "lon": -0.165,
-    "country": "英国",
-    "region": "歐洲",
-    "quote": "在这个伦敦在海德公园的另外一个角落 办了一个日本原意展",
-    "context": "1910年举办日本园艺大展，推广日本文化的场地。"
-  },
-  {
-    "name": "西本愿寺 (西本院寺)",
-    "name_en": "Nishi Hongan-ji",
-    "lat": 34.991,
-    "lon": 135.751,
-    "country": "日本",
     "region": "亞洲",
-    "quote": "在日本京都的西本院寺大门的一个复制",
-    "context": "海德公园日本园艺展上“敕使之门”复制品的古迹原型。"
-  },
-  {
-    "name": "Q Garden (邱园)",
-    "name_en": "Kew Gardens",
-    "lat": 51.478,
-    "lon": -0.295,
-    "country": "英国",
-    "region": "歐洲",
-    "quote": "这一个这个地使之门 现在还留在伦敦的Q Garden里面",
-    "context": "当年海德公园日本展结束后的“敕使之门”移置存放处。"
-  },
-  {
-    "name": "High Street Kensington",
-    "name_en": "High Street Kensington",
-    "lat": 51.501,
-    "lon": -0.192,
-    "country": "英国",
-    "region": "歐洲",
-    "quote": "就在我们这个伦敦寸土寸金的地方 就在High Street Kensington这",
-    "context": "伦敦日本文化中心（Japan House）设立的地点。"
-  },
-  {
-    "name": "亚伯特厅",
-    "name_en": "Royal Albert Hall",
-    "lat": 51.501,
-    "lon": -0.177,
-    "country": "英国",
-    "region": "歐洲",
-    "quote": "在我们伦敦的亚伯特厅 就办了一个这个日本相铺",
-    "context": "举办日本相扑巡回赛的英国高级表演场馆。"
+    "quote": "他就在靠近泰鲁士河，那边全部都是仓库",
+    "context": "早期华人做苦力的港口仓库所在地"
   }
 ]

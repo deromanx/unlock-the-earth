@@ -2,62 +2,52 @@
   {
     "name": "安地瓜",
     "name_en": "Antigua Guatemala",
-    "lat": 14.557,
+    "lat": 14.558,
     "lon": -90.733,
     "country": "瓜地馬拉",
     "region": "美洲",
-    "quote": "其實我個人比較喜歡安地瓜的咖啡，那它近幾年呢，已經被炒熱了啦",
-    "context": "瓜地馬拉最著名的咖啡產區與殖民風格歷史古城。"
-  },
-  {
-    "name": "維維特南國",
-    "name_en": "Huehuetenango",
-    "lat": 15.319,
-    "lon": -91.47,
-    "country": "瓜地馬拉",
-    "region": "美洲",
-    "quote": "我其實蠻喜歡，就是有一個產區在維維特南國",
-    "context": "瓜地馬拉海拔最高、極具名氣的精品咖啡產區。"
+    "quote": "其实我个人比较喜欢安地瓜的咖啡",
+    "context": "瓜地馬拉著名的咖啡產區，保留完整殖民建築的小城。"
   },
   {
     "name": "英赫特莊園",
     "name_en": "Finca El Injerto",
-    "lat": 15.42,
-    "lon": -91.916,
+    "lat": 15.54,
+    "lon": -91.879,
     "country": "瓜地馬拉",
     "region": "美洲",
-    "quote": "有一個莊園非常有名，叫做英赫特，那其實在國際上，非常有名",
-    "context": "位於維維特南國，多次獲得國際獎項的知名咖啡莊園。"
+    "quote": "有一个庄园非常有名，叫做英赫特",
+    "context": "在國際上贏得許多獎項的知名高海拔咖啡莊園。"
   },
   {
-    "name": "柯斑",
-    "name_en": "Cobán",
-    "lat": 15.47,
-    "lon": -90.37,
-    "country": "瓜地馬拉",
-    "region": "美洲",
-    "quote": "有雨林像柯斑雨林的，它的風味其實也會蠻特別的",
-    "context": "位於雨林帶的咖啡產區，具有豐富的微型氣候。"
+    "name": "南港展覽館",
+    "name_en": "Taipei Nangang Exhibition Center",
+    "lat": 25.053,
+    "lon": 121.617,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "在南港国际展南馆有一个台湾咖啡展",
+    "context": "舉辦台灣咖啡展的展覽場館。"
   },
   {
-    "name": "阿卡德南戈火山",
-    "name_en": "Volcán de Acatenango",
-    "lat": 14.501,
+    "name": "阿卡特南戈火山 (逐字稿稱：阿卡德南河)",
+    "name_en": "Volcán Acatenango",
+    "lat": 14.5,
     "lon": -90.876,
     "country": "瓜地馬拉",
     "region": "美洲",
-    "quote": "安地瓜旁邊的那個火山，有三個火山，就是阿卡德南河",
-    "context": "安地瓜周邊三大火山之一，火山灰提供肥沃土壤。"
+    "quote": "就是阿卡德南河，还有水火山，火火山",
+    "context": "安地瓜旁邊的火山之一，其火山地質適合種植咖啡。"
   },
   {
     "name": "水火山",
     "name_en": "Volcán de Agua",
-    "lat": 14.453,
+    "lat": 14.465,
     "lon": -90.743,
     "country": "瓜地馬拉",
     "region": "美洲",
-    "quote": "還有水火山，火火山",
-    "context": "安地瓜南部標誌性的休眠火山。"
+    "quote": "就是阿卡德南河，还有水火山，火火山",
+    "context": "位於安地瓜旁邊的著名火山之一。"
   },
   {
     "name": "火火山",
@@ -66,47 +56,27 @@
     "lon": -90.88,
     "country": "瓜地馬拉",
     "region": "美洲",
-    "quote": "其中的火火山，就是火的火山不時的會爆發",
-    "context": "瓜地馬拉境內極為活躍的活火山。"
+    "quote": "其中的火火山，就是火的火山不时的会爆发",
+    "context": "安地瓜附近不時會噴發的活火山。"
   },
   {
-    "name": "南港國際展覽館",
-    "name_en": "Taipei Nangang Exhibition Center",
-    "lat": 25.057,
-    "lon": 121.616,
-    "country": "台灣",
-    "region": "台灣",
-    "quote": "在南港國際展覽館有一個台灣咖啡展",
-    "context": "台灣最大的咖啡展覽舉辦場地。"
-  },
-  {
-    "name": "新東方",
-    "name_en": "Nuevo Oriente",
-    "lat": 14.612,
-    "lon": -89.481,
+    "name": "Coffee Libre",
+    "name_en": "Coffee Libre",
+    "lat": 14.62,
+    "lon": -90.515,
     "country": "瓜地馬拉",
     "region": "美洲",
-    "quote": "另一個產區叫新東方，其實這個產區也蠻特別的",
-    "context": "瓜地馬拉八大咖啡產區之一，擁有獨特的種植智慧。"
+    "quote": "有一间比较现代化的，叫做Coffee Libre",
+    "context": "來自首爾但在瓜地馬拉也設有分店的現代精品咖啡廳。"
   },
   {
-    "name": "Coffee Libre 咖啡廳",
-    "name_en": "Coffee Libre Antigua",
+    "name": "Doña María 咖啡廳",
+    "name_en": "Doña María",
     "lat": 14.555,
-    "lon": -90.732,
+    "lon": -90.733,
     "country": "瓜地馬拉",
     "region": "美洲",
-    "quote": "有一間比較現代化的，叫做Coffee Libre",
-    "context": "由韓國知名咖啡評審開設，位於安地瓜的精品咖啡店。"
-  },
-  {
-    "name": "Donia Maria 咖啡廳",
-    "name_en": "Doña María Gordillo",
-    "lat": 14.561,
-    "lon": -90.732,
-    "country": "瓜地馬拉",
-    "region": "美洲",
-    "quote": "每次我都會帶他們到安地瓜的一個，叫Donia Maria的這間咖啡廳",
-    "context": "安地瓜歷史悠久、以貓頭鷹裝飾和甜點聞名的咖啡廳。"
+    "quote": "每次我都会带他们到安地瓜的一个，叫Donia Maria的这间咖啡厅",
+    "context": "安地瓜當地一家內部有貓頭鷹裝飾及傳統服務的特色咖啡廳。"
   }
 ]

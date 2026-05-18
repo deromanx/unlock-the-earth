@@ -1,86 +1,22 @@
 [
   {
-    "name": "泰姬瑪哈陵",
-    "name_en": "Taj Mahal",
-    "lat": 27.175,
-    "lon": 78.042,
-    "country": "印度",
-    "region": "亞洲",
-    "quote": "像或者是太吉馬哈陵啊，或是瓦拉納西，就是很著名的恆河邊的城市",
-    "context": "北印度的知名地標，在節目中與南印度的景點做比較。",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Taj_Mahal_%28Edited%29.jpeg/330px-Taj_Mahal_%28Edited%29.jpeg"
-  },
-  {
-    "name": "瓦拉納西",
-    "name_en": "Varanasi",
-    "lat": 25.317,
-    "lon": 82.973,
-    "country": "印度",
-    "region": "亞洲",
-    "quote": "瓦拉納西，就是很著名的恆河邊的城市，對對對對對，或是北北印",
-    "context": "北印度的宗教聖城，講述者在此遭遇了嚴重的上吐下瀉。"
-  },
-  {
-    "name": "恆河",
-    "name_en": "Ganges River",
-    "lat": 25.3,
-    "lon": 83.0,
-    "country": "印度",
-    "region": "亞洲",
-    "quote": "瓦拉納西，就是很著名的恆河邊的城市",
-    "context": "位於瓦拉納西旁的著名聖河，是北印度的指標性地標。"
-  },
-  {
-    "name": "清奈",
-    "name_en": "Chennai",
-    "lat": 13.082,
-    "lon": 80.27,
-    "country": "印度",
-    "region": "亞洲",
-    "quote": "我覺得真的大家要去的話，我覺得Chinnai是一個很好的門戶",
-    "context": "南印度的東部大城市，受訪者將其選為旅程的起點與門戶。",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Chennai_Central.jpg/330px-Chennai_Central.jpg"
-  },
-  {
-    "name": "馬杜賴",
-    "name_en": "Madurai",
-    "lat": 9.925,
-    "lon": 78.119,
-    "country": "印度",
-    "region": "亞洲",
-    "quote": "從Mardurant，Mardurant它是一個宗教的城市，在山下",
-    "context": "南印度的宗教城市，受訪者在此處搭乘Uber前往山區。"
-  },
-  {
-    "name": "蒙納",
+    "name": "慕納爾",
     "name_en": "Munnar",
-    "lat": 10.088,
+    "lat": 10.089,
     "lon": 77.059,
     "country": "印度",
     "region": "亞洲",
-    "quote": "最後到達了Muna山區非常便宜，我覺得大家去的話，一定要去Muna看看",
-    "context": "南印度的避暑山城，風景秀麗且懸崖地形壯觀。",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Munnar_Overview.jpg/330px-Munnar_Overview.jpg"
+    "quote": "最后到山上非常漂亮的，那个地方叫Muna",
+    "context": "講者搭車四小時抵達的南印絕美山區城鎮"
   },
   {
-    "name": "亨比",
+    "name": "漢皮",
     "name_en": "Hampi",
     "lat": 15.335,
     "lon": 76.46,
     "country": "印度",
     "region": "亞洲",
-    "quote": "有一個城鎮叫Hempy，是非常漂亮的一個地方，它是像一個古蹟",
-    "context": "古印度都城遺址，成龍電影《神話》在此取景，景觀荒涼美。",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Wide_angle_of_Galigopuram_of_Virupaksha_Temple%2C_Hampi_%2804%29_%28cropped%29.jpg/330px-Wide_angle_of_Galigopuram_of_Virupaksha_Temple%2C_Hampi_%2804%29_%28cropped%29.jpg"
-  },
-  {
-    "name": "公主浴室",
-    "name_en": "Queen's Bath",
-    "lat": 15.322,
-    "lon": 76.474,
-    "country": "印度",
-    "region": "亞洲",
-    "quote": "還有古時候的公主洗澡的那個池也有，這還留下來，修得非常漂亮",
-    "context": "位於亨比遺址內的具體建築景點，結構精緻且保存良好。"
+    "quote": "有一个城镇叫Hempy，大家有没有听说过Hempy",
+    "context": "南印度的古城廢墟，也是電影神話拍攝地"
   }
 ]

@@ -1,152 +1,92 @@
 [
   {
-    "name": "迪化街",
-    "name_en": "Dihua Street",
-    "lat": 25.055,
-    "lon": 121.51,
-    "country": "台灣",
-    "region": "台灣",
-    "quote": "像比如說我們走在迪化街的路上",
-    "context": "節目開場提及挖掘台灣在地歷史與冷知識的街道案例。"
-  },
-  {
-    "name": "金門",
-    "name_en": "Kinmen",
-    "lat": 24.449,
-    "lon": 118.378,
-    "country": "台灣",
-    "region": "台灣",
-    "quote": "金門給我的印象其實是蠻深刻",
-    "context": "主持人分享其對金門軍事氛圍與旅遊點豐富度的深刻印象。"
-  },
-  {
-    "name": "七美島",
-    "name_en": "Cimei Island",
-    "lat": 23.208,
-    "lon": 119.428,
-    "country": "台灣",
-    "region": "台灣",
-    "quote": "澎湖的離島像七美島",
-    "context": "提及台灣不同的離島旅遊經驗。"
-  },
-  {
-    "name": "小琉球",
-    "name_en": "Xiaoliuqiu",
-    "lat": 22.342,
-    "lon": 120.37,
-    "country": "台灣",
-    "region": "台灣",
-    "quote": "或是說小琉球綠島這些地方",
-    "context": "提到的台灣離島之一。"
-  },
-  {
-    "name": "綠島",
-    "name_en": "Green Island",
-    "lat": 22.661,
-    "lon": 121.484,
-    "country": "台灣",
-    "region": "台灣",
-    "quote": "或是說小琉球綠島這些地方",
-    "context": "提到的台灣離島之一。"
-  },
-  {
-    "name": "南竿島",
+    "name": "南竿岛",
     "name_en": "Nangan Island",
     "lat": 26.155,
-    "lon": 119.928,
-    "country": "台灣",
-    "region": "台灣",
-    "quote": "我抽到的是南竿守備大隊",
-    "context": "來賓當兵服役的所在地，為馬祖的主島之一。"
+    "lon": 119.927,
+    "country": "台湾",
+    "region": "亞洲",
+    "quote": "你说你在南干岛",
+    "context": "讲者在马祖当兵服役的主要岛屿"
   },
   {
-    "name": "山隴",
-    "name_en": "Shanlong",
+    "name": "北竿岛",
+    "name_en": "Beigan Island",
+    "lat": 26.224,
+    "lon": 119.996,
+    "country": "台湾",
+    "region": "亞洲",
+    "quote": "那南干岛跟北干岛跟金门的大小相比的话怎么比",
+    "context": "与南竿岛及金门比较面积大小"
+  },
+  {
+    "name": "山陇（介寿村）",
+    "name_en": "Shanlong (Jieshou Village)",
     "lat": 26.158,
-    "lon": 119.95,
-    "country": "台灣",
-    "region": "台灣",
-    "quote": "那大概三龍是這樣...三龍離我的連隊算是比較遠",
-    "context": "南竿行政中心，提到有全馬祖唯一的連鎖手搖飲料店。"
+    "lon": 119.937,
+    "country": "台湾",
+    "region": "亞洲",
+    "quote": "真的大概三龙是这样但我比较少去三龙了",
+    "context": "南竿东边的聚落，有手摇饮店"
   },
   {
-    "name": "馬港 (馬祖村)",
-    "name_en": "Magang (Matsu Village)",
-    "lat": 26.156,
+    "name": "马祖村（马港）",
+    "name_en": "Matsu Village (Magang)",
+    "lat": 26.16,
     "lon": 119.914,
-    "country": "台灣",
-    "region": "台灣",
-    "quote": "馬港的話其實就是地圖上看到馬祖村",
-    "context": "南竿西側的市中心，是來賓當兵放假最常報到的地方。"
+    "country": "台湾",
+    "region": "亞洲",
+    "quote": "马港的话其实就是地图上看到马祖村",
+    "context": "讲者连队附近的聚落，常去吃东西"
   },
   {
-    "name": "馬祖天后宮",
-    "name_en": "Matsu Temple",
-    "lat": 26.156,
-    "lon": 119.912,
-    "country": "台灣",
-    "region": "台灣",
-    "quote": "馬祖的天后宮...這是它最大一個景點",
-    "context": "馬港最重要的廟宇與景點。"
+    "name": "马祖天后宫",
+    "name_en": "Matsu Tianhou Temple",
+    "lat": 26.159,
+    "lon": 119.914,
+    "country": "台湾",
+    "region": "亞洲",
+    "quote": "那这边就是有一个最特色的东西就是马祖的天后宫",
+    "context": "马港的最大景点，有巨大的妈祖像"
   },
   {
-    "name": "馬祖巨神像",
-    "name_en": "Giant Statue of Matsu",
-    "lat": 26.157,
-    "lon": 119.912,
-    "country": "台灣",
-    "region": "台灣",
-    "quote": "馬祖有一個超大的馬祖像那個就在這個馬港這個地方",
-    "context": "位於馬港的著名巨型宗教地標。"
-  },
-  {
-    "name": "馬祖劍碑",
+    "name": "马祖剑碑",
     "name_en": "Matsu Sword Monument",
-    "lat": 26.155,
-    "lon": 119.915,
-    "country": "台灣",
-    "region": "台灣",
-    "quote": "有一個轉角然後有插一支鍵然後上面寫馬祖兩個字",
-    "context": "馬港著名的軍事文化地標。"
+    "lat": 26.16,
+    "lon": 119.914,
+    "country": "台湾",
+    "region": "亞洲",
+    "quote": "就是它有一个转角然后有插一支键然后上面写马祖两个字",
+    "context": "位于马港的一个著名打卡地标"
   },
   {
     "name": "津沙聚落",
     "name_en": "Jinsha Village",
-    "lat": 26.143,
-    "lon": 119.918,
-    "country": "台灣",
-    "region": "台灣",
-    "quote": "金沙的話這邊還是有居民的...保持就是一個居民區的感覺",
-    "context": "來賓在南竿最推薦的漂亮聚落，保留原始生活感。"
+    "lat": 26.147,
+    "lon": 119.914,
+    "country": "台湾",
+    "region": "亞洲",
+    "quote": "就是金沙的话这边还是有居民的",
+    "context": "讲者在南竿最喜欢的地方，风景漂亮"
   },
   {
-    "name": "芹壁聚落",
-    "name_en": "Qinbi Village",
-    "lat": 26.223,
-    "lon": 119.992,
-    "country": "台灣",
-    "region": "台灣",
-    "quote": "其實琴碧已經有點商業化了",
-    "context": "北竿著名聚落，被用來與津沙的原始感做對比。"
+    "name": "云台山军情馆",
+    "name_en": "Yuntaishan Military Intelligence Hall",
+    "lat": 26.15,
+    "lon": 119.923,
+    "country": "台湾",
+    "region": "亞洲",
+    "quote": "那我推荐两个地方一个就是云台山军情馆",
+    "context": "前身为观测所，可参观的军方设施"
   },
   {
-    "name": "雲台山",
-    "name_en": "Yuntai Mountain",
-    "lat": 26.152,
-    "lon": 119.932,
-    "country": "台灣",
-    "region": "台灣",
-    "quote": "它其實是整個南干最高的地方，它其實就是在雲台山上面",
-    "context": "南竿第一高峰，視野極佳。"
-  },
-  {
-    "name": "雲台山軍情館",
-    "name_en": "Yuntai Mountain Military Intelligence Museum",
-    "lat": 26.152,
-    "lon": 119.932,
-    "country": "台灣",
-    "region": "台灣",
-    "quote": "推薦兩個地方一個就是雲台山軍情館",
-    "context": "南竿最高點的觀測所，現部分區域開放民眾參觀。"
+    "name": "云台山",
+    "name_en": "Mount Yuntai",
+    "lat": 26.15,
+    "lon": 119.923,
+    "country": "台湾",
+    "region": "亞洲",
+    "quote": "它其实就是在云台山上面",
+    "context": "南竿最高的地方，军情馆所在地"
   }
 ]

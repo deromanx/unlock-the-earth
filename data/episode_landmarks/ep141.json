@@ -1,113 +1,52 @@
 [
   {
-    "name": "四千美島",
-    "name_en": "Si Phan Don (4,000 Islands)",
-    "lat": 13.937,
-    "lon": 105.932,
-    "country": "寮國",
-    "region": "亞洲",
-    "quote": "然後經過了4000美島，也到沙灣納吉",
-    "context": "尚杰從柬埔寨入境寮國後行程中的第一站。"
-  },
-  {
-    "name": "沙灣納吉",
-    "name_en": "Savannakhet",
-    "lat": 16.566,
-    "lon": 104.751,
-    "country": "寮國",
-    "region": "亞洲",
-    "quote": "也到沙灣納吉，結果悲劇的手機摔爆這樣",
-    "context": "尚杰在寮國旅途中手機摔壞的地點。"
-  },
-  {
-    "name": "永珍 (萬象)",
-    "name_en": "Vientiane",
-    "lat": 17.975,
-    "lon": 102.633,
-    "country": "寮國",
-    "region": "亞洲",
-    "quote": "打破原則，打飛機到永珍，買了超超爆貴，史上最貴的iPhone 7 Plus",
-    "context": "寮國首都，尚杰在此處理手機問題並發生後續故事。",
-    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/28/Vientiane_-_Patuxai_-_0003.jpg/330px-Vientiane_-_Patuxai_-_0003.jpg"
-  },
-  {
-    "name": "旺陽 (萬榮)",
+    "name": "旺阳",
     "name_en": "Vang Vieng",
     "lat": 18.923,
     "lon": 102.449,
     "country": "寮國",
     "region": "亞洲",
-    "quote": "一到旺陽真的是嚇壞了，就是這個地方的游客密集怎麼這麼高",
-    "context": "寮國知名的觀光城市，以自然景觀和戶外活動聞名。"
+    "quote": "因为旺阳真的是一个party city",
+    "context": "以輪胎漂流與派對聞名、擁有特殊石灰岩地形的小鎮"
   },
   {
-    "name": "旺陽遊客大街",
-    "name_en": "Vang Vieng Tourist Street",
-    "lat": 18.922,
-    "lon": 102.448,
-    "country": "寮國",
-    "region": "亞洲",
-    "quote": "它等於說市中心是一個超巨大的夜市...就是那條路上，出了很多的歐美背包客",
-    "context": "旺陽背包客聚集、酒吧林立的熱鬧中心街道。"
-  },
-  {
-    "name": "布魯拉棍 (藍色潟湖)",
+    "name": "布鲁拉棍 (藍色潟湖)",
     "name_en": "Blue Lagoon",
-    "lat": 18.924,
-    "lon": 102.394,
+    "lat": 18.926,
+    "lon": 102.395,
     "country": "寮國",
     "region": "亞洲",
-    "quote": "像旺陽，大家知道，他們有一個在那地方很受歡迎的一個活動，叫做布魯拉棍",
-    "context": "旺陽非常受歡迎的天然跳水與池畔休閒景點。"
+    "quote": "叫做布鲁拉棍 就是跳那个水嘛",
+    "context": "旺陽著名的跳水勝地，有多個不同位置的跳水池"
   },
   {
-    "name": "第四個跳水池 (Blue Lagoon 4)",
-    "name_en": "Blue Lagoon 4",
-    "lat": 18.941,
-    "lon": 102.348,
-    "country": "寮國",
-    "region": "亞洲",
-    "quote": "我去到的是第四個跳水池，那一刻就是比較沒有什麼人，然後水又很清澈",
-    "context": "尚杰特別推薦，位置較遠且人煙稀少的跳水祕境。"
-  },
-  {
-    "name": "龍坡邦 (琅勃拉邦)",
+    "name": "龙坡邦 (龍坡邦)",
     "name_en": "Luang Prabang",
     "lat": 19.883,
     "lon": 102.133,
     "country": "寮國",
     "region": "亞洲",
-    "quote": "龍坡邦坦白說是應該是遼國目前觀光能見度最高的城市",
-    "context": "寮國的世界文化遺產城鎮，以舒緩的氛圍著稱。"
+    "quote": "因为龙坡邦坦坦白说是 应该是辽国目前观光 能见度最高的城市",
+    "context": "列為世界遺產、氣氛與世無爭的觀光小鎮"
   },
   {
-    "name": "封沙灣 (川壙)",
+    "name": "封沙湾 (豐沙灣)",
     "name_en": "Phonsavan",
-    "lat": 19.451,
-    "lon": 103.216,
+    "lat": 19.461,
+    "lon": 103.181,
     "country": "寮國",
     "region": "亞洲",
-    "quote": "我是有先去到一個叫做封沙灣的地方",
-    "context": "尚杰原計畫前往封沙里，卻因導航錯誤誤入的小鎮。"
+    "quote": "我是有先去到一个叫做 封沙湾的地方",
+    "context": "主持人原本想去封沙里卻意外走錯抵達的小鎮"
   },
   {
-    "name": "封沙里",
+    "name": "封沙里 (豐沙里)",
     "name_en": "Phongsaly",
     "lat": 21.684,
-    "lon": 102.103,
+    "lon": 102.105,
     "country": "寮國",
     "region": "亞洲",
-    "quote": "封沙里，它是一個看就是那種少數民族阿卡村的地方",
-    "context": "尚杰原本計畫探訪少數民族文化的北部邊境重鎮。"
-  },
-  {
-    "name": "阿卡村",
-    "name_en": "Akha Village",
-    "lat": 21.68,
-    "lon": 102.1,
-    "country": "寮國",
-    "region": "亞洲",
-    "quote": "封沙里，它是一個看就是那種少數民族阿卡村的地方",
-    "context": "位於封沙里地區，極具少數民族風情的特色村落。"
+    "quote": "因为封沙里 它是一个看就是那种少数民族 阿卡村的地方",
+    "context": "靠近雲南、可看少數民族的原定目的地"
   }
 ]

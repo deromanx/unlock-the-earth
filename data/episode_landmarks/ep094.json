@@ -1,34 +1,22 @@
 [
   {
-    "name": "馬斯克特國際機場",
+    "name": "馬斯喀特國際機場",
     "name_en": "Muscat International Airport",
     "lat": 23.593,
-    "lon": 58.281,
+    "lon": 58.282,
     "country": "阿曼",
     "region": "亞洲",
-    "quote": "阿曼的機場 那個地磚什麼 都是挑特別的石頭",
-    "context": "描述抵達阿曼後對極致奢華機場的第一印象。",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Aerial_view_of_Muscat_International_Airport_%28Ank_Kunar%2C_Infosys_Limited%29_02.jpg/330px-Aerial_view_of_Muscat_International_Airport_%28Ank_Kunar%2C_Infosys_Limited%29_02.jpg"
+    "quote": "阿曼的機場 那個地磚什麼 都是挑特別的石頭啊",
+    "context": "來賓分享初抵阿曼首都的印象，認為當地機場裝潢非常奢華。"
   },
   {
     "name": "桑吉巴",
     "name_en": "Zanzibar",
     "lat": -6.165,
-    "lon": 39.202,
+    "lon": 39.199,
     "country": "坦尚尼亞",
     "region": "非洲",
-    "quote": "坦尚尼亞旁邊有個小島 叫做 Nenzi Bar 他們直接把首都 Moscow 牽到 牽到小島",
-    "context": "提及阿曼帝國曾將首都遷至此島，與其海上霸權及香料貿易史相關。",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Zanzibar.svg/330px-Flag_of_Zanzibar.svg.png"
-  },
-  {
-    "name": "2017世大運選手村",
-    "name_en": "2017 Summer Universiade Athletes' Village",
-    "lat": 25.074,
-    "lon": 121.378,
-    "country": "台灣",
-    "region": "台灣",
-    "quote": "所以我在當志工的時候 每天晚上 下班之後就在選手村晃",
-    "context": "來賓擔任志工期間結識阿曼選手，開啟後續旅程的關鍵地點。"
+    "quote": "因為他們太愛坦尚尼亞 旁邊有個小島 叫做 Nenzi Bar",
+    "context": "提及阿曼帝國時期，曾因熱愛當地並種植香料，將首都遷至這座小島。"
   }
 ]

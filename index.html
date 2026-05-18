@@ -78,6 +78,28 @@
   <!-- ── Map ── -->
   <div id="map"></div>
 
+  <!-- ── Visited Mode Float Button ── -->
+  <button id="visited-btn" class="btn-visited-float" title="標記我去過的國家">✈️</button>
+
+  <!-- ── Visited Overlay (result + share) ── -->
+  <div id="visited-overlay" class="visited-overlay">
+    <div class="visited-overlay-card">
+      <div class="visited-pct-big" id="visited-pct-text">0%</div>
+      <div class="visited-pct-label">解鎖地球</div>
+      <div class="visited-stats-sub" id="visited-stats-row"></div>
+      <div class="visited-chips-wrap" id="visited-chips"></div>
+      <div class="visited-overlay-actions">
+        <button class="btn-share-visited" onclick="copyVisitedShareUrl()">🔗 複製分享連結</button>
+        <button class="btn-visited-continue" onclick="hideVisitedOverlay()">繼續標記</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── Copy Toast ── -->
+  <div id="copy-toast" class="copy-toast">已複製連結 ✓</div>
+  <!-- ── Country Tooltip ── -->
+  <div id="country-tooltip" class="country-tooltip"></div>
+
   <!-- ── Side Panel ── -->
   <aside id="panel">
     <div class="panel-header">
@@ -115,6 +137,7 @@
   <!-- Scripts -->
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
   <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
-  <script src="js/app.js?v=16"></script>
+  <script src="https://cdn.jsdelivr.net/npm/topojson-client@3/dist/topojson-client.min.js"></script>
+  <script src="js/app.js?v=17"></script>
 </body>
 </html>

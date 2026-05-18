@@ -1,74 +1,62 @@
 [
   {
-    "name": "頂溪站",
-    "name_en": "Dingxi Station",
-    "lat": 25.012,
-    "lon": 121.516,
-    "country": "台灣",
-    "region": "台灣",
-    "quote": "我在頂溪站，誒，我也是頂溪站誒",
-    "context": "節目兩位主持人工作室所在地，住處極為接近。"
-  },
-  {
-    "name": "菲斯古城",
-    "name_en": "Fes Medina",
-    "lat": 34.061,
-    "lon": -4.974,
-    "country": "摩洛哥",
-    "region": "非洲",
-    "quote": "整個菲斯古城裡面，還包含了學生宿舍啊或是他們的一些其他學校相關的一些單位",
-    "context": "摩洛哥重要古城，擁有全世界第一所大學。"
-  },
-  {
-    "name": "卡魯因大學",
-    "name_en": "University of al-Qarawiyyin",
-    "lat": 34.064,
-    "lon": -4.973,
-    "country": "摩洛哥",
-    "region": "非洲",
-    "quote": "全世界第一所大學就出現在摩洛哥的菲斯，所以這個地方非常的重要",
-    "context": "經認證的全球首座大學，現為清真寺。"
-  },
-  {
-    "name": "馬拉克什老城區",
-    "name_en": "Medina of Marrakesh",
-    "lat": 31.626,
-    "lon": -7.989,
-    "country": "摩洛哥",
-    "region": "非洲",
-    "quote": "Medina就是這個詞的意思是阿拉伯人的老城區，大概千年以前的生活模式",
-    "context": "保留完整千年歷史，充滿新舊文化衝突美感。"
-  },
-  {
-    "name": "德吉瑪廣場",
-    "name_en": "Jemaa el-Fnaa",
-    "lat": 31.625,
-    "lon": -7.988,
-    "country": "摩洛哥",
-    "region": "非洲",
-    "quote": "裡面還有一個很有生命力的大市集在這編，就全非洲最大的市集",
-    "context": "馬拉克什具生命力的大型市集與夜市。",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Djemaa_el_Fna.jpg/330px-Djemaa_el_Fna.jpg"
-  },
-  {
-    "name": "瓦魯比利斯羅馬遺蹟",
+    "name": "瓦卢比利斯 (罗马帝国遗迹)",
     "name_en": "Volubilis",
     "lat": 34.072,
     "lon": -5.554,
     "country": "摩洛哥",
     "region": "非洲",
-    "quote": "它裡面有一個知名的景點...羅馬帝國的遺蹟，保留現在啊可以去看",
-    "context": "位於摩洛哥境內保存完整的羅馬帝國古城遺蹟。"
+    "quote": "其实里面有一个知名的景点 是你会你到那个景点你以为你在希腊",
+    "context": "位于摩洛哥境内，一般旅行团较少造访的罗马帝国遗迹。"
   },
   {
-    "name": "拉馬穆尼亞飯店",
-    "name_en": "La Mamounia",
-    "lat": 31.621,
+    "name": "卡鲁因大学 (现为清真寺)",
+    "name_en": "University of al-Qarawiyyin",
+    "lat": 34.064,
+    "lon": -4.973,
+    "country": "摩洛哥",
+    "region": "非洲",
+    "quote": "当时全世界第一所大学就出现在摩洛哥的菲斯",
+    "context": "建于黑暗时代的世界上第一所大学，现已转变为清真寺。"
+  },
+  {
+    "name": "菲斯古城",
+    "name_en": "Fes el Bali (Medina of Fez)",
+    "lat": 34.061,
+    "lon": -4.978,
+    "country": "摩洛哥",
+    "region": "非洲",
+    "quote": "所以整个菲斯古城里面 还包含了学生宿舍啊",
+    "context": "保留了世界上最古老大学相关建筑的阿拉伯老城区。"
+  },
+  {
+    "name": "马拉喀什老城区 (Medina)",
+    "name_en": "Medina of Marrakesh",
+    "lat": 31.63,
+    "lon": -7.989,
+    "country": "摩洛哥",
+    "region": "非洲",
+    "quote": "所以为什么我们说 玩摩洛哥你一定要去Medina 甚至我们要住在Medina里面",
+    "context": "融合了千年历史与现代设计师工作室的迷人旧城区。"
+  },
+  {
+    "name": "德吉玛广场 (大市集)",
+    "name_en": "Jemaa el-Fnaa",
+    "lat": 31.625,
+    "lon": -7.989,
+    "country": "摩洛哥",
+    "region": "非洲",
+    "quote": "里面还有一个很有生命力的大市集 在这边 就全非洲最大的市集",
+    "context": "位于马拉喀什，充满热情摊贩与表演的非洲最大夜市。"
+  },
+  {
+    "name": "皇家曼苏尔酒店 (国王直营饭店)",
+    "name_en": "Royal Mansour Marrakech",
+    "lat": 31.626,
     "lon": -7.997,
     "country": "摩洛哥",
     "region": "非洲",
-    "quote": "其中還有兩間非常頂級的飯店，老闆是摩洛哥國王",
-    "context": "馬拉克什極盡奢華的飯店，為皇室直營。",
-    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/La_Mamounia_Logo.svg/330px-La_Mamounia_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    "quote": "其中还有两间非常顶级的饭店 老板是谁 老板是摩洛哥国王",
+    "context": "摩洛哥国王直营的顶级奢华饭店，曾因皇室需求而包场。"
   }
 ]

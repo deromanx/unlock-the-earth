@@ -2,61 +2,51 @@
   {
     "name": "薩列哈爾德",
     "name_en": "Salekhard",
-    "lat": 66.529,
+    "lat": 66.53,
     "lon": 66.601,
     "country": "俄羅斯",
-    "region": "極地",
-    "quote": "薩列哈爾德是在亞馬爾半島，是他們的亞馬爾半島這個地方的首府",
-    "context": "亞馬爾半島的首府，也是講者空降後的起點。"
+    "region": "亞洲",
+    "quote": "薩列哈爾德是在亞馬爾半島，是他們的亞馬爾半島這個地方的首都",
+    "context": "亞馬爾半島的首府，講者尋找薩滿的第一站。"
   },
   {
-    "name": "希馬諾夫斯基博物館",
-    "name_en": "Shemanovskiy Museum and Exhibition Center",
+    "name": "當地博物館",
+    "name_en": "Salekhard Local Museum",
     "lat": 66.533,
-    "lon": 66.611,
+    "lon": 66.605,
     "country": "俄羅斯",
-    "region": "極地",
-    "quote": "我下飛機第一件事情，我沒有訂飯店，我就直接去當地博物館",
-    "context": "講者下飛機後尋求薩滿與部落資訊的第一站。"
+    "region": "亞洲",
+    "quote": "我就直接去當地的博物館，然後衝去博物館，然後問博物館員",
+    "context": "講者下飛機後第一時間前往，詢問尋找薩滿的線索。"
   },
   {
     "name": "北極研究中心",
-    "name_en": "Arctic Research Center of the Yamal-Nenets Autonomous Okrug",
-    "lat": 66.53,
-    "lon": 66.61,
+    "name_en": "Arctic Research Center",
+    "lat": 66.533,
+    "lon": 66.605,
     "country": "俄羅斯",
-    "region": "極地",
-    "quote": "薩利哈爾德的市中心，有一個俄羅斯官方的建築物，是專門研究北極區的",
-    "context": "提供講者人類學研究資訊並安排中文翻譯的地方。"
+    "region": "亞洲",
+    "quote": "在他們的薩利哈爾的市中心有一個俄羅斯官方的建築物是專門研究北極區的",
+    "context": "講者尋求人類學家協助，以獲得尋找薩滿的路線建議。"
   },
   {
     "name": "亞勒薩雷",
     "name_en": "Yar-Sale",
-    "lat": 66.833,
-    "lon": 70.833,
+    "lat": 66.865,
+    "lon": 70.838,
     "country": "俄羅斯",
-    "region": "極地",
-    "quote": "我就到了亞爾薩...在那裡是北極圈內",
-    "context": "講者借宿並教導當地媽媽中醫小兒推拿的定居點。"
+    "region": "亞洲",
+    "quote": "我就在那個亞勒薩雷那邊住在當地的一個捏捏字原住民家裡",
+    "context": "講者搭船抵達的聚落，並在當地原住民家中借宿交流。"
   },
   {
-    "name": "順利沙雷",
+    "name": "紫尼薩雷",
     "name_en": "Syunaysale",
-    "lat": 66.846,
-    "lon": 70.082,
+    "lat": 66.901,
+    "lon": 71.267,
     "country": "俄羅斯",
-    "region": "極地",
-    "quote": "我就打聽到，有地方叫 Sunisa，然後那邊有我要找的薩滿",
-    "context": "講者最終見到具有預知能力大薩滿的小漁村。"
-  },
-  {
-    "name": "薩列哈爾德勞改營鐵路遺址",
-    "name_en": "Salekhard-Igarka Railway (Dead Road)",
-    "lat": 66.586,
-    "lon": 66.643,
-    "country": "俄羅斯",
-    "region": "極地",
-    "quote": "那邊現在還有很長的鐵路，然後還有鐵絲網什麼的",
-    "context": "蘇聯時期古拉格勞改營留下的基礎建設遺址。"
+    "region": "亞洲",
+    "quote": "當我在紫尼薩雷的那個小雨村的時候",
+    "context": "講者最終找到薩滿並為當地全村居民看病的小漁村。"
   }
 ]

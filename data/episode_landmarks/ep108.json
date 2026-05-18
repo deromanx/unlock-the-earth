@@ -1,53 +1,32 @@
 [
   {
-    "name": "白金漢宮",
+    "name": "上议院",
+    "name_en": "House of Lords",
+    "lat": 51.499,
+    "lon": -0.124,
+    "country": "英国",
+    "region": "歐洲",
+    "quote": "只能挤在一个非常小的上议院的一个非常小的地方",
+    "context": "女王發表國會開幕大典演說的地點"
+  },
+  {
+    "name": "下议院",
+    "name_en": "House of Commons",
+    "lat": 51.5,
+    "lon": -0.124,
+    "country": "英国",
+    "region": "歐洲",
+    "quote": "现在传统上下议院当皇室经过的时候他们会故意的把门在皇室的面前关起来",
+    "context": "傳統上對皇室關門以示獨立的機構所在地"
+  },
+  {
+    "name": "白金汉宫",
     "name_en": "Buckingham Palace",
     "lat": 51.501,
     "lon": -0.141,
-    "country": "英國",
+    "country": "英国",
     "region": "歐洲",
-    "quote": "我告诉你,这女王他现在坐的,他白金汉宫坐的椅子,底下的刺绣,就是他爸爸赐给她",
-    "context": "女王在倫敦的官方官邸，提到其父曾在此為其親手刺繡椅子墊。"
-  },
-  {
-    "name": "溫莎",
-    "name_en": "Windsor",
-    "lat": 51.483,
-    "lon": -0.604,
-    "country": "英國",
-    "region": "歐洲",
-    "quote": "不如就叫Winsor吧,那Winsor,他这个名字是,在莎士比亚的... 非常的英格兰",
-    "context": "溫莎王朝名稱的來源地，也是王室重要的象徵與城堡所在地。"
-  },
-  {
-    "name": "伊頓公學",
-    "name_en": "Eton College",
-    "lat": 51.492,
-    "lon": -0.608,
-    "country": "英國",
-    "region": "歐洲",
-    "quote": "当时这个女王由这个,伊顿里面的教务长来教她,她的历史教育",
-    "context": "女王青少年時期接受憲法教育與歷史課程的學術來源地。",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Etoncollegearms.svg/330px-Etoncollegearms.svg.png"
-  },
-  {
-    "name": "英國國會下議院",
-    "name_en": "House of Commons",
-    "lat": 51.499,
-    "lon": -0.124,
-    "country": "英國",
-    "region": "歐洲",
-    "quote": "下议院就会故意的把门,在皇室的面前关起来,代表说皇室没有权利进入下议院",
-    "context": "位於威斯敏斯特宮，文中描述了其向王室「摔門」的傳統儀式。"
-  },
-  {
-    "name": "英國國會上議院",
-    "name_en": "House of Lords",
-    "lat": 51.498,
-    "lon": -0.125,
-    "country": "英國",
-    "region": "歐洲",
-    "quote": "所以女王就会到上议院去... 听女王讲完他诊断的演讲",
-    "context": "女王進行國會開幕演講的具體場所，也是王室與議會交流的地點。"
+    "quote": "甚至当威易沙白是成人的时候Bobo是唯一的保姆还住在白金汉宫里面",
+    "context": "女王的寢宮，其保姆Bobo成年後也居住於此"
   }
 ]

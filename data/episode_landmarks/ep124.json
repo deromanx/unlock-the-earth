@@ -2,51 +2,21 @@
   {
     "name": "巴西利亞大學",
     "name_en": "University of Brasília",
-    "lat": -15.763,
-    "lon": -47.87,
+    "lat": -15.761,
+    "lon": -47.869,
     "country": "巴西",
     "region": "美洲",
-    "quote": "我是去巴西利亞大學交換，就是在他們首都裡面的大學",
-    "context": "受訪者在此進行人類學研究與大學交換計畫，是本集討論的核心地點。"
+    "quote": "然後我是去巴西利亞大學交換",
+    "context": "講者大學時期前往交換的大學，為本集故事起點"
   },
   {
-    "name": "里約貧民窟",
-    "name_en": "Favelas of Rio de Janeiro",
-    "lat": -22.989,
-    "lon": -43.245,
-    "country": "巴西",
-    "region": "美洲",
-    "quote": "我就很常到里約去做研究啊，以及就是在貧民窟做志工",
-    "context": "受訪者在里約進行人類學田野調查與志工服務的社會社區。"
-  },
-  {
-    "name": "里約海灘",
-    "name_en": "Rio de Janeiro Beaches",
-    "lat": -22.969,
-    "lon": -43.184,
-    "country": "巴西",
-    "region": "美洲",
-    "quote": "里約人不是都喜歡躺在海灘上嗎...我們是住在海灘邊的城市",
-    "context": "里約具代表性的景點與社交場所，體現當地健美文化與生活態度。"
-  },
-  {
-    "name": "國立政治大學",
+    "name": "政治大學",
     "name_en": "National Chengchi University",
-    "lat": 24.988,
+    "lat": 24.987,
     "lon": 121.576,
     "country": "台灣",
     "region": "台灣",
-    "quote": "政大其實有，應該現在我不知道多少，那時候好像都會說是400多所學校",
-    "context": "受訪者原本就讀的大學，也是其申請前往巴西交換的起點。"
-  },
-  {
-    "name": "台北帝國大學",
-    "name_en": "Taihoku Imperial University",
-    "lat": 25.017,
-    "lon": 121.54,
-    "country": "台灣",
-    "region": "台灣",
-    "quote": "一種台北帝國大學的感覺",
-    "context": "受訪者以此校比喻巴西利亞大學在巴西首都的重要地位。"
+    "quote": "就是政大其實有",
+    "context": "講者原就讀的大學，透過該校計畫申請出國"
   }
 ]

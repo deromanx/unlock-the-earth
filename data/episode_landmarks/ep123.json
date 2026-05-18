@@ -6,88 +6,77 @@
     "lon": 58.439,
     "country": "土庫曼",
     "region": "亞洲",
-    "quote": "地獄之門在土庫曼的沙漠中，它其實它大概是一個美式足球場的大小",
-    "context": "位於沙漠中已燃燒50多年的天然氣坑，是土庫曼最著名的景點。",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Darvasa_gas_crater_panorama.jpg/330px-Darvasa_gas_crater_panorama.jpg"
+    "quote": "大部分觀光客進去土庫曼是為了要看地獄之門",
+    "context": "在沙漠中燃燒50年的天然氣坑，是該國最知名觀光景點"
   },
   {
-    "name": "阿蘭姆娛樂中心摩天輪",
-    "name_en": "Alem Cultural and Entertainment Center Ferris Wheel",
-    "lat": 37.892,
-    "lon": 58.326,
+    "name": "阿什哈巴德教育部大樓",
+    "name_en": "Ministry of Education Building",
+    "lat": 37.925,
+    "lon": 58.377,
     "country": "土庫曼",
     "region": "亞洲",
-    "quote": "它還有全世界最大的室內摩天輪...它是高57米",
-    "context": "金氏世界紀錄最大的室內摩天輪，受訪者在此參加跨年晚會。"
-  },
-  {
-    "name": "土庫曼地毯博物館",
-    "name_en": "Turkmen Carpet Museum",
-    "lat": 37.941,
-    "lon": 58.375,
-    "country": "土庫曼",
-    "region": "亞洲",
-    "quote": "它有全世界最大的手工地毯，在它的博物館內，它的面積是300平方公米",
-    "context": "收藏有世界最大手工地毯的博物館，展現土庫曼地毯文化。"
-  },
-  {
-    "name": "奧古茲汗噴泉群",
-    "name_en": "Oguz Khan and Sons Fountain Complex",
-    "lat": 37.892,
-    "lon": 58.379,
-    "country": "土庫曼",
-    "region": "亞洲",
-    "quote": "它也有一個噴泉，是占地15公頃...有27座，所以是世界上最多噴泉",
-    "context": "打破金氏世界紀錄的噴泉建築群，是首都代表性景觀。"
-  },
-  {
-    "name": "阿什哈巴德奧林匹克體育場馬雕像",
-    "name_en": "Ashgabat Olympic Stadium Horse Sculpture",
-    "lat": 37.901,
-    "lon": 58.298,
-    "country": "土庫曼",
-    "region": "亞洲",
-    "quote": "體育場內呢，也有金氏劑紀錄，列為全世界最高的馬型雕像",
-    "context": "體育場上方巨大的汗血寶馬雕像，象徵土庫曼的國家驕傲。"
-  },
-  {
-    "name": "土庫曼廣播電視塔",
-    "name_en": "Turkmenistan Broadcasting Center",
-    "lat": 37.854,
-    "lon": 58.235,
-    "country": "土庫曼",
-    "region": "亞洲",
-    "quote": "它的一個廣播電台，是全世界最大的新型建築...高211米",
-    "context": "位於山頂的星型建築，是世界最大的星形結構建築。"
-  },
-  {
-    "name": "土庫曼教育部大樓",
-    "name_en": "Ministry of Education of Turkmenistan",
-    "lat": 37.915,
-    "lon": 58.343,
-    "country": "土庫曼",
-    "region": "亞洲",
-    "quote": "像他們有個教育部，就設計成像一本書的樣子，然後也是全白",
-    "context": "首都特有的造型建築，外觀設計如同一本翻開的書本。"
-  },
-  {
-    "name": "奧古茲汗總統府",
-    "name_en": "Oguzhan Presidential Palace",
-    "lat": 37.935,
-    "lon": 58.38,
-    "country": "土庫曼",
-    "region": "亞洲",
-    "quote": "因為它在總統府旁邊，所以以前很多那種貴賓啊，都會來住那間旅館",
-    "context": "土庫曼總統的辦公官邸，周邊戒備森嚴且建築宏偉。"
+    "quote": "像他們有個教育部 就設計成像一本書的樣子",
+    "context": "外觀設計如同一本書的純白色政府機關建築"
   },
   {
     "name": "庫尼亞烏爾根奇",
-    "name_en": "Konye-Urgench",
-    "lat": 42.329,
-    "lon": 59.145,
+    "name_en": "Kunya-Urgench",
+    "lat": 42.331,
+    "lon": 59.15,
     "country": "土庫曼",
     "region": "亞洲",
-    "quote": "古波茲首都，Urganch，它是那個思路上非常重要的城市",
-    "context": "古代絲綢之路上的重要城市遺址，曾是花剌子模的首都。"
+    "quote": "像它有之前古波茲首都 Urganch 它是那個思路上非常重要的城市",
+    "context": "過去為絲路上重要城市，現為政府推廣的世界遺產"
+  },
+  {
+    "name": "梅爾夫",
+    "name_en": "Merv",
+    "lat": 37.663,
+    "lon": 62.193,
+    "country": "土庫曼",
+    "region": "亞洲",
+    "quote": "在唐朝的時候也被稱為 莫國的莫福 也很多人會去",
+    "context": "唐朝被稱為莫福的古城遺址，是著名的世界文化遺產"
+  },
+  {
+    "name": "亞勒姆室內摩天輪",
+    "name_en": "Alem Cultural and Entertainment Center",
+    "lat": 37.868,
+    "lon": 58.318,
+    "country": "土庫曼",
+    "region": "亞洲",
+    "quote": "然後它還有全世界最大的室內摩天輪",
+    "context": "擁有金氏世界紀錄的全球最大室內摩天輪，為跨年活動地點"
+  },
+  {
+    "name": "國家地毯博物館",
+    "name_en": "National Carpet Museum",
+    "lat": 37.935,
+    "lon": 58.379,
+    "country": "土庫曼",
+    "region": "亞洲",
+    "quote": "然後它有全世界最大的手工地毯 在它的博物館內",
+    "context": "收藏了一張面積達300平方公尺、全球最大的手工地毯"
+  },
+  {
+    "name": "阿什哈巴德奧林匹克體育場",
+    "name_en": "Ashgabat Olympic Stadium",
+    "lat": 37.904,
+    "lon": 58.38,
+    "country": "土庫曼",
+    "region": "亞洲",
+    "quote": "它的體育場內呢 也有金氏劑紀錄 列為全世界最高的馬型雕像",
+    "context": "體育場內建有全世界最高的馬型雕像，象徵對汗血寶馬的自豪"
+  },
+  {
+    "name": "土庫曼廣播電視中心",
+    "name_en": "Turkmenistan Broadcasting Centre",
+    "lat": 37.873,
+    "lon": 58.312,
+    "country": "土庫曼",
+    "region": "亞洲",
+    "quote": "它的有一個廣播電台 是全世界最大的新型建築",
+    "context": "高達211公尺的巨大星形建築，為世界最大的星形建築"
   }
 ]

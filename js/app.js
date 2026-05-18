@@ -99,6 +99,7 @@ async function init() {
   renderYearFilter();
   document.getElementById('stats')?.addEventListener('click', openStatsModal);
   handleDeepLink();
+  loadVisitedFromUrl();
 }
 
 // ── Map Setup ──────────────────────────────────────────
@@ -782,6 +783,10 @@ function bindEvents() {
     timelineMode ? exitTimelineMode() : enterTimelineMode();
   });
 
+  document.getElementById('visited-btn')?.addEventListener('click', () => {
+    visitedMode ? exitVisitedMode() : enterVisitedMode();
+  });
+
   map.on('click', () => { clearHighlight(); clearMarkerSelect(); });
   map.on('zoomend moveend', applyMarkerSelect);
 }
@@ -970,6 +975,279 @@ function rebuildCluster(predicate) {
   lmMarkers.forEach(({ lm, marker }) => {
     if (predicate(lm)) clusterGroup.addLayer(marker);
   });
+}
+
+// ── Visited Countries Mode ─────────────────────────────
+const ISO_NUM = {
+  "004":["AF","阿富汗"],"008":["AL",null],"010":["AQ","南極洲"],"012":["DZ","阿爾及利亞"],
+  "016":["AS",null],"020":["AD",null],"024":["AO","安哥拉"],"028":["AG",null],
+  "031":["AZ","亞塞拜然"],"032":["AR","阿根廷"],"036":["AU","澳洲"],"040":["AT","奧地利"],
+  "044":["BS",null],"048":["BH",null],"050":["BD",null],"051":["AM","亞美尼亞"],
+  "052":["BB",null],"056":["BE",null],"060":["BM",null],"064":["BT",null],
+  "068":["BO","玻利維亞"],"070":["BA","波士尼亞與赫塞哥維納"],"072":["BW",null],
+  "076":["BR","巴西"],"084":["BZ","貝里斯"],"086":["IO",null],"090":["SB",null],
+  "092":["VG",null],"096":["BN",null],"100":["BG","保加利亞"],"104":["MM","緬甸"],
+  "108":["BI",null],"112":["BY",null],"116":["KH","柬埔寨"],"120":["CM",null],
+  "124":["CA","加拿大"],"132":["CV",null],"136":["KY",null],"140":["CF",null],
+  "144":["LK",null],"148":["TD","查德"],"152":["CL","智利"],"156":["CN","中國"],
+  "158":["TW","台灣"],"162":["CX",null],"166":["CC",null],"170":["CO","哥倫比亞"],
+  "174":["KM",null],"175":["YT",null],"178":["CG",null],"180":["CD","剛果民主共和國"],
+  "184":["CK",null],"188":["CR","哥斯大黎加"],"191":["HR","克羅埃西亞"],
+  "192":["CU","古巴"],"196":["CY","賽普勒斯"],"203":["CZ","捷克"],
+  "204":["BJ",null],"208":["DK","丹麥"],"212":["DM",null],"214":["DO",null],
+  "218":["EC","厄瓜多"],"222":["SV",null],"226":["GQ",null],"231":["ET","衣索比亞"],
+  "232":["ER",null],"233":["EE","愛沙尼亞"],"234":["FO",null],"238":["FK",null],
+  "239":["GS","南喬治亞與南桑威奇群島"],"242":["FJ",null],"246":["FI","芬蘭"],
+  "248":["AX",null],"250":["FR","法國"],"258":["PF",null],"260":["TF",null],
+  "262":["DJ",null],"266":["GA",null],"268":["GE","喬治亞"],"270":["GM",null],
+  "275":["PS","巴勒斯坦"],"276":["DE","德國"],"288":["GH",null],"292":["GI",null],
+  "296":["KI",null],"300":["GR","希臘"],"304":["GL","格陵蘭"],"308":["GD",null],
+  "312":["GP",null],"316":["GU",null],"320":["GT","瓜地馬拉"],"324":["GN",null],
+  "328":["GY",null],"332":["HT",null],"334":["HM",null],"340":["HN",null],
+  "344":["HK","中國香港"],"348":["HU","匈牙利"],"352":["IS","冰島"],"356":["IN","印度"],
+  "360":["ID","印尼"],"364":["IR","伊朗"],"368":["IQ","伊拉克"],"372":["IE","愛爾蘭"],
+  "376":["IL","以色列"],"380":["IT","義大利"],"384":["CI",null],"388":["JM","牙買加"],
+  "392":["JP","日本"],"398":["KZ","哈薩克"],"400":["JO","約旦"],"404":["KE","肯亞"],
+  "408":["KP","北韓"],"410":["KR","南韓"],"414":["KW","科威特"],"417":["KG","吉爾吉斯"],
+  "418":["LA","寮國"],"422":["LB",null],"426":["LS",null],"428":["LV","拉脫維亞"],
+  "430":["LR",null],"434":["LY","利比亞"],"438":["LI",null],"440":["LT","立陶宛"],
+  "442":["LU",null],"446":["MO",null],"450":["MG","馬達加斯加"],"454":["MW","馬拉威"],
+  "458":["MY","馬來西亞"],"462":["MV",null],"466":["ML",null],"470":["MT",null],
+  "474":["MQ",null],"478":["MR",null],"480":["MU","模里西斯"],"484":["MX","墨西哥"],
+  "492":["MC",null],"496":["MN",null],"498":["MD",null],"500":["MS",null],
+  "504":["MA","摩洛哥"],"508":["MZ",null],"512":["OM","阿曼"],"516":["NA","奈米比亞"],
+  "520":["NR","諾魯"],"524":["NP","尼泊爾"],"528":["NL","荷蘭"],"533":["AW",null],
+  "540":["NC",null],"548":["VU",null],"554":["NZ","紐西蘭"],"558":["NI",null],
+  "562":["NE",null],"566":["NG",null],"570":["NU",null],"574":["NF",null],
+  "578":["NO","挪威"],"580":["MP",null],"581":["UM",null],"583":["FM",null],
+  "584":["MH",null],"585":["PW","帛琉"],"586":["PK","巴基斯坦"],"591":["PA","巴拿馬"],
+  "598":["PG",null],"600":["PY","巴拉圭"],"604":["PE","秘魯"],"608":["PH","菲律賓"],
+  "612":["PN",null],"616":["PL","波蘭"],"620":["PT","葡萄牙"],"624":["GW",null],
+  "626":["TL",null],"630":["PR",null],"634":["QA",null],"638":["RE",null],
+  "642":["RO",null],"643":["RU","俄羅斯"],"646":["RW","盧安達"],"652":["BL",null],
+  "654":["SH",null],"659":["KN","聖克里斯多福及尼維斯"],"660":["AI",null],
+  "662":["LC",null],"666":["PM",null],"670":["VC",null],"674":["SM",null],
+  "678":["ST",null],"682":["SA","沙烏地阿拉伯"],"686":["SN","塞內加爾"],
+  "688":["RS","塞爾維亞"],"690":["SC",null],"694":["SL",null],"702":["SG","新加坡"],
+  "703":["SK","斯洛伐克"],"704":["VN","越南"],"706":["SO","索馬利亞"],
+  "710":["ZA","南非"],"716":["ZW","辛巴威"],"724":["ES","西班牙"],"728":["SS",null],
+  "736":["SD",null],"740":["SR",null],"744":["SJ",null],"748":["SZ","史瓦帝尼"],
+  "752":["SE","瑞典"],"756":["CH",null],"760":["SY","敘利亞"],"762":["TJ","塔吉克"],
+  "764":["TH","泰國"],"768":["TG",null],"772":["TK",null],"776":["TO",null],
+  "780":["TT",null],"784":["AE","阿拉伯聯合大公國"],"788":["TN","突尼西亞"],
+  "792":["TR","土耳其"],"795":["TM","土庫曼"],"796":["TC",null],"798":["TV","吐瓦魯"],
+  "800":["UG","烏干達"],"804":["UA",null],"807":["MK",null],"818":["EG","埃及"],
+  "826":["GB","英國"],"831":["GG",null],"832":["JE",null],"833":["IM",null],
+  "834":["TZ","坦尚尼亞"],"840":["US","美國"],"850":["VI",null],"854":["BF",null],
+  "858":["UY",null],"860":["UZ","烏茲別克"],"862":["VE",null],"876":["WF",null],
+  "882":["WS",null],"887":["YE","葉門"],"894":["ZM",null],"983":["XK","科索沃"],
+};
+
+// zh name → alpha2 (多個別名統一)
+const ZH_TO_A2 = {};
+for (const [, [a2, zh]] of Object.entries(ISO_NUM)) {
+  if (zh) ZH_TO_A2[zh] = a2;
+}
+Object.assign(ZH_TO_A2, {
+  '臺灣':'TW','印度尼西亞':'ID','烏幹達':'UG','納米比亞':'NA','韓國':'KR',
+  '約旦/巴勒斯坦':'JO',
+});
+
+let visitedMode = false;
+let visitedCountries = new Set(JSON.parse(localStorage.getItem('ute-visited') || '[]'));
+let countriesLayer = null;
+let countriesGeoCache = null;
+
+function saveVisited() {
+  localStorage.setItem('ute-visited', JSON.stringify([...visitedCountries]));
+}
+
+function loadVisitedFromUrl() {
+  const v = new URLSearchParams(location.search).get('visited');
+  if (v) {
+    visitedCountries = new Set(v.split(',').filter(Boolean));
+    saveVisited();
+  }
+}
+
+async function loadCountriesGeo() {
+  if (countriesGeoCache) return countriesGeoCache;
+  const topo = await fetch('https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json').then(r => r.json());
+  countriesGeoCache = topojson.feature(topo, topo.objects.countries);
+  return countriesGeoCache;
+}
+
+function countryStyleNormal(feature) {
+  const a2 = getA2(feature.id);
+  const visited = a2 && visitedCountries.has(a2);
+  return visited
+    ? { fillColor:'#F5C842', fillOpacity:0.38, color:'#F5C842', weight:1.5, opacity:0.9 }
+    : { fillColor:'transparent', fillOpacity:0, color:'rgba(255,255,255,0.18)', weight:0.5, opacity:1 };
+}
+function countryStyleHover(feature) {
+  const a2 = getA2(feature.id);
+  const visited = a2 && visitedCountries.has(a2);
+  return visited
+    ? { fillColor:'#F5C842', fillOpacity:0.55, color:'#F5C842', weight:2, opacity:1 }
+    : { fillColor:'rgba(245,200,66,0.12)', fillOpacity:1, color:'rgba(245,200,66,0.4)', weight:1, opacity:1 };
+}
+function getA2(numericId) {
+  const key = String(numericId).padStart(3, '0');
+  return ISO_NUM[key] ? ISO_NUM[key][0] : null;
+}
+function getZh(numericId) {
+  const key = String(numericId).padStart(3, '0');
+  return ISO_NUM[key] ? (ISO_NUM[key][1] || ISO_NUM[key][0]) : '';
+}
+
+async function enterVisitedMode() {
+  if (visitedMode) return;
+  visitedMode = true;
+  document.body.classList.add('visited-mode');
+  document.getElementById('visited-btn').classList.add('active');
+
+  const geo = await loadCountriesGeo();
+  countriesLayer = L.geoJSON(geo, {
+    style: countryStyleNormal,
+    onEachFeature: (feature, layer) => {
+      layer.on({
+        mouseover(e) {
+          e.target.setStyle(countryStyleHover(feature));
+          const name = getZh(feature.id);
+          if (name) showCountryTooltip(name, e.originalEvent.clientX, e.originalEvent.clientY);
+        },
+        mouseout(e) {
+          e.target.setStyle(countryStyleNormal(feature));
+          hideCountryTooltip();
+        },
+        click(e) {
+          L.DomEvent.stopPropagation(e);
+          const a2 = getA2(feature.id);
+          if (!a2) return;
+          visitedCountries.has(a2) ? visitedCountries.delete(a2) : visitedCountries.add(a2);
+          e.target.setStyle(countryStyleNormal(feature));
+          saveVisited();
+          renderVisitedPanel();
+        },
+      });
+    },
+  }).addTo(map);
+
+  openPanel();
+  renderVisitedPanel();
+}
+
+function exitVisitedMode() {
+  if (!visitedMode) return;
+  visitedMode = false;
+  document.body.classList.remove('visited-mode');
+  document.getElementById('visited-btn').classList.remove('active');
+  hideVisitedOverlay();
+  if (countriesLayer) { map.removeLayer(countriesLayer); countriesLayer = null; }
+  document.querySelector('.panel-title-row h2').textContent = '集數列表';
+  renderEpisodeList(allEpisodes.filter(e => e.type === 'main'));
+}
+
+function getVisitedDetails() {
+  return [...visitedCountries].map(a2 => {
+    let zh = null;
+    for (const [, [code, name]] of Object.entries(ISO_NUM)) {
+      if (code === a2 && name) { zh = name; break; }
+    }
+    const zhAliases = Object.entries(ZH_TO_A2).filter(([,c]) => c === a2).map(([z]) => z);
+    const lms = allLandmarks.filter(lm => zhAliases.includes(lm.country));
+    const eps = new Set(lms.flatMap(lm => (lm.appearances||[]).map(a => a.ep)));
+    return { a2, zh: zh||a2, epCount: eps.size, lmCount: lms.length };
+  }).sort((a,b) => b.epCount - a.epCount || a.zh.localeCompare(b.zh));
+}
+
+function getFlagEmoji(a2) {
+  if (!a2 || a2.length !== 2) return '🏳️';
+  return String.fromCodePoint(...[...a2.toUpperCase()].map(c => 0x1F1E6 + c.charCodeAt(0) - 65));
+}
+
+function flyToCountryA2(a2) {
+  const aliases = Object.entries(ZH_TO_A2).filter(([,c]) => c === a2).map(([z]) => z);
+  const lms = allLandmarks.filter(lm => aliases.includes(lm.country));
+  if (!lms.length) return;
+  if (lms.length === 1) {
+    map.flyTo([lms[0].lat, lms[0].lon], 6, { duration: 1.2 });
+  } else {
+    map.flyToBounds(L.latLngBounds(lms.map(lm => [lm.lat, lm.lon])).pad(0.3), { duration: 1.3, maxZoom: 7 });
+  }
+}
+
+function renderVisitedPanel() {
+  const count = visitedCountries.size;
+  const pct = Math.round(count / 195 * 100);
+  document.querySelector('.panel-title-row h2').textContent = '我的足跡';
+
+  const countries = getVisitedDetails();
+  document.getElementById('episode-list').innerHTML = `
+    <div class="visited-panel-top">
+      <div class="visited-pct-row">
+        <span class="visited-pct-num">${pct}%</span>
+        <span class="visited-pct-sub">解鎖地球</span>
+      </div>
+      <div class="visited-progress-track">
+        <div class="visited-progress-fill" style="width:${pct}%"></div>
+      </div>
+      <div class="visited-count-line">${count} / 195 個國家</div>
+      ${count > 0 ? `<button class="btn-show-result" onclick="showVisitedOverlay()">查看結果 &amp; 分享 →</button>` : ''}
+    </div>
+    <div class="visited-hint">點擊地圖上的國家來標記足跡</div>
+    ${countries.length ? `
+      <div class="ep-section-label">去過的地方</div>
+      ${countries.map(c => `
+        <div class="visited-country-card" onclick="flyToCountryA2('${c.a2}')">
+          <span class="visited-flag">${getFlagEmoji(c.a2)}</span>
+          <div class="visited-country-info">
+            <div class="visited-country-name">${c.zh}</div>
+            <div class="visited-country-eps">${c.epCount > 0 ? `${c.epCount} 集 · ${c.lmCount} 個地標` : '尚無節目'}</div>
+          </div>
+        </div>
+      `).join('')}
+    ` : ''}
+  `;
+}
+
+function showVisitedOverlay() {
+  const count = visitedCountries.size;
+  const pct = Math.round(count / 195 * 100);
+  document.getElementById('visited-pct-text').textContent = pct + '%';
+  document.getElementById('visited-stats-row').textContent = `你去過 ${count} 個國家 / 195 個`;
+  const countries = getVisitedDetails();
+  document.getElementById('visited-chips').innerHTML = countries.map(c =>
+    `<span class="visited-chip${c.epCount ? ' has-ep' : ''}">${getFlagEmoji(c.a2)} ${c.zh}</span>`
+  ).join('');
+  document.getElementById('visited-overlay').classList.add('open');
+}
+
+function hideVisitedOverlay() {
+  document.getElementById('visited-overlay')?.classList.remove('open');
+}
+
+function copyVisitedShareUrl() {
+  const codes = [...visitedCountries].sort().join(',');
+  const url = new URL(location.href);
+  if (codes) url.searchParams.set('visited', codes);
+  else url.searchParams.delete('visited');
+  navigator.clipboard.writeText(url.toString()).then(() => {
+    const t = document.getElementById('copy-toast');
+    t.classList.add('show');
+    setTimeout(() => t.classList.remove('show'), 2500);
+  });
+}
+
+function showCountryTooltip(name, x, y) {
+  const tip = document.getElementById('country-tooltip');
+  if (!tip) return;
+  tip.textContent = name;
+  tip.style.cssText = `display:block;left:${x+14}px;top:${y-36}px`;
+}
+function hideCountryTooltip() {
+  const tip = document.getElementById('country-tooltip');
+  if (tip) tip.style.display = 'none';
 }
 
 // ── Bootstrap ──────────────────────────────────────────

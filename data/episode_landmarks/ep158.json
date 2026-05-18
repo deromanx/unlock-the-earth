@@ -1,32 +1,22 @@
 [
   {
-    "name": "坦塔大學",
-    "name_en": "Tanta University",
-    "lat": 30.801,
-    "lon": 31.001,
-    "country": "埃及",
-    "region": "非洲",
-    "quote": "那是我大學，就在坦塔大學附設的語言中心，我在那邊讀書",
-    "context": "受訪者留學埃及時就讀的學校及語言中心所在地。"
-  },
-  {
     "name": "坦塔",
     "name_en": "Tanta",
-    "lat": 30.788,
-    "lon": 31.001,
+    "lat": 30.783,
+    "lon": 31.0,
     "country": "埃及",
     "region": "非洲",
-    "quote": "坦塔是哪裡...它是介於開羅跟亞歷山卓中間的一個小小的農業城市",
-    "context": "受訪者留學初期居住的農業城市，被視為進入埃及生活的起點。"
+    "quote": "它是介於開羅跟亞歷山酌中間的一個小小的農業城市",
+    "context": "來賓早期留學的城市，位於農業地帶"
   },
   {
-    "name": "國立政治大學",
-    "name_en": "National Chengchi University",
-    "lat": 24.987,
-    "lon": 121.576,
-    "country": "台灣",
-    "region": "台灣",
-    "quote": "我是政大阿拉伯語系",
-    "context": "受訪者的母校，因科系背景使其開啟與埃及的長達十年的緣分。"
+    "name": "坦塔大學",
+    "name_en": "Tanta University",
+    "lat": 30.792,
+    "lon": 30.999,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "就在坦塔大學附設的語言中心",
+    "context": "來賓初到埃及時學習阿拉伯文的地點"
   }
 ]

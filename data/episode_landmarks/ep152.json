@@ -1,74 +1,12 @@
 [
   {
-    "name": "台北流行音樂中心",
-    "name_en": "Taipei Music Center",
-    "lat": 25.053,
-    "lon": 121.587,
-    "country": "台灣",
-    "region": "台灣",
-    "quote": "地點在台北流行音樂中心",
-    "context": "Hans Zimmer 好萊塢王者之音音樂會的舉辦場地。"
-  },
-  {
-    "name": "亞馬爾半島",
-    "name_en": "Yamal Peninsula",
-    "lat": 70.0,
-    "lon": 70.0,
-    "country": "俄羅斯",
-    "region": "亞洲",
-    "quote": "Rafael來分享他在亞馬爾半島上面的旅程",
-    "context": "嘉賓前一次極地探險的所在地，討論涅涅茨文化。",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Demis_-_Yamal_and_surroundings.png/330px-Demis_-_Yamal_and_surroundings.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "貝加爾湖",
-    "name_en": "Lake Baikal",
-    "lat": 53.558,
-    "lon": 108.165,
-    "country": "俄羅斯",
-    "region": "亞洲",
-    "quote": "它那邊離貝加爾湖很近",
-    "context": "用於定位圖瓦共和國地理位置的重要參考地標。",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Baikal.A2001296.0420.250m-NASA.jpg/330px-Baikal.A2001296.0420.250m-NASA.jpg"
-  },
-  {
-    "name": "圖瓦呼麥中心",
-    "name_en": "International Scientific Centre Khoomei",
-    "lat": 51.719,
-    "lon": 94.437,
-    "country": "俄羅斯",
-    "region": "亞洲",
-    "quote": "去呼麥中心,然後找呼麥老師討論一下學習事宜",
-    "context": "嘉賓前往尋找老師學習圖瓦喉音藝術「呼麥」的專門機構。"
-  },
-  {
     "name": "亞洲中心紀念碑",
     "name_en": "Center of Asia Monument",
-    "lat": 51.721,
-    "lon": 94.453,
-    "country": "俄羅斯",
-    "region": "亞洲",
-    "quote": "看就叫做Central of Asia...它有一個柱子在那邊標記出來",
-    "context": "位於圖瓦首府克孜勒，標示亞洲地理中心的標誌性建築。"
-  },
-  {
-    "name": "克孜勒市中心廣場",
-    "name_en": "Kyzyl Central Square",
-    "lat": 51.72,
-    "lon": 94.441,
-    "country": "俄羅斯",
-    "region": "亞洲",
-    "quote": "到市區之後,我們還在他們的市中心廣場上,就是喝咖啡",
-    "context": "嘉賓在圖瓦首府（克斯蘭）觀察城市建築與當地生活的地點。"
-  },
-  {
-    "name": "采臣林寺",
-    "name_en": "Tsechenling Buddhist Temple",
-    "lat": 51.721,
+    "lat": 51.723,
     "lon": 94.444,
     "country": "俄羅斯",
     "region": "亞洲",
-    "quote": "寺廟它很特別的地方...地下室是有餐廳的",
-    "context": "當地獨特的藏傳佛教寺廟，設有餐廳供僧人與信眾用餐。"
+    "quote": "看就叫做Central of Asia",
+    "context": "位於圖瓦首都的紀念碑，標示亞洲的地理中心"
   }
 ]

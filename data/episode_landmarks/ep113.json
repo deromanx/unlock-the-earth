@@ -1,34 +1,33 @@
 [
   {
-    "name": "烏斯華雅",
-    "name_en": "Ushuaia",
-    "lat": -54.801,
-    "lon": -68.303,
-    "country": "阿根廷",
-    "region": "美洲",
-    "quote": "通常終點站都是烏斯華雅",
-    "context": "前往南極探險船的主要起訖點港口城市。",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Ushuaia_aerial_panorama.jpg/330px-Ushuaia_aerial_panorama.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
     "name": "德雷克海峽",
     "name_en": "Drake Passage",
     "lat": -58.583,
-    "lon": -67.266,
-    "country": "南極洲",
+    "lon": -62.033,
+    "country": "國際水域",
     "region": "極地",
     "quote": "因為我們剛剛不是說過會經過那個 Drag Passage 那個海峽嗎",
-    "context": "前往南極必經的顛簸海域，以暈船聞名。"
+    "context": "前往南極途中必經的海峽，風浪極大容易造成暈船"
   },
   {
-    "name": "洛克羅伊港 (英國南極研究站)",
-    "name_en": "Port Lockroy (Base A)",
+    "name": "英國研究站 (洛克羅伊港)",
+    "name_en": "Port Lockroy",
     "lat": -64.825,
     "lon": -63.494,
     "country": "南極洲",
     "region": "極地",
-    "quote": "如果你去英國的研究站...他們就會有一個很特別就是你會有一個小屋可以給你買紀念品",
-    "context": "南極著名的郵局所在地，可寄明信片與購物。"
+    "quote": "就是南極船應該都會經過英國的那個研究站",
+    "context": "遊客可在此購買紀念品並從南極寄明信片"
+  },
+  {
+    "name": "烏斯懷亞",
+    "name_en": "Ushuaia",
+    "lat": -54.802,
+    "lon": -68.303,
+    "country": "阿根廷",
+    "region": "美洲",
+    "quote": "通常終點站都是烏斯華雅",
+    "context": "南極船的起點或終點，背包客可在此等待便宜船票"
   },
   {
     "name": "南極半島",
@@ -37,19 +36,17 @@
     "lon": -65.0,
     "country": "南極洲",
     "region": "極地",
-    "quote": "我是去玩那種11天的那種，就只會在南極半島登錄而已",
-    "context": "南極旅遊最常登陸、觀察企鵝與地質的區域。",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Antpen-en.png/330px-Antpen-en.png"
+    "quote": "就只會在南極半島登陸而已",
+    "context": "11天短天數南極行程主要的登陸與活動範圍"
   },
   {
     "name": "南喬治亞島",
-    "name_en": "South Georgia Island",
-    "lat": -54.25,
-    "lon": -36.75,
-    "country": "南喬治亞與南桑威奇群島",
+    "name_en": "South Georgia",
+    "lat": -54.283,
+    "lon": -36.5,
+    "country": "英國",
     "region": "極地",
-    "quote": "然後你就可以到好像是南喬治亞島吧那 South Georgia",
-    "context": "長天數行程中可見到國王企鵝的特定島嶼。",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/South_Georgia_Island_as_seen_by_Sentinel-2.jpg/330px-South_Georgia_Island_as_seen_by_Sentinel-2.jpg"
+    "quote": "然後你就可以到 好像是南喬治亞島吧",
+    "context": "天數較長的行程會前往的島嶼，可看見國王企鵝"
   }
 ]
