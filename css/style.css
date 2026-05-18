@@ -1157,6 +1157,10 @@ body.timeline-mode #year-filter-row { display: none; }
 }
 
 /* ── Visited Countries Mode ────────────────────────────── */
+body.visited-mode .search-box,
+body.visited-mode .region-filters,
+body.visited-mode .year-filter-row { display: none !important; }
+
 .btn-visited-float {
   position: fixed;
   bottom: 88px;
