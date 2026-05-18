@@ -1070,10 +1070,37 @@ function loadVisitedFromUrl() {
   }
 }
 
+// Normalize ring coordinates so no two adjacent points jump >180° in longitude.
+// This fixes Leaflet's antimeridian rendering bug (Russia, Fiji, etc. appearing as bands).
+function fixRing(ring) {
+  if (!ring.length) return ring;
+  const out = [[...ring[0]]];
+  for (let i = 1; i < ring.length; i++) {
+    const prev = out[i - 1];
+    const cur = [...ring[i]];
+    while (cur[0] - prev[0] > 180) cur[0] -= 360;
+    while (cur[0] - prev[0] < -180) cur[0] += 360;
+    out.push(cur);
+  }
+  return out;
+}
+function fixAntimeridian(geojson) {
+  for (const f of geojson.features) {
+    const g = f.geometry;
+    if (!g) continue;
+    if (g.type === 'Polygon') {
+      g.coordinates = g.coordinates.map(fixRing);
+    } else if (g.type === 'MultiPolygon') {
+      g.coordinates = g.coordinates.map(poly => poly.map(fixRing));
+    }
+  }
+  return geojson;
+}
+
 async function loadCountriesGeo() {
   if (countriesGeoCache) return countriesGeoCache;
   const topo = await fetch('https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json').then(r => r.json());
-  countriesGeoCache = topojson.feature(topo, topo.objects.countries);
+  countriesGeoCache = fixAntimeridian(topojson.feature(topo, topo.objects.countries));
   return countriesGeoCache;
 }
 
