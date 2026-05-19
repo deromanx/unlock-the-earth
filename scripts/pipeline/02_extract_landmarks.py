@@ -103,9 +103,9 @@ def extract_landmarks(ep_num, prompt_template=GEMINI_PROMPT_TEMPLATE, min_releva
     clean_env = {k: v for k, v in os.environ.items() if k != 'NODE_OPTIONS'}
     try:
         result = subprocess.run(
-            ['gemini', '-p', prompt],
+            ['gemini', '--sandbox=false', '-p', prompt],
             capture_output=True, text=True, timeout=300,
-            env=clean_env,
+            env=clean_env, input='\n',
         )
         if result.returncode != 0:
             print(f"  Gemini error: {result.stderr[:200]}")
@@ -116,6 +116,8 @@ def extract_landmarks(ep_num, prompt_template=GEMINI_PROMPT_TEMPLATE, min_releva
 
     raw = result.stdout.strip()
 
+    # Strip interactive prompts that leak to stdout in non-TTY mode (e.g. "[Y/n]")
+    raw = re.sub(r'\[Y/n\]', '', raw)
     # Strip markdown code blocks if present
     raw = re.sub(r'^```(?:json)?\s*', '', raw, flags=re.MULTILINE)
     raw = re.sub(r'```\s*$', '', raw, flags=re.MULTILINE)
