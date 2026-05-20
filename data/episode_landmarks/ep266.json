@@ -1,0 +1,112 @@
+[
+  {
+    "name": "大英博物馆",
+    "name_en": "British Museum",
+    "lat": 51.519,
+    "lon": -0.127,
+    "country": "英国",
+    "region": "歐洲",
+    "quote": "在辣英博物馆办了一个有关缅甸的文化展览",
+    "context": "提及在此举办了有关缅甸独立和文化传承的展览"
+  },
+  {
+    "name": "布莱顿皇家穹顶宫",
+    "name_en": "Royal Pavilion",
+    "lat": 50.822,
+    "lon": -0.138,
+    "country": "英国",
+    "region": "歐洲",
+    "quote": "叫Brighton Pavilion 里面有很多假的中国元素",
+    "context": "乔治四世建造的仿中国宫殿，洗发大王曾在此服务"
+  },
+  {
+    "name": "布莱顿博物馆",
+    "name_en": "Brighton Museum & Art Gallery",
+    "lat": 50.823,
+    "lon": -0.139,
+    "country": "英国",
+    "region": "歐洲",
+    "quote": "在Brighton博物馆里面 有一幅他的这个肖像画",
+    "context": "馆内藏有洗发大王Saki de Muhammad的画像"
+  },
+  {
+    "name": "内殿律师学院",
+    "name_en": "Inner Temple",
+    "lat": 51.513,
+    "lon": -0.109,
+    "country": "英国",
+    "region": "歐洲",
+    "quote": "他当时是在这个In the Temple这 其实跟我们之前那一集聊 孙文住的地方非常的近",
+    "context": "甘地在伦敦求学读法律时的居住或活动地"
+  },
+  {
+    "name": "舰队街（印刷街）",
+    "name_en": "Fleet Street",
+    "lat": 51.514,
+    "lon": -0.108,
+    "country": "英国",
+    "region": "歐洲",
+    "quote": "就是在这个印刷街 Fleet Street 印刷机就开始在这里",
+    "context": "伦敦早期的报业、印刷中心和媒体街"
+  },
+  {
+    "name": "伦敦大学",
+    "name_en": "University of London",
+    "lat": 51.522,
+    "lon": -0.129,
+    "country": "英国",
+    "region": "歐洲",
+    "quote": "尤其是靠近我们的伦敦大学...为这个日本的那个长洲舞节 立了一个纪念碑",
+    "context": "附近立有日本长州五杰的纪念碑"
+  },
+  {
+    "name": "塔维斯托克广场",
+    "name_en": "Tavistock Square",
+    "lat": 51.525,
+    "lon": -0.129,
+    "country": "英国",
+    "region": "歐洲",
+    "quote": "离他不远旁边有一个公园 叫Tavistock Square 里面也有一个甘地的纪念雕像",
+    "context": "广场内立有圣雄甘地的纪念雕像"
+  },
+  {
+    "name": "英国国会大厦",
+    "name_en": "Palace of Westminster",
+    "lat": 51.499,
+    "lon": -0.124,
+    "country": "英国",
+    "region": "歐洲",
+    "quote": "就在国会的对面 就有一个圣雄甘地的雕像",
+    "context": "甘地雕像所在地的地标参考"
+  },
+  {
+    "name": "白金汉宫",
+    "name_en": "Buckingham Palace",
+    "lat": 51.501,
+    "lon": -0.141,
+    "country": "英国",
+    "region": "歐洲",
+    "quote": "1931年的时候 他去白金汉宫 接见当时的这个国王",
+    "context": "甘地以简朴穿着会见英国国王的地方"
+  },
+  {
+    "name": "红砖巷",
+    "name_en": "Brick Lane",
+    "lat": 51.52,
+    "lon": -0.071,
+    "country": "英国",
+    "region": "歐洲",
+    "quote": "叫做红专街 在红专街这 其实他早期是一个 这个法国移民的区域",
+    "context": "伦敦著名移民社区，曾有法国、犹太和孟加拉移民聚集"
+  },
+  {
+    "name": "克拉珀姆",
+    "name_en": "Clapham",
+    "lat": 51.462,
+    "lon": -0.138,
+    "country": "英国",
+    "region": "歐洲",
+    "quote": "在伦敦有个地方叫Claphan那边 那开始出现了几个quaker的信徒",
+    "context": "克拉珀姆教派聚集地，也是英国废奴运动发源地之一"
+  }
+]

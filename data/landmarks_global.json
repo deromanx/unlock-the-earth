@@ -541,29 +541,29 @@
     ]
   },
   {
-    "name": "特拉法加广场",
-    "name_en": "Trafalgar Square",
-    "lat": 51.508,
-    "lon": -0.128,
+    "name": "白金汉宫",
+    "name_en": "Buckingham Palace",
+    "lat": 51.501,
+    "lon": -0.141,
     "country": "英国",
-    "region": "亞洲",
+    "region": "歐洲",
     "appearances": [
       {
-        "ep": 184,
-        "quote": "你会走在特拉法加广场底下的那个隧道",
-        "context": "其底下隧道为007电影中奔跑场景的实际拍摄地",
+        "ep": 108,
+        "quote": "甚至当威易沙白是成人的时候Bobo是唯一的保姆还住在白金汉宫里面",
+        "context": "女王的寢宮，其保姆Bobo成年後也居住於此",
         "source": "transcript"
       },
       {
-        "ep": 265,
-        "quote": "靠近特拉法家广场 就是Trafalgo Square那里 有一个pop叫做The Old Shade",
-        "context": "标示相关酒馆与教堂位置的重要地标",
+        "ep": 149,
+        "quote": "可是現在像白金漢宮前方 其實在下午的時候 你就會看到很多軍隊正在排演了",
+        "context": "提及加冕典禮前已有軍隊在此排演",
         "source": "transcript"
       },
       {
-        "ep": 999,
-        "quote": "然後我們走到了特拉法加廣場，Trafalgar Square",
-        "context": "倫敦市中心的著名地標廣場",
+        "ep": 266,
+        "quote": "1931年的时候 他去白金汉宫 接见当时的这个国王",
+        "context": "甘地以简朴穿着会见英国国王的地方",
         "source": "transcript"
       }
     ]
@@ -1022,9 +1022,9 @@
         "source": "transcript"
       },
       {
-        "ep": 999,
-        "quote": "首先參觀的是大英博物館，英文叫做British Museum",
-        "context": "位於布盧姆斯伯里的著名博物館",
+        "ep": 266,
+        "quote": "在辣英博物馆办了一个有关缅甸的文化展览",
+        "context": "提及在此举办了有关缅甸独立和文化传承的展览",
         "source": "transcript"
       }
     ]
@@ -1341,23 +1341,23 @@
     ]
   },
   {
-    "name": "白金汉宫",
-    "name_en": "Buckingham Palace",
-    "lat": 51.501,
-    "lon": -0.141,
+    "name": "特拉法加广场",
+    "name_en": "Trafalgar Square",
+    "lat": 51.508,
+    "lon": -0.128,
     "country": "英国",
-    "region": "歐洲",
+    "region": "亞洲",
     "appearances": [
       {
-        "ep": 108,
-        "quote": "甚至当威易沙白是成人的时候Bobo是唯一的保姆还住在白金汉宫里面",
-        "context": "女王的寢宮，其保姆Bobo成年後也居住於此",
+        "ep": 184,
+        "quote": "你会走在特拉法加广场底下的那个隧道",
+        "context": "其底下隧道为007电影中奔跑场景的实际拍摄地",
         "source": "transcript"
       },
       {
-        "ep": 149,
-        "quote": "可是現在像白金漢宮前方 其實在下午的時候 你就會看到很多軍隊正在排演了",
-        "context": "提及加冕典禮前已有軍隊在此排演",
+        "ep": 265,
+        "quote": "靠近特拉法家广场 就是Trafalgo Square那里 有一个pop叫做The Old Shade",
+        "context": "标示相关酒馆与教堂位置的重要地标",
         "source": "transcript"
       }
     ]
@@ -3230,6 +3230,22 @@
     ]
   },
   {
+    "name": "伦敦大学",
+    "name_en": "University of London",
+    "lat": 51.522,
+    "lon": -0.129,
+    "country": "英国",
+    "region": "歐洲",
+    "appearances": [
+      {
+        "ep": 266,
+        "quote": "尤其是靠近我们的伦敦大学...为这个日本的那个长洲舞节 立了一个纪念碑",
+        "context": "附近立有日本长州五杰的纪念碑",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
     "name": "伦敦政经学院",
     "name_en": "London School of Economics (LSE)",
     "lat": 51.514,
@@ -3342,22 +3358,6 @@
     ]
   },
   {
-    "name": "倫敦眼",
-    "name_en": "London Eye",
-    "lat": 51.5033,
-    "lon": -0.1195,
-    "country": "英國",
-    "region": "歐洲",
-    "appearances": [
-      {
-        "ep": 999,
-        "quote": "看到了倫敦眼，London Eye",
-        "context": "泰晤士河畔的著名觀景摩天輪",
-        "source": "transcript"
-      }
-    ]
-  },
-  {
     "name": "倫敦閣",
     "name_en": "London Court",
     "lat": -31.953,
@@ -3402,6 +3402,22 @@
         "ep": 203,
         "quote": "還有社團，什麼光明社，這些都有。",
         "context": "拉旭當地發達的民間社團之一，展現了緊密的社群網絡。",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "name": "克拉珀姆",
+    "name_en": "Clapham",
+    "lat": 51.462,
+    "lon": -0.138,
+    "country": "英国",
+    "region": "歐洲",
+    "appearances": [
+      {
+        "ep": 266,
+        "quote": "在伦敦有个地方叫Claphan那边 那开始出现了几个quaker的信徒",
+        "context": "克拉珀姆教派聚集地，也是英国废奴运动发源地之一",
         "source": "transcript"
       }
     ]
@@ -3482,6 +3498,22 @@
         "ep": 232,
         "quote": "就发现你知道在洛杉矶有个六骑乐园吗",
         "context": "曾舉辦生吃馬達加斯加蟑螂以換取特權的活動",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "name": "内殿律师学院",
+    "name_en": "Inner Temple",
+    "lat": 51.513,
+    "lon": -0.109,
+    "country": "英国",
+    "region": "歐洲",
+    "appearances": [
+      {
+        "ep": 266,
+        "quote": "他当时是在这个In the Temple这 其实跟我们之前那一集聊 孙文住的地方非常的近",
+        "context": "甘地在伦敦求学读法律时的居住或活动地",
         "source": "transcript"
       }
     ]
@@ -5550,6 +5582,22 @@
     ]
   },
   {
+    "name": "塔维斯托克广场",
+    "name_en": "Tavistock Square",
+    "lat": 51.525,
+    "lon": -0.129,
+    "country": "英国",
+    "region": "歐洲",
+    "appearances": [
+      {
+        "ep": 266,
+        "quote": "离他不远旁边有一个公园 叫Tavistock Square 里面也有一个甘地的纪念雕像",
+        "context": "广场内立有圣雄甘地的纪念雕像",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
     "name": "塔蘭吉雷國家公園",
     "name_en": "Tarangire National Park",
     "lat": -3.833,
@@ -6416,22 +6464,6 @@
         "ep": 225,
         "quote": "有一个小小的pub他叫做William Butler's Head Pub",
         "context": "17世紀醫生威廉巴特勒以奇妙方式行醫的酒吧",
-        "source": "transcript"
-      }
-    ]
-  },
-  {
-    "name": "威斯敏斯特橋",
-    "name_en": "Westminster Bridge",
-    "lat": 51.5008,
-    "lon": -0.1216,
-    "country": "英國",
-    "region": "歐洲",
-    "appearances": [
-      {
-        "ep": 999,
-        "quote": "還有威斯敏斯特橋。",
-        "context": "橫跨泰晤士河的歷史悠久橋樑",
         "source": "transcript"
       }
     ]
@@ -7309,6 +7341,38 @@
     ]
   },
   {
+    "name": "布莱顿博物馆",
+    "name_en": "Brighton Museum & Art Gallery",
+    "lat": 50.823,
+    "lon": -0.139,
+    "country": "英国",
+    "region": "歐洲",
+    "appearances": [
+      {
+        "ep": 266,
+        "quote": "在Brighton博物馆里面 有一幅他的这个肖像画",
+        "context": "馆内藏有洗发大王Saki de Muhammad的画像",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "name": "布莱顿皇家穹顶宫",
+    "name_en": "Royal Pavilion",
+    "lat": 50.822,
+    "lon": -0.138,
+    "country": "英国",
+    "region": "歐洲",
+    "appearances": [
+      {
+        "ep": 266,
+        "quote": "叫Brighton Pavilion 里面有很多假的中国元素",
+        "context": "乔治四世建造的仿中国宫殿，洗发大王曾在此服务",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
     "name": "布萊頓海灘",
     "name_en": "Brighton Beach",
     "lat": 50.819,
@@ -7320,22 +7384,6 @@
         "ep": 188,
         "quote": "純粹是因為我討厭岩灘...如果有人很喜歡那個岩石海灘Brighton是你一定要去的地方",
         "context": "以著名的岩石海灘（岩灘）聞名，是倫敦近郊熱門的一日遊目的地。",
-        "source": "transcript"
-      }
-    ]
-  },
-  {
-    "name": "布里克斯頓",
-    "name_en": "Brixton",
-    "lat": 51.4621,
-    "lon": -0.1147,
-    "country": "英國",
-    "region": "歐洲",
-    "appearances": [
-      {
-        "ep": 999,
-        "quote": "下午我們去了布里克斯頓，Brixton，這是倫敦著名的加勒比海社區",
-        "context": "具備濃厚加勒比海風情的社區",
         "source": "transcript"
       }
     ]
@@ -11437,22 +11485,6 @@
     ]
   },
   {
-    "name": "納爾遜紀念柱",
-    "name_en": "Nelson's Column",
-    "lat": 51.5077,
-    "lon": -0.1279,
-    "country": "英國",
-    "region": "歐洲",
-    "appearances": [
-      {
-        "ep": 999,
-        "quote": "這裡有納爾遜紀念柱，非常壯觀。",
-        "context": "位於特拉法加廣場的標誌性紀念柱",
-        "source": "transcript"
-      }
-    ]
-  },
-  {
     "name": "索契",
     "name_en": "Sochi",
     "lat": 43.585,
@@ -11640,6 +11672,22 @@
         "ep": 112,
         "quote": "所以我是透过那个 就是那个国家公园 黑猩猩的国家公园 帮我申请的",
         "context": "前往剛果看黑猩猩的目的地，且協助辦理簽證",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "name": "红砖巷",
+    "name_en": "Brick Lane",
+    "lat": 51.52,
+    "lon": -0.071,
+    "country": "英国",
+    "region": "歐洲",
+    "appearances": [
+      {
+        "ep": 266,
+        "quote": "叫做红专街 在红专街这 其实他早期是一个 这个法国移民的区域",
+        "context": "伦敦著名移民社区，曾有法国、犹太和孟加拉移民聚集",
         "source": "transcript"
       }
     ]
@@ -12192,6 +12240,22 @@
     ]
   },
   {
+    "name": "舰队街（印刷街）",
+    "name_en": "Fleet Street",
+    "lat": 51.514,
+    "lon": -0.108,
+    "country": "英国",
+    "region": "歐洲",
+    "appearances": [
+      {
+        "ep": 266,
+        "quote": "就是在这个印刷街 Fleet Street 印刷机就开始在这里",
+        "context": "伦敦早期的报业、印刷中心和媒体街",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
     "name": "艾比爾",
     "name_en": "Erbil",
     "lat": 36.191,
@@ -12268,6 +12332,22 @@
         "ep": 119,
         "quote": "老师就带着我们去到 其中的一个村庄 那个村庄叫苦旧村",
         "context": "瑪琅附近的偏鄉村落，是團隊開發深度體驗行程的核心地點。",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "name": "英国国会大厦",
+    "name_en": "Palace of Westminster",
+    "lat": 51.499,
+    "lon": -0.124,
+    "country": "英国",
+    "region": "歐洲",
+    "appearances": [
+      {
+        "ep": 266,
+        "quote": "就在国会的对面 就有一个圣雄甘地的雕像",
+        "context": "甘地雕像所在地的地标参考",
         "source": "transcript"
       }
     ]
