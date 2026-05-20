@@ -1,135 +1,132 @@
 [
   {
-    "name": "柏林圍牆",
+    "name": "柏林围墙",
     "name_en": "Berlin Wall",
     "lat": 52.535,
     "lon": 13.39,
     "country": "德國",
     "region": "歐洲",
-    "quote": "你到這個城市的時候，你就會感受到柏林圍牆在召喚你",
-    "context": "柏林最具代表性的歷史地標，象徵東西德分裂時期。",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Berlinermauer.jpg/330px-Berlinermauer.jpg"
+    "quote": "你就会感受到柏林围墙 在召唤你",
+    "context": "代表柏林歷史與城市氛圍的重要標誌"
   },
   {
-    "name": "查理大橋",
+    "name": "海德堡老街",
+    "name_en": "Heidelberg Old Town / Hauptstraße",
+    "lat": 49.412,
+    "lon": 8.71,
+    "country": "德國",
+    "region": "歐洲",
+    "quote": "像以海德堡来说 你知道海德堡老街长什么样吗",
+    "context": "與捷克錯綜複雜的老城街道做對比"
+  },
+  {
+    "name": "查理大桥",
     "name_en": "Charles Bridge",
     "lat": 50.086,
     "lon": 14.411,
     "country": "捷克",
     "region": "歐洲",
-    "quote": "查理大橋就是橫跨其實他橋超多的，就只有那一條比較有名",
-    "context": "布拉格最古老的橋樑，橫跨福爾塔瓦河，橋上有許多雕像。",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Prague_07-2016_view_from_Lesser_Town_Tower_of_Charles_Bridge_img3.jpg/330px-Prague_07-2016_view_from_Lesser_Town_Tower_of_Charles_Bridge_img3.jpg"
+    "quote": "他算是横跨啊 布拉格左右 东西两边",
+    "context": "布拉格最老、橫跨福爾塔瓦河的橋樑"
   },
   {
-    "name": "聖約翰雕像",
-    "name_en": "Statue of St. John of Nepomuk",
+    "name": "福尔塔瓦河",
+    "name_en": "Vltava River",
+    "lat": 50.086,
+    "lon": 14.412,
+    "country": "捷克",
+    "region": "歐洲",
+    "quote": "因为布拉格是被河 那个福尔塔瓦河切开嘛",
+    "context": "切開布拉格東西兩邊的河流"
+  },
+  {
+    "name": "圣约翰的雕像",
+    "name_en": "Statue of John of Nepomuk",
     "lat": 50.086,
     "lon": 14.411,
     "country": "捷克",
     "region": "歐洲",
-    "quote": "其中一個聖約翰啊，對，那你知道他的故事嗎",
-    "context": "位於查理大橋上，遊客爭相撫摸以求幸運的知名雕像。"
+    "quote": "那就是圣约翰的雕像",
+    "context": "查理大橋上有著神祕傳說的雕像"
   },
   {
-    "name": "老城廣場",
+    "name": "老城广场",
     "name_en": "Old Town Square",
     "lat": 50.087,
     "lon": 14.421,
     "country": "捷克",
     "region": "歐洲",
-    "quote": "我很喜歡熱愛他的那個老城廣場，那個廣場我真的流連忘返",
-    "context": "布拉格歷史中心，周圍環繞提恩教堂與天文鐘。",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Prague_07-2016_View_from_Old_Town_Hall_Tower_img3.jpg/330px-Prague_07-2016_View_from_Old_Town_Hall_Tower_img3.jpg"
+    "quote": "那个老城广场 其实他连名字都没有 就叫老城广场",
+    "context": "布拉格老城區中心，能看見歷史流變"
   },
   {
     "name": "提恩教堂",
     "name_en": "Church of Our Lady before Týn",
-    "lat": 50.087,
-    "lon": 14.422,
+    "lat": 50.088,
+    "lon": 14.423,
     "country": "捷克",
     "region": "歐洲",
-    "quote": "像他最大的提恩教堂，嗯，可是提恩教堂其實蠻詭異的",
-    "context": "老城廣場上的重要地標，其雙塔外觀獨特。"
+    "quote": "像他最大的 提恩教堂 嗯 可是提恩教堂 其实蛮诡异的",
+    "context": "老城廣場上被公寓建築擋住正面的教堂"
   },
   {
-    "name": "布拉格天文鐘",
+    "name": "天文鐘(字幕作天文中)",
     "name_en": "Prague Astronomical Clock",
-    "lat": 50.087,
-    "lon": 14.42,
-    "country": "捷克",
-    "region": "歐洲",
-    "quote": "天文鐘你是一定會看到的，對，一定會去看",
-    "context": "中世紀精密機關，整點會有機械偶演出，是遊客必看景點。"
-  },
-  {
-    "name": "布拉格舊市政廳",
-    "name_en": "Old Town Hall",
-    "lat": 50.087,
-    "lon": 14.42,
-    "country": "捷克",
-    "region": "歐洲",
-    "quote": "他後面連接了就是他的那個布拉格的舊市政庭",
-    "context": "與天文鐘相連的建築，可登塔俯瞰老城廣場全景。"
-  },
-  {
-    "name": "猶太區",
-    "name_en": "Josefov",
-    "lat": 50.089,
-    "lon": 14.417,
-    "country": "捷克",
-    "region": "歐洲",
-    "quote": "在老城廣場附近，好像要走一段路，然後附近有個猶太區",
-    "context": "布拉格歷史悠久的猶太人聚居地，包含公墓與教堂。"
-  },
-  {
-    "name": "古今教堂",
-    "name_en": "Old-New Synagogue",
-    "lat": 50.09,
-    "lon": 14.418,
-    "country": "捷克",
-    "region": "歐洲",
-    "quote": "一個就是他的教堂什麼古今教堂，我有參加那個猶太區的導覽",
-    "context": "歐洲仍在使用的最古老猶太教堂之一。"
-  },
-  {
-    "name": "老猶太公墓",
-    "name_en": "Old Jewish Cemetery",
-    "lat": 50.089,
-    "lon": 14.417,
-    "country": "捷克",
-    "region": "歐洲",
-    "quote": "反正那時候我原本想要去，我不知道你有沒有去那個老猶太公墓",
-    "context": "堆疊多層墓碑的震撼景象，反映了猶太歷史的艱辛。"
-  },
-  {
-    "name": "沃姆斯猶太公墓",
-    "name_en": "Heiliger Sand (Jewish Cemetery in Worms)",
-    "lat": 49.629,
-    "lon": 8.355,
-    "country": "德國",
-    "region": "歐洲",
-    "quote": "叫Worms然後它裡面有一個老猶太公墓長一模一樣",
-    "context": "位於德國沃姆斯，是歐洲最古老的原址猶太公墓。"
-  },
-  {
-    "name": "胡思雕像",
-    "name_en": "Jan Hus Memorial",
     "lat": 50.087,
     "lon": 14.421,
     "country": "捷克",
     "region": "歐洲",
-    "quote": "你可以在廣場上面看到一個胡思雕像，胡思雕像",
-    "context": "紀念捷克宗教改革家揚·胡斯的雕像，位於老城廣場。"
+    "quote": "像最大的就是天文中",
+    "context": "老城廣場上具備複雜機關的15世紀古鐘"
   },
   {
-    "name": "伏爾塔瓦河",
-    "name_en": "Vltava River",
-    "lat": 50.083,
-    "lon": 14.413,
+    "name": "旧市政庭",
+    "name_en": "Old Town Hall (Prague)",
+    "lat": 50.087,
+    "lon": 14.42,
     "country": "捷克",
     "region": "歐洲",
-    "quote": "因為布拉格是被河，那個福爾塔瓦河切開嘛",
-    "context": "貫穿布拉格的母親河，查理大橋即跨越此河。"
+    "quote": "他后面连接了 就是他的那个 布拉格的旧市政庭",
+    "context": "天文鐘後方連接的建築，可登頂看風景"
+  },
+  {
+    "name": "犹太区",
+    "name_en": "Jewish Quarter (Josefov)",
+    "lat": 50.09,
+    "lon": 14.418,
+    "country": "捷克",
+    "region": "歐洲",
+    "quote": "然后附近有个犹太区",
+    "context": "保留龐大猶太社群歷史與建築的街區"
+  },
+  {
+    "name": "老犹太公墓(布拉格)",
+    "name_en": "Old Jewish Cemetery (Prague)",
+    "lat": 50.09,
+    "lon": 14.417,
+    "country": "捷克",
+    "region": "歐洲",
+    "quote": "我不知道你有没有去那个老犹太公墓",
+    "context": "猶太區內擁擠且層疊的古老墓地"
+  },
+  {
+    "name": "Worms老犹太公墓",
+    "name_en": "Heiliger Sand (Worms)",
+    "lat": 49.629,
+    "lon": 8.354,
+    "country": "德國",
+    "region": "歐洲",
+    "quote": "叫Worms 然后它里面有一个老犹太公墓",
+    "context": "德國城市內類似布拉格的猶太公墓"
+  },
+  {
+    "name": "胡思雕像",
+    "name_en": "Jan Hus Monument",
+    "lat": 50.088,
+    "lon": 14.421,
+    "country": "捷克",
+    "region": "歐洲",
+    "quote": "看到一个胡思雕像",
+    "context": "老城廣場上紀念宗教改革領袖的雕像"
   }
 ]

@@ -1,22 +1,42 @@
 [
   {
-    "name": "慕納爾",
+    "name": "慕那爾",
     "name_en": "Munnar",
     "lat": 10.089,
     "lon": 77.059,
     "country": "印度",
     "region": "亞洲",
-    "quote": "最后到山上非常漂亮的，那个地方叫Muna",
-    "context": "講者搭車四小時抵達的南印絕美山區城鎮"
+    "quote": "最后到山上 非常漂亮的 那个地方叫Muna",
+    "context": "搭車四小時抵達的美麗山區城鎮"
   },
   {
-    "name": "漢皮",
+    "name": "亨比",
     "name_en": "Hampi",
     "lat": 15.335,
     "lon": 76.46,
     "country": "印度",
     "region": "亞洲",
-    "quote": "有一个城镇叫Hempy，大家有没有听说过Hempy",
-    "context": "南印度的古城廢墟，也是電影神話拍攝地"
+    "quote": "我觉得我有一个城镇叫Hempy",
+    "context": "有著壯觀廢墟的古蹟城鎮，也是電影神話拍攝地"
+  },
+  {
+    "name": "通加巴德拉河",
+    "name_en": "Tungabhadra River",
+    "lat": 15.335,
+    "lon": 76.46,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "她中间有一条河 然后你可以乘船",
+    "context": "位於亨比中間的河流，可以乘船往返南北岸"
+  },
+  {
+    "name": "皇后浴池",
+    "name_en": "Queen's Bath",
+    "lat": 15.319,
+    "lon": 76.462,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "还有古时候的公主洗澡的那个池也有",
+    "context": "在亨比城鎮中保存下來的美麗古蹟池"
   }
 ]

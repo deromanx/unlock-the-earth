@@ -2,21 +2,11 @@
   {
     "name": "巴西利亞大學",
     "name_en": "University of Brasília",
-    "lat": -15.761,
-    "lon": -47.869,
+    "lat": -15.762,
+    "lon": -47.867,
     "country": "巴西",
     "region": "美洲",
-    "quote": "然後我是去巴西利亞大學交換",
-    "context": "講者大學時期前往交換的大學，為本集故事起點"
-  },
-  {
-    "name": "政治大學",
-    "name_en": "National Chengchi University",
-    "lat": 24.987,
-    "lon": 121.576,
-    "country": "台灣",
-    "region": "台灣",
-    "quote": "就是政大其實有",
-    "context": "講者原就讀的大學，透過該校計畫申請出國"
+    "quote": "我其實大學的時候阿斯下去交換過 然後我是去巴西利亞大學交換",
+    "context": "講者大學時期前往交換與生活的主要地點"
   }
 ]

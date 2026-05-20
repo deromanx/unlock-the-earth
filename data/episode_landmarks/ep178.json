@@ -3,21 +3,10 @@
     "name": "品川車站",
     "name_en": "Shinagawa Station",
     "lat": 35.628,
-    "lon": 139.738,
+    "lon": 139.739,
     "country": "日本",
     "region": "亞洲",
-    "quote": "在東京的品川車站 早上的時候我從那邊搭過去 一出車站的時候我發現 全車站裡面全部都是穿黑西裝的人",
-    "context": "描述東京上班族穿黑西裝如行軍般的震撼景象。"
-  },
-  {
-    "name": "國立傳統藝術中心",
-    "name_en": "National Center for Traditional Arts",
-    "lat": 24.685,
-    "lon": 121.823,
-    "country": "台灣",
-    "region": "台灣",
-    "quote": "這一關你可以去那個 宜蘭的那個什麼 那不是有什麼藝文中心 還是什麼 傳藝中心 傳藝這個可以解這一個",
-    "context": "提到哩程玩家為了參與亞洲萬里通的大地遊戲任務而特地造訪。",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/268%2C_Taiwan%2C_%E5%AE%9C%E8%98%AD%E7%B8%A3%E4%BA%94%E7%B5%90%E9%84%89%E5%AD%A3%E6%96%B0%E6%9D%91_-_panoramio_%2850%29.jpg/330px-268%2C_Taiwan%2C_%E5%AE%9C%E8%98%AD%E7%B8%A3%E4%BA%94%E7%B5%90%E9%84%89%E5%AD%A3%E6%96%B0%E6%9D%91_-_panoramio_%2850%29.jpg"
+    "quote": "就是有一次我去日本玩的時候 在東京的品川車站",
+    "context": "看到成千上萬穿黑西裝的上班族"
   }
 ]

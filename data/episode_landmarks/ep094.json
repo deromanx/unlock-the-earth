@@ -3,20 +3,20 @@
     "name": "馬斯喀特國際機場",
     "name_en": "Muscat International Airport",
     "lat": 23.593,
-    "lon": 58.282,
+    "lon": 58.281,
     "country": "阿曼",
     "region": "亞洲",
-    "quote": "阿曼的機場 那個地磚什麼 都是挑特別的石頭啊",
-    "context": "來賓分享初抵阿曼首都的印象，認為當地機場裝潢非常奢華。"
+    "quote": "就是阿曼的機場 那個地磚什麼 都是挑特別的石頭啊",
+    "context": "受訪者抵達阿曼的第一印象，覺得機場像皇宮般奢華"
   },
   {
-    "name": "桑吉巴",
+    "name": "桑給巴爾",
     "name_en": "Zanzibar",
     "lat": -6.165,
     "lon": 39.199,
     "country": "坦尚尼亞",
     "region": "非洲",
-    "quote": "因為他們太愛坦尚尼亞 旁邊有個小島 叫做 Nenzi Bar",
-    "context": "提及阿曼帝國時期，曾因熱愛當地並種植香料，將首都遷至這座小島。"
+    "quote": "旁邊有個小島叫做 Nenzi Bar 他們直接把首都 Moscow 牽到 牽到小島",
+    "context": "阿曼帝國時期因香料貿易，曾將首都遷至此島"
   }
 ]

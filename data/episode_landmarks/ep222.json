@@ -2,33 +2,31 @@
   {
     "name": "富士山",
     "name_en": "Mount Fuji",
-    "lat": 35.36,
-    "lon": 138.727,
+    "lat": 35.3606,
+    "lon": 138.7274,
     "country": "日本",
     "region": "亞洲",
     "quote": "富士山它整顆在你面前這樣",
-    "context": "討論飯店房間外可以看見的壯麗山景",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/View_of_Mount_Fuji_from_%C5%8Cwakudani_20211202.jpg/330px-View_of_Mount_Fuji_from_%C5%8Cwakudani_20211202.jpg"
+    "context": "主持人描述在飯店房內看到的壯麗景色"
   },
   {
     "name": "新宿",
     "name_en": "Shinjuku",
-    "lat": 35.693,
-    "lon": 139.703,
+    "lat": 35.6938,
+    "lon": 139.7034,
     "country": "日本",
     "region": "亞洲",
     "quote": "我們去東京去新宿那種居酒屋啊",
-    "context": "提到當地物價相對便宜的居酒屋用餐體驗",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Skyscrapers_of_Shinjuku_2009_January.jpg/330px-Skyscrapers_of_Shinjuku_2009_January.jpg"
+    "context": "討論日本物價便宜時提到的具體消費區域"
   },
   {
     "name": "大阪城",
     "name_en": "Osaka Castle",
-    "lat": 34.687,
-    "lon": 135.526,
+    "lat": 34.6873,
+    "lon": 135.5262,
     "country": "日本",
     "region": "亞洲",
-    "quote": "大阪城是他蓋的",
-    "context": "作為歷史人物豐臣秀吉善於築城的代表作"
+    "quote": "蓋到後來蓋出一個史上最屌的城...大阪城",
+    "context": "介紹豐臣秀吉築城功績時提到的重要地標"
   }
 ]

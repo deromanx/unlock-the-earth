@@ -1,32 +1,62 @@
 [
   {
-    "name": "維龍加國家公園",
-    "name_en": "Virunga National Park",
-    "lat": -0.067,
-    "lon": 29.533,
-    "country": "剛果民主共和國",
-    "region": "非洲",
-    "quote": "我是透过那个 就是那个国家公园 黑猩猩的国家公园 帮我申请的",
-    "context": "來賓為了看大猩猩而聯絡並協助申請簽證的國家公園"
-  },
-  {
     "name": "基加利萬豪酒店",
     "name_en": "Kigali Marriott Hotel",
     "lat": -1.954,
-    "lon": 30.06,
+    "lon": 30.062,
     "country": "盧安達",
     "region": "非洲",
     "quote": "然后因为我住的是旺豪酒店",
-    "context": "來賓抵達盧安達後入住的飯店，環境優越讓人覺得像在歐洲"
+    "context": "講述剛抵達盧安達時入住的豪華飯店"
   },
   {
-    "name": "千丘酒店 (盧安達大飯店)",
+    "name": "盧安達飯店 (千丘飯店)",
     "name_en": "Hôtel des Mille Collines",
     "lat": -1.947,
     "lon": 30.062,
     "country": "盧安達",
     "region": "非洲",
-    "quote": "因为我之前我看过卢安达大饭店嘛",
-    "context": "提及與盧安達大屠殺相關的知名電影背景地點"
+    "quote": "而且加上后来我又知道 这个大屠杀事件有翻拍成电影 就是鲁安达饭店",
+    "context": "提及大屠殺事件被翻拍成著名電影的真實地點"
+  },
+  {
+    "name": "維龍加國家公園",
+    "name_en": "Virunga National Park",
+    "lat": -0.472,
+    "lon": 29.508,
+    "country": "剛果民主共和國",
+    "region": "非洲",
+    "quote": "所以我是透过那个 就是那个国家公园 黑猩猩的国家公园 帮我申请的",
+    "context": "前往剛果看黑猩猩的目的地，且協助辦理簽證"
+  },
+  {
+    "name": "基加利國際機場",
+    "name_en": "Kigali International Airport",
+    "lat": -1.968,
+    "lon": 30.139,
+    "country": "盧安達",
+    "region": "非洲",
+    "quote": "然后他准备要降落首租Kigali的时候突然间两个飞弹要射过来",
+    "context": "前盧安達總統座機準備降落時遭飛彈擊落的發生地"
+  },
+  {
+    "name": "比利時維和部隊紀念碑",
+    "name_en": "Camp Kigali Belgian Monument",
+    "lat": -1.944,
+    "lon": 30.057,
+    "country": "盧安達",
+    "region": "非洲",
+    "quote": "所以我那时候去还有一个纪念馆是纪念当时的那个战争的就被杀掉的比利时",
+    "context": "紀念盧安達大屠殺初期被殺害的比利時維和部隊士兵"
+  },
+  {
+    "name": "基加利大屠殺紀念館",
+    "name_en": "Kigali Genocide Memorial",
+    "lat": -1.93,
+    "lon": 30.06,
+    "country": "盧安達",
+    "region": "非洲",
+    "quote": "然后我那时候去就是他有一个纪念馆我去看就是哇真的就是纪念片",
+    "context": "講述親自造訪大屠殺紀念館，看到歷史畫面"
   }
 ]

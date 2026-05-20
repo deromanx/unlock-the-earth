@@ -1,32 +1,72 @@
 [
   {
-    "name": "血河",
-    "name_en": "Bloody River",
-    "lat": 17.3,
-    "lon": -62.783,
+    "name": "聖克里斯多福島",
+    "name_en": "Saint Kitts",
+    "lat": 17.332,
+    "lon": -62.756,
     "country": "聖克里斯多福及尼維斯",
     "region": "美洲",
-    "quote": "当地有一个算是观光景点叫做Bloody River",
-    "context": "過去殖民者屠殺當地加勒比原住民的歷史遺址"
+    "quote": "大的叫Sankis",
+    "context": "該國的主要島嶼，形狀像雞腿"
   },
   {
-    "name": "提摩西山丘",
-    "name_en": "Timothy Hill",
-    "lat": 17.262,
-    "lon": -62.656,
+    "name": "尼維斯島",
+    "name_en": "Nevis",
+    "lat": 17.153,
+    "lon": -62.578,
     "country": "聖克里斯多福及尼維斯",
     "region": "美洲",
-    "quote": "你可以站在那个一个山丘上，然后右边是加勒比海，然后左边就是大西洋",
-    "context": "位於兩海交界處，可同時欣賞加勒比海與大西洋的不同海色"
+    "quote": "小的岛叫Nivis",
+    "context": "該國的另一座主要島嶼，形狀呈圓形"
   },
   {
-    "name": "柏克萊紀念鐘塔",
-    "name_en": "The Berkeley Memorial",
-    "lat": 17.294,
+    "name": "巴斯蒂爾",
+    "name_en": "Basseterre",
+    "lat": 17.297,
     "lon": -62.723,
     "country": "聖克里斯多福及尼維斯",
     "region": "美洲",
-    "quote": "像他的首都中间有一个中塔算是地标",
-    "context": "位於首都巴斯地爾市中心，仿造蘇格蘭鐘塔建造的地標"
+    "quote": "比如说他的首都叫巴斯蒂尔",
+    "context": "該國首都，留有英法殖民時期的建築痕跡"
+  },
+  {
+    "name": "巴斯蒂爾鐘塔",
+    "name_en": "The Berkeley Memorial",
+    "lat": 17.295,
+    "lon": -62.723,
+    "country": "聖克里斯多福及尼維斯",
+    "region": "美洲",
+    "quote": "像他的首都中间有一个中塔 算是地标",
+    "context": "位於首都中心，仿造英國建築的特色地標"
+  },
+  {
+    "name": "血河",
+    "name_en": "Bloody River",
+    "lat": 17.32,
+    "lon": -62.775,
+    "country": "聖克里斯多福及尼維斯",
+    "region": "美洲",
+    "quote": "那边甚至当地有一个算是观光景点叫做Bloody River",
+    "context": "原住民加勒比人遭殖民者屠殺的歷史地點"
+  },
+  {
+    "name": "聖克里斯多福觀光鐵路",
+    "name_en": "St. Kitts Scenic Railway",
+    "lat": 17.307,
+    "lon": -62.716,
+    "country": "聖克里斯多福及尼維斯",
+    "region": "美洲",
+    "quote": "然后那条铁路 就是以前运送堂的 然后现在是变成观光小火车",
+    "context": "昔日運糖鐵路改建而成的觀光小火車"
+  },
+  {
+    "name": "聖克里斯多福柏悅酒店",
+    "name_en": "Park Hyatt St. Kitts",
+    "lat": 17.234,
+    "lon": -62.636,
+    "country": "聖克里斯多福及尼維斯",
+    "region": "美洲",
+    "quote": "像我知道Hair Park 在那边盖了一个旅馆",
+    "context": "結合當地投資移民護照政策而建的飯店"
   }
 ]

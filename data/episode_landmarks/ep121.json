@@ -2,11 +2,21 @@
   {
     "name": "中央警察大學",
     "name_en": "Central Police University",
-    "lat": 25.047,
-    "lon": 121.383,
+    "lat": 25.035,
+    "lon": 121.341,
     "country": "台灣",
     "region": "台灣",
-    "quote": "那我已经在警大读资讯管理系",
-    "context": "來賓在台灣留學就讀的學校"
+    "quote": "那我已經在警大讀資訊管理系",
+    "context": "來賓來台留學所就讀的學校"
+  },
+  {
+    "name": "卡庫佩聖母大教堂",
+    "name_en": "Basílica de Caacupé",
+    "lat": -25.386,
+    "lon": -57.145,
+    "country": "巴拉圭",
+    "region": "美洲",
+    "quote": "他從我家走路過教堂",
+    "context": "12月8日聖母瑪利亞節的朝聖目的地"
   }
 ]

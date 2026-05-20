@@ -1,42 +1,42 @@
 [
   {
-    "name": "Winter Strasse (Untere Straße)",
+    "name": "海德堡酒吧街 (Untere Straße)",
     "name_en": "Untere Straße",
     "lat": 49.412,
-    "lon": 8.707,
+    "lon": 8.709,
     "country": "德國",
     "region": "歐洲",
     "quote": "Winter Strasse就是在海德堡的一個酒吧街",
-    "context": "海德堡市區晚上常開趴的酒吧街"
-  },
-  {
-    "name": "科隆火車站",
-    "name_en": "Cologne Central Station",
-    "lat": 50.943,
-    "lon": 6.958,
-    "country": "德國",
-    "region": "歐洲",
-    "quote": "結果沒想到要開進科隆火車站的時候",
-    "context": "講述搭乘德鐵遇到嚴重誤點的經歷"
+    "context": "受訪者以前居住的街道，晚上充滿派對聲，非常吵雜"
   },
   {
     "name": "黑森林",
     "name_en": "Black Forest",
-    "lat": 48.333,
-    "lon": 8.166,
+    "lat": 48.3,
+    "lon": 8.15,
     "country": "德國",
     "region": "歐洲",
     "quote": "我們去黑森林好了",
-    "context": "舉例越野滑雪的地點"
+    "context": "討論越野滑雪場地，有專門開挖的滑雪道"
   },
   {
     "name": "內卡河",
-    "name_en": "Neckar",
+    "name_en": "Neckar River",
     "lat": 49.415,
     "lon": 8.711,
     "country": "德國",
     "region": "歐洲",
     "quote": "因為這邊不是那個NECA",
-    "context": "海德堡夏天盛行水上活動的河流"
+    "context": "海德堡的一條河，夏天時上面有許多水上活動"
+  },
+  {
+    "name": "科隆火車總站",
+    "name_en": "Köln Hauptbahnhof",
+    "lat": 50.943,
+    "lon": 6.958,
+    "country": "德國",
+    "region": "歐洲",
+    "quote": "科隆火車站的時候",
+    "context": "分享搭乘德鐵遇到突發狀況導致嚴重誤點的經驗"
   }
 ]

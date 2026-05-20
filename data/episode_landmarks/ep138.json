@@ -1,32 +1,112 @@
 [
   {
-    "name": "阿瑪迪",
-    "name_en": "Pointe des Almadies",
-    "lat": 14.744,
-    "lon": -17.529,
-    "country": "塞內加爾",
+    "name": "阿玛迪",
+    "name_en": "Les Almadies",
+    "lat": 14.742,
+    "lon": -17.518,
+    "country": "塞内加尔",
     "region": "非洲",
-    "quote": "我们那边是在最西点 就是我们那边有一个地名叫阿玛迪 就是意思是西非之教",
-    "context": "非洲大陸最西端，靠近大西洋漁場，具有補給優勢"
+    "quote": "我们那边有一个地名叫阿玛迪",
+    "context": "位于非洲大陆最西端，为渔业补给优势据点"
   },
   {
-    "name": "非洲文明博物館",
+    "name": "隆波尔沙漠",
+    "name_en": "Lompoul Desert",
+    "lat": 15.441,
+    "lon": -16.689,
+    "country": "塞内加尔",
+    "region": "非洲",
+    "quote": "去一个地方叫什么一个小沙漠叫做long bull",
+    "context": "可体验住帐篷、骑骆驼的观光胜地"
+  },
+  {
+    "name": "沙里海滩",
+    "name_en": "Saly Beach",
+    "lat": 14.436,
+    "lon": -17.025,
+    "country": "塞内加尔",
+    "region": "非洲",
+    "quote": "有个叫沙里的海滩",
+    "context": "欧洲人冬天喜爱前往避冬的海滩度假村"
+  },
+  {
+    "name": "班迪亚自然保护区",
+    "name_en": "Bandia Reserve",
+    "lat": 14.588,
+    "lon": -17.016,
+    "country": "塞内加尔",
+    "region": "非洲",
+    "quote": "我们是叫野生动物园",
+    "context": "可自驾近距离观赏野生剑羚的保护区"
+  },
+  {
+    "name": "戈雷岛",
+    "name_en": "Gorée Island",
+    "lat": 14.667,
+    "lon": -17.398,
+    "country": "塞内加尔",
+    "region": "非洲",
+    "quote": "然后沟黑是一般当地人俗称就叫奴隶岛的一个地方",
+    "context": "曾为黑奴贸易中继转运站，留有相关遗迹"
+  },
+  {
+    "name": "奴隶之家",
+    "name_en": "Maison des Esclaves",
+    "lat": 14.667,
+    "lon": -17.397,
+    "country": "塞内加尔",
+    "region": "非洲",
+    "quote": "中文应该是叫做奴隶之家",
+    "context": "戈雷岛上曾用来集中与分级关押黑奴的遗址"
+  },
+  {
+    "name": "达卡火车站",
+    "name_en": "Dakar Railway Station",
+    "lat": 14.675,
+    "lon": -17.434,
+    "country": "塞内加尔",
+    "region": "非洲",
+    "quote": "尤其他们就旧的火车站",
+    "context": "充满法国殖民风格的旧时代建筑"
+  },
+  {
+    "name": "布莱斯·迪亚涅国际机场",
+    "name_en": "Blaise Diagne International Airport",
+    "lat": 14.67,
+    "lon": -17.073,
+    "country": "塞内加尔",
+    "region": "非洲",
+    "quote": "就是新的机场已经盖在那个地方了",
+    "context": "位于达卡市郊，带动周边成为新行政中心"
+  },
+  {
+    "name": "黑人文明博物馆",
     "name_en": "Museum of Black Civilisations",
-    "lat": 14.671,
-    "lon": -17.433,
-    "country": "塞內加爾",
+    "lat": 14.673,
+    "lon": -17.434,
+    "country": "塞内加尔",
     "region": "非洲",
-    "quote": "博物馆 就是非洲文物馆 然后还有跟那个叫什么去的 摔脚场",
-    "context": "由中國「一帶一路」計畫協助建設的博物館"
+    "quote": "就是非洲文物馆",
+    "context": "由中国企业参与承建的大型文化场馆"
   },
   {
-    "name": "國家摔角場",
+    "name": "国家摔角竞技场",
     "name_en": "Arène Nationale de Lutte",
-    "lat": 14.761,
-    "lon": -17.391,
-    "country": "塞內加爾",
+    "lat": 14.757,
+    "lon": -17.387,
+    "country": "塞内加尔",
     "region": "非洲",
-    "quote": "然后还有跟那个叫什么去的 摔脚场 摔脚场 对 他们的国民运动摔脚场",
-    "context": "塞內加爾的國民運動場館，同樣由中國企業協助興建"
+    "quote": "他们的国民运动摔脚场",
+    "context": "举办塞内加尔国民运动的场地，亦由中国承建"
+  },
+  {
+    "name": "达卡海洋广场购物中心",
+    "name_en": "Sea Plaza",
+    "lat": 14.693,
+    "lon": -17.471,
+    "country": "塞内加尔",
+    "region": "非洲",
+    "quote": "我们就是那边会有唯一的一家shopping mall",
+    "context": "因应反恐进出皆需严密安检的高级购物中心"
   }
 ]

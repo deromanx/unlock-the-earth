@@ -1,12 +1,152 @@
 [
   {
-    "name": "霍本地鐵站 (Hoban地鐵站)",
+    "name": "Hoban地铁站",
     "name_en": "Holborn Underground Station",
     "lat": 51.517,
     "lon": -0.119,
-    "country": "英國",
-    "region": "歐洲",
-    "quote": "Q特区是在我们今天伦敦的 Hoban地铁站这里 的一个地下基地",
-    "context": "MI6 Q部門的地下基地位置，現計畫改建為夜店"
+    "country": "英国",
+    "region": "亞洲",
+    "quote": "Q特区是在我们今天伦敦的Hoban地铁站这里的一个地下基地",
+    "context": "007电影中Q部门地下秘密基地的灵感来源"
+  },
+  {
+    "name": "特拉法加广场",
+    "name_en": "Trafalgar Square",
+    "lat": 51.508,
+    "lon": -0.128,
+    "country": "英国",
+    "region": "亞洲",
+    "quote": "你会走在特拉法加广场底下的那个隧道",
+    "context": "其底下隧道为007电影中奔跑场景的实际拍摄地"
+  },
+  {
+    "name": "Charing Cross火车站",
+    "name_en": "Charing Cross Station",
+    "lat": 51.508,
+    "lon": -0.124,
+    "country": "英国",
+    "region": "亞洲",
+    "quote": "他们拍的那一站叫做Charing Cross",
+    "context": "007电影Skyfall等废弃地铁场景的实际拍摄地"
+  },
+  {
+    "name": "Golden Square",
+    "name_en": "Golden Square",
+    "lat": 51.511,
+    "lon": -0.137,
+    "country": "英国",
+    "region": "亞洲",
+    "quote": "就在今天的Golden Square，他们为他立了一个雕像",
+    "context": "二战时印度裔女间谍Nora Khan雕像所在地"
+  },
+  {
+    "name": "Mount Street Garden",
+    "name_en": "Mount Street Gardens",
+    "lat": 51.509,
+    "lon": -0.15,
+    "country": "英国",
+    "region": "亞洲",
+    "quote": "在这个Mount Street Garden里面，里面有很多红色的砖头",
+    "context": "俄国间谍过去用于塞纸条交换情报的隐秘地点"
+  },
+  {
+    "name": "South Kensington区",
+    "name_en": "South Kensington",
+    "lat": 51.494,
+    "lon": -0.173,
+    "country": "英国",
+    "region": "亞洲",
+    "quote": "你如果到这个我们的South Kensington区，就是有我们很多博物馆",
+    "context": "童子军创始人罗伯特·贝登堡雕像所在区域"
+  },
+  {
+    "name": "Saint James",
+    "name_en": "St James's",
+    "lat": 51.506,
+    "lon": -0.136,
+    "country": "英国",
+    "region": "亞洲",
+    "quote": "那你一定要这个锁定伦敦的Saint James那一带",
+    "context": "007相关地标及老店集中的区域"
+  },
+  {
+    "name": "Lock & Co",
+    "name_en": "Lock & Co. Hatters",
+    "lat": 51.506,
+    "lon": -0.138,
+    "country": "英国",
+    "region": "亞洲",
+    "quote": "这间店叫Lock & Co",
+    "context": "制作历代007、Kingsman及皇室帽子的百年老店"
+  },
+  {
+    "name": "Beretta Gallery",
+    "name_en": "Beretta Gallery",
+    "lat": 51.507,
+    "lon": -0.138,
+    "country": "英国",
+    "region": "亞洲",
+    "quote": "这边叫做Beretta Gallery",
+    "context": "007小说中庞德购买手枪的对应地点"
+  },
+  {
+    "name": "The Duke Hotel",
+    "name_en": "Dukes Hotel",
+    "lat": 51.506,
+    "lon": -0.139,
+    "country": "英国",
+    "region": "亞洲",
+    "quote": "他藏在一个饭店，叫The Duke Hotel",
+    "context": "007作者常去并可品尝庞德同款特调马丁尼的饭店"
+  },
+  {
+    "name": "St. Irma Hotel",
+    "name_en": "St. Ermin's Hotel",
+    "lat": 51.499,
+    "lon": -0.134,
+    "country": "英国",
+    "region": "亞洲",
+    "quote": "叫St. Irma Hotel",
+    "context": "二战时SOE面试情报员的饭店，现藏有间谍文物"
+  },
+  {
+    "name": "Bletcherley Park",
+    "name_en": "Bletchley Park",
+    "lat": 51.997,
+    "lon": -0.742,
+    "country": "英国",
+    "region": "亞洲",
+    "quote": "间谍跟Decode有关的经典，就是Bletcherley Park",
+    "context": "二战英国解码德国密码的秘密基地，图灵团队所在地"
+  },
+  {
+    "name": "帝国战争博物馆",
+    "name_en": "Imperial War Museum",
+    "lat": 51.495,
+    "lon": -0.108,
+    "country": "英国",
+    "region": "亞洲",
+    "quote": "一个就是Imperial War Museum，就是帝国战争博物馆",
+    "context": "讲述战争故事并展出二战情报战相关文物的博物馆"
+  },
+  {
+    "name": "MI6总部",
+    "name_en": "MI6 Headquarters",
+    "lat": 51.487,
+    "lon": -0.124,
+    "country": "英国",
+    "region": "亞洲",
+    "quote": "那个就是MI6",
+    "context": "军情六处现今的真实总部，常现于007电影并被炸毁"
+  },
+  {
+    "name": "泰鲁士河",
+    "name_en": "River Thames",
+    "lat": 51.503,
+    "lon": -0.113,
+    "country": "英国",
+    "region": "亞洲",
+    "quote": "你如果看到这个泰鲁士河的对面",
+    "context": "MI6总部所在水岸，曾发生电影里的游艇追逐戏"
   }
 ]

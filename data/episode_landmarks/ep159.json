@@ -6,18 +6,8 @@
     "lon": 31.233,
     "country": "埃及",
     "region": "非洲",
-    "quote": "现在的旧的埃及博物馆二楼一整层几乎都是图坦卡蒙的东西",
-    "context": "存放圖坦卡蒙陪葬品及法老展覽品的舊有博物館"
-  },
-  {
-    "name": "埃及文明博物館",
-    "name_en": "National Museum of Egyptian Civilization",
-    "lat": 30.008,
-    "lon": 31.248,
-    "country": "埃及",
-    "region": "非洲",
-    "quote": "第二个是埃及文明博物馆这个算新的大概两年多",
-    "context": "存放包含拉美西斯二世等重要法老木乃伊的新博物館"
+    "quote": "就埃及博物馆里面 大部分的墓里面法老的展览品 都是它一个人的",
+    "context": "收藏圖坦卡門大量陪葬品的舊博物館"
   },
   {
     "name": "阿布辛貝神廟",
@@ -26,7 +16,27 @@
     "lon": 31.625,
     "country": "埃及",
     "region": "非洲",
-    "quote": "他留下来就是各式各样的神庙跟雕像阿布辛贝",
-    "context": "拉美西斯二世建造的神廟代表"
+    "quote": "他留下来就是各式各样的神庙跟雕像 阿布辛贝",
+    "context": "拉美西斯二世留下的著名神廟"
+  },
+  {
+    "name": "埃及文明博物館",
+    "name_en": "National Museum of Egyptian Civilization",
+    "lat": 30.008,
+    "lon": 31.248,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "第二个是埃及文明博物馆 这个算新的 大概两年多 两三年前开始吧",
+    "context": "展出重要法老木乃伊且具科技感的新博物館"
+  },
+  {
+    "name": "尼羅河",
+    "name_en": "Nile River",
+    "lat": 30.048,
+    "lon": 31.224,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "钉死丢到尼罗河里面 他就被淹死了",
+    "context": "神話中歐西里斯遇害的地點及鱷魚神信仰來源"
   }
 ]

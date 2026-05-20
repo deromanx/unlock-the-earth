@@ -2,73 +2,61 @@
   {
     "name": "大英博物館",
     "name_en": "British Museum",
-    "lat": 51.519,
+    "lat": 51.5194,
     "lon": -0.127,
     "country": "英國",
     "region": "歐洲",
     "quote": "首先參觀的是大英博物館，英文叫做British Museum",
-    "context": "位於布盧姆斯伯里的世界著名博物館。"
-  },
-  {
-    "name": "布盧姆斯伯里",
-    "name_en": "Bloomsbury",
-    "lat": 51.526,
-    "lon": -0.126,
-    "country": "英國",
-    "region": "歐洲",
-    "quote": "就在布盧姆斯伯里這個地區。",
-    "context": "大英博物館所在的倫敦學術與文化區。"
+    "context": "位於布盧姆斯伯里的著名博物館"
   },
   {
     "name": "特拉法加廣場",
     "name_en": "Trafalgar Square",
     "lat": 51.508,
-    "lon": -0.128,
+    "lon": -0.1281,
     "country": "英國",
     "region": "歐洲",
     "quote": "然後我們走到了特拉法加廣場，Trafalgar Square",
-    "context": "倫敦市中心的著名公共廣場。",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Trafalgar_Square%2C_London_2_-_Jun_2009.jpg/330px-Trafalgar_Square%2C_London_2_-_Jun_2009.jpg"
+    "context": "倫敦市中心的著名地標廣場"
   },
   {
     "name": "納爾遜紀念柱",
     "name_en": "Nelson's Column",
-    "lat": 51.507,
-    "lon": -0.127,
+    "lat": 51.5077,
+    "lon": -0.1279,
     "country": "英國",
     "region": "歐洲",
     "quote": "這裡有納爾遜紀念柱，非常壯觀。",
-    "context": "位於特拉法加廣場中心的紀念性建築。"
+    "context": "位於特拉法加廣場的標誌性紀念柱"
   },
   {
     "name": "倫敦眼",
     "name_en": "London Eye",
-    "lat": 51.503,
-    "lon": -0.119,
+    "lat": 51.5033,
+    "lon": -0.1195,
     "country": "英國",
     "region": "歐洲",
     "quote": "看到了倫敦眼，London Eye",
-    "context": "泰晤士河南岸的巨大摩天輪地標。"
+    "context": "泰晤士河畔的著名觀景摩天輪"
   },
   {
     "name": "威斯敏斯特橋",
     "name_en": "Westminster Bridge",
-    "lat": 51.5,
-    "lon": -0.124,
+    "lat": 51.5008,
+    "lon": -0.1216,
     "country": "英國",
     "region": "歐洲",
     "quote": "還有威斯敏斯特橋。",
-    "context": "橫跨泰晤士河、連結議會大廈的拱橋。"
+    "context": "橫跨泰晤士河的歷史悠久橋樑"
   },
   {
     "name": "布里克斯頓",
     "name_en": "Brixton",
-    "lat": 51.461,
-    "lon": -0.115,
+    "lat": 51.4621,
+    "lon": -0.1147,
     "country": "英國",
     "region": "歐洲",
     "quote": "下午我們去了布里克斯頓，Brixton，這是倫敦著名的加勒比海社區",
-    "context": "倫敦南部具代表性的多文化社區。",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lambeth_Town_Hall_%288715334040%29.jpg/330px-Lambeth_Town_Hall_%288715334040%29.jpg"
+    "context": "具備濃厚加勒比海風情的社區"
   }
 ]

@@ -1,22 +1,52 @@
 [
   {
-    "name": "奧斯維辛集中營",
+    "name": "奥斯维辛集中营 (一號營)",
     "name_en": "Auschwitz Concentration Camp",
     "lat": 50.027,
-    "lon": 19.177,
+    "lon": 19.202,
     "country": "波蘭",
     "region": "歐洲",
-    "quote": "所以我们现在来谈谈奥斯维辛集中营 这应该算是 就是纳粹当初建立的集中营中目前",
-    "context": "本集主要討論的核心地點，為納粹德國時期規模最大的集中營"
+    "quote": "所以我们现在来谈谈奥斯维辛集中营",
+    "context": "本集探討的核心地點，納粹建立的規模最大的集中營"
+  },
+  {
+    "name": "奧斯威辛 (城鎮)",
+    "name_en": "Oświęcim",
+    "lat": 50.034,
+    "lon": 19.21,
+    "country": "波蘭",
+    "region": "歐洲",
+    "quote": "奥斯维辛是一个城镇",
+    "context": "說明集中營名稱的由來，其本身是波蘭的一個城鎮"
   },
   {
     "name": "達豪集中營",
     "name_en": "Dachau Concentration Camp",
-    "lat": 48.269,
+    "lat": 48.268,
     "lon": 11.468,
     "country": "德國",
     "region": "歐洲",
-    "quote": "但是我去过 达豪 集中营 他是在巴伐利亚",
-    "context": "主持人曾造訪過的集中營，用來與奧斯維辛的規模和氣氛做比較"
+    "quote": "但是我去过\n达豪\n集中营",
+    "context": "講者分享過去在聖誕節期間參觀該集中營的壓抑經歷"
+  },
+  {
+    "name": "萬湖會議紀念館",
+    "name_en": "House of the Wannsee Conference",
+    "lat": 52.433,
+    "lon": 13.161,
+    "country": "德國",
+    "region": "歐洲",
+    "quote": "那个方案是他们在\n旺胡会的时候\n开的一个",
+    "context": "提及納粹制定屠殺猶太人「最終解決方案」的會議地點"
+  },
+  {
+    "name": "奧斯維辛二號營 (比克瑙)",
+    "name_en": "Auschwitz II-Birkenau",
+    "lat": 50.035,
+    "lon": 19.178,
+    "country": "波蘭",
+    "region": "歐洲",
+    "quote": "二号营基本上是\n真的是来来屠杀的",
+    "context": "奧斯維辛集中營的一部分，負責大規模屠殺與毒氣室運作"
   }
 ]

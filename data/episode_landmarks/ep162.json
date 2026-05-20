@@ -1,52 +1,42 @@
 [
   {
-    "name": "達蘭薩拉",
-    "name_en": "Dharamshala",
-    "lat": 32.219,
-    "lon": 76.323,
-    "country": "印度",
-    "region": "亞洲",
-    "quote": "我的藏語老師住在北印度的達蘭薩拉，所以我這是去順便看他們",
-    "context": "講者特地前往探訪線上語言老師的小鎮"
-  },
-  {
-    "name": "新德里機場",
+    "name": "新德里英迪拉·甘地國際機場",
     "name_en": "Indira Gandhi International Airport",
     "lat": 28.556,
     "lon": 77.1,
     "country": "印度",
     "region": "亞洲",
-    "quote": "可是我覺得德里的機場，好像不是一個很適合人居的地方",
-    "context": "詳細描述在機場過夜等候轉機與安檢嚴格的經歷"
+    "quote": "因为我晚上到新德里的机场",
+    "context": "來賓快閃行程中過夜與經歷安檢的地方"
   },
   {
-    "name": "雅加達荷蘭殖民建築",
-    "name_en": "Kota Tua Jakarta",
-    "lat": -6.134,
-    "lon": 106.813,
-    "country": "印尼",
-    "region": "亞洲",
-    "quote": "他比較著名的景點是，荷蘭殖民時代的一些老建築",
-    "context": "描述雅加達市區內殘破但具歷史意義的殖民地建築"
-  },
-  {
-    "name": "宜珍火山",
-    "name_en": "Mount Ijen",
+    "name": "伊真火山",
+    "name_en": "Ijen Volcano",
     "lat": -8.058,
     "lon": 114.242,
     "country": "印尼",
     "region": "亞洲",
-    "quote": "第三天又趕車去看，那個流氣孔，就是也是火山...說的是一針火山對不對",
-    "context": "本集討論東爪哇行程中看硫氣孔與日出的重要景點"
+    "quote": "哦你说的是一针火山对不对",
+    "context": "主持人在印尼看大型火山流氣孔的具體地點"
+  },
+  {
+    "name": "弗洛勒斯島",
+    "name_en": "Flores Island",
+    "lat": -8.65,
+    "lon": 121.083,
+    "country": "印尼",
+    "region": "亞洲",
+    "quote": "有一个叫做佛罗伦斯岛",
+    "context": "作為前往科莫多島跳板的印尼島嶼"
   },
   {
     "name": "科莫多島",
     "name_en": "Komodo Island",
-    "lat": -8.589,
-    "lon": 119.444,
+    "lat": -8.583,
+    "lon": 119.483,
     "country": "印尼",
     "region": "亞洲",
-    "quote": "科莫多島跟佛羅倫斯島是在同一個，很近的地方，可以坐船",
-    "context": "本集核心目的地，專程搭機前往觀察科莫多龍的地點"
+    "quote": "科莫多岛跟佛罗伦斯岛是在同一个",
+    "context": "本集後半段主角前往觀賞科莫多龍的地點"
   }
 ]

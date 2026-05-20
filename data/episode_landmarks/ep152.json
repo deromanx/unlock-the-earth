@@ -1,12 +1,22 @@
 [
   {
-    "name": "亞洲中心紀念碑",
-    "name_en": "Center of Asia Monument",
-    "lat": 51.723,
-    "lon": 94.444,
+    "name": "國際呼麥中心",
+    "name_en": "International Khoomei Center",
+    "lat": 51.716,
+    "lon": 94.428,
     "country": "俄羅斯",
     "region": "亞洲",
-    "quote": "看就叫做Central of Asia",
-    "context": "位於圖瓦首都的紀念碑，標示亞洲的地理中心"
+    "quote": "去呼麦中心 然后找呼麦老师讨论一下学习事宜",
+    "context": "講者在當地交流與學習呼麥的機構"
+  },
+  {
+    "name": "亞洲中心紀念碑",
+    "name_en": "Center of Asia Monument",
+    "lat": 51.724,
+    "lon": 94.443,
+    "country": "俄羅斯",
+    "region": "亞洲",
+    "quote": "打开Maps.me看就叫做Central of Asia",
+    "context": "位於圖瓦首都的亞洲地理中心實體標誌"
   }
 ]

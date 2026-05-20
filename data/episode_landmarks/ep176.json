@@ -6,8 +6,8 @@
     "lon": 121.51,
     "country": "台灣",
     "region": "台灣",
-    "quote": "你是住大稻埕嗎?還是只有工作室在大稻埕?",
-    "context": "來賓開設印度文化工作室的地點"
+    "quote": "我工作室在大稻埕 但是我有的時候就是加班也會住在那裡",
+    "context": "來賓印度文化工作室的所在地"
   },
   {
     "name": "國立卡塔克舞蹈學院",
@@ -16,7 +16,27 @@
     "lon": 77.19,
     "country": "印度",
     "region": "亞洲",
-    "quote": "如果你在Katakendra就是他們國立的Katak的學院的話",
-    "context": "提及印度國立舞蹈學院的課程與學制"
+    "quote": "如果你在Katakendra 就是他們國立的Katak的學院的話",
+    "context": "印度的國立舞蹈學院，作為學院派教學體系的例子"
+  },
+  {
+    "name": "東門",
+    "name_en": "Dongmen",
+    "lat": 25.033,
+    "lon": 121.528,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "我最近已經就是大概幾個月以來 我每個禮拜都會來東門",
+    "context": "來賓近期學習歌仔戲的地區"
+  },
+  {
+    "name": "國家兩廳院",
+    "name_en": "National Theater and Concert Hall",
+    "lat": 25.035,
+    "lon": 121.518,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "四月十二號 國家兩廳院他有辦一個演出 就是叫做印度回響",
+    "context": "即將舉辦印度音樂大師演出的場地"
   }
 ]

@@ -1,22 +1,22 @@
 [
   {
     "name": "印度理工學院孟買分校",
-    "name_en": "IIT Bombay",
+    "name_en": "Indian Institute of Technology Bombay",
     "lat": 19.133,
     "lon": 72.913,
     "country": "印度",
     "region": "亞洲",
     "quote": "孟買的那個印度理工學院孟買分校",
-    "context": "講者五年前去當交換學生的學校，是本集分享印度經驗的主要舞台"
+    "context": "講者去交換學生的學校，為本集主要分享背景"
   },
   {
-    "name": "希拉南達尼社區 (音譯: 亦爾朗朗尼)",
+    "name": "希拉南達尼花園",
     "name_en": "Hiranandani Gardens",
-    "lat": 19.119,
-    "lon": 72.906,
+    "lat": 19.12,
+    "lon": 72.909,
     "country": "印度",
     "region": "亞洲",
-    "quote": "我們學校外面有一個有一區叫亦爾朗朗尼然後他這邊有很多日商",
-    "context": "學校外聚集外商與異國料理的區域，解決講者的飲食需求"
+    "quote": "有一區叫亦爾朗朗尼",
+    "context": "學校外有很多異國料理且生活便利的區域"
   }
 ]

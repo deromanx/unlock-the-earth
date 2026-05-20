@@ -7,7 +7,7 @@
     "country": "美國",
     "region": "美洲",
     "quote": "美国的华盛顿大学",
-    "context": "Iris高中時去短期留學並認識第一任韓國男友的地方"
+    "context": "講者高中暑期遊學及認識初戀男友的地點"
   },
   {
     "name": "中央大學",
@@ -17,16 +17,6 @@
     "country": "韓國",
     "region": "亞洲",
     "quote": "我去的是首尔的中央大学",
-    "context": "Iris大學時期前往韓國短期留學的學校"
-  },
-  {
-    "name": "桃園國際機場",
-    "name_en": "Taoyuan International Airport",
-    "lat": 25.079,
-    "lon": 121.234,
-    "country": "台灣",
-    "region": "台灣",
-    "quote": "桃圆机场",
-    "context": "韓國長輩早年來台時對台灣繁華程度的深刻印象"
+    "context": "講者大學時期參加短期語言留學的學校"
   }
 ]

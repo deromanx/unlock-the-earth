@@ -3,31 +3,41 @@
     "name": "種族隔離博物館",
     "name_en": "Apartheid Museum",
     "lat": -26.237,
-    "lon": 28.002,
+    "lon": 27.995,
     "country": "南非",
     "region": "非洲",
     "quote": "有一個必看的就是那個種族隔離博物館",
-    "context": "探討南非種族隔離歷史與曼德拉的抗爭"
+    "context": "了解南非種族隔離歷史與曼德拉的重要景點"
   },
   {
-    "name": "索維托",
+    "name": "約翰尼斯堡市中心",
+    "name_en": "Johannesburg CBD",
+    "lat": -26.204,
+    "lon": 28.047,
+    "country": "南非",
+    "region": "非洲",
+    "quote": "就是約翰尼斯堡的當場去晃晃",
+    "context": "治安極差的區域，講述友人在此遭遇搶劫"
+  },
+  {
+    "name": "索韋托",
     "name_en": "Soweto",
     "lat": -26.267,
     "lon": 27.858,
     "country": "南非",
     "region": "非洲",
-    "quote": "叫做Soweto",
-    "context": "參加當地的導覽團，了解當地生活與歷史"
+    "quote": "有個全世界最大的那個",
+    "context": "南非知名貧民窟，有觀光導覽行程"
   },
   {
-    "name": "奧蘭多發電廠 (索維托火力發電廠)",
+    "name": "奧蘭多發電廠",
     "name_en": "Orlando Towers",
-    "lat": -26.254,
+    "lat": -26.255,
     "lon": 27.926,
     "country": "南非",
     "region": "非洲",
     "quote": "它是一個廢棄的火力發電廠",
-    "context": "體驗在兩座火力發電廠中間的高空彈跳"
+    "context": "位於索韋托貧民窟內的高空彈跳設施"
   },
   {
     "name": "曼德拉故居",
@@ -37,7 +47,7 @@
     "country": "南非",
     "region": "非洲",
     "quote": "他那邊也有曼德拉紀念館",
-    "context": "參觀曼德拉曾經生活的住所及遺物"
+    "context": "展示曼德拉曾經生活過的地方與物品"
   },
   {
     "name": "桌山",
@@ -47,7 +57,7 @@
     "country": "南非",
     "region": "非洲",
     "quote": "你知聽過那個table mountain嗎",
-    "context": "開普敦的著名地標，平頂山"
+    "context": "開普敦知名地標，山頂平坦如上帝的餐桌"
   },
   {
     "name": "海豹島",
@@ -57,27 +67,27 @@
     "country": "南非",
     "region": "非洲",
     "quote": "我太靠近那個海豹島了嘛",
-    "context": "在開普敦海域與海豹一起潛水"
+    "context": "潛水行程中可以與大量海豹互動的地方"
   },
   {
     "name": "好望角",
     "name_en": "Cape of Good Hope",
     "lat": -34.356,
-    "lon": 18.471,
+    "lon": 18.473,
     "country": "南非",
     "region": "非洲",
-    "quote": "應該在那個好望角那邊",
-    "context": "觀賞野生企鵝及拍照打卡的景點"
+    "quote": "你可以去好望角那邊拍拍照",
+    "context": "非洲西南端知名地標，可觀賞野生企鵝"
   },
   {
     "name": "羅本島",
     "name_en": "Robben Island",
     "lat": -33.807,
-    "lon": 18.369,
+    "lon": 18.371,
     "country": "南非",
     "region": "非洲",
     "quote": "有個地方叫Ruban Island",
-    "context": "曼德拉被囚禁的地方，由前獄友擔任導遊"
+    "context": "曾關押曼德拉的監獄島，現有前獄友擔任導遊"
   },
   {
     "name": "克魯格國家公園",
@@ -86,7 +96,7 @@
     "lon": 31.554,
     "country": "南非",
     "region": "非洲",
-    "quote": "但是呢我去克福哥國家公園",
-    "context": "參加 Safari 尋找非洲五霸"
+    "quote": "我去克福哥國家公園",
+    "context": "面積極大的國家公園，可進行Safari尋找非洲五霸"
   }
 ]

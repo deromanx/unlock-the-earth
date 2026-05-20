@@ -1,32 +1,22 @@
 [
   {
-    "name": "海德堡",
-    "name_en": "Heidelberg",
-    "lat": 49.409,
-    "lon": 8.69,
-    "country": "德国",
-    "region": "亞洲",
-    "quote": "我是住在海德堡",
-    "context": "提及过去在德国居住念书的城市"
-  },
-  {
-    "name": "双叟咖啡馆",
+    "name": "雙叟咖啡館",
     "name_en": "Les Deux Magots",
     "lat": 48.854,
     "lon": 2.333,
-    "country": "法国",
-    "region": "亞洲",
-    "quote": "巴黎最有名的就是那个双手跟花神嘛",
-    "context": "举例巴黎最著名的咖啡馆代表"
+    "country": "法國",
+    "region": "歐洲",
+    "quote": "尤其我想巴黎最有名的就是那个双手跟花神嘛",
+    "context": "舉例說明巴黎知名的咖啡文化與打卡景點"
   },
   {
-    "name": "花神咖啡馆",
+    "name": "花神咖啡館",
     "name_en": "Café de Flore",
     "lat": 48.854,
-    "lon": 2.333,
-    "country": "法国",
-    "region": "亞洲",
-    "quote": "巴黎最有名的就是那个双手跟花神嘛",
-    "context": "举例巴黎最著名的咖啡馆代表"
+    "lon": 2.332,
+    "country": "法國",
+    "region": "歐洲",
+    "quote": "尤其我想巴黎最有名的就是那个双手跟花神嘛",
+    "context": "舉例說明巴黎知名的咖啡文化與打卡景點"
   }
 ]

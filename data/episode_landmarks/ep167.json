@@ -2,11 +2,21 @@
   {
     "name": "夏威夷大學",
     "name_en": "University of Hawaii",
-    "lat": 21.299,
-    "lon": -157.819,
+    "lat": 21.297,
+    "lon": -157.817,
     "country": "美國",
     "region": "大洋洲",
-    "quote": "我就想說夏威夷大學其實是一個非常好的地方",
-    "context": "來賓選擇出國留學以探索南島語族觀點的學校"
+    "quote": "然後我就想說夏威夷大學其實是一個非常好的地方",
+    "context": "講者選擇去夏威夷大學留學，以探索南島語族觀點"
+  },
+  {
+    "name": "台東史前館",
+    "name_en": "National Museum of Prehistory",
+    "lat": 22.761,
+    "lon": 121.092,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "像最近那個就是台東史前館",
+    "context": "提到其重新開幕的「南島廳」將台灣放入南島語族脈絡"
   }
 ]

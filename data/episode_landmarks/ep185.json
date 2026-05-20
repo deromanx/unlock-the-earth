@@ -1,42 +1,62 @@
 [
   {
-    "name": "吳哥",
-    "name_en": "Angkor",
+    "name": "吳哥窟",
+    "name_en": "Angkor Wat",
     "lat": 13.412,
-    "lon": 103.866,
+    "lon": 103.867,
     "country": "柬埔寨",
     "region": "亞洲",
-    "quote": "因為吳哥就比較像是千年以前的古都",
-    "context": "作為千年古都與現代化金邊發展的強烈對比"
+    "quote": "當然去了吳哥，然後去了金邊，我自己的感受就是當然吳哥是一個很，就是視覺上很恢弘的一個地方",
+    "context": "作為千年王朝的古都，與現代金邊形成強烈對比"
   },
   {
     "name": "鑽石島",
     "name_en": "Diamond Island",
-    "lat": 11.554,
+    "lat": 11.556,
     "lon": 104.938,
     "country": "柬埔寨",
     "region": "亞洲",
-    "quote": "有一個鑽石島 那個島基本上就Diamond Island 基本上都是中國的建設公司在做的",
-    "context": "說明中國一帶一路政策在金邊當地的造鎮與基礎建設開發"
+    "quote": "如果是在柬埔寨金邊的話，有一個鑽石島，那個島基本上就Diamond Island",
+    "context": "中國一帶一路政策在金邊的大型開發與造鎮計畫"
   },
   {
-    "name": "萬景崗",
-    "name_en": "Boeung Keng Kang (BKK)",
-    "lat": 11.551,
-    "lon": 104.922,
-    "country": "柬埔寨",
-    "region": "亞洲",
-    "quote": "他在BKK那邊",
-    "context": "提及星巴克旗艦店所在地，適合帶筆電去辦公的高級街區"
-  },
-  {
-    "name": "永旺百貨",
-    "name_en": "AEON Mall",
+    "name": "永旺夢樂城",
+    "name_en": "Aeon Mall",
     "lat": 11.549,
     "lon": 104.934,
     "country": "柬埔寨",
     "region": "亞洲",
-    "quote": "那個當地百貨公司叫Aeon 就日本的一個企業 就現在已經開到Aeon 3了",
-    "context": "提到金邊現代化發展中，不斷開設的大型連鎖購物中心"
+    "quote": "每一兩年都會有一個新的百貨公司，就那個當地百貨公司叫Aeon，就現在已經開到Aeon 3了",
+    "context": "反映金邊快速發展與現代化的指標性百貨公司"
+  },
+  {
+    "name": "BKK區",
+    "name_en": "Boeung Keng Kang",
+    "lat": 11.551,
+    "lon": 104.925,
+    "country": "柬埔寨",
+    "region": "亞洲",
+    "quote": "他在BKK那邊，下次有機會可以去看一下",
+    "context": "金邊的高級街區，有豪華的星巴克旗艦店"
+  },
+  {
+    "name": "西哈努克港",
+    "name_en": "Sihanoukville",
+    "lat": 10.625,
+    "lon": 103.523,
+    "country": "柬埔寨",
+    "region": "亞洲",
+    "quote": "因為西哈努克港，他其實是中國一帶一路的建設，就是挑在柬埔寨裡面，一個重要的海運的部分",
+    "context": "中國一帶一路重點建設，發展出合法與非法博弈產業"
+  },
+  {
+    "name": "駐胡志明市台北經濟文化辦事處",
+    "name_en": "Taipei Economic and Cultural Office in Ho Chi Minh City",
+    "lat": 10.773,
+    "lon": 106.69,
+    "country": "越南",
+    "region": "亞洲",
+    "quote": "因為他是掛在胡志明辦公室的下面",
+    "context": "辦理跨國婚姻面試及簽證手續的機構"
   }
 ]

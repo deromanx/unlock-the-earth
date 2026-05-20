@@ -2,11 +2,21 @@
   {
     "name": "圓頂大市集",
     "name_en": "Grand Bazaar",
-    "lat": 41.01,
+    "lat": 41.011,
     "lon": 28.968,
     "country": "土耳其",
     "region": "歐洲",
-    "quote": "我還有同學在圓頂大士集裡面遇到變態",
-    "context": "講述外國人在觀光區容易被騷擾的實際經驗"
+    "quote": "反正我還有同學在圓頂大士集裡面遇到變態",
+    "context": "講述外國人在當地觀光區容易受到騷擾的經驗"
+  },
+  {
+    "name": "Macrocenter 國際超市",
+    "name_en": "Macrocenter",
+    "lat": 41.066,
+    "lon": 29.017,
+    "country": "土耳其",
+    "region": "歐洲",
+    "quote": "你可以把macro center這個國際超市記下來",
+    "context": "提到在伊斯坦堡少數可以買到豬肉的超市"
   }
 ]

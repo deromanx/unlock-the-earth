@@ -6,17 +6,27 @@
     "lon": 78.042,
     "country": "印度",
     "region": "亞洲",
-    "quote": "就是太極馬哈林的建造者 就是沙迦漢",
-    "context": "沙迦漢為紀念妻子所建，也提及英國皇室在此的拍照故事"
+    "quote": "所以他自己就和Tajman Howe拍了一张照片",
+    "context": "沙迦漢為亡妻建造，戴安娜王妃曾獨自在此拍照"
   },
   {
-    "name": "格林公園",
+    "name": "綠園",
     "name_en": "Green Park",
-    "lat": 51.503,
-    "lon": -0.144,
+    "lat": 51.504,
+    "lon": -0.143,
     "country": "英國",
     "region": "歐洲",
-    "quote": "大概在今天Green Park附近 他要進一間豪宅的時候 被一個瘋子 用棍子打到他頭上淤情",
-    "context": "維多利亞女王探望親戚時遇襲的地點附近"
+    "quote": "大概在今天Green Park附近他要进一间豪宅的时候被一个疯子用棍子打到他头上淤情",
+    "context": "維多利亞女王探望親戚時在附近遇襲"
+  },
+  {
+    "name": "水晶宮（萬國博覽會）",
+    "name_en": "Crystal Palace (The Great Exhibition)",
+    "lat": 51.503,
+    "lon": -0.169,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "就放在英国知名的万国博览会The Great Exhibition里面",
+    "context": "光之山鑽石初到英國時的展出地點"
   }
 ]

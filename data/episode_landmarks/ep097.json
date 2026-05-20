@@ -1,32 +1,22 @@
 [
   {
-    "name": "吳哥窟",
-    "name_en": "Angkor Wat",
+    "name": "暹粒",
+    "name_en": "Siem Reap",
+    "lat": 13.363,
+    "lon": 103.856,
+    "country": "柬埔寨",
+    "region": "亞洲",
+    "quote": "我之前去先立旅行的时候",
+    "context": "本集主要分享的海外志工服务所在城市"
+  },
+  {
+    "name": "吴哥",
+    "name_en": "Angkor",
     "lat": 13.412,
     "lon": 103.867,
     "country": "柬埔寨",
     "region": "亞洲",
-    "quote": "其实我们在当地有带小朋友去吴哥",
-    "context": "受訪者與志工團帶領當地小朋友前往參觀的世界遺產地標。"
-  },
-  {
-    "name": "暹粒夜市",
-    "name_en": "Siem Reap Night Market",
-    "lat": 13.355,
-    "lon": 103.855,
-    "country": "柬埔寨",
-    "region": "亞洲",
-    "quote": "不过就带我去夜市那边走一走",
-    "context": "志工們在晚上休閒時間前往參觀的市區地標。"
-  },
-  {
-    "name": "台中舊城區",
-    "name_en": "Taichung Old Town",
-    "lat": 24.137,
-    "lon": 120.685,
-    "country": "台灣",
-    "region": "台灣",
-    "quote": "他们将举办旧城导览工作坊",
-    "context": "開場介紹中提到舉辦文史導覽活動的特定區域。"
+    "quote": "我们在当地有带小朋友去吴哥嘛",
+    "context": "志工服务期间带当地小朋友去游玩的著名历史遗迹"
   }
 ]

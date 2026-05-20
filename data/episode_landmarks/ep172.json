@@ -6,68 +6,48 @@
     "lon": 113.561,
     "country": "中國",
     "region": "亞洲",
-    "quote": "就是威尼斯人,他第一個在澳門成立,全世界最大的酒店",
-    "context": "2007年成立的全球最大酒店，開啟澳門博彩旅遊轉型。"
+    "quote": "就是威尼斯人他第一个在澳门成立全世界最大的酒店",
+    "context": "帶動澳門路氹區發展的指標性大型綜合度假村"
   },
   {
     "name": "澳門半島",
     "name_en": "Macau Peninsula",
-    "lat": 22.197,
-    "lon": 113.543,
+    "lat": 22.198,
+    "lon": 113.544,
     "country": "中國",
     "region": "亞洲",
-    "quote": "第一個是澳門半島,它有一部分的土地,是跟廣東的土地是連在一起的",
-    "context": "澳門三大區域之一，為主要住宅、商業與歷史城區所在地。"
+    "quote": "第一个是澳门半岛它有一部分的土地是跟广东的土地是连在一起的",
+    "context": "澳門發展最早的主要區域，保留傳統風貌"
   },
   {
     "name": "氹仔島",
     "name_en": "Taipa",
-    "lat": 22.155,
-    "lon": 113.557,
+    "lat": 22.159,
+    "lon": 113.559,
     "country": "中國",
     "region": "亞洲",
-    "quote": "然後第二個是淡宅島",
-    "context": "澳門三大區域之一，現為重要的商業與住宅發展區。"
+    "quote": "第二个是淡宅岛然后第三个应该是最下面的陆环岛",
+    "context": "澳門三個主要組成部分之一"
   },
   {
     "name": "路環島",
     "name_en": "Coloane",
-    "lat": 22.122,
-    "lon": 113.565,
+    "lat": 22.118,
+    "lon": 113.564,
     "country": "中國",
     "region": "亞洲",
-    "quote": "然後第三個應該是最下面的陸環島",
-    "context": "澳門自然生態保育區，保留較多原始綠地。"
+    "quote": "最下面那个路环岛因为澳门政府已经把它规划成一个自然生态保育的地方",
+    "context": "澳門南部被規劃為自然生態保育區的島嶼"
   },
   {
     "name": "路氹填海區",
-    "name_en": "Cotai Strip",
-    "lat": 22.141,
-    "lon": 113.563,
+    "name_en": "Cotai",
+    "lat": 22.143,
+    "lon": 113.564,
     "country": "中國",
     "region": "亞洲",
-    "quote": "把這個地方填出來,我們稱之為一個路淡填海區",
-    "context": "填海造陸區域，是大型國際綜合度假村的集中地。"
-  },
-  {
-    "name": "澳門歷史城區",
-    "name_en": "Historic Centre of Macao",
-    "lat": 22.191,
-    "lon": 113.538,
-    "country": "中國",
-    "region": "亞洲",
-    "quote": "所以我們就是把它稱之為一個歷史城區",
-    "context": "包含25個世界文化遺產，體現中西文化深度交融。"
-  },
-  {
-    "name": "大三巴牌坊",
-    "name_en": "Ruins of St. Paul's",
-    "lat": 22.197,
-    "lon": 113.54,
-    "country": "中國",
-    "region": "亞洲",
-    "quote": "大三巴牌坊,它以前是我們,它是遠東地區最大的天主教堂",
-    "context": "澳門地標，原聖保祿教堂遺址，反映早期傳教歷史。"
+    "quote": "我们称之为一个路淡填海区所以它是填海造路扩增一些土地出来",
+    "context": "填海造陸形成的新區，現為大型酒店聚集地"
   },
   {
     "name": "媽閣廟",
@@ -76,18 +56,18 @@
     "lon": 113.531,
     "country": "中國",
     "region": "亞洲",
-    "quote": "葡萄人叫馬格廟...這也是全世界第一個以林默娘命名的",
-    "context": "澳門地名發音來源，是當地信仰融合的起點。"
+    "quote": "当时当地人以为葡萄人他说这里是哪里他一看这个就是马格庙",
+    "context": "澳門名稱的由來，供奉媽祖的著名中式寺廟"
   },
   {
-    "name": "民政總署大樓",
-    "name_en": "Leal Senado Building",
-    "lat": 22.193,
-    "lon": 113.54,
+    "name": "大三巴牌坊",
+    "name_en": "Ruins of St. Paul's",
+    "lat": 22.198,
+    "lon": 113.541,
     "country": "中國",
     "region": "亞洲",
-    "quote": "從第一個馬格廟,找到第11個民政總署的話",
-    "context": "世界文化遺產，曾為澳門最具規模的市政機構。"
+    "quote": "大三八排放它很有它的历史因为它以前是我们它是远东地区最大的天主教堂",
+    "context": "澳門代表性地標，前身為遭火焚毀的聖保祿教堂"
   },
   {
     "name": "議事亭前地",
@@ -96,103 +76,28 @@
     "lon": 113.54,
     "country": "中國",
     "region": "亞洲",
-    "quote": "從第12個議事庭前提一直走到第25個東望洋燈塔",
-    "context": "澳門市中心的核心廣場，周邊環繞歷史建築。"
+    "quote": "然后从第12个议事庭前提一直走到第25个东望阳灯塔炮台的地方",
+    "context": "澳門歷史城區的著名核心廣場"
   },
   {
     "name": "東望洋燈塔",
     "name_en": "Guia Lighthouse",
     "lat": 22.196,
-    "lon": 113.549,
+    "lon": 113.55,
     "country": "中國",
     "region": "亞洲",
-    "quote": "一直走到第25個東望洋燈塔、炮台的地方",
-    "context": "中國海岸第一座現代燈塔，位於東望洋山頂。"
-  },
-  {
-    "name": "關帝廟",
-    "name_en": "Kuan Tai Temple",
-    "lat": 22.194,
-    "lon": 113.539,
-    "country": "中國",
-    "region": "亞洲",
-    "quote": "就包括馬格廟啦、官地廟啦、挪扎廟",
-    "context": "傳統中式寺廟，位於繁榮的商業街道中。"
-  },
-  {
-    "name": "哪吒廟",
-    "name_en": "Na Tcha Temple",
-    "lat": 22.197,
-    "lon": 113.54,
-    "country": "中國",
-    "region": "亞洲",
-    "quote": "就包括馬格廟啦、官地廟啦、挪扎廟",
-    "context": "緊鄰大三巴牌坊，象徵中西宗教建築和諧共存。"
-  },
-  {
-    "name": "聖老楞佐教堂",
-    "name_en": "St. Lawrence's Church",
-    "lat": 22.189,
-    "lon": 113.536,
-    "country": "中國",
-    "region": "亞洲",
-    "quote": "你可以走西式的教堂...比如什麼聖老認主教堂",
-    "context": "澳門古老教堂之一，因供奉風信之神被華人稱風順堂。"
-  },
-  {
-    "name": "主教座堂",
-    "name_en": "Cathedral of the Nativity of Our Lady",
-    "lat": 22.193,
-    "lon": 113.542,
-    "country": "中國",
-    "region": "亞洲",
-    "quote": "聖老認主教堂、大三巴拉、主教堂這些等等",
-    "context": "天主教澳門教區的主教座堂，具備宏偉的古典外觀。",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/St._John%27s_Cathedral%2C_HK_bell_tower.JPG/330px-St._John%27s_Cathedral%2C_HK_bell_tower.JPG"
-  },
-  {
-    "name": "鄭家大屋",
-    "name_en": "Mandarin's House",
-    "lat": 22.188,
-    "lon": 113.535,
-    "country": "中國",
-    "region": "亞洲",
-    "quote": "然後你還經過中式的住宅,那就是有名的鄭家大屋",
-    "context": "中國近代思想家鄭觀應故居，佔地極廣的傳統大宅。",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Mandarin%27s_House%2C_2023_%2806%29.jpg/330px-Mandarin%27s_House%2C_2023_%2806%29.jpg"
-  },
-  {
-    "name": "盧家大屋",
-    "name_en": "Lou Kau Mansion",
-    "lat": 22.194,
-    "lon": 113.541,
-    "country": "中國",
-    "region": "亞洲",
-    "quote": "中式的住宅...那就是有名的鄭家大屋、盧家大屋",
-    "context": "典型清朝末年富商大宅，展現西關大屋建築特色。",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Casaloukao.JPG/330px-Casaloukao.JPG"
+    "quote": "一直走到第25个东望阳灯塔炮台的地方那大概差不多半天的时间",
+    "context": "澳門歷史城區的最高點與地標之一"
   },
   {
     "name": "何東圖書館",
     "name_en": "Sir Robert Ho Tung Library",
-    "lat": 22.191,
-    "lon": 113.538,
+    "lat": 22.192,
+    "lon": 113.537,
     "country": "中國",
     "region": "亞洲",
-    "quote": "我要把我在澳門住的這個地方...捐給澳門政府做圖書館",
-    "context": "富商何東故居捐贈而成的圖書館，融合古今建築。",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Biblioteca_Robert_Ho_Tung%2C_Macao%2C_2013-08-08%2C_DD_01.jpg/330px-Biblioteca_Robert_Ho_Tung%2C_Macao%2C_2013-08-08%2C_DD_01.jpg"
-  },
-  {
-    "name": "東方基金會會址",
-    "name_en": "Casa Garden",
-    "lat": 22.199,
-    "lon": 113.539,
-    "country": "中國",
-    "region": "亞洲",
-    "quote": "西式的住宅,包括什麼河東圖書館,這個東方基金會",
-    "context": "建於18世紀的優美別墅，現為文化交流機構所在地。",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Casa_Garden%2C_2023_%2803%29.jpg/330px-Casa_Garden%2C_2023_%2803%29.jpg"
+    "quote": "特别在讲一个河东图书馆河东图书馆很有意思他是一个荷兰籍的犹太人",
+    "context": "香港首富何東避難居所，後捐贈成為圖書館"
   },
   {
     "name": "大炮台",
@@ -201,61 +106,17 @@
     "lon": 113.542,
     "country": "中國",
     "region": "亞洲",
-    "quote": "大炮台...它當初是一個炮台,很大的炮台",
-    "context": "澳門城區制高點，曾是核心防禦工事與總督官邸。",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/FortalegoDoMonte.jpg/330px-FortalegoDoMonte.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "仁慈堂",
-    "name_en": "Holy House of Mercy",
-    "lat": 22.193,
-    "lon": 113.54,
-    "country": "中國",
-    "region": "亞洲",
-    "quote": "你還經過一個慈善機構,叫仁慈堂",
-    "context": "創立於1569年，為亞洲古老的西式慈善機構。",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Senado_Macao.jpg/330px-Senado_Macao.jpg"
-  },
-  {
-    "name": "基督教墳場",
-    "name_en": "Protestant Cemetery",
-    "lat": 22.199,
-    "lon": 113.539,
-    "country": "中國",
-    "region": "亞洲",
-    "quote": "你可以經過墳場,一個基督教墳場",
-    "context": "長眠多位19世紀在華名人的歷史墓園。",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Macao_Protestant_Cemetery.jpg/330px-Macao_Protestant_Cemetery.jpg"
-  },
-  {
-    "name": "崗頂劇院",
-    "name_en": "Dom Pedro V Theatre",
-    "lat": 22.191,
-    "lon": 113.537,
-    "country": "中國",
-    "region": "亞洲",
-    "quote": "還有巨院,港頂巨院",
-    "context": "中國第一座西式劇院，是早期葡人社交活動中心。",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Teatro_Don_Pedro_V%2C_Macao%2C_2013-08-08%2C_DD_02.jpg/330px-Teatro_Don_Pedro_V%2C_Macao%2C_2013-08-08%2C_DD_02.jpg"
+    "quote": "它当初是一个炮台很大的炮台那个我记得那个炮上面有炮架打的话有大概有35座的炮台",
+    "context": "曾由傳教士建立，後成為總督官邸與軍營"
   },
   {
     "name": "澳門博物館",
-    "name_en": "Macau Museum",
+    "name_en": "Macao Museum",
     "lat": 22.197,
     "lon": 113.542,
     "country": "中國",
     "region": "亞洲",
-    "quote": "你還經過炮台...你會看到一個像叫做澳門博物館",
-    "context": "建於大炮台之內，展示澳門多元文化共存的歷史。"
-  },
-  {
-    "name": "廈門火車站",
-    "name_en": "Xiamen Railway Station",
-    "lat": 24.471,
-    "lon": 118.109,
-    "country": "中國",
-    "region": "亞洲",
-    "quote": "他能夠打到廈門火車站",
-    "context": "節目中提及金門大砲威力時，以此火車站為距離對象。"
+    "quote": "你在这个大三八排坊右边然后你会看到一个像叫做澳门博物馆它当初是一个炮台",
+    "context": "位於大炮台旁，由舊炮台空間改建"
   }
 ]

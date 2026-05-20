@@ -6,8 +6,18 @@
     "lon": 28.985,
     "country": "土耳其",
     "region": "歐洲",
-    "quote": "如果你去伊斯坦堡观光，你一定一定会去的区域叫做Taxim",
-    "context": "伊斯坦堡的中心點與抗議熱區，被類比為西門町。"
+    "quote": "你去伊斯坦堡觀光，一定一定會去的區域叫做Taxim",
+    "context": "伊斯坦堡的核心地標，是遊行抗議熱區與各國領事館所在地。"
+  },
+  {
+    "name": "博斯普魯斯海峽",
+    "name_en": "Bosphorus Strait",
+    "lat": 41.013,
+    "lon": 29.004,
+    "country": "土耳其",
+    "region": "歐洲",
+    "quote": "我會想要住在海峽旁邊的飯店",
+    "context": "講者提到比起觀光區，更嚮往居住在海峽景觀附近的飯店。"
   },
   {
     "name": "藍色清真寺",
@@ -16,47 +26,17 @@
     "lon": 28.976,
     "country": "土耳其",
     "region": "歐洲",
-    "quote": "你不可能住在蓝色青森寺旁边每天吧",
-    "context": "著名的觀光景點，講者用來對比觀光區與居住區的差異。"
-  },
-  {
-    "name": "博斯普魯斯海峽",
-    "name_en": "Bosphorus",
-    "lat": 41.05,
-    "lon": 29.016,
-    "country": "土耳其",
-    "region": "歐洲",
-    "quote": "我会想要住在海峡旁边的饭店",
-    "context": "講者提到更傾向居住在海峽附近的區域而非觀光中心。"
+    "quote": "你不可能住在藍色清真寺旁邊每天吧",
+    "context": "作為觀光區的代名詞，用來對比實際居住區的生活氛圍。"
   },
   {
     "name": "獨立大道",
-    "name_en": "Istiklal Avenue",
+    "name_en": "İstiklal Avenue",
     "lat": 41.033,
     "lon": 28.979,
     "country": "土耳其",
     "region": "歐洲",
-    "quote": "长期摆在Taxim的广场跟往那个独立大道上面的地方走的一些小区域",
-    "context": "緊鄰塔克西姆廣場的主要商業街，提到常有柵欄與警力。"
-  },
-  {
-    "name": "伊斯坦堡市政府",
-    "name_en": "Istanbul Metropolitan Municipality",
-    "lat": 41.014,
-    "lon": 28.956,
-    "country": "土耳其",
-    "region": "歐洲",
-    "quote": "顶多在伊斯坦堡市政府前面，但通常如果在市政府前面，他就是要特别对市政府或是市长",
-    "context": "提及特定政治抗議活動發生的地點。"
-  },
-  {
-    "name": "駐土耳其代表處",
-    "name_en": "Taipei Economic and Cultural Mission in Ankara",
-    "lat": 39.897,
-    "lon": 32.862,
-    "country": "土耳其",
-    "region": "亞洲",
-    "quote": "可是像因为台湾就太小，所以我们就只有在安卡拉",
-    "context": "提到台灣駐土耳其辦事處的所在地點。"
+    "quote": "長期擺在Taxim的廣場跟往那個獨立大道上面的地方走的一些小區域",
+    "context": "提到該街道常年設有警察戒備與柵欄，氛圍較為嚴肅。"
   }
 ]

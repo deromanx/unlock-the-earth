@@ -1,23 +1,23 @@
 [
   {
-    "name": "馬賽馬拉",
-    "name_en": "Maasai Mara National Reserve",
-    "lat": -1.49,
+    "name": "馬賽馬拉國家保護區",
+    "name_en": "Maasai Mara",
+    "lat": -1.503,
     "lon": 35.143,
     "country": "肯亞",
     "region": "非洲",
-    "quote": "那所以你在馬賽馬拉看到那個大千禧 感覺應該很爽",
-    "context": "觀賞動物大遷徙的國家保護區，分享了遇見獅子的經歷。"
+    "quote": "在馬賽馬拉拉看動物",
+    "context": "野生動物大遷徙及看獅子與獵豹的主要地點"
   },
   {
-    "name": "莫希 (Moshi)",
+    "name": "莫希",
     "name_en": "Moshi",
-    "lat": -3.339,
-    "lon": 37.336,
+    "lat": -3.35,
+    "lon": 37.34,
     "country": "坦尚尼亞",
     "region": "非洲",
-    "quote": "去坦尚尼亞的Moshi Moshi Moshi這個一個城鎮 就是很多人去Kiri Manjaro山",
-    "context": "攀登吉力馬札羅山前的休息與出發城鎮。"
+    "quote": "去坦尚尼亞的Moshi",
+    "context": "攀登吉力馬札羅山前暫停休息並準備出發的前哨城鎮"
   },
   {
     "name": "吉力馬札羅山",
@@ -26,8 +26,8 @@
     "lon": 37.355,
     "country": "坦尚尼亞",
     "region": "非洲",
-    "quote": "就是很多人去Kiri Manjaro山 可以坐最高峰的時候 會在這個鎮裡面 開始休息幾天",
-    "context": "東非知名高山，講者考慮去爬但因費用太貴而放棄。"
+    "quote": "很多人去Kiri Manjaro山",
+    "context": "因攀登費用過高（一千多美金）而最後放棄的地標"
   },
   {
     "name": "桑吉巴島",
@@ -36,17 +36,27 @@
     "lon": 39.202,
     "country": "坦尚尼亞",
     "region": "非洲",
-    "quote": "所以山吉巴島是一個 有名的度假小島",
-    "context": "擁有藍綠色海水的度假勝地，深受穆斯林文化影響。"
+    "quote": "所以山吉巴島是一個有名的度假小島",
+    "context": "等候簽證期間前往放鬆、擁有藍綠色海水的度假島嶼"
   },
   {
     "name": "石頭鎮",
     "name_en": "Stone Town",
     "lat": -6.162,
-    "lon": 39.193,
+    "lon": 39.192,
     "country": "坦尚尼亞",
     "region": "非洲",
-    "quote": "三七八有石頭鎮 就是他們 那個主要的鎮 還有一些 以前的一些文化的東西",
-    "context": "桑吉巴島上具有豐富歷史與文化遺產的主要城鎮。"
+    "quote": "三七八有石頭鎮",
+    "context": "桑吉巴島上具有當地歷史與文化氣息的主要鎮區"
+  },
+  {
+    "name": "坦贊鐵路",
+    "name_en": "TAZARA Railway",
+    "lat": -6.843,
+    "lon": 39.26,
+    "country": "坦尚尼亞",
+    "region": "非洲",
+    "quote": "坦上鐵路的火車票",
+    "context": "連結坦尚尼亞與尚比亞，體驗非洲鄉村景致的跨國鐵路"
   }
 ]

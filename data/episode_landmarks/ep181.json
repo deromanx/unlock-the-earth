@@ -1,12 +1,22 @@
 [
   {
     "name": "聖地亞哥-德孔波斯特拉主教座堂",
-    "name_en": "Santiago de Compostela Cathedral",
+    "name_en": "Cathedral of Santiago de Compostela",
     "lat": 42.88,
-    "lon": -8.544,
+    "lon": -8.545,
     "country": "西班牙",
     "region": "歐洲",
-    "quote": "就一定是那个San Diego 就是那个教堂",
-    "context": "朝聖之路的終點（講者口誤將Santiago說成San Diego）"
+    "quote": "反正他的終點呢 就一定是那個San Diego 就是那個教堂",
+    "context": "朝聖之路的終點，所有朝聖者最終抵達的目的地"
+  },
+  {
+    "name": "朝聖者辦公室 (聖讓皮耶德波爾)",
+    "name_en": "Pilgrim's Reception Office",
+    "lat": 43.163,
+    "lon": -1.237,
+    "country": "法國",
+    "region": "歐洲",
+    "quote": "我們在走這個朝聖之路的第一天 我們會先進朝聖者辦公室 然後會拿一個要蓋章的東西",
+    "context": "出發第一天報到並領取朝聖護照（集點卡）的地方"
   }
 ]
