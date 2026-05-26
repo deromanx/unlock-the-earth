@@ -1,0 +1,52 @@
+[
+  {
+    "name": "米特羅維察大橋",
+    "name_en": "Ibar River Bridge",
+    "lat": 42.891,
+    "lon": 20.866,
+    "country": "科索沃",
+    "region": "歐洲",
+    "quote": "这个河上面就有一座桥，可想而知就是那座桥就会发生一些冲突",
+    "context": "城市被分為阿裔與塞裔區的交界，常發生衝突。"
+  },
+  {
+    "name": "科索沃國家博物館",
+    "name_en": "Kosovo Museum",
+    "lat": 42.667,
+    "lon": 21.166,
+    "country": "科索沃",
+    "region": "歐洲",
+    "quote": "我又跑去他们的国家博物馆提案说要做展览",
+    "context": "講者在此提議舉辦科索沃未來展。"
+  },
+  {
+    "name": "普里茲倫古城",
+    "name_en": "Prizren",
+    "lat": 42.213,
+    "lon": 20.739,
+    "country": "科索沃",
+    "region": "歐洲",
+    "quote": "一个科索沃南边的古城，他叫Prizzman",
+    "context": "保留鄂圖曼土耳其時期建築的古城。"
+  },
+  {
+    "name": "普里茲倫城堡",
+    "name_en": "Prizren Fortress",
+    "lat": 42.212,
+    "lon": 20.744,
+    "country": "科索沃",
+    "region": "歐洲",
+    "quote": "干脆在河边，还有山上，山上的碉堡，碉堡里面放电影",
+    "context": "當地知名影展 DokuFest 播放露天電影的地點。"
+  },
+  {
+    "name": "扎希爾·帕亞齊蒂廣場",
+    "name_en": "Zahir Pajaziti Square",
+    "lat": 42.659,
+    "lon": 21.161,
+    "country": "科索沃",
+    "region": "歐洲",
+    "quote": "我朋友会突然指着广场上的雕像跟我说，那是我叔叔",
+    "context": "講者朋友叔叔的雕像所在處，紀念首位陣亡戰士。"
+  }
+]

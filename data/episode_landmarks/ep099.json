@@ -1,0 +1,32 @@
+[
+  {
+    "name": "恆河",
+    "name_en": "Ganges River",
+    "lat": 25.311,
+    "lon": 83.01,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "可是真的到恒河那一段的時候",
+    "context": "講者在印度旅行時感受到強烈文化衝擊的地點"
+  },
+  {
+    "name": "索尼帕特",
+    "name_en": "Sonipat",
+    "lat": 28.993,
+    "lon": 77.015,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "因為我住在Sony Park",
+    "context": "講者派駐教書的印度小鎮（逐字稿音譯為 Sony Park）"
+  },
+  {
+    "name": "英迪拉·甘地國際機場",
+    "name_en": "Indira Gandhi International Airport",
+    "lat": 28.556,
+    "lon": 77.1,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "可是他們的機場是沒有辦法讓外人進去的",
+    "context": "描述初抵達德里時，在機場遇到的管制情況"
+  }
+]

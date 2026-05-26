@@ -1,0 +1,72 @@
+[
+  {
+    "name": "大英博物館",
+    "name_en": "British Museum",
+    "lat": 51.5194,
+    "lon": -0.127,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "首先參觀的是大英博物館，英文叫做British Museum",
+    "context": "節目行程的第一站，參觀知名博物館"
+  },
+  {
+    "name": "布盧姆斯伯里",
+    "name_en": "Bloomsbury",
+    "lat": 51.5236,
+    "lon": -0.1292,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "就在布盧姆斯伯里這個地區",
+    "context": "大英博物館所在的倫敦地區"
+  },
+  {
+    "name": "特拉法加廣場",
+    "name_en": "Trafalgar Square",
+    "lat": 51.5081,
+    "lon": -0.1281,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "然後我們走到了特拉法加廣場，Trafalgar Square",
+    "context": "倫敦市中心重要的地標廣場"
+  },
+  {
+    "name": "納爾遜紀念柱",
+    "name_en": "Nelson's Column",
+    "lat": 51.5077,
+    "lon": -0.1279,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "這裡有納爾遜紀念柱，非常壯觀",
+    "context": "位於特拉法加廣場中央的紀念碑"
+  },
+  {
+    "name": "倫敦眼",
+    "name_en": "London Eye",
+    "lat": 51.5033,
+    "lon": -0.1195,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "看到了倫敦眼，London Eye",
+    "context": "位於泰晤士河畔的著名摩天輪"
+  },
+  {
+    "name": "威斯敏斯特橋",
+    "name_en": "Westminster Bridge",
+    "lat": 51.5008,
+    "lon": -0.1216,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "還有威斯敏斯特橋",
+    "context": "泰晤士河上的地標橋樑"
+  },
+  {
+    "name": "布里克斯頓",
+    "name_en": "Brixton",
+    "lat": 51.4613,
+    "lon": -0.1156,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "下午我們去了布里克斯頓，Brixton，這是倫敦著名的加勒比海社區，很有特色。",
+    "context": "本集重點介紹的加勒比海文化街區"
+  }
+]

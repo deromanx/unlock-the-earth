@@ -1,0 +1,72 @@
+[
+  {
+    "name": "博斯普魯斯海峽",
+    "name_en": "Bosphorus Strait",
+    "lat": 41.026,
+    "lon": 29.004,
+    "country": "土耳其",
+    "region": "亞洲",
+    "quote": "波斯伯魯斯",
+    "context": "切開伊斯坦堡，使其橫跨歐亞大陸的海峽"
+  },
+  {
+    "name": "金角灣",
+    "name_en": "Golden Horn",
+    "lat": 41.025,
+    "lon": 28.96,
+    "country": "土耳其",
+    "region": "歐洲",
+    "quote": "中間隔了一個叫做京腳灣",
+    "context": "分隔伊斯坦堡新城區與舊城區的地理界線"
+  },
+  {
+    "name": "藍色清真寺",
+    "name_en": "Blue Mosque",
+    "lat": 41.005,
+    "lon": 28.976,
+    "country": "土耳其",
+    "region": "歐洲",
+    "quote": "就是你想到藍色新增寺啊",
+    "context": "伊斯坦堡舊城區的代表性古蹟之一"
+  },
+  {
+    "name": "聖索菲亞大教堂",
+    "name_en": "Hagia Sophia",
+    "lat": 41.008,
+    "lon": 28.978,
+    "country": "土耳其",
+    "region": "歐洲",
+    "quote": "拿最經典的聖索菲亞大教堂來講好了，它以前曾經是基督教的禮拜的地方嘛",
+    "context": "舉例說明建築在不同政權下轉變用途的歷史"
+  },
+  {
+    "name": "川普大廈（伊斯坦堡）",
+    "name_en": "Trump Towers Istanbul",
+    "lat": 41.062,
+    "lon": 28.992,
+    "country": "土耳其",
+    "region": "歐洲",
+    "quote": "從外看出去的第一個大樓，叫做Trump Tower",
+    "context": "來賓對土耳其新城區高度國際化的第一印象"
+  },
+  {
+    "name": "以弗所 / 愛菲索斯",
+    "name_en": "Ephesus",
+    "lat": 37.941,
+    "lon": 27.341,
+    "country": "土耳其",
+    "region": "亞洲",
+    "quote": "中文可以翻叫以佛斯或是愛菲索斯",
+    "context": "全世界現存最大且最完整的古羅馬遺跡"
+  },
+  {
+    "name": "棉堡",
+    "name_en": "Pamukkale",
+    "lat": 37.923,
+    "lon": 29.119,
+    "country": "土耳其",
+    "region": "亞洲",
+    "quote": "大家應該比較常聽到的就是棉堡",
+    "context": "指出其除了石灰岩地形外，更是一大片古羅馬遺跡"
+  }
+]

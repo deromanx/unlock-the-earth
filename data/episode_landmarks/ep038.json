@@ -1,0 +1,112 @@
+[
+  {
+    "name": "紫禁城",
+    "name_en": "Forbidden City",
+    "lat": 39.916,
+    "lon": 116.39,
+    "country": "中國",
+    "region": "亞洲",
+    "quote": "我覺得北京是...很新 但是要看舊的東西很多 紫禁城啊",
+    "context": "討論北京雖現代但仍有許多舊古蹟"
+  },
+  {
+    "name": "鳥巢",
+    "name_en": "Beijing National Stadium",
+    "lat": 39.993,
+    "lon": 116.396,
+    "country": "中國",
+    "region": "亞洲",
+    "quote": "其實之前那個奧運 為了要蓋鳥巢 2008年的時候",
+    "context": "提到北京奧運為了建設而拆除胡同"
+  },
+  {
+    "name": "黃鶴樓",
+    "name_en": "Yellow Crane Tower",
+    "lat": 30.544,
+    "lon": 114.297,
+    "country": "中國",
+    "region": "亞洲",
+    "quote": "我去湖北的時候...就是看那個黃鶴樓啊",
+    "context": "分享黃鶴樓翻新後看不出古蹟感"
+  },
+  {
+    "name": "中甸古城 (獨克宗古城)",
+    "name_en": "Dukezong Ancient Town",
+    "lat": 27.814,
+    "lon": 99.7,
+    "country": "中國",
+    "region": "亞洲",
+    "quote": "雲南那邊有個地方 中甸 就是傳說中的香格里拉 那邊有個古城",
+    "context": "提到雲南古城翻新後又被燒毀的故事"
+  },
+  {
+    "name": "烏鎮",
+    "name_en": "Wuzhen Water Town",
+    "lat": 30.751,
+    "lon": 120.483,
+    "country": "中國",
+    "region": "亞洲",
+    "quote": "像烏鎮 你有去過烏鎮 超扯的 就看起來好像真的是昨天蓋好",
+    "context": "舉例古鎮常被整修得太過於新"
+  },
+  {
+    "name": "中山陵",
+    "name_en": "Sun Yat-sen Mausoleum",
+    "lat": 32.064,
+    "lon": 118.848,
+    "country": "中國",
+    "region": "亞洲",
+    "quote": "南京主要還是民國的東西比較多 對啊 像中山陵啊",
+    "context": "提到南京有許多民國時期的景點"
+  },
+  {
+    "name": "開封府",
+    "name_en": "Kaifeng Prefecture",
+    "lat": 34.789,
+    "lon": 114.341,
+    "country": "中國",
+    "region": "亞洲",
+    "quote": "像包公那個 那個真的開封府 它的已經不見了",
+    "context": "提及真正的開封府已被黃河淹沒"
+  },
+  {
+    "name": "包公祠",
+    "name_en": "Lord Bao Shrine",
+    "lat": 34.788,
+    "lon": 114.338,
+    "country": "中國",
+    "region": "亞洲",
+    "quote": "它現在生的包公祠 它也真的就是千年古蹟",
+    "context": "討論重建的包公祠看起來非常新"
+  },
+  {
+    "name": "大相國寺",
+    "name_en": "Da Xiangguo Temple",
+    "lat": 34.795,
+    "lon": 114.349,
+    "country": "中國",
+    "region": "亞洲",
+    "quote": "像那個大相國寺...它是一個佛寺 大相國寺",
+    "context": "講述走在歷史人物李清照曾走過的地點"
+  },
+  {
+    "name": "惠州西湖",
+    "name_en": "Huizhou West Lake",
+    "lat": 23.096,
+    "lon": 114.397,
+    "country": "中國",
+    "region": "亞洲",
+    "quote": "我去那個 西湖散步的時候 惠州的西湖 在廣東",
+    "context": "分享在西湖想像蘇軾在此走過的感受"
+  },
+  {
+    "name": "清明上河園",
+    "name_en": "Millennium City Park",
+    "lat": 34.817,
+    "lon": 114.339,
+    "country": "中國",
+    "region": "亞洲",
+    "quote": "你如果要換別的地方也可以啦 就清明上河圖主題樂園這樣",
+    "context": "提到開封當地復刻古風的主題樂園"
+  }
+]

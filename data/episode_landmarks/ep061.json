@@ -1,0 +1,52 @@
+[
+  {
+    "name": "鹹海",
+    "name_en": "Aral Sea",
+    "lat": 45.394,
+    "lon": 58.612,
+    "country": "烏茲別克與哈薩克",
+    "region": "亞洲",
+    "quote": "在中亞有一片曾經是一個鹹水湖的海叫做鹹海",
+    "context": "蘇聯時期大量引水灌溉導致幾近枯竭的湖泊"
+  },
+  {
+    "name": "地獄之門",
+    "name_en": "Darvaza Gas Crater",
+    "lat": 40.252,
+    "lon": 58.439,
+    "country": "土庫曼",
+    "region": "亞洲",
+    "quote": "會發現很多人去那邊他要看一個經驗叫做地獄之馬",
+    "context": "土庫曼挖天然氣留下的坑洞，因放火燃燒成景點"
+  },
+  {
+    "name": "帕米爾高原",
+    "name_en": "Pamir Mountains",
+    "lat": 38.237,
+    "lon": 73.238,
+    "country": "塔吉克",
+    "region": "亞洲",
+    "quote": "然後跨過帕米爾高原",
+    "context": "講者從吉爾吉斯前往中國新疆途中跨越的高原"
+  },
+  {
+    "name": "宋湖",
+    "name_en": "Song-Kul",
+    "lat": 41.838,
+    "lon": 75.143,
+    "country": "吉爾吉斯",
+    "region": "亞洲",
+    "quote": "我覺得是他的一個高山湖泊叫做宋湖",
+    "context": "講者最推薦的吉爾吉斯高山湖泊，適合社區旅遊"
+  },
+  {
+    "name": "伊賽克湖",
+    "name_en": "Issyk-Kul",
+    "lat": 42.428,
+    "lon": 77.294,
+    "country": "吉爾吉斯",
+    "region": "亞洲",
+    "quote": "不過第一個湖叫做伊賽克湖",
+    "context": "吉爾吉斯開發較完整的最大湖泊，曾為避暑勝地"
+  }
+]

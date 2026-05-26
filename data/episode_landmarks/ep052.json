@@ -1,0 +1,272 @@
+[
+  {
+    "name": "墨西哥大神廟博物館",
+    "name_en": "Templo Mayor Museum",
+    "lat": 19.435,
+    "lon": -99.131,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "一個就是墨西哥大神廟博物館",
+    "context": "阿茲特克大神廟遺址及其附設博物館"
+  },
+  {
+    "name": "國家宮",
+    "name_en": "National Palace",
+    "lat": 19.432,
+    "lon": -99.131,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "然後另外一邊是國家公 就是墨西哥的中央政府機構",
+    "context": "殖民時代建築，現為墨西哥政府機構與博物館"
+  },
+  {
+    "name": "墨西哥歷史城區",
+    "name_en": "Historic center of Mexico City",
+    "lat": 19.432,
+    "lon": -99.133,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "因為所謂的墨西哥歷史城區 本身就是阿茲特克以前的城區",
+    "context": "阿茲特克首都舊址上建立的歷史城區"
+  },
+  {
+    "name": "聖母堂座",
+    "name_en": "Mexico City Metropolitan Cathedral",
+    "lat": 19.433,
+    "lon": -99.133,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "所謂聖母堂座 就是一個天主教堂",
+    "context": "與阿茲特克大神廟相鄰的殖民時期天主教堂"
+  },
+  {
+    "name": "憲法廣場",
+    "name_en": "Zócalo",
+    "lat": 19.432,
+    "lon": -99.133,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "甚至憲法廣場就可以玩個一兩天",
+    "context": "墨西哥城中心的知名廣場"
+  },
+  {
+    "name": "墨西哥人類學博物館",
+    "name_en": "National Museum of Anthropology",
+    "lat": 19.426,
+    "lon": -99.186,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "就是人類學博物館 墨西哥人類學博物館",
+    "context": "展出大量阿茲特克與瑪雅文物的博物館"
+  },
+  {
+    "name": "墨西哥城的歌劇院",
+    "name_en": "Palacio de Bellas Artes",
+    "lat": 19.435,
+    "lon": -99.141,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "一起去那個歌劇院 墨西哥城的歌劇院",
+    "context": "舉辦踢踏舞芭蕾等表演的古典巴洛克風格建築"
+  },
+  {
+    "name": "Takashakara (卡卡什特拉遺址)",
+    "name_en": "Cacaxtla",
+    "lat": 19.242,
+    "lon": -98.338,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "像我們有去那個 Takashakara 他在墨西哥城外面的一個小村莊",
+    "context": "擁有瑪雅風格壁畫的阿茲特克時代巨大宮殿"
+  },
+  {
+    "name": "丘魯拉 (Cholula)",
+    "name_en": "Cholula",
+    "lat": 19.06,
+    "lon": -98.303,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "丘魯拉也是一個小鎮 它也是一個蠻好的小鎮可以去參觀",
+    "context": "擁有阿茲特克與迪拉斯卡拉文化遺址的小鎮"
+  },
+  {
+    "name": "提奧地華乾 (Teotihuacan)",
+    "name_en": "Teotihuacan",
+    "lat": 19.692,
+    "lon": -98.843,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "那還有一個就是這個提奧地華乾",
+    "context": "規模如城市般巨大、曾征服瑪雅的古文明遺址"
+  },
+  {
+    "name": "亡靈大道",
+    "name_en": "Avenue of the Dead",
+    "lat": 19.692,
+    "lon": -98.843,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "它就是有個亡靈大道 有月亮金字塔 然後太陽金字塔",
+    "context": "提奧地華乾遺址內的核心主幹道"
+  },
+  {
+    "name": "月亮金字塔",
+    "name_en": "Pyramid of the Moon",
+    "lat": 19.698,
+    "lon": -98.844,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "它就是有個亡靈大道 有月亮金字塔 然後太陽金字塔",
+    "context": "提奧地華乾遺址內的重要金字塔"
+  },
+  {
+    "name": "太陽金字塔",
+    "name_en": "Pyramid of the Sun",
+    "lat": 19.692,
+    "lon": -98.843,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "它就是有個亡靈大道 有月亮金字塔 然後太陽金字塔",
+    "context": "提奧地華乾遺址內的重要金字塔"
+  },
+  {
+    "name": "奇形易渣 (奇琴伊察)",
+    "name_en": "Chichén Itzá",
+    "lat": 20.684,
+    "lon": -88.567,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "第一個就是當然奇形易渣子 這個是大家必看的",
+    "context": "極度知名但過於商業化的後古典期瑪雅遺址"
+  },
+  {
+    "name": "烏爾斯瑪爾 (烏斯馬爾)",
+    "name_en": "Uxmal",
+    "lat": 20.36,
+    "lon": -89.769,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "我覺得我最喜歡的瑪雅遺址應該是烏爾斯瑪爾",
+    "context": "人少且建築充滿典雅美感的瑪雅秘境遺址"
+  },
+  {
+    "name": "花拉杜烈 (瓦拉多利德)",
+    "name_en": "Valladolid",
+    "lat": 20.69,
+    "lon": -88.201,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "其實是一個小鎮叫做那個 花拉杜烈 的小鎮",
+    "context": "距離奇琴伊察最近的城鎮"
+  },
+  {
+    "name": "巴蓮戒遺址 (巴倫克)",
+    "name_en": "Palenque",
+    "lat": 17.484,
+    "lon": -92.046,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "其實也可以去墨西哥的另外一個椅子 叫做 巴蓮戒椅子",
+    "context": "擁有繁複壁畫及將人物名字藏於身上的瑪雅遺址"
+  },
+  {
+    "name": "貝里斯城",
+    "name_en": "Belize City",
+    "lat": 17.499,
+    "lon": -88.197,
+    "country": "貝里斯",
+    "region": "美洲",
+    "quote": "我建議一個是貝里斯城 那貝里斯城的話 就是找一些比較安全的地方住",
+    "context": "貝里斯主要城市，治安較差但可作為旅遊據點"
+  },
+  {
+    "name": "藍洞",
+    "name_en": "Great Blue Hole",
+    "lat": 17.316,
+    "lon": -87.534,
+    "country": "貝里斯",
+    "region": "美洲",
+    "quote": "貝里斯有一個很有名的觀光景點叫藍洞",
+    "context": "貝里斯著名的海中深藍色珊瑚礁洞穴"
+  },
+  {
+    "name": "卡拉扣遺址 (卡拉科爾)",
+    "name_en": "Caracol",
+    "lat": 16.763,
+    "lon": -89.117,
+    "country": "貝里斯",
+    "region": "美洲",
+    "quote": "附近就有可以去卡拉扣遺址 它是一個貝里斯最大的瑪雅城邦",
+    "context": "貝里斯最大的瑪雅遺址，擁有全國最高建築"
+  },
+  {
+    "name": "ATM CAV (Actun Tunichil Muknal)",
+    "name_en": "Actun Tunichil Muknal",
+    "lat": 17.09,
+    "lon": -88.864,
+    "country": "貝里斯",
+    "region": "美洲",
+    "quote": "你可以去那個ATM CAV 這是我們這次行程 它是一個石灰岩洞",
+    "context": "需溯溪探險的古瑪雅人獻祭洞穴"
+  },
+  {
+    "name": "Sengganasen (聖伊格納西奧)",
+    "name_en": "San Ignacio",
+    "lat": 17.152,
+    "lon": -89.07,
+    "country": "貝里斯",
+    "region": "美洲",
+    "quote": "那就到一個叫做 Sengganasen用的小鎮",
+    "context": "貝里斯第二大城，前往西部瑪雅遺址的基地"
+  },
+  {
+    "name": "蒂卡爾 (Tikal)",
+    "name_en": "Tikal",
+    "lat": 17.222,
+    "lon": -89.623,
+    "country": "瓜地馬拉",
+    "region": "美洲",
+    "quote": "最大的就是蒂卡爾 那蒂卡爾的特色是",
+    "context": "古典期最強大的瑪雅城邦，觀光最便利的大型遺址"
+  },
+  {
+    "name": "卡拉木遺址 (卡拉克穆爾)",
+    "name_en": "Calakmul",
+    "lat": 18.105,
+    "lon": -89.81,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "它跟蛇王朝 就是卡拉木遺址 是對立的",
+    "context": "歷史上與蒂卡爾對立的蛇王朝城邦遺址"
+  },
+  {
+    "name": "Forest (弗洛雷斯)",
+    "name_en": "Flores",
+    "lat": 16.929,
+    "lon": -89.891,
+    "country": "瓜地馬拉",
+    "region": "美洲",
+    "quote": "叫做Forest 那這個Forest呢 它就是佩騰省的首府",
+    "context": "建於湖上小島的觀光小鎮"
+  },
+  {
+    "name": "柯潘遺址 (Copán)",
+    "name_en": "Copán",
+    "lat": 14.839,
+    "lon": -89.143,
+    "country": "宏都拉斯",
+    "region": "美洲",
+    "quote": "然後參觀柯潘椅子",
+    "context": "擁有最長瑪雅象形文字階梯及大球場的重要遺址"
+  },
+  {
+    "name": "祭壇Q",
+    "name_en": "Altar Q",
+    "lat": 14.839,
+    "lon": -89.143,
+    "country": "宏都拉斯",
+    "region": "美洲",
+    "quote": "還有當然就是祭壇Q...是一個正方形的石塊",
+    "context": "柯潘城中刻有16位國王交接畫面的重要石塊祭壇"
+  }
+]

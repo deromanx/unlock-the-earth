@@ -1,0 +1,62 @@
+[
+  {
+    "name": "伊拉蘇火山",
+    "name_en": "Irazú Volcano",
+    "lat": 9.979,
+    "lon": -83.852,
+    "country": "哥斯大黎加",
+    "region": "美洲",
+    "quote": "有一个火山叫做伊拉苏 那伊拉苏火山它是死火山啦",
+    "context": "距離首都近的死火山，可開車直達火山口。"
+  },
+  {
+    "name": "中國街",
+    "name_en": "Barrio Chino San José",
+    "lat": 9.931,
+    "lon": -84.077,
+    "country": "哥斯大黎加",
+    "region": "美洲",
+    "quote": "他们也有一个中国城 诶其实也不是中国城 就是中国街这样",
+    "context": "聖荷西的華人街，但講述者覺得幾乎沒中國相關事物。"
+  },
+  {
+    "name": "拉福圖納",
+    "name_en": "La Fortuna",
+    "lat": 10.471,
+    "lon": -84.645,
+    "country": "哥斯大黎加",
+    "region": "美洲",
+    "quote": "一个是他们比较中部的地方 叫La Fortuna",
+    "context": "作者離開首都後前往的中部城鎮，以火山景點聞名。"
+  },
+  {
+    "name": "阿雷納爾火山",
+    "name_en": "Arenal Volcano",
+    "lat": 10.463,
+    "lon": -84.703,
+    "country": "哥斯大黎加",
+    "region": "美洲",
+    "quote": "在La Fortuna那个火山啊 他叫做Arenna 这个Arenna火山",
+    "context": "外型標準的錐形火山，但作者去時因起霧沒能看到。"
+  },
+  {
+    "name": "利韋里亞",
+    "name_en": "Liberia",
+    "lat": 10.634,
+    "lon": -85.437,
+    "country": "哥斯大黎加",
+    "region": "美洲",
+    "quote": "后来我们再去西边 靠太平洋的海岸 一个城市叫Liberia",
+    "context": "西部沿岸的小城市，有著人少的沙灘和陽光普照的天氣。"
+  },
+  {
+    "name": "林貢國家公園",
+    "name_en": "Rincón de la Vieja National Park",
+    "lat": 10.83,
+    "lon": -85.324,
+    "country": "哥斯大黎加",
+    "region": "美洲",
+    "quote": "其中一个国家公园叫林贡 那这个国家公园呢 他著名的就是火山景点",
+    "context": "擁有冒煙的池子和硫磺味，地熱景觀豐富的國家公園。"
+  }
+]

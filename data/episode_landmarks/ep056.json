@@ -1,0 +1,82 @@
+[
+  {
+    "name": "馬特拉",
+    "name_en": "Matera",
+    "lat": 40.666,
+    "lon": 16.604,
+    "country": "義大利",
+    "region": "歐洲",
+    "quote": "巴黎啊 然後附近有一些 叫馬特拉",
+    "context": "列為東部較不為人知的特別景點"
+  },
+  {
+    "name": "波利亞納",
+    "name_en": "Polignano a Mare",
+    "lat": 40.995,
+    "lon": 17.221,
+    "country": "義大利",
+    "region": "歐洲",
+    "quote": "叫做 蒙皮利耶 或者是 波利亞納",
+    "context": "義大利東南部較少人去的沿海鄉鎮"
+  },
+  {
+    "name": "百花大教堂",
+    "name_en": "Florence Cathedral",
+    "lat": 43.773,
+    "lon": 11.256,
+    "country": "義大利",
+    "region": "歐洲",
+    "quote": "我看到百花大教堂之後 我就覺得 好 你現在把我殺了我OK",
+    "context": "形容對佛羅倫斯景點的極度喜愛"
+  },
+  {
+    "name": "比薩",
+    "name_en": "Pisa",
+    "lat": 43.722,
+    "lon": 10.396,
+    "country": "義大利",
+    "region": "歐洲",
+    "quote": "那離附近最近的景點 就是比薩",
+    "context": "住在托斯卡尼鄉間時前往的鄰近景點"
+  },
+  {
+    "name": "羅馬競技場",
+    "name_en": "Colosseum",
+    "lat": 41.89,
+    "lon": 12.492,
+    "country": "義大利",
+    "region": "歐洲",
+    "quote": "就你一出捷運站 明明是羅馬市中心 就看到 羅馬競技場",
+    "context": "形容羅馬市中心古蹟帶來的視覺震撼"
+  },
+  {
+    "name": "龐貝城",
+    "name_en": "Pompeii",
+    "lat": 40.749,
+    "lon": 14.484,
+    "country": "義大利",
+    "region": "歐洲",
+    "quote": "它龐貝的古蹟 其實是非常龐大",
+    "context": "詳細討論其歷史遺跡與自然災害的震撼"
+  },
+  {
+    "name": "巴里",
+    "name_en": "Bari",
+    "lat": 41.117,
+    "lon": 16.871,
+    "country": "義大利",
+    "region": "歐洲",
+    "quote": "他就是在意大利東南部 斜根的地方叫巴里",
+    "context": "被形容為危險但保留義大利真實原貌的城市"
+  },
+  {
+    "name": "蒙皮利耶",
+    "name_en": "Monopoli",
+    "lat": 40.95,
+    "lon": 17.3,
+    "country": "義大利",
+    "region": "歐洲",
+    "quote": "甚至像 Monopoly這個地方 根本連 義大利純種人 都很少去的地方",
+    "context": "被盛讚比聖托里尼還美且無人的當地小鎮"
+  }
+]

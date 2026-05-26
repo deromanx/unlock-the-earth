@@ -1,0 +1,32 @@
+[
+  {
+    "name": "吳哥窟",
+    "name_en": "Angkor Wat",
+    "lat": 13.412,
+    "lon": 103.866,
+    "country": "柬埔寨",
+    "region": "亞洲",
+    "quote": "通常首选就是五个库啦",
+    "context": "柬埔寨最具代表性的觀光景點"
+  },
+  {
+    "name": "吐斯廉屠殺紀念館",
+    "name_en": "Tuol Sleng Genocide Museum",
+    "lat": 11.549,
+    "lon": 104.918,
+    "country": "柬埔寨",
+    "region": "亞洲",
+    "quote": "他的名字叫土司联屠杀纪念馆",
+    "context": "金邊主要景點，前身為S21集中營，本集核心地點"
+  },
+  {
+    "name": "巴祝",
+    "name_en": "Ba Chuc",
+    "lat": 10.495,
+    "lon": 104.942,
+    "country": "越南",
+    "region": "亞洲",
+    "quote": "巴柱是一个他们柬埔寨跟越南交界处的一个小村落",
+    "context": "紅色高棉屠殺平民的村落，引發越柬戰爭"
+  }
+]

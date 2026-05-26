@@ -1,0 +1,42 @@
+[
+  {
+    "name": "廊開火車站",
+    "name_en": "Nong Khai Railway Station",
+    "lat": 17.873,
+    "lon": 102.731,
+    "country": "泰國",
+    "region": "亞洲",
+    "quote": "从火车站走到边境",
+    "context": "抵達泰寮邊境的下車地點"
+  },
+  {
+    "name": "湄公河",
+    "name_en": "Mekong River",
+    "lat": 17.876,
+    "lon": 102.715,
+    "country": "寮國",
+    "region": "亞洲",
+    "quote": "它是用妹公盒切开",
+    "context": "作為泰國與寮國的天然邊界"
+  },
+  {
+    "name": "泰寮友誼大橋",
+    "name_en": "Thai-Lao Friendship Bridge",
+    "lat": 17.876,
+    "lon": 102.714,
+    "country": "寮國",
+    "region": "亞洲",
+    "quote": "穿过那个太寮友谊大桥",
+    "context": "徒步跨越泰寮邊境的橋樑"
+  },
+  {
+    "name": "永珍凱旋門",
+    "name_en": "Patuxai",
+    "lat": 17.971,
+    "lon": 102.618,
+    "country": "寮國",
+    "region": "亞洲",
+    "quote": "永珍的凯旋门",
+    "context": "節目主要介紹的寮國地標"
+  }
+]

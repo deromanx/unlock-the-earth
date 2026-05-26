@@ -1,0 +1,72 @@
+[
+  {
+    "name": "索菲亞大學圖書館",
+    "name_en": "Sofia University Library",
+    "lat": 42.693,
+    "lon": 23.334,
+    "country": "保加利亞",
+    "region": "歐洲",
+    "quote": "索菲亞大學圖書館前面有一尊雕像",
+    "context": "希里爾兄弟雕像所在地"
+  },
+  {
+    "name": "瑟迪卡捷運站",
+    "name_en": "Serdica Metro Station",
+    "lat": 42.698,
+    "lon": 23.322,
+    "country": "保加利亞",
+    "region": "歐洲",
+    "quote": "他們的中央的一個捷運站叫做瑟迪卡",
+    "context": "挖出3500年古城遺跡的半開放博物館"
+  },
+  {
+    "name": "聖內德利婭東正教堂",
+    "name_en": "Sveta Nedelya Church",
+    "lat": 42.696,
+    "lon": 23.321,
+    "country": "保加利亞",
+    "region": "歐洲",
+    "quote": "你可以看到東正教堂然後猶太的禮拜堂",
+    "context": "瑟迪卡捷運站附近的東正教堂"
+  },
+  {
+    "name": "索菲亞猶太會堂",
+    "name_en": "Sofia Synagogue",
+    "lat": 42.7,
+    "lon": 23.321,
+    "country": "保加利亞",
+    "region": "歐洲",
+    "quote": "然後猶太的禮拜堂然後天主教堂",
+    "context": "與其他宗教建築在同一街區的猶太會堂"
+  },
+  {
+    "name": "聖若瑟主教座堂",
+    "name_en": "Cathedral of St Joseph",
+    "lat": 42.698,
+    "lon": 23.319,
+    "country": "保加利亞",
+    "region": "歐洲",
+    "quote": "然後天主教堂跟秦城寺全部都在同一個街區裡面",
+    "context": "與其他宗教建築在同一街區的天主教堂"
+  },
+  {
+    "name": "班亞巴希清真寺",
+    "name_en": "Banya Bashi Mosque",
+    "lat": 42.699,
+    "lon": 23.322,
+    "country": "保加利亞",
+    "region": "歐洲",
+    "quote": "跟秦城寺全部都在同一個街區裡面",
+    "context": "與其他宗教建築在同一街區（講者誤稱為秦城寺）"
+  },
+  {
+    "name": "普列文",
+    "name_en": "Pleven",
+    "lat": 43.408,
+    "lon": 24.624,
+    "country": "保加利亞",
+    "region": "歐洲",
+    "quote": "我聽說有一個城市叫做Pelvin吧",
+    "context": "氣候極端，保加利亞特種部隊集訓地"
+  }
+]

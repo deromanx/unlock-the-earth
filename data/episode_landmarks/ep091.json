@@ -1,0 +1,42 @@
+[
+  {
+    "name": "苗場滑雪場",
+    "name_en": "Naeba Ski Resort",
+    "lat": 36.792,
+    "lon": 138.783,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "第一它是三天的活動 它辦在滑雪場裡頭",
+    "context": "Fuji Rock 音樂節的舉辦場地，被形容為戰鬥營"
+  },
+  {
+    "name": "剝皮寮歷史街區",
+    "name_en": "Bopiliao Historical Block",
+    "lat": 25.036,
+    "lon": 121.501,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "哇 好適合在台北的剝皮寮來一次",
+    "context": "來賓認為適合舉辦結合老街區與表演的城市音樂節"
+  },
+  {
+    "name": "香港科學園",
+    "name_en": "Hong Kong Science Park",
+    "lat": 22.428,
+    "lon": 114.211,
+    "country": "香港",
+    "region": "亞洲",
+    "quote": "辦的地方叫科學園",
+    "context": "香港 Sónar 音樂節的舉辦地點"
+  },
+  {
+    "name": "內湖科技園區",
+    "name_en": "Neihu Technology Park",
+    "lat": 25.079,
+    "lon": 121.569,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "應該要在內湖科學園區來一次的 快點",
+    "context": "週末如死城，被認為非常適合舉辦不吵人的音樂節"
+  }
+]

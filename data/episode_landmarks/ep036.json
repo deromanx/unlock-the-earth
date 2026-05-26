@@ -1,0 +1,52 @@
+[
+  {
+    "name": "聖誕老人村",
+    "name_en": "Santa Claus Village",
+    "lat": 66.543,
+    "lon": 25.847,
+    "country": "芬蘭",
+    "region": "歐洲",
+    "quote": "那個地方最有名的就是聖誕老人村",
+    "context": "來賓工作與導覽的熱門觀光景點"
+  },
+  {
+    "name": "羅瓦涅米",
+    "name_en": "Rovaniemi",
+    "lat": 66.503,
+    "lon": 25.729,
+    "country": "芬蘭",
+    "region": "歐洲",
+    "quote": "羅瓦涅米這個城市是在極圈上",
+    "context": "來賓主要進行導覽工作及居住的北極圈小鎮"
+  },
+  {
+    "name": "耳朵山",
+    "name_en": "Korvatunturi",
+    "lat": 68.073,
+    "lon": 29.314,
+    "country": "芬蘭",
+    "region": "歐洲",
+    "quote": "根據芬蘭的傳說是來自耳朵山",
+    "context": "傳說中聖誕老人的發源地與真正的故鄉"
+  },
+  {
+    "name": "聖誕小屋",
+    "name_en": "Christmas House",
+    "lat": 66.543,
+    "lon": 25.843,
+    "country": "芬蘭",
+    "region": "歐洲",
+    "quote": "叫聖誕植物Christmas house",
+    "context": "聖誕老人村內另一個提供聖誕老人合照的設施"
+  },
+  {
+    "name": "北極博物館",
+    "name_en": "Arktikum",
+    "lat": 66.508,
+    "lon": 25.726,
+    "country": "芬蘭",
+    "region": "歐洲",
+    "quote": "像北極博物館會有一塊介紹到那個地方",
+    "context": "介紹薩米人原住民文化的相關博物館"
+  }
+]

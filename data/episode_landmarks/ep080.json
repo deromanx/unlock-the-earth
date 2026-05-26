@@ -1,0 +1,72 @@
+[
+  {
+    "name": "舍夫沙萬 (藍城)",
+    "name_en": "Chefchaouen",
+    "lat": 35.171,
+    "lon": -5.264,
+    "country": "摩洛哥",
+    "region": "非洲",
+    "quote": "去玩Face之後呢 就要搭巴士去 Chef Chauang 就是藍城",
+    "context": "講者為了看貓咪而特別前往的特色藍色城鎮"
+  },
+  {
+    "name": "撒哈拉沙漠",
+    "name_en": "Sahara Desert",
+    "lat": 31.096,
+    "lon": -3.984,
+    "country": "摩洛哥",
+    "region": "非洲",
+    "quote": "就是這個地方就是在 可能撒哈拉的邊界",
+    "context": "講者參加三天兩夜沙漠團並騎駱駝的地區"
+  },
+  {
+    "name": "艾西拉 (阿里)",
+    "name_en": "Asilah",
+    "lat": 35.467,
+    "lon": -6.033,
+    "country": "摩洛哥",
+    "region": "非洲",
+    "quote": "去玩藍城 還要再往上一點 就是去 阿里",
+    "context": "講者造訪藍城後繼續往北前往的沿海小鎮"
+  },
+  {
+    "name": "非斯古城",
+    "name_en": "Fes Medina",
+    "lat": 34.061,
+    "lon": -4.978,
+    "country": "摩洛哥",
+    "region": "非洲",
+    "quote": "他就是在很像古城的地方 然後就有驢子在吃草",
+    "context": "講者在非斯遇到當地導覽與牽著驢子的人的地方"
+  },
+  {
+    "name": "馬拉喀什市集",
+    "name_en": "Marrakech Souk",
+    "lat": 31.626,
+    "lon": -7.989,
+    "country": "摩洛哥",
+    "region": "非洲",
+    "quote": "就是Malrakesh的市集裡面 我就隨便找一家餐廳然後做進去",
+    "context": "講者在市集裡的餐廳誤點了羊肉料理"
+  },
+  {
+    "name": "麥地那 (美滴娜)",
+    "name_en": "Medina",
+    "lat": 31.63,
+    "lon": -7.984,
+    "country": "摩洛哥",
+    "region": "非洲",
+    "quote": "我就跟他說我要到這個美滴娜 就是他們的那個什麼市集",
+    "context": "講者搭車抵達時與當地司機發生爭執的目的地"
+  },
+  {
+    "name": "艾特本哈杜 (紅城)",
+    "name_en": "Aït Benhaddou",
+    "lat": 31.047,
+    "lon": -7.132,
+    "country": "摩洛哥",
+    "region": "非洲",
+    "quote": "就是一片很像紅城 紅牆的地方",
+    "context": "沙漠團途中經過的有如紅牆般的古蹟景點"
+  }
+]

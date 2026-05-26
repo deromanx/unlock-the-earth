@@ -1,0 +1,232 @@
+[
+  {
+    "name": "大稻埕",
+    "name_en": "Dadaocheng",
+    "lat": 25.056,
+    "lon": 121.509,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "我是在台北的这个历史街区叫做大稻城这个地方出生长大的",
+    "context": "本集核心討論的歷史街區"
+  },
+  {
+    "name": "迪化街",
+    "name_en": "Dihua Street",
+    "lat": 25.058,
+    "lon": 121.51,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "一定要去这个迪化街年货大街挤一挤",
+    "context": "大稻埕著名街道，有年貨大街"
+  },
+  {
+    "name": "大稻埕碼頭",
+    "name_en": "Dadaocheng Wharf",
+    "lat": 25.056,
+    "lon": 121.508,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "你只能搜寻到大道城码头大道城公园",
+    "context": "在地圖上能搜尋到的具體大稻埕地標"
+  },
+  {
+    "name": "大稻埕公園",
+    "name_en": "Dadaocheng Park",
+    "lat": 25.057,
+    "lon": 121.509,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "你只能搜寻到大道城码头大道城公园",
+    "context": "在地圖上能搜尋到的具體大稻埕地標"
+  },
+  {
+    "name": "神農街",
+    "name_en": "Shennong Street",
+    "lat": 22.997,
+    "lon": 120.196,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "连那个神龙街跟那个神龙街现在有夹娃机",
+    "context": "台南的老街，被提及也有夾娃娃機"
+  },
+  {
+    "name": "西市場",
+    "name_en": "West Market",
+    "lat": 22.994,
+    "lon": 120.198,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "还有那个什么西市场那边那个那边都有了",
+    "context": "台南的市場，同樣被提及有夾娃娃機"
+  },
+  {
+    "name": "艋舺",
+    "name_en": "Monga",
+    "lat": 25.036,
+    "lon": 121.499,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "不管是蒙甲啦或是大龙洞呈现出来的时候",
+    "context": "台北城市散步介紹的老街區之一"
+  },
+  {
+    "name": "大龍峒",
+    "name_en": "Dalongdong",
+    "lat": 25.073,
+    "lon": 121.515,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "不管是蒙甲啦或是大龙洞呈现出来的时候",
+    "context": "台北城市散步導覽的歷史街區之一"
+  },
+  {
+    "name": "清代德國領事館遺址",
+    "name_en": "Qing Dynasty German Consulate Ruins",
+    "lat": 25.053,
+    "lon": 121.508,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "清代的台湾的德国领事馆在这个地方",
+    "context": "曾在大稻埕淡水河岸的領事館遺址"
+  },
+  {
+    "name": "淡水河",
+    "name_en": "Tamsui River",
+    "lat": 25.055,
+    "lon": 121.505,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "当时大部分的这个国领事馆都是在淡水河岸的洋楼",
+    "context": "大稻埕洋樓原本所在的河岸"
+  },
+  {
+    "name": "二二八和平紀念公園",
+    "name_en": "228 Peace Memorial Park",
+    "lat": 25.041,
+    "lon": 121.515,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "晚上的时候不能去那个当时叫做新公园",
+    "context": "同志導覽提及的早期男同志聚集地"
+  },
+  {
+    "name": "西門紅樓",
+    "name_en": "The Red House",
+    "lat": 25.042,
+    "lon": 121.506,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "他为什么会发生在红楼",
+    "context": "同志導覽中提及的同志活動場域"
+  },
+  {
+    "name": "西門町",
+    "name_en": "Ximending",
+    "lat": 25.043,
+    "lon": 121.505,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "现在的同志他们为什么会出现在西门町",
+    "context": "同志導覽中提及的當代同志活動場域"
+  },
+  {
+    "name": "林森北路",
+    "name_en": "Linsen North Road",
+    "lat": 25.053,
+    "lon": 121.525,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "临森北路调通的酒店导览",
+    "context": "條通酒店導覽的主要道路"
+  },
+  {
+    "name": "條通商圈",
+    "name_en": "Tiaotong Commercial District",
+    "lat": 25.05,
+    "lon": 121.524,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "她愿意带大家去认识调通",
+    "context": "林森北路日式酒店文化的導覽區域"
+  },
+  {
+    "name": "屈尺",
+    "name_en": "Quchi",
+    "lat": 24.915,
+    "lon": 121.545,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "就是我们到了这个新店的驱尺",
+    "context": "新店的秘境導覽路線所在地"
+  },
+  {
+    "name": "新烏路",
+    "name_en": "Xinwu Road",
+    "lat": 24.938,
+    "lon": 121.547,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "那其实那个新乌路它右手边其实没多久就会到驱尺",
+    "context": "前往屈尺會經過的道路"
+  },
+  {
+    "name": "翡翠水庫",
+    "name_en": "Feitsui Reservoir",
+    "lat": 24.908,
+    "lon": 121.573,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "大家对新年期有什么样的印象新年期可能就是翡翠水库",
+    "context": "大眾對新店的既定印象，被提及蓄水功能"
+  },
+  {
+    "name": "千島湖",
+    "name_en": "Qiandao Lake",
+    "lat": 24.935,
+    "lon": 121.619,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "千岛湖",
+    "context": "大眾對新店的既定印象之一"
+  },
+  {
+    "name": "小粗坑發電廠",
+    "name_en": "Xiaocukeng Power Plant",
+    "lat": 24.922,
+    "lon": 121.548,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "它那边有个电厂叫小出坑电厂水利发电厂",
+    "context": "全台第一座水力發電廠，導覽重點"
+  },
+  {
+    "name": "新店溪",
+    "name_en": "Xindian River",
+    "lat": 24.954,
+    "lon": 121.536,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "可是新店系的这个尤其是在驱尺那个地方",
+    "context": "屈尺所在的水域，大台北飲用水源"
+  },
+  {
+    "name": "直潭堰",
+    "name_en": "Zhitan Dam",
+    "lat": 24.933,
+    "lon": 121.537,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "其实台北人喝的水是取新电锡的直潭厌的水",
+    "context": "大台北地區實際的取水來源"
+  },
+  {
+    "name": "北投",
+    "name_en": "Beitou",
+    "lat": 25.132,
+    "lon": 121.498,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "北偷啊这些大龙洞跟大道城混血",
+    "context": "台北城市散步導覽的區域之一"
+  }
+]

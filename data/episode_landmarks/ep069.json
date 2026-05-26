@@ -1,0 +1,62 @@
+[
+  {
+    "name": "台北車站",
+    "name_en": "Taipei Main Station",
+    "lat": 25.047,
+    "lon": 121.517,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "在台北車站附近就會聚集真的是成百上千的穆斯林移工",
+    "context": "穆斯林移工聚集開齋節活動的地點"
+  },
+  {
+    "name": "長灘島星巴克",
+    "name_en": "Starbucks Boracay",
+    "lat": 11.96,
+    "lon": 121.926,
+    "country": "菲律賓",
+    "region": "亞洲",
+    "quote": "我就去那邊星巴克這樣我花最多時間是在長灘島的星巴克這樣",
+    "context": "講者在長灘島主要的遠距工作地點"
+  },
+  {
+    "name": "朱拉隆功大學",
+    "name_en": "Chulalongkorn University",
+    "lat": 13.738,
+    "lon": 100.532,
+    "country": "泰國",
+    "region": "亞洲",
+    "quote": "有一次我應該是去朱拉龍宮就是在曼谷的那個",
+    "context": "講者在曼谷找大學作為工作地點"
+  },
+  {
+    "name": "曼谷設計中心",
+    "name_en": "Thailand Creative & Design Center",
+    "lat": 13.727,
+    "lon": 100.515,
+    "country": "泰國",
+    "region": "亞洲",
+    "quote": "後來有一次是去曼谷的好像是叫什麼設計中心",
+    "context": "講者付費使用的曼谷工作空間"
+  },
+  {
+    "name": "馬祖圖書館 (中正圖書館)",
+    "name_en": "Matsu Library",
+    "lat": 26.155,
+    "lon": 119.929,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "第一個地方先去找馬祖圖書館然後有一個從政圖書館",
+    "context": "講者在馬祖的第一個工作地點"
+  },
+  {
+    "name": "藍瓶咖啡",
+    "name_en": "Blue Bottle Coffee",
+    "lat": 37.776,
+    "lon": -122.4,
+    "country": "美國",
+    "region": "美洲",
+    "quote": "我本來是想要去什麼藍瓶就是覺得那邊有很多藍瓶咖啡嘛",
+    "context": "講者原本幻想在舊金山工作的地方"
+  }
+]

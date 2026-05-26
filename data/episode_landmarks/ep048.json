@@ -1,0 +1,22 @@
+[
+  {
+    "name": "科威特大學",
+    "name_en": "Kuwait University",
+    "lat": 29.349,
+    "lon": 47.921,
+    "country": "科威特",
+    "region": "亞洲",
+    "quote": "跟那個科威特大學",
+    "context": "Ivy 申請獎學金前往交換就讀的大學"
+  },
+  {
+    "name": "黑爛 (希蘭)",
+    "name_en": "Al Khiran",
+    "lat": 28.66,
+    "lon": 48.384,
+    "country": "科威特",
+    "region": "亞洲",
+    "quote": "那個地方叫做黑爛",
+    "context": "Ivy 在科威特工作時居住的南部海灣度假區"
+  }
+]

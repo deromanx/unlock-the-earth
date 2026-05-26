@@ -1,0 +1,62 @@
+[
+  {
+    "name": "提卡爾",
+    "name_en": "Tikal",
+    "lat": 17.222,
+    "lon": -89.624,
+    "country": "瓜地馬拉",
+    "region": "美洲",
+    "quote": "就是到那个最大的马拉雅古迹 就是蒂卡尔",
+    "context": "講者週末開車跨國去參觀的知名馬雅古蹟"
+  },
+  {
+    "name": "大藍洞",
+    "name_en": "Great Blue Hole",
+    "lat": 17.316,
+    "lon": -87.535,
+    "country": "貝里斯",
+    "region": "美洲",
+    "quote": "那另外好像他有一个很有名的 就是叫大蓝洞",
+    "context": "貝里斯世界知名的潛水與海底洞穴探險景點"
+  },
+  {
+    "name": "ATM洞穴",
+    "name_en": "Actun Tunichil Muknal",
+    "lat": 17.091,
+    "lon": -88.864,
+    "country": "貝里斯",
+    "region": "美洲",
+    "quote": "它里面最有名的一个观光景点 最有名之一啦 就是一个洞 叫做ATMK",
+    "context": "擁有馬雅獻祭人類遺骸的鐘乳石洞穴探險行程"
+  },
+  {
+    "name": "貝爾蒙潘",
+    "name_en": "Belmopan",
+    "lat": 17.251,
+    "lon": -88.759,
+    "country": "貝里斯",
+    "region": "美洲",
+    "quote": "其实就是贝尔蒙潘其实就不能干嘛",
+    "context": "講者擔任志工時居住與工作的地方"
+  },
+  {
+    "name": "貝里斯市",
+    "name_en": "Belize City",
+    "lat": 17.499,
+    "lon": -88.197,
+    "country": "貝里斯",
+    "region": "美洲",
+    "quote": "就是去那个贝里斯市 就是在海边的城市那个开会",
+    "context": "講者開會時遇到地震與海嘯警報的沿海最大城市"
+  },
+  {
+    "name": "貝里斯大學",
+    "name_en": "University of Belize",
+    "lat": 17.247,
+    "lon": -88.775,
+    "country": "貝里斯",
+    "region": "美洲",
+    "quote": "因为他们贝里斯大学在那个首都有校区",
+    "context": "講者常去閒晃且許多留學生學英文的地方"
+  }
+]

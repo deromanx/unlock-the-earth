@@ -49,8 +49,19 @@ def transcribe(ep_num, audio_url):
 
     print(f"  Downloading Ep.{ep_num}…", end=' ', flush=True)
     try:
-        urlretrieve(audio_url, audio_path)
+        result = subprocess.run(
+            ['curl', '-sL', '-A', 'Mozilla/5.0', '-o', str(audio_path), audio_url],
+            timeout=600
+        )
+        if result.returncode != 0 or not audio_path.exists() or audio_path.stat().st_size < 1_000:
+            print(f"FAILED (curl returncode={result.returncode})")
+            audio_path.unlink(missing_ok=True)
+            return False
         print(f"({audio_path.stat().st_size // 1_000_000}MB)", flush=True)
+    except subprocess.TimeoutExpired:
+        print(f"FAILED: download timeout")
+        audio_path.unlink(missing_ok=True)
+        return False
     except Exception as e:
         print(f"FAILED: {e}")
         return False

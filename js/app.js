@@ -50,7 +50,7 @@ async function init() {
 
   let episodes, landmarks, locations;
   try {
-    const _v = '?v=16';
+    const _v = '?v=20';
     [episodes, landmarks, locations] = await Promise.all([
       fetch(`data/episodes.json${_v}`).then(r => r.json()),
       fetch(`data/landmarks_global.json${_v}`).then(r => r.json()).catch(() => []),
@@ -226,7 +226,7 @@ function buildLandmarkPopup(lm) {
       <div class="ep-popup-meta">
         <span class="ep-dest" style="color:${color}">📍 ${escHtml(lm.name)}</span>
       </div>
-      <p class="ep-popup-title" style="font-weight:700;font-size:14px;margin-bottom:4px">${escHtml(lm.name_en || lm.name)}</p>
+      ${lm.name_en && lm.name_en !== lm.name ? `<p class="ep-popup-title" style="font-weight:700;font-size:14px;margin-bottom:4px">${escHtml(lm.name_en)}</p>` : ''}
       ${lm.country ? `<div class="lm-country-tag" onclick="flyToCountry('${lm.country.replace(/'/g, "\\'")}')">🌐 ${escHtml(lm.country)}</div>` : ''}
     `;
 
@@ -647,9 +647,12 @@ function toggleTimelinePlay() {
 }
 
 function startTimelinePlay() {
+  if (timelineMs >= timelineMaxMs) {
+    setTimelinePosition(timelineMinMs); // 從頭重播
+  }
   timelinePlaying = true;
   const btn = document.getElementById('tl-play-btn');
-  if (btn) btn.innerHTML = `<svg width="12" height="12" viewBox="0 0 24 24" fill="currentColor"><rect x="6" y="4" width="4" height="16"/><rect x="14" y="4" width="4" height="16"/></svg>`;
+  if (btn) btn.innerHTML = `<svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><rect x="6" y="4" width="4" height="16"/><rect x="14" y="4" width="4" height="16"/></svg>`;
 
   const step = 14 * 24 * 60 * 60 * 1000; // 2 weeks per tick
   timelineInterval = setInterval(() => {
@@ -679,7 +682,8 @@ function pushEpToUrl(epNum) {
 function handleDeepLink() {
   const ep = Number(new URLSearchParams(window.location.search).get('ep'));
   if (!ep) return;
-  openPanel();
+  // 不預先 openPanel：手機上 flyToEpisodeLandmarks 會呼叫 closePanel，
+  // 導致面板閃爍開關；桌機 panel 由 CSS 常駐顯示，不需此呼叫。
   setTimeout(() => {
     if (mode === 'landmark') {
       flyToEpisodeLandmarks(ep);
@@ -1291,7 +1295,7 @@ function exitVisitedMode() {
   if (countriesLayer) { map.removeLayer(countriesLayer); countriesLayer = null; }
   map.addLayer(clusterGroup);
   document.querySelector('.panel-title-row h2').textContent = '集數列表';
-  renderEpisodeList(allEpisodes.filter(e => e.type === 'main'));
+  renderEpisodeList(getFilteredMainEps());
 }
 
 function getVisitedDetails() {
@@ -1385,11 +1389,25 @@ function copyVisitedShareUrl() {
   const url = new URL(location.href);
   if (codes) url.searchParams.set('visited', codes);
   else url.searchParams.delete('visited');
-  navigator.clipboard.writeText(url.toString()).then(() => {
+  function showCopyToast() {
     const t = document.getElementById('copy-toast');
     t.classList.add('show');
     setTimeout(() => t.classList.remove('show'), 2500);
-  });
+  }
+  if (navigator.clipboard && window.isSecureContext) {
+    navigator.clipboard.writeText(url.toString()).then(showCopyToast).catch(() => fallbackCopy(url.toString(), showCopyToast));
+  } else {
+    fallbackCopy(url.toString(), showCopyToast);
+  }
+}
+function fallbackCopy(text, onSuccess) {
+  const ta = document.createElement('textarea');
+  ta.value = text;
+  ta.style.cssText = 'position:fixed;opacity:0;pointer-events:none';
+  document.body.appendChild(ta);
+  ta.select();
+  try { document.execCommand('copy'); onSuccess(); } catch(e) {}
+  document.body.removeChild(ta);
 }
 
 function showCountryTooltip(name, x, y) {

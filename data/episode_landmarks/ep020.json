@@ -1,0 +1,162 @@
+[
+  {
+    "name": "小吳哥 (吳哥窟)",
+    "name_en": "Angkor Wat",
+    "lat": 13.412,
+    "lon": 103.867,
+    "country": "柬埔寨",
+    "region": "亞洲",
+    "quote": "那小圈一定要看的話 就是小烏哥",
+    "context": "小圈必看景點，以日出及精美浮雕聞名的龐大神廟"
+  },
+  {
+    "name": "巴龍寺",
+    "name_en": "Bayon Temple",
+    "lat": 13.441,
+    "lon": 103.858,
+    "country": "柬埔寨",
+    "region": "亞洲",
+    "quote": "巴龍寺的話 它是一個佛教的寺廟",
+    "context": "小圈景點，以高棉的微笑及記錄常民生活的壁雕聞名"
+  },
+  {
+    "name": "塔普倫寺",
+    "name_en": "Ta Prohm",
+    "lat": 13.434,
+    "lon": 103.889,
+    "country": "柬埔寨",
+    "region": "亞洲",
+    "quote": "塔普倫最著名就是 那個古墓奇兵的遺跡",
+    "context": "古墓奇兵拍攝地，與大自然巨樹融合的遺跡"
+  },
+  {
+    "name": "吳哥博物館",
+    "name_en": "Angkor National Museum",
+    "lat": 13.368,
+    "lon": 103.859,
+    "country": "柬埔寨",
+    "region": "亞洲",
+    "quote": "我覺得可以先到先立裡面的無歌博物館",
+    "context": "行前推薦景點，提供浮雕解釋並保存精美遺跡"
+  },
+  {
+    "name": "女王宮",
+    "name_en": "Banteay Srei",
+    "lat": 13.598,
+    "lon": 103.963,
+    "country": "柬埔寨",
+    "region": "亞洲",
+    "quote": "女王宮我是覺得它是 說五個遺跡裡面就是雕工最細的",
+    "context": "外圈景點，雕刻極其細緻，藏有東方蒙娜麗莎雕像"
+  },
+  {
+    "name": "聖劍寺",
+    "name_en": "Preah Khan",
+    "lat": 13.461,
+    "lon": 103.871,
+    "country": "柬埔寨",
+    "region": "亞洲",
+    "quote": "譬如說那個聖劍寺 是摺葉巴摩七世蓋給他爸爸的",
+    "context": "大圈景點，曾因宗教衝突歷經滅佛運動的寺廟"
+  },
+  {
+    "name": "涅槃寺",
+    "name_en": "Neak Pean",
+    "lat": 13.463,
+    "lon": 103.894,
+    "country": "柬埔寨",
+    "region": "亞洲",
+    "quote": "涅槃寺 它是一個格局比較小的寺廟 然後它其實它不是寺廟 它是醫院",
+    "context": "大圈景點，位於人工湖中，木棧道周圍環境夢幻"
+  },
+  {
+    "name": "東梅彭寺",
+    "name_en": "East Mebon",
+    "lat": 13.446,
+    "lon": 103.92,
+    "country": "柬埔寨",
+    "region": "亞洲",
+    "quote": "然後再來就是東梅彭寺 它也是在大圈的遺跡裡面",
+    "context": "大圈景點，擁有巨石雕成的大象，為水神廟"
+  },
+  {
+    "name": "變身塔",
+    "name_en": "Pre Rup",
+    "lat": 13.435,
+    "lon": 103.92,
+    "country": "柬埔寨",
+    "region": "亞洲",
+    "quote": "如果推薦日落的話 我很推薦大家去變身塔看",
+    "context": "大圈推薦的賞日落高地景點"
+  },
+  {
+    "name": "崩蜜獵",
+    "name_en": "Beng Mealea",
+    "lat": 13.475,
+    "lon": 104.238,
+    "country": "柬埔寨",
+    "region": "亞洲",
+    "quote": "崩蜜獵它是一個 毀壞的特別嚴重的寺廟",
+    "context": "外圈景點，倒塌嚴重且爬滿植物，充滿探險感"
+  },
+  {
+    "name": "共開金字塔",
+    "name_en": "Koh Ker",
+    "lat": 13.783,
+    "lon": 104.538,
+    "country": "柬埔寨",
+    "region": "亞洲",
+    "quote": "然後再推薦的是 共開金字塔",
+    "context": "外圈景點，神似馬雅金字塔，曾是國都"
+  },
+  {
+    "name": "柏惟夏",
+    "name_en": "Preah Vihear Temple",
+    "lat": 14.394,
+    "lon": 104.68,
+    "country": "柬埔寨",
+    "region": "亞洲",
+    "quote": "再來就是柏惟夏 它是柬埔寨人心目中 三大重要寺廟之一",
+    "context": "位於泰柬邊界高山的遺跡，曾有領土爭議"
+  },
+  {
+    "name": "羅洛斯遺跡",
+    "name_en": "Roluos Group",
+    "lat": 13.336,
+    "lon": 103.973,
+    "country": "柬埔寨",
+    "region": "亞洲",
+    "quote": "然後再來是羅洛斯遺跡 它就是 吳各王朝的起源",
+    "context": "吳哥王朝早期遺跡，雕刻較為古樸"
+  },
+  {
+    "name": "獨立紀念碑",
+    "name_en": "Independence Monument",
+    "lat": 11.556,
+    "lon": 104.928,
+    "country": "柬埔寨",
+    "region": "亞洲",
+    "quote": "你去金便的時候 你有看到他們的圓環嗎 有 那叫什麼獨立紀念碑",
+    "context": "金邊市區的知名圓環地標"
+  },
+  {
+    "name": "烏洞",
+    "name_en": "Oudong",
+    "lat": 11.821,
+    "lon": 104.743,
+    "country": "柬埔寨",
+    "region": "亞洲",
+    "quote": "烏洞的話就是柬埔在一個舊的首都 那是也是當地人休閒的去處",
+    "context": "柬埔寨舊首都，有小山丘可登高望遠"
+  },
+  {
+    "name": "馬德旺蝙蝠洞 (農山)",
+    "name_en": "Phnom Sampeau Bat Cave",
+    "lat": 13.024,
+    "lon": 102.94,
+    "country": "柬埔寨",
+    "region": "亞洲",
+    "quote": "在馬德旺他規模又是更大了 當那個規模大到程度的時候就是蝙蝠會在天空中形成一條巨龍",
+    "context": "壯觀的蝙蝠出洞奇景，同時也是紅色高棉殺人洞遺址"
+  }
+]

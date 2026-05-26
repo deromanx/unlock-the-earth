@@ -1,0 +1,52 @@
+[
+  {
+    "name": "塔美爾區",
+    "name_en": "Thamel",
+    "lat": 27.715,
+    "lon": 85.312,
+    "country": "尼泊爾",
+    "region": "亞洲",
+    "quote": "基本上背包客一定會去那個塔沒有區，就是塔沒有那個，那個老城區吧",
+    "context": "加德滿都著名的背包客聚集老城區"
+  },
+  {
+    "name": "薩德街",
+    "name_en": "Sudder Street",
+    "lat": 22.555,
+    "lon": 88.353,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "有一條街好像叫Souders Street吧，就很多背包客會先到那邊去",
+    "context": "加爾各答著名的背包客聚集街道"
+  },
+  {
+    "name": "瓦拉納西恆河河壇",
+    "name_en": "Varanasi Ghats",
+    "lat": 25.308,
+    "lon": 83.013,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "橫河邊其實就是北段跟南段都有一個火葬場，然後就是燒屍這樣子",
+    "context": "當地人生活與死亡的中心，進行沐浴與火葬的場所"
+  },
+  {
+    "name": "Blue Lassi 優格店",
+    "name_en": "Blue Lassi Shop",
+    "lat": 25.311,
+    "lon": 83.013,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "那個老城區其實有一個很有名的那個優格店，叫Blue La Sea這樣",
+    "context": "瓦拉納西老城區內知名小店，顧客常在此看著遺體被抬過"
+  },
+  {
+    "name": "泰姬陵",
+    "name_en": "Taj Mahal",
+    "lat": 27.175,
+    "lon": 78.042,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "阿格拉就是看太吉馬哈林這樣",
+    "context": "阿格拉最著名的陵墓建築，安檢嚴格且建築十分工整"
+  }
+]

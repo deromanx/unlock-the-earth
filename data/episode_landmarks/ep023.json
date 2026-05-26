@@ -1,0 +1,62 @@
+[
+  {
+    "name": "海德公園",
+    "name_en": "Hyde Park",
+    "lat": 51.507,
+    "lon": -0.165,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "我們沿著海德公園，就看到一堆鮮花",
+    "context": "黛安娜王妃過世時，民眾堆放鮮花致意的地方"
+  },
+  {
+    "name": "西敏寺",
+    "name_en": "Westminster Abbey",
+    "lat": 51.499,
+    "lon": -0.127,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "那個西敏寺就做了一個很大的這個哀悼",
+    "context": "舉辦黛安娜王妃國喪哀悼儀式的地點"
+  },
+  {
+    "name": "中央聖馬丁學院",
+    "name_en": "Central Saint Martins",
+    "lat": 51.535,
+    "lon": -0.125,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "我的學校是聖馬丁，然後聖馬丁就是很多時尚人會去的",
+    "context": "講者就讀的藝術學院，培育了許多知名設計師"
+  },
+  {
+    "name": "國家美術館",
+    "name_en": "National Gallery",
+    "lat": 51.508,
+    "lon": -0.128,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "倫敦的國家美術館好了，倫敦最大的這個西洋美術史的經典",
+    "context": "講述梵谷畫作以及黑奴貿易歷史的重要導覽地"
+  },
+  {
+    "name": "大英博物館",
+    "name_en": "British Museum",
+    "lat": 51.519,
+    "lon": -0.126,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "我個人覺得最近讓我很感動的一個文物，就是在大英博物館裡面的復活島石雕",
+    "context": "展示復活節島石雕，近期因島民抗議而改寫導覽敘述"
+  },
+  {
+    "name": "復活節島",
+    "name_en": "Easter Island",
+    "lat": -27.112,
+    "lon": -109.366,
+    "country": "智利",
+    "region": "美洲",
+    "quote": "復活島它是在南美智利外面的一個小島",
+    "context": "大英博物館中爭議石雕的來源地，島民跨海爭取文物"
+  }
+]

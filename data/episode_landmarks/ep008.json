@@ -1,0 +1,32 @@
+[
+  {
+    "name": "聖羅倫斯河",
+    "name_en": "St. Lawrence River",
+    "lat": 46.813,
+    "lon": -71.207,
+    "country": "加拿大",
+    "region": "美洲",
+    "quote": "然后沿着圣罗伦斯河",
+    "context": "加拿大單車旅程中沿河騎乘的主要自然地標"
+  },
+  {
+    "name": "海豹海灘",
+    "name_en": "Seal Beach",
+    "lat": 33.741,
+    "lon": -118.114,
+    "country": "美國",
+    "region": "美洲",
+    "quote": "我还有到一个沙滩\n它叫做Seal Beach",
+    "context": "講者在此地衝浪時不慎被海裡的魟魚刺傷"
+  },
+  {
+    "name": "美墨邊界 (海灘段)",
+    "name_en": "US-Mexico Border (Beach)",
+    "lat": 32.534,
+    "lon": -117.122,
+    "country": "美國",
+    "region": "美洲",
+    "quote": "海边的地方他会擦木桩",
+    "context": "美西單車行的終點，講者觀察延伸至海裡的邊界木樁"
+  }
+]

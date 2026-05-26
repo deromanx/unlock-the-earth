@@ -1,0 +1,72 @@
+[
+  {
+    "name": "黄刀镇",
+    "name_en": "Yellowknife",
+    "lat": 62.45397,
+    "lon": -114.37179,
+    "country": "加拿大",
+    "region": "美洲",
+    "quote": "我们今天的主题就是加拿大黄刀针",
+    "context": "本集主要討論的打工度假地點"
+  },
+  {
+    "name": "黄刀镇机场",
+    "name_en": "Yellowknife Airport",
+    "lat": 62.46328,
+    "lon": -114.44281,
+    "country": "加拿大",
+    "region": "美洲",
+    "quote": "甚至在黄刀的机场你就可以看得到那个火了",
+    "context": "當時森林大火影響的地點"
+  },
+  {
+    "name": "黄刀镇市中心",
+    "name_en": "Downtown Yellowknife",
+    "lat": 62.455,
+    "lon": -114.376,
+    "country": "加拿大",
+    "region": "美洲",
+    "quote": "我们要进市中心",
+    "context": "黃刀鎮的商業活動中心"
+  },
+  {
+    "name": "黄刀镇上城",
+    "name_en": "Uptown Yellowknife",
+    "lat": 62.449,
+    "lon": -114.398,
+    "country": "加拿大",
+    "region": "美洲",
+    "quote": "有卖衣服的地方 会在Uptown",
+    "context": "黃刀鎮的住宅區和購物區"
+  },
+  {
+    "name": "极光村",
+    "name_en": "Aurora Village",
+    "lat": 62.3837,
+    "lon": -114.3015,
+    "country": "加拿大",
+    "region": "美洲",
+    "quote": "在黄刀一个蛮大的旅行社 叫做极光村",
+    "context": "工作地點，提供極光觀光服務"
+  },
+  {
+    "name": "班夫",
+    "name_en": "Banff",
+    "lat": 51.1783,
+    "lon": -115.5708,
+    "country": "加拿大",
+    "region": "美洲",
+    "quote": "我们结束黄刀 到第二段的 到班夫那边",
+    "context": "打工度假的第二個目的地"
+  },
+  {
+    "name": "白马市",
+    "name_en": "Whitehorse",
+    "lat": 60.7161,
+    "lon": -135.0558,
+    "country": "加拿大",
+    "region": "美洲",
+    "quote": "黄刀镇的人口结构 其实跟我去玉空的白马 其实是非常非常相似",
+    "context": "與黃刀鎮相似的城市作為比較"
+  }
+]

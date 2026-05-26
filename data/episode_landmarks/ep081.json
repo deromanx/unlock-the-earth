@@ -1,0 +1,22 @@
+[
+  {
+    "name": "約翰尼斯堡國際機場",
+    "name_en": "O.R. Tambo International Airport",
+    "lat": -26.136,
+    "lon": 28.241,
+    "country": "南非",
+    "region": "非洲",
+    "quote": "因為我們從南非的那個約翰尼斯堡國際機場",
+    "context": "主持人提到搭巴士前往史瓦帝尼的出發地點"
+  },
+  {
+    "name": "史瓦帝尼民俗文化村",
+    "name_en": "Mantenga Cultural Village",
+    "lat": -26.439,
+    "lon": 31.177,
+    "country": "史瓦帝尼",
+    "region": "非洲",
+    "quote": "他們其實在市區旁邊附近有一個民俗文化村",
+    "context": "當地展示史瓦帝尼傳統舞蹈與茅草屋的文化保留區"
+  }
+]

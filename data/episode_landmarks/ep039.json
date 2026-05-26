@@ -1,0 +1,42 @@
+[
+  {
+    "name": "台北表演艺术中心",
+    "name_en": "Taipei Performing Arts Center",
+    "lat": 25.088,
+    "lon": 121.524,
+    "country": "台湾",
+    "region": "亞洲",
+    "quote": "台北的建坛站有一栋叫做表演艺术中心,那一个就是Rankulhas设计的",
+    "context": "作为建筑大师Rem Koolhaas的作品举例"
+  },
+  {
+    "name": "学院美术馆",
+    "name_en": "Galleria dell'Accademia",
+    "lat": 43.777,
+    "lon": 11.259,
+    "country": "义大利",
+    "region": "亞洲",
+    "quote": "佛罗伦斯有一个学院美术馆,那学院美术馆里面有大卫像",
+    "context": "分享在此静静观察游人与大卫像互动的经验"
+  },
+  {
+    "name": "圣家堂",
+    "name_en": "Sagrada Família",
+    "lat": 41.404,
+    "lon": 2.174,
+    "country": "西班牙",
+    "region": "亞洲",
+    "quote": "譬如说我看圣家堂,我觉得哇天哪圣家堂太屌了",
+    "context": "讨论高第为表达神圣信仰而设计的建筑特例"
+  },
+  {
+    "name": "拉图雷特修道院",
+    "name_en": "Sainte Marie de La Tourette",
+    "lat": 45.819,
+    "lon": 4.622,
+    "country": "法国",
+    "region": "亞洲",
+    "quote": "然后他那些地方叫做拉图雷特修道院",
+    "context": "详细介绍柯比意晚期极具特色的粗糙混凝土建筑"
+  }
+]

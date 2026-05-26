@@ -1,0 +1,22 @@
+[
+  {
+    "name": "奔牛街",
+    "name_en": "Calle de la Estafeta",
+    "lat": 42.817,
+    "lon": -1.642,
+    "country": "西班牙",
+    "region": "歐洲",
+    "quote": "那个地方就是大家一定都没听过 但是大家应该都会知道奔牛街",
+    "context": "介紹西班牙交換城市潘普洛納的著名街道與文化"
+  },
+  {
+    "name": "中山醫學大學",
+    "name_en": "Chung Shan Medical University",
+    "lat": 24.122,
+    "lon": 120.651,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "中山医跟中国医都在台中 好像是中山医",
+    "context": "奧地利沙發衝浪女主人曾在台灣交換就讀的大學"
+  }
+]

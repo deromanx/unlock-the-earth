@@ -1,0 +1,132 @@
+[
+  {
+    "name": "泰晤士河",
+    "name_en": "River Thames",
+    "lat": 51.505,
+    "lon": -0.021,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "找了一個工程師來整治倫敦的泰魯士河",
+    "context": "探討倫敦地下排水系統與生態恢復的歷史"
+  },
+  {
+    "name": "克羅斯內斯泵站",
+    "name_en": "Crossness Pumping Station",
+    "lat": 51.507,
+    "lon": 0.138,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "我們今天介紹的這個Crossing Pumping Station就是當時的污水處理場",
+    "context": "維多利亞時期裝飾極度華麗的汙水處理廠"
+  },
+  {
+    "name": "沃平區",
+    "name_en": "Wapping",
+    "lat": 51.506,
+    "lon": -0.058,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "那我現在要介紹一個地方叫做Warpin",
+    "context": "歷史上作為倫敦重要貨物轉運港口與海盜行刑地"
+  },
+  {
+    "name": "拉姆斯蓋特鎮酒館",
+    "name_en": "The Town of Ramsgate",
+    "lat": 51.503,
+    "lon": -0.058,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "一個叫The Town of Ramsgate",
+    "context": "死刑法官曾在此變裝試圖逃亡海外的酒館"
+  },
+  {
+    "name": "葡萄小酒館",
+    "name_en": "The Grapes",
+    "lat": 51.509,
+    "lon": -0.038,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "這個小酒館叫 The Grapes",
+    "context": "魔戒演員伊恩麥克連買下的五百年歷史酒吧"
+  },
+  {
+    "name": "惠特比的展望酒館",
+    "name_en": "Prospect of Whitby",
+    "lat": 51.507,
+    "lon": -0.053,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "叫做 Prospect of Whitby",
+    "context": "保留了過去吊死海盜的絞刑台的歷史酒館"
+  },
+  {
+    "name": "皇家倫敦醫院 (白教堂醫院)",
+    "name_en": "Royal London Hospital (Whitechapel)",
+    "lat": 51.518,
+    "lon": -0.059,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "叫做White Chapel Hospital",
+    "context": "曾檢驗開膛手傑克受害者，並收藏象人的骨骸"
+  },
+  {
+    "name": "纜線街",
+    "name_en": "Cable Street",
+    "lat": 51.511,
+    "lon": -0.061,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "有一條街 它叫Cable Street",
+    "context": "1936年當地居民團結對抗法西斯主義大遊行的地點"
+  },
+  {
+    "name": "纜線街壁畫",
+    "name_en": "Cable Street Mural",
+    "lat": 51.512,
+    "lon": -0.056,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "它叫做Cable Street Mural",
+    "context": "紀念纜線街反法西斯戰役的巨型塗鴉"
+  },
+  {
+    "name": "達爾斯頓",
+    "name_en": "Dalston",
+    "lat": 51.545,
+    "lon": -0.075,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "我要介紹一個地方 叫做Doulston",
+    "context": "東倫敦富有街頭食物與世界料理的文青區"
+  },
+  {
+    "name": "聖三一教堂",
+    "name_en": "Holy Trinity Church, Dalston",
+    "lat": 51.544,
+    "lon": -0.076,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "叫做Chinity Church Doulston",
+    "context": "設有小丑博物館並舉辦小丑追思禮拜的教堂"
+  },
+  {
+    "name": "邦德里屋邨",
+    "name_en": "Boundary Estate",
+    "lat": 51.526,
+    "lon": -0.075,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "我建議大家去一個地方叫Boundary Estate",
+    "context": "為改善底層生活而建立的倫敦最早的國宅"
+  },
+  {
+    "name": "舊尼科爾",
+    "name_en": "Old Nichol",
+    "lat": 51.526,
+    "lon": -0.075,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "倫敦最窮最窮縣的國宅 叫Old Nickel",
+    "context": "國宅建立前惡名昭彰的貧民窟"
+  }
+]

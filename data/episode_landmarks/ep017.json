@@ -1,0 +1,22 @@
+[
+  {
+    "name": "西緬山脈",
+    "name_en": "Simien Mountains",
+    "lat": 13.233,
+    "lon": 38.35,
+    "country": "伊索比亞",
+    "region": "非洲",
+    "quote": "其實有很大一條西緬山脈",
+    "context": "全非洲第二高峰，被提及為伊索比亞防禦外敵的天然屏障"
+  },
+  {
+    "name": "梅斯克爾廣場",
+    "name_en": "Meskel Square",
+    "lat": 9.01,
+    "lon": 38.761,
+    "country": "伊索比亞",
+    "region": "非洲",
+    "quote": "集中到阿里撒貝巴的Meskel廣場",
+    "context": "慶祝Meskel節的主要聚集地，民眾會在此燃燒巨大的稻草塔"
+  }
+]

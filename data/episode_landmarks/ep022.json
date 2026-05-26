@@ -1,0 +1,32 @@
+[
+  {
+    "name": "國家美術館",
+    "name_en": "National Gallery",
+    "lat": 51.508,
+    "lon": -0.128,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "比如說國家美術館 就是32幅畫",
+    "context": "說明導遊考試時需準備導覽的景點與畫作數量"
+  },
+  {
+    "name": "大英博物館",
+    "name_en": "British Museum",
+    "lat": 51.519,
+    "lon": -0.127,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "大英博物館就是三十幾個文物",
+    "context": "提及導遊準備現場考試需解說的特定文物數量"
+  },
+  {
+    "name": "巴洛市集",
+    "name_en": "Borough Market",
+    "lat": 51.505,
+    "lon": -0.09,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "而且像倫敦就有這種巴洛士籍 那以前就是純英國人 當地人去買買起司跟買菜",
+    "context": "舉例倫敦市集因應國際旅客，販售的食物變得更多元豐富"
+  }
+]

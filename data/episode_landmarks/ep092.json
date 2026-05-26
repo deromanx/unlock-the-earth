@@ -1,0 +1,52 @@
+[
+  {
+    "name": "骷髏海岸",
+    "name_en": "Skeleton Coast",
+    "lat": -19.233,
+    "lon": 12.583,
+    "country": "納米比亞",
+    "region": "非洲",
+    "quote": "它叫Skeleton Coast，它就是以一個那邊有非常多的動物屍體為名",
+    "context": "充滿動物屍體與沉船的沙漠，主持人在此遇上爆胎"
+  },
+  {
+    "name": "奧普沃",
+    "name_en": "Opuwo",
+    "lat": -18.061,
+    "lon": 13.84,
+    "country": "納米比亞",
+    "region": "非洲",
+    "quote": "我們到北邊有一個城鎮叫Opuwo，然後那個城鎮有很多的星巴族",
+    "context": "位於納米比亞與安哥拉交界的小鎮，有許多星巴族"
+  },
+  {
+    "name": "斯瓦科普蒙德",
+    "name_en": "Swakopmund",
+    "lat": -22.679,
+    "lon": 14.527,
+    "country": "納米比亞",
+    "region": "非洲",
+    "quote": "像我在那個Swarck Moon，他是在納米比亞東西邊中部的一個，他是個德國殖民小鎮",
+    "context": "德國殖民小鎮，部分星巴族會來此賺取觀光收入"
+  },
+  {
+    "name": "吉力馬札羅山",
+    "name_en": "Mount Kilimanjaro",
+    "lat": -3.067,
+    "lon": 37.355,
+    "country": "坦尚尼亞",
+    "region": "非洲",
+    "quote": "吉利馬扎羅三附近，就是東非第一高峰",
+    "context": "馬賽族分布區域，也是海明威曾造訪的非洲最高峰"
+  },
+  {
+    "name": "莫希",
+    "name_en": "Moshi",
+    "lat": -3.35,
+    "lon": 37.333,
+    "country": "坦尚尼亞",
+    "region": "非洲",
+    "quote": "坦上尼亞有一個城鎮叫做Moshi，Moshi是在吉利馬扎樓山下的小鎮",
+    "context": "位於吉力馬札羅山下的小鎮，尋找馬賽部落的出發點"
+  }
+]

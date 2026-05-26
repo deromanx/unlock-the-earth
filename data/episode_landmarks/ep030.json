@@ -1,0 +1,92 @@
+[
+  {
+    "name": "多瑙河",
+    "name_en": "Danube River",
+    "lat": 47.497,
+    "lon": 19.04,
+    "country": "匈牙利",
+    "region": "歐洲",
+    "quote": "其實是一個被多瑙河貫穿的城市",
+    "context": "貫穿布達佩斯，將城市劃分為東西兩岸的重要河流"
+  },
+  {
+    "name": "布達",
+    "name_en": "Buda",
+    "lat": 47.496,
+    "lon": 19.039,
+    "country": "匈牙利",
+    "region": "歐洲",
+    "quote": "多瑙河的左邊這邊是叫做布達",
+    "context": "多瑙河西岸老城區，包含城堡與吉列山等歷史景點"
+  },
+  {
+    "name": "佩斯",
+    "name_en": "Pest",
+    "lat": 47.498,
+    "lon": 19.058,
+    "country": "匈牙利",
+    "region": "歐洲",
+    "quote": "另外邊叫佩斯...大部分活動的區域都在佩斯",
+    "context": "多瑙河東岸，多數觀光客活動與住宿的熱鬧城區"
+  },
+  {
+    "name": "布達佩斯城堡",
+    "name_en": "Buda Castle",
+    "lat": 47.496,
+    "lon": 19.039,
+    "country": "匈牙利",
+    "region": "歐洲",
+    "quote": "布達其實就是大家常聽到就是布達佩斯城堡啊",
+    "context": "位於布達區的歷史城堡，是當地最具代表性的景點"
+  },
+  {
+    "name": "自由女神像",
+    "name_en": "Liberty Statue",
+    "lat": 47.486,
+    "lon": 19.048,
+    "country": "匈牙利",
+    "region": "歐洲",
+    "quote": "布達佩斯也有一個自由女神像",
+    "context": "位在吉列山上，可俯瞰城市全景的希臘風格神像"
+  },
+  {
+    "name": "吉列山",
+    "name_en": "Gellért Hill",
+    "lat": 47.486,
+    "lon": 19.048,
+    "country": "匈牙利",
+    "region": "歐洲",
+    "quote": "就那個山其實就叫吉列山",
+    "context": "自由女神像及著名羅馬式溫泉所在的知名山丘"
+  },
+  {
+    "name": "吉列溫泉",
+    "name_en": "Gellért Thermal Bath",
+    "lat": 47.484,
+    "lon": 19.052,
+    "country": "匈牙利",
+    "region": "歐洲",
+    "quote": "一個叫做Gilliat，就是吉列刮虎道那個吉列",
+    "context": "位於吉列山腳下的溫泉飯店，廣受當地人喜愛"
+  },
+  {
+    "name": "英雄廣場",
+    "name_en": "Heroes' Square",
+    "lat": 47.514,
+    "lon": 19.077,
+    "country": "匈牙利",
+    "region": "歐洲",
+    "quote": "另外一個比較有名的是在Hero Square，就是英雄廣場",
+    "context": "提及該處附近有另一座常舉辦電影派對的大型澡堂"
+  },
+  {
+    "name": "紐約宮咖啡館",
+    "name_en": "New York Café",
+    "lat": 47.498,
+    "lon": 19.07,
+    "country": "匈牙利",
+    "region": "歐洲",
+    "quote": "大概都會想到就是那個紐約公咖啡館",
+    "context": "以華麗內裝與金箔紅毯聞名的知名打卡咖啡廳"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "name": "金纳巴鲁山",
+    "name_en": "Mount Kinabalu",
+    "lat": 6.075,
+    "lon": 116.559,
+    "country": "马来西亚",
+    "region": "亞洲",
+    "quote": "很多人会去沙巴爬神山嘛...所谓神山就是他的金纳巴鲁山...马来西亚第一高峰",
+    "context": "马来西亚第一高峰，沙巴旅游亮点"
+  },
+  {
+    "name": "哥打金纳巴鲁",
+    "name_en": "Kota Kinabalu",
+    "lat": 5.975,
+    "lon": 116.073,
+    "country": "马来西亚",
+    "region": "亞洲",
+    "quote": "沙巴的首府是 哥打金纳巴鲁...又成雅壁啊",
+    "context": "沙巴首府，旅行起点与讨论"
+  },
+  {
+    "name": "斯里巴加湾",
+    "name_en": "Bandar Seri Begawan",
+    "lat": 4.903,
+    "lon": 114.942,
+    "country": "文莱",
+    "region": "亞洲",
+    "quote": "汶来的首都叫 斯里巴加万港",
+    "context": "文莱首都，旅行重要一站"
+  },
+  {
+    "name": "古晋",
+    "name_en": "Kuching",
+    "lat": 1.553,
+    "lon": 110.358,
+    "country": "马来西亚",
+    "region": "亞洲",
+    "quote": "沙拉越的首府 就是古静",
+    "context": "沙拉越首府，旅行重要一站"
+  },
+  {
+    "name": "加亚岛",
+    "name_en": "Gaya Island",
+    "lat": 5.992,
+    "lon": 116.037,
+    "country": "马来西亚",
+    "region": "亞洲",
+    "quote": "我们在沙巴的时候 我们就去过一个加亚岛上的甘榜",
+    "context": "沙巴水上甘榜所在地"
+  },
+  {
+    "name": "金纳巴鲁渔港",
+    "name_en": "Jesselton Point Ferry Terminal",
+    "lat": 5.986,
+    "lon": 116.077,
+    "country": "马来西亚",
+    "region": "亞洲",
+    "quote": "我们那时候在金纳巴鲁渔港 然后往对面看",
+    "context": "前往加亚岛的出发点"
+  },
+  {
+    "name": "汶莱河",
+    "name_en": "Brunei River",
+    "lat": 4.933,
+    "lon": 114.983,
+    "country": "文莱",
+    "region": "亞洲",
+    "quote": "在市中心的 问来河 潘 有一块甘榜",
+    "context": "甘榜亚逸所在河流"
+  },
+  {
+    "name": "甘榜亚逸",
+    "name_en": "Kampong Ayer",
+    "lat": 4.908,
+    "lon": 114.945,
+    "country": "文莱",
+    "region": "亞洲",
+    "quote": "很经典的甘榜...其实叫甘榜 亚裔",
+    "context": "文莱著名水上村落，与沙巴甘榜对比"
+  }
+]

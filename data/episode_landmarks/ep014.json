@@ -1,0 +1,22 @@
+[
+  {
+    "name": "尼加拉瀑布",
+    "name_en": "Niagara Falls",
+    "lat": 43.083,
+    "lon": -79.074,
+    "country": "加拿大",
+    "region": "美洲",
+    "quote": "就在尼加拉瀑布 那边是美国的边界",
+    "context": "為了更新簽證必須出境再入境的地點"
+  },
+  {
+    "name": "長虹橋",
+    "name_en": "Rainbow Bridge",
+    "lat": 43.091,
+    "lon": -79.068,
+    "country": "加拿大",
+    "region": "美洲",
+    "quote": "那边是美国的边界 然后有一个长虹桥 我就要过去",
+    "context": "徒步走過美加邊界來更新簽證的橋樑"
+  }
+]

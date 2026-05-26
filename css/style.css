@@ -69,6 +69,7 @@ button { cursor: pointer; border: none; background: none; font-family: inherit; 
   align-items: center;
   justify-content: space-between;
   padding: 0 22px;
+  background-color: #050a14;
   background:
     linear-gradient(180deg, rgba(5,10,20,0.48) 0%, rgba(5,10,20,0.56) 100%),
     url('../assets/banner.jpg') center 38% / cover no-repeat;
@@ -168,6 +169,9 @@ body.light .logo-img {
 }
 .leaflet-popup-tip { background: var(--bg-2); }
 .leaflet-popup-content { margin: 0; width: 360px !important; }
+@media (max-width: 400px) {
+  .leaflet-popup-content { width: calc(100vw - 36px) !important; }
+}
 .leaflet-popup-close-button {
   color: var(--text-2) !important;
   font-size: 18px !important;
@@ -175,17 +179,6 @@ body.light .logo-img {
   z-index: 10;
 }
 .leaflet-popup-close-button:hover { color: var(--text) !important; }
-
-/* Cluster markers */
-.marker-cluster-small, .marker-cluster-medium, .marker-cluster-large {
-  background: rgba(232,160,32,0.25) !important;
-}
-.marker-cluster-small div, .marker-cluster-medium div, .marker-cluster-large div {
-  background: rgba(232,160,32,0.7) !important;
-  color: #09111f !important;
-  font-weight: 700;
-  font-family: 'Noto Sans TC', sans-serif;
-}
 
 /* ── Custom Map Marker ── */
 .ep-marker {
@@ -206,9 +199,9 @@ body.light .logo-img {
 /* ── Popup ── */
 .ep-popup-img {
   width: 100%;
-  height: 154px;
+  height: 140px;
   background-size: cover;
-  background-position: center;
+  background-position: top center;
   position: relative;
 }
 .ep-popup-img::after {
@@ -756,6 +749,10 @@ body.ep-hover-mode .ep-marker-selected > .cluster-inner {
 }
 .ep-card:hover .ep-card-play { opacity: 1; }
 .ep-card-play:hover { transform: scale(1.12); }
+/* 觸控裝置無 hover，播放按鈕常駐半透明顯示 */
+@media (hover: none) {
+  .ep-card-play { opacity: 0.72; }
+}
 
 /* ── Marker hover pulse ── */
 .ep-marker-hover > .ep-marker {
@@ -866,11 +863,15 @@ body.ep-hover-mode .ep-marker-selected > .cluster-inner {
 /* ── Year Filter / Timeline ── */
 .year-filter-row {
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   gap: 6px;
   padding: 10px 18px 8px;
   border-bottom: 1px solid var(--border);
+  overflow-x: auto;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
 }
+.year-filter-row::-webkit-scrollbar { display: none; }
 .year-pill {
   font-size: 12px;
   font-weight: 600;
@@ -1175,7 +1176,7 @@ body.visited-mode .year-filter-row { display: none !important; }
   align-items: center;
   justify-content: center;
   cursor: pointer;
-  z-index: 500;
+  z-index: 750;
   box-shadow: 0 2px 14px rgba(0,0,0,0.45);
   transition: background 0.2s, border-color 0.2s, transform 0.15s, box-shadow 0.2s;
 }
@@ -1276,7 +1277,15 @@ body.visited-mode .year-filter-row { display: none !important; }
 }
 .visited-country-card:hover { background: var(--bg-3); }
 .visited-flag { font-size: 22px; flex-shrink: 0; }
-.visited-country-name { font-size: 14px; font-weight: 600; color: var(--text); }
+.visited-country-info { flex: 1; min-width: 0; }
+.visited-country-name {
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--text);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
 .visited-country-eps { font-size: 12px; color: var(--text-3); margin-top: 2px; }
 
 /* Visited result overlay */

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "丹東",
+    "name_en": "Dandong",
+    "lat": 40.129,
+    "lon": 124.395,
+    "country": "中國",
+    "region": "亞洲",
+    "quote": "丹東就是在那個東北擱這鴨綠江跟北韓對望的那個小城市丹東",
+    "context": "中國與北韓邊境城市"
+  },
+  {
+    "name": "鴨綠江",
+    "name_en": "Yalu River",
+    "lat": 40.109,
+    "lon": 124.389,
+    "country": "中國/北韓",
+    "region": "亞洲",
+    "quote": "從中國大陸然後跨越越的壓綠江然後到北韓",
+    "context": "連接中國與北韓的界河"
+  },
+  {
+    "name": "羊角島飯店",
+    "name_en": "Yanggakdo International Hotel",
+    "lat": 38.999,
+    "lon": 125.751,
+    "country": "北韓",
+    "region": "亞洲",
+    "quote": "我住的地方是羊角島飯店",
+    "context": "住宿飯店，位於島上"
+  },
+  {
+    "name": "板门店",
+    "name_en": "Panmunjom",
+    "lat": 37.96,
+    "lon": 126.665,
+    "country": "北韓",
+    "region": "亞洲",
+    "quote": "那其實那时候刚好我們要去那个38度線對板门店的时候",
+    "context": "南北韓邊境，戒備森嚴"
+  },
+  {
+    "name": "38度線",
+    "name_en": "38th Parallel",
+    "lat": 37.96,
+    "lon": 126.665,
+    "country": "北韓/南韓",
+    "region": "亞洲",
+    "quote": "板门店就是一条38路线跟南北韩对望嘛",
+    "context": "南北韓分界線"
+  },
+  {
+    "name": "平壤地鐵站",
+    "name_en": "Pyongyang Metro Station",
+    "lat": 39.0085,
+    "lon": 125.7177,
+    "country": "北韓",
+    "region": "亞洲",
+    "quote": "我们有一个行程是去北韩的地铁站",
+    "context": "體驗當地地鐵，深度防空洞"
+  },
+  {
+    "name": "平壤凱旋門",
+    "name_en": "Triumphal Arch of Pyongyang",
+    "lat": 39.0446,
+    "lon": 125.7531,
+    "country": "北韓",
+    "region": "亞洲",
+    "quote": "去看那个平洋的凯旋门",
+    "context": "紀念建築，比法國凱旋門高"
+  },
+  {
+    "name": "高麗飯店",
+    "name_en": "Koryo Hotel",
+    "lat": 39.0052,
+    "lon": 125.735,
+    "country": "北韓",
+    "region": "亞洲",
+    "quote": "一个叫高丽城军馆... 很多人都会跑去那边拍婚纱",
+    "context": "拍照景點，常見北韓人拍婚紗"
+  },
+  {
+    "name": "萬壽臺大紀念碑",
+    "name_en": "Mansu Hill Grand Monument",
+    "lat": 39.03194,
+    "lon": 125.75333,
+    "country": "北韓",
+    "region": "亞洲",
+    "quote": "在其他区域会看到那个金日成跟金正日的那个雕像",
+    "context": "需莊重對待的領導人雕像"
+  }
+]

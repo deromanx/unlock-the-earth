@@ -1,0 +1,32 @@
+[
+  {
+    "name": "塔林古城區",
+    "name_en": "Tallinn Old Town",
+    "lat": 59.437,
+    "lon": 24.745,
+    "country": "愛沙尼亞",
+    "region": "歐洲",
+    "quote": "其實愛上尼亞它也有所謂的古城區",
+    "context": "具備粉嫩建築與石板路特色"
+  },
+  {
+    "name": "林納哈爾大會堂",
+    "name_en": "Linnahall",
+    "lat": 59.447,
+    "lon": 24.753,
+    "country": "愛沙尼亞",
+    "region": "歐洲",
+    "quote": "它叫做林拉厚",
+    "context": "荒廢的蘇聯時期海濱體育館"
+  },
+  {
+    "name": "普蘭格利島",
+    "name_en": "Prangli",
+    "lat": 59.624,
+    "lon": 25.021,
+    "country": "愛沙尼亞",
+    "region": "歐洲",
+    "quote": "它叫做Prankley",
+    "context": "來賓打工度假的微型島嶼"
+  }
+]

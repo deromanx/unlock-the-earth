@@ -1,0 +1,82 @@
+[
+  {
+    "name": "塞米恩國家公園",
+    "name_en": "Simien Mountains National Park",
+    "lat": 13.25,
+    "lon": 38.0,
+    "country": "衣索比亞",
+    "region": "非洲",
+    "quote": "那個好像叫一個國家公園叫Samuel Mountain",
+    "context": "紅心獅子肺的棲息地"
+  },
+  {
+    "name": "猴面包樹大道",
+    "name_en": "Avenue of the Baobabs",
+    "lat": -20.252,
+    "lon": 44.418,
+    "country": "馬達加斯加",
+    "region": "非洲",
+    "quote": "因為他就是一個很標誌性你可能Google馬達加之家然後就會看到很常就會看到那個猴面包樹",
+    "context": "馬達加斯加標誌性地標，巨大的猴麵包樹"
+  },
+  {
+    "name": "克魯閣國家公園",
+    "name_en": "Kruger National Park",
+    "lat": -24.0,
+    "lon": 31.5,
+    "country": "南非",
+    "region": "非洲",
+    "quote": "南非他的國家公園像是克魯閣國家公園他裡面的動物啊獅子的數量密度可以說是可能是世界最高的",
+    "context": "南非入門級觀賞動物地點，獅子密度高"
+  },
+  {
+    "name": "開普敦",
+    "name_en": "Cape Town",
+    "lat": -33.9249,
+    "lon": 18.4241,
+    "country": "南非",
+    "region": "非洲",
+    "quote": "偶爾就可以可能做飯店享受去海邊像可以去開普敦嘛",
+    "context": "南非主要城市，除動物外也有其他景點"
+  },
+  {
+    "name": "桌山",
+    "name_en": "Table Mountain",
+    "lat": -33.957,
+    "lon": 18.402,
+    "country": "南非",
+    "region": "非洲",
+    "quote": "就看桌山之類的",
+    "context": "開普敦著名地標，可登高望遠"
+  },
+  {
+    "name": "馬賽馬拉國家保護區",
+    "name_en": "Maasai Mara National Reserve",
+    "lat": -1.75,
+    "lon": 35.0,
+    "country": "肯亞",
+    "region": "非洲",
+    "quote": "進到了肯亞的馬賽馬拉草原",
+    "context": "東非動物大遷徙的主要地點"
+  },
+  {
+    "name": "塞倫蓋蒂國家公園",
+    "name_en": "Serengeti National Park",
+    "lat": -2.333,
+    "lon": 34.833,
+    "country": "坦尚尼亞",
+    "region": "非洲",
+    "quote": "坦上尼亞那邊叫馬山馬拉草原坦上尼亞叫色倫蓋體草原",
+    "context": "東非動物大遷徙的另一主要地點"
+  },
+  {
+    "name": "馬拉河",
+    "name_en": "Mara River",
+    "lat": -1.583,
+    "lon": 34.367,
+    "country": "肯亞/坦尚尼亞",
+    "region": "非洲",
+    "quote": "但這種都可遇不可求因為有時候你很難遇到那個最精華最精彩的時刻可是過河為什麼那麼難?你就在河旁邊等",
+    "context": "動物大遷徙過河處，有鱷魚埋伏"
+  }
+]

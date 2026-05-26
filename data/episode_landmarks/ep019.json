@@ -1,0 +1,72 @@
+[
+  {
+    "name": "吳哥窟",
+    "name_en": "Angkor Wat",
+    "lat": 13.412,
+    "lon": 103.867,
+    "country": "柬埔寨",
+    "region": "亞洲",
+    "quote": "仙利就是吴歌窟旁边的那个小镇",
+    "context": "本集節目的核心探討地點，包含歷史、建築與旅遊方式。"
+  },
+  {
+    "name": "暹粒",
+    "name_en": "Siem Reap",
+    "lat": 13.361,
+    "lon": 103.86,
+    "country": "柬埔寨",
+    "region": "亞洲",
+    "quote": "仙利它就是一个小镇",
+    "context": "作為吳哥窟鄰近城鎮，探討其生活樣貌與建築限制。"
+  },
+  {
+    "name": "酒吧街",
+    "name_en": "Pub Street",
+    "lat": 13.354,
+    "lon": 103.855,
+    "country": "柬埔寨",
+    "region": "亞洲",
+    "quote": "然后去市区老城区POP STREET绕一绕",
+    "context": "來賓在暹粒下班後常去放鬆的街區。"
+  },
+  {
+    "name": "暹粒河",
+    "name_en": "Siem Reap River",
+    "lat": 13.353,
+    "lon": 103.858,
+    "country": "柬埔寨",
+    "region": "亞洲",
+    "quote": "而且先利的市区是被那个先利河贯穿的",
+    "context": "提及河流整治得很好，沿河步道散步非常舒服。"
+  },
+  {
+    "name": "大吳哥 (吳哥王城)",
+    "name_en": "Angkor Thom",
+    "lat": 13.441,
+    "lon": 103.859,
+    "country": "柬埔寨",
+    "region": "亞洲",
+    "quote": "说这个吴哥大吴哥有几个城门",
+    "context": "提及《真臘風土記》對大吳哥城門及方位的詳細記載。"
+  },
+  {
+    "name": "斗象台",
+    "name_en": "Terrace of the Elephants",
+    "lat": 13.446,
+    "lon": 103.858,
+    "country": "柬埔寨",
+    "region": "亞洲",
+    "quote": "你现在如果去有一个斗像台对不对",
+    "context": "用以舉例吳哥遺蹟原本有木造建築，如今只剩石頭基座。"
+  },
+  {
+    "name": "吳哥國家博物館",
+    "name_en": "Angkor National Museum",
+    "lat": 13.366,
+    "lon": 103.86,
+    "country": "柬埔寨",
+    "region": "亞洲",
+    "quote": "有吴哥博物馆",
+    "context": "提到博物館內對歷史描述較少，多引述《真臘風土記》。"
+  }
+]

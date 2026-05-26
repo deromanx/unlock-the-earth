@@ -1,0 +1,42 @@
+[
+  {
+    "name": "古巴國家飯店",
+    "name_en": "Hotel Nacional de Cuba",
+    "lat": 23.143,
+    "lon": -82.381,
+    "country": "古巴",
+    "region": "美洲",
+    "quote": "以前古巴哈网那最高级就是那个National Hotel",
+    "context": "過去哈瓦那最高級的飯店，許多著名政治人物都曾入住。"
+  },
+  {
+    "name": "哈瓦那舊城區",
+    "name_en": "Old Havana",
+    "lat": 23.138,
+    "lon": -82.354,
+    "country": "古巴",
+    "region": "美洲",
+    "quote": "而且这些精品饭店都该在哈网那的旧城区",
+    "context": "最具歷史古蹟的街區，近年出現許多五星級精品飯店與商場。"
+  },
+  {
+    "name": "哈瓦那濱海大道",
+    "name_en": "Malecón",
+    "lat": 23.143,
+    "lon": -82.388,
+    "country": "古巴",
+    "region": "美洲",
+    "quote": "古巴哈瓦那很有名的那个滨海大道",
+    "context": "適合看日落、喝酒聊天，以及觀察當地人生活的好去處。"
+  },
+  {
+    "name": "哈瓦那唐人街",
+    "name_en": "Barrio Chino",
+    "lat": 23.133,
+    "lon": -82.364,
+    "country": "古巴",
+    "region": "美洲",
+    "quote": "这是我第一个去的中国城里面没有中国人的中国城",
+    "context": "位於哈瓦那的唐人街，特色是裡面完全沒有中國人。"
+  }
+]

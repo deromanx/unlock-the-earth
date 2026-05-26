@@ -1,0 +1,32 @@
+[
+  {
+    "name": "街角之家 (KGB大樓)",
+    "name_en": "Corner House (KGB Building)",
+    "lat": 56.958,
+    "lon": 24.125,
+    "country": "拉脫維亞",
+    "region": "歐洲",
+    "quote": "當地人可能不會叫它KGB Building 當地人是叫它Corner House",
+    "context": "蘇聯時期關押政治犯的場所，現已改建為博物館。"
+  },
+  {
+    "name": "擁有透明電梯的27樓飯店",
+    "name_en": "Radisson Blu Hotel Latvija",
+    "lat": 56.954,
+    "lon": 24.118,
+    "country": "拉脫維亞",
+    "region": "歐洲",
+    "quote": "可以帶我去一個飯店裡面然後他們有透明電梯可以看到離家的市區",
+    "context": "路人帶領來賓前往，可俯瞰里加市區的高樓飯店。"
+  },
+  {
+    "name": "里加古城區",
+    "name_en": "Riga Old Town",
+    "lat": 56.949,
+    "lon": 24.106,
+    "country": "拉脫維亞",
+    "region": "歐洲",
+    "quote": "你在那種市中心的古城區你可能走到下一個街道的轉角可能整條路都沒人",
+    "context": "里加市中心的歷史區域，來賓覺得人煙稀少。"
+  }
+]

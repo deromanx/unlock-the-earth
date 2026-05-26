@@ -1,0 +1,72 @@
+[
+  {
+    "name": "金邊",
+    "name_en": "Phnom Penh",
+    "lat": 11.556,
+    "lon": 104.928,
+    "country": "柬埔寨",
+    "region": "亞洲",
+    "quote": "你是从金边搭巴士到西贡对不对",
+    "context": "柬埔寨的交通中轉點"
+  },
+  {
+    "name": "胡志明市",
+    "name_en": "Ho Chi Minh City",
+    "lat": 10.823,
+    "lon": 106.629,
+    "country": "越南",
+    "region": "亞洲",
+    "quote": "后来也算是几经波折就到了西贡，胡志明市",
+    "context": "越南旅程的起點，購買擋車處"
+  },
+  {
+    "name": "法蘭克福",
+    "name_en": "Frankfurt",
+    "lat": 50.11,
+    "lon": 8.682,
+    "country": "德國",
+    "region": "歐洲",
+    "quote": "我在法蘭克福的時候，就德國海關拿起來這樣",
+    "context": "護照被海關質疑的發生地"
+  },
+  {
+    "name": "胡志明公路",
+    "name_en": "Ho Chi Minh Highway",
+    "lat": 19.008,
+    "lon": 105.297,
+    "country": "越南",
+    "region": "亞洲",
+    "quote": "我们就一路沿着非常有名的胡志明公路一直骑到北边",
+    "context": "越南摩托車旅行的主要路線"
+  },
+  {
+    "name": "達臘",
+    "name_en": "Da Lat",
+    "lat": 11.946,
+    "lon": 108.442,
+    "country": "越南",
+    "region": "亞洲",
+    "quote": "达腊它是就是在越南南部，然后山上的一个城市",
+    "context": "越南南部山城，氣候涼爽，殖民風情"
+  },
+  {
+    "name": "美奈",
+    "name_en": "Mũi Né",
+    "lat": 10.933,
+    "lon": 108.283,
+    "country": "越南",
+    "region": "亞洲",
+    "quote": "南部还有一个地方我蛮喜欢是叫那个mine",
+    "context": "以沙丘聞名的越南南部景點"
+  },
+  {
+    "name": "河內",
+    "name_en": "Hanoi",
+    "lat": 21.028,
+    "lon": 105.854,
+    "country": "越南",
+    "region": "亞洲",
+    "quote": "我必须要骑三天的路程到下一个大城市，我才可以把我的卡领回来，然后结果你就骑过去我就必须要骑到河内",
+    "context": "為取回ATM卡片而前往的大城市"
+  }
+]

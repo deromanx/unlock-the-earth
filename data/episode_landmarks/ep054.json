@@ -1,0 +1,82 @@
+[
+  {
+    "name": "瑪瑙斯",
+    "name_en": "Manaus",
+    "lat": -3.119,
+    "lon": -60.021,
+    "country": "巴西",
+    "region": "美洲",
+    "quote": "我在巴西的這四年間",
+    "context": "來賓外派工作四年的主要居住與工作城市"
+  },
+  {
+    "name": "保利斯塔大道",
+    "name_en": "Avenida Paulista",
+    "lat": -23.561,
+    "lon": -46.655,
+    "country": "巴西",
+    "region": "美洲",
+    "quote": "一部分的預算被人家搶走!",
+    "context": "聖保羅金融商業中心，也是生存指南討論重點"
+  },
+  {
+    "name": "亞馬遜劇院",
+    "name_en": "Teatro Amazonas",
+    "lat": -3.13,
+    "lon": -60.023,
+    "country": "巴西",
+    "region": "美洲",
+    "quote": "他在巴西工作的一些辛酸血淚",
+    "context": "瑪瑙斯著名地標，見證橡膠繁榮時期的歌劇院"
+  },
+  {
+    "name": "黑白河匯流處",
+    "name_en": "Encontro das Águas",
+    "lat": -3.134,
+    "lon": -59.902,
+    "country": "巴西",
+    "region": "美洲",
+    "quote": "他在巴西工作的一些辛酸血淚",
+    "context": "亞馬遜河著名奇觀，內格羅河與索里芒斯河匯流"
+  },
+  {
+    "name": "森巴大道",
+    "name_en": "Sambadrome Marquês de Sapucaí",
+    "lat": -22.911,
+    "lon": -43.196,
+    "country": "巴西",
+    "region": "美洲",
+    "quote": "這樂子一定要找",
+    "context": "里約熱內盧嘉年華的主場地，森巴舞校遊行之處"
+  },
+  {
+    "name": "自由區",
+    "name_en": "Liberdade",
+    "lat": -23.555,
+    "lon": -46.634,
+    "country": "巴西",
+    "region": "美洲",
+    "quote": "這樂子一定要找",
+    "context": "聖保羅著名的日裔區，是尋找亞洲美食的熱點"
+  },
+  {
+    "name": "馬達萊納區",
+    "name_en": "Vila Madalena",
+    "lat": -23.554,
+    "lon": -46.688,
+    "country": "巴西",
+    "region": "美洲",
+    "quote": "這樂子一定要找",
+    "context": "聖保羅以藝術、酒吧和街頭塗鴉聞名的區塊"
+  },
+  {
+    "name": "救世基督像",
+    "name_en": "Christ the Redeemer",
+    "lat": -22.951,
+    "lon": -43.21,
+    "country": "巴西",
+    "region": "美洲",
+    "quote": "了解一下Wayne在那邊做什麼找樂子",
+    "context": "里約熱內盧最具代表性的地標建築"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "name": "英國人海灘",
+    "name_en": "Playa del Inglés",
+    "lat": 27.759,
+    "lon": -15.574,
+    "country": "西班牙",
+    "region": "非洲",
+    "quote": "甚至有一个海滩叫做英国人海滩",
+    "context": "說明加那利群島是英國人喜愛的度假勝地"
+  },
+  {
+    "name": "三毛故居",
+    "name_en": "Casa de Sanmao",
+    "lat": 27.992,
+    "lon": -15.378,
+    "country": "西班牙",
+    "region": "非洲",
+    "quote": "到了那个三毛的那个故居的地方叫做Delte",
+    "context": "講述作者去三毛故居朝聖但發現完全未被觀光化"
+  },
+  {
+    "name": "哥倫布之家",
+    "name_en": "Casa de Colón",
+    "lat": 28.101,
+    "lon": -15.414,
+    "country": "西班牙",
+    "region": "非洲",
+    "quote": "其实最经典就是他们的哥伦布那个哥伦布之家",
+    "context": "紀念哥倫布從此地出發，並介紹其特色的木雕窗台"
+  },
+  {
+    "name": "上帝的手指",
+    "name_en": "El Dedo de Dios",
+    "lat": 28.102,
+    "lon": -15.708,
+    "country": "西班牙",
+    "region": "非洲",
+    "quote": "也是在大加拉绿岛上面叫做上帝的手指",
+    "context": "舉例說明島上特殊的大自然火山岩石地形"
+  }
+]

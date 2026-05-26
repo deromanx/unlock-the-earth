@@ -1,0 +1,62 @@
+[
+  {
+    "name": "的的喀喀湖",
+    "name_en": "Lake Titicaca",
+    "lat": -15.925,
+    "lon": -69.336,
+    "country": "秘魯、玻利維亞",
+    "region": "美洲",
+    "quote": "他的開國君主是從Titikaka Lake 一個很高的高山湖泊",
+    "context": "印加開國君主的傳說發源地"
+  },
+  {
+    "name": "太陽島",
+    "name_en": "Isla del Sol",
+    "lat": -16.016,
+    "lon": -69.173,
+    "country": "玻利維亞",
+    "region": "美洲",
+    "quote": "從玻利維亞那邊的一個島 叫做Isla de Sol 就是太陽島",
+    "context": "印加傳說中開國君主降臨人間的具體地點"
+  },
+  {
+    "name": "馬丘比丘",
+    "name_en": "Machu Picchu",
+    "lat": -13.163,
+    "lon": -72.545,
+    "country": "秘魯",
+    "region": "美洲",
+    "quote": "後來有一個新國王出來了 那但他就跑就逃到一個著名的馬丘比丘",
+    "context": "印加新國王逃亡與死守幾十年的據點"
+  },
+  {
+    "name": "太陽神殿",
+    "name_en": "Qorikancha",
+    "lat": -13.52,
+    "lon": -71.975,
+    "country": "秘魯",
+    "region": "美洲",
+    "quote": "確實他們那時候把庫斯科的太陽神殿 雖然現在還在但是以前是鋪滿黃金",
+    "context": "曾鋪滿黃金，後被挖下作國王贖金的神殿"
+  },
+  {
+    "name": "十二角石",
+    "name_en": "Twelve-Angled Stone",
+    "lat": -13.516,
+    "lon": -71.976,
+    "country": "秘魯",
+    "region": "美洲",
+    "quote": "那邊還有一個很著名的石頭 叫做十二角石",
+    "context": "展現印加人高超打磨與接合技術的著名石牆遺跡"
+  },
+  {
+    "name": "熱水鎮",
+    "name_en": "Aguas Calientes",
+    "lat": -13.155,
+    "lon": -72.526,
+    "country": "秘魯",
+    "region": "美洲",
+    "quote": "你還要走大概一個多小時 才能到山下的熱水鎮",
+    "context": "前往馬丘比丘的便宜巴士路線必經的接駁小鎮"
+  }
+]

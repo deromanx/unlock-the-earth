@@ -1,0 +1,72 @@
+[
+  {
+    "name": "前美國大使館",
+    "name_en": "Former US Embassy",
+    "lat": 35.707,
+    "lon": 51.425,
+    "country": "伊朗",
+    "region": "亞洲",
+    "quote": "還有像那個前美國大使館",
+    "context": "現為展示反美塗鴉與文物的博物館。"
+  },
+  {
+    "name": "聚禮清真寺",
+    "name_en": "Jameh Mosque of Isfahan",
+    "lat": 32.67,
+    "lon": 51.685,
+    "country": "伊朗",
+    "region": "亞洲",
+    "quote": "那邊最有名的是 那個 距離新增市",
+    "context": "聯合國遺產，融合各時期建築風格的清真寺。"
+  },
+  {
+    "name": "33拱橋",
+    "name_en": "Si-o-se-pol",
+    "lat": 32.644,
+    "lon": 51.667,
+    "country": "伊朗",
+    "region": "亞洲",
+    "quote": "伊斯法海它還有一個也是被列為一山33拱橋",
+    "context": "伊斯法罕連接河兩岸的著名行人橋。"
+  },
+  {
+    "name": "天障台",
+    "name_en": "Tower of Silence",
+    "lat": 31.821,
+    "lon": 54.354,
+    "country": "伊朗",
+    "region": "亞洲",
+    "quote": "他還有一個必須的地方是天障台",
+    "context": "雅茲德郊區的拜火教天葬遺跡。"
+  },
+  {
+    "name": "亞茲德拜火教神廟",
+    "name_en": "Yazd Atash Behram",
+    "lat": 31.88,
+    "lon": 54.374,
+    "country": "伊朗",
+    "region": "亞洲",
+    "quote": "他們有一個博物館 就那個 裡面有 就既是一個火",
+    "context": "供奉兩千年不滅聖火的拜火教神廟。"
+  },
+  {
+    "name": "波斯波利斯",
+    "name_en": "Persepolis",
+    "lat": 29.934,
+    "lon": 52.891,
+    "country": "伊朗",
+    "region": "亞洲",
+    "quote": "第一個蓋下去的城市才是波斯波利斯",
+    "context": "古波斯帝國首都遺址，有著壯觀的浮雕。"
+  },
+  {
+    "name": "光明王之墓",
+    "name_en": "Shah Cheragh",
+    "lat": 29.61,
+    "lon": 52.543,
+    "country": "伊朗",
+    "region": "亞洲",
+    "quote": "那個 光明王之墓 我聽起來很屌",
+    "context": "色拉子的伊斯蘭領袖陵墓，內部由玻璃拼湊裝飾。"
+  }
+]

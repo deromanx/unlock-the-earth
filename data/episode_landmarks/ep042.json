@@ -1,0 +1,92 @@
+[
+  {
+    "name": "第一牧志公設市場",
+    "name_en": "Makishi Public Market",
+    "lat": 26.214,
+    "lon": 127.688,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "大部分人去沖繩一定會去逛一個第一木製公社市場",
+    "context": "沖繩特色市場，展現當地與日本本島不同的飲食文化"
+  },
+  {
+    "name": "首里城",
+    "name_en": "Shuri Castle",
+    "lat": 26.217,
+    "lon": 127.719,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "首里成他的建築反而是長的跟明朝是比較像的",
+    "context": "琉球王國皇宮，建築受明朝影響，為沖繩重要歷史建築"
+  },
+  {
+    "name": "牡丹社",
+    "name_en": "Mudan Township",
+    "lat": 22.125,
+    "lon": 120.772,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "牡丹社事件就是當時琉球的船員他們失事在牡丹社這個地方",
+    "context": "琉球船員失事遇害地點，引發日本出兵攻打台灣"
+  },
+  {
+    "name": "八重山群島",
+    "name_en": "Yaeyama Islands",
+    "lat": 24.344,
+    "lon": 124.156,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "主要是八重山島那邊去開疆僻土",
+    "context": "日治時期台灣人被派去開墾與種植經濟作物的地方"
+  },
+  {
+    "name": "台灣之塔",
+    "name_en": "Taiwan no To",
+    "lat": 26.096,
+    "lon": 127.725,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "在沖繩有一個台灣之塔",
+    "context": "位於沖繩南端，紀念二戰時期在當地戰死的台灣人"
+  },
+  {
+    "name": "萬座毛",
+    "name_en": "Cape Manzamo",
+    "lat": 26.504,
+    "lon": 127.85,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "它叫做萬座毛",
+    "context": "著名風景區，傳聞有許多不願被統治的琉球人在此跳崖"
+  },
+  {
+    "name": "齋場御嶽",
+    "name_en": "Sefa-utaki",
+    "lat": 26.173,
+    "lon": 127.826,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "叫做災場玉遇",
+    "context": "琉球王國時期最高的神聖祭祀地點"
+  },
+  {
+    "name": "久高島",
+    "name_en": "Kudaka Island",
+    "lat": 26.158,
+    "lon": 127.893,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "他們就可以遠眺神之島叫做九高島的這個島",
+    "context": "齋場御嶽祭祀時遠眺的神聖島嶼"
+  },
+  {
+    "name": "久米孔廟",
+    "name_en": "Kume Shiseibyo",
+    "lat": 26.218,
+    "lon": 127.674,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "沖繩島有一間孔廟",
+    "context": "康熙贈送的禮物，位於紅燈區旁"
+  }
+]

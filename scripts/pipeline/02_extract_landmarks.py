@@ -103,7 +103,7 @@ def extract_landmarks(ep_num, prompt_template=GEMINI_PROMPT_TEMPLATE, min_releva
     clean_env = {k: v for k, v in os.environ.items() if k != 'NODE_OPTIONS'}
     try:
         result = subprocess.run(
-            ['gemini', '--sandbox=false', '-p', prompt],
+            ['gemini', '-m', 'gemini-2.5-flash', '--sandbox=false', '-p', prompt],
             capture_output=True, text=True, timeout=300,
             env=clean_env, input='\n',
         )

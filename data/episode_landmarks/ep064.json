@@ -1,0 +1,52 @@
+[
+  {
+    "name": "杜拜老城區",
+    "name_en": "Old Dubai",
+    "lat": 25.267,
+    "lon": 55.297,
+    "country": "阿拉伯聯合大公國",
+    "region": "亞洲",
+    "quote": "我當初住的地方是杜拜的老城區",
+    "context": "講述剛到杜拜時的居住地，反映當地外籍勞工生活"
+  },
+  {
+    "name": "尼羅河",
+    "name_en": "Nile River",
+    "lat": 30.044,
+    "lon": 31.235,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "看著尼羅河抽水煙",
+    "context": "描述埃及當地充滿生活感的庶民街邊咖啡廳氛圍"
+  },
+  {
+    "name": "舊開羅",
+    "name_en": "Old Cairo",
+    "lat": 30.01,
+    "lon": 31.23,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "舊開羅",
+    "context": "對比杜拜的摩登，形容埃及具有深厚歷史底蘊"
+  },
+  {
+    "name": "哈里發塔",
+    "name_en": "Burj Khalifa",
+    "lat": 25.197,
+    "lon": 55.274,
+    "country": "阿拉伯聯合大公國",
+    "region": "亞洲",
+    "quote": "我要去哈里巴塔巡店或什麼的",
+    "context": "提及工作巡店的地標，藉此觀察當地土豪奢華生活"
+  },
+  {
+    "name": "麥加",
+    "name_en": "Mecca",
+    "lat": 21.422,
+    "lon": 39.826,
+    "country": "沙烏地阿拉伯",
+    "region": "亞洲",
+    "quote": "麥加聖地",
+    "context": "說明沙烏地阿拉伯在伊斯蘭宗教與文化上的核心地位"
+  }
+]

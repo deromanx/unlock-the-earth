@@ -1,0 +1,32 @@
+[
+  {
+    "name": "愛妮島",
+    "name_en": "El Nido",
+    "lat": 11.179,
+    "lon": 119.387,
+    "country": "菲律賓",
+    "region": "亞洲",
+    "quote": "就是我一个月前去菲律宾的爱妮岛玩",
+    "context": "發生提款卡遭側錄盜領事件的旅遊地點"
+  },
+  {
+    "name": "張家口車站",
+    "name_en": "Zhangjiakou Railway Station",
+    "lat": 40.768,
+    "lon": 114.885,
+    "country": "中國",
+    "region": "亞洲",
+    "quote": "那等一下我就把你们放到那个张家口车站",
+    "context": "搭便車途中司機提議的下車地點，後續引發糾紛"
+  },
+  {
+    "name": "大象孤兒院",
+    "name_en": "Pinnawala Elephant Orphanage",
+    "lat": 7.301,
+    "lon": 80.387,
+    "country": "斯里蘭卡",
+    "region": "亞洲",
+    "quote": "某一天到一个大象孤儿院自己一个人好端端的在那边看大象",
+    "context": "遇到當地人強行導覽並勒索高額小費的景點"
+  }
+]

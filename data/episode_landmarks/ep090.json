@@ -1,0 +1,32 @@
+[
+  {
+    "name": "白沙丘",
+    "name_en": "White Sand Dunes",
+    "lat": 11.063,
+    "lon": 108.431,
+    "country": "越南",
+    "region": "亞洲",
+    "quote": "我記得那時候我們在那個白沙丘的時候",
+    "context": "提及在積水中尋找特殊食蟲植物的景點"
+  },
+  {
+    "name": "龍坡邦",
+    "name_en": "Luang Prabang",
+    "lat": 19.883,
+    "lon": 102.133,
+    "country": "寮國",
+    "region": "亞洲",
+    "quote": "我在那時候在龍泊幫的時候看到他們的清晨布施",
+    "context": "提及當地有名的清晨供養出家人活動"
+  },
+  {
+    "name": "香昆寺",
+    "name_en": "Buddha Park",
+    "lat": 17.912,
+    "lon": 102.764,
+    "country": "寮國",
+    "region": "亞洲",
+    "quote": "我那時候在那個永生旁邊那個Boodle Park沒有看到",
+    "context": "討論佛像旁擺放糯米的宗教習俗"
+  }
+]

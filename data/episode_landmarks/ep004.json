@@ -1,0 +1,52 @@
+[
+  {
+    "name": "苏雷塔",
+    "name_en": "Sule Pagoda",
+    "lat": 16.774,
+    "lon": 96.159,
+    "country": "缅甸",
+    "region": "亞洲",
+    "quote": "第一站要去的他们的景点叫苏雷塔",
+    "context": "仰光市中心的著名八角形佛塔，每個角落對應一個生肖。"
+  },
+  {
+    "name": "独立纪念碑",
+    "name_en": "Independence Monument / Maha Bandula Park",
+    "lat": 16.773,
+    "lon": 96.159,
+    "country": "缅甸",
+    "region": "亞洲",
+    "quote": "旁边啊就是一个很大的公园 那这个公园里面它就有一个独立纪念碑",
+    "context": "位於蘇雷塔旁的公園內，周圍環繞著英國殖民時期留下的公家機關建築。"
+  },
+  {
+    "name": "翁山市场",
+    "name_en": "Bogyoke Aung San Market",
+    "lat": 16.78,
+    "lon": 96.156,
+    "country": "缅甸",
+    "region": "亞洲",
+    "quote": "这个市场的名字叫翁山市场 那翁山就是那个翁山 翁山苏姬的爸爸",
+    "context": "仰光市中心最大的室內市場，外觀為英式建築，以翁山將軍命名。"
+  },
+  {
+    "name": "仰光理工学院",
+    "name_en": "Yangon Technological University",
+    "lat": 16.883,
+    "lon": 96.106,
+    "country": "缅甸",
+    "region": "亞洲",
+    "quote": "最一开始从仰光和理工学院的学生 开始举行很多抗议活动啊",
+    "context": "1988年緬甸民主抗爭運動的發源地。"
+  },
+  {
+    "name": "大金塔",
+    "name_en": "Shwedagon Pagoda",
+    "lat": 16.798,
+    "lon": 96.15,
+    "country": "缅甸",
+    "region": "亞洲",
+    "quote": "他在八月二十六号的时候 他就在 仰光最著名的地标 大金塔前面 召开一个群众的",
+    "context": "仰光最著名的地標，也是翁山蘇姬對五十萬群眾發表演說推動民主之地。"
+  }
+]

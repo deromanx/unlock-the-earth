@@ -1,0 +1,52 @@
+[
+  {
+    "name": "黃山",
+    "name_en": "Mount Huangshan",
+    "lat": 30.13,
+    "lon": 118.173,
+    "country": "中國",
+    "region": "亞洲",
+    "quote": "从南京搭火车去爬黄山两天",
+    "context": "分享單車旅行途中搭火車去爬山的經歷"
+  },
+  {
+    "name": "天安門廣場",
+    "name_en": "Tiananmen Square",
+    "lat": 39.905,
+    "lon": 116.397,
+    "country": "中國",
+    "region": "亞洲",
+    "quote": "就是定在北京的天安门广场",
+    "context": "上海到北京單車旅行的終點"
+  },
+  {
+    "name": "奔子蘭",
+    "name_en": "Benzilan",
+    "lat": 28.241,
+    "lon": 99.284,
+    "country": "中國",
+    "region": "亞洲",
+    "quote": "有一个小城镇 我忘记他的名字 好像叫奔子兰吗",
+    "context": "因地震全村住帳篷，收留了講者的城鎮"
+  },
+  {
+    "name": "羊卓雍錯",
+    "name_en": "Yamdrok Lake",
+    "lat": 28.966,
+    "lon": 90.729,
+    "country": "中國",
+    "region": "亞洲",
+    "quote": "我觉得最美的景色 叫做杨卓庸错",
+    "context": "講者認為旅程中最美的湛藍色高山湖泊"
+  },
+  {
+    "name": "納木錯",
+    "name_en": "Namtso",
+    "lat": 30.716,
+    "lon": 90.466,
+    "country": "中國",
+    "region": "亞洲",
+    "quote": "这还有另外一个很有名 叫做纳木错",
+    "context": "提及另一個像海一樣大的知名聖湖"
+  }
+]

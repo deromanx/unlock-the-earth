@@ -1,0 +1,82 @@
+[
+  {
+    "name": "慕尼黑中央車站",
+    "name_en": "München Hauptbahnhof",
+    "lat": 48.14,
+    "lon": 11.56,
+    "country": "德國",
+    "region": "歐洲",
+    "quote": "我记得他们在中央车站附近吧",
+    "context": "主持人提到一出車站就看到路上有很多酒鬼"
+  },
+  {
+    "name": "特雷西婭草坪",
+    "name_en": "Theresienwiese",
+    "lat": 48.131,
+    "lon": 11.55,
+    "country": "德國",
+    "region": "歐洲",
+    "quote": "有一个大广场还是大草地之类的",
+    "context": "慕尼黑啤酒節的舉辦場地，有許多遊樂設施"
+  },
+  {
+    "name": "皇家啤酒館帳篷",
+    "name_en": "Hofbräu-Festzelt",
+    "lat": 48.132,
+    "lon": 11.551,
+    "country": "德國",
+    "region": "歐洲",
+    "quote": "可是我那时候我记得是去HB的帐篷",
+    "context": "邱婷軒在啤酒節會場中造訪的啤酒帳篷"
+  },
+  {
+    "name": "瑪麗亞廣場",
+    "name_en": "Marienplatz",
+    "lat": 48.137,
+    "lon": 11.575,
+    "country": "德國",
+    "region": "歐洲",
+    "quote": "搬在那个市政厅前面的广场",
+    "context": "舉辦全素食啤酒節的地點"
+  },
+  {
+    "name": "慕尼黑新市政廳",
+    "name_en": "Neues Rathaus",
+    "lat": 48.137,
+    "lon": 11.576,
+    "country": "德國",
+    "region": "歐洲",
+    "quote": "它的市政厅很经典耶",
+    "context": "具有經典木偶鐘樓表演，當初為重振繁榮而建"
+  },
+  {
+    "name": "巴伐利亞雕像",
+    "name_en": "Bavaria Statue",
+    "lat": 48.131,
+    "lon": 11.545,
+    "country": "德國",
+    "region": "歐洲",
+    "quote": "旁边就有个很大的雕像",
+    "context": "位於啤酒節會場旁的小山坡上，象徵巴伐利亞精神"
+  },
+  {
+    "name": "海尼根體驗館",
+    "name_en": "Heineken Experience",
+    "lat": 52.358,
+    "lon": 4.892,
+    "country": "荷蘭",
+    "region": "歐洲",
+    "quote": "哦说到酒厂我记得之前也去过阿姆斯特那边有个海尼根酒厂",
+    "context": "邱婷軒去過的酒廠，有遊樂園般的特效與導覽體驗"
+  },
+  {
+    "name": "皮爾森啤酒廠",
+    "name_en": "Pilsner Urquell Brewery",
+    "lat": 49.747,
+    "lon": 13.388,
+    "country": "捷克",
+    "region": "歐洲",
+    "quote": "你有去过皮尔森的酒厂",
+    "context": "傳統的捷克啤酒廠，可以聞到啤酒花香味"
+  }
+]

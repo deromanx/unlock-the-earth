@@ -1,0 +1,52 @@
+[
+  {
+    "name": "湯加里羅越野步道",
+    "name_en": "Tongariro Alpine Crossing",
+    "lat": -39.138,
+    "lon": 175.642,
+    "country": "紐西蘭",
+    "region": "大洋洲",
+    "quote": "叫Tanker Rural Crossing",
+    "context": "與德國女孩一起去爬山，才發現是魔戒拍攝地"
+  },
+  {
+    "name": "陶波湖",
+    "name_en": "Lake Taupo",
+    "lat": -38.805,
+    "lon": 175.903,
+    "country": "紐西蘭",
+    "region": "大洋洲",
+    "quote": "陶坡湖",
+    "context": "遇到大型活動住宿客滿，意外住進當地人家裡"
+  },
+  {
+    "name": "陽明山",
+    "name_en": "Yangmingshan",
+    "lat": 25.155,
+    "lon": 121.553,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "阳明山的一个没有人的草地",
+    "context": "特地帶著書跑到沒人的草地躺著看"
+  },
+  {
+    "name": "燦爛時光書店",
+    "name_en": "Brilliant Time Bookstore",
+    "lat": 24.989,
+    "lon": 121.512,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "叫做灿烂时光书店吗",
+    "context": "提及該書店發起帶東南亞書籍回台的活動"
+  },
+  {
+    "name": "胡志明市書店街",
+    "name_en": "Ho Chi Minh City Book Street",
+    "lat": 10.781,
+    "lon": 106.7,
+    "country": "越南",
+    "region": "亞洲",
+    "quote": "它那边有一个书店街",
+    "context": "在此買了越南文的村上春樹小說參與捐書活動"
+  }
+]

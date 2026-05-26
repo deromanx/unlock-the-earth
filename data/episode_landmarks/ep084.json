@@ -1,0 +1,32 @@
+[
+  {
+    "name": "達爾文港",
+    "name_en": "Darwin Harbour",
+    "lat": -12.468,
+    "lon": 130.841,
+    "country": "澳洲",
+    "region": "大洋洲",
+    "quote": "澳洲唯一被日本打過的地方，就叫做達爾文港",
+    "context": "二戰時期遭日軍轟炸的歷史地點"
+  },
+  {
+    "name": "卡卡杜國家公園",
+    "name_en": "Kakadu National Park",
+    "lat": -13.092,
+    "lon": 132.393,
+    "country": "澳洲",
+    "region": "大洋洲",
+    "quote": "在北領地這邊有一個國家公園，它叫做卡卡杜國家公園",
+    "context": "澳洲最大國家公園，有豐富原住民壁畫及野生動物"
+  },
+  {
+    "name": "鱷魚動物園 (Crocosaurus Cove)",
+    "name_en": "Crocosaurus Cove",
+    "lat": -12.463,
+    "lon": 130.84,
+    "country": "澳洲",
+    "region": "大洋洲",
+    "quote": "它市區有一個那個鱷魚的動物園",
+    "context": "提供「死亡之龍」活動與鱷魚近距離接觸的市區景點"
+  }
+]

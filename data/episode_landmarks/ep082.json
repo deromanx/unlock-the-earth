@@ -1,0 +1,172 @@
+[
+  {
+    "name": "倫敦特區",
+    "name_en": "City of London",
+    "lat": 51.515,
+    "lon": -0.09,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "其實倫敦有兩個城市一個叫倫敦特區一個是大倫敦市 倫敦特區是最早的一個自治區",
+    "context": "介紹倫敦特區的歷史與自治地位"
+  },
+  {
+    "name": "倫敦博物館",
+    "name_en": "Museum of London",
+    "lat": 51.517,
+    "lon": -0.096,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "對在倫敦博物館裡 西元一世紀 對他們就有金幣 有比基尼還有化妝品",
+    "context": "館內展示西元一世紀羅馬人留下的比基尼與化妝品"
+  },
+  {
+    "name": "空中花園",
+    "name_en": "Sky Garden",
+    "lat": 51.511,
+    "lon": -0.083,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "那台灣人常知道的呢 通常是一個地方叫Sky Garden 空中花園",
+    "context": "倫敦知名的高樓觀景台"
+  },
+  {
+    "name": "芬丘奇街20號",
+    "name_en": "20 Fenchurch Street",
+    "lat": 51.511,
+    "lon": -0.083,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "它的這個建築 它的名字叫做 20th Fan Church Street 它是一棟造型很像對講機",
+    "context": "空中花園所在的建築，曾因玻璃折射燒壞汽車"
+  },
+  {
+    "name": "120花園",
+    "name_en": "The Garden at 120",
+    "lat": 51.512,
+    "lon": -0.082,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "在這附近我想推薦大家 另外一棟建築叫Garden120",
+    "context": "可替代空中花園的免排隊秘密觀景點"
+  },
+  {
+    "name": "聖保羅座堂",
+    "name_en": "St Paul's Cathedral",
+    "lat": 51.513,
+    "lon": -0.098,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "而且大家都能夠看到古建築 像是倫敦的聖保羅",
+    "context": "受高度管制保護景觀的古建築，曾被放置土製炸彈"
+  },
+  {
+    "name": "康希爾街",
+    "name_en": "Cornhill",
+    "lat": 51.513,
+    "lon": -0.086,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "我們會到一個地方叫 Cornhill Street",
+    "context": "街上有帶有魔鬼雕像的特殊建築"
+  },
+  {
+    "name": "聖彼得教堂",
+    "name_en": "St Peter upon Cornhill",
+    "lat": 51.513,
+    "lon": -0.085,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "因為旁邊有一棟教堂 他叫St. Peter's",
+    "context": "牧師不斷退稿導致建築師在隔壁建築放惡魔雕像嘲諷"
+  },
+  {
+    "name": "勒登霍爾市場",
+    "name_en": "Leadenhall Market",
+    "lat": 51.512,
+    "lon": -0.083,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "Harry Potter其中有一幕 走斜角像就是在這個Ladenhall Market裡面",
+    "context": "哈利波特斜角巷拍攝地，早期為家禽市場"
+  },
+  {
+    "name": "皇家交易所",
+    "name_en": "Royal Exchange",
+    "lat": 51.513,
+    "lon": -0.087,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "我們會經過一棟很大的建築物 它叫做Royal Exchange 叫做皇家交易所",
+    "context": "早期工會聚集地，現為網美打卡與觀賞壁畫景點"
+  },
+  {
+    "name": "喬治與禿鷲酒吧",
+    "name_en": "George and Vulture",
+    "lat": 51.513,
+    "lon": -0.086,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "我今天請大家特別注意一個 Pub 它的名字叫做George and Vulture",
+    "context": "狄更斯愛去的酒吧，保留維多利亞時代吃大塊肉傳統"
+  },
+  {
+    "name": "牙買加咖啡屋",
+    "name_en": "Jamaica Wine House",
+    "lat": 51.513,
+    "lon": -0.085,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "還有一個小房子 它叫Jamaican House 它是倫敦第一個 我們所謂的咖啡屋文化",
+    "context": "倫敦咖啡屋文化發源地，孕育投資銀行與報業"
+  },
+  {
+    "name": "倫敦市政廳",
+    "name_en": "Guildhall",
+    "lat": 51.515,
+    "lon": -0.091,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "而是一個地方叫Gilt Hall... 它繳稅的地方 它那個大走廊是 現在開始是辦很大的這些儀式",
+    "context": "早期工會繳稅地，二戰轟炸後在地底發現羅馬競技場"
+  },
+  {
+    "name": "市政廳美術館",
+    "name_en": "Guildhall Art Gallery",
+    "lat": 51.515,
+    "lon": -0.091,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "可是在這個裡面這個藝廊它就叫做Gilt Hall Art Gallery",
+    "context": "收藏本土藝術，地下有羅馬競技場遺址"
+  },
+  {
+    "name": "倫敦市警察博物館",
+    "name_en": "City of London Police Museum",
+    "lat": 51.515,
+    "lon": -0.093,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "另外還有一個很奇怪的小博物館 離他不遠 他叫做警察博物館",
+    "context": "展示開膛手傑克檔案及女權抗爭的芥末罐炸彈"
+  },
+  {
+    "name": "英格蘭銀行",
+    "name_en": "Bank of England",
+    "lat": 51.514,
+    "lon": -0.088,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "他把它放在英格蘭銀行外面 真的真的是土製炸彈",
+    "context": "女權運動者曾在此放置土製炸彈抗議"
+  },
+  {
+    "name": "史密斯菲爾德市場",
+    "name_en": "Smithfield Market",
+    "lat": 51.518,
+    "lon": -0.101,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "我們會到一個地方 叫做Smithfield... 也是一個很華麗的大肉鋪",
+    "context": "歷史悠久的肉類市場，有特殊的學徒加冕儀式"
+  }
+]

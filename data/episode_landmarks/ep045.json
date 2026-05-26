@@ -1,0 +1,52 @@
+[
+  {
+    "name": "烏尤尼鹽沼 (天空之鏡)",
+    "name_en": "Salar de Uyuni",
+    "lat": -20.133,
+    "lon": -67.489,
+    "country": "玻利維亞",
+    "region": "美洲",
+    "quote": "是秘魯加波利維亞的天空之徑",
+    "context": "提到南美洲的知名旅遊景點"
+  },
+  {
+    "name": "奇琴伊察",
+    "name_en": "Chichén Itzá",
+    "lat": 20.682,
+    "lon": -88.568,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "北部有一個叫齊千尼柵 有一個非常大的金字塔",
+    "context": "介紹瑪雅文化及世界新七大奇景"
+  },
+  {
+    "name": "馬丘比丘",
+    "name_en": "Machu Picchu",
+    "lat": -13.163,
+    "lon": -72.545,
+    "country": "秘魯",
+    "region": "美洲",
+    "quote": "好再來馬丘比丘秘魯",
+    "context": "列舉世界新七大奇景之一"
+  },
+  {
+    "name": "革命廣場",
+    "name_en": "Plaza de la Revolución",
+    "lat": 23.124,
+    "lon": -82.386,
+    "country": "古巴",
+    "region": "美洲",
+    "quote": "他們甚至還有那個 革命獨立廣場 就以他們名字為命名這樣子",
+    "context": "提到古巴哈瓦那的重要地標"
+  },
+  {
+    "name": "哈瓦那曼扎納凱賓斯基酒店",
+    "name_en": "Gran Hotel Manzana Kempinski La Habana",
+    "lat": 23.137,
+    "lon": -82.358,
+    "country": "古巴",
+    "region": "美洲",
+    "quote": "去住到哈瓦那最好的飯店是凱冰斯基",
+    "context": "講者在古巴帶團時入住的五星級飯店"
+  }
+]

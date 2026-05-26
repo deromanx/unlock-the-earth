@@ -1,0 +1,52 @@
+[
+  {
+    "name": "海牙皇家艺术学院（旧大楼）",
+    "name_en": "Royal Conservatoire of The Hague",
+    "lat": 52.081,
+    "lon": 4.334,
+    "country": "荷兰",
+    "region": "亞洲",
+    "quote": "他们以荷兰海牙黄追阿艺术学院的旧大楼作为战时的庇护所",
+    "context": "乌克兰芭蕾舞团战时的庇护所与日常训练地点"
+  },
+  {
+    "name": "台北流行音乐中心",
+    "name_en": "Taipei Music Center",
+    "lat": 25.052,
+    "lon": 121.597,
+    "country": "台湾",
+    "region": "亞洲",
+    "quote": "地点在台北流行音乐中心",
+    "context": "乌克兰联合芭蕾舞团《战时晚歌》台湾演出场地"
+  },
+  {
+    "name": "解放广场",
+    "name_en": "Tahrir Square",
+    "lat": 30.044,
+    "lon": 31.235,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "解放广场是他们算是抗争的一个一个重大地点",
+    "context": "茉莉花革命抗争中心，也是受访者首部舞蹈作品的灵感来源"
+  },
+  {
+    "name": "水源剧场",
+    "name_en": "Wellspring Theater",
+    "lat": 25.013,
+    "lon": 121.536,
+    "country": "台湾",
+    "region": "亞洲",
+    "quote": "在台北的水源剧场",
+    "context": "受访者舞蹈作品《多情城市》在台北的演出地点"
+  },
+  {
+    "name": "台江剧场",
+    "name_en": "Taijiang Theater",
+    "lat": 23.045,
+    "lon": 120.182,
+    "country": "台湾",
+    "region": "亞洲",
+    "quote": "然后在台南的台江剧场",
+    "context": "受访者舞蹈作品《多情城市》在台南的演出地点"
+  }
+]

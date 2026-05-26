@@ -1,0 +1,42 @@
+[
+  {
+    "name": "里沃利街 (含59號藝術聚落)",
+    "name_en": "Rue de Rivoli / 59 Rivoli",
+    "lat": 48.859,
+    "lon": 2.348,
+    "country": "法國",
+    "region": "歐洲",
+    "quote": "剛剛那條街就有移動 就是 房子 整個是 藝術家Squad",
+    "context": "介紹巴黎市中心知名的藝術家佔領空間"
+  },
+  {
+    "name": "巴黎地下墓穴",
+    "name_en": "Catacombs of Paris",
+    "lat": 48.834,
+    "lon": 2.332,
+    "country": "法國",
+    "region": "歐洲",
+    "quote": "你那個講的是在14區的一個地下墓穴博物館",
+    "context": "本集核心重點，講者分享在非法地下墓穴探險的經歷"
+  },
+  {
+    "name": "巴黎小環線鐵路",
+    "name_en": "La Petite Ceinture",
+    "lat": 48.825,
+    "lon": 2.335,
+    "country": "法國",
+    "region": "歐洲",
+    "quote": "巴黎郊區的隧道裡面 就是你要走進去一個幽暗的隧道 以前是火車的隧道嘛",
+    "context": "進入巴黎非法地下墓穴的途徑與廢棄地標"
+  },
+  {
+    "name": "空中巴士土魯斯總部",
+    "name_en": "Airbus Headquarters Toulouse",
+    "lat": 43.615,
+    "lon": 1.365,
+    "country": "法國",
+    "region": "歐洲",
+    "quote": "大家如果聽過Airbus空中發誓是在Toulouse",
+    "context": "提及土魯斯作為法國航空重鎮的代表地標"
+  }
+]

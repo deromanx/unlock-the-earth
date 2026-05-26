@@ -1,0 +1,42 @@
+[
+  {
+    "name": "哇咪那",
+    "name_en": "Wamena",
+    "lat": -4.094,
+    "lon": 138.95,
+    "country": "印尼",
+    "region": "亞洲",
+    "quote": "我去的那個城鎮叫哇咪那",
+    "context": "Ben前往探索食人族部落的起點城鎮，當地無網路訊號。"
+  },
+  {
+    "name": "吉巴馬",
+    "name_en": "Jibama",
+    "lat": -4.088,
+    "lon": 138.924,
+    "country": "印尼",
+    "region": "亞洲",
+    "quote": "那個公車站其實還蠻好玩的，他名字叫吉巴馬",
+    "context": "Ben為了前往深山部落而尋找的小巴公車站。"
+  },
+  {
+    "name": "蘇羅巴",
+    "name_en": "Suroba",
+    "lat": -4.015,
+    "lon": 138.945,
+    "country": "印尼",
+    "region": "亞洲",
+    "quote": "因為那個是我查到第一個是Suroba，S-U-R-O-B-A這個部落",
+    "context": "Ben造訪的第一個部落，在此與酋長互動並在茅草屋留宿。"
+  },
+  {
+    "name": "歐比亞",
+    "name_en": "Obia / Ovia",
+    "lat": -3.955,
+    "lon": 138.932,
+    "country": "印尼",
+    "region": "亞洲",
+    "quote": "第二個就是歐比亞",
+    "context": "Ben造訪的第二個部落，高度觀光化，設有巨型衛星網路。"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "name": "永珍凱旋門",
+    "name_en": "Patuxai",
+    "lat": 17.971,
+    "lon": 102.618,
+    "country": "寮國",
+    "region": "亞洲",
+    "quote": "就是我们在节目中讲到永珍凯旋门大家还记得吗",
+    "context": "更正前一集關於其建造歷史與命名的背景資訊"
+  },
+  {
+    "name": "聖母百花大教堂",
+    "name_en": "Cattedrale di Santa Maria del Fiore",
+    "lat": 43.773,
+    "lon": 11.256,
+    "country": "義大利",
+    "region": "歐洲",
+    "quote": "他最重要的景点就是圣母百花大教堂",
+    "context": "本集核心景點，介紹其特殊圓頂設計與漫長建造歷史"
+  },
+  {
+    "name": "喬托鐘樓",
+    "name_en": "Giotto's Campanile",
+    "lat": 43.773,
+    "lon": 11.255,
+    "country": "義大利",
+    "region": "歐洲",
+    "quote": "你可以到他隔壁有个叫桥托钟楼然后去眺望那个隔壁的那个圆顶",
+    "context": "眺望聖母百花大教堂圓頂的最佳地點"
+  },
+  {
+    "name": "維奇奧宮",
+    "name_en": "Palazzo Vecchio",
+    "lat": 43.769,
+    "lon": 11.256,
+    "country": "義大利",
+    "region": "歐洲",
+    "quote": "那还包括了一个很有名的叫做维奇奥宫",
+    "context": "佛羅倫斯市政廳，歷史悠久且仍在運作的古蹟"
+  },
+  {
+    "name": "佛羅倫斯學院美術館",
+    "name_en": "Galleria dell'Accademia",
+    "lat": 43.776,
+    "lon": 11.258,
+    "country": "義大利",
+    "region": "歐洲",
+    "quote": "就把他移到佛伦斯的美术学院的博物馆里面",
+    "context": "存放米開朗基羅大衛像真跡的博物館"
+  },
+  {
+    "name": "領主廣場",
+    "name_en": "Piazza della Signoria",
+    "lat": 43.769,
+    "lon": 11.256,
+    "country": "義大利",
+    "region": "歐洲",
+    "quote": "大家决定把那个雕像放在那个市政厅的门口",
+    "context": "大衛像原本擺放的露天廣場（目前放有複製品）"
+  }
+]

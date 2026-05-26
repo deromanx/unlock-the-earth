@@ -1,0 +1,122 @@
+[
+  {
+    "name": "北賽福樂斯",
+    "name_en": "Northern Cyprus",
+    "lat": 35.316,
+    "lon": 33.65,
+    "country": "賽普勒斯",
+    "region": "歐洲",
+    "quote": "進攻塞浦勒斯然後最後站了就是北半邊所以就現在北半邊就是北塞浦勒斯",
+    "context": "土耳其入侵後佔領區域"
+  },
+  {
+    "name": "南賽福樂斯",
+    "name_en": "Southern Cyprus",
+    "lat": 34.85,
+    "lon": 33.15,
+    "country": "賽普勒斯",
+    "region": "歐洲",
+    "quote": "南賽浦斯就是歐盟的成績",
+    "context": "賽普勒斯共和國領土"
+  },
+  {
+    "name": "聯合國緩衝區",
+    "name_en": "UN Buffer Zone (Green Line)",
+    "lat": 35.158,
+    "lon": 33.376,
+    "country": "賽普勒斯",
+    "region": "歐洲",
+    "quote": "聯合國就介入了...所以現在塞浦勒斯有一個就是聯合國管區就是緩衝區的感覺",
+    "context": "聯合國維持和平緩衝地帶"
+  },
+  {
+    "name": "英國軍事基地 (阿克羅蒂里與德凱利亞)",
+    "name_en": "British Sovereign Base Areas (Akrotiri and Dhekelia)",
+    "lat": 34.6,
+    "lon": 32.883,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "英國可能跟他們談一些條件...他可以佔你幾個地方就是蓋他的軍事機器這樣",
+    "context": "英國在賽普勒斯的保留領地"
+  },
+  {
+    "name": "尼古斯亞",
+    "name_en": "Nicosia",
+    "lat": 35.166,
+    "lon": 33.366,
+    "country": "賽普勒斯",
+    "region": "歐洲",
+    "quote": "基本上他們首都叫尼古斯亞然後就是一分為二",
+    "context": "賽普勒斯被分裂的首都"
+  },
+  {
+    "name": "拉納卡",
+    "name_en": "Larnaca",
+    "lat": 34.916,
+    "lon": 33.633,
+    "country": "賽普勒斯",
+    "region": "歐洲",
+    "quote": "我是到Lanaga然後在那邊住",
+    "context": "主持人居住的城市"
+  },
+  {
+    "name": "巴佛斯",
+    "name_en": "Paphos",
+    "lat": 34.783,
+    "lon": 32.416,
+    "country": "賽普勒斯",
+    "region": "歐洲",
+    "quote": "在那個賽普洛斯南部有一個城市叫巴佛斯",
+    "context": "愛神誕生地附近的城市"
+  },
+  {
+    "name": "愛神誕生地",
+    "name_en": "Petra tou Romiou (Aphrodite's Rock)",
+    "lat": 34.665,
+    "lon": 32.628,
+    "country": "賽普勒斯",
+    "region": "歐洲",
+    "quote": "巴佛斯附近有一個海灘然後據說那個是愛神誕生的地方",
+    "context": "希臘神話愛神誕生之處"
+  },
+  {
+    "name": "北賽羅馬遺址 (薩拉米斯古城)",
+    "name_en": "Salamis Ancient City",
+    "lat": 35.21,
+    "lon": 33.91,
+    "country": "賽普勒斯",
+    "region": "歐洲",
+    "quote": "去北塞的時候我們第一個是先拉倒一個羅馬遺址",
+    "context": "北賽普勒斯的重要羅馬遺跡"
+  },
+  {
+    "name": "羅馬劇場",
+    "name_en": "Roman Theater",
+    "lat": 35.21,
+    "lon": 33.908,
+    "country": "賽普勒斯",
+    "region": "歐洲",
+    "quote": "它有劇場",
+    "context": "北賽羅馬遺址內的劇場"
+  },
+  {
+    "name": "羅馬澡堂",
+    "name_en": "Roman Baths",
+    "lat": 35.209,
+    "lon": 33.909,
+    "country": "賽普勒斯",
+    "region": "歐洲",
+    "quote": "還有澡堂這樣",
+    "context": "北賽羅馬遺址內的澡堂"
+  },
+  {
+    "name": "聖巴拿巴修道院",
+    "name_en": "Saint Barnabas Monastery",
+    "lat": 35.151,
+    "lon": 33.82,
+    "country": "賽普勒斯",
+    "region": "歐洲",
+    "quote": "聖人的那個教堂那可是他變博物館",
+    "context": "北賽東正教創始人遺址"
+  }
+]
