@@ -157,6 +157,14 @@ def extract_landmarks(ep_num, prompt_template=GEMINI_PROMPT_TEMPLATE, min_releva
         print(f"  JSON string: {json_str[:300]}")
         return False
 
+    # 長逐字稿卻回傳空陣列，多半是模型偶發失誤：視為失敗以便重跑，並留存原始輸出供排查
+    if not landmarks and len(text) > 5000:
+        debug_path = ROOT / 'logs' / f"empty_ep{ep_num:03d}_{GEMINI_MODEL}.txt"
+        debug_path.parent.mkdir(exist_ok=True)
+        debug_path.write_text(result.stdout, encoding='utf-8')
+        print(f"  Ep.{ep_num}: 長逐字稿卻回傳 0 個地標，視為失敗（原始輸出：{debug_path.name}）")
+        return False
+
     # Validate and clean entries
     valid = []
     for lm in landmarks:
