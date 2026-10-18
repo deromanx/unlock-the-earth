@@ -5393,8 +5393,8 @@
       },
       {
         "ep": 87,
-        "quote": "我在諾魯的時候，那時候我不知道大家知不知道諾魯一個小島國，在南太平洋",
-        "context": "前大使在此國的經驗，描述其地理大小與專案",
+        "quote": "那反正就是這個1萬人左右的一個國家",
+        "context": "秘書長曾任駐諾魯大使，分享養豬與蔬菜計畫經驗",
         "source": "transcript"
       }
     ],
@@ -6198,22 +6198,6 @@
         "ep": 269,
         "quote": "它叫The Commons，它在一箇舊法院裡面",
         "context": "舊法院內的咖啡廳，甜點咖啡好吃",
-        "source": "transcript"
-      }
-    ]
-  },
-  {
-    "name": "Vitocha大道",
-    "name_en": "Vitocha Boulevard",
-    "lat": 42.69,
-    "lon": 23.319,
-    "country": "保加利亞",
-    "region": "歐洲",
-    "appearances": [
-      {
-        "ep": 24,
-        "quote": "一條叫做Vitocha Boulevard，就是Vitocha大道",
-        "context": "索菲亞主要行人徒步區",
         "source": "transcript"
       }
     ]
@@ -7837,22 +7821,6 @@
         "ep": 188,
         "quote": "你會去到一個地方叫做諸羅紀海岸",
         "context": "化石豐富的世界自然遺產海岸",
-        "source": "transcript"
-      }
-    ]
-  },
-  {
-    "name": "保加利亞玫瑰谷",
-    "name_en": "Rose Valley, Bulgaria",
-    "lat": 42.6,
-    "lon": 24.8,
-    "country": "保加利亞",
-    "region": "歐洲",
-    "appearances": [
-      {
-        "ep": 24,
-        "quote": "保加利亞大概最有名就是玫瑰，玫瑰，玫瑰金油產品",
-        "context": "保加利亞玫瑰產區",
         "source": "transcript"
       }
     ]
@@ -12644,17 +12612,17 @@
     ]
   },
   {
-    "name": "大特",
+    "name": "大特爾諾沃",
     "name_en": "Veliko Tarnovo",
-    "lat": 43.0758,
-    "lon": 25.631,
+    "lat": 43.0757,
+    "lon": 25.6172,
     "country": "保加利亞",
     "region": "歐洲",
     "appearances": [
       {
         "ep": 24,
-        "quote": "Villicle Tarnovo，Villicle就是Great Grand就是偉大的意思",
-        "context": "前首都，有古堡燈光秀",
+        "quote": "大特是在遷都索菲亞之前的首都",
+        "context": "奧圖曼前的古都，古堡光雕秀",
         "source": "transcript"
       }
     ]
@@ -14036,22 +14004,6 @@
     ]
   },
   {
-    "name": "實驗小學",
-    "name_en": "Experimental School",
-    "lat": 49.45,
-    "lon": 18.15,
-    "country": "捷克",
-    "region": "歐洲",
-    "appearances": [
-      {
-        "ep": 194,
-        "quote": "所以那時候就找到了 這一間 找到了一間實驗小學",
-        "context": "志工地點，一群媽媽籌組的學校",
-        "source": "transcript"
-      }
-    ]
-  },
-  {
     "name": "小佩特拉",
     "name_en": "Little Petra",
     "lat": 30.395,
@@ -14796,22 +14748,6 @@
     ]
   },
   {
-    "name": "巴拉維茨",
-    "name_en": "Balavitz",
-    "lat": 42.262,
-    "lon": 23.575,
-    "country": "保加利亞",
-    "region": "歐洲",
-    "appearances": [
-      {
-        "ep": 24,
-        "quote": "另一個叫做Balavitz，就是一個落敗的地方",
-        "context": "較便宜的滑雪勝地",
-        "source": "transcript"
-      }
-    ]
-  },
-  {
     "name": "巴拉頓湖",
     "name_en": "Lake Balaton",
     "lat": 46.83,
@@ -15511,6 +15447,23 @@
     ]
   },
   {
+    "name": "布爾諾",
+    "name_en": "Brno",
+    "lat": 49.195,
+    "lon": 16.608,
+    "country": "捷克",
+    "region": "歐洲",
+    "appearances": [
+      {
+        "ep": 194,
+        "quote": "就是一個大學城 他叫 Berno",
+        "context": "捷克大學城，藝文活動多，未前往",
+        "source": "transcript"
+      }
+    ],
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Brno_Montage_IV.png/330px-Brno_Montage_IV.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
     "name": "布特林特",
     "name_en": "Butrint",
     "lat": 39.746,
@@ -16175,22 +16128,6 @@
       }
     ],
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Kom_Ombo_Portal_04.jpg/330px-Kom_Ombo_Portal_04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "廢棄小麥工廠",
-    "name_en": "Abandoned Wheat Factory",
-    "lat": 49.5,
-    "lon": 18.2,
-    "country": "捷克",
-    "region": "歐洲",
-    "appearances": [
-      {
-        "ep": 194,
-        "quote": "他們的目的地是一個 是一個小麥工廠",
-        "context": "探險營的終點，荒廢的獨特建築",
-        "source": "transcript"
-      }
-    ]
   },
   {
     "name": "廣島",
@@ -17348,6 +17285,22 @@
     ]
   },
   {
+    "name": "捷克東部山區實驗小學",
+    "name_en": "Experimental School in the Czech-Slovak Borderlands",
+    "lat": 49.1,
+    "lon": 17.9,
+    "country": "捷克",
+    "region": "歐洲",
+    "appearances": [
+      {
+        "ep": 194,
+        "quote": "在深山裡的實驗小學",
+        "context": "由媽媽們創辦，主持人志工三週的學校",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
     "name": "捷運府中站",
     "name_en": "Fuzhong MRT Station",
     "lat": 25.008,
@@ -17768,6 +17721,22 @@
     ]
   },
   {
+    "name": "斯洛伐克邊境",
+    "name_en": "Czech–Slovak Border",
+    "lat": 48.85,
+    "lon": 17.6,
+    "country": "捷克",
+    "region": "歐洲",
+    "appearances": [
+      {
+        "ep": 194,
+        "quote": "他其實坐個火車大概二十幾分鍾就可以過了",
+        "context": "學校位於捷克與斯洛伐克交界附近",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
     "name": "斯特魯維測地弧",
     "name_en": "Struve Geodetic Arc",
     "lat": 53.97,
@@ -18142,22 +18111,6 @@
     ]
   },
   {
-    "name": "普洛蒂夫",
-    "name_en": "Plovdiv",
-    "lat": 42.14,
-    "lon": 24.75,
-    "country": "保加利亞",
-    "region": "歐洲",
-    "appearances": [
-      {
-        "ep": 24,
-        "quote": "它是保加利亞的第二大城，第三大城",
-        "context": "歐洲文化首都，日式養老村",
-        "source": "transcript"
-      }
-    ]
-  },
-  {
     "name": "普爾",
     "name_en": "Poole",
     "lat": 50.715,
@@ -18169,6 +18122,22 @@
         "ep": 188,
         "quote": "普爾跟博文毛斯其實是一個都會區",
         "context": "港口與海灣，奧運帆船比賽地",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "name": "普羅夫迪夫",
+    "name_en": "Plovdiv",
+    "lat": 42.1354,
+    "lon": 24.7453,
+    "country": "保加利亞",
+    "region": "歐洲",
+    "appearances": [
+      {
+        "ep": 24,
+        "quote": "Ploftif的話我覺得算是你真的感覺到保加利亞式的建築",
+        "context": "第二大城，歐洲文化首都，有日本養老村",
         "source": "transcript"
       }
     ]
@@ -18463,22 +18432,6 @@
       }
     ],
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/MzuzuMalawi.JPG/330px-MzuzuMalawi.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "未受管轄城堡",
-    "name_en": "Ungoverned Castle",
-    "lat": 49.55,
-    "lon": 18.25,
-    "country": "捷克",
-    "region": "歐洲",
-    "appearances": [
-      {
-        "ep": 194,
-        "quote": "他們的目的地是走到一個沒有被政府管理的城堡",
-        "context": "探險營目的地，無需入場費",
-        "source": "transcript"
-      }
-    ]
   },
   {
     "name": "本鄉",
@@ -22288,15 +22241,15 @@
   {
     "name": "班斯科",
     "name_en": "Bansko",
-    "lat": 41.835,
-    "lon": 23.475,
+    "lat": 41.8386,
+    "lon": 23.4885,
     "country": "保加利亞",
     "region": "歐洲",
     "appearances": [
       {
         "ep": 24,
-        "quote": "他有兩大滑雪存一個叫Bansko，是比較貴的",
-        "context": "主要滑雪勝地，較昂貴",
+        "quote": "一個叫Bansko是比較貴的",
+        "context": "熱門滑雪勝地，價格偏高",
         "source": "transcript"
       }
     ]
@@ -22431,17 +22384,17 @@
     ]
   },
   {
-    "name": "瑟迪卡",
-    "name_en": "Serdika",
-    "lat": 42.694,
-    "lon": 23.324,
+    "name": "瑟迪卡捷運站",
+    "name_en": "Serdica Metro Station",
+    "lat": 42.7021,
+    "lon": 23.322,
     "country": "保加利亞",
     "region": "歐洲",
     "appearances": [
       {
         "ep": 24,
-        "quote": "中央的一個捷運站叫做瑟迪卡，瑟迪卡他其實是一個羅馬名的古城",
-        "context": "古羅馬古城遺址，捷運站博物館",
+        "quote": "他們的中央的一個捷運站叫做瑟迪卡",
+        "context": "捷運站內保留羅馬古城遺跡，宛如半開放博物館",
         "source": "transcript"
       }
     ]
@@ -22726,15 +22679,15 @@
   {
     "name": "瓦爾納",
     "name_en": "Varna",
-    "lat": 43.2091,
+    "lat": 43.2141,
     "lon": 27.9147,
     "country": "保加利亞",
     "region": "歐洲",
     "appearances": [
       {
         "ep": 24,
-        "quote": "Varna，它是在東邊靠黑海的地方",
-        "context": "黑海沿岸度假聖地",
+        "quote": "它是在東邊靠黑海的地方",
+        "context": "黑海度假勝地，海灘觀光城市",
         "source": "transcript"
       }
     ]
@@ -24571,15 +24524,15 @@
   {
     "name": "索菲亞",
     "name_en": "Sofia",
-    "lat": 42.6977,
-    "lon": 23.3219,
+    "lat": 42.698,
+    "lon": 23.322,
     "country": "保加利亞",
     "region": "歐洲",
     "appearances": [
       {
         "ep": 24,
-        "quote": "主要是在首都",
-        "context": "保加利亞首都，討論其生活、文化、建築",
+        "quote": "大部分時間在Sophia",
+        "context": "主講者工作駐點，首都，物價、交通與生活細節",
         "source": "transcript"
       }
     ]
@@ -24587,15 +24540,15 @@
   {
     "name": "索菲亞大學",
     "name_en": "Sofia University",
-    "lat": 42.6965,
-    "lon": 23.327,
+    "lat": 42.6936,
+    "lon": 23.3345,
     "country": "保加利亞",
     "region": "歐洲",
     "appearances": [
       {
         "ep": 24,
-        "quote": "索菲亞大學前面，索菲亞大學圖書館前面有一尊雕像",
-        "context": "提及與文字節相關的雕像",
+        "quote": "索菲亞大學圖書館前面有一尊雕像",
+        "context": "校前有希裡爾兄弟雕像",
         "source": "transcript"
       }
     ]
@@ -24729,6 +24682,23 @@
       }
     ],
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Victoria_and_Albert_Museum_Logo.svg/330px-Victoria_and_Albert_Museum_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "維托沙大道",
+    "name_en": "Vitosha Boulevard",
+    "lat": 42.6925,
+    "lon": 23.319,
+    "country": "保加利亞",
+    "region": "歐洲",
+    "appearances": [
+      {
+        "ep": 24,
+        "quote": "它最主要有一條叫做Vitocha Boulevard",
+        "context": "索菲亞唯一行人徒步區，外國人聚集",
+        "source": "transcript"
+      }
+    ],
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Vitosha_boulevard%2C_Sofia.jpg/330px-Vitosha_boulevard%2C_Sofia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "維格蘭雕塑公園",
@@ -27064,6 +27034,22 @@
         "ep": 107,
         "quote": "叫如威尼的地方",
         "context": "距首都車程二三十分鐘，有賭場、SPA、電影院的娛樂區",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "name": "荒廢水力磨坊",
+    "name_en": "Abandoned Watermill",
+    "lat": 49.12,
+    "lon": 17.95,
+    "country": "捷克",
+    "region": "歐洲",
+    "appearances": [
+      {
+        "ep": 194,
+        "quote": "深山裡面有小麥工廠",
+        "context": "探險營闖入的荒廢水力小麥磨坊",
         "source": "transcript"
       }
     ]
@@ -29790,32 +29776,33 @@
   },
   {
     "name": "里拉七湖",
-    "name_en": "Rila Seven Lakes",
-    "lat": 42.1544,
-    "lon": 23.3737,
+    "name_en": "Seven Rila Lakes",
+    "lat": 42.2056,
+    "lon": 23.3228,
     "country": "保加利亞",
     "region": "歐洲",
     "appearances": [
       {
         "ep": 24,
-        "quote": "有一個地方叫做里拉七湖 Rila Seven Lakes",
-        "context": "自然景觀，高山湖泊健行",
+        "quote": "有一個地方叫做里拉七湖",
+        "context": "高山湖泊健行路線，可從索菲亞一日遊",
         "source": "transcript"
       }
-    ]
+    ],
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Vr-ezeren-pan-sm.jpg/330px-Vr-ezeren-pan-sm.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "里拉修道院",
     "name_en": "Rila Monastery",
-    "lat": 42.131,
-    "lon": 23.3197,
+    "lat": 42.1334,
+    "lon": 23.34,
     "country": "保加利亞",
     "region": "歐洲",
     "appearances": [
       {
         "ep": 24,
-        "quote": "很有名的里拉修道院，同一個山群這樣子",
-        "context": "里拉七湖同山群，重要宗教場所",
+        "quote": "在里拉很有名的里拉修道院同一個山群這樣子",
+        "context": "與七湖同一山群的知名修道院",
         "source": "transcript"
       }
     ]
@@ -31548,6 +31535,22 @@
     ]
   },
   {
+    "name": "風箏平原觀景臺",
+    "name_en": "Open Plain Viewpoint",
+    "lat": 49.11,
+    "lon": 17.93,
+    "country": "捷克",
+    "region": "歐洲",
+    "appearances": [
+      {
+        "ep": 194,
+        "quote": "那就是一片廣闊的平原這樣 然後又有一個觀景臺",
+        "context": "探險營途中放風箏的開闊平原",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
     "name": "風車劇院",
     "name_en": "Windmill Theatre",
     "lat": 51.5107,
@@ -32308,6 +32311,23 @@
         "source": "transcript"
       }
     ]
+  },
+  {
+    "name": "鮑羅維茨",
+    "name_en": "Borovets",
+    "lat": 42.2681,
+    "lon": 23.6068,
+    "country": "保加利亞",
+    "region": "歐洲",
+    "appearances": [
+      {
+        "ep": 24,
+        "quote": "另外一個叫做Balavitz",
+        "context": "較便宜的滑雪勝地，索菲亞出發一日遊",
+        "source": "transcript"
+      }
+    ],
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/The_Rila_Hotel_Facade.jpg/330px-The_Rila_Hotel_Facade.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "鯨魚之路",

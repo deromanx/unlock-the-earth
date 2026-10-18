@@ -1,32 +1,53 @@
 [
   {
-    "name": "實驗小學",
-    "name_en": "Experimental School",
-    "lat": 49.45,
-    "lon": 18.15,
+    "name": "布爾諾",
+    "name_en": "Brno",
+    "lat": 49.195,
+    "lon": 16.608,
     "country": "捷克",
     "region": "歐洲",
-    "quote": "所以那時候就找到了 這一間 找到了一間實驗小學",
-    "context": "志工地點，一群媽媽籌組的學校"
+    "quote": "就是一个大学城 他叫 Berno",
+    "context": "捷克大學城，艺文活動多，未前往",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Brno_Montage_IV.png/330px-Brno_Montage_IV.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "廢棄小麥工廠",
-    "name_en": "Abandoned Wheat Factory",
-    "lat": 49.5,
-    "lon": 18.2,
+    "name": "捷克東部山區實驗小學",
+    "name_en": "Experimental School in the Czech-Slovak Borderlands",
+    "lat": 49.1,
+    "lon": 17.9,
     "country": "捷克",
     "region": "歐洲",
-    "quote": "他們的目的地是一個 是一個小麥工廠",
-    "context": "探險營的終點，荒廢的獨特建築"
+    "quote": "在深山里的实验小学",
+    "context": "由媽媽們創辦，主持人志工三週的學校"
   },
   {
-    "name": "未受管轄城堡",
-    "name_en": "Ungoverned Castle",
-    "lat": 49.55,
-    "lon": 18.25,
+    "name": "荒廢水力磨坊",
+    "name_en": "Abandoned Watermill",
+    "lat": 49.12,
+    "lon": 17.95,
     "country": "捷克",
     "region": "歐洲",
-    "quote": "他們的目的地是走到一個沒有被政府管理的城堡",
-    "context": "探險營目的地，無需入場費"
+    "quote": "深山里面有小麦工厂",
+    "context": "探險營闖入的荒廢水力小麥磨坊"
+  },
+  {
+    "name": "風箏平原觀景台",
+    "name_en": "Open Plain Viewpoint",
+    "lat": 49.11,
+    "lon": 17.93,
+    "country": "捷克",
+    "region": "歐洲",
+    "quote": "那就是一片广阔的平原这样 然后又有一个观景台",
+    "context": "探險營途中放風箏的開闊平原"
+  },
+  {
+    "name": "斯洛伐克邊境",
+    "name_en": "Czech–Slovak Border",
+    "lat": 48.85,
+    "lon": 17.6,
+    "country": "捷克",
+    "region": "歐洲",
+    "quote": "他其实坐个火车大概二十几分钟就可以过了",
+    "context": "學校位於捷克與斯洛伐克交界附近"
   }
 ]
