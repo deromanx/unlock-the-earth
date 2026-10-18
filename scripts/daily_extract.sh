@@ -41,5 +41,5 @@ git add data/episode_landmarks data/landmarks_global.json data/image_cache.json 
 if git diff --cached --quiet; then
   echo "  無變更"
 else
-  git commit -q -m "data: 地標每日重跑批次 $(date +%Y-%m-%d)" && git pull -q --rebase && git push -q && echo "  ✓ push 完成"
+  git commit -q -m "data: 地標每日重跑批次 $(date +%Y-%m-%d)" && git pull -q --rebase --autostash && git push -q && echo "  ✓ push 完成"
 fi
