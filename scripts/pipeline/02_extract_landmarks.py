@@ -102,6 +102,11 @@ def get_available_eps():
         m = re.match(r'ep(\d+)\.txt', f.name)
         if m:
             eps.append(int(m.group(1)))
+    # 只處理 RSS 裡真實存在的集數（ep999 是測試用假逐字稿）
+    ep_f = ROOT / 'data' / 'episodes.json'
+    if ep_f.exists():
+        real = {e.get('episode') for e in json.loads(ep_f.read_text(encoding='utf-8'))}
+        eps = [e for e in eps if e in real]
     return sorted(eps)
 
 def extract_landmarks(ep_num, prompt_template=GEMINI_PROMPT_TEMPLATE, min_relevance=2):
@@ -142,7 +147,7 @@ def extract_landmarks(ep_num, prompt_template=GEMINI_PROMPT_TEMPLATE, min_releva
         err = str(meta.get('result', ''))
         if result.returncode != 0 or meta.get('is_error'):
             print(f"  Claude error: {err[:200]}")
-            if re.search(r'usage limit|limit reached|rate limit|429', err, re.I):
+            if re.search(r'usage limit|session limit|hit your .*limit|limit reached|rate limit|429', err, re.I):
                 raise QuotaExceeded(err[:200])
             return False
         u = meta.get('usage', {})

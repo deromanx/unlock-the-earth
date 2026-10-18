@@ -829,41 +829,6 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Pyramids_of_the_Giza_Necropolis.jpg/330px-Pyramids_of_the_Giza_Necropolis.jpg"
   },
   {
-    "name": "大英博物館",
-    "name_en": "British Museum",
-    "lat": 51.519,
-    "lon": -0.154,
-    "country": "英國",
-    "region": "歐洲",
-    "appearances": [
-      {
-        "ep": 22,
-        "quote": "大英博物館就是三十幾個文物",
-        "context": "導覽員考試需準備的景點之一，內容豐富",
-        "source": "transcript"
-      },
-      {
-        "ep": 23,
-        "quote": "就是在大英博物館裡面的復活島石雕",
-        "context": "討論文物歸還爭議",
-        "source": "transcript"
-      },
-      {
-        "ep": 266,
-        "quote": "在辣英博物館辦了一個有關緬甸的文化展覽",
-        "context": "提及在此舉辦了有關緬甸獨立和文化傳承的展覽",
-        "source": "transcript"
-      },
-      {
-        "ep": 999,
-        "quote": "首先參觀的是大英博物館，英文叫做British Museum",
-        "context": "節目行程的第一站，參觀知名博物館",
-        "source": "transcript"
-      }
-    ],
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/British_Museum_from_NE_2.JPG/330px-British_Museum_from_NE_2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
     "name": "巴黎",
     "name_en": "Paris",
     "lat": 48.8566,
@@ -1872,6 +1837,35 @@
     ]
   },
   {
+    "name": "大英博物館",
+    "name_en": "British Museum",
+    "lat": 51.519,
+    "lon": -0.154,
+    "country": "英國",
+    "region": "歐洲",
+    "appearances": [
+      {
+        "ep": 22,
+        "quote": "大英博物館就是三十幾個文物",
+        "context": "導覽員考試需準備的景點之一，內容豐富",
+        "source": "transcript"
+      },
+      {
+        "ep": 23,
+        "quote": "就是在大英博物館裡面的復活島石雕",
+        "context": "討論文物歸還爭議",
+        "source": "transcript"
+      },
+      {
+        "ep": 266,
+        "quote": "在辣英博物館辦了一個有關緬甸的文化展覽",
+        "context": "提及在此舉辦了有關緬甸獨立和文化傳承的展覽",
+        "source": "transcript"
+      }
+    ],
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/British_Museum_from_NE_2.JPG/330px-British_Museum_from_NE_2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
     "name": "大金塔",
     "name_en": "Shwedagon Pagoda",
     "lat": 16.7981,
@@ -2182,34 +2176,6 @@
       }
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Ushuaia_aerial_panorama.jpg/330px-Ushuaia_aerial_panorama.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "特拉法加廣場",
-    "name_en": "Trafalgar Square",
-    "lat": 51.508,
-    "lon": -0.1281,
-    "country": "英國",
-    "region": "歐洲",
-    "appearances": [
-      {
-        "ep": 184,
-        "quote": "你就會走在特拉法加廣場底下的那個隧道",
-        "context": "其地下有廢棄地鐵隧道可導覽",
-        "source": "transcript"
-      },
-      {
-        "ep": 265,
-        "quote": "你就想這個整個廣場特拉法加廣場中間有一根巨大的這個雕像",
-        "context": "孫文演講場所周邊的倫敦中心廣場",
-        "source": "transcript"
-      },
-      {
-        "ep": 999,
-        "quote": "然後我們走到了特拉法加廣場，Trafalgar Square",
-        "context": "倫敦市中心重要的地標廣場",
-        "source": "transcript"
-      }
-    ]
   },
   {
     "name": "瓦哈卡",
@@ -2695,29 +2661,6 @@
         "source": "transcript"
       }
     ]
-  },
-  {
-    "name": "Bloomsbury",
-    "name_en": "Bloomsbury",
-    "lat": 51.5232,
-    "lon": -0.1267,
-    "country": "英國",
-    "region": "歐洲",
-    "appearances": [
-      {
-        "ep": 23,
-        "quote": "一群接近大英博物館那一群，叫Bloomsbury這一代的作家們",
-        "context": "文人聚集區，徐志摩可能互動",
-        "source": "transcript"
-      },
-      {
-        "ep": 999,
-        "quote": "就在布盧姆斯伯裡這個地區",
-        "context": "大英博物館所在的倫敦地區",
-        "source": "transcript"
-      }
-    ],
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/British_Museum_from_NE_2_%28cropped%29.JPG/330px-British_Museum_from_NE_2_%28cropped%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "三蘭港",
@@ -5031,6 +4974,28 @@
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Penghu_County_Montage.png/330px-Penghu_County_Montage.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
+    "name": "特拉法加廣場",
+    "name_en": "Trafalgar Square",
+    "lat": 51.508,
+    "lon": -0.1281,
+    "country": "英國",
+    "region": "歐洲",
+    "appearances": [
+      {
+        "ep": 184,
+        "quote": "你就會走在特拉法加廣場底下的那個隧道",
+        "context": "其地下有廢棄地鐵隧道可導覽",
+        "source": "transcript"
+      },
+      {
+        "ep": 265,
+        "quote": "你就想這個整個廣場特拉法加廣場中間有一根巨大的這個雕像",
+        "context": "孫文演講場所周邊的倫敦中心廣場",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
     "name": "特立尼達",
     "name_en": "Trinidad",
     "lat": 21.8031,
@@ -6678,6 +6643,23 @@
         "source": "transcript"
       }
     ]
+  },
+  {
+    "name": "Bloomsbury",
+    "name_en": "Bloomsbury",
+    "lat": 51.5232,
+    "lon": -0.1267,
+    "country": "英國",
+    "region": "歐洲",
+    "appearances": [
+      {
+        "ep": 23,
+        "quote": "一群接近大英博物館那一群，叫Bloomsbury這一代的作家們",
+        "context": "文人聚集區，徐志摩可能互動",
+        "source": "transcript"
+      }
+    ],
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/British_Museum_from_NE_2_%28cropped%29.JPG/330px-British_Museum_from_NE_2_%28cropped%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "Bunkart 2 碉堡博物館（市中心館）",
@@ -8943,22 +8925,6 @@
         "ep": 82,
         "quote": "另外還有一個很奇怪的小博物館離他不遠他叫做警察博物館",
         "context": "展示開膛手傑克檔案與芥末罐炸彈",
-        "source": "transcript"
-      }
-    ]
-  },
-  {
-    "name": "倫敦眼",
-    "name_en": "London Eye",
-    "lat": 51.5033,
-    "lon": -0.1195,
-    "country": "英國",
-    "region": "歐洲",
-    "appearances": [
-      {
-        "ep": 999,
-        "quote": "看到了倫敦眼，London Eye",
-        "context": "位於泰晤士河畔的著名摩天輪",
         "source": "transcript"
       }
     ]
@@ -14757,23 +14723,6 @@
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Puerto_Williams1.JPG/330px-Puerto_Williams1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "威斯敏斯特橋",
-    "name_en": "Westminster Bridge",
-    "lat": 51.5008,
-    "lon": -0.1216,
-    "country": "英國",
-    "region": "歐洲",
-    "appearances": [
-      {
-        "ep": 999,
-        "quote": "還有威斯敏斯特橋",
-        "context": "泰晤士河上的地標橋梁",
-        "source": "transcript"
-      }
-    ],
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Westminster_Bridge_and_Palace_of_Westminster.jpg/330px-Westminster_Bridge_and_Palace_of_Westminster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
     "name": "威爾康收藏館",
     "name_en": "Wellcome Collection",
     "lat": 51.5252,
@@ -16823,22 +16772,6 @@
         "ep": 30,
         "quote": "多瑙河的左邊這邊是叫做布達",
         "context": "布達佩斯的一部分，多瑙河左岸。",
-        "source": "transcript"
-      }
-    ]
-  },
-  {
-    "name": "布里克斯頓",
-    "name_en": "Brixton",
-    "lat": 51.4613,
-    "lon": -0.1156,
-    "country": "英國",
-    "region": "歐洲",
-    "appearances": [
-      {
-        "ep": 999,
-        "quote": "下午我們去了布里克斯頓，Brixton，這是倫敦著名的加勒比海社區，很有特色。",
-        "context": "本集重點介紹的加勒比海文化街區",
         "source": "transcript"
       }
     ]
@@ -25903,22 +25836,6 @@
       }
     ],
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Narvik_from_above.JPG/330px-Narvik_from_above.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "納爾遜紀念柱",
-    "name_en": "Nelson's Column",
-    "lat": 51.5077,
-    "lon": -0.1279,
-    "country": "英國",
-    "region": "歐洲",
-    "appearances": [
-      {
-        "ep": 999,
-        "quote": "這裡有納爾遜紀念柱，非常壯觀",
-        "context": "位於特拉法加廣場中央的紀念碑",
-        "source": "transcript"
-      }
-    ]
   },
   {
     "name": "紐約公咖啡館",

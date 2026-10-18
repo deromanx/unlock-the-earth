@@ -27,7 +27,7 @@ echo "[4/5] 進度"
 python3 - "$DONE_FILE" <<'EOF'
 import glob, json, os, sys
 done_set = {int(x) for x in open(sys.argv[1]).read().split()}
-tr = sorted(int(os.path.basename(f)[2:5]) for f in glob.glob('data/transcripts/ep[0-9][0-9][0-9].txt'))
+tr = sorted(e for e in (int(os.path.basename(f)[2:5]) for f in glob.glob('data/transcripts/ep[0-9][0-9][0-9].txt')) if e != 999)
 done = [e for e in tr if e in done_set]
 L = json.load(open('data/landmarks_global.json'))
 covered = {a['ep'] for l in L for a in l['appearances']}

@@ -116,6 +116,8 @@ def main():
                 ep_meta[ep['episode']] = ep
 
     available = get_available_eps()
+    if ep_meta:  # 排除不在 RSS 的集數（如測試用 ep999）
+        available = [e for e in available if e in ep_meta]
     if not available:
         print("No episode landmark files found. Run steps 2 and 3 first.")
         return
