@@ -35,7 +35,7 @@ Usage:
   python3 scripts/pipeline/04_build_landmarks.py
   python3 scripts/pipeline/04_build_landmarks.py --dry-run
 """
-import json, argparse, re, math
+import json, argparse, re, math, shutil, subprocess
 from pathlib import Path
 
 ROOT        = Path(__file__).parent.parent.parent
@@ -71,6 +71,30 @@ def names_match(a: dict, b: dict) -> bool:
 
     return False
 
+def to_traditional(landmarks: list[dict]) -> int:
+    """逐字稿是 Whisper 輸出的簡體字；用 OpenCC s2tw 轉為台灣繁體（只轉字形、不改用詞）。
+    須在合併前執行，否則「吴哥窟」與「吳哥窟」會被當成兩個地標。"""
+    opencc = shutil.which('opencc') or '/opt/homebrew/bin/opencc'
+    if not shutil.os.path.exists(opencc):
+        print("WARNING: 找不到 opencc（brew install opencc），略過繁體轉換")
+        return 0
+    slots = []  # (dict, key)
+    for lm in landmarks:
+        for k in ('name', 'country', 'quote', 'context'):
+            slots.append((lm, k))
+    text = '\n'.join((d.get(k) or '').replace('\n', ' ') for d, k in slots)
+    out = subprocess.run([opencc, '-c', 's2tw'], input=text, capture_output=True, text=True, check=True).stdout
+    lines = out.rstrip('\n').split('\n') if text else []
+    if len(lines) != len(slots):
+        print("WARNING: opencc 輸出行數不符，略過繁體轉換")
+        return 0
+    changed = 0
+    for (d, k), v in zip(slots, lines):
+        if (d.get(k) or '') != v and k in d:
+            d[k] = v
+            changed += 1
+    return changed
+
 def get_available_eps():
     eps = []
     for f in LM_DIR.glob("ep*.json"):
@@ -103,9 +127,11 @@ def main():
 
     total_appearances = 0
 
+    per_ep = {e: json.loads((LM_DIR / f"ep{e:03d}.json").read_text(encoding='utf-8')) for e in available}
+    print(f"繁體轉換：{to_traditional([lm for lms in per_ep.values() for lm in lms])} 個欄位")
+
     for ep_num in available:
-        path = LM_DIR / f"ep{ep_num:03d}.json"
-        lms = json.loads(path.read_text(encoding='utf-8'))
+        lms = per_ep[ep_num]
 
         for lm in lms:
             if not lm.get('name') or lm.get('lat') is None:

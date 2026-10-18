@@ -23,13 +23,23 @@ Usage:
   python3 scripts/pipeline/02_extract_landmarks.py --ep 266     # single episode
   python3 scripts/pipeline/02_extract_landmarks.py --start 200  # from ep 200
 """
-import json, os, subprocess, sys, argparse, re, time
+import json, os, subprocess, sys, argparse, re, time, tempfile
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 
 ROOT            = Path(__file__).parent.parent.parent
 TRANSCRIPT_DIR  = ROOT / 'data' / 'transcripts'
 OUTPUT_DIR      = ROOT / 'data' / 'episode_landmarks'
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+# Gemini CLI 會掃描 cwd 載入專案脈絡；在空目錄執行避免拖慢
+GEMINI_CWD      = tempfile.mkdtemp(prefix='gemini_cwd_')
+# 禁用工具：Gemini 會自行呼叫 google_web_search 查座標，一集吃掉多次請求、燒光每日免費額度
+_settings_dir = Path(GEMINI_CWD) / '.gemini'
+_settings_dir.mkdir()
+_NO_TOOLS = ['google_web_search', 'web_fetch', 'run_shell_command', 'read_file', 'read_many_files',
+             'list_directory', 'glob', 'search_file_content', 'write_file', 'replace', 'save_memory']
+(_settings_dir / 'settings.json').write_text(json.dumps({'tools': {'exclude': _NO_TOOLS}, 'excludeTools': _NO_TOOLS}))
+GEMINI_MODEL    = 'gemini-2.5-flash'
 
 REGIONS = ['亞洲', '歐洲', '美洲', '非洲', '大洋洲', '極地', '台灣']
 
@@ -66,14 +76,23 @@ GEMINI_PROMPT_TEMPLATE = """你是地理知識專家。以下是一集旅遊 Pod
 - 若逐字稿沒有提到具體地標，回傳空陣列 []
 - 排除：整個國家、整個城市（除非是小城市）、大陸洲際地名
 - 最多回傳 30 個地標（優先保留 relevance 2–3）
-- quote 必須是逐字稿中的原文，不要改寫
+- 不要使用任何工具或網路搜尋，座標直接依你的地理知識給出
+- quote 必須是逐字稿中的原文，不要改寫內容；但逐字稿若為簡體字，quote 一律轉為繁體中文（台灣用字）
+- name、country、context 一律使用繁體中文（台灣用字）
 
 逐字稿（集數 {ep_num}）：
 {transcript}
 """
 
-def already_done(ep_num):
-    return (OUTPUT_DIR / f"ep{ep_num:03d}.json").exists()
+class QuotaExceeded(Exception):
+    pass
+
+def already_done(ep_num, since=None):
+    path = OUTPUT_DIR / f"ep{ep_num:03d}.json"
+    if not path.exists():
+        return False
+    # --since：只把該時間點之後寫入的檔案視為完成（供 --force 全量重跑時續跑）
+    return since is None or path.stat().st_mtime >= since
 
 def get_available_eps():
     eps = []
@@ -93,22 +112,21 @@ def extract_landmarks(ep_num, prompt_template=GEMINI_PROMPT_TEMPLATE, min_releva
         output_path.write_text('[]', encoding='utf-8')
         return True
 
-    # Truncate very long transcripts to ~12000 chars to stay within Gemini context
-    if len(text) > 12000:
-        text = text[:12000] + "\n[... 逐字稿已截斷 ...]"
-
     prompt = prompt_template.format(ep_num=ep_num, transcript=text)
 
     # Clear NODE_OPTIONS to prevent Claude Code's temp file from breaking Gemini CLI
     clean_env = {k: v for k, v in os.environ.items() if k != 'NODE_OPTIONS'}
     try:
         result = subprocess.run(
-            ['gemini', '-m', 'gemini-2.5-flash', '--sandbox=false', '-p', prompt],
+            ['gemini', '-m', GEMINI_MODEL, '--sandbox=false', '-p', prompt],
             capture_output=True, text=True, timeout=300,
-            env=clean_env, input='\n',
+            env=clean_env, input='\n', cwd=GEMINI_CWD,
         )
         if result.returncode != 0:
-            print(f"  Gemini error: {result.stderr[:200]}")
+            err = result.stderr
+            print(f"  Gemini error: {err[:200]}")
+            if re.search(r'429|quota|RESOURCE_EXHAUSTED|rate limit', err, re.I):
+                raise QuotaExceeded(err[:200])
             return False
     except subprocess.TimeoutExpired:
         print(f"  Timeout for Ep.{ep_num}")
@@ -177,6 +195,7 @@ def extract_landmarks(ep_num, prompt_template=GEMINI_PROMPT_TEMPLATE, min_releva
     return True
 
 def main():
+    global GEMINI_MODEL
     parser = argparse.ArgumentParser()
     parser.add_argument('--ep',            type=int,   help='Single episode number')
     parser.add_argument('--start',         type=int,   default=1,   help='Start from episode number')
@@ -184,6 +203,9 @@ def main():
     parser.add_argument('--prompt-file',   type=str,   help='Path to a custom Gemini prompt template')
     parser.add_argument('--min-relevance', type=int,   default=2,   help='Filter out landmarks below this relevance (1–3, default 2)')
     parser.add_argument('--force',         action='store_true',     help='Reprocess even if output already exists')
+    parser.add_argument('--model',         type=str,   default=GEMINI_MODEL, help='Gemini model')
+    parser.add_argument('--workers',       type=int,   default=1,   help='Parallel Gemini calls')
+    parser.add_argument('--since',         type=float,              help='With --force: skip files written after this epoch time (resume)')
     args = parser.parse_args()
 
     custom_prompt = None
@@ -197,6 +219,7 @@ def main():
             sys.exit(1)
 
     prompt_template = custom_prompt if custom_prompt else GEMINI_PROMPT_TEMPLATE
+    GEMINI_MODEL = args.model
 
     available = get_available_eps()
     if not available:
@@ -210,19 +233,51 @@ def main():
     else:
         eps = [e for e in available if e >= args.start]
 
-    todo = [e for e in eps if args.force or not already_done(e)]
+    if args.force:
+        todo = [e for e in eps if args.since is not None and not already_done(e, args.since)] \
+            if args.since is not None else eps
+    else:
+        todo = [e for e in eps if not already_done(e)]
+
+    # 優先處理目前沒有任何地標資料的集數（檔案不存在或為空陣列）
+    def has_data(e):
+        f = OUTPUT_DIR / f"ep{e:03d}.json"
+        return f.exists() and f.read_text(encoding='utf-8').strip() not in ('', '[]')
+    todo.sort(key=lambda e: (has_data(e), e))
     print(f"To process: {len(todo)} (skipping {len(eps)-len(todo)} already done)\n")
 
     success = fail = 0
-    for i, ep_num in enumerate(todo):
-        print(f"[{i+1}/{len(todo)}] Ep.{ep_num}")
-        if extract_landmarks(ep_num, prompt_template, min_relevance=args.min_relevance):
-            success += 1
-        else:
-            fail += 1
-        if i < len(todo) - 1:
-            time.sleep(args.delay)
-        print()
+    failed = []
+    quota_hit = False
+
+    def run(ep_num):
+        if quota_hit:
+            return ep_num, None
+        time.sleep(args.delay)
+        return ep_num, extract_landmarks(ep_num, prompt_template, min_relevance=args.min_relevance)
+
+    with ThreadPoolExecutor(max_workers=args.workers) as pool:
+        futures = [pool.submit(run, e) for e in todo]
+        for i, fut in enumerate(as_completed(futures)):
+            try:
+                ep_num, ok = fut.result()
+            except QuotaExceeded:
+                quota_hit = True
+                continue
+            if ok is None:
+                continue
+            if ok:
+                success += 1
+            else:
+                fail += 1
+                failed.append(ep_num)
+            print(f"[{i+1}/{len(todo)}] Ep.{ep_num} {'ok' if ok else 'FAILED'}", flush=True)
+
+    if failed:
+        print(f"Failed: {sorted(failed)}")
+    if quota_hit:
+        print(f"\n✗ Gemini 配額用盡（{success} 成功、{fail} 失敗）。之後用同一個 --since 續跑。")
+        sys.exit(2)
 
     print(f"\n✓ Done: {success} succeeded, {fail} failed")
     print(f"Landmark files in: {OUTPUT_DIR}")

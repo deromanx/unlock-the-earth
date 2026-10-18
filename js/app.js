@@ -50,7 +50,7 @@ async function init() {
 
   let episodes, landmarks, locations;
   try {
-    const _v = '?v=20';
+    const _v = '?v=21';
     [episodes, landmarks, locations] = await Promise.all([
       fetch(`data/episodes.json${_v}`).then(r => r.json()),
       fetch(`data/landmarks_global.json${_v}`).then(r => r.json()).catch(() => []),
@@ -328,14 +328,19 @@ function renderEpisodeList(episodes) {
   // Sort by episode number desc
   const sorted = [...episodes].filter(e => e.episode).sort((a, b) => b.episode - a.episode);
 
+  // Count landmarks per episode once (a landmark counts once even if it appears twice in an episode)
+  const lmCountByEp = new Map();
+  for (const lm of allLandmarks) {
+    for (const epNum of new Set((lm.appearances || []).map(a => a.ep))) {
+      lmCountByEp.set(epNum, (lmCountByEp.get(epNum) || 0) + 1);
+    }
+  }
+
   const list = document.getElementById('episode-list');
   list.innerHTML = sorted.map(ep => {
     const img = ep.image || PODCAST_COVER;
     const date = ep.pubDate ? ep.pubDate.slice(0, 7) : '';
-    // Count landmarks for this episode
-    const lmCount = allLandmarks.filter(lm =>
-      (lm.appearances || []).some(a => a.ep === ep.episode)
-    ).length;
+    const lmCount = lmCountByEp.get(ep.episode) || 0;
 
     return `
       <div class="ep-card" data-ep="${ep.episode}" data-link="${ep.link || ''}">
@@ -1220,7 +1225,7 @@ function fixAntimeridian(geojson) {
 
 async function loadCountriesGeo() {
   if (countriesGeoCache) return countriesGeoCache;
-  const topo = await fetch('https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json').then(r => r.json());
+  const topo = await fetch('https://cdn.jsdelivr.net/npm/world-atlas@2.0.2/countries-110m.json').then(r => r.json());
   countriesGeoCache = fixAntimeridian(topojson.feature(topo, topo.objects.countries));
   return countriesGeoCache;
 }

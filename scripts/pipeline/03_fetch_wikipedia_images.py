@@ -22,6 +22,15 @@ from urllib.error import HTTPError, URLError
 
 ROOT        = Path(__file__).parent.parent.parent
 LM_DIR      = ROOT / 'data' / 'episode_landmarks'
+# 查詢結果快取（名稱 → 圖片 URL，查無則存空字串），重跑萃取後不必重打 Wikipedia
+CACHE_F     = ROOT / 'data' / 'image_cache.json'
+CACHE       = json.loads(CACHE_F.read_text(encoding='utf-8')) if CACHE_F.exists() else {}
+
+def cache_key(lm: dict) -> str:
+    return (lm.get('name_en') or '').strip().lower() or (lm.get('name') or '').strip()
+
+def save_cache():
+    CACHE_F.write_text(json.dumps(CACHE, ensure_ascii=False, indent=0, sort_keys=True), encoding='utf-8')
 
 WIKI_EN_API = "https://en.wikipedia.org/api/rest_v1/page/summary/{}"
 WIKI_ZH_API = "https://zh.wikipedia.org/api/rest_v1/page/summary/{}"
@@ -72,13 +81,19 @@ def process_episode(ep_num: int) -> bool:
     for lm in landmarks:
         if lm.get('image'):
             continue  # already has image
-        img = get_image_for_landmark(lm)
+        key = cache_key(lm)
+        if key in CACHE:
+            img = CACHE[key]
+        else:
+            img = get_image_for_landmark(lm)
+            CACHE[key] = img or ''
+            time.sleep(0.3)  # be polite to Wikipedia
         if img:
             lm['image'] = img
             changed += 1
-        time.sleep(0.3)  # be polite to Wikipedia
 
     path.write_text(json.dumps(landmarks, ensure_ascii=False, indent=2), encoding='utf-8')
+    save_cache()
     print(f"  ✓ Ep.{ep_num}: {changed}/{len(landmarks)} images fetched")
     return True
 
@@ -110,6 +125,7 @@ def main():
         eps = [e for e in available if e >= args.start]
 
     if args.force:
+        CACHE.clear()
         # Clear existing images
         for ep_num in eps:
             path = LM_DIR / f"ep{ep_num:03d}.json"
