@@ -1,12 +1,12 @@
 [
   {
-    "name": "德黑蘭街 (Tehrangeles)",
-    "name_en": "Tehrangeles / Westwood Boulevard",
-    "lat": 34.056,
-    "lon": -118.432,
+    "name": "德黑蘭街（洛杉磯）",
+    "name_en": "Tehrangeles (Westwood, Los Angeles)",
+    "lat": 34.06,
+    "lon": -118.445,
     "country": "美國",
     "region": "美洲",
     "quote": "然後甚至有那個地方叫做德黑蘭街的樣子",
-    "context": "洛杉磯大量伊朗移民聚居的街區"
+    "context": "洛杉磯伊朗移民聚居區，有伊朗音樂電台與流行音樂重鎮"
   }
 ]

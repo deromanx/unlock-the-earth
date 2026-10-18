@@ -1,62 +1,73 @@
 [
   {
-    "name": "基加利萬豪酒店",
-    "name_en": "Kigali Marriott Hotel",
-    "lat": -1.954,
-    "lon": 30.062,
+    "name": "基加利國際機場",
+    "name_en": "Kigali International Airport",
+    "lat": -1.968,
+    "lon": 30.135,
     "country": "盧安達",
     "region": "非洲",
-    "quote": "然后因为我住的是旺豪酒店",
-    "context": "講述剛抵達盧安達時入住的豪華飯店"
+    "quote": "他準備要降落首租Kigali的時候突然間兩個飛彈要射過來",
+    "context": "總統座機降落前被擊落，成為大屠殺導火線"
   },
   {
-    "name": "盧安達飯店 (千丘飯店)",
-    "name_en": "Hôtel des Mille Collines",
-    "lat": -1.947,
-    "lon": 30.062,
+    "name": "基加利種族滅絕紀念館",
+    "name_en": "Kigali Genocide Memorial",
+    "lat": -1.9306,
+    "lon": 30.0606,
     "country": "盧安達",
     "region": "非洲",
-    "quote": "而且加上后来我又知道 这个大屠杀事件有翻拍成电影 就是鲁安达饭店",
-    "context": "提及大屠殺事件被翻拍成著名電影的真實地點"
+    "quote": "他有一個紀念館我去看",
+    "context": "來賓參觀紀念館，見證大屠殺受難者故事"
+  },
+  {
+    "name": "千丘飯店",
+    "name_en": "Hôtel des Mille Collines",
+    "lat": -1.9497,
+    "lon": 30.0612,
+    "country": "盧安達",
+    "region": "非洲",
+    "quote": "這個大屠殺事件有翻拍成電影，就是盧安達飯店",
+    "context": "電影《盧安達飯店》原型，庇護圖西人"
+  },
+  {
+    "name": "阿魯沙",
+    "name_en": "Arusha",
+    "lat": -3.387,
+    "lon": 36.683,
+    "country": "坦尚尼亞",
+    "region": "非洲",
+    "quote": "他們有簽一簽叫阿魯莎協議",
+    "context": "阿魯沙協議簽署地，原訂組成聯合政府",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Arusha_City_view.jpg/330px-Arusha_City_view.jpg"
+  },
+  {
+    "name": "戈馬",
+    "name_en": "Goma",
+    "lat": -1.679,
+    "lon": 29.222,
+    "country": "剛果民主共和國",
+    "region": "非洲",
+    "quote": "我要去的剛好是在最東邊 在溝馬那邊",
+    "context": "來賓前往看大猩猩的剛果東部城市"
   },
   {
     "name": "維龍加國家公園",
     "name_en": "Virunga National Park",
-    "lat": -0.472,
-    "lon": 29.508,
+    "lat": -1.4,
+    "lon": 29.45,
     "country": "剛果民主共和國",
     "region": "非洲",
-    "quote": "所以我是透过那个 就是那个国家公园 黑猩猩的国家公园 帮我申请的",
-    "context": "前往剛果看黑猩猩的目的地，且協助辦理簽證"
+    "quote": "他是一個比利時王室贊助的",
+    "context": "來賓選擇在此看山地大猩猩，許可較便宜"
   },
   {
-    "name": "基加利國際機場",
-    "name_en": "Kigali International Airport",
-    "lat": -1.968,
-    "lon": 30.139,
+    "name": "火山國家公園",
+    "name_en": "Volcanoes National Park",
+    "lat": -1.4667,
+    "lon": 29.5,
     "country": "盧安達",
     "region": "非洲",
-    "quote": "然后他准备要降落首租Kigali的时候突然间两个飞弹要射过来",
-    "context": "前盧安達總統座機準備降落時遭飛彈擊落的發生地"
-  },
-  {
-    "name": "比利時維和部隊紀念碑",
-    "name_en": "Camp Kigali Belgian Monument",
-    "lat": -1.944,
-    "lon": 30.057,
-    "country": "盧安達",
-    "region": "非洲",
-    "quote": "所以我那时候去还有一个纪念馆是纪念当时的那个战争的就被杀掉的比利时",
-    "context": "紀念盧安達大屠殺初期被殺害的比利時維和部隊士兵"
-  },
-  {
-    "name": "基加利大屠殺紀念館",
-    "name_en": "Kigali Genocide Memorial",
-    "lat": -1.93,
-    "lon": 30.06,
-    "country": "盧安達",
-    "region": "非洲",
-    "quote": "然后我那时候去就是他有一个纪念馆我去看就是哇真的就是纪念片",
-    "context": "講述親自造訪大屠殺紀念館，看到歷史畫面"
+    "quote": "他的國家公園比較近所以他可以一天來回",
+    "context": "盧安達看大猩猩地點，可當日往返但許可昂貴"
   }
 ]

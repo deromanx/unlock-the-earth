@@ -1,74 +1,85 @@
 [
   {
     "name": "四千美島",
-    "name_en": "Si Phan Don",
-    "lat": 14.02,
-    "lon": 105.908,
+    "name_en": "Si Phan Don (Four Thousand Islands)",
+    "lat": 14.044,
+    "lon": 105.865,
     "country": "寮國",
     "region": "亞洲",
-    "quote": "我第一站事先到他們就是寮國南部的一個叫做四千美島的一個地方",
-    "context": "寮國南部的主要行程，由無數湄公河沙洲組成"
-  },
-  {
-    "name": "湄公河",
-    "name_en": "Mekong River",
-    "lat": 14.116,
-    "lon": 105.891,
-    "country": "寮國",
-    "region": "亞洲",
-    "quote": "那四千美島他其實應該是說他是在湄公河下游",
-    "context": "四千美島所在的河域，水流湍急適合泛舟",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Mekong-River-Near-Luang-Prabang.jpg/330px-Mekong-River-Near-Luang-Prabang.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    "quote": "四千美島他其實應該是說他是在湄公河下游就是很多沙洲所組成的一個區域",
+    "context": "湄公河下游沙洲群島，泛舟與背包客放鬆天堂"
   },
   {
     "name": "東德島",
     "name_en": "Don Det",
-    "lat": 13.985,
-    "lon": 105.922,
+    "lat": 13.9903,
+    "lon": 105.9188,
     "country": "寮國",
     "region": "亞洲",
     "quote": "像我住的東德島他就是很多背包客會去的地方",
-    "context": "講者在四千美島住宿並停留的主要島嶼"
+    "context": "四千美島中背包客聚集、設施較豐富的島"
   },
   {
     "name": "孔恩瀑布",
     "name_en": "Khone Phapheng Falls",
-    "lat": 13.955,
-    "lon": 105.938,
+    "lat": 13.9528,
+    "lon": 105.9758,
     "country": "寮國",
     "region": "亞洲",
-    "quote": "像它有一個最大的孔跟瀑布我不知道是因為那個地方它不適合住人",
-    "context": "四千美島上水流極大且非常壯觀的瀑布"
-  },
-  {
-    "name": "塔曲",
-    "name_en": "Thakhek",
-    "lat": 17.399,
-    "lon": 104.83,
-    "country": "寮國",
-    "region": "亞洲",
-    "quote": "Take這個地方算是寮國很有名的環狀摩托車很適合玩的一個地方",
-    "context": "寮國中南部以環狀摩托車路線聞名的城鎮"
+    "quote": "它有一個最大的孔跟瀑布",
+    "context": "湄公河上巨大瀑布，當地人冒險捕魚"
   },
   {
     "name": "沙灣拿吉",
     "name_en": "Savannakhet",
-    "lat": 16.551,
-    "lon": 104.771,
+    "lat": 16.557,
+    "lon": 104.753,
     "country": "寮國",
     "region": "亞洲",
     "quote": "沙灣那吉這城市它是說它是寮國第二大城",
-    "context": "保有早期華人與法國殖民復古風情的寮國第二大城",
+    "context": "法式與華人風格復古小城，作者最愛",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Savannakhet1.JPG/330px-Savannakhet1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "沙灣拿吉舊電影院",
-    "name_en": "Lao Chaleun Cinema",
-    "lat": 16.554,
-    "lon": 104.777,
+    "name": "沙灣拿吉老戲院",
+    "name_en": "Old Cinema, Savannakhet",
+    "lat": 16.5565,
+    "lon": 104.7525,
     "country": "寮國",
     "region": "亞洲",
-    "quote": "因為我那時候看到那電影院上面他有一個天台",
-    "context": "法國殖民時期建立的戲院，現已廢棄並轉型"
+    "quote": "那個電影院其實一看下去就很有國外電影以前的怎麼講",
+    "context": "約1930年建的法殖民時期廢棄戲院，有天台與舊膠卷"
+  },
+  {
+    "name": "巴色",
+    "name_en": "Pakse",
+    "lat": 15.12,
+    "lon": 105.8,
+    "country": "寮國",
+    "region": "亞洲",
+    "quote": "我下一站是有先去到一個叫巴瑟的城市",
+    "context": "南部轉運城市，停留兩天",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Champasak_Palace.jpg/330px-Champasak_Palace.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "他曲",
+    "name_en": "Thakhek",
+    "lat": 17.41,
+    "lon": 104.83,
+    "country": "寮國",
+    "region": "亞洲",
+    "quote": "Take這個地方算是寮國很有名的環狀摩托車很適合玩的一個地方",
+    "context": "以環線摩托車旅行聞名，作者為避開旅伴未前往"
+  },
+  {
+    "name": "永珍",
+    "name_en": "Vientiane",
+    "lat": 17.9757,
+    "lon": 102.6331,
+    "country": "寮國",
+    "region": "亞洲",
+    "quote": "我從沙灣那集飛到永鎮機票就3000多台幣",
+    "context": "首都，作者為買手機搭機前往，物價高",
+    "image": "https://thumb.wikimedia.org/wikipedia/en/thumb/2/28/Vientiane_-_Patuxai_-_0003.jpg/330px-Vientiane_-_Patuxai_-_0003.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]

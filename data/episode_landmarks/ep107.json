@@ -1,42 +1,42 @@
 [
   {
-    "name": "史京醫院 (史經醫院)",
+    "name": "姆巴巴內政府醫院",
     "name_en": "Mbabane Government Hospital",
-    "lat": -26.326,
-    "lon": 31.144,
+    "lat": -26.3167,
+    "lon": 31.1333,
     "country": "史瓦帝尼",
     "region": "非洲",
-    "quote": "那有一间就是他们当地最大的 你可以把它想象成史国的台大医院吧",
-    "context": "醫療團駐點的史國最大公立醫院"
+    "quote": "我們在當地就是史國的首都巴巴尼",
+    "context": "北醫醫療團駐點的史國最大醫院，相當於台大醫院"
   },
   {
     "name": "史瓦帝尼王宮",
-    "name_en": "Eswatini Royal Palace",
-    "lat": -26.467,
-    "lon": 31.183,
+    "name_en": "Ludzidzini Royal Palace",
+    "lat": -26.4583,
+    "lon": 31.1983,
     "country": "史瓦帝尼",
     "region": "非洲",
-    "quote": "大概都是我们要到到王宫里面去 居家医疗 真的是皇宫",
-    "context": "醫療團為王室成員進行居家醫療的地點"
+    "quote": "你怎麼可能會進到史法定寧的王宮",
+    "context": "醫療團曾入宮為王室成員居家看診"
   },
   {
-    "name": "埃祖爾韋尼 (如威尼)",
-    "name_en": "Ezulwini",
+    "name": "茹威尼谷地",
+    "name_en": "Ezulwini Valley",
     "lat": -26.417,
     "lon": 31.183,
     "country": "史瓦帝尼",
     "region": "非洲",
-    "quote": "那有一个离爸爸的一段地方 叫如威尼的地方",
-    "context": "距離首都車程近，擁有賭場與渡假村的娛樂區"
+    "quote": "叫如威尼的地方",
+    "context": "距首都車程二三十分鐘，有賭場、SPA、電影院的娛樂區"
   },
   {
-    "name": "希貝貝岩 (西北北)",
+    "name": "西貝貝岩",
     "name_en": "Sibebe Rock",
-    "lat": -26.248,
-    "lon": 31.173,
+    "lat": -26.2833,
+    "lon": 31.1167,
     "country": "史瓦帝尼",
     "region": "非洲",
-    "quote": "他们国内大概最著名的旅游景点是一个叫 西北北的一块大的礁石",
-    "context": "史瓦帝尼最著名的旅遊景點，為巨大的單體礁岩"
+    "quote": "西北北的一塊大的礁石",
+    "context": "史國最著名景點，世界第二大單體岩石，來賓一天健行近四十公里"
   }
 ]

@@ -1,44 +1,77 @@
 [
   {
-    "name": "慕那爾",
-    "name_en": "Munnar",
-    "lat": 10.089,
-    "lon": 77.059,
+    "name": "欽奈",
+    "name_en": "Chennai",
+    "lat": 13.083,
+    "lon": 80.27,
     "country": "印度",
     "region": "亞洲",
-    "quote": "最后到山上 非常漂亮的 那个地方叫Muna",
-    "context": "搭車四小時抵達的美麗山區城鎮",
+    "quote": "我觉得真的大家要去的话我觉得Chinnai是一个很好的门户",
+    "context": "南印度旅程起點，機票最便宜的門戶城市",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Chennai_Central.jpg/330px-Chennai_Central.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "馬杜賴",
+    "name_en": "Madurai",
+    "lat": 9.925,
+    "lon": 78.119,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "Mardurant它是一个宗教的城市在山下",
+    "context": "宗教城市，搭Uber上山前往穆納爾的起點"
+  },
+  {
+    "name": "穆納爾",
+    "name_en": "Munnar",
+    "lat": 10.089,
+    "lon": 77.06,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "我觉得大家去的话一定要去Muna看看",
+    "context": "山區城鎮，沿途懸崖景色壯麗，強力推薦",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Munnar_Overview.jpg/330px-Munnar_Overview.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "亨比",
     "name_en": "Hampi",
     "lat": 15.335,
-    "lon": 76.46,
-    "country": "印度",
-    "region": "亞洲",
-    "quote": "我觉得我有一个城镇叫Hempy",
-    "context": "有著壯觀廢墟的古蹟城鎮，也是電影神話拍攝地",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Wide_angle_of_Galigopuram_of_Virupaksha_Temple%2C_Hampi_%2804%29_%28cropped%29.jpg/330px-Wide_angle_of_Galigopuram_of_Virupaksha_Temple%2C_Hampi_%2804%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "通加巴德拉河",
-    "name_en": "Tungabhadra River",
-    "lat": 15.335,
-    "lon": 76.46,
-    "country": "印度",
-    "region": "亞洲",
-    "quote": "她中间有一条河 然后你可以乘船",
-    "context": "位於亨比中間的河流，可以乘船往返南北岸"
-  },
-  {
-    "name": "皇后浴池",
-    "name_en": "Queen's Bath",
-    "lat": 15.319,
     "lon": 76.462,
     "country": "印度",
     "region": "亞洲",
-    "quote": "还有古时候的公主洗澡的那个池也有",
-    "context": "在亨比城鎮中保存下來的美麗古蹟池"
+    "quote": "这个地方是成龙拍她的电影神话的地方",
+    "context": "古都廢墟，成龍《神話》拍攝地，日落絕美",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Wide_angle_of_Galigopuram_of_Virupaksha_Temple%2C_Hampi_%2804%29_%28cropped%29.jpg/330px-Wide_angle_of_Galigopuram_of_Virupaksha_Temple%2C_Hampi_%2804%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "柯枝",
+    "name_en": "Kochi",
+    "lat": 9.931,
+    "lon": 76.267,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "它的城市名叫Kochi",
+    "context": "喀拉拉邦先進城市，捷運乾淨，包車遊瀑布",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Kochi_Skyline.jpg/330px-Kochi_Skyline.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "班加羅爾火車站",
+    "name_en": "Bengaluru City Railway Station",
+    "lat": 12.978,
+    "lon": 77.572,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "在Bangaloo火车站火车站的旁边",
+    "context": "車站旁有牛的小店，吃到最好吃的印度香飯",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/KSRBengaluruEntrance.jpg/330px-KSRBengaluruEntrance.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "瓦拉納西",
+    "name_en": "Varanasi",
+    "lat": 25.317,
+    "lon": 82.973,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "但是到了瓦拉纳西之后一到瓦拉纳西然后吃了第一餐之后就不行了",
+    "context": "北印度恆河城市，在此上吐下瀉"
   }
 ]

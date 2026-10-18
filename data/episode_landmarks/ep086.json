@@ -2,31 +2,74 @@
   {
     "name": "打巴",
     "name_en": "Tapah",
-    "lat": 4.195,
+    "lat": 4.198,
     "lon": 101.26,
     "country": "馬來西亞",
     "region": "亞洲",
-    "quote": "霹靂州裡面的一個小城鎮\n打巴",
-    "context": "來賓小植的故鄉，被形容為鄉下山裡的小鎮"
-  },
-  {
-    "name": "馬來亞大學",
-    "name_en": "University of Malaya",
-    "lat": 3.12,
-    "lon": 101.653,
-    "country": "馬來西亞",
-    "region": "亞洲",
-    "quote": "那今天我可能10科A我是最優秀的 但我依然進不了馬大",
-    "context": "探討馬來西亞大學升學種族固打制時提及的國立大學"
+    "quote": "霹靂州的打巴就對了",
+    "context": "來賓小植的家鄉，位於霹靂州的山間小鎮"
   },
   {
     "name": "黑風洞",
     "name_en": "Batu Caves",
     "lat": 3.237,
-    "lon": 101.683,
+    "lon": 101.684,
     "country": "馬來西亞",
     "region": "亞洲",
     "quote": "在馬來西亞的黑風洞每一年都會有那個遊行",
-    "context": "舉例印度教大寶森節慶典遊行的地點，展現宗教包容"
+    "context": "大寶森節遊行地點，全民同歡的宗教節慶"
+  },
+  {
+    "name": "金寶巴剎",
+    "name_en": "Kampar Pasar",
+    "lat": 4.306,
+    "lon": 101.151,
+    "country": "馬來西亞",
+    "region": "亞洲",
+    "quote": "我自己推薦因為我住在霹靂州，所以我很推",
+    "context": "來賓推薦的傳統市集與美食中心，周邊保留老屋"
+  },
+  {
+    "name": "神山",
+    "name_en": "Mount Kinabalu",
+    "lat": 6.075,
+    "lon": 116.558,
+    "country": "馬來西亞",
+    "region": "亞洲",
+    "quote": "一個是神山啊如果是愛爬山的人",
+    "context": "沙巴著名登山景點，被視為東南亞高峰",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Kinabalu_Sabah_Borneo_Kampong_Kundasang_panorama_2.jpg/330px-Kinabalu_Sabah_Borneo_Kampong_Kundasang_panorama_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "仙本那",
+    "name_en": "Semporna",
+    "lat": 4.48,
+    "lon": 118.611,
+    "country": "馬來西亞",
+    "region": "亞洲",
+    "quote": "先本那是一個海島",
+    "context": "跳島浮潛勝地，也見到無國籍的巴瑤族人生活",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Semporna_Waterfront%2C_Sabah%2C_Malaysia.jpg/330px-Semporna_Waterfront%2C_Sabah%2C_Malaysia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "巴瑤族水上屋",
+    "name_en": "Bajau Laut Stilt Village (Semporna)",
+    "lat": 4.4,
+    "lon": 118.7,
+    "country": "馬來西亞",
+    "region": "亞洲",
+    "quote": "他們一定會帶我們去一個景點叫做無國界他們巴窯族的水上屋",
+    "context": "旅遊行程參觀無國籍巴瑤族居所，帶有表演性質"
+  },
+  {
+    "name": "瓜拉十八丁",
+    "name_en": "Kuala Sepetang",
+    "lat": 4.834,
+    "lon": 100.604,
+    "country": "馬來西亞",
+    "region": "亞洲",
+    "quote": "叫刮拉十八丁它其實就在霹靂州裡面的",
+    "context": "太平附近漁村，有紅樹林、木炭窯與海鮮",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Charcoal_factory%2C_Kuala_Sepetang_%286134069135%29.jpg/330px-Charcoal_factory%2C_Kuala_Sepetang_%286134069135%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]

@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "name": "約旦大學",
+    "name_en": "University of Jordan",
+    "lat": 32.0147,
+    "lon": 35.8723,
+    "country": "約旦",
+    "region": "亞洲",
+    "quote": "我那時候是在約旦的約旦大學",
+    "context": "來賓的交換學校，談校園社團與學生會選舉文化",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/University_of_Jordan_Logo.svg/330px-University_of_Jordan_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  }
+]

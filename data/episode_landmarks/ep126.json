@@ -1,75 +1,75 @@
 [
   {
-    "name": "聖克里斯多福島",
-    "name_en": "Saint Kitts",
-    "lat": 17.332,
-    "lon": -62.756,
+    "name": "巴斯特爾",
+    "name_en": "Basseterre",
+    "lat": 17.296,
+    "lon": -62.723,
     "country": "聖克里斯多福及尼維斯",
     "region": "美洲",
-    "quote": "大的叫Sankis",
-    "context": "該國的主要島嶼，形狀像雞腿",
+    "quote": "他的首都叫巴斯蒂尔",
+    "context": "首都，留有英法殖民痕跡，市中心有蘇格蘭鐘塔複製品",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/St._Kitts%2C_Karibik_-_Marina_in_Basseterre_-_panoramio.jpg/330px-St._Kitts%2C_Karibik_-_Marina_in_Basseterre_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "聖克里斯多福島",
+    "name_en": "Saint Kitts",
+    "lat": 17.357,
+    "lon": -62.783,
+    "country": "聖克里斯多福及尼維斯",
+    "region": "美洲",
+    "quote": "北边的Sankis就是一个鸡腿的形状",
+    "context": "雞腿形大島，講者工作生活兩年半之地",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Saint_Kitts_and_Nevis_Regions_map.png/330px-Saint_Kitts_and_Nevis_Regions_map.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "尼維斯島",
     "name_en": "Nevis",
-    "lat": 17.153,
-    "lon": -62.578,
+    "lat": 17.155,
+    "lon": -62.579,
     "country": "聖克里斯多福及尼維斯",
     "region": "美洲",
-    "quote": "小的岛叫Nivis",
-    "context": "該國的另一座主要島嶼，形狀呈圓形",
+    "quote": "Nivis就是一个圆圈圈",
+    "context": "圓形小島，與聖基茨組成雞腿島，有獨立聯邦政府",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Nevis.svg/330px-Flag_of_Nevis.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "巴斯蒂爾",
-    "name_en": "Basseterre",
-    "lat": 17.297,
-    "lon": -62.723,
+    "name": "尼維斯海峽",
+    "name_en": "The Narrows",
+    "lat": 17.23,
+    "lon": -62.65,
     "country": "聖克里斯多福及尼維斯",
     "region": "美洲",
-    "quote": "比如说他的首都叫巴斯蒂尔",
-    "context": "該國首都，留有英法殖民時期的建築痕跡",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/St._Kitts%2C_Karibik_-_Marina_in_Basseterre_-_panoramio.jpg/330px-St._Kitts%2C_Karibik_-_Marina_in_Basseterre_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "巴斯蒂爾鐘塔",
-    "name_en": "The Berkeley Memorial",
-    "lat": 17.295,
-    "lon": -62.723,
-    "country": "聖克里斯多福及尼維斯",
-    "region": "美洲",
-    "quote": "像他的首都中间有一个中塔 算是地标",
-    "context": "位於首都中心，仿造英國建築的特色地標"
+    "quote": "中间他有一个海峡就是Narrows海峡大概三公里",
+    "context": "兩島間海峽，每年舉辦三公里橫渡游泳賽"
   },
   {
     "name": "血河",
     "name_en": "Bloody River",
-    "lat": 17.32,
-    "lon": -62.775,
+    "lat": 17.398,
+    "lon": -62.832,
     "country": "聖克里斯多福及尼維斯",
     "region": "美洲",
-    "quote": "那边甚至当地有一个算是观光景点叫做Bloody River",
-    "context": "原住民加勒比人遭殖民者屠殺的歷史地點"
+    "quote": "当地有一个算是观光景点叫做Bloody River",
+    "context": "殖民者屠殺原住民加勒比人的傳說河谷"
   },
   {
-    "name": "聖克里斯多福觀光鐵路",
+    "name": "聖基茨景觀鐵路",
     "name_en": "St. Kitts Scenic Railway",
-    "lat": 17.307,
-    "lon": -62.716,
+    "lat": 17.318,
+    "lon": -62.733,
     "country": "聖克里斯多福及尼維斯",
     "region": "美洲",
-    "quote": "然后那条铁路 就是以前运送堂的 然后现在是变成观光小火车",
-    "context": "昔日運糖鐵路改建而成的觀光小火車"
+    "quote": "还有一条铁路啦",
+    "context": "昔日運糖鐵路，現為觀光小火車"
   },
   {
-    "name": "聖克里斯多福柏悅酒店",
-    "name_en": "Park Hyatt St. Kitts",
-    "lat": 17.234,
-    "lon": -62.636,
-    "country": "聖克里斯多福及尼維斯",
+    "name": "大藍洞",
+    "name_en": "Great Blue Hole",
+    "lat": 17.316,
+    "lon": -87.535,
+    "country": "貝里斯",
     "region": "美洲",
-    "quote": "像我知道Hair Park 在那边盖了一个旅馆",
-    "context": "結合當地投資移民護照政策而建的飯店"
+    "quote": "他有全世界第一的潜水经典就大蓝洞",
+    "context": "貝里斯著名潛水聖地，講者曾潛過"
   }
 ]

@@ -1,22 +1,72 @@
 [
   {
-    "name": "白金汉宫",
+    "name": "白金漢宮",
     "name_en": "Buckingham Palace",
     "lat": 51.501,
-    "lon": -0.141,
-    "country": "英国",
+    "lon": -0.142,
+    "country": "英國",
     "region": "歐洲",
-    "quote": "他就在 白金汉宫的那个屋顶上 然后用吉他表演",
-    "context": "讨论王室举办演唱会及展现亲民形象的代表性建筑。"
+    "quote": "白金汉宫大概在7月到10月会打开",
+    "context": "王室官邸，開放參觀，也是女王慶典演唱會舉辦地"
   },
   {
-    "name": "圣保罗大教堂",
+    "name": "聖保羅大教堂",
     "name_en": "St Paul's Cathedral",
-    "lat": 51.513,
+    "lat": 51.514,
     "lon": -0.098,
-    "country": "英国",
+    "country": "英國",
     "region": "歐洲",
-    "quote": "1981年在圣保罗大教堂 伦敦的圣保罗大教堂结婚的时候",
-    "context": "查尔斯王子与戴安娜王妃举行童话般世纪婚礼的场地。"
+    "quote": "1981年在圣保罗大教堂伦敦的圣保罗大教堂结婚的时候",
+    "context": "查爾斯與黛安娜1981年舉行世紀婚禮之地"
+  },
+  {
+    "name": "西敏寺",
+    "name_en": "Westminster Abbey",
+    "lat": 51.499,
+    "lon": -0.127,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "你如果想要去看女王加冕的地方，总是有皇家西闽寺大教堂",
+    "context": "女王加冕之地，推薦的王室景點"
+  },
+  {
+    "name": "肯辛頓宮",
+    "name_en": "Kensington Palace",
+    "lat": 51.505,
+    "lon": -0.188,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "因为这边离肯兴顿宫最近",
+    "context": "黛安娜故居，附近咖啡廳擠滿狗仔記者"
+  },
+  {
+    "name": "諾丁山",
+    "name_en": "Notting Hill",
+    "lat": 51.509,
+    "lon": -0.205,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "其实在Notting Hill这一带有一个咖啡厅",
+    "context": "有一間滿是黛安娜報紙剪報的主題咖啡廳"
+  },
+  {
+    "name": "巴爾莫勒爾堡",
+    "name_en": "Balmoral Castle",
+    "lat": 57.04,
+    "lon": -3.225,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "然后女王最常去度假的宝猫肉在苏格兰那边",
+    "context": "女王最常度假的蘇格蘭城堡，夏季開放"
+  },
+  {
+    "name": "福克蘭群島",
+    "name_en": "Falkland Islands",
+    "lat": -51.796,
+    "lon": -59.524,
+    "country": "英國",
+    "region": "美洲",
+    "quote": "英国和阿根廷开发了发展了一场战争就福克兰",
+    "context": "安德魯王子參與福克蘭戰爭而成戰爭英雄"
   }
 ]

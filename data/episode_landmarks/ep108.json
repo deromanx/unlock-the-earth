@@ -1,32 +1,63 @@
 [
   {
-    "name": "上议院",
-    "name_en": "House of Lords",
-    "lat": 51.499,
-    "lon": -0.124,
-    "country": "英国",
-    "region": "歐洲",
-    "quote": "只能挤在一个非常小的上议院的一个非常小的地方",
-    "context": "女王發表國會開幕大典演說的地點"
-  },
-  {
-    "name": "下议院",
-    "name_en": "House of Commons",
-    "lat": 51.5,
-    "lon": -0.124,
-    "country": "英国",
-    "region": "歐洲",
-    "quote": "现在传统上下议院当皇室经过的时候他们会故意的把门在皇室的面前关起来",
-    "context": "傳統上對皇室關門以示獨立的機構所在地"
-  },
-  {
-    "name": "白金汉宫",
+    "name": "白金漢宮",
     "name_en": "Buckingham Palace",
-    "lat": 51.501,
-    "lon": -0.141,
-    "country": "英国",
+    "lat": 51.5014,
+    "lon": -0.1419,
+    "country": "英國",
     "region": "歐洲",
-    "quote": "甚至当威易沙白是成人的时候Bobo是唯一的保姆还住在白金汉宫里面",
-    "context": "女王的寢宮，其保姆Bobo成年後也居住於此"
+    "quote": "其實當時白金漢宮也被炸掉了",
+    "context": "女王日常、國宴、花園派對與廚房運作的核心場所"
+  },
+  {
+    "name": "溫莎城堡",
+    "name_en": "Windsor Castle",
+    "lat": 51.4839,
+    "lon": -0.6044,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "就待在倫敦和溫莎，決定跟大家共患難",
+    "context": "王室二戰留守之地，亦是溫莎王朝名稱由來",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Windsor_Castle_at_Sunset_-_Nov_2006.jpg/330px-Windsor_Castle_at_Sunset_-_Nov_2006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "威斯敏斯特宮（國會大廈）",
+    "name_en": "Palace of Westminster",
+    "lat": 51.4995,
+    "lon": -0.1248,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "所以女王就會到上議院去",
+    "context": "國會開議儀式與下議院當面關門的傳統"
+  },
+  {
+    "name": "皇家雅士谷賽馬場",
+    "name_en": "Royal Ascot",
+    "lat": 51.4089,
+    "lon": -0.6764,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "那女王每年他都會去他的Royal Asco",
+    "context": "女王每年觀賽、情緒最外露的皇家賽馬盛事"
+  },
+  {
+    "name": "福南梅森百貨",
+    "name_en": "Fortnum & Mason",
+    "lat": 51.5083,
+    "lon": -0.1389,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "有一間百貨公司叫Fortnite & Mason",
+    "context": "皇家認證茶葉供應商，女王喜愛的煙燻伯爵茶"
+  },
+  {
+    "name": "塞爾福里奇百貨",
+    "name_en": "Selfridges",
+    "lat": 51.5145,
+    "lon": -0.1527,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "你可以在Selfridges買到",
+    "context": "可買到女王愛用品牌包款的倫敦百貨公司"
   }
 ]

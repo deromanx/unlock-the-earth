@@ -1,22 +1,82 @@
 [
   {
-    "name": "大灣",
-    "name_en": "Grand Baie",
-    "lat": -20.013,
-    "lon": 57.581,
+    "name": "路易港",
+    "name_en": "Port Louis",
+    "lat": -20.162,
+    "lon": 57.499,
     "country": "模里西斯",
     "region": "非洲",
-    "quote": "大湾那种可能交通比较方便",
-    "context": "提及當地交通較方便且觀光客較多的區域"
+    "quote": "尤其是我們的首都路易四港那邊",
+    "context": "首都，塞車嚴重，交通移動需看路線與時段"
   },
   {
-    "name": "路易士港 (路易四港)",
-    "name_en": "Port Louis",
-    "lat": -20.161,
-    "lon": 57.501,
+    "name": "阿普拉瓦西移民遺址",
+    "name_en": "Aapravasi Ghat",
+    "lat": -20.1608,
+    "lon": 57.5062,
     "country": "模里西斯",
     "region": "非洲",
-    "quote": "尤其是我们的首都路易四港那边",
-    "context": "說明摩里西斯塞車嚴重的首都地點"
+    "quote": "這個登陸點，它見證了我們摩里西斯現代人口組成一個重要的一環",
+    "context": "契約勞工登陸的轉運站，世界文化遺產"
+  },
+  {
+    "name": "勒莫恩山",
+    "name_en": "Le Morne Brabant",
+    "lat": -20.4532,
+    "lon": 57.3125,
+    "country": "模里西斯",
+    "region": "非洲",
+    "quote": "第二個就是在2008年它納入的，它是摩爾山",
+    "context": "逃亡黑奴躲藏與跳崖之地，世界文化遺產"
+  },
+  {
+    "name": "七色土",
+    "name_en": "Seven Coloured Earths (Chamarel)",
+    "lat": -20.4417,
+    "lon": 57.3744,
+    "country": "模里西斯",
+    "region": "非洲",
+    "quote": "我們也有一個很有名的觀光經典，叫七色土",
+    "context": "火山岩沉積形成多色沙丘的知名景點"
+  },
+  {
+    "name": "水下瀑布",
+    "name_en": "Underwater Waterfall (Le Morne)",
+    "lat": -20.48,
+    "lon": 57.3,
+    "country": "模里西斯",
+    "region": "非洲",
+    "quote": "海底瀑布是我們在南邊",
+    "context": "南部海岸沙流錯覺形成，需搭直升機俯瞰"
+  },
+  {
+    "name": "特魯奧考夫火山口",
+    "name_en": "Trou aux Cerfs",
+    "lat": -20.3185,
+    "lon": 57.5164,
+    "country": "模里西斯",
+    "region": "非洲",
+    "quote": "然後我們也有火山口，然後也是有觀光客會去看",
+    "context": "沉睡的死火山口，已成為湖"
+  },
+  {
+    "name": "卡薩拉鳥園",
+    "name_en": "Casela World of Adventures",
+    "lat": -20.2906,
+    "lon": 57.4025,
+    "country": "模里西斯",
+    "region": "非洲",
+    "quote": "我們鳥園有小肯亞之稱",
+    "context": "可與獅子散步、有斑馬長頸鹿等動物的園區"
+  },
+  {
+    "name": "巴雪莉茶園",
+    "name_en": "Bois Chéri Tea Estate",
+    "lat": -20.4833,
+    "lon": 57.4969,
+    "country": "模里西斯",
+    "region": "非洲",
+    "quote": "我們的香草紅茶是來自於我們摩里西斯最有名的一個茶園，叫巴雪莉",
+    "context": "香草紅茶產地，推薦伴手禮"
   }
 ]

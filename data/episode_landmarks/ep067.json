@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "name": "貝里斯市",
+    "name_en": "Belize City",
+    "lat": 17.498,
+    "lon": -88.187,
+    "country": "貝里斯",
+    "region": "美洲",
+    "quote": "貝里斯市的話是他們的舊首都就是他們最大的城市啊",
+    "context": "舊首都與最大城市，地勢低易淹水，台灣大使館所在地"
+  },
+  {
+    "name": "貝爾莫潘",
+    "name_en": "Belmopan",
+    "lat": 17.251,
+    "lon": -88.767,
+    "country": "貝里斯",
+    "region": "美洲",
+    "quote": "所以他們現在的首都叫做英文叫貝爾夢潘",
+    "context": "內陸新首都，政府機關與使館集中，作者工作居住地"
+  },
+  {
+    "name": "貝爾莫潘市中心環形道路",
+    "name_en": "Belmopan Government Core Ring Road",
+    "lat": 17.251,
+    "lon": -88.769,
+    "country": "貝里斯",
+    "region": "美洲",
+    "quote": "它的市中心它其實就是有一圈長方形路這樣圍起來",
+    "context": "國會與使館所在的環形道路，傍晚居民慢跑騎車"
+  },
+  {
+    "name": "美國駐貝里斯大使館",
+    "name_en": "U.S. Embassy in Belmopan",
+    "lat": 17.2685,
+    "lon": -88.766,
+    "country": "貝里斯",
+    "region": "美洲",
+    "quote": "那個就是美國大使館這樣",
+    "context": "如城堡般高大的美國大使館，象徵影響力"
+  },
+  {
+    "name": "墨西哥駐貝里斯大使館",
+    "name_en": "Embassy of Mexico in Belmopan",
+    "lat": 17.252,
+    "lon": -88.768,
+    "country": "貝里斯",
+    "region": "美洲",
+    "quote": "看起來也是金碧輝王，那個就是墨西哥的大使館",
+    "context": "規模僅次於美國的金碧輝煌使館"
+  }
+]

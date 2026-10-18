@@ -1,1 +1,76 @@
-[]
+[
+  {
+    "name": "慕尼黑",
+    "name_en": "Munich",
+    "lat": 48.137,
+    "lon": 11.575,
+    "country": "德國",
+    "region": "歐洲",
+    "quote": "所以我那時候最後一個城市在慕尼黑",
+    "context": "單車旅程的出發點，打工度假的最後一站",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Stadtbild_M%C3%BCnchen.jpg/330px-Stadtbild_M%C3%BCnchen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "伊斯坦堡",
+    "name_en": "Istanbul",
+    "lat": 41.008,
+    "lon": 28.978,
+    "country": "土耳其",
+    "region": "歐洲",
+    "quote": "我要在伊斯坦堡把它剪掉這樣子",
+    "context": "進入穆斯林國家前剪成平頭，削減女性形象",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Historical_peninsula_and_modern_skyline_of_Istanbul.jpg/330px-Historical_peninsula_and_modern_skyline_of_Istanbul.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "喀什",
+    "name_en": "Kashgar",
+    "lat": 39.468,
+    "lon": 75.989,
+    "country": "中國",
+    "region": "亞洲",
+    "quote": "我進入中國的口岸是在就是喀什",
+    "context": "入境中國的口岸，維吾爾族聚居，武警林立",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/H%C3%ABytgah_Mosque%2C_Kashi_%2820230923100109%29.jpg/330px-H%C3%ABytgah_Mosque%2C_Kashi_%2820230923100109%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "喀什牲畜巴扎",
+    "name_en": "Kashgar Livestock Market",
+    "lat": 39.47,
+    "lon": 76.03,
+    "country": "中國",
+    "region": "亞洲",
+    "quote": "一個叫做動物巴薩",
+    "context": "假日動物市集，搭電動三輪車返回市區的經歷"
+  },
+  {
+    "name": "獨庫公路",
+    "name_en": "Duku Highway",
+    "lat": 43.2,
+    "lon": 84.3,
+    "country": "中國",
+    "region": "亞洲",
+    "quote": "他們那邊有一個叫獨庫公路就是整個橫越過天山山脈",
+    "context": "橫越天山山脈的公路，騎乘途中遇雪",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Kokudou_217%28China%29.svg/330px-Kokudou_217%28China%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "巴音布魯克",
+    "name_en": "Bayanbulak",
+    "lat": 43.02,
+    "lon": 84.15,
+    "country": "中國",
+    "region": "亞洲",
+    "quote": "那時候我騎到一個地方叫做巴音布魯克",
+    "context": "高海拔下雪感冒，借宿維族餐廳，與村民交流"
+  },
+  {
+    "name": "喬爾瑪",
+    "name_en": "Qiaoerma",
+    "lat": 43.2,
+    "lon": 84.45,
+    "country": "中國",
+    "region": "亞洲",
+    "quote": "然後我就騎到一個叫做乔儿马的地方",
+    "context": "山崩封路，被麵店老闆收留並與公車司機爭執"
+  }
+]

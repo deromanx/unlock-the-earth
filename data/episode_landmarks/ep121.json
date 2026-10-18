@@ -1,22 +1,54 @@
 [
   {
-    "name": "中央警察大學",
-    "name_en": "Central Police University",
-    "lat": 25.035,
-    "lon": 121.341,
-    "country": "台灣",
-    "region": "台灣",
-    "quote": "那我已經在警大讀資訊管理系",
-    "context": "來賓來台留學所就讀的學校"
-  },
-  {
-    "name": "卡庫佩聖母大教堂",
-    "name_en": "Basílica de Caacupé",
-    "lat": -25.386,
-    "lon": -57.145,
+    "name": "伊泰普水力發電廠",
+    "name_en": "Itaipú Dam",
+    "lat": 25.408,
+    "lon": -54.589,
     "country": "巴拉圭",
     "region": "美洲",
-    "quote": "他從我家走路過教堂",
-    "context": "12月8日聖母瑪利亞節的朝聖目的地"
+    "quote": "這個發電廠真的是可以說是巴拉圭的命脈",
+    "context": "供應巴拉圭約85%電力的水電廠，國家命脈",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Itaipu_geral.jpg/330px-Itaipu_geral.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "恩卡納西翁河岸",
+    "name_en": "Encarnación",
+    "lat": -27.33,
+    "lon": -55.867,
+    "country": "巴拉圭",
+    "region": "美洲",
+    "quote": "我們把那個河邊當成一個好像沙灘一樣的",
+    "context": "內陸國的河岸沙灘，夏季度假與嘉年華活動地點"
+  },
+  {
+    "name": "伊瓜蘇瀑布",
+    "name_en": "Iguazú Falls",
+    "lat": -25.695,
+    "lon": -54.436,
+    "country": "阿根廷",
+    "region": "美洲",
+    "quote": "伊太浦附近有那個伊瓜蘇布布",
+    "context": "與伊泰普水電廠相近的知名觀光景點",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Aerial_Foz_de_Igua%C3%A7u_26_Nov_2005.jpg/330px-Aerial_Foz_de_Igua%C3%A7u_26_Nov_2005.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "卡阿庫佩大教堂",
+    "name_en": "Basilica of Caacupé",
+    "lat": -25.386,
+    "lon": -57.141,
+    "country": "巴拉圭",
+    "region": "美洲",
+    "quote": "走到那個大教堂",
+    "context": "12月8日聖母節朝聖的目的地，類似媽祖遶境"
+  },
+  {
+    "name": "中央警察大學",
+    "name_en": "Central Police University",
+    "lat": 25.0,
+    "lon": 121.386,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "我已经在警大读资讯管理系",
+    "context": "來賓就讀的學校，有許多印尼、泰國外籍生"
   }
 ]

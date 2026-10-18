@@ -1,12 +1,32 @@
 [
   {
-    "name": "斯莫基山（垃圾山）",
-    "name_en": "Smokey Mountain",
-    "lat": 14.63,
-    "lon": 120.966,
+    "name": "馬尼拉唐人街（碧瑤區）",
+    "name_en": "Binondo Chinatown, Manila",
+    "lat": 14.6,
+    "lon": 120.974,
     "country": "菲律賓",
     "region": "亞洲",
-    "quote": "或是我們還是曾經到垃圾山裡面",
-    "context": "志工為尋找街童而深入的貧困地區"
+    "quote": "我就听说是全世界最古老的中国城",
+    "context": "傳說全球最古老唐人街，電線外露、宗教融合、街童聚集"
+  },
+  {
+    "name": "馬尼拉舊城區",
+    "name_en": "Intramuros, Manila",
+    "lat": 14.589,
+    "lon": 120.975,
+    "country": "菲律賓",
+    "region": "亞洲",
+    "quote": "最早就是西班牙进来统治的时候发展的那个地区",
+    "context": "西班牙殖民時期發展的馬尼拉舊城區"
+  },
+  {
+    "name": "波尼法西奧環球城",
+    "name_en": "Bonifacio Global City",
+    "lat": 14.551,
+    "lon": 121.049,
+    "country": "菲律賓",
+    "region": "亞洲",
+    "quote": "最高级的一个城市呢就是BCG",
+    "context": "新開發的高級商業區，街道整潔、設施現代"
   }
 ]

@@ -1,43 +1,113 @@
 [
   {
-    "name": "古巴國家飯店",
+    "name": "國家飯店",
     "name_en": "Hotel Nacional de Cuba",
-    "lat": 23.143,
-    "lon": -82.381,
+    "lat": 23.1445,
+    "lon": -82.3969,
     "country": "古巴",
     "region": "美洲",
-    "quote": "以前古巴哈网那最高级就是那个National Hotel",
-    "context": "過去哈瓦那最高級的飯店，許多著名政治人物都曾入住。"
+    "quote": "以前古巴哈瓦那最高级就是那个National Hotel",
+    "context": "昔日哈瓦那最高級飯店，政要常下榻"
   },
   {
     "name": "哈瓦那舊城區",
     "name_en": "Old Havana",
-    "lat": 23.138,
-    "lon": -82.354,
+    "lat": 23.1366,
+    "lon": -82.35,
     "country": "古巴",
     "region": "美洲",
-    "quote": "而且这些精品饭店都该在哈网那的旧城区",
-    "context": "最具歷史古蹟的街區，近年出現許多五星級精品飯店與商場。"
+    "quote": "而且這些精品飯店都該在哈瓦那的舊城區",
+    "context": "新建精品飯店與購物中心出現的歷史街區"
   },
   {
-    "name": "哈瓦那濱海大道",
+    "name": "哈瓦那中國城",
+    "name_en": "Barrio Chino de La Habana",
+    "lat": 23.139,
+    "lon": -82.363,
+    "country": "古巴",
+    "region": "美洲",
+    "quote": "那边有中国城",
+    "context": "如今幾乎沒有華人，店家皆由古巴人經營"
+  },
+  {
+    "name": "哈瓦那華人墓園",
+    "name_en": "Cementerio Chino de La Habana",
+    "lat": 23.118,
+    "lon": -82.387,
+    "country": "古巴",
+    "region": "美洲",
+    "quote": "在哈瓦那有一塊地方它是中國人的墳墓",
+    "context": "位於墓園內的傳統華人墓區"
+  },
+  {
+    "name": "革命廣場",
+    "name_en": "Plaza de la Revolución",
+    "lat": 23.1217,
+    "lon": -82.3866,
+    "country": "古巴",
+    "region": "美洲",
+    "quote": "我要去那個革命廣場就是很有名那個切割瓦啦",
+    "context": "有切·格瓦拉頭像，作者步行一小時抵達"
+  },
+  {
+    "name": "哈瓦那海濱大道",
     "name_en": "Malecón",
-    "lat": 23.143,
-    "lon": -82.388,
-    "country": "古巴",
-    "region": "美洲",
-    "quote": "古巴哈瓦那很有名的那个滨海大道",
-    "context": "適合看日落、喝酒聊天，以及觀察當地人生活的好去處。",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Jetty_break2_new%28USGS%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
-  },
-  {
-    "name": "哈瓦那唐人街",
-    "name_en": "Barrio Chino",
-    "lat": 23.133,
+    "lat": 23.1451,
     "lon": -82.364,
     "country": "古巴",
     "region": "美洲",
-    "quote": "这是我第一个去的中国城里面没有中国人的中国城",
-    "context": "位於哈瓦那的唐人街，特色是裡面完全沒有中國人。"
+    "quote": "古巴哈瓦那很有名的那个滨海大道",
+    "context": "看日落、聊天、觀察當地人的好去處",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Jetty_break2_new%28USGS%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+  },
+  {
+    "name": "國會大廈",
+    "name_en": "El Capitolio",
+    "lat": 23.1352,
+    "lon": -82.3598,
+    "country": "古巴",
+    "region": "美洲",
+    "quote": "那就是說我要去他們的國會大廈",
+    "context": "搭共乘老爺車時常用的大地標"
+  },
+  {
+    "name": "聖地牙哥德古巴",
+    "name_en": "Santiago de Cuba",
+    "lat": 20.0247,
+    "lon": -75.8219,
+    "country": "古巴",
+    "region": "美洲",
+    "quote": "就是三条高队库巴",
+    "context": "古巴第二大城，夏季高溫約四十度"
+  },
+  {
+    "name": "特立尼達",
+    "name_en": "Trinidad",
+    "lat": 21.8031,
+    "lon": -79.9847,
+    "country": "古巴",
+    "region": "美洲",
+    "quote": "它是世界文化遺產的小鎮",
+    "context": "彩色房屋、鵝卵石街、騎馬與音樂之家"
+  },
+  {
+    "name": "安孔海灘",
+    "name_en": "Playa Ancón",
+    "lat": 21.74,
+    "lon": -79.993,
+    "country": "古巴",
+    "region": "美洲",
+    "quote": "他离一个海边叫Plyada de Angon",
+    "context": "特立尼達附近，作者騎單車前往的海灘"
+  },
+  {
+    "name": "特立尼達音樂之家",
+    "name_en": "Casa de la Música (Trinidad)",
+    "lat": 21.803,
+    "lon": -79.984,
+    "country": "古巴",
+    "region": "美洲",
+    "quote": "千里達的Casa de la Musica我覺得是最棒的",
+    "context": "露天階梯廣場，現場樂團與月下跳騷莎"
   }
 ]

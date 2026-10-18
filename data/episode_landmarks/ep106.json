@@ -1,24 +1,82 @@
 [
   {
-    "name": "聖薩瓦大教堂",
-    "name_en": "Church of Saint Sava",
-    "lat": 44.798,
-    "lon": 20.469,
+    "name": "莫克拉戈拉木頭城（木頭村）",
+    "name_en": "Drvengrad (Küstendorf), Mokra Gora",
+    "lat": 43.795,
+    "lon": 19.516,
     "country": "塞爾維亞",
-    "region": "亞洲",
-    "quote": "首都里面最大的东征交交场，号称世界上最大的东征交交场，还在盖当中",
-    "context": "提及俄羅斯石油公司贊助興建的當地地標",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Hram_svetog_save_beograd_0005_%28edited%29.jpg/330px-Hram_svetog_save_beograd_0005_%28edited%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    "region": "歐洲",
+    "quote": "他們有一個城就是木頭城",
+    "context": "電影《生命是個奇蹟》拍攝地，現為度假村，自助餐超便宜"
   },
   {
-    "name": "穆罕默德·帕夏·索科洛維奇橋",
-    "name_en": "Mehmed Paša Sokolović Bridge",
-    "lat": 43.782,
-    "lon": 19.288,
+    "name": "莫克拉戈拉火車站",
+    "name_en": "Šargan Eight / Mokra Gora Railway Station",
+    "lat": 43.797,
+    "lon": 19.514,
+    "country": "塞爾維亞",
+    "region": "歐洲",
+    "quote": "Mocara那邊也有一個火車站",
+    "context": "電影主角為站長，與劇情呼應"
+  },
+  {
+    "name": "德里納河上的橋（穆罕默德·巴夏·索科羅維奇橋）",
+    "name_en": "Mehmed Paša Sokolović Bridge, Višegrad",
+    "lat": 43.783,
+    "lon": 19.287,
     "country": "波士尼亞與赫塞哥維納",
-    "region": "亞洲",
-    "quote": "经过了一条河，然后就是德里纳河上的桥，他是诺贝尔文学奖的得主的小说",
-    "context": "諾貝爾文學獎小說故事的核心場景",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Bridge_on_the_Drina%2C_januar_2018.jpg/330px-Bridge_on_the_Drina%2C_januar_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    "region": "歐洲",
+    "quote": "那就是很感動的看到那座",
+    "context": "安德里奇小說《德里納河上的橋》的原型，見證三百年歷史"
+  },
+  {
+    "name": "安德里奇城",
+    "name_en": "Andrićgrad, Višegrad",
+    "lat": 43.784,
+    "lon": 19.289,
+    "country": "波士尼亞與赫塞哥維納",
+    "region": "歐洲",
+    "quote": "他那邊同時在旁邊有蓋了一個安德里奇的城",
+    "context": "為紀念作者所建，內部卻像購物中心"
+  },
+  {
+    "name": "維舍格勒",
+    "name_en": "Višegrad",
+    "lat": 43.783,
+    "lon": 19.292,
+    "country": "波士尼亞與赫塞哥維納",
+    "region": "歐洲",
+    "quote": "進去就是到目的就是Vishegrat",
+    "context": "塞族共和國境內小城，德里納河畔，旅途重要停留點"
+  },
+  {
+    "name": "塞拉耶佛市政廳",
+    "name_en": "Sarajevo City Hall (Vijećnica)",
+    "lat": 43.8592,
+    "lon": 18.4343,
+    "country": "波士尼亞與赫塞哥維納",
+    "region": "歐洲",
+    "quote": "那個市政廳其實蠻有趣的",
+    "context": "內戰時被燒毀，戰後由奧匈、西班牙等資助重建，摩爾風格"
+  },
+  {
+    "name": "塞拉耶佛冬奧場館",
+    "name_en": "Sarajevo 1984 Winter Olympic Venues",
+    "lat": 43.7855,
+    "lon": 18.44,
+    "country": "波士尼亞與赫塞哥維納",
+    "region": "歐洲",
+    "quote": "那個時候另外一方為了擊潰他們的自信心就有專門去打冬奧場館",
+    "context": "圍城期間遭砲轟的驕傲象徵"
+  },
+  {
+    "name": "貝爾格勒最大東正教堂（聖薩瓦教堂）",
+    "name_en": "Church of Saint Sava, Belgrade",
+    "lat": 44.7983,
+    "lon": 20.4687,
+    "country": "塞爾維亞",
+    "region": "歐洲",
+    "quote": "號稱世界上最大的東正教堂還在蓋當中",
+    "context": "俄羅斯石油公司贊助興建"
   }
 ]

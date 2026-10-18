@@ -1,43 +1,102 @@
 [
   {
-    "name": "罗马帝国遗迹（瓦鲁比利斯）",
-    "name_en": "Volubilis",
-    "lat": 34.072,
-    "lon": -5.554,
+    "name": "馬拉喀什舊城區",
+    "name_en": "Marrakech Medina",
+    "lat": 31.629,
+    "lon": -7.981,
     "country": "摩洛哥",
     "region": "非洲",
-    "quote": "是罗马帝国遗迹",
-    "context": "摩洛哥境内保留的罗马帝国历史遗迹",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Volubilis_Longshot_II.jpg/330px-Volubilis_Longshot_II.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    "quote": "你在老城区里面完全是大概千年以前的生活模式",
+    "context": "摩洛哥最愛的城市，古老與奢華並存的老城區與大夜市"
   },
   {
-    "name": "菲斯第一所大学（卡鲁因大学）",
-    "name_en": "University of al-Qarawiyyin",
-    "lat": 34.064,
+    "name": "法斯舊城區",
+    "name_en": "Fes el-Bali Medina",
+    "lat": 34.065,
     "lon": -4.973,
     "country": "摩洛哥",
     "region": "非洲",
+    "quote": "它这里有9000条巷子的Medina",
+    "context": "九千條巷弄的迷宮古城，購物與文化灯塔"
+  },
+  {
+    "name": "撒哈拉沙漠營區",
+    "name_en": "Erg Chebbi Sahara Desert Camp",
+    "lat": 31.15,
+    "lon": -3.97,
+    "country": "摩洛哥",
+    "region": "非洲",
+    "quote": "我们从一块地，就只有地和沙，建起了一个我们自己的奢华帐篷营区",
+    "context": "橘色沙丘、騎駱駝、帳篷營區與柏柏爾遊牧體驗"
+  },
+  {
+    "name": "舍夫沙萬",
+    "name_en": "Chefchaouen",
+    "lat": 35.168,
+    "lon": -5.269,
+    "country": "摩洛哥",
+    "region": "非洲",
+    "quote": "真正真正蓝的很美很美的蓝城就是舍夫沙湾",
+    "context": "世界三大藍城之一，整座山城皆為藍色"
+  },
+  {
+    "name": "卡魯因大學",
+    "name_en": "University of al-Qarawiyyin",
+    "lat": 34.065,
+    "lon": -4.974,
+    "country": "摩洛哥",
+    "region": "非洲",
     "quote": "当时全世界第一所大学就出现在摩洛哥的菲斯",
-    "context": "史上第一所大学，现已变为清真寺"
+    "context": "世界最早大學，現為清真寺，僅能外觀"
   },
   {
-    "name": "马拉克什老城区（Medina）",
-    "name_en": "Medina of Marrakesh",
-    "lat": 31.631,
-    "lon": -7.989,
+    "name": "法斯皮革染坊",
+    "name_en": "Chouara Tannery",
+    "lat": 34.0662,
+    "lon": -4.9729,
     "country": "摩洛哥",
     "region": "非洲",
-    "quote": "它的Medina不是只有旧的东西哦",
-    "context": "融合千年历史与新设计师聚落的旧城区"
+    "quote": "第一大最知名看点就是皮革染坊",
+    "context": "古法染皮革，氣味強烈，需捂薄荷葉"
   },
   {
-    "name": "马拉克什大市集（杰马夫纳广场）",
-    "name_en": "Jemaa el-Fnaa",
-    "lat": 31.625,
-    "lon": -7.989,
+    "name": "馬穆尼亞酒店",
+    "name_en": "La Mamounia",
+    "lat": 31.6213,
+    "lon": -7.9948,
     "country": "摩洛哥",
     "region": "非洲",
-    "quote": "就全非洲最大的市集",
-    "context": "全非洲最大的夜市，充满生命力"
+    "quote": "我想要在里面喝一顿下午茶",
+    "context": "國王直營的奢華飯店，常因皇室入住而清場"
+  },
+  {
+    "name": "皇家曼蘇爾酒店",
+    "name_en": "Royal Mansour Marrakech",
+    "lat": 31.6247,
+    "lon": -7.9889,
+    "country": "摩洛哥",
+    "region": "非洲",
+    "quote": "没有任何一间旅行社敢订他的房间",
+    "context": "皇室飯店，皇室入住時整個園區清空"
+  },
+  {
+    "name": "伊夫聖羅蘭博物館與馬若雷花園",
+    "name_en": "Musée Yves Saint Laurent Marrakech & Jardin Majorelle",
+    "lat": 31.6417,
+    "lon": -8.0033,
+    "country": "摩洛哥",
+    "region": "非洲",
+    "quote": "他的骨灰就洒在这边的一个蓝色的花园里面",
+    "context": "YSL創辦人安息之地，時尚朝聖景點"
+  },
+  {
+    "name": "撒哈拉恐龍化石區",
+    "name_en": "Erfoud Fossil Area",
+    "lat": 31.43,
+    "lon": -4.23,
+    "country": "摩洛哥",
+    "region": "非洲",
+    "quote": "沙漠里还有化石区",
+    "context": "可撿化石、隕石，並有恐龍化石博物館"
   }
 ]

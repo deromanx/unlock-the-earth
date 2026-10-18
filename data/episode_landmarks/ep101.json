@@ -1,42 +1,42 @@
 [
   {
-    "name": "生動台北錄音室",
-    "name_en": "SoundOn Studio",
-    "lat": 25.049,
+    "name": "生動台北錄音室（Star Hostel 台北車站）",
+    "name_en": "Star Hostel Taipei Main Station",
+    "lat": 25.0485,
     "lon": 121.516,
     "country": "台灣",
     "region": "台灣",
-    "quote": "我們現在在生動台北錄音室這樣",
-    "context": "本集Podcast實際錄音的實體工作室"
+    "quote": "台北車站後站",
+    "context": "本集錄音地點，位於台北車站後站的旅舍"
   },
   {
-    "name": "華陰街",
-    "name_en": "Huayin Street",
-    "lat": 25.049,
-    "lon": 121.516,
-    "country": "台灣",
-    "region": "台灣",
-    "quote": "這條街我不知道再出了什麼事 華音街",
-    "context": "錄音室所在的街道，主持人提到附近有許多美食"
+    "name": "墨西哥城亡靈節遊行",
+    "name_en": "Day of the Dead Parade, Mexico City",
+    "lat": 19.4326,
+    "lon": -99.1332,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "然後現在墨西哥市還會辦王林杰遊行",
+    "context": "主持人參加亡靈節遊行、化骷髏妝的體驗"
   },
   {
-    "name": "信星青年旅館",
-    "name_en": "Star Hostel",
-    "lat": 25.049,
-    "lon": 121.516,
-    "country": "台灣",
-    "region": "台灣",
-    "quote": "喔這個深重台北錄音室 是在那個Star Hostel裡面",
-    "context": "與錄音室共構的知名青年旅館，空間舒適"
+    "name": "木乃伊博物館（瓜納華托）",
+    "name_en": "Museo de las Momias",
+    "lat": 21.019,
+    "lon": -101.2574,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "我們去了一個木乃伊博物館",
+    "context": "由墓園遺體改建的博物館，乾屍與死亡觀"
   },
   {
-    "name": "台北車站",
-    "name_en": "Taipei Main Station",
-    "lat": 25.047,
-    "lon": 121.517,
-    "country": "台灣",
-    "region": "台灣",
-    "quote": "台北車站後站 你剛剛上來應該不會很難找吧",
-    "context": "錄音室鄰近的交通樞紐，用來說明地點的便利性"
+    "name": "聖母峰基地營（EBC）",
+    "name_en": "Everest Base Camp",
+    "lat": 28.0026,
+    "lon": 86.8528,
+    "country": "尼泊爾",
+    "region": "亞洲",
+    "quote": "那時候是我去EBC聖母風機電影",
+    "context": "高山症瀕死、人生跑馬燈的經驗地點"
   }
 ]

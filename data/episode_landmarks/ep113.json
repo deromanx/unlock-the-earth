@@ -2,52 +2,42 @@
   {
     "name": "德雷克海峽",
     "name_en": "Drake Passage",
-    "lat": -58.583,
-    "lon": -62.033,
-    "country": "無",
-    "region": "極地",
-    "quote": "因為我們剛剛不是說過會經過那個 Drag Passage 那個海峽嗎",
-    "context": "前往南極必經的海峽，風浪非常大容易造成暈船"
-  },
-  {
-    "name": "英國研究站 (洛克羅伊港)",
-    "name_en": "Port Lockroy",
-    "lat": -64.825,
-    "lon": -63.494,
+    "lat": -58.5,
+    "lon": -62.0,
     "country": "南極洲",
     "region": "極地",
-    "quote": "如果你去英國的研究站...會有一個小屋可以給你買紀念品",
-    "context": "可購買紀念品並透過英國郵政寄明信片的南極研究站"
+    "quote": "我們剛剛不是說過會經過那個Drag Passage 那個海峽嗎",
+    "context": "往南極途中需航行兩天，風浪大、暈船嚴重"
   },
   {
-    "name": "烏斯華雅",
+    "name": "烏斯懷亞",
     "name_en": "Ushuaia",
-    "lat": -54.802,
+    "lat": -54.801,
     "lon": -68.303,
     "country": "阿根廷",
     "region": "美洲",
     "quote": "通常終點站都是烏斯華雅",
-    "context": "南極船班常見的起終點城鎮",
+    "context": "南極航程的出發港，可等最後一刻船票",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Ushuaia_aerial_panorama.jpg/330px-Ushuaia_aerial_panorama.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "南極半島",
     "name_en": "Antarctic Peninsula",
     "lat": -65.0,
-    "lon": -62.0,
+    "lon": -63.0,
     "country": "南極洲",
     "region": "極地",
-    "quote": "因為我是去玩那種11天的那種，就只會在南極半島登陸而已",
-    "context": "短天數南極行程主要登陸與參觀的區域"
+    "quote": "就只會在南極半島登陸而已",
+    "context": "11天行程的登陸地，可看企鵝、冰山與研究站"
   },
   {
     "name": "南喬治亞島",
-    "name_en": "South Georgia",
-    "lat": -54.283,
-    "lon": -36.283,
-    "country": "英國",
+    "name_en": "South Georgia Island",
+    "lat": -54.28,
+    "lon": -36.51,
+    "country": "英屬南喬治亞",
     "region": "極地",
-    "quote": "好像是南喬治亞島吧，那South Georgia就是其他的島去",
-    "context": "較長天數行程會前往的島嶼，可觀賞國王企鵝"
+    "quote": "好像是南喬治亞島吧",
+    "context": "較長行程可抵達，能看到國王企鵝"
   }
 ]

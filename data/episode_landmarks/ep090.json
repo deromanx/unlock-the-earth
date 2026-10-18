@@ -1,32 +1,65 @@
 [
   {
-    "name": "白沙丘",
-    "name_en": "White Sand Dunes",
-    "lat": 11.063,
-    "lon": 108.431,
-    "country": "越南",
+    "name": "塔鸞寺",
+    "name_en": "Pha That Luang",
+    "lat": 17.9585,
+    "lon": 102.6364,
+    "country": "寮國",
     "region": "亞洲",
-    "quote": "我記得那時候我們在那個白沙丘的時候",
-    "context": "提及在積水中尋找特殊食蟲植物的景點"
+    "quote": "有跟我講一些塔蘭裡面的歷史啊",
+    "context": "農藝帶講者參觀，介紹寺內歷史與佛指舍利",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Pha_That_Luang%2C_July_2023.jpg/330px-Pha_That_Luang%2C_July_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "東協廣場",
+    "name_en": "Vientiane Mekong Riverfront ASEAN Park",
+    "lat": 17.9285,
+    "lon": 102.612,
+    "country": "寮國",
+    "region": "亞洲",
+    "quote": "有點像東協廣場",
+    "context": "湄公河畔廣場，講者在此向農藝問路",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/%E5%8F%B0%E4%B8%AD%E7%AC%AC%E4%B8%80%E5%BB%A3%E5%A0%B4.jpg/330px-%E5%8F%B0%E4%B8%AD%E7%AC%AC%E4%B8%80%E5%BB%A3%E5%A0%B4.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "佛陀公園",
+    "name_en": "Buddha Park (Xieng Khuan)",
+    "lat": 17.8372,
+    "lon": 102.7683,
+    "country": "寮國",
+    "region": "亞洲",
+    "quote": "永生旁邊那個Boodle Park",
+    "context": "農藝帶講者騎車前往的佛像公園"
+  },
+  {
+    "name": "旺陽",
+    "name_en": "Vang Vieng",
+    "lat": 18.9229,
+    "lon": 102.4448,
+    "country": "寮國",
+    "region": "亞洲",
+    "quote": "就跟當地認識到的台灣朋友就一起過去旺陽那邊",
+    "context": "潑水節期間體驗河中擺桌吃飯",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/VientianeProvince_VangVieng9_tango7174.jpg/330px-VientianeProvince_VangVieng9_tango7174.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "龍坡邦",
     "name_en": "Luang Prabang",
-    "lat": 19.883,
-    "lon": 102.133,
+    "lat": 19.8856,
+    "lon": 102.1347,
     "country": "寮國",
     "region": "亞洲",
-    "quote": "我在那時候在龍泊幫的時候看到他們的清晨布施",
-    "context": "提及當地有名的清晨供養出家人活動"
+    "quote": "看到他們的清晨布施",
+    "context": "提到當地清晨布施糯米的景象"
   },
   {
-    "name": "香昆寺",
-    "name_en": "Buddha Park",
-    "lat": 17.912,
-    "lon": 102.764,
-    "country": "寮國",
+    "name": "美奈白沙丘",
+    "name_en": "Mui Ne White Sand Dunes",
+    "lat": 11.056,
+    "lon": 108.43,
+    "country": "越南",
     "region": "亞洲",
-    "quote": "我那時候在那個永生旁邊那個Boodle Park沒有看到",
-    "context": "討論佛像旁擺放糯米的宗教習俗"
+    "quote": "我記得那時候我們在那個白沙丘的時候",
+    "context": "講者在沙丘積水處發現食蟲植物"
   }
 ]

@@ -2,12 +2,12 @@
   {
     "name": "亞馬爾半島",
     "name_en": "Yamal Peninsula",
-    "lat": 70.366,
-    "lon": 69.198,
+    "lat": 70.5,
+    "lon": 70.0,
     "country": "俄羅斯",
     "region": "亞洲",
-    "quote": "是在亚马尔半岛",
-    "context": "本集主題核心地點，原住民涅涅茨人的家鄉。"
+    "quote": "是在亞馬爾半島,寧內語詞這樣的",
+    "context": "本集主軸,北極圈內涅涅茨人游牧地"
   },
   {
     "name": "薩列哈爾德",
@@ -16,47 +16,57 @@
     "lon": 66.601,
     "country": "俄羅斯",
     "region": "亞洲",
-    "quote": "萨列哈尔德是在亚马尔半岛",
-    "context": "亞馬爾半島首府，來賓空降並開始尋找薩滿的起點。"
+    "quote": "從莫斯科到那個薩列哈爾德",
+    "context": "亞馬爾地區首府,博物館與北極研究中心所在"
   },
   {
     "name": "薩列哈爾德博物館",
-    "name_en": "Salekhard Museum",
-    "lat": 66.531,
-    "lon": 66.603,
+    "name_en": "Shemanovsky Yamal-Nenets District Museum",
+    "lat": 66.53,
+    "lon": 66.61,
     "country": "俄羅斯",
     "region": "亞洲",
-    "quote": "我就直接去当地的博物馆",
-    "context": "來賓抵達薩列哈爾德後，尋求薩滿線索的第一站。"
+    "quote": "我就直接去當地的博物館",
+    "context": "下飛機直奔博物館,獲得薩滿線索與住處"
   },
   {
     "name": "北極研究中心",
-    "name_en": "Arctic Research Center",
-    "lat": 66.533,
-    "lon": 66.606,
+    "name_en": "Scientific Center of Arctic Studies",
+    "lat": 66.531,
+    "lon": 66.605,
     "country": "俄羅斯",
     "region": "亞洲",
-    "quote": "我还去了那个北极研究中心",
-    "context": "位於市中心的官方研究機構，為來賓提供路線指引。"
+    "quote": "我還去了那個北極研究中心",
+    "context": "研究北極民族學的官方機構,獲院長接待"
   },
   {
-    "name": "亞爾薩",
+    "name": "亞爾薩雷",
     "name_en": "Yar-Sale",
-    "lat": 66.861,
-    "lon": 70.835,
+    "lat": 66.833,
+    "lon": 70.833,
     "country": "俄羅斯",
     "region": "亞洲",
-    "quote": "我就到了亚尔萨",
-    "context": "北極圈內的城鎮，來賓在此地借宿並為當地孩童看診。"
+    "quote": "我就到了亞爾薩雷",
+    "context": "搭船抵達,寄宿原住民家庭並教小兒推拿"
   },
   {
-    "name": "紫尼撒雷",
-    "name_en": "Syunay-Sale",
-    "lat": 66.262,
-    "lon": 69.754,
+    "name": "蘇尼薩雷",
+    "name_en": "Seyakha (Sunisa area)",
+    "lat": 70.15,
+    "lon": 72.55,
     "country": "俄羅斯",
     "region": "亞洲",
-    "quote": "当我在紫尼撒雷的那个小雨村的时候",
-    "context": "薩滿所在的偏遠村落，來賓在此與薩滿會面並為村民看診。"
+    "quote": "我就打聽到有地方叫Sunisa",
+    "context": "有大薩滿的村落,作者訪談薩滿與村民義診處"
+  },
+  {
+    "name": "古拉格鐵路遺跡",
+    "name_en": "Gulag Railway (Polar Railway ruins)",
+    "lat": 66.6,
+    "lon": 67.2,
+    "country": "俄羅斯",
+    "region": "亞洲",
+    "quote": "我們要沿著俄羅斯派政治犯去修鐵路的路線",
+    "context": "健行重走政治犯修建的廢棄鐵軌,遇熊與蚊群"
   }
 ]

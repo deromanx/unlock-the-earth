@@ -1,1 +1,43 @@
-[]
+[
+  {
+    "name": "木祖祖",
+    "name_en": "Mzuzu",
+    "lat": -11.465,
+    "lon": 34.02,
+    "country": "馬拉威",
+    "region": "非洲",
+    "quote": "我在母族族",
+    "context": "講者工作與生活的馬拉威北部第三大城",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/MzuzuMalawi.JPG/330px-MzuzuMalawi.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "馬拉威湖",
+    "name_en": "Lake Malawi",
+    "lat": -12.0,
+    "lon": 34.5,
+    "country": "馬拉威",
+    "region": "非洲",
+    "quote": "你知道馬拉威有個湖,叫馬拉威湖",
+    "context": "占國土約五分之一，當地人度假的湖邊海灘"
+  },
+  {
+    "name": "里摳馬島",
+    "name_en": "Likoma Island",
+    "lat": -12.073,
+    "lon": 34.738,
+    "country": "馬拉威",
+    "region": "非洲",
+    "quote": "然後其實湖中間有個小島",
+    "context": "為勘查愛滋病計畫搭小艇前往，暈船並被困過夜"
+  },
+  {
+    "name": "卡塔貝",
+    "name_en": "Kande Beach",
+    "lat": -10.99,
+    "lon": 34.25,
+    "country": "馬拉威",
+    "region": "非洲",
+    "quote": "一個地方叫卡塔貝",
+    "context": "前往小島的湖邊出發點"
+  }
+]

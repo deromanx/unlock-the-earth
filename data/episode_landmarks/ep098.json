@@ -1,25 +1,65 @@
 [
   {
-    "name": "奧斯陸大學",
-    "name_en": "University of Oslo",
-    "lat": 59.939,
-    "lon": 10.722,
+    "name": "特羅姆瑟",
+    "name_en": "Tromsø",
+    "lat": 69.649,
+    "lon": 18.956,
     "country": "挪威",
     "region": "歐洲",
-    "quote": "去了挪威的奧斯陸大學當交換學生",
-    "context": "講者擔任交換學生的學校",
-    "image": "https://thumb.wikimedia.org/wikipedia/en/thumb/3/31/University_of_Oslo_seal.svg/330px-University_of_Oslo_seal.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    "quote": "其实有一次我就是去挪威很北边的一个城市,它叫做极光,它就是一个极光小镇,然后叫做特罗姆色",
+    "context": "北極圈極光小鎮，作者自行追極光、吃最北漢堡王",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Troms%C3%B8_sentrum_%285835702754%29.jpg/330px-Troms%C3%B8_sentrum_%285835702754%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "聖壇岩",
-    "name_en": "Preikestolen",
-    "lat": 58.987,
-    "lon": 6.188,
+    "name": "奧斯陸",
+    "name_en": "Oslo",
+    "lat": 59.913,
+    "lon": 10.752,
     "country": "挪威",
     "region": "歐洲",
-    "quote": "第一個就是聖壇岩它就是一個很像講台的那個地方",
-    "context": "挪威三大奇岩之一，熱門打卡景點",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Lyse_Fjord_et_Preikestolen.jpg/330px-Lyse_Fjord_et_Preikestolen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    "quote": "奥斯陆在挪威应该算是比较南端的城市",
+    "context": "來賓交換地點，介紹地形、氣候與生活",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Nationaltheatret_evening.jpg/330px-Nationaltheatret_evening.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "弗洛姆",
+    "name_en": "Flåm",
+    "lat": 60.863,
+    "lon": 7.114,
+    "country": "挪威",
+    "region": "歐洲",
+    "quote": "就是可以看峡湾的地方它叫做佛赖木",
+    "context": "挪威縮影行程小鎮，遇火車罷工受困"
+  },
+  {
+    "name": "卡爾約翰大道",
+    "name_en": "Karl Johans gate",
+    "lat": 59.913,
+    "lon": 10.743,
+    "country": "挪威",
+    "region": "歐洲",
+    "quote": "叫做卡尔约翰大道",
+    "context": "奧斯陸國慶日遊行的步行大道，通往皇宮"
+  },
+  {
+    "name": "挪威皇宮",
+    "name_en": "Royal Palace, Oslo",
+    "lat": 59.917,
+    "lon": 10.727,
+    "country": "挪威",
+    "region": "歐洲",
+    "quote": "然后走到皇宫",
+    "context": "國慶日遊行終點，國王向民眾揮手"
+  },
+  {
+    "name": "講壇岩",
+    "name_en": "Preikestolen (Pulpit Rock)",
+    "lat": 58.986,
+    "lon": 6.19,
+    "country": "挪威",
+    "region": "歐洲",
+    "quote": "第一个就是圣坛岩,它就是一个很像讲台的那个地方",
+    "context": "挪威三大奇岩之一，斷崖平台景點"
   },
   {
     "name": "奇蹟岩",
@@ -28,50 +68,30 @@
     "lon": 6.594,
     "country": "挪威",
     "region": "歐洲",
-    "quote": "第二個是奇蹟岩這個很多人應該都有聽過就是他就是一顆石頭夾在兩個山的中間",
-    "context": "挪威三大奇岩之一，夾在山壁間的石頭",
+    "quote": "第二个是奇迹岩,这个很多人应该都有听过就是他就是一颗石头夹在两个山的中间",
+    "context": "三大奇岩之一，卡在兩山壁間的巨石",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Kjerakbolten_Freddy_Fish.jpg/330px-Kjerakbolten_Freddy_Fish.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "巨人之舌",
     "name_en": "Trolltunga",
-    "lat": 60.132,
+    "lat": 60.124,
     "lon": 6.74,
     "country": "挪威",
     "region": "歐洲",
-    "quote": "第三個就叫做巨人之蛇然後它是一個很像舌頭然後就是一個很尖的就凸出來",
-    "context": "挪威三大奇岩之一，從山壁凸出的岩石",
+    "quote": "第三个就叫做巨人之蛇,然后它是一个很像舌头",
+    "context": "三大奇岩之一，凸出山壁的舌狀岩石",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Trolltunga_2017.jpg/330px-Trolltunga_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "卡爾約翰大道",
-    "name_en": "Karl Johans gate",
-    "lat": 59.914,
-    "lon": 10.738,
+    "name": "卑爾根",
+    "name_en": "Bergen",
+    "lat": 60.391,
+    "lon": 5.322,
     "country": "挪威",
     "region": "歐洲",
-    "quote": "在那個市中心最大條的那條人行街道上叫做卡爾約翰大道",
-    "context": "奧斯陸主要街道，國慶日遊行地點"
-  },
-  {
-    "name": "奧斯陸皇宮",
-    "name_en": "Royal Palace, Oslo",
-    "lat": 59.916,
-    "lon": 10.727,
-    "country": "挪威",
-    "region": "歐洲",
-    "quote": "在那邊就是走然後就走一走這樣子然後走到皇宮",
-    "context": "國慶日遊行終點，皇室居住地"
-  },
-  {
-    "name": "特羅姆瑟",
-    "name_en": "Tromsø",
-    "lat": 69.649,
-    "lon": 18.955,
-    "country": "挪威",
-    "region": "極地",
-    "quote": "它就是一個極光小鎮然後叫做特羅姆色",
-    "context": "位於北極圈內的極光小鎮",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Troms%C3%B8_sentrum_%285835702754%29.jpg/330px-Troms%C3%B8_sentrum_%285835702754%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    "quote": "然后带你到西边的城市叫贝尔根",
+    "context": "挪威縮影行程的西岸終點城市",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Bergen_panorama_at_night_-_panoramio_%281%29.jpg/330px-Bergen_panorama_at_night_-_panoramio_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]

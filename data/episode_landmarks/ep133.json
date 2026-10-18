@@ -2,24 +2,89 @@
   {
     "name": "丹吉爾",
     "name_en": "Tangier",
-    "lat": 35.759,
-    "lon": -5.833,
+    "lat": 35.768,
+    "lon": -5.8,
     "country": "摩洛哥",
     "region": "非洲",
-    "quote": "出生在摩洛哥一个叫做丹吉尔的地方",
-    "context": "伊本巴圖塔的出生地，為大西洋與地中海交界的港口城市",
+    "quote": "在西元1304年的时候出生在摩洛哥一个叫做丹吉尔的地方",
+    "context": "伊本巴圖塔的出生地與返鄉終點，重要港口城市",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Tanger_cor.jpg/330px-Tanger_cor.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "麥加",
-    "name_en": "Mecca",
-    "lat": 21.422,
+    "name": "麥加克爾白",
+    "name_en": "Kaaba, Mecca",
+    "lat": 21.423,
     "lon": 39.826,
     "country": "沙烏地阿拉伯",
     "region": "亞洲",
-    "quote": "一生就至少需要前往卖家朝圣一次",
-    "context": "伊本巴圖塔踏上旅途的終極目的地",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Great_Mosque_of_Mecca1.jpg/330px-Great_Mosque_of_Mecca1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    "quote": "他有介绍了一个克尔白,然后说这是伊斯兰世界就最神圣的地方",
+    "context": "朝聖目的地，介紹黑石與巡禮儀式"
+  },
+  {
+    "name": "大馬士革",
+    "name_en": "Damascus",
+    "lat": 33.511,
+    "lon": 36.292,
+    "country": "敘利亞",
+    "region": "亞洲",
+    "quote": "大马士革的美就没有办法用笔墨来形容",
+    "context": "繁榮的文化中心，他在此認真進修",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Damascus%2C_Syria%2C_Panoramic_view_of_Damascus.jpg/330px-Damascus%2C_Syria%2C_Panoramic_view_of_Damascus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "君士坦丁堡",
+    "name_en": "Constantinople",
+    "lat": 41.008,
+    "lon": 28.978,
+    "country": "土耳其",
+    "region": "亞洲",
+    "quote": "城里一连举行好几天宴会",
+    "context": "隨可敦返回拜占庭首都，停留受款待",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Byzantine_Constantinople-en.png/330px-Byzantine_Constantinople-en.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "聖索菲亞大教堂",
+    "name_en": "Hagia Sophia",
+    "lat": 41.008,
+    "lon": 28.98,
+    "country": "土耳其",
+    "region": "亞洲",
+    "quote": "然后他还去看那个圣索菲亚大教堂",
+    "context": "他在外面看過，未進入內部",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Hagia_Sophia_%28228968325%29.jpeg/330px-Hagia_Sophia_%28228968325%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "德里",
+    "name_en": "Delhi",
+    "lat": 28.614,
+    "lon": 77.209,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "他到德里的时候他没有看到苏丹本人",
+    "context": "德里蘇丹國首都，他擔任大法官之處",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Jama_Masjid_2011.jpg/330px-Jama_Masjid_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "耶路撒冷",
+    "name_en": "Jerusalem",
+    "lat": 31.778,
+    "lon": 35.235,
+    "country": "以色列",
+    "region": "亞洲",
+    "quote": "他在耶路撒冷逗留了还蛮长一阵子",
+    "context": "朝聖途中停留之地",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Temple_Mount_%28Aerial_view%2C_2007%29_07.jpg/330px-Temple_Mount_%28Aerial_view%2C_2007%29_07.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "伯利恆",
+    "name_en": "Bethlehem",
+    "lat": 31.705,
+    "lon": 35.202,
+    "country": "巴勒斯坦",
+    "region": "亞洲",
+    "quote": "他有去伯利恒还参观耶稣的那个诞生地点",
+    "context": "參觀耶穌誕生地",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Church_of_the_Nativity_%287703592746%29.jpg/330px-Church_of_the_Nativity_%287703592746%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "特萊姆森",
@@ -28,8 +93,19 @@
     "lon": -1.315,
     "country": "阿爾及利亞",
     "region": "非洲",
-    "quote": "来到今天阿尔吉利亚的一个叫特莱姆森城的地方",
-    "context": "伊本巴圖塔獨自出發後不久抵達的首個城鎮"
+    "quote": "今天的阿尔吉利亚的一个叫特莱姆森城的地方",
+    "context": "出發初期遇到旅伴的城市"
+  },
+  {
+    "name": "突尼斯城",
+    "name_en": "Tunis",
+    "lat": 36.806,
+    "lon": 10.181,
+    "country": "突尼西亞",
+    "region": "非洲",
+    "quote": "他在那个土尼斯城的大街上大哭",
+    "context": "他在此崩潰大哭，並娶妻、加入朝聖隊",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Minaret_et_patio_de_la_mosqu%C3%A9e_Zitouna_au_centre_de_la_M%C3%A9dina_de_Tunis.jpg/330px-Minaret_et_patio_de_la_mosqu%C3%A9e_Zitouna_au_centre_de_la_M%C3%A9dina_de_Tunis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "阿爾及爾",
@@ -38,8 +114,61 @@
     "lon": 3.059,
     "country": "阿爾及利亞",
     "region": "非洲",
-    "quote": "他走到今天那个阿尔吉利亚的首都阿尔及尔城",
-    "context": "伊本巴圖塔旅途中抵達的城市，並在此加入商隊同行",
+    "quote": "他走到今天那个阿尔吉利亚的首都阿尔吉尔城",
+    "context": "在此加入突尼西亞商隊",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/La_baie_d%27Alger_%28cropped%29.jpg/330px-La_baie_d%27Alger_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "加薩",
+    "name_en": "Gaza",
+    "lat": 31.501,
+    "lon": 34.467,
+    "country": "巴勒斯坦",
+    "region": "亞洲",
+    "quote": "然后到今天的加萨",
+    "context": "進入馬木路克控制區，受守軍款待"
+  },
+  {
+    "name": "卡利卡特",
+    "name_en": "Calicut",
+    "lat": 11.259,
+    "lon": 75.78,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "一个叫苛泽苛德的港口城市",
+    "context": "使節團預計搭船赴中國的港口，他被丟包"
+  },
+  {
+    "name": "馬爾地夫",
+    "name_en": "Maldives",
+    "lat": 4.175,
+    "lon": 73.509,
+    "country": "馬爾地夫",
+    "region": "亞洲",
+    "quote": "他在马尔地府很短暂的担任了一下法官",
+    "context": "身無分文時短暫擔任法官並與島民爭執",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Maldives.svg/330px-Flag_of_Maldives.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "杭州",
+    "name_en": "Hangzhou",
+    "lat": 30.275,
+    "lon": 120.155,
+    "country": "中國",
+    "region": "亞洲",
+    "quote": "他在中国杭州然后他说这边到处都是异教徒",
+    "context": "他在中國的停留地，不喜歡此地",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/%E6%9D%AD%E5%B7%9E%E9%92%B1%E6%B1%9F%E6%96%B0%E5%9F%8E_4_%28cropped%29.jpg/330px-%E6%9D%AD%E5%B7%9E%E9%92%B1%E6%B1%9F%E6%96%B0%E5%9F%8E_4_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "麥加",
+    "name_en": "Mecca",
+    "lat": 21.389,
+    "lon": 39.858,
+    "country": "沙烏地阿拉伯",
+    "region": "亞洲",
+    "quote": "然后他终于见到了卖家",
+    "context": "朝聖聖地，他前後兩度前往",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Great_Mosque_of_Mecca1.jpg/330px-Great_Mosque_of_Mecca1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]

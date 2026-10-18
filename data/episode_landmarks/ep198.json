@@ -1,1 +1,54 @@
-[]
+[
+  {
+    "name": "下北澤",
+    "name_en": "Shimokitazawa",
+    "lat": 35.661,
+    "lon": 139.667,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "而且其实我们都住在下北哲那一区",
+    "context": "作者與街頭畫家同住的東京街區，戀情發生地"
+  },
+  {
+    "name": "新大久保",
+    "name_en": "Shin-Okubo",
+    "lat": 35.701,
+    "lon": 139.7,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "它是在东京的新大酒保附近",
+    "context": "作者就讀日語學校所在的東京區域"
+  },
+  {
+    "name": "澀谷",
+    "name_en": "Shibuya",
+    "lat": 35.659,
+    "lon": 139.701,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "叫做Shibuya Meltdown",
+    "context": "以醉倒路邊的人聞名，並提及未婚夫家公寓",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Shibuya_skyline_from_Tokyu_Plaza_in_Omotesando%2C_Harajuku%2C_Tokyo%2C_2024_May.jpg/330px-Shibuya_skyline_from_Tokyu_Plaza_in_Omotesando%2C_Harajuku%2C_Tokyo%2C_2024_May.jpg"
+  },
+  {
+    "name": "廣島",
+    "name_en": "Hiroshima",
+    "lat": 34.385,
+    "lon": 132.455,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "我就一路玩到广岛去",
+    "context": "以青春18車票從東京搭慢車抵達的目的地",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Atomic_Bomb_Dome_and_Motoyaso_River%2C_Hiroshima%2C_Northwest_view_20190417_1.jpg/330px-Atomic_Bomb_Dome_and_Motoyaso_River%2C_Hiroshima%2C_Northwest_view_20190417_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "墨爾本街頭",
+    "name_en": "Melbourne CBD",
+    "lat": -37.814,
+    "lon": 144.963,
+    "country": "澳洲",
+    "region": "大洋洲",
+    "quote": "最后呢他在墨尔本的街头他又在那边画画",
+    "context": "與前男友在墨爾本街頭意外重逢"
+  }
+]

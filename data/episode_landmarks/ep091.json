@@ -1,42 +1,152 @@
 [
   {
-    "name": "苗場滑雪場",
-    "name_en": "Naeba Ski Resort",
-    "lat": 36.792,
-    "lon": 138.783,
+    "name": "苗場滑雪場（富士搖滾音樂祭會場）",
+    "name_en": "Naeba Ski Resort (Fuji Rock Festival)",
+    "lat": 36.855,
+    "lon": 138.784,
     "country": "日本",
     "region": "亞洲",
-    "quote": "第一它是三天的活動 它辦在滑雪場裡頭",
-    "context": "Fuji Rock 音樂節的舉辦場地，被形容為戰鬥營"
+    "quote": "它辦在滑雪場裡頭",
+    "context": "富士搖滾的舉辦地，動線、餐飲、廁所與親子設施皆為典範"
   },
   {
-    "name": "剝皮寮歷史街區",
-    "name_en": "Bopiliao Historical Block",
-    "lat": 25.036,
-    "lon": 121.501,
-    "country": "台灣",
-    "region": "台灣",
-    "quote": "哇 好適合在台北的剝皮寮來一次",
-    "context": "來賓認為適合舉辦結合老街區與表演的城市音樂節"
+    "name": "天堂原野舞台",
+    "name_en": "Field of Heaven",
+    "lat": 36.8585,
+    "lon": 138.7765,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "就是在最山上 叫Field of Heaven",
+    "context": "富士搖滾最高處的舞台，從第一個舞台要走近一小時"
   },
   {
-    "name": "香港科學園",
-    "name_en": "Hong Kong Science Park",
-    "lat": 22.428,
-    "lon": 114.211,
+    "name": "苗場王子飯店",
+    "name_en": "Naeba Prince Hotel",
+    "lat": 36.8527,
+    "lon": 138.7868,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "他旁邊有一棟王子飯店",
+    "context": "藝人住宿處，粉絲會在門口堵人"
+  },
+  {
+    "name": "雅加達國際會展中心（爪哇爵士音樂節會場）",
+    "name_en": "Jakarta Convention Center (Java Jazz Festival)",
+    "lat": -6.2128,
+    "lon": 106.8035,
+    "country": "印尼",
+    "region": "亞洲",
+    "quote": "它平常應該是辦商展的",
+    "context": "爪哇爵士音樂節的室內展場，口字型動線，觀眾素質高"
+  },
+  {
+    "name": "巴塞隆納海港區（Primavera Sound 會場）",
+    "name_en": "Parc del Fòrum, Barcelona (Primavera Sound)",
+    "lat": 41.4108,
+    "lon": 2.2272,
+    "country": "西班牙",
+    "region": "歐洲",
+    "quote": "它就是整個海港邊",
+    "context": "場地極大需接駁車，可看海景但食物貴"
+  },
+  {
+    "name": "利物浦老街區（Sound City 會場）",
+    "name_en": "Liverpool Old Streets (Sound City)",
+    "lat": 53.4084,
+    "lon": -2.9916,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "他們選的是 Liverpool的老街",
+    "context": "以閒置空間作舞台，讓老街區重新活絡的城市音樂節"
+  },
+  {
+    "name": "香港科學園（Sónar 香港會場）",
+    "name_en": "Hong Kong Science Park (Sónar Hong Kong)",
+    "lat": 22.426,
+    "lon": 114.2108,
     "country": "香港",
     "region": "亞洲",
     "quote": "辦的地方叫科學園",
-    "context": "香港 Sónar 音樂節的舉辦地點"
+    "context": "週末空蕩的園區，利用廣場與會議室辦電子音樂節"
   },
   {
-    "name": "內湖科技園區",
-    "name_en": "Neihu Technology Park",
-    "lat": 25.079,
-    "lon": 121.569,
+    "name": "內湖科學園區",
+    "name_en": "Neihu Science Park",
+    "lat": 25.0807,
+    "lon": 121.574,
     "country": "台灣",
     "region": "台灣",
-    "quote": "應該要在內湖科學園區來一次的 快點",
-    "context": "週末如死城，被認為非常適合舉辦不吵人的音樂節"
+    "quote": "應該要在內湖科學園區來一次的",
+    "context": "提議仿效香港做法，週末辦音樂節"
+  },
+  {
+    "name": "剝皮寮歷史街區",
+    "name_en": "Bopiliao Historic Block",
+    "lat": 25.0366,
+    "lon": 121.5006,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "好適合在台北的剝皮寮來一次",
+    "context": "提議以城市音樂節復興老街區"
+  },
+  {
+    "name": "雷丁音樂節會場",
+    "name_en": "Reading Festival site",
+    "lat": 51.459,
+    "lon": -0.984,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "我去Reading Festival 我第一個見識到的就是",
+    "context": "廁所髒亂、滿地炸魚薯條的文化震撼"
+  },
+  {
+    "name": "烏來老街",
+    "name_en": "Wulai Old Street",
+    "lat": 24.8636,
+    "lon": 121.5502,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "在幾條老街之間搭了一個舞台",
+    "context": "在烏來舉辦音樂節，看完團可泡湯"
+  },
+  {
+    "name": "大江（大佳）河濱公園",
+    "name_en": "Dajia Riverside Park",
+    "lat": 25.0735,
+    "lon": 121.534,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "之前在台北大江河濱公園辦過 就是國際級的Ultra",
+    "context": "台北舉辦Ultra電子音樂節的場地"
+  },
+  {
+    "name": "海貨市集（花蓮海岸）",
+    "name_en": "Haihuo Market, Hualien",
+    "lat": 23.97,
+    "lon": 121.62,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "他叫做海貨 他是一個市集",
+    "context": "花蓮海邊口耳相傳的嬉皮風市集與音樂演出"
+  },
+  {
+    "name": "大港開唱會場（高雄駁二）",
+    "name_en": "Megaport Festival, Kaohsiung",
+    "lat": 22.62,
+    "lon": 120.281,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "大港在去年年底 腐敗的時候",
+    "context": "高雄大型音樂節，場地與陣容盛大"
+  },
+  {
+    "name": "胡士托音樂節舊址",
+    "name_en": "Woodstock Festival site, Bethel",
+    "lat": 41.7008,
+    "lon": -74.8802,
+    "country": "美國",
+    "region": "美洲",
+    "quote": "那個基本上就是現在世界各地的 不管是兩天或三天",
+    "context": "現代音樂節的原型"
   }
 ]

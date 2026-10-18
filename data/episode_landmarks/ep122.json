@@ -1,43 +1,32 @@
 [
   {
+    "name": "藍色清真寺",
+    "name_en": "Blue Mosque (Sultanahmet Mosque)",
+    "lat": 41.0054,
+    "lon": 28.9768,
+    "country": "土耳其",
+    "region": "亞洲",
+    "quote": "你不可能住在藍色清真寺旁邊每天吧",
+    "context": "觀光客印象中的土耳其美景，對比當地居民的真實生活"
+  },
+  {
     "name": "塔克西姆廣場",
     "name_en": "Taksim Square",
     "lat": 41.037,
     "lon": 28.985,
     "country": "土耳其",
-    "region": "歐洲",
-    "quote": "你去伊斯坦堡觀光，一定一定會去的區域叫做Taxim",
-    "context": "伊斯坦堡的核心地標，是遊行抗議熱區與各國領事館所在地。"
-  },
-  {
-    "name": "博斯普魯斯海峽",
-    "name_en": "Bosphorus Strait",
-    "lat": 41.013,
-    "lon": 29.004,
-    "country": "土耳其",
-    "region": "歐洲",
-    "quote": "我會想要住在海峽旁邊的飯店",
-    "context": "講者提到比起觀光區，更嚮往居住在海峽景觀附近的飯店。",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Turkish_Strait_disambig.svg/330px-Turkish_Strait_disambig.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "藍色清真寺",
-    "name_en": "Blue Mosque",
-    "lat": 41.005,
-    "lon": 28.976,
-    "country": "土耳其",
-    "region": "歐洲",
-    "quote": "你不可能住在藍色清真寺旁邊每天吧",
-    "context": "作為觀光區的代名詞，用來對比實際居住區的生活氛圍。"
+    "region": "亞洲",
+    "quote": "你去Taxim的話那邊又是一個遊行熱區",
+    "context": "伊斯坦堡的遊行熱區與領事館聚集地，常見武裝警察"
   },
   {
     "name": "獨立大道",
     "name_en": "İstiklal Avenue",
-    "lat": 41.033,
-    "lon": 28.979,
+    "lat": 41.034,
+    "lon": 28.978,
     "country": "土耳其",
-    "region": "歐洲",
-    "quote": "長期擺在Taxim的廣場跟往那個獨立大道上面的地方走的一些小區域",
-    "context": "提到該街道常年設有警察戒備與柵欄，氛圍較為嚴肅。"
+    "region": "亞洲",
+    "quote": "往那個獨立大道上面的地方走的一些小區域",
+    "context": "塔克西姆廣場延伸的步行大道，長期擺放柵欄"
   }
 ]

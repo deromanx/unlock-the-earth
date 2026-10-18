@@ -1,113 +1,93 @@
 [
   {
-    "name": "阿玛迪",
-    "name_en": "Les Almadies",
-    "lat": 14.742,
-    "lon": -17.518,
-    "country": "塞内加尔",
+    "name": "達卡",
+    "name_en": "Dakar",
+    "lat": 14.693,
+    "lon": -17.447,
+    "country": "塞內加爾",
     "region": "非洲",
-    "quote": "我们那边有一个地名叫阿玛迪",
-    "context": "位于非洲大陆最西端，为渔业补给优势据点"
+    "quote": "我待的是首都,但是我其实没有住在市中心",
+    "context": "講者工作與生活四年的首都,交通擁擠、政府機關外遷"
   },
   {
-    "name": "隆波尔沙漠",
-    "name_en": "Lompoul Desert",
-    "lat": 15.441,
-    "lon": -16.689,
-    "country": "塞内加尔",
-    "region": "非洲",
-    "quote": "去一个地方叫什么一个小沙漠叫做long bull",
-    "context": "可体验住帐篷、骑骆驼的观光胜地"
-  },
-  {
-    "name": "沙里海滩",
-    "name_en": "Saly Beach",
-    "lat": 14.436,
-    "lon": -17.025,
-    "country": "塞内加尔",
-    "region": "非洲",
-    "quote": "有个叫沙里的海滩",
-    "context": "欧洲人冬天喜爱前往避冬的海滩度假村"
-  },
-  {
-    "name": "班迪亚自然保护区",
-    "name_en": "Bandia Reserve",
-    "lat": 14.588,
-    "lon": -17.016,
-    "country": "塞内加尔",
-    "region": "非洲",
-    "quote": "我们是叫野生动物园",
-    "context": "可自驾近距离观赏野生剑羚的保护区"
-  },
-  {
-    "name": "戈雷岛",
+    "name": "戈雷島(奴隸島)",
     "name_en": "Gorée Island",
     "lat": 14.667,
-    "lon": -17.398,
-    "country": "塞内加尔",
+    "lon": -17.399,
+    "country": "塞內加爾",
     "region": "非洲",
-    "quote": "然后沟黑是一般当地人俗称就叫奴隶岛的一个地方",
-    "context": "曾为黑奴贸易中继转运站，留有相关遗迹",
+    "quote": "當地人俗稱就叫奴隸島的一個地方",
+    "context": "黑奴貿易中繼站,有奴隸之家與法式殖民建築",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Ile-de-goree.jpg/330px-Ile-de-goree.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "奴隶之家",
-    "name_en": "Maison des Esclaves",
-    "lat": 14.667,
-    "lon": -17.397,
-    "country": "塞内加尔",
+    "name": "奴隸之家",
+    "name_en": "House of Slaves",
+    "lat": 14.668,
+    "lon": -17.398,
+    "country": "塞內加爾",
     "region": "非洲",
-    "quote": "中文应该是叫做奴隶之家",
-    "context": "戈雷岛上曾用来集中与分级关押黑奴的遗址"
+    "quote": "我們有一個叫做奴隸之家",
+    "context": "關押並分級奴隸的場所,講者聽過導覽講座"
   },
   {
-    "name": "达卡火车站",
+    "name": "朗布爾沙漠",
+    "name_en": "Lompoul Desert",
+    "lat": 15.455,
+    "lon": -16.738,
+    "country": "塞內加爾",
+    "region": "非洲",
+    "quote": "去一個地方叫什麼,一個小沙漠叫做long bull",
+    "context": "可騎駱駝、住帳篷、吃塔吉鍋的小沙漠營區"
+  },
+  {
+    "name": "薩利海灘",
+    "name_en": "Saly",
+    "lat": 14.443,
+    "lon": -17.012,
+    "country": "塞內加爾",
+    "region": "非洲",
+    "quote": "有個叫沙里的海滩,算是就是很多那种欧洲人",
+    "context": "歐洲人冬季避寒的度假海灘小鎮"
+  },
+  {
+    "name": "班迪亞野生動物保護區",
+    "name_en": "Bandia Reserve",
+    "lat": 14.585,
+    "lon": -17.015,
+    "country": "塞內加爾",
+    "region": "非洲",
+    "quote": "附近也有一个类似自然保留区的地方",
+    "context": "可自駕觀賞劍羚、長頸鹿、犀牛的野生動物園"
+  },
+  {
+    "name": "達卡舊火車站",
     "name_en": "Dakar Railway Station",
-    "lat": 14.675,
-    "lon": -17.434,
-    "country": "塞内加尔",
+    "lat": 14.6717,
+    "lon": -17.4325,
+    "country": "塞內加爾",
     "region": "非洲",
-    "quote": "尤其他们就旧的火车站",
-    "context": "充满法国殖民风格的旧时代建筑"
+    "quote": "尤其他们就旧的火车站,就是非常有殖民风格",
+    "context": "達卡市中心的法式殖民風格建築"
   },
   {
-    "name": "布莱斯·迪亚涅国际机场",
+    "name": "總統府",
+    "name_en": "Presidential Palace, Dakar",
+    "lat": 14.6685,
+    "lon": -17.4357,
+    "country": "塞內加爾",
+    "region": "非洲",
+    "quote": "他们总统府那一代,非常的就是有法式的色彩",
+    "context": "達卡殖民精華區,法式風格濃厚"
+  },
+  {
+    "name": "迪亞姆尼亞久新機場",
     "name_en": "Blaise Diagne International Airport",
     "lat": 14.67,
     "lon": -17.073,
-    "country": "塞内加尔",
+    "country": "塞內加爾",
     "region": "非洲",
-    "quote": "就是新的机场已经盖在那个地方了",
-    "context": "位于达卡市郊，带动周边成为新行政中心"
-  },
-  {
-    "name": "黑人文明博物馆",
-    "name_en": "Museum of Black Civilisations",
-    "lat": 14.673,
-    "lon": -17.434,
-    "country": "塞内加尔",
-    "region": "非洲",
-    "quote": "就是非洲文物馆",
-    "context": "由中国企业参与承建的大型文化场馆"
-  },
-  {
-    "name": "国家摔角竞技场",
-    "name_en": "Arène Nationale de Lutte",
-    "lat": 14.757,
-    "lon": -17.387,
-    "country": "塞内加尔",
-    "region": "非洲",
-    "quote": "他们的国民运动摔脚场",
-    "context": "举办塞内加尔国民运动的场地，亦由中国承建"
-  },
-  {
-    "name": "达卡海洋广场购物中心",
-    "name_en": "Sea Plaza",
-    "lat": 14.693,
-    "lon": -17.471,
-    "country": "塞内加尔",
-    "region": "非洲",
-    "quote": "我们就是那边会有唯一的一家shopping mall",
-    "context": "因应反恐进出皆需严密安检的高级购物中心"
+    "quote": "新的机场已经盖在那个地方了",
+    "context": "新行政中心計畫區,連結快鐵的新機場"
   }
 ]

@@ -2,22 +2,22 @@
   {
     "name": "暹粒",
     "name_en": "Siem Reap",
-    "lat": 13.363,
-    "lon": 103.856,
+    "lat": 13.362,
+    "lon": 103.86,
     "country": "柬埔寨",
     "region": "亞洲",
-    "quote": "我之前去先立旅行的时候",
-    "context": "本集主要分享的海外志工服务所在城市"
+    "quote": "我之前去先立旅行的時候",
+    "context": "講者參加海外志工團的地點，蓋高腳屋、家訪、帶小朋友"
   },
   {
-    "name": "吴哥",
-    "name_en": "Angkor",
+    "name": "吳哥窟",
+    "name_en": "Angkor Wat",
     "lat": 13.412,
     "lon": 103.867,
     "country": "柬埔寨",
     "region": "亞洲",
-    "quote": "我们在当地有带小朋友去吴哥嘛",
-    "context": "志工服务期间带当地小朋友去游玩的著名历史遗迹",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Karta_AngkorWat.PNG/330px-Karta_AngkorWat.PNG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    "quote": "其實我們在當地有帶小朋友去吳哥嘛",
+    "context": "志工團帶孩子出遊，發生分享椰子汁的故事",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Angkor_Wat.jpg/330px-Angkor_Wat.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]

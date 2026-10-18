@@ -2,63 +2,104 @@
   {
     "name": "永珍",
     "name_en": "Vientiane",
-    "lat": 17.961,
-    "lon": 102.61,
+    "lat": 17.975,
+    "lon": 102.633,
     "country": "寮國",
     "region": "亞洲",
-    "quote": "就是我其实对永真的印象非常好",
-    "context": "主持人摔壞手機後停留的城市，意外充滿悠哉與文青氛圍",
+    "quote": "我觉得永真很棒 非常棒",
+    "context": "寮國首都，氣氛悠閒、咖啡廳多，作者最想重返",
     "image": "https://thumb.wikimedia.org/wikipedia/en/thumb/2/28/Vientiane_-_Patuxai_-_0003.jpg/330px-Vientiane_-_Patuxai_-_0003.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "旺陽",
+    "name": "萬榮",
     "name_en": "Vang Vieng",
-    "lat": 18.924,
-    "lon": 102.449,
+    "lat": 18.923,
+    "lon": 102.448,
     "country": "寮國",
     "region": "亞洲",
-    "quote": "因为旺阳真的是一个party city",
-    "context": "充滿歐美與韓國遊客派對氛圍及自然美景的城鎮",
+    "quote": "旺阳真的是一个party city",
+    "context": "派對小鎮，石灰岩地形、藍色潟湖與輪胎漂流",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/VientianeProvince_VangVieng9_tango7174.jpg/330px-VientianeProvince_VangVieng9_tango7174.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "布魯拉棍",
-    "name_en": "Blue Lagoon",
-    "lat": 18.926,
-    "lon": 102.395,
-    "country": "寮國",
-    "region": "亞洲",
-    "quote": "很受欢迎的一个活动叫做布鲁拉棍",
-    "context": "旺陽著名的跳水景點，有分不同編號"
-  },
-  {
-    "name": "龍坡邦",
-    "name_en": "Luang Prabang",
-    "lat": 19.883,
-    "lon": 102.133,
-    "country": "寮國",
-    "region": "亞洲",
-    "quote": "因为龙坡邦我有去啊",
-    "context": "寮國觀光能見度最高的世界遺產城鎮"
   },
   {
     "name": "豐沙灣",
     "name_en": "Phonsavan",
-    "lat": 19.461,
-    "lon": 103.181,
+    "lat": 19.456,
+    "lon": 103.218,
     "country": "寮國",
     "region": "亞洲",
-    "quote": "就是封沙湾",
-    "context": "主持人查錯地圖而意外前往的城鎮"
+    "quote": "封沙湾是一个小镇",
+    "context": "越戰集束炸彈遺留地，有排雷NGO與被炸毀佛像"
   },
   {
-    "name": "豐沙里",
-    "name_en": "Phongsaly",
-    "lat": 21.683,
-    "lon": 102.1,
+    "name": "石缸平原",
+    "name_en": "Plain of Jars",
+    "lat": 19.43,
+    "lon": 103.158,
     "country": "寮國",
     "region": "亞洲",
-    "quote": "其实应该是我本来是要去封沙里",
-    "context": "原本計畫前往觀賞少數民族阿卡村的地方"
+    "quote": "石缸平原的一个景点",
+    "context": "草坪滿布炸彈坑洞，見證戰爭遺痕"
+  },
+  {
+    "name": "龍坡邦",
+    "name_en": "Luang Prabang",
+    "lat": 19.886,
+    "lon": 102.135,
+    "country": "寮國",
+    "region": "亞洲",
+    "quote": "龙坡邦是世界的化遗产嘛",
+    "context": "世界遺產古城，布施文化與觀光化"
+  },
+  {
+    "name": "蒙羅伊",
+    "name_en": "Muang Ngoi Neua",
+    "lat": 20.595,
+    "lon": 102.68,
+    "country": "寮國",
+    "region": "亞洲",
+    "quote": "蒙罗伊这个村落是它其实不大",
+    "context": "需搭船抵達的原始小村，布施更貼近日常"
+  },
+  {
+    "name": "農橋",
+    "name_en": "Nong Khiaw",
+    "lat": 20.568,
+    "lon": 102.612,
+    "country": "寮國",
+    "region": "亞洲",
+    "quote": "我在北上到了那个农桥",
+    "context": "前往蒙羅伊的小鎮，作為轉乘點"
+  },
+  {
+    "name": "會曬",
+    "name_en": "Huay Xai",
+    "lat": 20.275,
+    "lon": 100.416,
+    "country": "寮國",
+    "region": "亞洲",
+    "quote": "会赛就是在边界上",
+    "context": "湄公河慢船終點，寮泰邊境口岸"
+  },
+  {
+    "name": "湄公河",
+    "name_en": "Mekong River",
+    "lat": 20.3,
+    "lon": 100.4,
+    "country": "寮國",
+    "region": "亞洲",
+    "quote": "都是在美工河上",
+    "context": "搭船兩天，左泰國右寮國的邊界景象",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Mekong-River-Near-Luang-Prabang.jpg/330px-Mekong-River-Near-Luang-Prabang.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "胡志明小徑",
+    "name_en": "Ho Chi Minh Trail",
+    "lat": 16.5,
+    "lon": 106.2,
+    "country": "寮國",
+    "region": "亞洲",
+    "quote": "P了一个叫做胡志明小径",
+    "context": "越戰北越運補路線，遭美軍大量轟炸"
   }
 ]

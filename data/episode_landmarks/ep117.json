@@ -1,42 +1,53 @@
 [
   {
-    "name": "海德堡酒吧街 (Untere Straße)",
-    "name_en": "Untere Straße",
-    "lat": 49.412,
-    "lon": 8.709,
+    "name": "冬街酒吧街",
+    "name_en": "Untere Straße (Winter Strasse), Heidelberg",
+    "lat": 49.4117,
+    "lon": 8.7086,
     "country": "德國",
     "region": "歐洲",
     "quote": "Winter Strasse就是在海德堡的一個酒吧街",
-    "context": "受訪者以前居住的街道，晚上充滿派對聲，非常吵雜"
+    "context": "主持人住所所在的海德堡酒吧街，夜間喧鬧，常有人聚會開趴"
+  },
+  {
+    "name": "海德堡",
+    "name_en": "Heidelberg",
+    "lat": 49.3988,
+    "lon": 8.6724,
+    "country": "德國",
+    "region": "歐洲",
+    "quote": "最後才又搬回了海德堡這附近",
+    "context": "來賓居住多年的城市，氣候溫暖、冬季陰暗",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/K%C3%B6nigstuhl%2C_Heidelberg%2C_U-17.jpg/330px-K%C3%B6nigstuhl%2C_Heidelberg%2C_U-17.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "科隆中央車站",
+    "name_en": "Köln Hauptbahnhof",
+    "lat": 50.9432,
+    "lon": 6.9589,
+    "country": "德國",
+    "region": "歐洲",
+    "quote": "沒想到要開進科隆火車站的時候",
+    "context": "分享德鐵誤點經歷，列車在此被卡了一個半小時"
   },
   {
     "name": "黑森林",
     "name_en": "Black Forest",
-    "lat": 48.3,
-    "lon": 8.15,
+    "lat": 48.0,
+    "lon": 8.2,
     "country": "德國",
     "region": "歐洲",
     "quote": "我們去黑森林好了",
-    "context": "討論越野滑雪場地，有專門開挖的滑雪道"
+    "context": "以黑森林雪地為例說明越野滑雪的玩法"
   },
   {
     "name": "內卡河",
     "name_en": "Neckar River",
-    "lat": 49.415,
-    "lon": 8.711,
+    "lat": 49.4108,
+    "lon": 8.7015,
     "country": "德國",
     "region": "歐洲",
-    "quote": "因為這邊不是那個NECA",
-    "context": "海德堡的一條河，夏天時上面有許多水上活動"
-  },
-  {
-    "name": "科隆火車總站",
-    "name_en": "Köln Hauptbahnhof",
-    "lat": 50.943,
-    "lon": 6.958,
-    "country": "德國",
-    "region": "歐洲",
-    "quote": "科隆火車站的時候",
-    "context": "分享搭乘德鐵遇到突發狀況導致嚴重誤點的經驗"
+    "quote": "因為這邊不是那個NECA就是一條河嗎",
+    "context": "流經海德堡，夏天水上活動豐富"
   }
 ]

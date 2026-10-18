@@ -2,12 +2,12 @@
   {
     "name": "恩德培機場",
     "name_en": "Entebbe International Airport",
-    "lat": 0.045,
+    "lat": 0.042,
     "lon": 32.443,
     "country": "烏干達",
     "region": "非洲",
-    "quote": "叫做恩德培机场",
-    "context": "講者抵達烏干達時降落的首要機場"
+    "quote": "是首都近郊的机场叫做恩德培机场",
+    "context": "作者初抵烏干達降落之處，鄰近首都"
   },
   {
     "name": "維多利亞湖",
@@ -16,7 +16,7 @@
     "lon": 33.0,
     "country": "烏干達",
     "region": "非洲",
-    "quote": "就是维多利亚湖嘛",
-    "context": "形容其面積有台灣兩倍大，並橫跨三個國家"
+    "quote": "那个湖其实是台湾的两倍",
+    "context": "工作所在地靠近此湖，湖上島嶼有社群"
   }
 ]

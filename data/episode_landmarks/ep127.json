@@ -1,22 +1,82 @@
 [
   {
-    "name": "查德湖",
-    "name_en": "Lake Chad",
-    "lat": 13.115,
-    "lon": 14.508,
+    "name": "恩加美納",
+    "name_en": "N'Djamena",
+    "lat": 12.134,
+    "lon": 15.055,
     "country": "查德",
     "region": "非洲",
-    "quote": "原来查德胡真的是一个非常有名的地方",
-    "context": "面積廣大但逐漸乾涸的湖泊，周邊常有恐怖分子"
+    "quote": "恩加美娜其實它是位在很靠近克麥隆邊界的一個首都",
+    "context": "查德首都，外派人士生活圈與日常描述的主要場景"
   },
   {
     "name": "沙里河",
     "name_en": "Chari River",
-    "lat": 12.106,
-    "lon": 15.041,
+    "lat": 12.1,
+    "lon": 15.04,
     "country": "查德",
     "region": "非洲",
-    "quote": "那沙里河的话 是查德最大的河流 然后过了河之后 就是克麦隆了",
-    "context": "查德最大的河流，緊鄰首都，對岸即為喀麥隆"
+    "quote": "旁邊緊鄰一條河叫沙里河，沙里河的話是查德最大的河流",
+    "context": "恩加美納旁的最大河流，對岸即喀麥隆"
+  },
+  {
+    "name": "台灣橋",
+    "name_en": "Taiwan Bridge (N'Djamena)",
+    "lat": 12.1085,
+    "lon": 15.045,
+    "country": "查德",
+    "region": "非洲",
+    "quote": "現在查德最有名的橋，就叫台灣橋",
+    "context": "台灣援建、跨沙里河的重要橋樑，通往南部"
+  },
+  {
+    "name": "查德湖",
+    "name_en": "Lake Chad",
+    "lat": 13.3,
+    "lon": 14.3,
+    "country": "查德",
+    "region": "非洲",
+    "quote": "查德湖真的是一個非常有名的地方",
+    "context": "面積縮小的大湖，恐怖分子活動的危險地帶"
+  },
+  {
+    "name": "薩庫瑪國家公園",
+    "name_en": "Zakouma National Park",
+    "lat": 10.8,
+    "lon": 19.7,
+    "country": "查德",
+    "region": "非洲",
+    "quote": "一個叫做薩庫瑪，在查德的東南邊",
+    "context": "以長頸鹿、獅子聞名，並引進犀牛的國家公園"
+  },
+  {
+    "name": "恩內迪",
+    "name_en": "Ennedi Plateau",
+    "lat": 16.9,
+    "lon": 22.5,
+    "country": "查德",
+    "region": "非洲",
+    "quote": "查德另外一個國家公園，就是那種有錢人會去的",
+    "context": "峽谷地形的高端旅遊地，需包機前往"
+  },
+  {
+    "name": "烏布",
+    "name_en": "Ubud",
+    "lat": -8.507,
+    "lon": 115.263,
+    "country": "印尼",
+    "region": "亞洲",
+    "quote": "就是我在烏布的時候，我一個人就走去有個小村莊",
+    "context": "作者書籍封面豬圈的由來，峇里島村莊故事"
+  },
+  {
+    "name": "大理",
+    "name_en": "Dali",
+    "lat": 25.607,
+    "lon": 100.267,
+    "country": "中國",
+    "region": "亞洲",
+    "quote": "我是2012年去大理的",
+    "context": "作者第二本書寫的雲南大理生活"
   }
 ]

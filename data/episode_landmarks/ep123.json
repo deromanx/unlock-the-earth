@@ -1,84 +1,92 @@
 [
   {
     "name": "地獄之門",
-    "name_en": "Darvaza Gas Crater",
-    "lat": 40.252,
-    "lon": 58.439,
+    "name_en": "Darvaza Gas Crater (Door to Hell)",
+    "lat": 40.253,
+    "lon": 58.44,
     "country": "土庫曼",
     "region": "亞洲",
-    "quote": "大部分觀光客進去土庫曼是為了要看地獄之門",
-    "context": "在沙漠中燃燒50年的天然氣坑，是該國最知名觀光景點"
+    "quote": "地獄之門在土庫曼的沙漠中它其實它大概是一個美式足球場的大小",
+    "context": "燃燒數十年的天然氣坑，本集核心景點，旅人在附近蒙古包過夜"
   },
   {
-    "name": "阿什哈巴德教育部大樓",
-    "name_en": "Ministry of Education Building",
-    "lat": 37.925,
-    "lon": 58.377,
-    "country": "土庫曼",
-    "region": "亞洲",
-    "quote": "像他們有個教育部 就設計成像一本書的樣子",
-    "context": "外觀設計如同一本書的純白色政府機關建築"
-  },
-  {
-    "name": "庫尼亞烏爾根奇",
-    "name_en": "Kunya-Urgench",
-    "lat": 42.331,
-    "lon": 59.15,
-    "country": "土庫曼",
-    "region": "亞洲",
-    "quote": "像它有之前古波茲首都 Urganch 它是那個思路上非常重要的城市",
-    "context": "過去為絲路上重要城市，現為政府推廣的世界遺產"
-  },
-  {
-    "name": "梅爾夫",
-    "name_en": "Merv",
-    "lat": 37.663,
-    "lon": 62.193,
-    "country": "土庫曼",
-    "region": "亞洲",
-    "quote": "在唐朝的時候也被稱為 莫國的莫福 也很多人會去",
-    "context": "唐朝被稱為莫福的古城遺址，是著名的世界文化遺產"
-  },
-  {
-    "name": "亞勒姆室內摩天輪",
-    "name_en": "Alem Cultural and Entertainment Center",
-    "lat": 37.868,
-    "lon": 58.318,
-    "country": "土庫曼",
-    "region": "亞洲",
-    "quote": "然後它還有全世界最大的室內摩天輪",
-    "context": "擁有金氏世界紀錄的全球最大室內摩天輪，為跨年活動地點"
-  },
-  {
-    "name": "國家地毯博物館",
-    "name_en": "National Carpet Museum",
-    "lat": 37.935,
-    "lon": 58.379,
-    "country": "土庫曼",
-    "region": "亞洲",
-    "quote": "然後它有全世界最大的手工地毯 在它的博物館內",
-    "context": "收藏了一張面積達300平方公尺、全球最大的手工地毯"
-  },
-  {
-    "name": "阿什哈巴德奧林匹克體育場",
-    "name_en": "Ashgabat Olympic Stadium",
-    "lat": 37.904,
+    "name": "阿什哈巴德",
+    "name_en": "Ashgabat",
+    "lat": 37.95,
     "lon": 58.38,
     "country": "土庫曼",
     "region": "亞洲",
-    "quote": "它的體育場內呢 也有金氏劑紀錄 列為全世界最高的馬型雕像",
-    "context": "體育場內建有全世界最高的馬型雕像，象徵對汗血寶馬的自豪",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Saparmurat_Turkmenbashi_Olympic_Stadium.jpg/330px-Saparmurat_Turkmenbashi_Olympic_Stadium.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    "quote": "所以你就可以看到就是一堆白色的建築物很多都是大理石建造的",
+    "context": "土庫曼首都，白色大理石城市與多項金氏紀錄建築"
   },
   {
-    "name": "土庫曼廣播電視中心",
-    "name_en": "Turkmenistan Broadcasting Centre",
-    "lat": 37.873,
-    "lon": 58.312,
+    "name": "室內摩天輪",
+    "name_en": "Alem Cultural and Entertainment Center",
+    "lat": 37.985,
+    "lon": 58.34,
     "country": "土庫曼",
     "region": "亞洲",
-    "quote": "它的有一個廣播電台 是全世界最大的新型建築",
-    "context": "高達211公尺的巨大星形建築，為世界最大的星形建築",
-    "image": "https://thumb.wikimedia.org/wikipedia/en/thumb/7/7f/Fernsehturm_T%C3%BCrkmenistan_teleradio_merkezi.jpg/330px-Fernsehturm_T%C3%BCrkmenistan_teleradio_merkezi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    "quote": "它還有全世界最大的室內摩天輪",
+    "context": "世界最大室內摩天輪，作者在此跨年看煙火與晚會"
+  },
+  {
+    "name": "地毯博物館",
+    "name_en": "Turkmen Carpet Museum",
+    "lat": 37.935,
+    "lon": 58.395,
+    "country": "土庫曼",
+    "region": "亞洲",
+    "quote": "然後它有全世界最大的手工地毯在它的博物館內",
+    "context": "收藏三百平方公尺世界最大手工地毯"
+  },
+  {
+    "name": "教育部大樓",
+    "name_en": "Ministry of Education Building, Ashgabat",
+    "lat": 37.936,
+    "lon": 58.376,
+    "country": "土庫曼",
+    "region": "亞洲",
+    "quote": "像他們有個教育部就設計成像一本書的樣子",
+    "context": "設計成書本造型的全白政府建築"
+  },
+  {
+    "name": "噴泉公園",
+    "name_en": "Oguzhan Fountain Complex",
+    "lat": 37.987,
+    "lon": 58.343,
+    "country": "土庫曼",
+    "region": "亞洲",
+    "quote": "它也有一個噴泉是占地15公頃",
+    "context": "占地15公頃、27座噴泉的金氏紀錄噴泉群"
+  },
+  {
+    "name": "奧林匹克體育場",
+    "name_en": "Olympic Stadium, Ashgabat",
+    "lat": 37.889,
+    "lon": 58.303,
+    "country": "土庫曼",
+    "region": "亞洲",
+    "quote": "它的體育場內呢也有金氏劑紀錄列為全世界最高的馬型雕像",
+    "context": "園內有世界最高馬像，只能從外面偷拍"
+  },
+  {
+    "name": "星形廣播電視塔",
+    "name_en": "Turkmenistan Television Tower",
+    "lat": 37.883,
+    "lon": 58.38,
+    "country": "土庫曼",
+    "region": "亞洲",
+    "quote": "高211米",
+    "context": "星形建築，被列為世界最大的星形建築"
+  },
+  {
+    "name": "庫尼亞烏爾根奇",
+    "name_en": "Konye-Urgench",
+    "lat": 42.318,
+    "lon": 59.152,
+    "country": "土庫曼",
+    "region": "亞洲",
+    "quote": "像它有之前古波茲首都Urganch它是那個思路上非常重要的城市",
+    "context": "絲路重鎮、世界遺產，被提及為其他景點"
   }
 ]

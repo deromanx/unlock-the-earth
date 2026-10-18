@@ -2,22 +2,22 @@
   {
     "name": "恆河",
     "name_en": "Ganges River",
-    "lat": 25.311,
-    "lon": 83.01,
+    "lat": 25.318,
+    "lon": 83.011,
     "country": "印度",
     "region": "亞洲",
-    "quote": "可是真的到恒河那一段的時候",
-    "context": "講者在印度旅行時感受到強烈文化衝擊的地點"
+    "quote": "可是真的到恆河那一段的時候",
+    "context": "2012年首次印度行，恆河之行帶來強烈衝擊"
   },
   {
     "name": "索尼帕特",
     "name_en": "Sonipat",
-    "lat": 28.993,
-    "lon": 77.015,
+    "lat": 28.995,
+    "lon": 77.019,
     "country": "印度",
     "region": "亞洲",
-    "quote": "因為我住在Sony Park",
-    "context": "講者派駐教書的印度小鎮（逐字稿音譯為 Sony Park）"
+    "quote": "因為我住在Sony Park 是在Hariana的一個小城裡面",
+    "context": "講者任教與居住的哈里亞納邦小鎮校園"
   },
   {
     "name": "英迪拉·甘地國際機場",
@@ -26,7 +26,27 @@
     "lon": 77.1,
     "country": "印度",
     "region": "亞洲",
-    "quote": "可是他們的機場是沒有辦法讓外人進去的",
-    "context": "描述初抵達德里時，在機場遇到的管制情況"
+    "quote": "他們的機場是沒有辦法讓外人進去的",
+    "context": "初抵德里的文化衝擊，出口擠滿接機人潮"
+  },
+  {
+    "name": "外國人區域登記辦公室（FRRO）",
+    "name_en": "Foreign Regional Registration Office, Delhi",
+    "lat": 28.56,
+    "lon": 77.185,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "他們叫做什麼? FRRO",
+    "context": "每年辦理居留證的政府大樓，景象超現實"
+  },
+  {
+    "name": "國道一號（Grand Trunk Road／NH44）",
+    "name_en": "National Highway 1 (Delhi–Sonipat)",
+    "lat": 28.835,
+    "lon": 77.095,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "我們回來從德里到Sony Park是要搭國道1號",
+    "context": "路邊有烤玉米、椰子水攤，也被賈特人暴動封鎖"
   }
 ]

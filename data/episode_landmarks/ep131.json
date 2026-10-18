@@ -1,22 +1,105 @@
 [
   {
-    "name": "華盛頓大學",
-    "name_en": "University of Washington",
-    "lat": 47.655,
-    "lon": -122.303,
-    "country": "美國",
-    "region": "美洲",
-    "quote": "美国的华盛顿大学",
-    "context": "講者高中暑期遊學及認識初戀男友的地點"
+    "name": "解放村",
+    "name_en": "Haebangchon",
+    "lat": 37.5428,
+    "lon": 126.9843,
+    "country": "南韓",
+    "region": "亞洲",
+    "quote": "Marie住在一个首尔很特别的地方叫做解放村",
+    "context": "陡峭山坡文青街區，可俯瞰首爾夜景，節目推薦行程"
   },
   {
-    "name": "中央大學",
+    "name": "梨泰院",
+    "name_en": "Itaewon",
+    "lat": 37.5345,
+    "lon": 126.9946,
+    "country": "南韓",
+    "region": "亞洲",
+    "quote": "南面就是离泰院在美军驻扎营地的旁边",
+    "context": "因美軍駐紮發展出異國美食與酒吧的區域"
+  },
+  {
+    "name": "漢江",
+    "name_en": "Han River",
+    "lat": 37.5283,
+    "lon": 126.9327,
+    "country": "南韓",
+    "region": "亞洲",
+    "quote": "我最喜欢在首尔座的事情就是在汉江旁边骑脚踏车",
+    "context": "河濱公園騎單車、江邊野餐吃炸雞配啤酒"
+  },
+  {
+    "name": "景福宮",
+    "name_en": "Gyeongbokgung Palace",
+    "lat": 37.5796,
+    "lon": 126.977,
+    "country": "南韓",
+    "region": "亞洲",
+    "quote": "警服工就是韩国的传统的那个palace",
+    "context": "朝鮮王朝宮殿，穿韓服打卡景點"
+  },
+  {
+    "name": "三清洞",
+    "name_en": "Samcheong-dong",
+    "lat": 37.5845,
+    "lon": 126.9822,
+    "country": "南韓",
+    "region": "亞洲",
+    "quote": "有一个叫三清洞的地方它有很多寒屋",
+    "context": "景福宮附近的韓屋聚集街區"
+  },
+  {
+    "name": "北村韓屋村",
+    "name_en": "Bukchon Hanok Village",
+    "lat": 37.5826,
+    "lon": 126.983,
+    "country": "南韓",
+    "region": "亞洲",
+    "quote": "叫做北村 韩屋村 在三清洞",
+    "context": "傳統韓屋村，節目推薦行程"
+  },
+  {
+    "name": "國立現代美術館",
+    "name_en": "MMCA Seoul",
+    "lat": 37.5787,
+    "lon": 126.9805,
+    "country": "南韓",
+    "region": "亞洲",
+    "quote": "警服工的旁边有一个韩国国立现代美术馆叫做MMCA",
+    "context": "當代藝術館，展覽反映韓國社會議題",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/MMCA_Seoul.jpg/330px-MMCA_Seoul.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "南山首爾塔",
+    "name_en": "N Seoul Tower",
+    "lat": 37.5512,
+    "lon": 126.9882,
+    "country": "南韓",
+    "region": "亞洲",
+    "quote": "首尔塔就是在南山",
+    "context": "首爾地標，解放村位於其山腳下",
+    "image": "https://thumb.wikimedia.org/wikipedia/en/thumb/a/a6/NamsanTower_%28Cropped%29.jpeg/330px-NamsanTower_%28Cropped%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "江南",
+    "name_en": "Gangnam",
+    "lat": 37.4979,
+    "lon": 127.0276,
+    "country": "南韓",
+    "region": "亞洲",
+    "quote": "尤其是江南或者是大学附近的地铁的厕所",
+    "context": "週五晚上女生在地鐵站廁所補妝的時髦區域",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Teheran-ro_Yeongdong-daero_crossing_7.jpg/330px-Teheran-ro_Yeongdong-daero_crossing_7.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "首爾中央大學",
     "name_en": "Chung-Ang University",
-    "lat": 37.505,
+    "lat": 37.5051,
     "lon": 126.957,
-    "country": "韓國",
+    "country": "南韓",
     "region": "亞洲",
     "quote": "我去的是首尔的中央大学",
-    "context": "講者大學時期參加短期語言留學的學校"
+    "context": "講者參加短期遊學課程的學校"
   }
 ]

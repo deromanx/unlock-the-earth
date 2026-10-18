@@ -1,22 +1,65 @@
 [
   {
-    "name": "瓦加邊界",
-    "name_en": "Wagah Border",
+    "name": "瓦加邊境降旗典禮",
+    "name_en": "Wagah Border Flag Lowering Ceremony",
     "lat": 31.604,
-    "lon": 74.574,
+    "lon": 74.573,
     "country": "巴基斯坦",
     "region": "亞洲",
-    "quote": "去的那个边界 它有一个非常非常有名 就是一个那个降棋典礼",
-    "context": "講者特地包車前往觀看著名的印巴邊界降旗典禮"
+    "quote": "有一個非常非常有名,就是一個那個降旗典禮",
+    "context": "印巴邊境降旗儀式,軍人踢正步,險遇司機騷擾的起點"
+  },
+  {
+    "name": "拉合爾",
+    "name_en": "Lahore",
+    "lat": 31.558,
+    "lon": 74.351,
+    "country": "巴基斯坦",
+    "region": "亞洲",
+    "quote": "我是從馬來西亞飛進去的,到的城市叫做拉荷爾",
+    "context": "旅程起點,遭遇司機危險事件的城市",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Lahore_Fort_view_from_Baradari.jpg/330px-Lahore_Fort_view_from_Baradari.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "卡拉什山谷",
     "name_en": "Kalash Valleys",
-    "lat": 35.769,
-    "lon": 71.656,
+    "lat": 35.7,
+    "lon": 71.72,
     "country": "巴基斯坦",
     "region": "亞洲",
-    "quote": "就是我去了一个卡拉逊的一个山谷 它是一个 秘境",
-    "context": "講者深受吸引的秘境，擁有獨特的卡拉什文化與服飾"
+    "quote": "我去了一個卡拉遜的一個山谷,它是一個秘境",
+    "context": "擁有獨特宗教、服飾與長相的卡拉什族聚居山谷"
+  },
+  {
+    "name": "白沙瓦",
+    "name_en": "Peshawar",
+    "lat": 34.015,
+    "lon": 71.525,
+    "country": "巴基斯坦",
+    "region": "亞洲",
+    "quote": "叫做白沙瓦的城市",
+    "context": "靠近阿富汗邊界,槍械工廠與熱情款待的城市",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Islamia_College_Peshawar_%28Public_Sector_University%29%2C_Khyber_Pakhtunkhwa%2C_Pakistan_cropped.jpg/330px-Islamia_College_Peshawar_%28Public_Sector_University%29%2C_Khyber_Pakhtunkhwa%2C_Pakistan_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "吉爾吉特",
+    "name_en": "Gilgit",
+    "lat": 35.919,
+    "lon": 74.314,
+    "country": "巴基斯坦",
+    "region": "亞洲",
+    "quote": "就是北部的山區,就是吉爾吉特",
+    "context": "搭小螺旋槳飛機前往的北部山區據點",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Gilgit_City_a_View_from_Gilgit_serena_hotel.jpg/330px-Gilgit_City_a_View_from_Gilgit_serena_hotel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "罕薩",
+    "name_en": "Hunza Valley",
+    "lat": 36.316,
+    "lon": 74.65,
+    "country": "巴基斯坦",
+    "region": "亞洲",
+    "quote": "我們那時候在汪渣就遇到",
+    "context": "旅人聚集的北部山谷,與德國旅伴相遇處"
   }
 ]

@@ -1,13 +1,23 @@
 [
   {
-    "name": "金字塔",
-    "name_en": "Pyramids of Giza",
-    "lat": 29.979,
-    "lon": 31.134,
+    "name": "吉薩金字塔",
+    "name_en": "Giza Pyramids",
+    "lat": 29.9792,
+    "lon": 31.1342,
     "country": "埃及",
     "region": "非洲",
-    "quote": "这个金字塔是不能爬的",
-    "context": "同行美国背包客违规攀爬金字塔，导致主角被警察带走",
+    "quote": "在這個途中就有經過金字塔",
+    "context": "作者在埃及遇到美國旅伴爬金字塔被警察逮捕的奇遇",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Pyramids_of_the_Giza_Necropolis.jpg/330px-Pyramids_of_the_Giza_Necropolis.jpg"
+  },
+  {
+    "name": "聖地牙哥朝聖之路",
+    "name_en": "Camino de Santiago",
+    "lat": 42.8805,
+    "lon": -8.5446,
+    "country": "西班牙",
+    "region": "歐洲",
+    "quote": "他原本是要走一條路叫做朝聖之路這樣",
+    "context": "瑞士遇到的韓國媽媽推薦，作者後來走了十天"
   }
 ]

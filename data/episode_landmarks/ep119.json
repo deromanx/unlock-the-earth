@@ -1,43 +1,33 @@
 [
   {
-    "name": "齋浦爾",
-    "name_en": "Jaipur",
-    "lat": 26.912,
-    "lon": 75.787,
-    "country": "印度",
-    "region": "亞洲",
-    "quote": "我们在加坡 或是我们在瓦拉纳西 那在安全的状况之下 我们就会让他们自己去自由探索",
-    "context": "印度行程的定點之一，會安排讓團員自由探索。",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/East_facade_Hawa_Mahal_Jaipur_from_ground_level_%28July_2022%29_-_img_01.jpg/330px-East_facade_Hawa_Mahal_Jaipur_from_ground_level_%28July_2022%29_-_img_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "瓦拉納西",
-    "name_en": "Varanasi",
-    "lat": 25.317,
-    "lon": 82.973,
-    "country": "印度",
-    "region": "亞洲",
-    "quote": "我们在加坡 或是我们在瓦拉纳西 那在安全的状况之下 我们就会让他们自己去自由探索",
-    "context": "印度行程的定點之一，會安排讓團員自由探索。"
-  },
-  {
     "name": "苦舊村",
-    "name_en": "Kujon Village",
-    "lat": -7.826,
-    "lon": 112.469,
+    "name_en": "Kujiu Village (East Java, approximate location)",
+    "lat": -7.98,
+    "lon": 112.63,
     "country": "印尼",
     "region": "亞洲",
-    "quote": "老师就带着我们去到 其中的一个村庄 那个村庄叫苦旧村",
-    "context": "瑪琅附近的偏鄉村落，是團隊開發深度體驗行程的核心地點。"
+    "quote": "那個村莊叫苦舊村",
+    "context": "從未有外國人到訪的村莊，進行寄宿體驗與社區交流"
   },
   {
-    "name": "龍坡邦",
+    "name": "瑪琅",
+    "name_en": "Malang",
+    "lat": -7.9666,
+    "lon": 112.6326,
+    "country": "印尼",
+    "region": "亞洲",
+    "quote": "然後我們再回到了那個城市的馬浪",
+    "context": "爬完火山後回到的城市，也是前往村莊的據點",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Tugu_Malang.jpg/330px-Tugu_Malang.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "琅勃拉邦",
     "name_en": "Luang Prabang",
-    "lat": 19.883,
-    "lon": 102.133,
+    "lat": 19.8856,
+    "lon": 102.1347,
     "country": "寮國",
     "region": "亞洲",
-    "quote": "比如说辽国龙泊帮我们就会有一个下午的走读",
-    "context": "舉例說明隨行旅人需要親自帶領城市走讀的地點。"
+    "quote": "比如說遼國龍泊幫我們就會有一個下午的走讀",
+    "context": "舉例隨行旅人需帶領的城市走讀行程"
   }
 ]

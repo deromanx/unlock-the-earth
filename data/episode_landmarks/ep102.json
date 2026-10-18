@@ -1,23 +1,24 @@
 [
   {
-    "name": "馬賽馬拉國家保護區",
-    "name_en": "Maasai Mara",
-    "lat": -1.503,
-    "lon": 35.143,
+    "name": "馬賽馬拉",
+    "name_en": "Maasai Mara National Reserve",
+    "lat": -1.489,
+    "lon": 35.144,
     "country": "肯亞",
     "region": "非洲",
-    "quote": "在馬賽馬拉拉看動物",
-    "context": "野生動物大遷徙及看獅子與獵豹的主要地點"
+    "quote": "在馬賽馬拉應該很多",
+    "context": "野生動物保護區，講者看獅子與角馬大遷徙的經驗",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Masai_Mara_at_Sunset.jpg/330px-Masai_Mara_at_Sunset.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "莫希",
     "name_en": "Moshi",
-    "lat": -3.35,
+    "lat": -3.335,
     "lon": 37.34,
     "country": "坦尚尼亞",
     "region": "非洲",
     "quote": "去坦尚尼亞的Moshi",
-    "context": "攀登吉力馬札羅山前暫停休息並準備出發的前哨城鎮"
+    "context": "吉力馬札羅山登山前休息的城鎮"
   },
   {
     "name": "吉力馬札羅山",
@@ -26,40 +27,69 @@
     "lon": 37.355,
     "country": "坦尚尼亞",
     "region": "非洲",
-    "quote": "很多人去Kiri Manjaro山",
-    "context": "因攀登費用過高（一千多美金）而最後放棄的地標",
+    "quote": "就是很多人去Kiri Manjaro山",
+    "context": "非洲最高峰，因費用太貴而放棄攀登",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Kilimanjaro_from_Amboseli.jpg/330px-Kilimanjaro_from_Amboseli.jpg"
   },
   {
-    "name": "桑吉巴島",
-    "name_en": "Zanzibar",
+    "name": "尚西巴島",
+    "name_en": "Zanzibar Island",
     "lat": -6.165,
     "lon": 39.202,
     "country": "坦尚尼亞",
     "region": "非洲",
     "quote": "所以山吉巴島是一個有名的度假小島",
-    "context": "等候簽證期間前往放鬆、擁有藍綠色海水的度假島嶼",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Zanzibar.svg/330px-Flag_of_Zanzibar.svg.png"
+    "context": "受阿曼統治的度假島，講者在海灘休息一週多"
+  },
+  {
+    "name": "尚西巴東岸海灘",
+    "name_en": "Zanzibar East Coast Beach",
+    "lat": -6.17,
+    "lon": 39.425,
+    "country": "坦尚尼亞",
+    "region": "非洲",
+    "quote": "所以我們就先去一個地一個東邊的沙灘",
+    "context": "講者在島東邊沙灘待三四天"
+  },
+  {
+    "name": "尚西巴北岸海灘",
+    "name_en": "Nungwi Beach",
+    "lat": -5.725,
+    "lon": 39.295,
+    "country": "坦尚尼亞",
+    "region": "非洲",
+    "quote": "然後之後再去北邊的沙灘",
+    "context": "講者之後前往島北邊沙灘停留"
   },
   {
     "name": "石頭鎮",
     "name_en": "Stone Town",
-    "lat": -6.162,
-    "lon": 39.192,
+    "lat": -6.163,
+    "lon": 39.19,
     "country": "坦尚尼亞",
     "region": "非洲",
     "quote": "三七八有石頭鎮",
-    "context": "桑吉巴島上具有當地歷史與文化氣息的主要鎮區",
+    "context": "尚西巴主要古城，保有舊時文化",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Zanzibar_sultan_palace.jpg/330px-Zanzibar_sultan_palace.jpg"
+  },
+  {
+    "name": "三藍港",
+    "name_en": "Dar es Salaam",
+    "lat": -6.792,
+    "lon": 39.208,
+    "country": "坦尚尼亞",
+    "region": "非洲",
+    "quote": "三藍港算是台上尼亞的很大的城市吧",
+    "context": "最大城市，治安差、賭場多，講者辦簽證處"
   },
   {
     "name": "坦贊鐵路",
     "name_en": "TAZARA Railway",
-    "lat": -6.843,
-    "lon": 39.26,
+    "lat": -8.9,
+    "lon": 33.45,
     "country": "坦尚尼亞",
     "region": "非洲",
-    "quote": "坦上鐵路的火車票",
-    "context": "連結坦尚尼亞與尚比亞，體驗非洲鄉村景致的跨國鐵路"
+    "quote": "我拿到美國簽證後我就馬上去買坦上鐵路的火車票",
+    "context": "連接坦尚尼亞與尚比亞的長途鐵路，搭乘經歷"
   }
 ]

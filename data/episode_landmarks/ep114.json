@@ -1,53 +1,105 @@
 [
   {
-    "name": "蓝色清真寺",
-    "name_en": "Blue Mosque",
-    "lat": 38.074,
-    "lon": 46.301,
+    "name": "大不里士藍色清真寺",
+    "name_en": "Blue Mosque of Tabriz",
+    "lat": 38.0817,
+    "lon": 46.3003,
     "country": "伊朗",
     "region": "亞洲",
-    "quote": "一个蓝色清真寺我觉得很漂亮",
-    "context": "建于十六七世纪，耗费二三十年拼贴出连续图形的瓷砖"
+    "quote": "我在那边主要就是看了一些他们的一个蓝色清真寺我觉得很漂亮",
+    "context": "瓷磚貼了二三十年，大不里士必訪景點"
   },
   {
-    "name": "大布里市Bazaar市集",
-    "name_en": "Tabriz Historic Bazaar Complex",
-    "lat": 38.081,
-    "lon": 46.292,
+    "name": "大不里士巴扎",
+    "name_en": "Tabriz Historic Bazaar",
+    "lat": 38.0803,
+    "lon": 46.2919,
     "country": "伊朗",
     "region": "亞洲",
     "quote": "还有他们的那个很古老的那个Bazaar市集",
-    "context": "丝路中继站的古老市集，规模大，天井设计漂亮"
+    "context": "絲路中繼站，規模龐大的古老市集"
   },
   {
-    "name": "诗人的墓",
-    "name_en": "Mausoleum of Poets",
-    "lat": 38.084,
-    "lon": 46.303,
-    "country": "伊朗",
-    "region": "亞洲",
-    "quote": "他说他想要去一个地方一个诗人的墓",
-    "context": "来宾与旅伴在当地人热情带领下共同参观的景点"
-  },
-  {
-    "name": "波士波里斯",
+    "name": "波斯波利斯",
     "name_en": "Persepolis",
-    "lat": 29.935,
-    "lon": 52.89,
+    "lat": 29.9355,
+    "lon": 52.8916,
     "country": "伊朗",
     "region": "亞洲",
-    "quote": "主要就是要去看他们经典一个大遗迹叫做波士波里斯",
-    "context": "波斯帝国古代首都，距今超过两千五百年，建筑震撼",
+    "quote": "我去那边主要就是要去看他们经典一个大遗迹叫做波士波里斯",
+    "context": "波斯帝國古都遺跡，約西元前500年",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/2018-09-21_Iran%2C_Persepolis%2C_Tachara_%28from_the_southeast%29.jpg/330px-2018-09-21_Iran%2C_Persepolis%2C_Tachara_%28from_the_southeast%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "万国门",
+    "name": "萬國門",
     "name_en": "Gate of All Nations",
-    "lat": 29.934,
-    "lon": 52.891,
+    "lat": 29.9351,
+    "lon": 52.8913,
     "country": "伊朗",
     "region": "亞洲",
     "quote": "这个地方叫做万国门就是以前波斯帝国他征服了很多小国家",
-    "context": "位于波士波里斯，是以前各地小国前来朝贡的必经大门"
+    "context": "薛西斯所建，各國朝貢必經之門"
+  },
+  {
+    "name": "亞茲德祆教聖火寺",
+    "name_en": "Yazd Atash Behram Fire Temple",
+    "lat": 31.897,
+    "lon": 54.3689,
+    "country": "伊朗",
+    "region": "亞洲",
+    "quote": "还保留他们的圣火就是他们以前燃烧一直接续到现在的圣火",
+    "context": "拜火教聖火持續燃燒至今"
+  },
+  {
+    "name": "沉默之塔",
+    "name_en": "Tower of Silence (Yazd)",
+    "lat": 31.8567,
+    "lon": 54.3,
+    "country": "伊朗",
+    "region": "亞洲",
+    "quote": "以前他们死掉了他们就会带到山丘上的一个遗迹",
+    "context": "拜火教天葬遺跡，山丘上圍牆中有洞"
+  },
+  {
+    "name": "亞茲德風塔",
+    "name_en": "Yazd Windcatchers",
+    "lat": 31.8974,
+    "lon": 54.3675,
+    "country": "伊朗",
+    "region": "亞洲",
+    "quote": "他们会有一些做一些高塔然后会有些很多洞在上面",
+    "context": "沙漠城市的傳統通風降溫系統"
+  },
+  {
+    "name": "大不里士詩人之墓",
+    "name_en": "Mausoleum of the Poets (Tabriz)",
+    "lat": 38.0725,
+    "lon": 46.3417,
+    "country": "伊朗",
+    "region": "亞洲",
+    "quote": "他说他想要去一个地方一个诗人的墓",
+    "context": "與當地母女共乘並被請客的經歷"
+  },
+  {
+    "name": "設拉子",
+    "name_en": "Shiraz",
+    "lat": 29.61,
+    "lon": 52.5311,
+    "country": "伊朗",
+    "region": "亞洲",
+    "quote": "就跑去一个地方叫色拉子",
+    "context": "前往波斯波利斯的據點，玫瑰之城",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Darvaze_Ghoran11.jpg/330px-Darvaze_Ghoran11.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "伊斯法罕",
+    "name_en": "Isfahan",
+    "lat": 32.6546,
+    "lon": 51.668,
+    "country": "伊朗",
+    "region": "亞洲",
+    "quote": "我就去了伊斯法汉然后那时候去做沙发冲浪",
+    "context": "沙發衝浪的不愉快經驗發生地",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Naghshe_jahan_01.jpg/330px-Naghshe_jahan_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]

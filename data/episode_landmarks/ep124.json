@@ -2,12 +2,53 @@
   {
     "name": "巴西利亞大學",
     "name_en": "University of Brasília",
-    "lat": -15.762,
-    "lon": -47.867,
+    "lat": -15.763,
+    "lon": -47.87,
     "country": "巴西",
     "region": "美洲",
-    "quote": "我其實大學的時候阿斯下去交換過 然後我是去巴西利亞大學交換",
-    "context": "講者大學時期前往交換與生活的主要地點",
+    "quote": "我是去巴西利亞大學交換",
+    "context": "主持人交換與念碩士的學校，在首都巴西利亞",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Webysther_20160322_-_Logo_UnB_%28sem_texto%29.svg/330px-Webysther_20160322_-_Logo_UnB_%28sem_texto%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "巴西利亞",
+    "name_en": "Brasília",
+    "lat": -15.794,
+    "lon": -47.882,
+    "country": "巴西",
+    "region": "美洲",
+    "quote": "巴西利亞它是一個被創造出來的城市",
+    "context": "人造首都，城市無聊但利於專心學業"
+  },
+  {
+    "name": "里約熱內盧貧民窟",
+    "name_en": "Favelas of Rio de Janeiro",
+    "lat": -22.986,
+    "lon": -43.249,
+    "country": "巴西",
+    "region": "美洲",
+    "quote": "我就很常到里約去做研究啊以及就是在貧民窟做志工",
+    "context": "主持人在貧民窟做研究與志工"
+  },
+  {
+    "name": "里約海灘",
+    "name_en": "Rio de Janeiro Beaches",
+    "lat": -22.971,
+    "lon": -43.182,
+    "country": "巴西",
+    "region": "美洲",
+    "quote": "里約有很多很多海灘就我們是住在海灘邊的城市",
+    "context": "海灘文化影響穿著、身材焦慮與生活風格"
+  },
+  {
+    "name": "聖保羅",
+    "name_en": "São Paulo",
+    "lat": -23.55,
+    "lon": -46.633,
+    "country": "巴西",
+    "region": "美洲",
+    "quote": "聖保羅其實他那個城市我覺得就很台北啦",
+    "context": "都會型城市，與里約對比，亞裔移民眾多",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Marginal_Pinheiros_e_Jockey_Club.jpg/330px-Marginal_Pinheiros_e_Jockey_Club.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]

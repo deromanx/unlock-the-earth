@@ -1,22 +1,56 @@
 [
   {
-    "name": "拉斯·吉爾岩畫",
-    "name_en": "Laas Geel",
-    "lat": 9.6,
-    "lon": 44.07,
+    "name": "哈爾格薩",
+    "name_en": "Hargeisa",
+    "lat": 9.56,
+    "lon": 44.065,
     "country": "索馬利蘭",
     "region": "非洲",
-    "quote": "比如說像索馬利蘭的那個岩壁畫",
-    "context": "討論索馬利蘭幾千年前的古老岩石壁畫遺跡及其保存狀況"
+    "quote": "但是我在索馬利蘭首都哈克撒的時候悠閒自在的",
+    "context": "索馬利蘭首都，街頭金飾攤、治安良好、物價與飲食",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/HargeisaDrone.jpg/330px-HargeisaDrone.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "塞拉港",
-    "name_en": "Port of Zeila",
+    "name": "柏培拉",
+    "name_en": "Berbera",
+    "lat": 10.435,
+    "lon": 45.014,
+    "country": "索馬利蘭",
+    "region": "非洲",
+    "quote": "然後還有就是到港口的那個都市Pemirah",
+    "context": "亞丁灣港口城市，酷熱，有異國建築",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Berbera_6666.png/330px-Berbera_6666.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "澤拉",
+    "name_en": "Zeila",
     "lat": 11.353,
     "lon": 43.473,
     "country": "索馬利蘭",
     "region": "非洲",
-    "quote": "發現Zella是從果到精一個非常重要的貿易港",
-    "context": "來賓特地前往探查的偏遠歷史港口與地下貿易熱點"
+    "quote": "Zella是從果到精一個非常重要的貿易港",
+    "context": "古貿易港，如今為走私黑港與小漁村",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Zeila%2C_Somaliland.jpg/330px-Zeila%2C_Somaliland.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "拉斯吉爾岩洞壁畫",
+    "name_en": "Laas Geel",
+    "lat": 9.7842,
+    "lon": 44.3481,
+    "country": "索馬利蘭",
+    "region": "非洲",
+    "quote": "那岩壁畫是最早可以追溯到我覺得是西元前四五百年",
+    "context": "峭壁凹洞中的古老岩壁畫，記錄生活與狩獵"
+  },
+  {
+    "name": "亞丁灣",
+    "name_en": "Gulf of Aden",
+    "lat": 12.0,
+    "lon": 48.0,
+    "country": "葉門／索馬利蘭",
+    "region": "非洲",
+    "quote": "而且他是在雅甸灣的那個位置他其實就是要進紅海",
+    "context": "通往紅海的要道，索馬利蘭地緣優勢所在",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Envisat_image_of_the_Gulf_of_Aden_ESA219526.jpg/330px-Envisat_image_of_the_Gulf_of_Aden_ESA219526.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]

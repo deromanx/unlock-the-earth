@@ -1,52 +1,72 @@
 [
   {
-    "name": "奥斯维辛集中营 (一號營)",
-    "name_en": "Auschwitz Concentration Camp",
-    "lat": 50.027,
-    "lon": 19.202,
+    "name": "奧斯威辛集中營",
+    "name_en": "Auschwitz concentration camp",
+    "lat": 50.026,
+    "lon": 19.204,
     "country": "波蘭",
     "region": "歐洲",
-    "quote": "所以我们现在来谈谈奥斯维辛集中营",
-    "context": "本集探討的核心地點，納粹建立的規模最大的集中營"
+    "quote": "我們現在來談談奧斯維辛集中營",
+    "context": "本集核心，納粹最大且保存較完整的集中營"
   },
   {
-    "name": "奧斯威辛 (城鎮)",
-    "name_en": "Oświęcim",
-    "lat": 50.034,
-    "lon": 19.21,
+    "name": "奧斯威辛第一營",
+    "name_en": "Auschwitz I",
+    "lat": 50.0267,
+    "lon": 19.2038,
     "country": "波蘭",
     "region": "歐洲",
-    "quote": "奥斯维辛是一个城镇",
-    "context": "說明集中營名稱的由來，其本身是波蘭的一個城鎮"
+    "quote": "第1號營它的大小我覺得大約就是一個大安森林公園的大小",
+    "context": "紅磚建築、政治犯與展覽物品所在"
+  },
+  {
+    "name": "比克瑙（奧斯威辛第二營）",
+    "name_en": "Auschwitz II-Birkenau",
+    "lat": 50.0357,
+    "lon": 19.1784,
+    "country": "波蘭",
+    "region": "歐洲",
+    "quote": "二號營基本上是真的是來屠殺的",
+    "context": "木屋營房、毒氣室、焚化爐與火車鐵軌"
+  },
+  {
+    "name": "勞動帶來自由大門",
+    "name_en": "Arbeit Macht Frei Gate",
+    "lat": 50.0269,
+    "lon": 19.2036,
+    "country": "波蘭",
+    "region": "歐洲",
+    "quote": "勞動可以帶來自由",
+    "context": "第一營入口門上的德文標語"
   },
   {
     "name": "達豪集中營",
     "name_en": "Dachau Concentration Camp",
-    "lat": 48.268,
-    "lon": 11.468,
+    "lat": 48.27,
+    "lon": 11.4683,
     "country": "德國",
     "region": "歐洲",
-    "quote": "但是我去过\n达豪\n集中营",
-    "context": "講者分享過去在聖誕節期間參觀該集中營的壓抑經歷"
+    "quote": "我去過達豪集中營",
+    "context": "講者聖誕節造訪，用來與奧斯威辛比較"
   },
   {
-    "name": "萬湖會議紀念館",
-    "name_en": "House of the Wannsee Conference",
-    "lat": 52.433,
-    "lon": 13.161,
+    "name": "金邊圖斯廉屠殺博物館",
+    "name_en": "Tuol Sleng Genocide Museum",
+    "lat": 11.5493,
+    "lon": 104.9171,
+    "country": "柬埔寨",
+    "region": "亞洲",
+    "quote": "我在柬埔寨金邊的時候金邊在紅色高棉時期",
+    "context": "紅色高棉時期牢房，講者感到陰冷"
+  },
+  {
+    "name": "絆腳石",
+    "name_en": "Stolpersteine",
+    "lat": 52.52,
+    "lon": 13.405,
     "country": "德國",
     "region": "歐洲",
-    "quote": "那个方案是他们在\n旺胡会的时候\n开的一个",
-    "context": "提及納粹制定屠殺猶太人「最終解決方案」的會議地點"
-  },
-  {
-    "name": "奧斯維辛二號營 (比克瑙)",
-    "name_en": "Auschwitz II-Birkenau",
-    "lat": 50.035,
-    "lon": 19.178,
-    "country": "波蘭",
-    "region": "歐洲",
-    "quote": "二号营基本上是\n真的是来来屠杀的",
-    "context": "奧斯維辛集中營的一部分，負責大規模屠殺與毒氣室運作"
+    "quote": "你走會看到一些小小的像鐵鐵牌",
+    "context": "柏林路面紀念納粹受害者的小銅牌"
   }
 ]

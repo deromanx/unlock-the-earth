@@ -1,33 +1,42 @@
 [
   {
-    "name": "辦公湖 (班公湖)",
-    "name_en": "Pangong Tso",
-    "lat": 33.721,
-    "lon": 78.898,
+    "name": "班公湖",
+    "name_en": "Pangong Lake",
+    "lat": 33.727,
+    "lon": 78.896,
     "country": "印度",
     "region": "亞洲",
-    "quote": "那个场景就是拉达克的办公厕 对 办公厕 就是办公湖 那个地方 蓝道不行",
-    "context": "電影《三個傻瓜》的知名取景地"
+    "quote": "可是在最後的時候那個場景就是拉達克的辦公廁",
+    "context": "《三個傻瓜》結尾場景，講者對拉達克的第一印象"
   },
   {
-    "name": "西藏村 (德里西藏村)",
-    "name_en": "Majnu-ka-tilla",
-    "lat": 28.701,
-    "lon": 77.228,
+    "name": "德里西藏村",
+    "name_en": "Majnu Ka Tilla (Tibetan Colony), Delhi",
+    "lat": 28.705,
+    "lon": 77.227,
     "country": "印度",
     "region": "亞洲",
-    "quote": "德里也有一个 嗯 就有个底啦 西藏村 对 没错 就是那个地方",
-    "context": "流亡藏人在德里的聚落，被稱為德里小綠洲"
+    "quote": "德里也有一個西藏村",
+    "context": "1959年後流亡藏人聚居的德里小綠洲"
   },
   {
-    "name": "列城",
-    "name_en": "Leh",
-    "lat": 34.152,
-    "lon": 77.577,
-    "country": "印度",
+    "name": "甘孜",
+    "name_en": "Garze",
+    "lat": 31.623,
+    "lon": 99.992,
+    "country": "中國",
     "region": "亞洲",
-    "quote": "大大克的那个列城 或者是DH 的那个 population比较低这样子",
-    "context": "拉達克的主要城市，面臨外來觀光客與環境保護壓力",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Leh_City_seen_from_Shanti_Stupa.JPG/330px-Leh_City_seen_from_Shanti_Stupa.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    "quote": "我以前在甘孜的地區的時候，看過超爆多牦牛",
+    "context": "講者2013年到訪藏區，看過大量犏牛並有高原反應"
+  },
+  {
+    "name": "台中大墩",
+    "name_en": "Dadun, Taichung",
+    "lat": 24.15,
+    "lon": 120.66,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "這個地點就在那個台中的大墩那邊",
+    "context": "講者拉達克攝影展的展出地點"
   }
 ]

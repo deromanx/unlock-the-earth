@@ -1,22 +1,23 @@
 [
   {
-    "name": "圓頂大市集",
+    "name": "大巴札",
     "name_en": "Grand Bazaar",
-    "lat": 41.011,
+    "lat": 41.0108,
     "lon": 28.968,
     "country": "土耳其",
-    "region": "歐洲",
-    "quote": "反正我還有同學在圓頂大士集裡面遇到變態",
-    "context": "講述外國人在當地觀光區容易受到騷擾的經驗"
+    "region": "亞洲",
+    "quote": "我還有同學在圓頂大市集裡面遇到變態",
+    "context": "伊斯坦堡著名市集，觀光區騷擾經驗"
   },
   {
-    "name": "Macrocenter 國際超市",
-    "name_en": "Macrocenter",
-    "lat": 41.066,
-    "lon": 29.017,
+    "name": "博斯普魯斯海峽",
+    "name_en": "Bosphorus Strait",
+    "lat": 41.119,
+    "lon": 29.077,
     "country": "土耳其",
-    "region": "歐洲",
-    "quote": "你可以把macro center這個國際超市記下來",
-    "context": "提到在伊斯坦堡少數可以買到豬肉的超市"
+    "region": "亞洲",
+    "quote": "你就真的很適合在海峽旁邊大散步",
+    "context": "分隔歐亞兩洲的海峽，適合沿岸散步",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Turkish_Strait_disambig.svg/330px-Turkish_Strait_disambig.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]
