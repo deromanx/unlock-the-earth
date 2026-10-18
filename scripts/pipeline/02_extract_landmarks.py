@@ -205,6 +205,7 @@ def main():
     parser.add_argument('--force',         action='store_true',     help='Reprocess even if output already exists')
     parser.add_argument('--model',         type=str,   default=GEMINI_MODEL, help='Gemini model')
     parser.add_argument('--workers',       type=int,   default=1,   help='Parallel Gemini calls')
+    parser.add_argument('--done-file',     type=str,                help='With --force: skip episodes listed in this file; append each success (resume)')
     parser.add_argument('--since',         type=float,              help='With --force: skip files written after this epoch time (resume)')
     args = parser.parse_args()
 
@@ -233,7 +234,13 @@ def main():
     else:
         eps = [e for e in available if e >= args.start]
 
-    if args.force:
+    done_file = Path(args.done_file) if args.done_file else None
+    done_set = set()
+    if done_file and done_file.exists():
+        done_set = {int(x) for x in done_file.read_text().split()}
+    if args.force and done_file:
+        todo = [e for e in eps if e not in done_set]
+    elif args.force:
         todo = [e for e in eps if args.since is not None and not already_done(e, args.since)] \
             if args.since is not None else eps
     else:
@@ -268,6 +275,9 @@ def main():
                 continue
             if ok:
                 success += 1
+                if done_file:
+                    with done_file.open('a') as f:
+                        f.write(f"{ep_num}\n")
             else:
                 fail += 1
                 failed.append(ep_num)

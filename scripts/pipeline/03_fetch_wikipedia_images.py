@@ -92,7 +92,8 @@ def process_episode(ep_num: int) -> bool:
             lm['image'] = img
             changed += 1
 
-    path.write_text(json.dumps(landmarks, ensure_ascii=False, indent=2), encoding='utf-8')
+    if changed:  # 沒變更就不重寫，避免無謂改動檔案
+        path.write_text(json.dumps(landmarks, ensure_ascii=False, indent=2), encoding='utf-8')
     save_cache()
     print(f"  ✓ Ep.{ep_num}: {changed}/{len(landmarks)} images fetched")
     return True
