@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "name": "雷克雅維克",
+    "name_en": "Reykjavik",
+    "lat": 64.147,
+    "lon": -21.942,
+    "country": "冰島",
+    "region": "歐洲",
+    "quote": "我們一開始到雷克雅維克的時候就首都的時候",
+    "context": "旅程起點，在此採買、逛二手店並開始露營"
+  },
+  {
+    "name": "雷克雅維克二手店",
+    "name_en": "Reykjavik Second-hand Store",
+    "lat": 64.135,
+    "lon": -21.895,
+    "country": "冰島",
+    "region": "歐洲",
+    "quote": "像雷克亞維克其實也有幾間蠻大的二手店",
+    "context": "在此購買二手吹風機、浴巾等裝備"
+  },
+  {
+    "name": "冰島一號環島公路",
+    "name_en": "Ring Road (Route 1)",
+    "lat": 64.0,
+    "lon": -20.0,
+    "country": "冰島",
+    "region": "歐洲",
+    "quote": "冰島的話它基本上就是一個一號環島公路",
+    "context": "順時針環島自駕的主要路線"
+  },
+  {
+    "name": "冰島北部草皮屋頂露營區",
+    "name_en": "Turf-roofed Campsite Bistro (North Iceland)",
+    "lat": 65.7,
+    "lon": -19.6,
+    "country": "冰島",
+    "region": "歐洲",
+    "quote": "草皮屋頂的建築",
+    "context": "喝羊肉湯、共享廚房慶生的傳統草皮屋"
+  }
+]

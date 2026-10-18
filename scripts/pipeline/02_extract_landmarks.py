@@ -238,6 +238,8 @@ def main():
     parser.add_argument('--model',         type=str,   default=GEMINI_MODEL, help='Gemini model')
     parser.add_argument('--workers',       type=int,   default=1,   help='Parallel Gemini calls')
     parser.add_argument('--done-file',     type=str,                help='With --force: skip episodes listed in this file; append each success (resume)')
+    parser.add_argument('--limit',         type=int,                help='Process at most N episodes this run')
+    parser.add_argument('--deprioritize',  type=str,                help='File of episode numbers to process last')
     parser.add_argument('--since',         type=float,              help='With --force: skip files written after this epoch time (resume)')
     args = parser.parse_args()
 
@@ -283,7 +285,12 @@ def main():
     def has_data(e):
         f = OUTPUT_DIR / f"ep{e:03d}.json"
         return f.exists() and f.read_text(encoding='utf-8').strip() not in ('', '[]')
-    todo.sort(key=lambda e: (has_data(e), e))
+    later = set()
+    if args.deprioritize and Path(args.deprioritize).exists():
+        later = {int(x) for x in Path(args.deprioritize).read_text().split()}
+    todo.sort(key=lambda e: (e in later, has_data(e), e))
+    if args.limit:
+        todo = todo[:args.limit]
     print(f"To process: {len(todo)} (skipping {len(eps)-len(todo)} already done)\n")
 
     success = fail = 0
