@@ -2,122 +2,185 @@
   {
     "name": "富岡火車站",
     "name_en": "Fugang Railway Station",
-    "lat": 24.934,
-    "lon": 121.082,
+    "lat": 24.9958,
+    "lon": 121.0517,
     "country": "台灣",
     "region": "台灣",
-    "quote": "从桃园的富岗火车站 一路延伸至杨梅的休闲农业区",
-    "context": "富岡鐵道藝術生活節的活動起點。"
+    "quote": "從桃園的富岡火車站一路延伸至楊梅的休閒農業區",
+    "context": "富岡鐵道藝術生活節的主場地，鐵道小鎮"
   },
   {
-    "name": "楊梅休閒農業區",
-    "name_en": "Yangmei Leisure Agriculture Area",
-    "lat": 24.887,
-    "lon": 121.144,
-    "country": "台灣",
-    "region": "台灣",
-    "quote": "从桃园的富岗火车站 一路延伸至杨梅的休闲农业区",
-    "context": "鐵道藝術節活動串聯的區域。"
-  },
-  {
-    "name": "沙拉越河",
-    "name_en": "Sarawak River",
-    "lat": 1.56,
-    "lon": 110.345,
+    "name": "古晉",
+    "name_en": "Kuching",
+    "lat": 1.5535,
+    "lon": 110.3593,
     "country": "馬來西亞",
     "region": "亞洲",
-    "quote": "他有一条 沙拉越河 分南北",
-    "context": "將古晉市分為南市與北市的重要河流。"
+    "quote": "它的大城市最大城市叫古晉嘛",
+    "context": "砂拉越首府，客家與華人文化旅遊起點",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Kuching_Skyline.jpg/330px-Kuching_Skyline.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "古晉河濱公園",
     "name_en": "Kuching Waterfront",
-    "lat": 1.559,
-    "lon": 110.345,
+    "lat": 1.5589,
+    "lon": 110.3447,
     "country": "馬來西亞",
     "region": "亞洲",
-    "quote": "如果说是市区河滨公园那一带 就是观光客最集中那个",
-    "context": "古晉市區觀光客最集中的休閒區域。"
+    "quote": "如果說是市區河濱公園那一帶就是觀光客最集中那個",
+    "context": "古晉觀光客最集中的河濱區域"
   },
   {
     "name": "亞答街",
     "name_en": "Carpenter Street",
-    "lat": 1.558,
+    "lat": 1.5578,
     "lon": 110.345,
     "country": "馬來西亞",
     "region": "亞洲",
-    "quote": "他有一条华人的街叫亚大街",
-    "context": "古晉市區保留許多傳統華人會館的老街。"
-  },
-  {
-    "name": "古晉潮州會館",
-    "name_en": "Kuching Teochew Association",
-    "lat": 1.558,
-    "lon": 110.345,
-    "country": "馬來西亞",
-    "region": "亞洲",
-    "quote": "里面就有潮州会馆 有潮州的戏台",
-    "context": "位於亞答街內，設有傳統戲台的華人會館。"
-  },
-  {
-    "name": "青雲亭",
-    "name_en": "Cheng Hoon Teng Temple",
-    "lat": 2.197,
-    "lon": 102.247,
-    "country": "馬來西亞",
-    "region": "亞洲",
-    "quote": "他的本店 就是在马六甲 老街清云亭的旁边",
-    "context": "馬六甲老街旁的著名華人廟宇。"
+    "quote": "他有一條華人的街叫亞答街",
+    "context": "古晉華人老街，有會館、老店與鴉片咖啡"
   },
   {
     "name": "印度街",
-    "name_en": "India Street",
-    "lat": 1.559,
-    "lon": 110.344,
+    "name_en": "India Street, Kuching",
+    "lat": 1.5586,
+    "lon": 110.3455,
     "country": "馬來西亞",
     "region": "亞洲",
-    "quote": "他的隔壁就是印度街 然后那个印度街 其实很短",
-    "context": "古晉亞答街旁販售香料與印度商品的街道。"
+    "quote": "然後他的隔壁就是印度街",
+    "context": "古晉小印度區，有印度商店與香料店"
   },
   {
-    "name": "干蜜街",
-    "name_en": "Gambier Street",
-    "lat": 1.56,
-    "lon": 110.343,
+    "name": "甘密街",
+    "name_en": "Gambier Street, Kuching",
+    "lat": 1.5605,
+    "lon": 110.3486,
     "country": "馬來西亞",
     "region": "亞洲",
-    "quote": "那边有一条街 就是叫什么干蜜街",
-    "context": "古晉早期因種植干蜜而發展出的歷史街道。"
+    "quote": "所以那邊有一條街就是叫什麼甘密街",
+    "context": "以甘密經濟作物命名的街道"
   },
   {
-    "name": "粉紅清真寺",
-    "name_en": "Kuching City Mosque",
-    "lat": 1.558,
-    "lon": 110.342,
+    "name": "新堯灣",
+    "name_en": "Serikin",
+    "lat": 1.2167,
+    "lon": 110.0167,
     "country": "馬來西亞",
     "region": "亞洲",
-    "quote": "有席客 有一座粉红色的清真寺 有席客教的庙",
-    "context": "古晉印度街附近具特色的粉紅色清真寺。"
+    "quote": "那個小鎮叫新堯灣",
+    "context": "砂拉越客家老街，與湖口老街結為姊妹",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Sarawakbau_serikinmarket.jpg/330px-Sarawakbau_serikinmarket.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "巷弄裡的清真寺",
-    "name_en": "Masjid India Kuching",
-    "lat": 1.559,
-    "lon": 110.344,
-    "country": "馬來西亞",
-    "region": "亞洲",
-    "quote": "走进去里面 有个清真寺",
-    "context": "隱藏在古晉小印度區狹窄巷弄內的清真寺。"
-  },
-  {
-    "name": "摸乳巷",
-    "name_en": "Molu Alley",
-    "lat": 24.054,
-    "lon": 120.432,
+    "name": "湖口老街",
+    "name_en": "Hukou Old Street",
+    "lat": 24.9025,
+    "lon": 121.0428,
     "country": "台灣",
     "region": "台灣",
-    "quote": "就是台湾 鹿港有摸乳巷 很窄",
-    "context": "主持人用來比喻古晉印度街狹窄巷弄的景點。",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Molulane.jpg/330px-Molulane.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    "quote": "湖口老街",
+    "context": "新竹客家老街，與新堯灣結為姊妹老街",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/%E6%B9%96%E5%8F%A3%E8%80%81%E8%A1%97%E9%A8%8E%E6%A8%93.jpg/330px-%E6%B9%96%E5%8F%A3%E8%80%81%E8%A1%97%E9%A8%8E%E6%A8%93.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "西里津",
+    "name_en": "Serikin Border Market",
+    "lat": 1.2167,
+    "lon": 110.0167,
+    "country": "馬來西亞",
+    "region": "亞洲",
+    "quote": "那地方叫西里津",
+    "context": "砂印邊界週末市集，可走路過境印尼"
+  },
+  {
+    "name": "石龍門",
+    "name_en": "Bau",
+    "lat": 1.4136,
+    "lon": 110.1536,
+    "country": "馬來西亞",
+    "region": "亞洲",
+    "quote": "另外一邊就是石龍門",
+    "context": "華工金礦械鬥歷史地，現為湖與觀光地"
+  },
+  {
+    "name": "石彌森林公園",
+    "name_en": "Fairy Caves Nature Reserve / Bau Limestone Area",
+    "lat": 1.398,
+    "lon": 110.133,
+    "country": "馬來西亞",
+    "region": "亞洲",
+    "quote": "石彌森林公園",
+    "context": "免費的奇岩怪石地理奇景，私房秘境"
+  },
+  {
+    "name": "八哥國家公園",
+    "name_en": "Bako National Park",
+    "lat": 1.7167,
+    "lon": 110.45,
+    "country": "馬來西亞",
+    "region": "亞洲",
+    "quote": "它有國家公園它叫八哥國家公園",
+    "context": "需搭船抵達，有鱷魚河與屍花"
+  },
+  {
+    "name": "砂拉越紅毛猩猩保護園區",
+    "name_en": "Semenggoh Wildlife Centre",
+    "lat": 1.4083,
+    "lon": 110.3167,
+    "country": "馬來西亞",
+    "region": "亞洲",
+    "quote": "就是紅毛猩猩保護園區",
+    "context": "可近距離觀賞紅毛猩猩餵食"
+  },
+  {
+    "name": "詩巫",
+    "name_en": "Sibu",
+    "lat": 2.2873,
+    "lon": 111.8305,
+    "country": "馬來西亞",
+    "region": "亞洲",
+    "quote": "他叫石屋他在沙拉月的內陸",
+    "context": "福州人墾場，華人比例高的內陸城市",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Sibu_composite_image.png/330px-Sibu_composite_image.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "美里",
+    "name_en": "Miri",
+    "lat": 4.3995,
+    "lon": 113.9914,
+    "country": "馬來西亞",
+    "region": "亞洲",
+    "quote": "叫梅里",
+    "context": "擁有兩處世界遺產自然景觀的城市"
+  },
+  {
+    "name": "尼亞石洞",
+    "name_en": "Niah Caves",
+    "lat": 3.8167,
+    "lon": 113.7833,
+    "country": "馬來西亞",
+    "region": "亞洲",
+    "quote": "一個是尼亞石東",
+    "context": "美里附近的世界遺產自然景觀"
+  },
+  {
+    "name": "姆魯國家公園",
+    "name_en": "Gunung Mulu National Park",
+    "lat": 4.05,
+    "lon": 114.8833,
+    "country": "馬來西亞",
+    "region": "亞洲",
+    "quote": "母路國家公園",
+    "context": "美里附近壯觀的世界遺產國家公園"
+  },
+  {
+    "name": "馬六甲老街",
+    "name_en": "Melaka Old Town",
+    "lat": 2.1944,
+    "lon": 102.249,
+    "country": "馬來西亞",
+    "region": "亞洲",
+    "quote": "老街清雲亭的旁邊",
+    "context": "提到一場奶茶本店與瓊州會館"
   }
 ]

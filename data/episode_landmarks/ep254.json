@@ -1,82 +1,84 @@
 [
   {
     "name": "孟威村",
-    "name_en": "Muang Ngoi",
-    "lat": 20.707,
-    "lon": 102.613,
-    "country": "寮国",
+    "name_en": "Muang Ngoi Neua",
+    "lat": 20.594,
+    "lon": 102.679,
+    "country": "寮國",
     "region": "亞洲",
-    "quote": "我就发现了一个很可爱的小村落 它叫孟威",
-    "context": "交通不便、尚未过度商业化的纯朴村落"
+    "quote": "我就發現了一個很可愛的小村落，它叫孟威",
+    "context": "斷訊小村，孩子與村童玩跳繩、寄宿體驗"
   },
   {
-    "name": "农桥",
-    "name_en": "Nong Khiaw",
-    "lat": 20.573,
-    "lon": 102.634,
-    "country": "寮国",
+    "name": "龍坡邦",
+    "name_en": "Luang Prabang",
+    "lat": 19.886,
+    "lon": 102.135,
+    "country": "寮國",
     "region": "亞洲",
-    "quote": "那个地方要到农桥 应该就知道 很多人到",
-    "context": "前往孟威村的重要水路转运点"
+    "quote": "龍坡邦的話，一定是龍坡邦，肯定是",
+    "context": "最國際化的城市，英文角、房東與夜市"
   },
   {
-    "name": "梦峰（孟丰）",
-    "name_en": "Muang Feuang",
-    "lat": 18.508,
-    "lon": 101.972,
-    "country": "寮国",
+    "name": "光西瀑布",
+    "name_en": "Kuang Si Falls",
+    "lat": 19.749,
+    "lon": 101.995,
+    "country": "寮國",
     "region": "亞洲",
-    "quote": "还有到一个地方叫梦峰 但那里是大家都住在水上",
-    "context": "被包装成水上人家，实际已过度观光化的景点"
+    "quote": "他是直接從他後院就可以走到光西瀑布裡面，我們完全不用買票",
+    "context": "住在瀑布旁人家，體驗在地生活"
   },
   {
-    "name": "旺阳潟湖",
-    "name_en": "Blue Lagoon",
-    "lat": 18.926,
-    "lon": 102.395,
-    "country": "寮国",
+    "name": "永珍",
+    "name_en": "Vientiane",
+    "lat": 17.976,
+    "lon": 102.633,
+    "country": "寮國",
     "region": "亞洲",
-    "quote": "他可以骑机车 然后他有很多细湖",
-    "context": "旺阳郊外值得骑机车前往的自然风景区"
+    "quote": "永珍我覺得比較喜歡的點，是他沒有那麼觀光化",
+    "context": "低觀光化，按摩洗頭美甲便宜",
+    "image": "https://thumb.wikimedia.org/wikipedia/en/thumb/2/28/Vientiane_-_Patuxai_-_0003.jpg/330px-Vientiane_-_Patuxai_-_0003.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "金三角",
-    "name_en": "Golden Triangle",
-    "lat": 20.353,
-    "lon": 100.082,
-    "country": "泰国",
+    "name": "萬榮",
+    "name_en": "Vang Vieng",
+    "lat": 18.923,
+    "lon": 102.448,
+    "country": "寮國",
     "region": "亞洲",
-    "quote": "我就从泰国 然后有个金三角那边进去",
-    "context": "讲者第一次前往寮国的边界入口"
+    "quote": "市中心很誇張的觀光化，但是離開到郊區的話，其實很多自然風景還是很棒",
+    "context": "高度觀光化，可騎車遊藍湖",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/VientianeProvince_VangVieng9_tango7174.jpg/330px-VientianeProvince_VangVieng9_tango7174.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "南俄湖水上屋",
+    "name_en": "Nam Ngum Reservoir floating houses",
+    "lat": 18.6,
+    "lon": 102.55,
+    "country": "寮國",
+    "region": "亞洲",
+    "quote": "那邊基本上都是觀光業，水上屋是搭給觀光業看的",
+    "context": "逐字稿稱孟峰，水上屋為觀光陷阱"
   },
   {
     "name": "清孔",
     "name_en": "Chiang Khong",
     "lat": 20.261,
     "lon": 100.404,
-    "country": "泰国",
+    "country": "泰國",
     "region": "亞洲",
-    "quote": "跨越妹公河 然后到青莱对不对 青孔那边",
-    "context": "从寮国搭船越过湄公河抵达泰国的边境城镇"
+    "quote": "從龍坡邦那邊跨越湄公河，然後到青孔那邊",
+    "context": "慢船終點，過關入境泰國"
   },
   {
-    "name": "大熊鼠图书室",
-    "name_en": "Big Brother Mouse",
-    "lat": 19.892,
-    "lon": 102.142,
-    "country": "寮国",
+    "name": "清萊",
+    "name_en": "Chiang Rai",
+    "lat": 19.907,
+    "lon": 99.833,
+    "country": "泰國",
     "region": "亞洲",
-    "quote": "它好像叫什么 English Mouth 还是什么的",
-    "context": "龙坡邦当地让外国旅客与当地小孩练习英文的机构"
-  },
-  {
-    "name": "国立自然科学博物馆",
-    "name_en": "National Museum of Natural Science",
-    "lat": 24.157,
-    "lon": 120.666,
-    "country": "台湾",
-    "region": "亞洲",
-    "quote": "像我们台中的话 就是科学博物馆",
-    "context": "讲者举例适合带孩子去学习与互动的在地场馆"
+    "quote": "如果寮國它是台東的話，你到清萊它就是台中",
+    "context": "比喻城市化程度，買鞋、上泰拳課"
   }
 ]

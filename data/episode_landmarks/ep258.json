@@ -1,55 +1,84 @@
 [
   {
-    "name": "米提加國際機場",
-    "name_en": "Mitiga International Airport",
-    "lat": 32.893,
-    "lon": 13.277,
+    "name": "萊普蒂斯馬格納",
+    "name_en": "Leptis Magna",
+    "lat": 32.638,
+    "lon": 14.291,
     "country": "利比亞",
     "region": "非洲",
-    "quote": "所以他是飞到隔壁的小机场 叫米迪格机场",
-    "context": "講者抵達利比亞時降落的機場"
+    "quote": "我講到兩個世界隱藏 第一個叫做 La Peace Magana",
+    "context": "保存完整的羅馬遺跡，有澡堂、道路與競技場",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Leptis_Magna_%2829%29_%288288918733%29.jpg/330px-Leptis_Magna_%2829%29_%288288918733%29.jpg"
+  },
+  {
+    "name": "薩布拉塔",
+    "name_en": "Sabratha",
+    "lat": 32.804,
+    "lon": 12.484,
+    "country": "利比亞",
+    "region": "非洲",
+    "quote": "Sablana的話 它是比較偏向 也是一樣是遺跡",
+    "context": "擁有保存完整的圓形劇場，內戰中未遭破壞"
+  },
+  {
+    "name": "的黎波里新博物館",
+    "name_en": "New Museum of Tripoli",
+    "lat": 32.899,
+    "lon": 13.176,
+    "country": "利比亞",
+    "region": "非洲",
+    "quote": "剛好它有個最新的博物館 剛好11月才開幕",
+    "context": "高科技互動展示利比亞歷史，卡扎菲時期一筆帶過"
+  },
+  {
+    "name": "的黎波里老城區麥迪娜",
+    "name_en": "Tripoli Medina",
+    "lat": 32.898,
+    "lon": 13.183,
+    "country": "利比亞",
+    "region": "非洲",
+    "quote": "在第一波的老城區 這樣子就對了 麥迪娜",
+    "context": "老市集，遇到經商的中國人"
+  },
+  {
+    "name": "米蒂加機場",
+    "name_en": "Mitiga International Airport",
+    "lat": 32.894,
+    "lon": 13.276,
+    "country": "利比亞",
+    "region": "非洲",
+    "quote": "所以他是飛到隔壁的小機場 叫米迪格機場",
+    "context": "主機場被炸毀後的軍民兩用替代機場"
   },
   {
     "name": "的黎波里麗笙酒店",
     "name_en": "Radisson Blu Al Mahary Hotel, Tripoli",
-    "lat": 32.889,
-    "lon": 13.193,
+    "lat": 32.897,
+    "lon": 13.181,
     "country": "利比亞",
     "region": "非洲",
-    "quote": "因为他们跟我说 五星级饭店 Reddison",
-    "context": "講者在利比亞入住且只能付現的飯店"
+    "quote": "五星級飯店 Reddison 他說那個中央銀行壞掉",
+    "context": "無法刷卡，作者在此遭遇電梯故障"
   },
   {
-    "name": "蘇伊士運河",
-    "name_en": "Suez Canal",
-    "lat": 30.585,
-    "lon": 32.265,
-    "country": "埃及",
+    "name": "班加西電台",
+    "name_en": "Benghazi Radio Station",
+    "lat": 32.116,
+    "lon": 20.07,
+    "country": "利比亞",
     "region": "非洲",
-    "quote": "就是把苏黎社运河 收回来嘛",
-    "context": "提及納塞爾收回該運河的歷史事件",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Suez_Canal%2C_Egypt_%2831596166706%29.jpg/330px-Suez_Canal%2C_Egypt_%2831596166706%29.jpg"
+    "quote": "他一個人進去就占領電台了",
+    "context": "卡扎菲1969年政變宣布革命成功之處"
   },
   {
     "name": "雅典衛城",
     "name_en": "Acropolis of Athens",
     "lat": 37.971,
-    "lon": 23.725,
+    "lon": 23.726,
     "country": "希臘",
     "region": "歐洲",
-    "quote": "我那时候看到大夫婚的 卫城对不对",
-    "context": "講者分享去雅典看古蹟的經驗",
+    "quote": "衛城 有點失望",
+    "context": "以其遺跡殘破對比利比亞遺跡的完整",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/1029_Acropolis_of_Athens_in_Greece_at_night_Photo_by_Giles_Laurent.jpg/330px-1029_Acropolis_of_Athens_in_Greece_at_night_Photo_by_Giles_Laurent.jpg"
-  },
-  {
-    "name": "大萊普提斯",
-    "name_en": "Leptis Magna",
-    "lat": 32.639,
-    "lon": 14.29,
-    "country": "利比亞",
-    "region": "非洲",
-    "quote": "我讲到两个世界隐藏 第一个叫做 La Peace Magana",
-    "context": "講者在利比亞參觀的古羅馬世界遺產",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Leptis_Magna_%2829%29_%288288918733%29.jpg/330px-Leptis_Magna_%2829%29_%288288918733%29.jpg"
   }
 ]

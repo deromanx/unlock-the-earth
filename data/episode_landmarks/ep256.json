@@ -1,64 +1,114 @@
 [
   {
-    "name": "富士山",
-    "name_en": "Mount Fuji",
-    "lat": 35.36,
-    "lon": 138.727,
-    "country": "日本",
-    "region": "亞洲",
-    "quote": "我就跟学生请假 去爬富士山",
-    "context": "讲者提及过去曾请假去旅行的地点",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/View_of_Mount_Fuji_from_%C5%8Cwakudani_20211202.jpg/330px-View_of_Mount_Fuji_from_%C5%8Cwakudani_20211202.jpg"
+    "name": "波哥大五月街",
+    "name_en": "Calle Mayo (Mayo Street), Bogotá",
+    "lat": 4.598,
+    "lon": -74.076,
+    "country": "哥伦比亚",
+    "region": "美洲",
+    "quote": "他有一個叫五月街的",
+    "context": "二手摩托車街，價格被加價且恐有拼裝車"
   },
   {
-    "name": "白楼鞋 (巴里洛切)",
-    "name_en": "San Carlos de Bariloche",
-    "lat": -41.133,
-    "lon": -71.31,
+    "name": "門多薩",
+    "name_en": "Mendoza",
+    "lat": -32.889,
+    "lon": -68.845,
     "country": "阿根廷",
     "region": "美洲",
-    "quote": "他从阿根廷的首都 骑到大概 白楼鞋",
-    "context": "切格瓦拉当年机车坏掉的小城市"
+    "quote": "我那時候中間有經過Mendoza",
+    "context": "葡萄酒城，地震重建、硬水與智利互相採購"
   },
   {
-    "name": "吴树怀雅 (乌斯怀亚)",
+    "name": "阿空加瓜山",
+    "name_en": "Aconcagua",
+    "lat": -32.653,
+    "lon": -70.011,
+    "country": "阿根廷",
+    "region": "美洲",
+    "quote": "阿空加瓜山 6960公尺",
+    "context": "亞洲以外最高峰，旅人在旁泡溫泉"
+  },
+  {
+    "name": "聖馬丁德洛斯安第斯",
+    "name_en": "San Martín de los Andes",
+    "lat": -40.157,
+    "lon": -71.353,
+    "country": "阿根廷",
+    "region": "美洲",
+    "quote": "我記得還有去 聖馬丁 那邊是七湖區的開始",
+    "context": "七湖區起點，雪山湖景"
+  },
+  {
+    "name": "七湖公路",
+    "name_en": "Ruta de los Siete Lagos",
+    "lat": -40.6,
+    "lon": -71.6,
+    "country": "阿根廷",
+    "region": "美洲",
+    "quote": "七個湖 非常非常漂亮 風景非常優美",
+    "context": "連續七個湖的風景路線"
+  },
+  {
+    "name": "烏斯懷亞",
     "name_en": "Ushuaia",
     "lat": -54.801,
     "lon": -68.303,
     "country": "阿根廷",
     "region": "美洲",
-    "quote": "然后一路骑到世界的尽头 吴树怀雅",
-    "context": "讲者南美洲机车旅行的最终目的地",
+    "quote": "一路騎到世界的盡頭 烏斯懷亞",
+    "context": "騎行終點，摩托車最後留在此地",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Ushuaia_aerial_panorama.jpg/330px-Ushuaia_aerial_panorama.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "五月街",
-    "name_en": "Avenida Primero de Mayo",
-    "lat": 4.593,
-    "lon": -74.148,
-    "country": "哥伦比亚",
+    "name": "40號公路",
+    "name_en": "Ruta Nacional 40",
+    "lat": -41.134,
+    "lon": -71.31,
+    "country": "阿根廷",
     "region": "美洲",
-    "quote": "他有一个叫五月街的 MyUstrait 就是五月花号",
-    "context": "讲者在波哥大寻找并购买机车的街区"
+    "quote": "我那時候沿著40號公路 那條就是6000多公里的路",
+    "context": "縱貫阿根廷西部的長距離公路"
   },
   {
-    "name": "寡达贝 (瓜塔佩)",
-    "name_en": "Guatapé",
-    "lat": 6.233,
-    "lon": -75.161,
-    "country": "哥伦比亚",
+    "name": "巴塔哥尼亞",
+    "name_en": "Patagonia",
+    "lat": -49.331,
+    "lon": -72.886,
+    "country": "阿根廷",
     "region": "美洲",
-    "quote": "一路就是从那个 寡达贝啊 麦德林开始 然后往下骑",
-    "context": "讲者在哥伦比亚机车旅行的起点之一"
+    "quote": "我到了Patagonia 我到了南部之後",
+    "context": "荒涼公路、鴕鳥與鐵絲網柵欄"
   },
   {
-    "name": "马修比丘 (马丘比丘)",
-    "name_en": "Machu Picchu",
-    "lat": -13.163,
-    "lon": -72.545,
-    "country": "秘鲁",
+    "name": "羅薩里奧",
+    "name_en": "Rosario",
+    "lat": -32.944,
+    "lon": -60.65,
+    "country": "阿根廷",
     "region": "美洲",
-    "quote": "整个秘鲁应该只有马修比丘 没有垃圾",
-    "context": "讲者认为秘鲁唯一没有被垃圾污染的著名遗迹"
+    "quote": "羅沙里奧是全南美最危險的城市",
+    "context": "梅西與切格瓦拉故鄉，傳聞有安全區"
+  },
+  {
+    "name": "亞馬遜雨林",
+    "name_en": "Peruvian Amazon",
+    "lat": -12.6,
+    "lon": -69.19,
+    "country": "秘魯",
+    "region": "美洲",
+    "quote": "我去秘魯的亞馬遜 我還迷路",
+    "context": "迷路三天讓母親擔心"
+  },
+  {
+    "name": "巴拿馬達連隘口",
+    "name_en": "Darién Gap",
+    "lat": 8.1,
+    "lon": -77.3,
+    "country": "巴拿馬",
+    "region": "美洲",
+    "quote": "在巴拿馬那一段 中美洲那一段 有一個沼澤",
+    "context": "泛美公路斷裂處，無法騎行",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Map_of_Dari%C3%A9n_Gap-en.svg/330px-Map_of_Dari%C3%A9n_Gap-en.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]

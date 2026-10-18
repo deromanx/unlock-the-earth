@@ -1,115 +1,105 @@
 [
   {
-    "name": "東京鐵塔",
-    "name_en": "Tokyo Tower",
-    "lat": 35.658,
-    "lon": 139.745,
-    "country": "日本",
-    "region": "亞洲",
-    "quote": "我后来只要回到日本看到东京铁塔就有回家的那种安心感",
-    "context": "講者在日本居住後對此地標產生歸屬感",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Tokyo_Tower_2023.jpg/330px-Tokyo_Tower_2023.jpg"
-  },
-  {
     "name": "山崎蒸餾所",
     "name_en": "Yamazaki Distillery",
-    "lat": 34.892,
-    "lon": 135.673,
+    "lat": 34.8905,
+    "lon": 135.6746,
     "country": "日本",
     "region": "亞洲",
-    "quote": "他的这个盖的日本第一间酒厂就是威士忌的政六所就是山崎",
-    "context": "日本第一間威士忌蒸餾所",
+    "quote": "就是山崎可以推荐大家",
+    "context": "日本第一間威士忌蒸餾所，鳥井信治郎創立，預約抽籤制",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/YamazakiDistillery_01.jpg/330px-YamazakiDistillery_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "余市蒸餾所",
+    "name_en": "Nikka Yoichi Distillery",
+    "lat": 43.1894,
+    "lon": 140.7832,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "他还在古法酿造的去用这所谓的这个煤炭直火加热",
+    "context": "竹鶴政孝在北海道創立，堅持煤炭直火蒸餾"
+  },
+  {
+    "name": "天王山",
+    "name_en": "Mount Tennōzan",
+    "lat": 34.9031,
+    "lon": 135.6908,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "那个就是大家知道那个封城秀吉",
+    "context": "山崎合戰古戰場，「天王山之戰」一詞由來"
   },
   {
     "name": "山崎站",
     "name_en": "Yamazaki Station",
-    "lat": 34.892,
-    "lon": 135.679,
+    "lat": 34.8936,
+    "lon": 135.6759,
     "country": "日本",
     "region": "亞洲",
-    "quote": "因为它就是一个小小的车站就是叫三期站嘛它那边就有一块石碑",
-    "context": "位於京都與大阪交界處，前往酒廠的車站"
+    "quote": "因为它就是一个小小的车站",
+    "context": "位於京都與大阪交界，站旁有府界石碑"
   },
   {
-    "name": "天王山",
-    "name_en": "Tennouzan",
-    "lat": 34.897,
-    "lon": 135.673,
+    "name": "待庵",
+    "name_en": "Taian Teahouse",
+    "lat": 34.8924,
+    "lon": 135.6733,
     "country": "日本",
     "region": "亞洲",
-    "quote": "那走的路上会看到一个三期合战的石碑他写天王山之战",
-    "context": "戰國歷史重要戰役發生地，影響日文語言"
-  },
-  {
-    "name": "新千歲機場",
-    "name_en": "New Chitose Airport",
-    "lat": 42.775,
-    "lon": 141.662,
-    "country": "日本",
-    "region": "亞洲",
-    "quote": "如果从千岁机场你做到那个小尊",
-    "context": "前往北海道威士忌酒廠的交通起點",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Shinchitose.aierial_shoot.jpg/330px-Shinchitose.aierial_shoot.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    "quote": "他附近有那个千利修",
+    "context": "千利休的茶室，山崎蒸餾所附近水質佳"
   },
   {
     "name": "小樽",
     "name_en": "Otaru",
-    "lat": 43.19,
-    "lon": 140.994,
+    "lat": 43.1907,
+    "lon": 140.9947,
     "country": "日本",
     "region": "亞洲",
-    "quote": "从小尊还要再搭那种路面电车很小那种电车大概只有两节车厢那种还要搭五站",
-    "context": "前往余市的轉乘城市，有壽司與運河"
-  },
-  {
-    "name": "余市蒸餾所",
-    "name_en": "Yoichi Distillery",
-    "lat": 43.184,
-    "lon": 140.792,
-    "country": "日本",
-    "region": "亞洲",
-    "quote": "还要搭五站才能到这个渔市就是到现在还很不方便",
-    "context": "竹鶴政孝在北海道建立的威士忌酒廠"
+    "quote": "小尊还算热闹嘛",
+    "context": "前往余市的交通中轉，運河與壽司"
   },
   {
     "name": "天狗山",
-    "name_en": "Tenguyama",
-    "lat": 43.176,
-    "lon": 140.963,
+    "name_en": "Mount Tengu",
+    "lat": 43.1605,
+    "lon": 141.0053,
     "country": "日本",
     "region": "亞洲",
-    "quote": "小尊附近有个天狗山嘛那天狗山就在威士附近",
-    "context": "日劇初戀拍攝地，有纜車可搭乘"
+    "quote": "天狗山就在威士附近",
+    "context": "小樽纜車與夜景，電影《First Love》取景地",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/YatsugatakeTengudake.JPG/330px-YatsugatakeTengudake.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "Rita大道",
-    "name_en": "Rita Boulevard",
-    "lat": 43.185,
-    "lon": 140.793,
+    "name": "莉塔大道",
+    "name_en": "Rita Road",
+    "lat": 43.1889,
+    "lon": 140.7889,
     "country": "日本",
     "region": "亞洲",
-    "quote": "你沿着这个Rita大道那个阿正取的",
-    "context": "通往余市蒸餾所的道路名稱"
+    "quote": "所以那一条路就叫做Rita大道",
+    "context": "余市蒸餾所前以竹鶴妻子命名的道路"
   },
   {
-    "name": "小樽運河",
-    "name_en": "Otaru Canal",
-    "lat": 43.199,
-    "lon": 141.001,
+    "name": "宮城峽蒸餾所",
+    "name_en": "Nikka Miyagikyo Distillery",
+    "lat": 38.3197,
+    "lon": 140.5933,
     "country": "日本",
     "region": "亞洲",
-    "quote": "小尊看看运河啦夜景啦还是很完美的旅程",
-    "context": "小樽周邊的觀光行程建議"
+    "quote": "阿正又带着他的儿子去盖了一间酒厂在仙台",
+    "context": "1969年竹鶴建造，生產無泥煤威士忌"
   },
   {
-    "name": "醉霞酒吧",
-    "name_en": "Zuixia Bar",
-    "lat": 22.628,
-    "lon": 120.302,
-    "country": "台灣",
-    "region": "台灣",
-    "quote": "高雄有个酒吧叫醉霞我在醉霞喝酒的时候",
-    "context": "講者開始擔任威士忌酒展翻譯的契機"
+    "name": "白州蒸餾所",
+    "name_en": "Hakushu Distillery",
+    "lat": 35.8561,
+    "lon": 138.3028,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "又去盖了白州真六所",
+    "context": "三得利1973年建造，生產淡泥煤威士忌",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/160825_Suntory_Hakushu_Distillery_Hokuto_Yamanashi_pref_Japan04s3.jpg/330px-160825_Suntory_Hakushu_Distillery_Hokuto_Yamanashi_pref_Japan04s3.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]

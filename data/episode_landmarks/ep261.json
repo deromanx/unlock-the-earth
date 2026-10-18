@@ -1,53 +1,94 @@
 [
   {
-    "name": "白馬",
-    "name_en": "Whitehorse",
-    "lat": 60.721,
-    "lon": -135.057,
+    "name": "上師街",
+    "name_en": "Hastings Street (Downtown Eastside)",
+    "lat": 49.281,
+    "lon": -123.099,
     "country": "加拿大",
     "region": "美洲",
-    "quote": "那个白马就那么小的一个地方，然后很多地方你可能其实也去了好几次",
-    "context": "作為探勘與體驗數位遊牧的城鎮"
+    "quote": "我們還特意去上師街參觀這樣",
+    "context": "溫哥華市中心街區，毒品與遊民問題觸目驚心"
   },
   {
-    "name": "列治文",
-    "name_en": "Richmond",
+    "name": "溫哥華列治文",
+    "name_en": "Richmond, British Columbia",
     "lat": 49.166,
     "lon": -123.133,
     "country": "加拿大",
     "region": "美洲",
-    "quote": "那时候我们不是还去那个Richmond，Richmond那个早期的华人区吗",
-    "context": "溫哥華華人聚集且生活便利的社區"
+    "quote": "那時候我們不是還去那個Richmond，Richmond那個早期的華人區嗎",
+    "context": "華人密集區，無需英文即可生活"
   },
   {
-    "name": "溫哥華唐人街",
+    "name": "溫哥華中國城",
     "name_en": "Vancouver Chinatown",
     "lat": 49.28,
-    "lon": -123.098,
+    "lon": -123.103,
     "country": "加拿大",
     "region": "美洲",
-    "quote": "或是中国城的附近也通常有可能是比较脏乱",
-    "context": "溫哥華市區中較髒亂的區域"
+    "quote": "那個市中心可能也是或是中國城的附近，也通常有可能是比較髒亂",
+    "context": "市中心中國城一帶較髒亂、遊民多"
   },
   {
-    "name": "喜士定街 (逐字稿譯為上斯街)",
-    "name_en": "Hastings Street",
-    "lat": 49.282,
-    "lon": -123.093,
+    "name": "多倫多金融區",
+    "name_en": "Financial District, Toronto",
+    "lat": 43.648,
+    "lon": -79.381,
     "country": "加拿大",
     "region": "美洲",
-    "quote": "我们那时候好像，我们还特意去上斯街参观这样",
-    "context": "溫哥華市中心遊民較多的特定街區"
+    "quote": "比較像是信義區，比較像是華人街的靠近湖邊那邊",
+    "context": "湖邊繁華精緻的社畜商業區"
   },
   {
-    "name": "海德堡",
-    "name_en": "Heidelberg",
-    "lat": 49.398,
-    "lon": 8.672,
-    "country": "德國",
-    "region": "歐洲",
-    "quote": "但是在海德堡，我觉得第一点就是因为他不是英语系国家",
-    "context": "用來比較異地建立社交圈難度的小城市",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/K%C3%B6nigstuhl%2C_Heidelberg%2C_U-17.jpg/330px-K%C3%B6nigstuhl%2C_Heidelberg%2C_U-17.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    "name": "多倫多大學舊城區",
+    "name_en": "University of Toronto Area",
+    "lat": 43.663,
+    "lon": -79.396,
+    "country": "加拿大",
+    "region": "美洲",
+    "quote": "多倫多大學那附近的那個舊城區，就是他有一些古老的建築物",
+    "context": "古老建築與學術氣息，歐洲感較強"
+  },
+  {
+    "name": "布蘭普頓",
+    "name_en": "Brampton",
+    "lat": 43.731,
+    "lon": -79.762,
+    "country": "加拿大",
+    "region": "美洲",
+    "quote": "印度是有一個算他們的近郊城市，叫Brandon",
+    "context": "多倫多近郊的印度人聚居城市",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Peel_Art_Gallery%2C_Museum_and_Archives_Building_%28PAMA%29.jpg/330px-Peel_Art_Gallery%2C_Museum_and_Archives_Building_%28PAMA%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "白馬市",
+    "name_en": "Whitehorse",
+    "lat": 60.721,
+    "lon": -135.055,
+    "country": "加拿大",
+    "region": "美洲",
+    "quote": "白馬不是一個大地方，所以你要很粗淺的去認識這個地方其實是很快的",
+    "context": "育空首府，生活機能佳但人少冬季嚴寒"
+  },
+  {
+    "name": "蒙特婁市中心",
+    "name_en": "Downtown Montreal",
+    "lat": 45.502,
+    "lon": -73.573,
+    "country": "加拿大",
+    "region": "美洲",
+    "quote": "英語區其實就是比較市中心的那邊",
+    "context": "英法語各半、年輕活力、房租便宜"
+  },
+  {
+    "name": "魁北克市",
+    "name_en": "Quebec City",
+    "lat": 46.813,
+    "lon": -71.208,
+    "country": "加拿大",
+    "region": "美洲",
+    "quote": "魁北克市真的是非常一個sleeping city",
+    "context": "純法語、安靜封閉的小城",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Quebec_City_skyline_from_L%C3%A9vis.jpg/330px-Quebec_City_skyline_from_L%C3%A9vis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]

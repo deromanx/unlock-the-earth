@@ -1,143 +1,254 @@
 [
   {
-    "name": "牛津大学博德利图书馆",
-    "name_en": "Bodleian Library",
-    "lat": 51.753,
-    "lon": -1.254,
-    "country": "英国",
-    "region": "亞洲",
-    "quote": "在牛津的图书馆，在Bowden Library，有他写的几张翻译文件",
-    "context": "收藏了早期华人神辅真翻译的中文文件"
+    "name": "聖潘克拉斯車站",
+    "name_en": "St Pancras railway station",
+    "lat": 51.5322,
+    "lon": -0.1263,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "他第一个登入的就是Saint Pancras火车站",
+    "context": "孫文抵倫敦首站，維多利亞式火車飯店"
   },
   {
-    "name": "温莎堡",
+    "name": "沃里克庭院",
+    "name_en": "Warwick Court",
+    "lat": 51.5185,
+    "lon": -0.1118,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "你走进这个Walwick Court这边然后大概走几步路就在你的右手边",
+    "context": "孫文紀念碑所在小街，近霍本地鐵站"
+  },
+  {
+    "name": "老陰影酒館",
+    "name_en": "The Old Shades",
+    "lat": 51.5075,
+    "lon": -0.1263,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "靠近特拉法家广场就是Trafalgo Square那里有一个pop叫做The Old Shade",
+    "context": "孫文獲釋後舉行記者會的酒館"
+  },
+  {
+    "name": "特拉法加廣場",
+    "name_en": "Trafalgar Square",
+    "lat": 51.508,
+    "lon": -0.1281,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "你就想这个整个广场特拉法加广场中间有一根巨大的这个雕像",
+    "context": "孫文演講場所周邊的倫敦中心廣場"
+  },
+  {
+    "name": "聖馬田教堂",
+    "name_en": "St Martin-in-the-Fields",
+    "lat": 51.509,
+    "lon": -0.1263,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "有一栋白色的教堂那栋教堂就是圣马丁教堂",
+    "context": "傳聞孫文在此演講三民主義"
+  },
+  {
+    "name": "波特蘭街中國大使館舊址",
+    "name_en": "Former Chinese Legation, Portland Place",
+    "lat": 51.5206,
+    "lon": -0.1445,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "当时这个中国大使馆的地址现在已经变成波兰大使馆",
+    "context": "孫文被囚禁處，現為波蘭大使館"
+  },
+  {
+    "name": "倫敦政經學院",
+    "name_en": "London School of Economics",
+    "lat": 51.5144,
+    "lon": -0.1167,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "他是先进LSE London School of Economic伦敦政经学院",
+    "context": "徐志摩初到倫敦就讀之處"
+  },
+  {
+    "name": "劍橋國王學院",
+    "name_en": "King's College, Cambridge",
+    "lat": 52.2043,
+    "lon": 0.1166,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "他就弄了一颗这个徐志摩的石头在他的国王学院里",
+    "context": "設有徐志摩詩碑"
+  },
+  {
+    "name": "劍橋聖約翰學院",
+    "name_en": "St John's College, Cambridge",
+    "lat": 52.2084,
+    "lon": 0.117,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "你就要去圣约翰学院找金庸的金庸石",
+    "context": "金庸求學並留有對聯石碑"
+  },
+  {
+    "name": "萊姆豪斯",
+    "name_en": "Limehouse",
+    "lat": 51.5122,
+    "lon": -0.0353,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "伦敦的这个最多的华人其实聚集在今天的Limehouse",
+    "context": "倫敦最早的唐人街與港口區"
+  },
+  {
+    "name": "傑拉德街唐人街",
+    "name_en": "Chinatown, Gerrard Street",
+    "lat": 51.5114,
+    "lon": -0.1318,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "叫Jerrod Street那当时政府可能意识到",
+    "context": "蘇活區內現今的倫敦唐人街"
+  },
+  {
+    "name": "科林代爾",
+    "name_en": "Colindale",
+    "lat": 51.595,
+    "lon": -0.25,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "很多人喜欢聚集在一个地方叫Colendale",
+    "context": "華人聚居的倫敦郊區"
+  },
+  {
+    "name": "利物浦港",
+    "name_en": "Liverpool Docks",
+    "lat": 53.4084,
+    "lon": -2.9916,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "Liverpool是当时一个很大的港口",
+    "context": "早期華人登陸港口，1946年事件發生地"
+  },
+  {
+    "name": "佛光山倫敦分院",
+    "name_en": "Fo Guang Shan London Temple",
+    "lat": 51.517,
+    "lon": -0.143,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "在伦敦市中心有一条街叫Margaret Street靠近牛津街那边",
+    "context": "舊圖書館改建的華人佛寺"
+  },
+  {
+    "name": "倫敦大學學院",
+    "name_en": "University College London (UCL)",
+    "lat": 51.5246,
+    "lon": -0.134,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "让他们到了伦敦的伦敦大学UCL大学就是偷偷去留学这样子",
+    "context": "長州五傑留學處，設有紀念碑"
+  },
+  {
+    "name": "英格蘭銀行博物館",
+    "name_en": "Bank of England Museum",
+    "lat": 51.5143,
+    "lon": -0.0885,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "在英格兰银行里面还有一个文物和这个长州五节有干",
+    "context": "收藏長州五傑兌換日幣的紀錄"
+  },
+  {
+    "name": "格林威治",
+    "name_en": "Greenwich",
+    "lat": 51.4826,
+    "lon": -0.0077,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "像格里尼茨那边受到近代的海军训练",
+    "context": "日本海軍學習英國海軍之處"
+  },
+  {
+    "name": "海德公園",
+    "name_en": "Hyde Park",
+    "lat": 51.5073,
+    "lon": -0.1657,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "日本在这个伦敦在海德公园的另外一个角落办了一个日本原意展",
+    "context": "1910年日英博覽會場地",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Aerial_view_of_Hyde_Park.jpg/330px-Aerial_view_of_Hyde_Park.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "邱園日式勅使門",
+    "name_en": "Chokushimon, Kew Gardens",
+    "lat": 51.4787,
+    "lon": -0.2956,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "现在还留在伦敦的Q Garden里面",
+    "context": "仿京都西本願寺門的日本庭園之門"
+  },
+  {
+    "name": "日本館",
+    "name_en": "Japan House London",
+    "lat": 51.5014,
+    "lon": -0.1916,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "所以他们在那里也成立了一个日本中心叫Japan House",
+    "context": "肯辛頓高街的日本文化展示中心"
+  },
+  {
+    "name": "皇家阿爾伯特音樂廳",
+    "name_en": "Royal Albert Hall",
+    "lat": 51.501,
+    "lon": -0.1774,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "所以在我们伦敦的亚伯特厅就办了一个这个日本相铺",
+    "context": "舉辦大相撲倫敦巡演"
+  },
+  {
+    "name": "溫莎城堡",
     "name_en": "Windsor Castle",
-    "lat": 51.483,
-    "lon": -0.604,
-    "country": "英国",
-    "region": "亞洲",
-    "quote": "在我们的这个温莎堡，其实有一幅他的画像",
-    "context": "收藏了早期华人神辅真的画像",
+    "lat": 51.4839,
+    "lon": -0.6044,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "在我们的这个温莎堡其实有一幅他的画像",
+    "context": "收藏沈福宗畫像",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Windsor_Castle_at_Sunset_-_Nov_2006.jpg/330px-Windsor_Castle_at_Sunset_-_Nov_2006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "国立台湾历史博物馆",
+    "name": "牛津博德利圖書館",
+    "name_en": "Bodleian Library",
+    "lat": 51.754,
+    "lon": -1.254,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "在牛津的图书馆在Bowden Library有他写的几张翻译文件",
+    "context": "收藏沈福宗十二星座手稿"
+  },
+  {
+    "name": "臺南歷史博物館",
     "name_en": "National Museum of Taiwan History",
-    "lat": 23.061,
-    "lon": 120.241,
-    "country": "台湾",
-    "region": "亞洲",
-    "quote": "你在我们台南的那个历史博物馆，在第一柜台南就有他的那一本书",
-    "context": "收藏假台湾人乔治·萨玛纳札出版的回忆录"
+    "lat": 23.0386,
+    "lon": 120.1136,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "在我们台南的那个历史博物馆在第一柜台南就有他的那一本书",
+    "context": "藏有假台灣人撰寫的《福爾摩沙》"
   },
   {
-    "name": "圣潘克拉斯火车站",
-    "name_en": "St Pancras Railway Station",
-    "lat": 51.53,
-    "lon": -0.126,
-    "country": "英国",
-    "region": "亞洲",
-    "quote": "他第一个登入的就是Saint Pancras火车站",
-    "context": "孙文来到伦敦时最先抵达的车站"
-  },
-  {
-    "name": "沃里克法院巷",
-    "name_en": "Warwick Court",
-    "lat": 51.517,
-    "lon": -0.113,
-    "country": "英国",
-    "region": "亞洲",
-    "quote": "当时是有租一个房子，就在Walwick Court这边",
-    "context": "孙文在伦敦的租屋处，现设有其雕像"
-  },
-  {
-    "name": "特拉法加广场",
-    "name_en": "Trafalgar Square",
-    "lat": 51.508,
-    "lon": -0.128,
-    "country": "英国",
-    "region": "亞洲",
-    "quote": "靠近特拉法家广场 就是Trafalgo Square那里 有一个pop叫做The Old Shade",
-    "context": "标示相关酒馆与教堂位置的重要地标"
-  },
-  {
-    "name": "The Old Shades 酒馆",
-    "name_en": "The Old Shades",
-    "lat": 51.506,
-    "lon": -0.127,
-    "country": "英国",
-    "region": "亞洲",
-    "quote": "到了Old Shade的这个小酒馆 去办了一场记者会这样子",
-    "context": "孙文获释后举办记者会的酒馆"
-  },
-  {
-    "name": "圣马丁教堂",
-    "name_en": "St Martin-in-the-Fields",
-    "lat": 51.508,
-    "lon": -0.126,
-    "country": "英国",
-    "region": "亞洲",
-    "quote": "有一个教堂叫St.Martin in the Field 圣马丁教堂",
-    "context": "孙文常在此发表演讲宣传革命理念"
-  },
-  {
-    "name": "波特兰街",
-    "name_en": "Portland Place",
-    "lat": 51.519,
-    "lon": -0.145,
-    "country": "英国",
-    "region": "亞洲",
-    "quote": "目前中国大使馆还在波特兰街，只是换了一个地方",
-    "context": "提及目前中国驻英大使馆的所在地"
-  },
-  {
-    "name": "伦敦政经学院",
-    "name_en": "London School of Economics (LSE)",
-    "lat": 51.514,
-    "lon": -0.116,
-    "country": "英国",
-    "region": "亞洲",
-    "quote": "他是先进LSE London School of Economic 伦敦政经学院",
-    "context": "徐志摩初到英国时就读的学校"
-  },
-  {
-    "name": "剑桥大学国王学院",
-    "name_en": "King's College, Cambridge",
-    "lat": 52.203,
-    "lon": 0.116,
-    "country": "英国",
-    "region": "亞洲",
-    "quote": "他就弄了一颗这个徐志摩的石头，在他的国王学院里",
-    "context": "存放徐志摩纪念石的剑桥学院"
-  },
-  {
-    "name": "剑桥大学圣约翰学院",
-    "name_en": "St John's College, Cambridge",
-    "lat": 52.208,
-    "lon": 0.115,
-    "country": "英国",
-    "region": "亞洲",
-    "quote": "你要找到剑桥的神秘地标，你就要去圣约翰学院找金庸的金庸石",
-    "context": "金庸取得博士学位并留下纪念石的学院"
-  },
-  {
-    "name": "莱姆豪斯",
-    "name_en": "Limehouse",
-    "lat": 51.512,
-    "lon": -0.035,
-    "country": "英国",
-    "region": "亞洲",
-    "quote": "在伦敦这个华人第一个登入的地方，就是我们今天叫做Limehouse的这个区域",
-    "context": "早期华人在伦敦聚居与做苦力的区域"
-  },
-  {
-    "name": "泰晤士河",
-    "name_en": "River Thames",
-    "lat": 51.506,
-    "lon": -0.087,
-    "country": "英国",
-    "region": "亞洲",
-    "quote": "他就在靠近泰鲁士河，那边全部都是仓库",
-    "context": "早期华人做苦力的港口仓库所在地"
+    "name": "利物浦華人事件紀念碑",
+    "name_en": "Liverpool Chinese Seamen Memorial",
+    "lat": 53.404,
+    "lon": -2.993,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "在Levelpool港口这边就有一个华人的事件的道歉纪念碑",
+    "context": "紀念1946年遭驅逐華人海員"
   }
 ]

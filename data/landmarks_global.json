@@ -1,82 +1,5 @@
 [
   {
-    "name": "海德堡",
-    "name_en": "Heidelberg",
-    "lat": 49.3988,
-    "lon": 8.6724,
-    "country": "德國",
-    "region": "歐洲",
-    "appearances": [
-      {
-        "ep": 117,
-        "quote": "最後才又搬回了海德堡這附近",
-        "context": "來賓居住多年的城市，氣候溫暖、冬季陰暗",
-        "source": "transcript"
-      },
-      {
-        "ep": 151,
-        "quote": "我是住在海德堡",
-        "context": "來賓留學居住地，靠近法國邊境",
-        "source": "transcript"
-      },
-      {
-        "ep": 187,
-        "quote": "當時我去印度的時候是從海德堡出發",
-        "context": "主持人留學兩年的城市，海德堡大學醫療人類學課程所在地",
-        "source": "transcript"
-      },
-      {
-        "ep": 220,
-        "quote": "如果在德國海德堡的街頭有一間7-11那我可能就是365天就住在裡面",
-        "context": "提及在德國生活的城市經驗",
-        "source": "transcript"
-      },
-      {
-        "ep": 230,
-        "quote": "我在海德堡生活過兩年",
-        "context": "主持人留學生活，獨處與思鄉記憶",
-        "source": "transcript"
-      },
-      {
-        "ep": 232,
-        "quote": "第一次的相遇是在德國海德堡的時候",
-        "context": "講者在此上騷莎課，初遇馬達加斯加人",
-        "source": "transcript"
-      },
-      {
-        "ep": 255,
-        "quote": "我在海德堡的生活跟在臺北的生活上一個很根本的差異",
-        "context": "主持人分享在海德堡的生活經驗，對比生活型態差異",
-        "source": "transcript"
-      },
-      {
-        "ep": 257,
-        "quote": "我現在在德國海德堡的時候 其實也有這種感覺",
-        "context": "騎自行車比開車更具運輸效率的體驗地",
-        "source": "transcript"
-      },
-      {
-        "ep": 261,
-        "quote": "但是在海德堡，我覺得第一點就是因為他不是英語系國家",
-        "context": "用來比較異地建立社交圈難度的小城市",
-        "source": "transcript"
-      },
-      {
-        "ep": 279,
-        "quote": "可是我發現，一兩年之後，我發現，我完全懂得欣賞一個生活，在小鎮的生活風格",
-        "context": "嘉賓曾旅居當地，喜歡小鎮生活風格",
-        "source": "transcript"
-      },
-      {
-        "ep": 283,
-        "quote": "就是在海德堡的時候",
-        "context": "主持人認識的白俄羅斯人在海德堡",
-        "source": "transcript"
-      }
-    ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/K%C3%B6nigstuhl%2C_Heidelberg%2C_U-17.jpg/330px-K%C3%B6nigstuhl%2C_Heidelberg%2C_U-17.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
     "name": "墨西哥城歷史城區",
     "name_en": "Historic Centre of Mexico City",
     "lat": 19.433,
@@ -136,62 +59,63 @@
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Sobrevuelos_CDMX_HJ2A4913_%2825514321687%29_%28cropped%29.jpg/330px-Sobrevuelos_CDMX_HJ2A4913_%2825514321687%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "馬丘比丘",
-    "name_en": "Machu Picchu",
-    "lat": -13.1631,
-    "lon": -72.545,
-    "country": "秘魯",
-    "region": "美洲",
+    "name": "海德堡",
+    "name_en": "Heidelberg",
+    "lat": 49.3988,
+    "lon": 8.6724,
+    "country": "德國",
+    "region": "歐洲",
     "appearances": [
       {
-        "ep": 41,
-        "quote": "他還可以在那個地方死守幾十年",
-        "context": "印加貴族休養/度假之地",
+        "ep": 117,
+        "quote": "最後才又搬回了海德堡這附近",
+        "context": "來賓居住多年的城市，氣候溫暖、冬季陰暗",
         "source": "transcript"
       },
       {
-        "ep": 45,
-        "quote": "馬丘比丘秘魯",
-        "context": "世界新七大奇景之一",
+        "ep": 151,
+        "quote": "我是住在海德堡",
+        "context": "來賓留學居住地，靠近法國邊境",
         "source": "transcript"
       },
       {
-        "ep": 95,
-        "quote": "對那就是有印加文化的Machu Picchu",
-        "context": "秘魯著名的印加文化古蹟",
+        "ep": 187,
+        "quote": "當時我去印度的時候是從海德堡出發",
+        "context": "主持人留學兩年的城市，海德堡大學醫療人類學課程所在地",
         "source": "transcript"
       },
       {
-        "ep": 192,
-        "quote": "我本來就一直很想要去秘錄看那個馬丘比丘嘛",
-        "context": "旅程起因與夢想目的地，但體驗偏觀光化、路線單向",
+        "ep": 220,
+        "quote": "如果在德國海德堡的街頭有一間7-11那我可能就是365天就住在裡面",
+        "context": "提及在德國生活的城市經驗",
         "source": "transcript"
       },
       {
-        "ep": 209,
-        "quote": "我們花了五天的時間從Cuzco走到馬丘比丘",
-        "context": "徒步印加古道五天抵達馬丘比丘，本集旅程重點",
+        "ep": 230,
+        "quote": "我在海德堡生活過兩年",
+        "context": "主持人留學生活，獨處與思鄉記憶",
         "source": "transcript"
       },
       {
-        "ep": 213,
-        "quote": "馬丘比丘我終於終於跟你相遇了",
-        "context": "旅程終極目標，首次受阻、二訪終於登頂相遇",
+        "ep": 232,
+        "quote": "第一次的相遇是在德國海德堡的時候",
+        "context": "講者在此上騷莎課，初遇馬達加斯加人",
         "source": "transcript"
       },
       {
-        "ep": 256,
-        "quote": "整個秘魯應該只有馬修比丘 沒有垃圾",
-        "context": "講者認為秘魯唯一沒有被垃圾汙染的著名遺蹟",
+        "ep": 279,
+        "quote": "可是我發現，一兩年之後，我發現，我完全懂得欣賞一個生活，在小鎮的生活風格",
+        "context": "嘉賓曾旅居當地，喜歡小鎮生活風格",
         "source": "transcript"
       },
       {
-        "ep": 264,
-        "quote": "然後還有什麼 去馬丘比丘之類的嗎",
-        "context": "被舉例為常見的人生必去景點清單之一",
+        "ep": 283,
+        "quote": "就是在海德堡的時候",
+        "context": "主持人認識的白俄羅斯人在海德堡",
         "source": "transcript"
       }
-    ]
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/K%C3%B6nigstuhl%2C_Heidelberg%2C_U-17.jpg/330px-K%C3%B6nigstuhl%2C_Heidelberg%2C_U-17.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "仰光",
@@ -381,45 +305,96 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Inle_Lake_%28Myanmar%29.jpg/330px-Inle_Lake_%28Myanmar%29.jpg"
   },
   {
-    "name": "吉薩金字塔",
-    "name_en": "Giza Pyramids",
-    "lat": 29.9792,
-    "lon": 31.1342,
-    "country": "埃及",
-    "region": "非洲",
+    "name": "馬丘比丘",
+    "name_en": "Machu Picchu",
+    "lat": -13.1631,
+    "lon": -72.545,
+    "country": "秘魯",
+    "region": "美洲",
     "appearances": [
       {
-        "ep": 110,
-        "quote": "在這個途中就有經過金字塔",
-        "context": "作者在埃及遇到美國旅伴爬金字塔被警察逮捕的奇遇",
+        "ep": 41,
+        "quote": "他還可以在那個地方死守幾十年",
+        "context": "印加貴族休養/度假之地",
         "source": "transcript"
       },
       {
-        "ep": 144,
-        "quote": "我覺得真的很震撼 就是它比你想像中還要大",
-        "context": "三座金字塔的規模、內部無壁畫與外星人說法",
+        "ep": 45,
+        "quote": "馬丘比丘秘魯",
+        "context": "世界新七大奇景之一",
         "source": "transcript"
       },
       {
-        "ep": 159,
-        "quote": "金字塔這邊就也算撒哈拉沙漠了",
-        "context": "位於撒哈拉邊緣，亦是埃及夢象徵",
+        "ep": 95,
+        "quote": "對那就是有印加文化的Machu Picchu",
+        "context": "秘魯著名的印加文化古蹟",
         "source": "transcript"
       },
       {
-        "ep": 247,
-        "quote": "你現場看到金字塔的那個感受怎麼樣",
-        "context": "騎駱駝繞吉薩遠觀金字塔，討論現場震撼感",
+        "ep": 192,
+        "quote": "我本來就一直很想要去秘錄看那個馬丘比丘嘛",
+        "context": "旅程起因與夢想目的地，但體驗偏觀光化、路線單向",
         "source": "transcript"
       },
       {
-        "ep": 264,
-        "quote": "人生清單不就是什麼 看金字塔看極光",
-        "context": "被舉例為常見的人生必去景點清單之一",
+        "ep": 209,
+        "quote": "我們花了五天的時間從Cuzco走到馬丘比丘",
+        "context": "徒步印加古道五天抵達馬丘比丘，本集旅程重點",
+        "source": "transcript"
+      },
+      {
+        "ep": 213,
+        "quote": "馬丘比丘我終於終於跟你相遇了",
+        "context": "旅程終極目標，首次受阻、二訪終於登頂相遇",
         "source": "transcript"
       }
-    ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Pyramids_of_the_Giza_Necropolis.jpg/330px-Pyramids_of_the_Giza_Necropolis.jpg"
+    ]
+  },
+  {
+    "name": "龍坡邦",
+    "name_en": "Luang Prabang",
+    "lat": 19.8906,
+    "lon": 102.1375,
+    "country": "寮國",
+    "region": "亞洲",
+    "appearances": [
+      {
+        "ep": 1,
+        "quote": "通常大部分人都是去龍坡邦",
+        "context": "寮國的熱門旅遊地",
+        "source": "transcript"
+      },
+      {
+        "ep": 90,
+        "quote": "看到他們的清晨佈施",
+        "context": "提到當地清晨佈施糯米的景象",
+        "source": "transcript"
+      },
+      {
+        "ep": 119,
+        "quote": "比如說遼國龍泊幫我們就會有一個下午的走讀",
+        "context": "舉例隨行旅人需帶領的城市走讀行程",
+        "source": "transcript"
+      },
+      {
+        "ep": 141,
+        "quote": "龍坡邦是世界的化遺產嘛",
+        "context": "世界遺產古城，佈施文化與觀光化",
+        "source": "transcript"
+      },
+      {
+        "ep": 242,
+        "quote": "還在建到龍坡邦的",
+        "context": "高速公路、中寮鐵路延伸目的地，也有巴西儀式體驗",
+        "source": "transcript"
+      },
+      {
+        "ep": 254,
+        "quote": "龍坡邦的話，一定是龍坡邦，肯定是",
+        "context": "最國際化的城市，英文角、房東與夜市",
+        "source": "transcript"
+      }
+    ]
   },
   {
     "name": "奇琴伊察",
@@ -463,6 +438,47 @@
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Chichen_Itza_3.jpg/330px-Chichen_Itza_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
+    "name": "旺陽",
+    "name_en": "Vang Vieng",
+    "lat": 18.9103,
+    "lon": 102.4485,
+    "country": "寮國",
+    "region": "亞洲",
+    "appearances": [
+      {
+        "ep": 1,
+        "quote": "去旺洋去別的地方",
+        "context": "寮國的熱門旅遊地",
+        "source": "transcript"
+      },
+      {
+        "ep": 90,
+        "quote": "就跟當地認識到的臺灣朋友就一起過去旺陽那邊",
+        "context": "潑水節期間體驗河中擺桌吃飯",
+        "source": "transcript"
+      },
+      {
+        "ep": 141,
+        "quote": "旺陽真的是一個party city",
+        "context": "派對小鎮，石灰岩地形、藍色潟湖與輪胎漂流",
+        "source": "transcript"
+      },
+      {
+        "ep": 242,
+        "quote": "從永珍到旺陽開車可以一個半小時",
+        "context": "中國援建高速公路讓永珍到旺陽縮短為一個半小時",
+        "source": "transcript"
+      },
+      {
+        "ep": 254,
+        "quote": "市中心很誇張的觀光化，但是離開到郊區的話，其實很多自然風景還是很棒",
+        "context": "高度觀光化，可騎車遊藍湖",
+        "source": "transcript"
+      }
+    ],
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/VientianeProvince_VangVieng9_tango7174.jpg/330px-VientianeProvince_VangVieng9_tango7174.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
     "name": "普甘",
     "name_en": "Bagan",
     "lat": 21.1681,
@@ -502,6 +518,47 @@
       }
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bagan%2C_Burma.jpg/330px-Bagan%2C_Burma.jpg"
+  },
+  {
+    "name": "永珍",
+    "name_en": "Vientiane",
+    "lat": 17.9757,
+    "lon": 102.6331,
+    "country": "寮國",
+    "region": "亞洲",
+    "appearances": [
+      {
+        "ep": 1,
+        "quote": "因為我之前認識一個朋友在聊國永珍工作",
+        "context": "寮國首都，旅行主要目的地",
+        "source": "transcript"
+      },
+      {
+        "ep": 3,
+        "quote": "對，就是在節目中講到永珍凱旋門",
+        "context": "節目中誤提及的凱旋門所在地。",
+        "source": "transcript"
+      },
+      {
+        "ep": 140,
+        "quote": "我從沙灣那集飛到永鎮機票就3000多臺幣",
+        "context": "首都，作者為買手機搭機前往，物價高",
+        "source": "transcript"
+      },
+      {
+        "ep": 141,
+        "quote": "我覺得永真很棒 非常棒",
+        "context": "寮國首都，氣氛悠閒、咖啡廳多，作者最想重返",
+        "source": "transcript"
+      },
+      {
+        "ep": 254,
+        "quote": "永珍我覺得比較喜歡的點，是他沒有那麼觀光化",
+        "context": "低觀光化，按摩洗頭美甲便宜",
+        "source": "transcript"
+      }
+    ],
+    "image": "https://thumb.wikimedia.org/wikipedia/en/thumb/2/28/Vientiane_-_Patuxai_-_0003.jpg/330px-Vientiane_-_Patuxai_-_0003.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "泰姬瑪哈陵",
@@ -667,46 +724,6 @@
     ]
   },
   {
-    "name": "龍坡邦",
-    "name_en": "Luang Prabang",
-    "lat": 19.8906,
-    "lon": 102.1375,
-    "country": "寮國",
-    "region": "亞洲",
-    "appearances": [
-      {
-        "ep": 1,
-        "quote": "通常大部分人都是去龍坡邦",
-        "context": "寮國的熱門旅遊地",
-        "source": "transcript"
-      },
-      {
-        "ep": 90,
-        "quote": "看到他們的清晨佈施",
-        "context": "提到當地清晨佈施糯米的景象",
-        "source": "transcript"
-      },
-      {
-        "ep": 119,
-        "quote": "比如說遼國龍泊幫我們就會有一個下午的走讀",
-        "context": "舉例隨行旅人需帶領的城市走讀行程",
-        "source": "transcript"
-      },
-      {
-        "ep": 141,
-        "quote": "龍坡邦是世界的化遺產嘛",
-        "context": "世界遺產古城，佈施文化與觀光化",
-        "source": "transcript"
-      },
-      {
-        "ep": 242,
-        "quote": "還在建到龍坡邦的",
-        "context": "高速公路、中寮鐵路延伸目的地，也有巴西儀式體驗",
-        "source": "transcript"
-      }
-    ]
-  },
-  {
     "name": "倫敦",
     "name_en": "London",
     "lat": 51.5074,
@@ -775,6 +792,41 @@
       }
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Kilimanjaro_from_Amboseli.jpg/330px-Kilimanjaro_from_Amboseli.jpg"
+  },
+  {
+    "name": "吉薩金字塔",
+    "name_en": "Giza Pyramids",
+    "lat": 29.9792,
+    "lon": 31.1342,
+    "country": "埃及",
+    "region": "非洲",
+    "appearances": [
+      {
+        "ep": 110,
+        "quote": "在這個途中就有經過金字塔",
+        "context": "作者在埃及遇到美國旅伴爬金字塔被警察逮捕的奇遇",
+        "source": "transcript"
+      },
+      {
+        "ep": 144,
+        "quote": "我覺得真的很震撼 就是它比你想像中還要大",
+        "context": "三座金字塔的規模、內部無壁畫與外星人說法",
+        "source": "transcript"
+      },
+      {
+        "ep": 159,
+        "quote": "金字塔這邊就也算撒哈拉沙漠了",
+        "context": "位於撒哈拉邊緣，亦是埃及夢象徵",
+        "source": "transcript"
+      },
+      {
+        "ep": 247,
+        "quote": "你現場看到金字塔的那個感受怎麼樣",
+        "context": "騎駱駝繞吉薩遠觀金字塔，討論現場震撼感",
+        "source": "transcript"
+      }
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Pyramids_of_the_Giza_Necropolis.jpg/330px-Pyramids_of_the_Giza_Necropolis.jpg"
   },
   {
     "name": "大英博物館",
@@ -915,41 +967,6 @@
     ]
   },
   {
-    "name": "旺陽",
-    "name_en": "Vang Vieng",
-    "lat": 18.9103,
-    "lon": 102.4485,
-    "country": "寮國",
-    "region": "亞洲",
-    "appearances": [
-      {
-        "ep": 1,
-        "quote": "去旺洋去別的地方",
-        "context": "寮國的熱門旅遊地",
-        "source": "transcript"
-      },
-      {
-        "ep": 90,
-        "quote": "就跟當地認識到的臺灣朋友就一起過去旺陽那邊",
-        "context": "潑水節期間體驗河中擺桌吃飯",
-        "source": "transcript"
-      },
-      {
-        "ep": 141,
-        "quote": "旺陽真的是一個party city",
-        "context": "派對小鎮，石灰岩地形、藍色潟湖與輪胎漂流",
-        "source": "transcript"
-      },
-      {
-        "ep": 242,
-        "quote": "從永珍到旺陽開車可以一個半小時",
-        "context": "中國援建高速公路讓永珍到旺陽縮短為一個半小時",
-        "source": "transcript"
-      }
-    ],
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/VientianeProvince_VangVieng9_tango7174.jpg/330px-VientianeProvince_VangVieng9_tango7174.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
     "name": "暹粒",
     "name_en": "Siem Reap",
     "lat": 13.3667,
@@ -984,39 +1001,39 @@
     ]
   },
   {
-    "name": "永珍",
-    "name_en": "Vientiane",
-    "lat": 17.9757,
-    "lon": 102.6331,
-    "country": "寮國",
+    "name": "柯枝",
+    "name_en": "Kochi",
+    "lat": 9.931,
+    "lon": 76.267,
+    "country": "印度",
     "region": "亞洲",
     "appearances": [
       {
-        "ep": 1,
-        "quote": "因為我之前認識一個朋友在聊國永珍工作",
-        "context": "寮國首都，旅行主要目的地",
+        "ep": 116,
+        "quote": "它的城市名叫Kochi",
+        "context": "喀拉拉邦先進城市，捷運乾淨，包車遊瀑布",
         "source": "transcript"
       },
       {
-        "ep": 3,
-        "quote": "對，就是在節目中講到永珍凱旋門",
-        "context": "節目中誤提及的凱旋門所在地。",
+        "ep": 173,
+        "quote": "因為我去Kochin搭那個地鐵",
+        "context": "提到當地地鐵很新，並適合數位遊牧",
         "source": "transcript"
       },
       {
-        "ep": 140,
-        "quote": "我從沙灣那集飛到永鎮機票就3000多臺幣",
-        "context": "首都，作者為買手機搭機前往，物價高",
+        "ep": 187,
+        "quote": "我先抵達它的一個大城市叫可慶",
+        "context": "抵達印度的第一站，遇上暴雨淹水，有乾淨的地鐵",
         "source": "transcript"
       },
       {
-        "ep": 141,
-        "quote": "我覺得永真很棒 非常棒",
-        "context": "寮國首都，氣氛悠閒、咖啡廳多，作者最想重返",
+        "ep": 259,
+        "quote": "我在四國的最後一站 然後就直接往南拉 就去到高知",
+        "context": "四國南部，柑橘產地，行程最後一站",
         "source": "transcript"
       }
     ],
-    "image": "https://thumb.wikimedia.org/wikipedia/en/thumb/2/28/Vientiane_-_Patuxai_-_0003.jpg/330px-Vientiane_-_Patuxai_-_0003.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Kochi_Skyline.jpg/330px-Kochi_Skyline.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "烏尤尼鹽沼",
@@ -1136,14 +1153,14 @@
       },
       {
         "ep": 261,
-        "quote": "那個白馬就那麼小的一個地方，然後很多地方你可能其實也去了好幾次",
-        "context": "作為探勘與體驗數位遊牧的城鎮",
+        "quote": "白馬不是一個大地方，所以你要很粗淺的去認識這個地方其實是很快的",
+        "context": "育空首府，生活機能佳但人少冬季嚴寒",
         "source": "transcript"
       },
       {
         "ep": 264,
-        "quote": "在那個玉空白馬那邊住",
-        "context": "朋友居住及推薦前往體驗的極光景點",
+        "quote": "在那個玉空白馬那邊住然後他就力勸大家說快來找我玩啊",
+        "context": "主持人朋友居住地，與黃刀鎮氣氛比較",
         "source": "transcript"
       },
       {
@@ -1424,6 +1441,64 @@
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Panoramic_view_of_Aswan%2C_Egypt.jpg/330px-Panoramic_view_of_Aswan%2C_Egypt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
+    "name": "亞馬遜雨林",
+    "name_en": "Amazon Rainforest",
+    "lat": -3.47,
+    "lon": -60.1,
+    "country": "巴西",
+    "region": "美洲",
+    "appearances": [
+      {
+        "ep": 51,
+        "quote": "它是從亞馬遜雨林出來的",
+        "context": "馬瑙斯工廠區所在，也是巴西莓的產地",
+        "source": "transcript"
+      },
+      {
+        "ep": 209,
+        "quote": "大概四天三夜",
+        "context": "包場式雨林行程，參訪原住民",
+        "source": "transcript"
+      },
+      {
+        "ep": 256,
+        "quote": "我去秘魯的亞馬遜 我還迷路",
+        "context": "迷路三天讓母親擔心",
+        "source": "transcript"
+      }
+    ],
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Amazon17_%285641020319%29.jpg/330px-Amazon17_%285641020319%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "京都",
+    "name_en": "Kyoto",
+    "lat": 35.0116,
+    "lon": 135.7681,
+    "country": "日本",
+    "region": "亞洲",
+    "appearances": [
+      {
+        "ep": 38,
+        "quote": "去京都的時候 我就是抱著這種心情去",
+        "context": "主持人嚮往看老東西的古都",
+        "source": "transcript"
+      },
+      {
+        "ep": 259,
+        "quote": "你去到一個很空靈的地方",
+        "context": "木造建築與靜謐氛圍改變作者味覺偏好",
+        "source": "transcript"
+      },
+      {
+        "ep": 279,
+        "quote": "我今年去了京都，然後就覺得，哇，真是蠻不錯的",
+        "context": "嘉賓改變了過去不願去熱門景點的心態",
+        "source": "transcript"
+      }
+    ],
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Kyoto%2C_Japan_%2849667780482%29.jpg/330px-Kyoto%2C_Japan_%2849667780482%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
     "name": "伊瓜蘇瀑布",
     "name_en": "Iguazú Falls",
     "lat": -25.695,
@@ -1596,6 +1671,35 @@
     ]
   },
   {
+    "name": "古晉",
+    "name_en": "Kuching",
+    "lat": 1.5535,
+    "lon": 110.3593,
+    "country": "馬來西亞",
+    "region": "亞洲",
+    "appearances": [
+      {
+        "ep": 250,
+        "quote": "它的大城市最大城市叫古晉嘛",
+        "context": "砂拉越首府，客家與華人文化旅遊起點",
+        "source": "transcript"
+      },
+      {
+        "ep": 269,
+        "quote": "沙拉越的首府 就是古靜",
+        "context": "沙拉越首府，旅行重要一站",
+        "source": "transcript"
+      },
+      {
+        "ep": 275,
+        "quote": "錄完之後過沒多久我就去了",
+        "context": "之前一集Podcast討論過的地點",
+        "source": "transcript"
+      }
+    ],
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Kuching_Skyline.jpg/330px-Kuching_Skyline.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
     "name": "史密斯菲爾德市場",
     "name_en": "Smithfield Market",
     "lat": 51.5177,
@@ -1680,6 +1784,64 @@
         "source": "transcript"
       }
     ]
+  },
+  {
+    "name": "坎培拉",
+    "name_en": "Kampala",
+    "lat": 0.3476,
+    "lon": 32.5825,
+    "country": "烏幹達",
+    "region": "非洲",
+    "appearances": [
+      {
+        "ep": 189,
+        "quote": "我剛落地烏幹達的時候還是有嚇到，我是非首都坎培拉",
+        "context": "烏幹達首都，實習與生活地點",
+        "source": "transcript"
+      },
+      {
+        "ep": 243,
+        "quote": "我們就在兩個首都的中間直接蓋一個首都",
+        "context": "為平息雪梨與墨爾本之爭而興建的首都",
+        "source": "transcript"
+      },
+      {
+        "ep": 260,
+        "quote": "首都叫坎帕拉,又有千秋之城的那種",
+        "context": "烏幹達首都，坡多塞車，講者在此開車生活",
+        "source": "transcript"
+      }
+    ],
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Canberra_panorama_from_Mount_Ainslie.jpg/330px-Canberra_panorama_from_Mount_Ainslie.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "塞倫蓋蒂草原",
+    "name_en": "Serengeti National Park",
+    "lat": -2.333,
+    "lon": 34.833,
+    "country": "坦尚尼亞",
+    "region": "非洲",
+    "appearances": [
+      {
+        "ep": 37,
+        "quote": "坦上尼亞叫色倫蓋體草原",
+        "context": "與馬賽馬拉共享的草原生態系",
+        "source": "transcript"
+      },
+      {
+        "ep": 241,
+        "quote": "Serengeti就是看大前行的地方",
+        "context": "動物大遷徙之地，入口處有中國援助標示",
+        "source": "transcript"
+      },
+      {
+        "ep": 260,
+        "quote": "就是肯亞的馬賽馬啦,跟坦桑尼亞的賽倫蓋提",
+        "context": "與馬賽馬拉並稱的大遷徙著名公園",
+        "source": "transcript"
+      }
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Serengeti-Landscape-2012.JPG/330px-Serengeti-Landscape-2012.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "塞拉耶佛",
@@ -1880,35 +2042,6 @@
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Jama_Masjid_2011.jpg/330px-Jama_Masjid_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "柯枝",
-    "name_en": "Kochi",
-    "lat": 9.931,
-    "lon": 76.267,
-    "country": "印度",
-    "region": "亞洲",
-    "appearances": [
-      {
-        "ep": 116,
-        "quote": "它的城市名叫Kochi",
-        "context": "喀拉拉邦先進城市，捷運乾淨，包車遊瀑布",
-        "source": "transcript"
-      },
-      {
-        "ep": 173,
-        "quote": "因為我去Kochin搭那個地鐵",
-        "context": "提到當地地鐵很新，並適合數位遊牧",
-        "source": "transcript"
-      },
-      {
-        "ep": 187,
-        "quote": "我先抵達它的一個大城市叫可慶",
-        "context": "抵達印度的第一站，遇上暴雨淹水，有乾淨的地鐵",
-        "source": "transcript"
-      }
-    ],
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Kochi_Skyline.jpg/330px-Kochi_Skyline.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
     "name": "柯芬園",
     "name_en": "Covent Garden",
     "lat": 51.5129,
@@ -1937,6 +2070,34 @@
     ]
   },
   {
+    "name": "清萊",
+    "name_en": "Chiang Rai",
+    "lat": 19.9039,
+    "lon": 99.8325,
+    "country": "泰國",
+    "region": "亞洲",
+    "appearances": [
+      {
+        "ep": 5,
+        "quote": "一個是從北邊的清萊，然後走到緬甸的大其力",
+        "context": "泰緬邊境穿越路線起點",
+        "source": "transcript"
+      },
+      {
+        "ep": 254,
+        "quote": "如果寮國它是臺東的話，你到清萊它就是臺中",
+        "context": "比喻城市化程度，買鞋、上泰拳課",
+        "source": "transcript"
+      },
+      {
+        "ep": 285,
+        "quote": "我那時候搭那個雙條車上去，你說從青萊的市區，然後搭雙條車上到美思樂",
+        "context": "前往美思樂的起點城市",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
     "name": "溫莎城堡",
     "name_en": "Windsor Castle",
     "lat": 51.4839,
@@ -1958,8 +2119,8 @@
       },
       {
         "ep": 265,
-        "quote": "在我們的這個溫莎堡，其實有一幅他的畫像",
-        "context": "收藏了早期華人神輔真的畫像",
+        "quote": "在我們的這個溫莎堡其實有一幅他的畫像",
+        "context": "收藏沈福宗畫像",
         "source": "transcript"
       }
     ],
@@ -2015,8 +2176,8 @@
       },
       {
         "ep": 256,
-        "quote": "然後一路騎到世界的盡頭 吳樹懷雅",
-        "context": "講者南美洲機車旅行的最終目的地",
+        "quote": "一路騎到世界的盡頭 烏斯懷亞",
+        "context": "騎行終點，摩托車最後留在此地",
         "source": "transcript"
       }
     ],
@@ -2038,8 +2199,8 @@
       },
       {
         "ep": 265,
-        "quote": "靠近特拉法家廣場 就是Trafalgo Square那裡 有一個pop叫做The Old Shade",
-        "context": "標示相關酒館與教堂位置的重要地標",
+        "quote": "你就想這個整個廣場特拉法加廣場中間有一根巨大的這個雕像",
+        "context": "孫文演講場所周邊的倫敦中心廣場",
         "source": "transcript"
       },
       {
@@ -2221,35 +2382,6 @@
       }
     ],
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/La_Jolla_Shores_view_%28cropped%29.jpg/330px-La_Jolla_Shores_view_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "臺北101",
-    "name_en": "Taipei 101",
-    "lat": 25.03396,
-    "lon": 121.56473,
-    "country": "臺灣",
-    "region": "台灣",
-    "appearances": [
-      {
-        "ep": 39,
-        "quote": "那為什麼會覺得說好像紐約的高爾大廈跟臺北101長得差不多",
-        "context": "討論現代建築的同質性",
-        "source": "transcript"
-      },
-      {
-        "ep": 259,
-        "quote": "它的煙火不是像那個臺北101一整根爆發的那種",
-        "context": "用以對比說明墨爾本跨年煙火的施放方式",
-        "source": "transcript"
-      },
-      {
-        "ep": 268,
-        "quote": "比如說臺北101一定要嘛",
-        "context": "外國人來臺灣必去景點之一",
-        "source": "transcript"
-      }
-    ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Taipei_101_logo.svg/330px-Taipei_101_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "臺北流行音樂中心",
@@ -2479,6 +2611,35 @@
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Reykjav%C3%ADk%2C_view_from_Hallgr%C3%ADmskirkja_%282%29.jpg/330px-Reykjav%C3%ADk%2C_view_from_Hallgr%C3%ADmskirkja_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
+    "name": "馬賽馬拉",
+    "name_en": "Maasai Mara National Reserve",
+    "lat": -1.489,
+    "lon": 35.144,
+    "country": "肯亞",
+    "region": "非洲",
+    "appearances": [
+      {
+        "ep": 102,
+        "quote": "在馬賽馬拉應該很多",
+        "context": "野生動物保護區，講者看獅子與角馬大遷徙的經驗",
+        "source": "transcript"
+      },
+      {
+        "ep": 237,
+        "quote": "先去坎亞那個馬賽馬拉Safari",
+        "context": "肯亞草原野生動物園，適合高度適應",
+        "source": "transcript"
+      },
+      {
+        "ep": 260,
+        "quote": "就是肯亞的馬賽馬啦,跟坦桑尼亞的賽倫蓋提",
+        "context": "以動物大遷徙聞名的肯亞觀光公園",
+        "source": "transcript"
+      }
+    ],
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Masai_Mara_at_Sunset.jpg/330px-Masai_Mara_at_Sunset.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
     "name": "麥加",
     "name_en": "Mecca",
     "lat": 21.389,
@@ -2506,35 +2667,6 @@
       }
     ],
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Great_Mosque_of_Mecca1.jpg/330px-Great_Mosque_of_Mecca1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "黃刀鎮",
-    "name_en": "Yellowknife",
-    "lat": 62.454,
-    "lon": -114.371,
-    "country": "加拿大",
-    "region": "美洲",
-    "appearances": [
-      {
-        "ep": 262,
-        "quote": "我就挑那些知名的極光小鎮 什麼黃刀鎮啊什麼",
-        "context": "被提及為知名的追極光地點",
-        "source": "transcript"
-      },
-      {
-        "ep": 264,
-        "quote": "然後再去黃刀鎮 然後再去回到溫哥華",
-        "context": "主角們前往加拿大觀賞極光的主要目的地",
-        "source": "transcript"
-      },
-      {
-        "ep": 270,
-        "quote": "我們今天的主題就是加拿大黃刀針",
-        "context": "本集主要討論的打工度假地點",
-        "source": "transcript"
-      }
-    ],
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Northwest_Territories_Legislative_Building.jpg/330px-Northwest_Territories_Legislative_Building.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "黑白沙漠",
@@ -2700,52 +2832,6 @@
     ]
   },
   {
-    "name": "亞馬遜雨林",
-    "name_en": "Amazon Rainforest",
-    "lat": -3.47,
-    "lon": -60.1,
-    "country": "巴西",
-    "region": "美洲",
-    "appearances": [
-      {
-        "ep": 51,
-        "quote": "它是從亞馬遜雨林出來的",
-        "context": "馬瑙斯工廠區所在，也是巴西莓的產地",
-        "source": "transcript"
-      },
-      {
-        "ep": 209,
-        "quote": "大概四天三夜",
-        "context": "包場式雨林行程，參訪原住民",
-        "source": "transcript"
-      }
-    ],
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Amazon17_%285641020319%29.jpg/330px-Amazon17_%285641020319%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "京都",
-    "name_en": "Kyoto",
-    "lat": 35.0116,
-    "lon": 135.7681,
-    "country": "日本",
-    "region": "亞洲",
-    "appearances": [
-      {
-        "ep": 38,
-        "quote": "去京都的時候 我就是抱著這種心情去",
-        "context": "主持人嚮往看老東西的古都",
-        "source": "transcript"
-      },
-      {
-        "ep": 279,
-        "quote": "我今年去了京都，然後就覺得，哇，真是蠻不錯的",
-        "context": "嘉賓改變了過去不願去熱門景點的心態",
-        "source": "transcript"
-      }
-    ],
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Kyoto%2C_Japan_%2849667780482%29.jpg/330px-Kyoto%2C_Japan_%2849667780482%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
     "name": "仙本那",
     "name_en": "Semporna",
     "lat": 4.48,
@@ -2874,8 +2960,8 @@
       },
       {
         "ep": 265,
-        "quote": "他是先進LSE London School of Economic 倫敦政經學院",
-        "context": "徐志摩初到英國時就讀的學校",
+        "quote": "他是先進LSE London School of Economic倫敦政經學院",
+        "context": "徐志摩初到倫敦就讀之處",
         "source": "transcript"
       }
     ],
@@ -3106,29 +3192,6 @@
       }
     ],
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/330px-Flag_of_Indonesia.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "古晉",
-    "name_en": "Kuching",
-    "lat": 1.553,
-    "lon": 110.358,
-    "country": "馬來西亞",
-    "region": "亞洲",
-    "appearances": [
-      {
-        "ep": 269,
-        "quote": "沙拉越的首府 就是古靜",
-        "context": "沙拉越首府，旅行重要一站",
-        "source": "transcript"
-      },
-      {
-        "ep": 275,
-        "quote": "錄完之後過沒多久我就去了",
-        "context": "之前一集Podcast討論過的地點",
-        "source": "transcript"
-      }
-    ],
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Kuching_Skyline.jpg/330px-Kuching_Skyline.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "吉爾吉特",
@@ -3379,29 +3442,6 @@
     ]
   },
   {
-    "name": "坎培拉",
-    "name_en": "Kampala",
-    "lat": 0.3476,
-    "lon": 32.5825,
-    "country": "烏幹達",
-    "region": "非洲",
-    "appearances": [
-      {
-        "ep": 189,
-        "quote": "我剛落地烏幹達的時候還是有嚇到，我是非首都坎培拉",
-        "context": "烏幹達首都，實習與生活地點",
-        "source": "transcript"
-      },
-      {
-        "ep": 243,
-        "quote": "我們就在兩個首都的中間直接蓋一個首都",
-        "context": "為平息雪梨與墨爾本之爭而興建的首都",
-        "source": "transcript"
-      }
-    ],
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Canberra_panorama_from_Mount_Ainslie.jpg/330px-Canberra_panorama_from_Mount_Ainslie.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
     "name": "塔克西姆廣場",
     "name_en": "Taksim Square",
     "lat": 41.037,
@@ -3445,29 +3485,6 @@
       }
     ],
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Pha_That_Luang%2C_July_2023.jpg/330px-Pha_That_Luang%2C_July_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "塞倫蓋蒂草原",
-    "name_en": "Serengeti National Park",
-    "lat": -2.333,
-    "lon": 34.833,
-    "country": "坦尚尼亞",
-    "region": "非洲",
-    "appearances": [
-      {
-        "ep": 37,
-        "quote": "坦上尼亞叫色倫蓋體草原",
-        "context": "與馬賽馬拉共享的草原生態系",
-        "source": "transcript"
-      },
-      {
-        "ep": 241,
-        "quote": "Serengeti就是看大前行的地方",
-        "context": "動物大遷徙之地，入口處有中國援助標示",
-        "source": "transcript"
-      }
-    ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Serengeti-Landscape-2012.JPG/330px-Serengeti-Landscape-2012.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "塞納河",
@@ -3916,29 +3933,6 @@
         "source": "transcript"
       }
     ]
-  },
-  {
-    "name": "富士山",
-    "name_en": "Mount Fuji",
-    "lat": 35.3606,
-    "lon": 138.7274,
-    "country": "日本",
-    "region": "亞洲",
-    "appearances": [
-      {
-        "ep": 222,
-        "quote": "富士山它整顆在你面前這樣",
-        "context": "主持人旅途中天氣極好，飯店可直接看到富士山景",
-        "source": "transcript"
-      },
-      {
-        "ep": 256,
-        "quote": "我就跟學生請假 去爬富士山",
-        "context": "講者提及過去曾請假去旅行的地點",
-        "source": "transcript"
-      }
-    ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/View_of_Mount_Fuji_from_%C5%8Cwakudani_20211202.jpg/330px-View_of_Mount_Fuji_from_%C5%8Cwakudani_20211202.jpg"
   },
   {
     "name": "小琉球",
@@ -4587,27 +4581,26 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Tokyo-STA_Marunouchi-Entrance_2023.jpg/330px-Tokyo-STA_Marunouchi-Entrance_2023.jpg"
   },
   {
-    "name": "東京鐵塔",
-    "name_en": "Tokyo Tower",
-    "lat": 35.658,
-    "lon": 139.745,
-    "country": "日本",
-    "region": "亞洲",
+    "name": "格林威治",
+    "name_en": "Greenwich",
+    "lat": 51.4826,
+    "lon": -0.0077,
+    "country": "英國",
+    "region": "歐洲",
     "appearances": [
       {
-        "ep": 263,
-        "quote": "我後來只要回到日本看到東京鐵塔就有回家的那種安心感",
-        "context": "講者在日本居住後對此地標產生歸屬感",
+        "ep": 223,
+        "quote": "Greenwich這一代就是從16世紀以後",
+        "context": "造船與海事重地，海事博物館所在",
         "source": "transcript"
       },
       {
-        "ep": 274,
-        "quote": "你看圖案中的東京鐵塔是這個 然後這個你現在看到就是東京鐵塔",
-        "context": "透過繪本認識並實際看見的地標。",
+        "ep": 265,
+        "quote": "像格里尼茨那邊受到近代的海軍訓練",
+        "context": "日本海軍學習英國海軍之處",
         "source": "transcript"
       }
-    ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Tokyo_Tower_2023.jpg/330px-Tokyo_Tower_2023.jpg"
+    ]
   },
   {
     "name": "梅里達",
@@ -4858,28 +4851,6 @@
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Thai-Lao_Friendship_Bridge_%2810729268664%29.jpg/330px-Thai-Lao_Friendship_Bridge_%2810729268664%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "泰晤士河",
-    "name_en": "River Thames",
-    "lat": 51.506,
-    "lon": -0.087,
-    "country": "英國",
-    "region": "亞洲",
-    "appearances": [
-      {
-        "ep": 265,
-        "quote": "他就在靠近泰魯士河，那邊全部都是倉庫",
-        "context": "早期華人做苦力的港口倉庫所在地",
-        "source": "transcript"
-      },
-      {
-        "ep": 281,
-        "quote": "那時候倫敦這個工業城 那裡找得到最多蛋白質的食物呢 就是倫敦的泰伍斯河裡面的鰻魚",
-        "context": "歷史上的鰻魚捕撈地",
-        "source": "transcript"
-      }
-    ]
-  },
-  {
     "name": "泰梅爾",
     "name_en": "Thamel",
     "lat": 27.715,
@@ -4903,26 +4874,27 @@
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Thamel_at_Night_-_Kathmandu%2C_Nepal_%281%29.jpg/330px-Thamel_at_Night_-_Kathmandu%2C_Nepal_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "清萊",
-    "name_en": "Chiang Rai",
-    "lat": 19.9039,
-    "lon": 99.8325,
-    "country": "泰國",
-    "region": "亞洲",
+    "name": "海德公園",
+    "name_en": "Hyde Park",
+    "lat": 51.5074,
+    "lon": -0.1657,
+    "country": "英國",
+    "region": "歐洲",
     "appearances": [
       {
-        "ep": 5,
-        "quote": "一個是從北邊的清萊，然後走到緬甸的大其力",
-        "context": "泰緬邊境穿越路線起點",
+        "ep": 23,
+        "quote": "我們沿著海德公園就看到一堆鮮花",
+        "context": "黛安娜王妃悼念現場",
         "source": "transcript"
       },
       {
-        "ep": 285,
-        "quote": "我那時候搭那個雙條車上去，你說從青萊的市區，然後搭雙條車上到美思樂",
-        "context": "前往美思樂的起點城市",
+        "ep": 265,
+        "quote": "日本在這個倫敦在海德公園的另外一個角落辦了一個日本原意展",
+        "context": "1910年日英博覽會場地",
         "source": "transcript"
       }
-    ]
+    ],
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Aerial_view_of_Hyde_Park.jpg/330px-Aerial_view_of_Hyde_Park.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "清邁北門爵士吧",
@@ -4992,17 +4964,39 @@
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Mekong-River-Near-Luang-Prabang.jpg/330px-Mekong-River-Near-Luang-Prabang.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
+    "name": "溫哥華",
+    "name_en": "Vancouver",
+    "lat": 49.2827,
+    "lon": -123.1207,
+    "country": "加拿大",
+    "region": "美洲",
+    "appearances": [
+      {
+        "ep": 14,
+        "quote": "如果要滑雪真的是要去西邊去溫哥華",
+        "context": "推薦的滑雪地點",
+        "source": "transcript"
+      },
+      {
+        "ep": 264,
+        "quote": "我們是去那個香港轉機然後去溫哥華",
+        "context": "旅程起訖點，華裔移民眾多，Airbnb多為華人房東",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
     "name": "溫布頓",
     "name_en": "Wimbledon",
     "lat": 51.421,
-    "lon": -0.205,
+    "lon": -0.206,
     "country": "英國",
     "region": "歐洲",
     "appearances": [
       {
         "ep": 255,
-        "quote": "然後就定居在溫布頓那一區這樣子",
-        "context": "來賓定居的倫敦分區，討論其丘陵地形及生活便利性",
+        "quote": "定居在溫布頓那一區這樣子",
+        "context": "來賓在倫敦的定居地，位於山丘，以網球聞名",
         "source": "transcript"
       },
       {
@@ -5305,6 +5299,28 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/The_Forbidden_City_-_View_from_Coal_Hill.jpg/330px-The_Forbidden_City_-_View_from_Coal_Hill.jpg"
   },
   {
+    "name": "維多利亞湖",
+    "name_en": "Lake Victoria",
+    "lat": -1.0,
+    "lon": 33.0,
+    "country": "烏幹達",
+    "region": "非洲",
+    "appearances": [
+      {
+        "ep": 118,
+        "quote": "那個湖其實是臺灣的兩倍",
+        "context": "工作所在地靠近此湖，湖上島嶼有社群",
+        "source": "transcript"
+      },
+      {
+        "ep": 260,
+        "quote": "叫維多利亞湖,對,它是臺灣的兩倍大的湖",
+        "context": "烏幹達南部巨大湖泊，孕育河馬等生態",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
     "name": "罕薩谷地",
     "name_en": "Hunza Valley",
     "lat": 36.322,
@@ -5551,6 +5567,29 @@
     ]
   },
   {
+    "name": "臺北101",
+    "name_en": "Taipei 101",
+    "lat": 25.03396,
+    "lon": 121.56473,
+    "country": "臺灣",
+    "region": "台灣",
+    "appearances": [
+      {
+        "ep": 39,
+        "quote": "那為什麼會覺得說好像紐約的高爾大廈跟臺北101長得差不多",
+        "context": "討論現代建築的同質性",
+        "source": "transcript"
+      },
+      {
+        "ep": 268,
+        "quote": "比如說臺北101一定要嘛",
+        "context": "外國人來臺灣必去景點之一",
+        "source": "transcript"
+      }
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Taipei_101_logo.svg/330px-Taipei_101_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
     "name": "舍夫沙萬藍城",
     "name_en": "Chefchaouen Blue City",
     "lat": 35.168,
@@ -5795,23 +5834,23 @@
     ]
   },
   {
-    "name": "藍湖溫泉",
-    "name_en": "Blue Lagoon",
-    "lat": 63.881,
-    "lon": -22.449,
-    "country": "冰島",
-    "region": "歐洲",
+    "name": "蒙羅伊",
+    "name_en": "Muang Ngoi Neua",
+    "lat": 20.595,
+    "lon": 102.68,
+    "country": "寮國",
+    "region": "亞洲",
     "appearances": [
       {
-        "ep": 218,
-        "quote": "有一個地方叫藍湖",
-        "context": "全球最大露天溫泉，白泥敷臉",
+        "ep": 141,
+        "quote": "蒙羅伊這個村落是它其實不大",
+        "context": "需搭船抵達的原始小村，佈施更貼近日常",
         "source": "transcript"
       },
       {
         "ep": 254,
-        "quote": "他可以騎機車 然後他有很多細湖",
-        "context": "旺陽郊外值得騎機車前往的自然風景區",
+        "quote": "我就發現了一個很可愛的小村落，它叫孟威",
+        "context": "斷訊小村，孩子與村童玩跳繩、寄宿體驗",
         "source": "transcript"
       }
     ]
@@ -6040,28 +6079,6 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Dom_Lu%C3%ADs_I_Bridge_%2836961760686%29.jpg/330px-Dom_Lu%C3%ADs_I_Bridge_%2836961760686%29.jpg"
   },
   {
-    "name": "農橋",
-    "name_en": "Nong Khiaw",
-    "lat": 20.568,
-    "lon": 102.612,
-    "country": "寮國",
-    "region": "亞洲",
-    "appearances": [
-      {
-        "ep": 141,
-        "quote": "我在北上到了那個農橋",
-        "context": "前往蒙羅伊的小鎮，作為轉乘點",
-        "source": "transcript"
-      },
-      {
-        "ep": 254,
-        "quote": "那個地方要到農橋 應該就知道 很多人到",
-        "context": "前往孟威村的重要水路轉運點",
-        "source": "transcript"
-      }
-    ]
-  },
-  {
     "name": "迪化街",
     "name_en": "Dihua Street",
     "lat": 25.0579,
@@ -6106,28 +6123,6 @@
     ]
   },
   {
-    "name": "金三角",
-    "name_en": "Golden Triangle",
-    "lat": 20.353,
-    "lon": 100.082,
-    "country": "泰國",
-    "region": "亞洲",
-    "appearances": [
-      {
-        "ep": 254,
-        "quote": "我就從泰國 然後有個金三角那邊進去",
-        "context": "講者第一次前往寮國的邊界入口",
-        "source": "transcript"
-      },
-      {
-        "ep": 285,
-        "quote": "這所謂的金三角區域",
-        "context": "曾是毒品種植與販運的歷史區域",
-        "source": "transcript"
-      }
-    ]
-  },
-  {
     "name": "金門",
     "name_en": "Kinmen",
     "lat": 24.4333,
@@ -6149,6 +6144,28 @@
       }
     ],
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Kinmen_Montage.png/330px-Kinmen_Montage.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "門多薩",
+    "name_en": "Mendoza",
+    "lat": -32.8895,
+    "lon": -68.8458,
+    "country": "阿根廷",
+    "region": "美洲",
+    "appearances": [
+      {
+        "ep": 216,
+        "quote": "酒鬼的夢鄉就是他是一個非常非常有名的產酒地方",
+        "context": "葡萄酒產地，作者在此品酒、參加酒莊之旅",
+        "source": "transcript"
+      },
+      {
+        "ep": 256,
+        "quote": "我那時候中間有經過Mendoza",
+        "context": "葡萄酒城，地震重建、硬水與智利互相採購",
+        "source": "transcript"
+      }
+    ]
   },
   {
     "name": "開羅",
@@ -6444,27 +6461,50 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Aerial_view_of_Muscat_International_Airport_%28Ank_Kunar%2C_Infosys_Limited%29_02.jpg/330px-Aerial_view_of_Muscat_International_Airport_%28Ank_Kunar%2C_Infosys_Limited%29_02.jpg"
   },
   {
-    "name": "馬賽馬拉",
-    "name_en": "Maasai Mara National Reserve",
-    "lat": -1.489,
-    "lon": 35.144,
-    "country": "肯亞",
-    "region": "非洲",
+    "name": "魁北克市",
+    "name_en": "Québec City",
+    "lat": 46.81,
+    "lon": -71.21,
+    "country": "加拿大",
+    "region": "美洲",
     "appearances": [
       {
-        "ep": 102,
-        "quote": "在馬賽馬拉應該很多",
-        "context": "野生動物保護區，講者看獅子與角馬大遷徙的經驗",
+        "ep": 8,
+        "quote": "就到奎格克市",
+        "context": "騎行路線經過點。",
         "source": "transcript"
       },
       {
-        "ep": 237,
-        "quote": "先去坎亞那個馬賽馬拉Safari",
-        "context": "肯亞草原野生動物園，適合高度適應",
+        "ep": 261,
+        "quote": "魁北克市真的是非常一個sleeping city",
+        "context": "純法語、安靜封閉的小城",
         "source": "transcript"
       }
     ],
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Masai_Mara_at_Sunset.jpg/330px-Masai_Mara_at_Sunset.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Quebec_City_skyline_from_L%C3%A9vis.jpg/330px-Quebec_City_skyline_from_L%C3%A9vis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "黃刀鎮",
+    "name_en": "Yellowknife",
+    "lat": 62.454,
+    "lon": -114.372,
+    "country": "加拿大",
+    "region": "美洲",
+    "appearances": [
+      {
+        "ep": 264,
+        "quote": "我們就先在溫哥華玩兩三天然後再去黃刀鎮然後再去回到溫哥華",
+        "context": "追極光、冰湖浴、狗拉雪橇的主要旅遊地",
+        "source": "transcript"
+      },
+      {
+        "ep": 270,
+        "quote": "我們今天的主題就是加拿大黃刀針",
+        "context": "本集主要討論的打工度假地點",
+        "source": "transcript"
+      }
+    ],
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Northwest_Territories_Legislative_Building.jpg/330px-Northwest_Territories_Legislative_Building.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "齋浦爾",
@@ -6592,17 +6632,17 @@
     ]
   },
   {
-    "name": "660高地 (Point 66)",
-    "name_en": "Point 660",
-    "lat": 67.153,
-    "lon": -50.026,
-    "country": "格陵蘭",
-    "region": "極地",
+    "name": "40號公路",
+    "name_en": "Ruta Nacional 40",
+    "lat": -41.134,
+    "lon": -71.31,
+    "country": "阿根廷",
+    "region": "美洲",
     "appearances": [
       {
-        "ep": 262,
-        "quote": "它最有名就是Icecap跟Point 66",
-        "context": "可直接走到格陵蘭冰蓋邊緣的著名景點",
+        "ep": 256,
+        "quote": "我那時候沿著40號公路 那條就是6000多公里的路",
+        "context": "縱貫阿根廷西部的長距離公路",
         "source": "transcript"
       }
     ]
@@ -6800,22 +6840,6 @@
     ]
   },
   {
-    "name": "Rita大道",
-    "name_en": "Rita Boulevard",
-    "lat": 43.185,
-    "lon": 140.793,
-    "country": "日本",
-    "region": "亞洲",
-    "appearances": [
-      {
-        "ep": 263,
-        "quote": "你沿著這個Rita大道那個阿正取的",
-        "context": "通往餘市蒸餾所的道路名稱",
-        "source": "transcript"
-      }
-    ]
-  },
-  {
     "name": "Royal Tunbridge Wells",
     "name_en": "Royal Tunbridge Wells",
     "lat": 51.1304,
@@ -6928,22 +6952,6 @@
     ]
   },
   {
-    "name": "The Old Shades 酒館",
-    "name_en": "The Old Shades",
-    "lat": 51.506,
-    "lon": -0.127,
-    "country": "英國",
-    "region": "亞洲",
-    "appearances": [
-      {
-        "ep": 265,
-        "quote": "到了Old Shade的這個小酒館 去辦了一場記者會這樣子",
-        "context": "孫文獲釋後舉辦記者會的酒館",
-        "source": "transcript"
-      }
-    ]
-  },
-  {
     "name": "Vitocha大道",
     "name_en": "Vitocha Boulevard",
     "lat": 42.69,
@@ -7008,6 +7016,22 @@
     ]
   },
   {
+    "name": "七湖公路",
+    "name_en": "Ruta de los Siete Lagos",
+    "lat": -40.6,
+    "lon": -71.6,
+    "country": "阿根廷",
+    "region": "美洲",
+    "appearances": [
+      {
+        "ep": 256,
+        "quote": "七個湖 非常非常漂亮 風景非常優美",
+        "context": "連續七個湖的風景路線",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
     "name": "七色土",
     "name_en": "Seven Coloured Earths (Chamarel)",
     "lat": -20.4417,
@@ -7025,16 +7049,16 @@
   },
   {
     "name": "七賢莊青年旅館",
-    "name_en": "Qixianzhuang Youth Hostel",
-    "lat": 34.269,
-    "lon": 108.953,
+    "name_en": "Qixianzhuang Courtyard, Xi'an",
+    "lat": 34.263,
+    "lon": 108.951,
     "country": "中國",
     "region": "亞洲",
     "appearances": [
       {
         "ep": 252,
-        "quote": "然後他叫做七賢莊青年旅館",
-        "context": "由八路軍通訊處舊址改建的特色青旅",
+        "quote": "他叫做七賢莊青年旅館",
+        "context": "八路軍辦事處舊址改建的大宅院青旅",
         "source": "transcript"
       }
     ]
@@ -7186,6 +7210,22 @@
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Dedo_de_Dios_am_30.09.2005.jpg/330px-Dedo_de_Dios_am_30.09.2005.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
+    "name": "上師街",
+    "name_en": "Hastings Street (Downtown Eastside)",
+    "lat": 49.281,
+    "lon": -123.099,
+    "country": "加拿大",
+    "region": "美洲",
+    "appearances": [
+      {
+        "ep": 261,
+        "quote": "我們還特意去上師街參觀這樣",
+        "context": "溫哥華市中心街區，毒品與遊民問題觸目驚心",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
     "name": "上野",
     "name_en": "Ueno",
     "lat": 35.714,
@@ -7262,22 +7302,6 @@
         "ep": 248,
         "quote": "中南海現在是他們的辦公機關",
         "context": "歷代政權行政中心，周邊戒備森嚴需安檢",
-        "source": "transcript"
-      }
-    ]
-  },
-  {
-    "name": "中和",
-    "name_en": "Zhonghe District",
-    "lat": 24.993,
-    "lon": 121.496,
-    "country": "臺灣",
-    "region": "台灣",
-    "appearances": [
-      {
-        "ep": 257,
-        "quote": "中和更多人",
-        "context": "提及人口密度與缺乏完善都市計畫的區域",
         "source": "transcript"
       }
     ]
@@ -7564,15 +7588,15 @@
   {
     "name": "乾陵",
     "name_en": "Qianling Mausoleum",
-    "lat": 34.573,
-    "lon": 108.218,
+    "lat": 34.577,
+    "lon": 108.217,
     "country": "中國",
     "region": "亞洲",
     "appearances": [
       {
         "ep": 252,
-        "quote": "然後我現在在講的是 就是武則天跟那個唐高宗的那個前陵",
-        "context": "唐高宗與武則天合葬的風水寶地",
+        "quote": "就是那個唐高宗跟武則天的前陵",
+        "context": "唐高宗與武則天合葬陵，未被盜過",
         "source": "transcript"
       }
     ]
@@ -7605,22 +7629,6 @@
         "ep": 217,
         "quote": "他們在淡路島呢 打造一個動漫公園",
         "context": "淡路島動漫公園，有火影忍者村與蠟筆小新",
-        "source": "transcript"
-      }
-    ]
-  },
-  {
-    "name": "五月街",
-    "name_en": "Avenida Primero de Mayo",
-    "lat": 4.593,
-    "lon": -74.148,
-    "country": "哥倫比亞",
-    "region": "美洲",
-    "appearances": [
-      {
-        "ep": 256,
-        "quote": "他有一個叫五月街的 MyUstrait 就是五月花號",
-        "context": "講者在波哥大尋找併購買機車的街區",
         "source": "transcript"
       }
     ]
@@ -7825,15 +7833,15 @@
   {
     "name": "亞答街",
     "name_en": "Carpenter Street",
-    "lat": 1.558,
+    "lat": 1.5578,
     "lon": 110.345,
     "country": "馬來西亞",
     "region": "亞洲",
     "appearances": [
       {
         "ep": 250,
-        "quote": "他有一條華人的街叫亞大街",
-        "context": "古晉市區保留許多傳統華人會館的老街。",
+        "quote": "他有一條華人的街叫亞答街",
+        "context": "古晉華人老街，有會館、老店與鴉片咖啡",
         "source": "transcript"
       }
     ]
@@ -7963,22 +7971,6 @@
         "ep": 246,
         "quote": "土魯番那邊有一個古城 叫交河古城",
         "context": "作者人生第一次 FTF 的地點",
-        "source": "transcript"
-      }
-    ]
-  },
-  {
-    "name": "交通大學",
-    "name_en": "National Chiao Tung University",
-    "lat": 24.786,
-    "lon": 120.999,
-    "country": "臺灣",
-    "region": "台灣",
-    "appearances": [
-      {
-        "ep": 257,
-        "quote": "交通大學做完的研究是",
-        "context": "提出車道變窄能降低機車鑽車機率的研究機構",
         "source": "transcript"
       }
     ]
@@ -8503,21 +8495,37 @@
     ]
   },
   {
-    "name": "伊盧利薩特 (Illulisat)",
+    "name": "伊盧利薩特",
     "name_en": "Ilulissat",
-    "lat": 69.216,
+    "lat": 69.22,
     "lon": -51.1,
     "country": "格陵蘭",
-    "region": "極地",
+    "region": "美洲",
     "appearances": [
       {
         "ep": 262,
-        "quote": "往北的話 是另外一個非常知名的旅遊城市叫Illulisat",
-        "context": "擁有世界最大的冰川與峽灣地形",
+        "quote": "Illulisat，然後也是我們這次旅遊的重點",
+        "context": "冰峽灣所在，本集旅程重點城鎮",
         "source": "transcript"
       }
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/The_colors_from_Ilulissat_-_Greenland._-_panoramio.jpg/330px-The_colors_from_Ilulissat_-_Greenland._-_panoramio.jpg"
+  },
+  {
+    "name": "伊盧利薩特冰峽灣",
+    "name_en": "Ilulissat Icefjord",
+    "lat": 69.15,
+    "lon": -50.0,
+    "country": "格陵蘭",
+    "region": "美洲",
+    "appearances": [
+      {
+        "ep": 262,
+        "quote": "它以它的冰霞灣列入UNESCO",
+        "context": "世界遺產，冰山崩落奇景與健行步道",
+        "source": "transcript"
+      }
+    ]
   },
   {
     "name": "伊索比亞高原",
@@ -8662,6 +8670,22 @@
         "ep": 172,
         "quote": "仍然是澳門地區最大的圖書館",
         "context": "香港首富何東捐贈，與何世禮的故事",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "name": "佛光山倫敦分院",
+    "name_en": "Fo Guang Shan London Temple",
+    "lat": 51.517,
+    "lon": -0.143,
+    "country": "英國",
+    "region": "歐洲",
+    "appearances": [
+      {
+        "ep": 265,
+        "quote": "在倫敦市中心有一條街叫Margaret Street靠近牛津街那邊",
+        "context": "舊圖書館改建的華人佛寺",
         "source": "transcript"
       }
     ]
@@ -8876,6 +8900,22 @@
     ]
   },
   {
+    "name": "倫敦大學學院",
+    "name_en": "University College London (UCL)",
+    "lat": 51.5246,
+    "lon": -0.134,
+    "country": "英國",
+    "region": "歐洲",
+    "appearances": [
+      {
+        "ep": 265,
+        "quote": "讓他們到了倫敦的倫敦大學UCL大學就是偷偷去留學這樣子",
+        "context": "長州五傑留學處，設有紀念碑",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
     "name": "倫敦大火終點金色小童像",
     "name_en": "Golden Boy of Pye Corner",
     "lat": 51.516,
@@ -8990,6 +9030,22 @@
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Len%C3%A7%C3%B3is_Maranhenses_2018.jpg/330px-Len%C3%A7%C3%B3is_Maranhenses_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
+    "name": "傑拉德街唐人街",
+    "name_en": "Chinatown, Gerrard Street",
+    "lat": 51.5114,
+    "lon": -0.1318,
+    "country": "英國",
+    "region": "歐洲",
+    "appearances": [
+      {
+        "ep": 265,
+        "quote": "叫Jerrod Street那當時政府可能意識到",
+        "context": "蘇活區內現今的倫敦唐人街",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
     "name": "傑拉爾頓",
     "name_en": "Geraldton",
     "lat": -28.778,
@@ -9033,6 +9089,22 @@
         "ep": 85,
         "quote": "第一個是那個光明王之墓",
         "context": "設拉子伊斯蘭聖陵與清真寺，玻璃鑲嵌金碧輝煌",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "name": "光西瀑布",
+    "name_en": "Kuang Si Falls",
+    "lat": 19.749,
+    "lon": 101.995,
+    "country": "寮國",
+    "region": "亞洲",
+    "appearances": [
+      {
+        "ep": 254,
+        "quote": "他是直接從他後院就可以走到光西瀑布裡面，我們完全不用買票",
+        "context": "住在瀑布旁人家，體驗在地生活",
         "source": "transcript"
       }
     ]
@@ -9247,6 +9319,22 @@
     ]
   },
   {
+    "name": "八哥國家公園",
+    "name_en": "Bako National Park",
+    "lat": 1.7167,
+    "lon": 110.45,
+    "country": "馬來西亞",
+    "region": "亞洲",
+    "appearances": [
+      {
+        "ep": 250,
+        "quote": "它有國家公園它叫八哥國家公園",
+        "context": "需搭船抵達，有鱷魚河與屍花",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
     "name": "公爵酒店酒吧",
     "name_en": "The Duke's Hotel",
     "lat": 51.5055,
@@ -9341,6 +9429,23 @@
         "source": "transcript"
       }
     ]
+  },
+  {
+    "name": "兵馬俑",
+    "name_en": "Terracotta Army",
+    "lat": 34.385,
+    "lon": 109.278,
+    "country": "中國",
+    "region": "亞洲",
+    "appearances": [
+      {
+        "ep": 252,
+        "quote": "兵馬俑這個東西雖然從小就已經從課本上看到無數次了",
+        "context": "西安必去經典，鎮館之寶保存完好的俑",
+        "source": "transcript"
+      }
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/51714-Terracota-Army.jpg/330px-51714-Terracota-Army.jpg"
   },
   {
     "name": "冬街酒吧街",
@@ -9556,22 +9661,6 @@
     ]
   },
   {
-    "name": "列治文",
-    "name_en": "Richmond",
-    "lat": 49.166,
-    "lon": -123.133,
-    "country": "加拿大",
-    "region": "美洲",
-    "appearances": [
-      {
-        "ep": 261,
-        "quote": "那時候我們不是還去那個Richmond，Richmond那個早期的華人區嗎",
-        "context": "溫哥華華人聚集且生活便利的社區",
-        "source": "transcript"
-      }
-    ]
-  },
-  {
     "name": "利德賀市場",
     "name_en": "Leadenhall Market",
     "lat": 51.5128,
@@ -9622,6 +9711,22 @@
     ]
   },
   {
+    "name": "利物浦港",
+    "name_en": "Liverpool Docks",
+    "lat": 53.4084,
+    "lon": -2.9916,
+    "country": "英國",
+    "region": "歐洲",
+    "appearances": [
+      {
+        "ep": 265,
+        "quote": "Liverpool是當時一個很大的港口",
+        "context": "早期華人登陸港口，1946年事件發生地",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
     "name": "利物浦老街區（Sound City 會場）",
     "name_en": "Liverpool Old Streets (Sound City)",
     "lat": 53.4084,
@@ -9633,6 +9738,22 @@
         "ep": 91,
         "quote": "他們選的是 Liverpool的老街",
         "context": "以閒置空間作舞臺，讓老街區重新活絡的城市音樂節",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "name": "利物浦華人事件紀念碑",
+    "name_en": "Liverpool Chinese Seamen Memorial",
+    "lat": 53.404,
+    "lon": -2.993,
+    "country": "英國",
+    "region": "歐洲",
+    "appearances": [
+      {
+        "ep": 265,
+        "quote": "在Levelpool港口這邊就有一個華人的事件的道歉紀念碑",
+        "context": "紀念1946年遭驅逐華人海員",
         "source": "transcript"
       }
     ]
@@ -9719,33 +9840,33 @@
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Cambridge_-_Kings_College_vue_des_backs.jpg/330px-Cambridge_-_Kings_College_vue_des_backs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "劍橋大學國王學院",
+    "name": "劍橋國王學院",
     "name_en": "King's College, Cambridge",
-    "lat": 52.203,
-    "lon": 0.116,
+    "lat": 52.2043,
+    "lon": 0.1166,
     "country": "英國",
-    "region": "亞洲",
+    "region": "歐洲",
     "appearances": [
       {
         "ep": 265,
-        "quote": "他就弄了一顆這個徐志摩的石頭，在他的國王學院裡",
-        "context": "存放徐志摩紀念石的劍橋學院",
+        "quote": "他就弄了一顆這個徐志摩的石頭在他的國王學院裡",
+        "context": "設有徐志摩詩碑",
         "source": "transcript"
       }
     ]
   },
   {
-    "name": "劍橋大學聖約翰學院",
+    "name": "劍橋聖約翰學院",
     "name_en": "St John's College, Cambridge",
-    "lat": 52.208,
-    "lon": 0.115,
+    "lat": 52.2084,
+    "lon": 0.117,
     "country": "英國",
-    "region": "亞洲",
+    "region": "歐洲",
     "appearances": [
       {
         "ep": 265,
-        "quote": "你要找到劍橋的神秘地標，你就要去聖約翰學院找金庸的金庸石",
-        "context": "金庸取得博士學位並留下紀念石的學院",
+        "quote": "你就要去聖約翰學院找金庸的金庸石",
+        "context": "金庸求學並留有對聯石碑",
         "source": "transcript"
       }
     ]
@@ -9864,17 +9985,17 @@
     ]
   },
   {
-    "name": "努克 (Nuke)",
+    "name": "努克",
     "name_en": "Nuuk",
-    "lat": 64.181,
-    "lon": -51.694,
+    "lat": 64.175,
+    "lon": -51.739,
     "country": "格陵蘭",
-    "region": "極地",
+    "region": "美洲",
     "appearances": [
       {
         "ep": 262,
-        "quote": "往南的話 就是格林蘭的首都 就是Nuke",
-        "context": "格陵蘭首都，集結較多文化與人文",
+        "quote": "往南的話就是格林蘭的首都，就是Nuke",
+        "context": "格陵蘭首都，人文中心，此行未前往",
         "source": "transcript"
       }
     ],
@@ -9928,6 +10049,23 @@
         "source": "transcript"
       }
     ]
+  },
+  {
+    "name": "勃蘭登堡門",
+    "name_en": "Brandenburg Gate",
+    "lat": 52.5163,
+    "lon": 13.3777,
+    "country": "德國",
+    "region": "歐洲",
+    "appearances": [
+      {
+        "ep": 259,
+        "quote": "布蘭燈寶門 然後那個門怎麼說呢",
+        "context": "看過太多影像，親臨反而無震撼的例子",
+        "source": "transcript"
+      }
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Brandenburger_Tor_abends.jpg/330px-Brandenburger_Tor_abends.jpg"
   },
   {
     "name": "勒克瑙",
@@ -10175,6 +10313,22 @@
     ]
   },
   {
+    "name": "北海道",
+    "name_en": "Hokkaido",
+    "lat": 43.064,
+    "lon": 141.347,
+    "country": "日本",
+    "region": "亞洲",
+    "appearances": [
+      {
+        "ep": 257,
+        "quote": "我去一個就下雪的北海道",
+        "context": "積雪顯示車輪軌跡，示範以車道推導設計",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
     "name": "北西摩島",
     "name_en": "North Seymour Island",
     "lat": -0.396,
@@ -10190,23 +10344,6 @@
       }
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Isla_Seymour_Norte%2C_islas_Gal%C3%A1pagos%2C_Ecuador%2C_2015-07-23%2C_DD_01.JPG/330px-Isla_Seymour_Norte%2C_islas_Gal%C3%A1pagos%2C_Ecuador%2C_2015-07-23%2C_DD_01.JPG"
-  },
-  {
-    "name": "北野天滿宮",
-    "name_en": "Kitano Tenmangu",
-    "lat": 35.031,
-    "lon": 135.735,
-    "country": "日本",
-    "region": "亞洲",
-    "appearances": [
-      {
-        "ep": 259,
-        "quote": "然後北野天滿宮",
-        "context": "作為京都熱門觀光景點的舉例",
-        "source": "transcript"
-      }
-    ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Kitano-tenmangu_Kyoto_Japan41s3s4592.jpg/330px-Kitano-tenmangu_Kyoto_Japan41s3s4592.jpg"
   },
   {
     "name": "北雅加達廢棄清真寺",
@@ -10323,6 +10460,22 @@
     ]
   },
   {
+    "name": "南俄湖水上屋",
+    "name_en": "Nam Ngum Reservoir floating houses",
+    "lat": 18.6,
+    "lon": 102.55,
+    "country": "寮國",
+    "region": "亞洲",
+    "appearances": [
+      {
+        "ep": 254,
+        "quote": "那邊基本上都是觀光業，水上屋是搭給觀光業看的",
+        "context": "逐字稿稱孟峰，水上屋為觀光陷阱",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
     "name": "南勢角",
     "name_en": "Nanshijiao",
     "lat": 24.9894,
@@ -10366,22 +10519,6 @@
         "ep": 42,
         "quote": "我從納霸市區出發，搭公車到南城市",
         "context": "節目中提到交通目的地",
-        "source": "transcript"
-      }
-    ]
-  },
-  {
-    "name": "南天門",
-    "name_en": "Nantianmen",
-    "lat": 34.478,
-    "lon": 110.083,
-    "country": "中國",
-    "region": "亞洲",
-    "appearances": [
-      {
-        "ep": 252,
-        "quote": "你要去爬之前 你要先經過一個地方 叫做南天門",
-        "context": "前往長空棧道必經的道觀",
         "source": "transcript"
       }
     ]
@@ -11055,16 +11192,16 @@
   },
   {
     "name": "印度街",
-    "name_en": "India Street",
-    "lat": 1.559,
-    "lon": 110.344,
+    "name_en": "India Street, Kuching",
+    "lat": 1.5586,
+    "lon": 110.3455,
     "country": "馬來西亞",
     "region": "亞洲",
     "appearances": [
       {
         "ep": 250,
-        "quote": "他的隔壁就是印度街 然後那個印度街 其實很短",
-        "context": "古晉亞答街旁販售香料與印度商品的街道。",
+        "quote": "然後他的隔壁就是印度街",
+        "context": "古晉小印度區，有印度商店與香料店",
         "source": "transcript"
       }
     ]
@@ -11201,31 +11338,15 @@
   {
     "name": "古晉河濱公園",
     "name_en": "Kuching Waterfront",
-    "lat": 1.559,
-    "lon": 110.345,
+    "lat": 1.5589,
+    "lon": 110.3447,
     "country": "馬來西亞",
     "region": "亞洲",
     "appearances": [
       {
         "ep": 250,
-        "quote": "如果說是市區河濱公園那一帶 就是觀光客最集中那個",
-        "context": "古晉市區觀光客最集中的休閒區域。",
-        "source": "transcript"
-      }
-    ]
-  },
-  {
-    "name": "古晉潮州會館",
-    "name_en": "Kuching Teochew Association",
-    "lat": 1.558,
-    "lon": 110.345,
-    "country": "馬來西亞",
-    "region": "亞洲",
-    "appearances": [
-      {
-        "ep": 250,
-        "quote": "裡面就有潮州會館 有潮州的戲臺",
-        "context": "位於亞答街內，設有傳統戲臺的華人會館。",
+        "quote": "如果說是市區河濱公園那一帶就是觀光客最集中那個",
+        "context": "古晉觀光客最集中的河濱區域",
         "source": "transcript"
       }
     ]
@@ -11570,17 +11691,17 @@
     ]
   },
   {
-    "name": "和栗屋",
-    "name_en": "Waguriya",
-    "lat": 35.728,
-    "lon": 139.766,
+    "name": "和田生煙（和田茂之）甜點店",
+    "name_en": "Patisserie Wada (Oyamadai area)",
+    "lat": 35.601,
+    "lon": 139.652,
     "country": "日本",
     "region": "亞洲",
     "appearances": [
       {
         "ep": 259,
-        "quote": "有一家店叫做荷麗屋",
-        "context": "品嚐以天然栗子風味為主、降低糖奶的蒙布朗名店",
+        "quote": "他店不在市中心 他店很遠 在尾台山",
+        "context": "法國國寶級甜點師的老派法式甜點店，如同70年代時光屋",
         "source": "transcript"
       }
     ]
@@ -12076,22 +12197,6 @@
     ]
   },
   {
-    "name": "喜士定街 (逐字稿譯為上斯街)",
-    "name_en": "Hastings Street",
-    "lat": 49.282,
-    "lon": -123.093,
-    "country": "加拿大",
-    "region": "美洲",
-    "appearances": [
-      {
-        "ep": 261,
-        "quote": "我們那時候好像，我們還特意去上斯街參觀這樣",
-        "context": "溫哥華市中心遊民較多的特定街區",
-        "source": "transcript"
-      }
-    ]
-  },
-  {
     "name": "喬托鐘樓",
     "name_en": "Giotto's Campanile",
     "lat": 43.773,
@@ -12155,6 +12260,23 @@
         "source": "transcript"
       }
     ]
+  },
+  {
+    "name": "嘉峪關",
+    "name_en": "Jiayuguan Pass",
+    "lat": 39.809,
+    "lon": 98.215,
+    "country": "中國",
+    "region": "亞洲",
+    "appearances": [
+      {
+        "ep": 252,
+        "quote": "萬里長城的西邊的終點就在嘉育關",
+        "context": "明長城西端終點，放棄敦煌",
+        "source": "transcript"
+      }
+    ],
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Jiayu_Guan_2014.01.01_11-03-14.jpg/330px-Jiayu_Guan_2014.01.01_11-03-14.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "嘉明湖",
@@ -12416,22 +12538,6 @@
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/MMCA_Seoul.jpg/330px-MMCA_Seoul.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "國立自然科學博物館",
-    "name_en": "National Museum of Natural Science",
-    "lat": 24.157,
-    "lon": 120.666,
-    "country": "臺灣",
-    "region": "亞洲",
-    "appearances": [
-      {
-        "ep": 254,
-        "quote": "像我們臺中的話 就是科學博物館",
-        "context": "講者舉例適合帶孩子去學習與互動的在地場館",
-        "source": "transcript"
-      }
-    ]
-  },
-  {
     "name": "國立臺灣博物館",
     "name_en": "National Taiwan Museum",
     "lat": 25.0425,
@@ -12459,22 +12565,6 @@
         "ep": 235,
         "quote": "臺灣文學館呢他的前身臺南周廳",
         "context": "辰野式建築，前身為臺南州廳",
-        "source": "transcript"
-      }
-    ]
-  },
-  {
-    "name": "國立臺灣歷史博物館",
-    "name_en": "National Museum of Taiwan History",
-    "lat": 23.061,
-    "lon": 120.241,
-    "country": "臺灣",
-    "region": "亞洲",
-    "appearances": [
-      {
-        "ep": 265,
-        "quote": "你在我們臺南的那個歷史博物館，在第一櫃臺南就有他的那一本書",
-        "context": "收藏假臺灣人喬治·薩瑪納札出版的回憶錄",
         "source": "transcript"
       }
     ]
@@ -12673,6 +12763,39 @@
       }
     ],
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Aerial_view_of_a_section_of_Kandahar_in_2013.jpg/330px-Aerial_view_of_a_section_of_Kandahar_in_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "坎格魯蘇克",
+    "name_en": "Kangerlussuaq",
+    "lat": 67.009,
+    "lon": -50.69,
+    "country": "格陵蘭",
+    "region": "美洲",
+    "appearances": [
+      {
+        "ep": 262,
+        "quote": "通常Kangaloose Walk是我們從格陵蘭以外的任何的國家進去的一個門戶",
+        "context": "格陵蘭主要國際門戶，氣候穩定、有機場",
+        "source": "transcript"
+      }
+    ],
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Kangerlussuaq%2C_Greenland.jpg/330px-Kangerlussuaq%2C_Greenland.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "坎格魯蘇克冰蓋",
+    "name_en": "Kangerlussuaq Ice Cap (Point 660)",
+    "lat": 67.145,
+    "lon": -50.0,
+    "country": "格陵蘭",
+    "region": "美洲",
+    "appearances": [
+      {
+        "ep": 262,
+        "quote": "它就是可以直接走到冰蓋的邊緣，然後你就看著冰蓋在你前方",
+        "context": "可徒步走到冰蓋邊緣，行程起點",
+        "source": "transcript"
+      }
+    ]
   },
   {
     "name": "坦塔",
@@ -13388,23 +13511,6 @@
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Messina_2003.JPG/330px-Messina_2003.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "墾丁",
-    "name_en": "Kenting",
-    "lat": 21.944,
-    "lon": 120.796,
-    "country": "臺灣",
-    "region": "亞洲",
-    "appearances": [
-      {
-        "ep": 259,
-        "quote": "那這個可能就是墾丁的那個細砂",
-        "context": "用墾丁細砂生動比喻和三盆糖細緻的顆粒質地",
-        "source": "transcript"
-      }
-    ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Maobitou_Cape_01.jpg/330px-Maobitou_Cape_01.jpg"
-  },
-  {
     "name": "士林夜市",
     "name_en": "Shilin Night Market",
     "lat": 25.088,
@@ -13503,6 +13609,38 @@
     ]
   },
   {
+    "name": "多倫多大學舊城區",
+    "name_en": "University of Toronto Area",
+    "lat": 43.663,
+    "lon": -79.396,
+    "country": "加拿大",
+    "region": "美洲",
+    "appearances": [
+      {
+        "ep": 261,
+        "quote": "多倫多大學那附近的那個舊城區，就是他有一些古老的建築物",
+        "context": "古老建築與學術氣息，歐洲感較強",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "name": "多倫多金融區",
+    "name_en": "Financial District, Toronto",
+    "lat": 43.648,
+    "lon": -79.381,
+    "country": "加拿大",
+    "region": "美洲",
+    "appearances": [
+      {
+        "ep": 261,
+        "quote": "比較像是信義區，比較像是華人街的靠近湖邊那邊",
+        "context": "湖邊繁華精緻的社畜商業區",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
     "name": "多瑙河",
     "name_en": "Danube River",
     "lat": 47.5,
@@ -13514,22 +13652,6 @@
         "ep": 30,
         "quote": "布達佩斯其實是一個被多瑙河貫穿的城市",
         "context": "貫穿布達佩斯，分隔布達與佩斯。",
-        "source": "transcript"
-      }
-    ]
-  },
-  {
-    "name": "夢峰（孟豐）",
-    "name_en": "Muang Feuang",
-    "lat": 18.508,
-    "lon": 101.972,
-    "country": "寮國",
-    "region": "亞洲",
-    "appearances": [
-      {
-        "ep": 254,
-        "quote": "還有到一個地方叫夢峰 但那裡是大家都住在水上",
-        "context": "被包裝成水上人家，實際已過度觀光化的景點",
         "source": "transcript"
       }
     ]
@@ -13680,6 +13802,23 @@
     ]
   },
   {
+    "name": "大奴湖",
+    "name_en": "Great Slave Lake",
+    "lat": 61.7,
+    "lon": -114.0,
+    "country": "加拿大",
+    "region": "美洲",
+    "appearances": [
+      {
+        "ep": 264,
+        "quote": "沉到大奴湖裡面去",
+        "context": "冰湖浴地點，求婚戒指掉落之處",
+        "source": "transcript"
+      }
+    ],
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Canada.A2002160.1920.721.250m.jpg/330px-Canada.A2002160.1920.721.250m.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
     "name": "大安森林公園",
     "name_en": "Daan Forest Park",
     "lat": 25.03,
@@ -13778,22 +13917,6 @@
     ]
   },
   {
-    "name": "大熊鼠圖書室",
-    "name_en": "Big Brother Mouse",
-    "lat": 19.892,
-    "lon": 102.142,
-    "country": "寮國",
-    "region": "亞洲",
-    "appearances": [
-      {
-        "ep": 254,
-        "quote": "它好像叫什麼 English Mouth 還是什麼的",
-        "context": "龍坡邦當地讓外國旅客與當地小孩練習英文的機構",
-        "source": "transcript"
-      }
-    ]
-  },
-  {
     "name": "大特",
     "name_en": "Veliko Tarnovo",
     "lat": 43.0758,
@@ -13873,23 +13996,6 @@
         "source": "transcript"
       }
     ]
-  },
-  {
-    "name": "大萊普提斯",
-    "name_en": "Leptis Magna",
-    "lat": 32.639,
-    "lon": 14.29,
-    "country": "利比亞",
-    "region": "非洲",
-    "appearances": [
-      {
-        "ep": 258,
-        "quote": "我講到兩個世界隱藏 第一個叫做 La Peace Magana",
-        "context": "講者在利比亞參觀的古羅馬世界遺產",
-        "source": "transcript"
-      }
-    ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Leptis_Magna_%2829%29_%288288918733%29.jpg/330px-Leptis_Magna_%2829%29_%288288918733%29.jpg"
   },
   {
     "name": "大金石",
@@ -14071,32 +14177,33 @@
   },
   {
     "name": "天狗山",
-    "name_en": "Tenguyama",
-    "lat": 43.176,
-    "lon": 140.963,
+    "name_en": "Mount Tengu",
+    "lat": 43.1605,
+    "lon": 141.0053,
     "country": "日本",
     "region": "亞洲",
     "appearances": [
       {
         "ep": 263,
-        "quote": "小尊附近有個天狗山嘛那天狗山就在威士附近",
-        "context": "日劇初戀拍攝地，有纜車可搭乘",
+        "quote": "天狗山就在威士附近",
+        "context": "小樽纜車與夜景，電影《First Love》取景地",
         "source": "transcript"
       }
-    ]
+    ],
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/YatsugatakeTengudake.JPG/330px-YatsugatakeTengudake.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "天王山",
-    "name_en": "Tennouzan",
-    "lat": 34.897,
-    "lon": 135.673,
+    "name_en": "Mount Tennōzan",
+    "lat": 34.9031,
+    "lon": 135.6908,
     "country": "日本",
     "region": "亞洲",
     "appearances": [
       {
         "ep": 263,
-        "quote": "那走的路上會看到一個三期合戰的石碑他寫天王山之戰",
-        "context": "戰國歷史重要戰役發生地，影響日文語言",
+        "quote": "那個就是大家知道那個封城秀吉",
+        "context": "山崎合戰古戰場，「天王山之戰」一詞由來",
         "source": "transcript"
       }
     ]
@@ -14280,7 +14387,7 @@
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Kjerakbolten_Freddy_Fish.jpg/330px-Kjerakbolten_Freddy_Fish.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "奈洛比國際機場",
+    "name": "奈洛比喬莫甘亞塔國際機場",
     "name_en": "Jomo Kenyatta International Airport",
     "lat": -1.319,
     "lon": 36.927,
@@ -14290,7 +14397,7 @@
       {
         "ep": 260,
         "quote": "所以是飛到奈若比國際機場這樣子",
-        "context": "抵達肯亞的第一站，機場設施簡陋且清晨氣溫寒冷令人印象深刻",
+        "context": "首次赴非洲的入境地，機場簡陋、拿紙本簽證",
         "source": "transcript"
       }
     ]
@@ -14339,6 +14446,22 @@
         "ep": 63,
         "quote": "你一下那個奧克蘭機場吧",
         "context": "以機場毛利語雙語標示說明毛利文化的能見度",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "name": "奧卡茨克",
+    "name_en": "Oqaatsut",
+    "lat": 69.368,
+    "lon": -51.05,
+    "country": "格陵蘭",
+    "region": "美洲",
+    "appearances": [
+      {
+        "ep": 262,
+        "quote": "那邊只有45個的居民",
+        "context": "因紐特人小漁村，船長鎮長接待",
         "source": "transcript"
       }
     ]
@@ -14504,22 +14627,6 @@
     ]
   },
   {
-    "name": "好萊塢",
-    "name_en": "Hollywood",
-    "lat": 34.092,
-    "lon": -118.328,
-    "country": "美國",
-    "region": "美洲",
-    "appearances": [
-      {
-        "ep": 255,
-        "quote": "因為好萊塢的關係所以看很多電影對美國文化也比較熟悉",
-        "context": "提及因好萊塢電影影響，多數人對美國文化較為熟悉",
-        "source": "transcript"
-      }
-    ]
-  },
-  {
     "name": "妙烏",
     "name_en": "Mrauk U",
     "lat": 20.592,
@@ -14564,6 +14671,22 @@
         "ep": 107,
         "quote": "我們在當地就是史國的首都巴巴尼",
         "context": "北醫醫療團駐點的史國最大醫院，相當於臺大醫院",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "name": "姆魯國家公園",
+    "name_en": "Gunung Mulu National Park",
+    "lat": 4.05,
+    "lon": 114.8833,
+    "country": "馬來西亞",
+    "region": "亞洲",
+    "appearances": [
+      {
+        "ep": 250,
+        "quote": "母路國家公園",
+        "context": "美里附近壯觀的世界遺產國家公園",
         "source": "transcript"
       }
     ]
@@ -14774,22 +14897,6 @@
         "ep": 140,
         "quote": "它有一個最大的孔跟瀑布",
         "context": "湄公河上巨大瀑布，當地人冒險捕魚",
-        "source": "transcript"
-      }
-    ]
-  },
-  {
-    "name": "孟威村",
-    "name_en": "Muang Ngoi",
-    "lat": 20.707,
-    "lon": 102.613,
-    "country": "寮國",
-    "region": "亞洲",
-    "appearances": [
-      {
-        "ep": 254,
-        "quote": "我就發現了一個很可愛的小村落 它叫孟威",
-        "context": "交通不便、尚未過度商業化的純樸村落",
         "source": "transcript"
       }
     ]
@@ -15053,6 +15160,22 @@
     ]
   },
   {
+    "name": "宮城峽蒸餾所",
+    "name_en": "Nikka Miyagikyo Distillery",
+    "lat": 38.3197,
+    "lon": 140.5933,
+    "country": "日本",
+    "region": "亞洲",
+    "appearances": [
+      {
+        "ep": 263,
+        "quote": "阿正又帶著他的兒子去蓋了一間酒廠在仙台",
+        "context": "1969年竹鶴建造，生產無泥煤威士忌",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
     "name": "家樂福",
     "name_en": "Carrefour (Kampala)",
     "lat": 0.3159,
@@ -15101,17 +15224,34 @@
     ]
   },
   {
+    "name": "富士山",
+    "name_en": "Mount Fuji",
+    "lat": 35.3606,
+    "lon": 138.7274,
+    "country": "日本",
+    "region": "亞洲",
+    "appearances": [
+      {
+        "ep": 222,
+        "quote": "富士山它整顆在你面前這樣",
+        "context": "主持人旅途中天氣極好，飯店可直接看到富士山景",
+        "source": "transcript"
+      }
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/View_of_Mount_Fuji_from_%C5%8Cwakudani_20211202.jpg/330px-View_of_Mount_Fuji_from_%C5%8Cwakudani_20211202.jpg"
+  },
+  {
     "name": "富岡火車站",
     "name_en": "Fugang Railway Station",
-    "lat": 24.934,
-    "lon": 121.082,
+    "lat": 24.9958,
+    "lon": 121.0517,
     "country": "臺灣",
     "region": "台灣",
     "appearances": [
       {
         "ep": 250,
-        "quote": "從桃園的富崗火車站 一路延伸至楊梅的休閒農業區",
-        "context": "富岡鐵道藝術生活節的活動起點。",
+        "quote": "從桃園的富岡火車站一路延伸至楊梅的休閒農業區",
+        "context": "富岡鐵道藝術生活節的主場地，鐵道小鎮",
         "source": "transcript"
       }
     ]
@@ -15128,22 +15268,6 @@
         "ep": 246,
         "quote": "大阪附近有一個城市叫做 富田林",
         "context": "江戶時代街道，一天找了九個寶中的五個",
-        "source": "transcript"
-      }
-    ]
-  },
-  {
-    "name": "寡達貝 (瓜塔佩)",
-    "name_en": "Guatapé",
-    "lat": 6.233,
-    "lon": -75.161,
-    "country": "哥倫比亞",
-    "region": "美洲",
-    "appearances": [
-      {
-        "ep": 256,
-        "quote": "一路就是從那個 寡達貝啊 麥德林開始 然後往下騎",
-        "context": "講者在哥倫比亞機車旅行的起點之一",
         "source": "transcript"
       }
     ]
@@ -15215,31 +15339,15 @@
   {
     "name": "小樽",
     "name_en": "Otaru",
-    "lat": 43.19,
-    "lon": 140.994,
+    "lat": 43.1907,
+    "lon": 140.9947,
     "country": "日本",
     "region": "亞洲",
     "appearances": [
       {
         "ep": 263,
-        "quote": "從小尊還要再搭那種路面電車很小那種電車大概只有兩節車廂那種還要搭五站",
-        "context": "前往餘市的轉乘城市，有壽司與運河",
-        "source": "transcript"
-      }
-    ]
-  },
-  {
-    "name": "小樽運河",
-    "name_en": "Otaru Canal",
-    "lat": 43.199,
-    "lon": 141.001,
-    "country": "日本",
-    "region": "亞洲",
-    "appearances": [
-      {
-        "ep": 263,
-        "quote": "小尊看看運河啦夜景啦還是很完美的旅程",
-        "context": "小樽周邊的觀光行程建議",
+        "quote": "小尊還算熱鬧嘛",
+        "context": "前往餘市的交通中轉，運河與壽司",
         "source": "transcript"
       }
     ]
@@ -15389,21 +15497,20 @@
     ]
   },
   {
-    "name": "尤里卡大樓 (前墨爾本最高樓)",
-    "name_en": "Eureka Tower",
-    "lat": -37.822,
-    "lon": 144.965,
-    "country": "澳洲",
-    "region": "大洋洲",
+    "name": "尼亞石洞",
+    "name_en": "Niah Caves",
+    "lat": 3.8167,
+    "lon": 113.7833,
+    "country": "馬來西亞",
+    "region": "亞洲",
     "appearances": [
       {
-        "ep": 259,
-        "quote": "我們那棟Building曾經是墨爾本最高樓",
-        "context": "分享之前在墨爾本工作及跨年看煙火的高樓餐廳",
+        "ep": 250,
+        "quote": "一個是尼亞石東",
+        "context": "美里附近的世界遺產自然景觀",
         "source": "transcript"
       }
-    ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Eureka_Tower%2C_August_2010.png/330px-Eureka_Tower%2C_August_2010.png"
+    ]
   },
   {
     "name": "尼古西亞",
@@ -15488,17 +15595,33 @@
     ]
   },
   {
+    "name": "尼羅河源頭",
+    "name_en": "Source of the Nile (Jinja)",
+    "lat": 0.427,
+    "lon": 33.205,
+    "country": "烏幹達",
+    "region": "非洲",
+    "appearances": [
+      {
+        "ep": 260,
+        "quote": "因為它是尼洛河的源頭",
+        "context": "烏幹達水量豐沛、為非洲糧倉之一",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
     "name": "尾山臺",
     "name_en": "Oyamadai",
-    "lat": 35.606,
-    "lon": 139.654,
+    "lat": 35.602,
+    "lon": 139.652,
     "country": "日本",
     "region": "亞洲",
     "appearances": [
       {
         "ep": 259,
-        "quote": "在尾台山",
-        "context": "日本國寶級法式甜點名店所在的小眾街區",
+        "quote": "他店不在市中心 他店很遠 在尾台山",
+        "context": "東京西南郊的小車站，國寶甜點店所在地",
         "source": "transcript"
       }
     ],
@@ -15539,15 +15662,15 @@
   {
     "name": "山崎站",
     "name_en": "Yamazaki Station",
-    "lat": 34.892,
-    "lon": 135.679,
+    "lat": 34.8936,
+    "lon": 135.6759,
     "country": "日本",
     "region": "亞洲",
     "appearances": [
       {
         "ep": 263,
-        "quote": "因為它就是一個小小的車站就是叫三期站嘛它那邊就有一塊石碑",
-        "context": "位於京都與大阪交界處，前往酒廠的車站",
+        "quote": "因為它就是一個小小的車站",
+        "context": "位於京都與大阪交界，站旁有府界石碑",
         "source": "transcript"
       }
     ]
@@ -15555,15 +15678,15 @@
   {
     "name": "山崎蒸餾所",
     "name_en": "Yamazaki Distillery",
-    "lat": 34.892,
-    "lon": 135.673,
+    "lat": 34.8905,
+    "lon": 135.6746,
     "country": "日本",
     "region": "亞洲",
     "appearances": [
       {
         "ep": 263,
-        "quote": "他的這個蓋的日本第一間酒廠就是威士忌的政六所就是山崎",
-        "context": "日本第一間威士忌蒸餾所",
+        "quote": "就是山崎可以推薦大家",
+        "context": "日本第一間威士忌蒸餾所，鳥井信治郎創立，預約抽籤制",
         "source": "transcript"
       }
     ],
@@ -15613,22 +15736,6 @@
         "ep": 20,
         "quote": "崩蜜獵它是一個毀壞的特別嚴重的寺廟",
         "context": "毀壞嚴重，苔蘚植物，古墓奇兵感",
-        "source": "transcript"
-      }
-    ]
-  },
-  {
-    "name": "嵩山",
-    "name_en": "Mount Song",
-    "lat": 34.484,
-    "lon": 112.936,
-    "country": "中國",
-    "region": "亞洲",
-    "appearances": [
-      {
-        "ep": 252,
-        "quote": "松山不是在河南",
-        "context": "吐槽金庸小說中門派距離太遠不合理",
         "source": "transcript"
       }
     ]
@@ -15780,6 +15887,22 @@
     ]
   },
   {
+    "name": "巴塔哥尼亞",
+    "name_en": "Patagonia",
+    "lat": -49.331,
+    "lon": -72.886,
+    "country": "阿根廷",
+    "region": "美洲",
+    "appearances": [
+      {
+        "ep": 256,
+        "quote": "我到了Patagonia 我到了南部之後",
+        "context": "荒涼公路、鴕鳥與鐵絲網柵欄",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
     "name": "巴塞隆納",
     "name_en": "Barcelona",
     "lat": 41.3874,
@@ -15924,6 +16047,23 @@
         "source": "transcript"
       }
     ]
+  },
+  {
+    "name": "巴拿馬達連隘口",
+    "name_en": "Darién Gap",
+    "lat": 8.1,
+    "lon": -77.3,
+    "country": "巴拿馬",
+    "region": "美洲",
+    "appearances": [
+      {
+        "ep": 256,
+        "quote": "在巴拿馬那一段 中美洲那一段 有一個沼澤",
+        "context": "泛美公路斷裂處，無法騎行",
+        "source": "transcript"
+      }
+    ],
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Map_of_Dari%C3%A9n_Gap-en.svg/330px-Map_of_Dari%C3%A9n_Gap-en.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "巴斯",
@@ -16365,39 +16505,6 @@
     ]
   },
   {
-    "name": "巷弄裡的清真寺",
-    "name_en": "Masjid India Kuching",
-    "lat": 1.559,
-    "lon": 110.344,
-    "country": "馬來西亞",
-    "region": "亞洲",
-    "appearances": [
-      {
-        "ep": 250,
-        "quote": "走進去裡面 有個清真寺",
-        "context": "隱藏在古晉小印度區狹窄巷弄內的清真寺。",
-        "source": "transcript"
-      }
-    ]
-  },
-  {
-    "name": "市民大道",
-    "name_en": "Civic Boulevard",
-    "lat": 25.048,
-    "lon": 121.531,
-    "country": "臺灣",
-    "region": "台灣",
-    "appearances": [
-      {
-        "ep": 262,
-        "quote": "市民大道兩條的寬度",
-        "context": "講者用來比喻站在冰蓋邊緣的安全視覺距離",
-        "source": "transcript"
-      }
-    ],
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/TaipeiCivicBlvdExpressway.jpg/330px-TaipeiCivicBlvdExpressway.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
     "name": "布哈拉古城",
     "name_en": "Historic Centre of Bukhara",
     "lat": 39.774,
@@ -16688,21 +16795,21 @@
     ]
   },
   {
-    "name": "布蘭登堡門",
-    "name_en": "Brandenburg Gate",
-    "lat": 52.516,
-    "lon": 13.378,
-    "country": "德國",
-    "region": "亞洲",
+    "name": "布蘭普頓",
+    "name_en": "Brampton",
+    "lat": 43.731,
+    "lon": -79.762,
+    "country": "加拿大",
+    "region": "美洲",
     "appearances": [
       {
-        "ep": 259,
-        "quote": "布蘭燈寶門",
-        "context": "舉例說明因看過太多次照片而對實體失去震撼感",
+        "ep": 261,
+        "quote": "印度是有一個算他們的近郊城市，叫Brandon",
+        "context": "多倫多近郊的印度人聚居城市",
         "source": "transcript"
       }
     ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Brandenburger_Tor_abends.jpg/330px-Brandenburger_Tor_abends.jpg"
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Peel_Art_Gallery%2C_Museum_and_Archives_Building_%28PAMA%29.jpg/330px-Peel_Art_Gallery%2C_Museum_and_Archives_Building_%28PAMA%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "布達",
@@ -17096,22 +17203,6 @@
     ]
   },
   {
-    "name": "幹蜜街",
-    "name_en": "Gambier Street",
-    "lat": 1.56,
-    "lon": 110.343,
-    "country": "馬來西亞",
-    "region": "亞洲",
-    "appearances": [
-      {
-        "ep": 250,
-        "quote": "那邊有一條街 就是叫什麼幹蜜街",
-        "context": "古晉早期因種植幹蜜而發展出的歷史街道。",
-        "source": "transcript"
-      }
-    ]
-  },
-  {
     "name": "庇里牛斯山朝聖第一天路段",
     "name_en": "Pyrenees Crossing (Napoleon Route)",
     "lat": 43.02,
@@ -17206,23 +17297,6 @@
         "source": "transcript"
       }
     ]
-  },
-  {
-    "name": "康克魯斯瓦格 (Kangaloose Walk)",
-    "name_en": "Kangerlussuaq",
-    "lat": 67.008,
-    "lon": -50.689,
-    "country": "格陵蘭",
-    "region": "極地",
-    "appearances": [
-      {
-        "ep": 262,
-        "quote": "西南角的話 最大的城市叫做Kangaloose Walk",
-        "context": "氣候最穩定，是進入格陵蘭的主要門戶",
-        "source": "transcript"
-      }
-    ],
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Kangerlussuaq%2C_Greenland.jpg/330px-Kangerlussuaq%2C_Greenland.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "康希爾街",
@@ -17355,6 +17429,38 @@
     ]
   },
   {
+    "name": "張掖丹霞地貌",
+    "name_en": "Zhangye Danxia Geopark",
+    "lat": 38.918,
+    "lon": 100.138,
+    "country": "中國",
+    "region": "亞洲",
+    "appearances": [
+      {
+        "ep": 252,
+        "quote": "他有一個那個就是丹霞地貌",
+        "context": "雨後放晴的七彩巖層景觀",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "name": "張掖大佛寺",
+    "name_en": "Zhangye Giant Buddha Temple",
+    "lat": 38.926,
+    "lon": 100.452,
+    "country": "中國",
+    "region": "亞洲",
+    "appearances": [
+      {
+        "ep": 252,
+        "quote": "叫做那個大佛寺就是西夏時代留下來的古蹟",
+        "context": "西夏國寺，傳忽必烈出生於此",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
     "name": "彩虹山",
     "name_en": "Rainbow Mountain (Vinicunca)",
     "lat": -13.87,
@@ -17398,6 +17504,22 @@
         "ep": 217,
         "quote": "其實我出生在彰化縣一個非常小的鄉鎮叫舍頭鄉",
         "context": "主持人家鄉，襪子的故鄉，地方創生舉例",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "name": "待庵",
+    "name_en": "Taian Teahouse",
+    "lat": 34.8924,
+    "lon": 135.6733,
+    "country": "日本",
+    "region": "亞洲",
+    "appearances": [
+      {
+        "ep": 263,
+        "quote": "他附近有那個千利修",
+        "context": "千利休的茶室，山崎蒸餾所附近水質佳",
         "source": "transcript"
       }
     ]
@@ -18411,7 +18533,7 @@
   },
   {
     "name": "捷運府中站",
-    "name_en": "Fuzhong Station",
+    "name_en": "Fuzhong MRT Station",
     "lat": 25.008,
     "lon": 121.459,
     "country": "臺灣",
@@ -18419,8 +18541,8 @@
     "appearances": [
       {
         "ep": 257,
-        "quote": "他在捷運府中站那邊 他有一條路",
-        "context": "縮減車道並改為徒步區的成功交通改造案例",
+        "quote": "他在捷運府中站那邊他有一條路",
+        "context": "新北車道改徒步區，提升路口效率的案例",
         "source": "transcript"
       }
     ]
@@ -18521,23 +18643,6 @@
       }
     ],
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/%D9%85%D8%AF%D9%8A%D9%86%D8%A9_%D8%A7%D9%84%D9%85%D9%88%D8%B5%D9%84.jpg/330px-%D9%85%D8%AF%D9%8A%D9%86%D8%A9_%D8%A7%D9%84%D9%85%D9%88%D8%B5%D9%84.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "摸乳巷",
-    "name_en": "Molu Alley",
-    "lat": 24.054,
-    "lon": 120.432,
-    "country": "臺灣",
-    "region": "台灣",
-    "appearances": [
-      {
-        "ep": 250,
-        "quote": "就是臺灣 鹿港有摸乳巷 很窄",
-        "context": "主持人用來比喻古晉印度街狹窄巷弄的景點。",
-        "source": "transcript"
-      }
-    ],
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Molulane.jpg/330px-Molulane.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "撒哈拉恐龍化石區",
@@ -18994,21 +19099,21 @@
     ]
   },
   {
-    "name": "新千歲機場",
-    "name_en": "New Chitose Airport",
-    "lat": 42.775,
-    "lon": 141.662,
-    "country": "日本",
+    "name": "新堯灣",
+    "name_en": "Serikin",
+    "lat": 1.2167,
+    "lon": 110.0167,
+    "country": "馬來西亞",
     "region": "亞洲",
     "appearances": [
       {
-        "ep": 263,
-        "quote": "如果從千歲機場你做到那個小尊",
-        "context": "前往北海道威士忌酒廠的交通起點",
+        "ep": 250,
+        "quote": "那個小鎮叫新堯灣",
+        "context": "砂拉越客家老街，與湖口老街結為姊妹",
         "source": "transcript"
       }
     ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Shinchitose.aierial_shoot.jpg/330px-Shinchitose.aierial_shoot.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Sarawakbau_serikinmarket.jpg/330px-Sarawakbau_serikinmarket.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "新大久保",
@@ -19054,6 +19159,22 @@
         "ep": 188,
         "quote": "全英國最新的國家公園叫做新森林國家公園",
         "context": "歷史悠久的森林，童話靈感來源",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "name": "新竹市",
+    "name_en": "Hsinchu City",
+    "lat": 24.813,
+    "lon": 120.967,
+    "country": "臺灣",
+    "region": "台灣",
+    "appearances": [
+      {
+        "ep": 257,
+        "quote": "新竹市塞到包",
+        "context": "缺乏人行道與公運，人人開車而塞車",
         "source": "transcript"
       }
     ]
@@ -19119,6 +19240,22 @@
         "ep": 46,
         "quote": "領事館的話，有德國領事館、美國領事館、荷蘭領事館、英國領事館、日本領事館，還有一個，我忘記。",
         "context": "曾設於大稻城，現為遺址",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "name": "日本館",
+    "name_en": "Japan House London",
+    "lat": 51.5014,
+    "lon": -0.1916,
+    "country": "英國",
+    "region": "歐洲",
+    "appearances": [
+      {
+        "ep": 265,
+        "quote": "所以他們在那裡也成立了一個日本中心叫Japan House",
+        "context": "肯辛頓高街的日本文化展示中心",
         "source": "transcript"
       }
     ]
@@ -19856,6 +19993,23 @@
     ]
   },
   {
+    "name": "東京鐵塔",
+    "name_en": "Tokyo Tower",
+    "lat": 35.65858,
+    "lon": 139.74543,
+    "country": "日本",
+    "region": "亞洲",
+    "appearances": [
+      {
+        "ep": 274,
+        "quote": "你看圖案中的東京鐵塔是這個 然後這個你現在看到就是東京鐵塔",
+        "context": "透過繪本認識並實際看見的地標。",
+        "source": "transcript"
+      }
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Tokyo_Tower_2023.jpg/330px-Tokyo_Tower_2023.jpg"
+  },
+  {
     "name": "東倫敦",
     "name_en": "East London",
     "lat": 51.507,
@@ -20036,15 +20190,15 @@
   {
     "name": "東非大裂谷",
     "name_en": "Great Rift Valley",
-    "lat": -1.014,
-    "lon": 36.586,
+    "lat": -0.9,
+    "lon": 36.4,
     "country": "肯亞",
     "region": "非洲",
     "appearances": [
       {
         "ep": 260,
-        "quote": "哦對東非大獵谷 哇 馬上停車 地課本的巡禮",
-        "context": "搭車前往學校的路途中，特別下車拍照留念的壯觀地理課本地標",
+        "quote": "哦是大獵谷,哦對東非大獵谷",
+        "context": "前往學校途中停車，初次看見地理課本中的景觀",
         "source": "transcript"
       }
     ]
@@ -20458,22 +20612,6 @@
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Glasgow_-_aerial_-_2025-04-17_14.jpg/330px-Glasgow_-_aerial_-_2025-04-17_14.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "格林威治",
-    "name_en": "Greenwich",
-    "lat": 51.4826,
-    "lon": -0.0077,
-    "country": "英國",
-    "region": "歐洲",
-    "appearances": [
-      {
-        "ep": 223,
-        "quote": "Greenwich這一代就是從16世紀以後",
-        "context": "造船與海事重地，海事博物館所在",
-        "source": "transcript"
-      }
-    ]
-  },
-  {
     "name": "格林威治國家海事博物館",
     "name_en": "National Maritime Museum",
     "lat": 51.4811,
@@ -20506,21 +20644,20 @@
     ]
   },
   {
-    "name": "格陵蘭冰蓋 (Icecap)",
-    "name_en": "Greenland Ice Sheet",
-    "lat": 67.166,
-    "lon": -50.0,
+    "name": "格陵蘭東北國家公園",
+    "name_en": "Northeast Greenland National Park",
+    "lat": 77.0,
+    "lon": -23.0,
     "country": "格陵蘭",
     "region": "極地",
     "appearances": [
       {
         "ep": 262,
-        "quote": "它最有名就是Icecap跟Point 66",
-        "context": "世界第二大冰蓋，旅客可直接走在上方",
+        "quote": "它是一個世界上現在最大的國家公園",
+        "context": "全球最大國家公園，需申請許可才可進入",
         "source": "transcript"
       }
-    ],
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Greenland_ice_sheet_AMSL_thickness_map-en.png/330px-Greenland_ice_sheet_AMSL_thickness_map-en.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    ]
   },
   {
     "name": "格雷弗萊爾斯墓園",
@@ -20542,15 +20679,15 @@
   {
     "name": "桃園國際機場",
     "name_en": "Taoyuan International Airport",
-    "lat": 25.079,
-    "lon": 121.234,
+    "lat": 25.08,
+    "lon": 121.232,
     "country": "臺灣",
     "region": "台灣",
     "appearances": [
       {
         "ep": 260,
-        "quote": "然後第一次見面 在桃圓機場",
-        "context": "前往非洲前，招募的六名志工夥伴首次見面與集合的出發點",
+        "quote": "然後我們就在桃圓機場見面",
+        "context": "六位團員首次集合、扛十二個行李箱出發",
         "source": "transcript"
       }
     ],
@@ -20736,22 +20873,6 @@
       }
     ],
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/LAC_YAMDROK.jpg/330px-LAC_YAMDROK.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "楊梅休閒農業區",
-    "name_en": "Yangmei Leisure Agriculture Area",
-    "lat": 24.887,
-    "lon": 121.144,
-    "country": "臺灣",
-    "region": "台灣",
-    "appearances": [
-      {
-        "ep": 250,
-        "quote": "從桃園的富崗火車站 一路延伸至楊梅的休閒農業區",
-        "context": "鐵道藝術節活動串聯的區域。",
-        "source": "transcript"
-      }
-    ]
   },
   {
     "name": "極光村",
@@ -20968,17 +21089,17 @@
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Conjunto_arquitet%C3%B4nico_e_urban%C3%ADstico_de_Ouro_Preto.JPG/330px-Conjunto_arquitet%C3%B4nico_e_urban%C3%ADstico_de_Ouro_Preto.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "武當山",
-    "name_en": "Wudang Mountains",
-    "lat": 32.404,
-    "lon": 111.006,
+    "name": "武威（馬踏飛燕出土地）",
+    "name_en": "Wuwei Leitai Han Tomb",
+    "lat": 37.939,
+    "lon": 102.64,
     "country": "中國",
     "region": "亞洲",
     "appearances": [
       {
         "ep": 252,
-        "quote": "他只來得及救到武當",
-        "context": "討論倚天屠龍記中門派救援的距離",
+        "quote": "你在這個它出土的這個地方也可以看到一尊很大的馬踏飛煙",
+        "context": "馬踏飛燕出土處，夜光杯特產",
         "source": "transcript"
       }
     ]
@@ -21100,6 +21221,22 @@
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Italy_-_Pisa.jpg/330px-Italy_-_Pisa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
+    "name": "民生社區",
+    "name_en": "Minsheng Community",
+    "lat": 25.06,
+    "lon": 121.563,
+    "country": "臺灣",
+    "region": "台灣",
+    "appearances": [
+      {
+        "ep": 257,
+        "quote": "可以去看看民生社區",
+        "context": "巷弄錯位設計，阻止過境車流的佳例",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
     "name": "氣金字塔",
     "name_en": "Pyramid of Chi",
     "lat": -8.5233,
@@ -21197,16 +21334,32 @@
   },
   {
     "name": "永和",
-    "name_en": "Yonghe District",
+    "name_en": "Yonghe",
     "lat": 25.008,
-    "lon": 121.514,
+    "lon": 121.516,
     "country": "臺灣",
     "region": "台灣",
     "appearances": [
       {
         "ep": 257,
-        "quote": "高密度發生在永和",
-        "context": "人行道中斷與交通設計不連貫的代表區域",
+        "quote": "其實我感覺起來我自己體感是",
+        "context": "來賓住處，道路與人行道不連貫的典型案例",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "name": "永寧門",
+    "name_en": "Yongningmen (South Gate), Xi'an",
+    "lat": 34.256,
+    "lon": 108.943,
+    "country": "中國",
+    "region": "亞洲",
+    "appearances": [
+      {
+        "ep": 252,
+        "quote": "叫做永寧門",
+        "context": "西安現存最古老的隋代城門，有穿越感",
         "source": "transcript"
       }
     ]
@@ -21294,17 +21447,17 @@
     ]
   },
   {
-    "name": "沃裡克法院巷",
+    "name": "沃裡克庭院",
     "name_en": "Warwick Court",
-    "lat": 51.517,
-    "lon": -0.113,
+    "lat": 51.5185,
+    "lon": -0.1118,
     "country": "英國",
-    "region": "亞洲",
+    "region": "歐洲",
     "appearances": [
       {
         "ep": 265,
-        "quote": "當時是有租一個房子，就在Walwick Court這邊",
-        "context": "孫文在倫敦的租屋處，現設有其雕像",
+        "quote": "你走進這個Walwick Court這邊然後大概走幾步路就在你的右手邊",
+        "context": "孫文紀念碑所在小街，近霍本地鐵站",
         "source": "transcript"
       }
     ]
@@ -21435,22 +21588,6 @@
         "ep": 60,
         "quote": "他有一個皇家陵園那規模並不是很大而且他離市區有一段距離",
         "context": "藍綠色瓷磚陵墓沿road排列，如異次元空間",
-        "source": "transcript"
-      }
-    ]
-  },
-  {
-    "name": "沙拉越河",
-    "name_en": "Sarawak River",
-    "lat": 1.56,
-    "lon": 110.345,
-    "country": "馬來西亞",
-    "region": "亞洲",
-    "appearances": [
-      {
-        "ep": 250,
-        "quote": "他有一條 沙拉越河 分南北",
-        "context": "將古晉市分為南市與北市的重要河流。",
         "source": "transcript"
       }
     ]
@@ -21652,6 +21789,22 @@
     ]
   },
   {
+    "name": "波哥大五月街",
+    "name_en": "Calle Mayo (Mayo Street), Bogotá",
+    "lat": 4.598,
+    "lon": -74.076,
+    "country": "哥倫比亞",
+    "region": "美洲",
+    "appearances": [
+      {
+        "ep": 256,
+        "quote": "他有一個叫五月街的",
+        "context": "二手摩托車街，價格被加價且恐有拼裝車",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
     "name": "波哥大老城區",
     "name_en": "La Candelaria, Bogotá",
     "lat": 4.597,
@@ -21780,17 +21933,17 @@
     ]
   },
   {
-    "name": "波特蘭街",
-    "name_en": "Portland Place",
-    "lat": 51.519,
-    "lon": -0.145,
+    "name": "波特蘭街中國大使館舊址",
+    "name_en": "Former Chinese Legation, Portland Place",
+    "lat": 51.5206,
+    "lon": -0.1445,
     "country": "英國",
-    "region": "亞洲",
+    "region": "歐洲",
     "appearances": [
       {
         "ep": 265,
-        "quote": "目前中國大使館還在波特蘭街，只是換了一個地方",
-        "context": "提及目前中國駐英大使館的所在地",
+        "quote": "當時這個中國大使館的地址現在已經變成波蘭大使館",
+        "context": "孫文被囚禁處，現為波蘭大使館",
         "source": "transcript"
       }
     ]
@@ -21861,6 +22014,22 @@
       }
     ],
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Tate_Modern_-_Bankside_Power_Station.jpg/330px-Tate_Modern_-_Bankside_Power_Station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "泰晤士河",
+    "name_en": "Thames River",
+    "lat": 51.5074,
+    "lon": -0.1278,
+    "country": "英國",
+    "region": "歐洲",
+    "appearances": [
+      {
+        "ep": 281,
+        "quote": "那時候倫敦這個工業城 那裡找得到最多蛋白質的食物呢 就是倫敦的泰伍斯河裡面的鰻魚",
+        "context": "歷史上的鰻魚捕撈地",
+        "source": "transcript"
+      }
+    ]
   },
   {
     "name": "洛克帽店",
@@ -21958,23 +22127,6 @@
       }
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Pune_West_skyline_-_March_2017.jpg/330px-Pune_West_skyline_-_March_2017.jpg"
-  },
-  {
-    "name": "海德公園",
-    "name_en": "Hyde Park",
-    "lat": 51.5074,
-    "lon": -0.1657,
-    "country": "英國",
-    "region": "歐洲",
-    "appearances": [
-      {
-        "ep": 23,
-        "quote": "我們沿著海德公園就看到一堆鮮花",
-        "context": "黛安娜王妃悼念現場",
-        "source": "transcript"
-      }
-    ],
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Aerial_view_of_Hyde_Park.jpg/330px-Aerial_view_of_Hyde_Park.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "海德堡市政廳廣場",
@@ -22213,28 +22365,11 @@
     "appearances": [
       {
         "ep": 254,
-        "quote": "跨越妹公河 然後到青萊對不對 青孔那邊",
-        "context": "從寮國搭船越過湄公河抵達泰國的邊境城鎮",
+        "quote": "從龍坡邦那邊跨越湄公河，然後到青孔那邊",
+        "context": "慢船終點，過關入境泰國",
         "source": "transcript"
       }
     ]
-  },
-  {
-    "name": "清水寺",
-    "name_en": "Kiyomizu-dera",
-    "lat": 34.995,
-    "lon": 135.785,
-    "country": "日本",
-    "region": "亞洲",
-    "appearances": [
-      {
-        "ep": 259,
-        "quote": "通常是比如大家去清水寺然後北野天滿宮",
-        "context": "提及京都最著名、遊客最常去的觀光寺廟",
-        "source": "transcript"
-      }
-    ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Kiyomizu.jpg/330px-Kiyomizu.jpg"
   },
   {
     "name": "清邁大學",
@@ -22333,6 +22468,23 @@
     ]
   },
   {
+    "name": "湖口老街",
+    "name_en": "Hukou Old Street",
+    "lat": 24.9025,
+    "lon": 121.0428,
+    "country": "臺灣",
+    "region": "台灣",
+    "appearances": [
+      {
+        "ep": 250,
+        "quote": "湖口老街",
+        "context": "新竹客家老街，與新堯灣結為姊妹老街",
+        "source": "transcript"
+      }
+    ],
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/%E6%B9%96%E5%8F%A3%E8%80%81%E8%A1%97%E9%A8%8E%E6%A8%93.jpg/330px-%E6%B9%96%E5%8F%A3%E8%80%81%E8%A1%97%E9%A8%8E%E6%A8%93.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
     "name": "湯加里羅高山縱走",
     "name_en": "Tongariro Alpine Crossing",
     "lat": -39.1203,
@@ -22365,33 +22517,33 @@
     ]
   },
   {
-    "name": "溫哥華",
-    "name_en": "Vancouver",
-    "lat": 49.2827,
-    "lon": -123.1207,
-    "country": "加拿大",
-    "region": "美洲",
-    "appearances": [
-      {
-        "ep": 14,
-        "quote": "如果要滑雪真的是要去西邊去溫哥華",
-        "context": "推薦的滑雪地點",
-        "source": "transcript"
-      }
-    ]
-  },
-  {
-    "name": "溫哥華唐人街",
+    "name": "溫哥華中國城",
     "name_en": "Vancouver Chinatown",
     "lat": 49.28,
-    "lon": -123.098,
+    "lon": -123.103,
     "country": "加拿大",
     "region": "美洲",
     "appearances": [
       {
         "ep": 261,
-        "quote": "或是中國城的附近也通常有可能是比較髒亂",
-        "context": "溫哥華市區中較髒亂的區域",
+        "quote": "那個市中心可能也是或是中國城的附近，也通常有可能是比較髒亂",
+        "context": "市中心中國城一帶較髒亂、遊民多",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "name": "溫哥華列治文",
+    "name_en": "Richmond, British Columbia",
+    "lat": 49.166,
+    "lon": -123.133,
+    "country": "加拿大",
+    "region": "美洲",
+    "appearances": [
+      {
+        "ep": 261,
+        "quote": "那時候我們不是還去那個Richmond，Richmond那個早期的華人區嗎",
+        "context": "華人密集區，無需英文即可生活",
         "source": "transcript"
       }
     ]
@@ -22526,6 +22678,22 @@
     ]
   },
   {
+    "name": "漢長城遺址",
+    "name_en": "Han Great Wall Ruins (Dunhuang)",
+    "lat": 40.345,
+    "lon": 93.9,
+    "country": "中國",
+    "region": "亞洲",
+    "appearances": [
+      {
+        "ep": 252,
+        "quote": "你人爬不過來馬跳不過來他能夠擋胸奴那他就是長城",
+        "context": "土堆形態的漢長城，賣票員說明其功能",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
     "name": "潘普洛納",
     "name_en": "Pamplona",
     "lat": 42.81,
@@ -22558,6 +22726,22 @@
       }
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Shibuya_skyline_from_Tokyu_Plaza_in_Omotesando%2C_Harajuku%2C_Tokyo%2C_2024_May.jpg/330px-Shibuya_skyline_from_Tokyu_Plaza_in_Omotesando%2C_Harajuku%2C_Tokyo%2C_2024_May.jpg"
+  },
+  {
+    "name": "澎湖天后宮",
+    "name_en": "Penghu Tianhou Temple",
+    "lat": 23.567,
+    "lon": 119.565,
+    "country": "臺灣",
+    "region": "台灣",
+    "appearances": [
+      {
+        "ep": 257,
+        "quote": "或是澎湖天后宮那邊有一條路非常的沾",
+        "context": "石板鋪面道路讓駕駛自然減速",
+        "source": "transcript"
+      }
+    ]
   },
   {
     "name": "澤拉",
@@ -22628,15 +22812,15 @@
   {
     "name": "瀨戶內海",
     "name_en": "Seto Inland Sea",
-    "lat": 34.179,
-    "lon": 133.655,
+    "lat": 34.35,
+    "lon": 133.9,
     "country": "日本",
     "region": "亞洲",
     "appearances": [
       {
         "ep": 259,
-        "quote": "像他們前北方那邊就是賴湖內海",
-        "context": "描述豐島等諸多寧靜島嶼所在的內海海域",
+        "quote": "賴湖內海 賴湖內海上面很多島",
+        "context": "四國北方海域，島嶼眾多",
         "source": "transcript"
       }
     ]
@@ -22872,14 +23056,14 @@
     "name": "烏特勒支",
     "name_en": "Utrecht",
     "lat": 52.091,
-    "lon": 5.121,
+    "lon": 5.122,
     "country": "荷蘭",
     "region": "歐洲",
     "appearances": [
       {
         "ep": 257,
         "quote": "荷蘭有個城市叫烏特勒芝",
-        "context": "大眾運輸與自行車道規劃良好而不塞車的城市",
+        "context": "與新竹對比，自行車與大眾運輸減少塞車",
         "source": "transcript"
       }
     ]
@@ -23096,6 +23280,22 @@
     ]
   },
   {
+    "name": "牛津博德利圖書館",
+    "name_en": "Bodleian Library",
+    "lat": 51.754,
+    "lon": -1.254,
+    "country": "英國",
+    "region": "歐洲",
+    "appearances": [
+      {
+        "ep": 265,
+        "quote": "在牛津的圖書館在Bowden Library有他寫的幾張翻譯文件",
+        "context": "收藏沈福宗十二星座手稿",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
     "name": "牛津大學",
     "name_en": "University of Oxford",
     "lat": 51.7548,
@@ -23107,22 +23307,6 @@
         "ep": 4,
         "quote": "他在牛津大學，就得到學士學位啊",
         "context": "翁山蘇姬曾就讀的大學",
-        "source": "transcript"
-      }
-    ]
-  },
-  {
-    "name": "牛津大學博德利圖書館",
-    "name_en": "Bodleian Library",
-    "lat": 51.753,
-    "lon": -1.254,
-    "country": "英國",
-    "region": "亞洲",
-    "appearances": [
-      {
-        "ep": 265,
-        "quote": "在牛津的圖書館，在Bowden Library，有他寫的幾張翻譯文件",
-        "context": "收藏了早期華人神輔真翻譯的中文文件",
         "source": "transcript"
       }
     ]
@@ -23421,20 +23605,20 @@
   },
   {
     "name": "玉門關",
-    "name_en": "Yumen Pass",
-    "lat": 40.354,
-    "lon": 93.864,
+    "name_en": "Yumenguan Pass",
+    "lat": 40.358,
+    "lon": 93.862,
     "country": "中國",
     "region": "亞洲",
     "appearances": [
       {
         "ep": 252,
-        "quote": "他們說西域 其實大概很大一部分 都是在那個 玉門關那附近",
-        "context": "解釋古代西域的地理位置起點",
+        "quote": "我有去到最西邊最西邊的玉門關",
+        "context": "修復但保持土堆原貌的漢代邊塞",
         "source": "transcript"
       }
     ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Dunhuang.yumenguan.jpg/330px-Dunhuang.yumenguan.jpg"
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Yumenguan.jpg/330px-Yumenguan.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "王后行宮",
@@ -23548,6 +23732,22 @@
       }
     ],
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/KSRBengaluruEntrance.jpg/330px-KSRBengaluruEntrance.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "班加西電臺",
+    "name_en": "Benghazi Radio Station",
+    "lat": 32.116,
+    "lon": 20.07,
+    "country": "利比亞",
+    "region": "非洲",
+    "appearances": [
+      {
+        "ep": 258,
+        "quote": "他一個人進去就佔領電臺了",
+        "context": "卡扎菲1969年政變宣佈革命成功之處",
+        "source": "transcript"
+      }
+    ]
   },
   {
     "name": "班塔巖島",
@@ -23858,6 +24058,23 @@
     ]
   },
   {
+    "name": "瓜州",
+    "name_en": "Guazhou",
+    "lat": 40.52,
+    "lon": 95.783,
+    "country": "中國",
+    "region": "亞洲",
+    "appearances": [
+      {
+        "ep": 252,
+        "quote": "那個地方真的是風超大",
+        "context": "西域三絕之一的風，滿布風力發電",
+        "source": "transcript"
+      }
+    ],
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Location_of_Guazhou_within_Gansu_%28China%29.png/330px-Location_of_Guazhou_within_Gansu_%28China%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
     "name": "瓜拉十八丁",
     "name_en": "Kuala Sepetang",
     "lat": 4.834,
@@ -24084,6 +24301,22 @@
     ]
   },
   {
+    "name": "甘密街",
+    "name_en": "Gambier Street, Kuching",
+    "lat": 1.5605,
+    "lon": 110.3486,
+    "country": "馬來西亞",
+    "region": "亞洲",
+    "appearances": [
+      {
+        "ep": 250,
+        "quote": "所以那邊有一條街就是叫什麼甘密街",
+        "context": "以甘密經濟作物命名的街道",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
     "name": "甘川洞文化村",
     "name_en": "Gamcheon Culture Village",
     "lat": 35.0975,
@@ -24115,6 +24348,22 @@
       }
     ],
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Kampong_Ayer_Brunei_Darussalam.jpg/330px-Kampong_Ayer_Brunei_Darussalam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "甘肅省博物館",
+    "name_en": "Gansu Provincial Museum",
+    "lat": 36.066,
+    "lon": 103.775,
+    "country": "中國",
+    "region": "亞洲",
+    "appearances": [
+      {
+        "ep": 252,
+        "quote": "真正的那個就在那個蘭州的甘肅城博物館裡面",
+        "context": "收藏馬踏飛燕真品",
+        "source": "transcript"
+      }
+    ]
   },
   {
     "name": "生動臺北錄音室（Star Hostel 臺北車站）",
@@ -24198,6 +24447,23 @@
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/White_House_north_and_south_sides.jpg/330px-White_House_north_and_south_sides.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
+    "name": "白州蒸餾所",
+    "name_en": "Hakushu Distillery",
+    "lat": 35.8561,
+    "lon": 138.3028,
+    "country": "日本",
+    "region": "亞洲",
+    "appearances": [
+      {
+        "ep": 263,
+        "quote": "又去蓋了白州真六所",
+        "context": "三得利1973年建造，生產淡泥煤威士忌",
+        "source": "transcript"
+      }
+    ],
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/160825_Suntory_Hakushu_Distillery_Hokuto_Yamanashi_pref_Japan04s3.jpg/330px-160825_Suntory_Hakushu_Distillery_Hokuto_Yamanashi_pref_Japan04s3.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
     "name": "白教堂皇家倫敦醫院",
     "name_en": "Royal London Hospital (Whitechapel)",
     "lat": 51.5183,
@@ -24209,22 +24475,6 @@
         "ep": 77,
         "quote": "叫做White Chapel Hospital",
         "context": "收藏象人梅里克骨骸與醫療史博物館",
-        "source": "transcript"
-      }
-    ]
-  },
-  {
-    "name": "白樓鞋 (巴里洛切)",
-    "name_en": "San Carlos de Bariloche",
-    "lat": -41.133,
-    "lon": -71.31,
-    "country": "阿根廷",
-    "region": "美洲",
-    "appearances": [
-      {
-        "ep": 256,
-        "quote": "他從阿根廷的首都 騎到大概 白樓鞋",
-        "context": "切格瓦拉當年機車壞掉的小城市",
         "source": "transcript"
       }
     ]
@@ -24392,17 +24642,49 @@
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Trieste_%2828766391880%29.jpg/330px-Trieste_%2828766391880%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "的黎波里麗笙酒店",
-    "name_en": "Radisson Blu Al Mahary Hotel, Tripoli",
-    "lat": 32.889,
-    "lon": 13.193,
+    "name": "的黎波里新博物館",
+    "name_en": "New Museum of Tripoli",
+    "lat": 32.899,
+    "lon": 13.176,
     "country": "利比亞",
     "region": "非洲",
     "appearances": [
       {
         "ep": 258,
-        "quote": "因為他們跟我說 五星級飯店 Reddison",
-        "context": "講者在利比亞入住且只能付現的飯店",
+        "quote": "剛好它有個最新的博物館 剛好11月才開幕",
+        "context": "高科技互動展示利比亞歷史，卡扎菲時期一筆帶過",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "name": "的黎波里老城區麥迪娜",
+    "name_en": "Tripoli Medina",
+    "lat": 32.898,
+    "lon": 13.183,
+    "country": "利比亞",
+    "region": "非洲",
+    "appearances": [
+      {
+        "ep": 258,
+        "quote": "在第一波的老城區 這樣子就對了 麥迪娜",
+        "context": "老市集，遇到經商的中國人",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "name": "的黎波里麗笙酒店",
+    "name_en": "Radisson Blu Al Mahary Hotel, Tripoli",
+    "lat": 32.897,
+    "lon": 13.181,
+    "country": "利比亞",
+    "region": "非洲",
+    "appearances": [
+      {
+        "ep": 258,
+        "quote": "五星級飯店 Reddison 他說那個中央銀行壞掉",
+        "context": "無法刷卡，作者在此遭遇電梯故障",
         "source": "transcript"
       }
     ]
@@ -24520,6 +24802,22 @@
     ]
   },
   {
+    "name": "皇家阿爾伯特音樂廳",
+    "name_en": "Royal Albert Hall",
+    "lat": 51.501,
+    "lon": -0.1774,
+    "country": "英國",
+    "region": "歐洲",
+    "appearances": [
+      {
+        "ep": 265,
+        "quote": "所以在我們倫敦的亞伯特廳就辦了一個這個日本相鋪",
+        "context": "舉辦大相撲倫敦巡演",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
     "name": "皇家雅士谷賽馬場",
     "name_en": "Royal Ascot",
     "lat": 51.4089,
@@ -24632,6 +24930,22 @@
     ]
   },
   {
+    "name": "石彌森林公園",
+    "name_en": "Fairy Caves Nature Reserve / Bau Limestone Area",
+    "lat": 1.398,
+    "lon": 110.133,
+    "country": "馬來西亞",
+    "region": "亞洲",
+    "appearances": [
+      {
+        "ep": 250,
+        "quote": "石彌森林公園",
+        "context": "免費的奇巖怪石地理奇景，私房秘境",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
     "name": "石缸平原",
     "name_en": "Plain of Jars",
     "lat": 19.43,
@@ -24643,6 +24957,38 @@
         "ep": 141,
         "quote": "石缸平原的一個景點",
         "context": "草坪滿布炸彈坑洞，見證戰爭遺痕",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "name": "石龍門",
+    "name_en": "Bau",
+    "lat": 1.4136,
+    "lon": 110.1536,
+    "country": "馬來西亞",
+    "region": "亞洲",
+    "appearances": [
+      {
+        "ep": 250,
+        "quote": "另外一邊就是石龍門",
+        "context": "華工金礦械鬥歷史地，現為湖與觀光地",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "name": "砂拉越紅毛猩猩保護園區",
+    "name_en": "Semenggoh Wildlife Centre",
+    "lat": 1.4083,
+    "lon": 110.3167,
+    "country": "馬來西亞",
+    "region": "亞洲",
+    "appearances": [
+      {
+        "ep": 250,
+        "quote": "就是紅毛猩猩保護園區",
+        "context": "可近距離觀賞紅毛猩猩餵食",
         "source": "transcript"
       }
     ]
@@ -24804,6 +25150,22 @@
         "ep": 41,
         "quote": "保利比亞那一側的Coppa Cabana",
         "context": "提提卡卡湖玻利維亞側城鎮",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "name": "科林代爾",
+    "name_en": "Colindale",
+    "lat": 51.595,
+    "lon": -0.25,
+    "country": "英國",
+    "region": "歐洲",
+    "appearances": [
+      {
+        "ep": 265,
+        "quote": "很多人喜歡聚集在一個地方叫Colendale",
+        "context": "華人聚居的倫敦郊區",
         "source": "transcript"
       }
     ]
@@ -25018,40 +25380,6 @@
     ]
   },
   {
-    "name": "秦始皇陵",
-    "name_en": "Mausoleum of the First Qin Emperor",
-    "lat": 34.381,
-    "lon": 109.254,
-    "country": "中國",
-    "region": "亞洲",
-    "appearances": [
-      {
-        "ep": 252,
-        "quote": "就是那個秦始皇的始皇陵",
-        "context": "未被盜掘的古代帝王陵墓",
-        "source": "transcript"
-      }
-    ],
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Tomb_of_the_First_Emperor_Qin_Shi_Huang_Di%2C_Xi%27an%2C_China_-_panoramio.jpg/330px-Tomb_of_the_First_Emperor_Qin_Shi_Huang_Di%2C_Xi%27an%2C_China_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "秦始皇陵兵馬俑",
-    "name_en": "Terracotta Army",
-    "lat": 34.384,
-    "lon": 109.273,
-    "country": "中國",
-    "region": "亞洲",
-    "appearances": [
-      {
-        "ep": 252,
-        "quote": "去看個兵馬俑 我覺得就是 已經算是經典行程了",
-        "context": "西安最著名且必去的歷史景點",
-        "source": "transcript"
-      }
-    ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/51714-Terracota-Army.jpg/330px-51714-Terracota-Army.jpg"
-  },
-  {
     "name": "種族隔離博物館",
     "name_en": "Apartheid Museum",
     "lat": -26.2377,
@@ -25216,22 +25544,6 @@
     ]
   },
   {
-    "name": "米提加國際機場",
-    "name_en": "Mitiga International Airport",
-    "lat": 32.893,
-    "lon": 13.277,
-    "country": "利比亞",
-    "region": "非洲",
-    "appearances": [
-      {
-        "ep": 258,
-        "quote": "所以他是飛到隔壁的小機場 叫米迪格機場",
-        "context": "講者抵達利比亞時降落的機場",
-        "source": "transcript"
-      }
-    ]
-  },
-  {
     "name": "米斯蒂火山",
     "name_en": "El Misti",
     "lat": -16.294,
@@ -25296,6 +25608,22 @@
     ]
   },
   {
+    "name": "米蒂加機場",
+    "name_en": "Mitiga International Airport",
+    "lat": 32.894,
+    "lon": 13.276,
+    "country": "利比亞",
+    "region": "非洲",
+    "appearances": [
+      {
+        "ep": 258,
+        "quote": "所以他是飛到隔壁的小機場 叫米迪格機場",
+        "context": "主機場被炸毀後的軍民兩用替代機場",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
     "name": "米蘭",
     "name_en": "Milan",
     "lat": 45.464,
@@ -25311,22 +25639,6 @@
       }
     ],
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Milan_Cathedral_from_Piazza_del_Duomo.jpg/330px-Milan_Cathedral_from_Piazza_del_Duomo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "粉紅清真寺",
-    "name_en": "Kuching City Mosque",
-    "lat": 1.558,
-    "lon": 110.342,
-    "country": "馬來西亞",
-    "region": "亞洲",
-    "appearances": [
-      {
-        "ep": 250,
-        "quote": "有席客 有一座粉紅色的清真寺 有席客教的廟",
-        "context": "古晉印度街附近具特色的粉紅色清真寺。",
-        "source": "transcript"
-      }
-    ]
   },
   {
     "name": "粉紅湖（赫特潟湖）",
@@ -25952,22 +26264,6 @@
     ]
   },
   {
-    "name": "維多利亞湖",
-    "name_en": "Lake Victoria",
-    "lat": -1.0,
-    "lon": 33.0,
-    "country": "烏幹達",
-    "region": "非洲",
-    "appearances": [
-      {
-        "ep": 118,
-        "quote": "那個湖其實是臺灣的兩倍",
-        "context": "工作所在地靠近此湖，湖上島嶼有社群",
-        "source": "transcript"
-      }
-    ]
-  },
-  {
     "name": "維多利亞瀑布",
     "name_en": "Victoria Falls",
     "lat": -17.9243,
@@ -26197,6 +26493,22 @@
     ]
   },
   {
+    "name": "羅薩裡奧",
+    "name_en": "Rosario",
+    "lat": -32.944,
+    "lon": -60.65,
+    "country": "阿根廷",
+    "region": "美洲",
+    "appearances": [
+      {
+        "ep": 256,
+        "quote": "羅沙裡奧是全南美最危險的城市",
+        "context": "梅西與切格瓦拉故鄉，傳聞有安全區",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
     "name": "羅馬",
     "name_en": "Rome",
     "lat": 41.90278,
@@ -26342,6 +26654,22 @@
     ]
   },
   {
+    "name": "美里",
+    "name_en": "Miri",
+    "lat": 4.3995,
+    "lon": 113.9914,
+    "country": "馬來西亞",
+    "region": "亞洲",
+    "appearances": [
+      {
+        "ep": 250,
+        "quote": "叫梅里",
+        "context": "擁有兩處世界遺產自然景觀的城市",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
     "name": "羽蛇神廟",
     "name_en": "Temple of the Feathered Serpent",
     "lat": 19.695,
@@ -26450,6 +26778,22 @@
         "ep": 82,
         "quote": "也有Fleet Street最老的幾間Pub叫Old Cheshire Cheese",
         "context": "地上鋪稻草的古老酒吧",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "name": "老陰影酒館",
+    "name_en": "The Old Shades",
+    "lat": 51.5075,
+    "lon": -0.1263,
+    "country": "英國",
+    "region": "歐洲",
+    "appearances": [
+      {
+        "ep": 265,
+        "quote": "靠近特拉法家廣場就是Trafalgo Square那裡有一個pop叫做The Old Shade",
+        "context": "孫文獲釋後舉行記者會的酒館",
         "source": "transcript"
       }
     ]
@@ -27011,17 +27355,17 @@
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Cattedrale_di_Santa_Maria_del_Fiore_%E2%80%93_Il_Duomo_di_Firenze.jpg/330px-Cattedrale_di_Santa_Maria_del_Fiore_%E2%80%93_Il_Duomo_di_Firenze.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "聖潘克拉斯火車站",
-    "name_en": "St Pancras Railway Station",
-    "lat": 51.53,
-    "lon": -0.126,
+    "name": "聖潘克拉斯車站",
+    "name_en": "St Pancras railway station",
+    "lat": 51.5322,
+    "lon": -0.1263,
     "country": "英國",
-    "region": "亞洲",
+    "region": "歐洲",
     "appearances": [
       {
         "ep": 265,
         "quote": "他第一個登入的就是Saint Pancras火車站",
-        "context": "孫文來到倫敦時最先抵達的車站",
+        "context": "孫文抵倫敦首站，維多利亞式火車飯店",
         "source": "transcript"
       }
     ]
@@ -27189,17 +27533,33 @@
     ]
   },
   {
-    "name": "聖馬丁教堂",
+    "name": "聖馬丁德洛斯安第斯",
+    "name_en": "San Martín de los Andes",
+    "lat": -40.157,
+    "lon": -71.353,
+    "country": "阿根廷",
+    "region": "美洲",
+    "appearances": [
+      {
+        "ep": 256,
+        "quote": "我記得還有去 聖馬丁 那邊是七湖區的開始",
+        "context": "七湖區起點，雪山湖景",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "name": "聖馬田教堂",
     "name_en": "St Martin-in-the-Fields",
-    "lat": 51.508,
-    "lon": -0.126,
+    "lat": 51.509,
+    "lon": -0.1263,
     "country": "英國",
-    "region": "亞洲",
+    "region": "歐洲",
     "appearances": [
       {
         "ep": 265,
-        "quote": "有一個教堂叫St.Martin in the Field 聖馬丁教堂",
-        "context": "孫文常在此發表演講宣傳革命理念",
+        "quote": "有一棟白色的教堂那棟教堂就是聖馬丁教堂",
+        "context": "傳聞孫文在此演講三民主義",
         "source": "transcript"
       }
     ]
@@ -27610,6 +27970,22 @@
     ]
   },
   {
+    "name": "臺南歷史博物館",
+    "name_en": "National Museum of Taiwan History",
+    "lat": 23.0386,
+    "lon": 120.1136,
+    "country": "臺灣",
+    "region": "台灣",
+    "appearances": [
+      {
+        "ep": 265,
+        "quote": "在我們臺南的那個歷史博物館在第一櫃臺南就有他的那一本書",
+        "context": "藏有假臺灣人撰寫的《福爾摩沙》",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
     "name": "臺南西港",
     "name_en": "Tainan Xigang",
     "lat": 23.11,
@@ -27637,22 +28013,6 @@
         "ep": 235,
         "quote": "南門園區則是臺灣總督府專賣局臺北南門工廠",
         "context": "前身為專賣局臺北南門工廠",
-        "source": "transcript"
-      }
-    ]
-  },
-  {
-    "name": "臺大醫院",
-    "name_en": "National Taiwan University Hospital",
-    "lat": 25.04,
-    "lon": 121.518,
-    "country": "臺灣",
-    "region": "台灣",
-    "appearances": [
-      {
-        "ep": 255,
-        "quote": "覺得不可能每個人還有一個感冒一個衝臺大醫院",
-        "context": "舉例說明醫療資源分配與分級醫療制度的重要性",
         "source": "transcript"
       }
     ]
@@ -28274,6 +28634,22 @@
     ]
   },
   {
+    "name": "英格蘭銀行博物館",
+    "name_en": "Bank of England Museum",
+    "lat": 51.5143,
+    "lon": -0.0885,
+    "country": "英國",
+    "region": "歐洲",
+    "appearances": [
+      {
+        "ep": 265,
+        "quote": "在英格蘭銀行裡面還有一個文物和這個長州五節有幹",
+        "context": "收藏長州五傑兌換日幣的紀錄",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
     "name": "英雄廣場",
     "name_en": "Hero Square",
     "lat": 47.505,
@@ -28301,6 +28677,22 @@
         "ep": 107,
         "quote": "叫如威尼的地方",
         "context": "距首都車程二三十分鐘，有賭場、SPA、電影院的娛樂區",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "name": "荷莉屋（蒙布朗專賣）",
+    "name_en": "Horiuchi-ya Mont Blanc shop",
+    "lat": 35.6586,
+    "lon": 139.7454,
+    "country": "日本",
+    "region": "亞洲",
+    "appearances": [
+      {
+        "ep": 259,
+        "quote": "有一家店叫做荷麗屋",
+        "context": "以低奶低糖、突顯栗子風味的日式蒙布朗聞名",
         "source": "transcript"
       }
     ]
@@ -28366,6 +28758,22 @@
         "ep": 103,
         "quote": "這是它的下宮",
         "context": "女王在蘇格蘭的官邸，夏季不開放參觀",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "name": "莉塔大道",
+    "name_en": "Rita Road",
+    "lat": 43.1889,
+    "lon": 140.7889,
+    "country": "日本",
+    "region": "亞洲",
+    "appearances": [
+      {
+        "ep": 263,
+        "quote": "所以那一條路就叫做Rita大道",
+        "context": "餘市蒸餾所前以竹鶴妻子命名的道路",
         "source": "transcript"
       }
     ]
@@ -28533,6 +28941,23 @@
     ]
   },
   {
+    "name": "莫高窟",
+    "name_en": "Mogao Caves",
+    "lat": 40.037,
+    "lon": 94.805,
+    "country": "中國",
+    "region": "亞洲",
+    "appearances": [
+      {
+        "ep": 252,
+        "quote": "像墨高窟裡面它就保存了很多",
+        "context": "保存北魏壁畫，文物曾被西方探險家帶走",
+        "source": "transcript"
+      }
+    ],
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Mogao_Caves_%2854376969262%29.jpg/330px-Mogao_Caves_%2854376969262%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
     "name": "菩提伽耶",
     "name_en": "Bodh Gaya",
     "lat": 24.6931,
@@ -28567,15 +28992,15 @@
   {
     "name": "華山",
     "name_en": "Mount Hua",
-    "lat": 34.482,
-    "lon": 110.08,
+    "lat": 34.489,
+    "lon": 110.079,
     "country": "中國",
     "region": "亞洲",
     "appearances": [
       {
         "ep": 252,
-        "quote": "還有就是跟金庸比較有關的就是那個華山",
-        "context": "金庸武俠小說中著名場景，以險峻著稱",
+        "quote": "華山其實離那個西安也不遠",
+        "context": "金庸小說華山論劍地，搭纜車與長空棧道",
         "source": "transcript"
       }
     ]
@@ -28599,15 +29024,15 @@
   {
     "name": "華清池",
     "name_en": "Huaqing Pool",
-    "lat": 34.364,
+    "lat": 34.362,
     "lon": 109.213,
     "country": "中國",
     "region": "亞洲",
     "appearances": [
       {
         "ep": 252,
-        "quote": "有一天的行程就是要去那個看兵馬泳 然後看華清池",
-        "context": "唐玄宗與楊貴妃的故事及西安事變發生地",
+        "quote": "華清池的話它其實也是復刻的經典",
+        "context": "唐玄宗與楊貴妃泡澡之地，西安事變地點",
         "source": "transcript"
       }
     ],
@@ -28616,18 +29041,35 @@
   {
     "name": "萊姆豪斯",
     "name_en": "Limehouse",
-    "lat": 51.512,
-    "lon": -0.035,
+    "lat": 51.5122,
+    "lon": -0.0353,
     "country": "英國",
-    "region": "亞洲",
+    "region": "歐洲",
     "appearances": [
       {
         "ep": 265,
-        "quote": "在倫敦這個華人第一個登入的地方，就是我們今天叫做Limehouse的這個區域",
-        "context": "早期華人在倫敦聚居與做苦力的區域",
+        "quote": "倫敦的這個最多的華人其實聚集在今天的Limehouse",
+        "context": "倫敦最早的唐人街與港口區",
         "source": "transcript"
       }
     ]
+  },
+  {
+    "name": "萊普蒂斯馬格納",
+    "name_en": "Leptis Magna",
+    "lat": 32.638,
+    "lon": 14.291,
+    "country": "利比亞",
+    "region": "非洲",
+    "appearances": [
+      {
+        "ep": 258,
+        "quote": "我講到兩個世界隱藏 第一個叫做 La Peace Magana",
+        "context": "保存完整的羅馬遺跡，有澡堂、道路與競技場",
+        "source": "transcript"
+      }
+    ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Leptis_Magna_%2829%29_%288288918733%29.jpg/330px-Leptis_Magna_%2829%29_%288288918733%29.jpg"
   },
   {
     "name": "萊特納山丘",
@@ -28826,6 +29268,22 @@
     ]
   },
   {
+    "name": "蒙特婁市中心",
+    "name_en": "Downtown Montreal",
+    "lat": 45.502,
+    "lon": -73.573,
+    "country": "加拿大",
+    "region": "美洲",
+    "appearances": [
+      {
+        "ep": 261,
+        "quote": "英語區其實就是比較市中心的那邊",
+        "context": "英法語各半、年輕活力、房租便宜",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
     "name": "蒙特阿爾班",
     "name_en": "Monte Alban",
     "lat": 16.978,
@@ -28841,38 +29299,6 @@
       }
     ],
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Monte_Alban_West_Side_Platform.jpg/330px-Monte_Alban_West_Side_Platform.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "蒙羅伊",
-    "name_en": "Muang Ngoi Neua",
-    "lat": 20.595,
-    "lon": 102.68,
-    "country": "寮國",
-    "region": "亞洲",
-    "appearances": [
-      {
-        "ep": 141,
-        "quote": "蒙羅伊這個村落是它其實不大",
-        "context": "需搭船抵達的原始小村，佈施更貼近日常",
-        "source": "transcript"
-      }
-    ]
-  },
-  {
-    "name": "蒼龍嶺",
-    "name_en": "Canglong Ridge",
-    "lat": 34.488,
-    "lon": 110.083,
-    "country": "中國",
-    "region": "亞洲",
-    "appearances": [
-      {
-        "ep": 252,
-        "quote": "所以他會有一個 叫做蒼龍嶺嘛 就是一路從那個 一路的樓梯",
-        "context": "華山上連續向下的陡峭階梯",
-        "source": "transcript"
-      }
-    ]
   },
   {
     "name": "蓋亞新城",
@@ -29053,6 +29479,22 @@
     ]
   },
   {
+    "name": "薩布拉塔",
+    "name_en": "Sabratha",
+    "lat": 32.804,
+    "lon": 12.484,
+    "country": "利比亞",
+    "region": "非洲",
+    "appearances": [
+      {
+        "ep": 258,
+        "quote": "Sablana的話 它是比較偏向 也是一樣是遺跡",
+        "context": "擁有保存完整的圓形劇場，內戰中未遭破壞",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
     "name": "薩庫瑪國家公園",
     "name_en": "Zakouma National Park",
     "lat": 10.8,
@@ -29198,6 +29640,22 @@
     ]
   },
   {
+    "name": "藍湖溫泉",
+    "name_en": "Blue Lagoon",
+    "lat": 63.881,
+    "lon": -22.449,
+    "country": "冰島",
+    "region": "歐洲",
+    "appearances": [
+      {
+        "ep": 218,
+        "quote": "有一個地方叫藍湖",
+        "context": "全球最大露天溫泉，白泥敷臉",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
     "name": "藍瓶咖啡",
     "name_en": "Blue Bottle Coffee",
     "lat": 37.7826,
@@ -29245,23 +29703,6 @@
         "source": "transcript"
       }
     ]
-  },
-  {
-    "name": "蘇伊士運河",
-    "name_en": "Suez Canal",
-    "lat": 30.585,
-    "lon": 32.265,
-    "country": "埃及",
-    "region": "非洲",
-    "appearances": [
-      {
-        "ep": 258,
-        "quote": "就是把蘇黎社運河 收回來嘛",
-        "context": "提及納塞爾收回該運河的歷史事件",
-        "source": "transcript"
-      }
-    ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Suez_Canal%2C_Egypt_%2831596166706%29.jpg/330px-Suez_Canal%2C_Egypt_%2831596166706%29.jpg"
   },
   {
     "name": "蘇尼薩雷",
@@ -29653,6 +30094,38 @@
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/City_wall_of_Xi%27an_51550-Xian_%2827959363326%29.jpg/330px-City_wall_of_Xi%27an_51550-Xian_%2827959363326%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
+    "name": "西安北站",
+    "name_en": "Xi'an North Railway Station",
+    "lat": 34.376,
+    "lon": 108.94,
+    "country": "中國",
+    "region": "亞洲",
+    "appearances": [
+      {
+        "ep": 252,
+        "quote": "他高鐵站西安北站的部分",
+        "context": "離開西安時遇到拼車騙局的起點",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "name": "西安城牆",
+    "name_en": "Xi'an City Wall",
+    "lat": 34.262,
+    "lon": 108.944,
+    "country": "中國",
+    "region": "亞洲",
+    "appearances": [
+      {
+        "ep": 252,
+        "quote": "西安的那個古城他的城門也是蠻有特色",
+        "context": "城內古色古香，城外高樓林立",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
     "name": "西巴丹島",
     "name_en": "Sipadan Island",
     "lat": 4.115,
@@ -29746,6 +30219,22 @@
         "ep": 236,
         "quote": "一個是Simon's Town旁邊的Borders Beach",
         "context": "熱門企鵝觀賞點，有圍欄",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "name": "西里津",
+    "name_en": "Serikin Border Market",
+    "lat": 1.2167,
+    "lon": 110.0167,
+    "country": "馬來西亞",
+    "region": "亞洲",
+    "appearances": [
+      {
+        "ep": 250,
+        "quote": "那地方叫西里津",
+        "context": "砂印邊界週末市集，可走路過境印尼",
         "source": "transcript"
       }
     ]
@@ -29881,6 +30370,23 @@
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Darvaze_Ghoran11.jpg/330px-Darvaze_Ghoran11.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
+    "name": "詩巫",
+    "name_en": "Sibu",
+    "lat": 2.2873,
+    "lon": 111.8305,
+    "country": "馬來西亞",
+    "region": "亞洲",
+    "appearances": [
+      {
+        "ep": 250,
+        "quote": "他叫石屋他在沙拉月的內陸",
+        "context": "福州人墾場，華人比例高的內陸城市",
+        "source": "transcript"
+      }
+    ],
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Sibu_composite_image.png/330px-Sibu_composite_image.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
     "name": "諾丁山",
     "name_en": "Notting Hill",
     "lat": 51.509,
@@ -29962,16 +30468,16 @@
   },
   {
     "name": "豐島",
-    "name_en": "Teshima",
-    "lat": 34.482,
-    "lon": 134.053,
+    "name_en": "Teshima Island",
+    "lat": 34.485,
+    "lon": 134.093,
     "country": "日本",
     "region": "亞洲",
     "appearances": [
       {
         "ep": 259,
-        "quote": "叫豐島",
-        "context": "在四國旅行時探訪的一座具有荒涼靜謐感的島嶼",
+        "quote": "我那時候去一個其中一個島 叫豐島",
+        "context": "瀨戶內海小島，荒涼安靜，居民約900人",
         "source": "transcript"
       }
     ]
@@ -29979,15 +30485,15 @@
   {
     "name": "豐島美術館",
     "name_en": "Teshima Art Museum",
-    "lat": 34.49,
-    "lon": 134.089,
+    "lat": 34.4838,
+    "lon": 134.0951,
     "country": "日本",
     "region": "亞洲",
     "appearances": [
       {
         "ep": 259,
         "quote": "上面有一個豐島美術館",
-        "context": "形容其獨特的建築與水滴設計帶來強烈靈性體驗",
+        "context": "拱形建築內水珠滾動的靈性空間，作者人生最強烈體驗",
         "source": "transcript"
       }
     ]
@@ -30525,6 +31031,22 @@
     ]
   },
   {
+    "name": "農橋",
+    "name_en": "Nong Khiaw",
+    "lat": 20.568,
+    "lon": 102.612,
+    "country": "寮國",
+    "region": "亞洲",
+    "appearances": [
+      {
+        "ep": 141,
+        "quote": "我在北上到了那個農橋",
+        "context": "前往蒙羅伊的小鎮，作為轉乘點",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
     "name": "近江八幡",
     "name_en": "Omi-Hachiman",
     "lat": 35.128,
@@ -30867,6 +31389,22 @@
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Kumano-Nachi-shrine002.JPG/330px-Kumano-Nachi-shrine002.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
+    "name": "邱園日式勅使門",
+    "name_en": "Chokushimon, Kew Gardens",
+    "lat": 51.4787,
+    "lon": -0.2956,
+    "country": "英國",
+    "region": "歐洲",
+    "appearances": [
+      {
+        "ep": 265,
+        "quote": "現在還留在倫敦的Q Garden裡面",
+        "context": "仿京都西本願寺門的日本庭園之門",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
     "name": "都柏林",
     "name_en": "Dublin",
     "lat": 53.35,
@@ -30894,22 +31432,6 @@
         "ep": 279,
         "quote": "那個時候我們住在臺東的都蘭",
         "context": "提及居住在當地的原因之一是喜歡衝浪",
-        "source": "transcript"
-      }
-    ]
-  },
-  {
-    "name": "醉霞酒吧",
-    "name_en": "Zuixia Bar",
-    "lat": 22.628,
-    "lon": 120.302,
-    "country": "臺灣",
-    "region": "台灣",
-    "appearances": [
-      {
-        "ep": 263,
-        "quote": "高雄有個酒吧叫醉霞我在醉霞喝酒的時候",
-        "context": "講者開始擔任威士忌酒展翻譯的契機",
         "source": "transcript"
       }
     ]
@@ -31011,6 +31533,22 @@
       }
     ],
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Lyon-part-dieu-2023.jpg/330px-Lyon-part-dieu-2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "金三角",
+    "name_en": "Golden Triangle",
+    "lat": 20.3,
+    "lon": 100.1,
+    "country": "泰國",
+    "region": "亞洲",
+    "appearances": [
+      {
+        "ep": 285,
+        "quote": "這所謂的金三角區域",
+        "context": "曾是毒品種植與販運的歷史區域",
+        "source": "transcript"
+      }
+    ]
   },
   {
     "name": "金字塔",
@@ -31226,6 +31764,23 @@
     ]
   },
   {
+    "name": "銀川",
+    "name_en": "Yinchuan",
+    "lat": 38.487,
+    "lon": 106.231,
+    "country": "中國",
+    "region": "亞洲",
+    "appearances": [
+      {
+        "ep": 252,
+        "quote": "銀川是很不錯的他是以前那個什麼西夏首都嗎",
+        "context": "西夏首都，有新建的西夏主題景點",
+        "source": "transcript"
+      }
+    ],
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Skyline_of_Jinfeng_District%2C_Yinchuan_%2853724463112%29.jpg/330px-Skyline_of_Jinfeng_District%2C_Yinchuan_%2853724463112%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
     "name": "銀閣寺",
     "name_en": "Ginkaku-ji",
     "lat": 35.027,
@@ -31245,15 +31800,15 @@
   {
     "name": "鍵善良房",
     "name_en": "Kagizen Yoshifusa",
-    "lat": 35.004,
-    "lon": 135.775,
+    "lat": 35.0035,
+    "lon": 135.7745,
     "country": "日本",
     "region": "亞洲",
     "appearances": [
       {
         "ep": 259,
-        "quote": "一個叫建善良房的",
-        "context": "在京都品嚐傳統甜點葛切，感受獨特寧靜體驗",
+        "quote": "我記得我第一個去吃的是 呃 一個叫建善良房的",
+        "context": "京都百年老店，以葛切體驗安靜卻震撼的口感",
         "source": "transcript"
       }
     ]
@@ -31302,22 +31857,6 @@
         "ep": 77,
         "quote": "叫鐘塔",
         "context": "內有宵禁鐘，晚九點敲響",
-        "source": "transcript"
-      }
-    ]
-  },
-  {
-    "name": "鐘樓廣場星巴克",
-    "name_en": "Bell Tower Square Starbucks",
-    "lat": 34.26,
-    "lon": 108.946,
-    "country": "中國",
-    "region": "亞洲",
-    "appearances": [
-      {
-        "ep": 252,
-        "quote": "我唯一去比較現代 就只有他那個星巴克 廣場內的星巴克",
-        "context": "擁有西安特色美人魚Logo的現代咖啡廳",
         "source": "transcript"
       }
     ]
@@ -31404,16 +31943,16 @@
   },
   {
     "name": "長空棧道",
-    "name_en": "Plank Walk in the Sky",
+    "name_en": "Changkong Plankway, Mount Hua",
     "lat": 34.477,
-    "lon": 110.082,
+    "lon": 110.077,
     "country": "中國",
     "region": "亞洲",
     "appearances": [
       {
         "ep": 252,
-        "quote": "他就是在南峰的一個邊邊 邊邊有個長空戰道 可以去體驗",
-        "context": "華山第一險，建立在絕壁上的棧道",
+        "quote": "他有一個長空戰道",
+        "context": "華山南峰第一險，30公分木板繫安全繩",
         "source": "transcript"
       }
     ]
@@ -31430,22 +31969,6 @@
         "ep": 14,
         "quote": "然後有一個長虹橋我就要過去走過去再走回來",
         "context": "換簽證時出入境的橋",
-        "source": "transcript"
-      }
-    ]
-  },
-  {
-    "name": "門多薩",
-    "name_en": "Mendoza",
-    "lat": -32.8895,
-    "lon": -68.8458,
-    "country": "阿根廷",
-    "region": "美洲",
-    "appearances": [
-      {
-        "ep": 216,
-        "quote": "酒鬼的夢鄉就是他是一個非常非常有名的產酒地方",
-        "context": "葡萄酒產地，作者在此品酒、參加酒莊之旅",
         "source": "transcript"
       }
     ]
@@ -31671,6 +32194,22 @@
         "ep": 170,
         "quote": "就是阿卡德南河,還有水火山,火火山",
         "context": "安地瓜旁的火山，孕育肥沃咖啡產區",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "name": "阿基冰川",
+    "name_en": "Eqip Sermia Glacier",
+    "lat": 69.8,
+    "lon": -50.2,
+    "country": "格陵蘭",
+    "region": "美洲",
+    "appearances": [
+      {
+        "ep": 262,
+        "quote": "它會有一個叫做愛奇冰河，Akiglaser",
+        "context": "搭船可近距離目睹冰山崩落的冰川",
         "source": "transcript"
       }
     ]
@@ -32051,6 +32590,22 @@
     ]
   },
   {
+    "name": "阿空加瓜山",
+    "name_en": "Aconcagua",
+    "lat": -32.653,
+    "lon": -70.011,
+    "country": "阿根廷",
+    "region": "美洲",
+    "appearances": [
+      {
+        "ep": 256,
+        "quote": "阿空加瓜山 6960公尺",
+        "context": "亞洲以外最高峰，旅人在旁泡溫泉",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
     "name": "阿約拉港",
     "name_en": "Puerto Ayora",
     "lat": -0.743,
@@ -32174,8 +32729,8 @@
     "appearances": [
       {
         "ep": 252,
-        "quote": "然後它還有那個陝西歷史博物館 可以去看它的那個相關的一些展覽",
-        "context": "展出歷代帝王陵墓及出土文物的地點",
+        "quote": "還有那個陝西曆史博物館",
+        "context": "可看西安歷代文物展覽",
         "source": "transcript"
       }
     ],
@@ -32249,14 +32804,14 @@
     "name": "雅典衛城",
     "name_en": "Acropolis of Athens",
     "lat": 37.971,
-    "lon": 23.725,
+    "lon": 23.726,
     "country": "希臘",
     "region": "歐洲",
     "appearances": [
       {
         "ep": 258,
-        "quote": "我那時候看到大夫婚的 衛城對不對",
-        "context": "講者分享去雅典看古蹟的經驗",
+        "quote": "衛城 有點失望",
+        "context": "以其遺跡殘破對比利比亞遺跡的完整",
         "source": "transcript"
       }
     ],
@@ -32539,22 +33094,6 @@
     ]
   },
   {
-    "name": "青雲亭",
-    "name_en": "Cheng Hoon Teng Temple",
-    "lat": 2.197,
-    "lon": 102.247,
-    "country": "馬來西亞",
-    "region": "亞洲",
-    "appearances": [
-      {
-        "ep": 250,
-        "quote": "他的本店 就是在馬六甲 老街清雲亭的旁邊",
-        "context": "馬六甲老街旁的著名華人廟宇。",
-        "source": "transcript"
-      }
-    ]
-  },
-  {
     "name": "非斯古城",
     "name_en": "Fes el-Bali",
     "lat": 34.065,
@@ -32668,16 +33207,16 @@
   },
   {
     "name": "餘市蒸餾所",
-    "name_en": "Yoichi Distillery",
-    "lat": 43.184,
-    "lon": 140.792,
+    "name_en": "Nikka Yoichi Distillery",
+    "lat": 43.1894,
+    "lon": 140.7832,
     "country": "日本",
     "region": "亞洲",
     "appearances": [
       {
         "ep": 263,
-        "quote": "還要搭五站才能到這個漁市就是到現在還很不方便",
-        "context": "竹鶴政孝在北海道建立的威士忌酒廠",
+        "quote": "他還在古法釀造的去用這所謂的這個煤炭直火加熱",
+        "context": "竹鶴政孝在北海道創立，堅持煤炭直火蒸餾",
         "source": "transcript"
       }
     ]
@@ -32759,6 +33298,22 @@
         "ep": 5,
         "quote": "他們村子剛好就在那座山的山腰上，所以如果是以單純觀光的目的去那邊的話，只要時間挑對也蠻好玩的",
         "context": "泰國人冬天賞櫻聖地",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "name": "馬六甲老街",
+    "name_en": "Melaka Old Town",
+    "lat": 2.1944,
+    "lon": 102.249,
+    "country": "馬來西亞",
+    "region": "亞洲",
+    "appearances": [
+      {
+        "ep": 250,
+        "quote": "老街清雲亭的旁邊",
+        "context": "提到一場奶茶本店與瓊州會館",
         "source": "transcript"
       }
     ]
@@ -33251,23 +33806,6 @@
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Sunpu-castle_tatsumi-yagura.JPG/330px-Sunpu-castle_tatsumi-yagura.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "驪山",
-    "name_en": "Mount Li",
-    "lat": 34.363,
-    "lon": 109.213,
-    "country": "中國",
-    "region": "亞洲",
-    "appearances": [
-      {
-        "ep": 252,
-        "quote": "當初西安事變的那個地點 就在華清池後面的那個離山上面那邊",
-        "context": "西安事變蔣中正被軟禁的地點",
-        "source": "transcript"
-      }
-    ],
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Yuan_Jiang-At_Mount_Li_Escaping_the_Heat.jpg/330px-Yuan_Jiang-At_Mount_Li_Escaping_the_Heat.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
     "name": "骷髏海岸",
     "name_en": "Skeleton Coast",
     "lat": -20.0,
@@ -33317,17 +33855,34 @@
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Kawthaung_entrance%2C_Myanmar.jpg/330px-Kawthaung_entrance%2C_Myanmar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "高知星期天市集 (朝市)",
-    "name_en": "Kochi Sunday Market",
-    "lat": 33.562,
-    "lon": 133.539,
+    "name": "高松",
+    "name_en": "Takamatsu",
+    "lat": 34.34,
+    "lon": 134.043,
     "country": "日本",
     "region": "亞洲",
     "appearances": [
       {
         "ep": 259,
-        "quote": "因為它禮拜天早上還有一個街市",
-        "context": "在高知逛露天市集，探索當地農家種植的特色柑橘",
+        "quote": "四國的高松 也就是這個河山盆堂的這個來源",
+        "context": "四國最大城市，港口咖啡廳與和三盆體驗",
+        "source": "transcript"
+      }
+    ],
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Hanazyukai20220729_7a.jpg/330px-Hanazyukai20220729_7a.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "高知日曜市（朝市）",
+    "name_en": "Kochi Sunday Market",
+    "lat": 33.56,
+    "lon": 133.531,
+    "country": "日本",
+    "region": "亞洲",
+    "appearances": [
+      {
+        "ep": 259,
+        "quote": "禮拜天早上 還有一個街市",
+        "context": "高知週日朝市，販售柑橘、文旦等當地農產",
         "source": "transcript"
       }
     ]
@@ -33360,39 +33915,6 @@
         "ep": 226,
         "quote": "他當時就去了打狗就是高雄",
         "context": "萬巴德研究熱帶疾病的地點",
-        "source": "transcript"
-      }
-    ]
-  },
-  {
-    "name": "高雄港",
-    "name_en": "Kaohsiung Harbor",
-    "lat": 22.616,
-    "lon": 120.27,
-    "country": "臺灣",
-    "region": "台灣",
-    "appearances": [
-      {
-        "ep": 262,
-        "quote": "其實Illulisat 它是就是一個 想像成高雄海港",
-        "context": "講者用來比喻伊盧利薩特的峽灣地形",
-        "source": "transcript"
-      }
-    ],
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Cityscape_of_Kaohsiung%2C_Taiwan_202303.jpg/330px-Cityscape_of_Kaohsiung%2C_Taiwan_202303.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "魁北克市",
-    "name_en": "Québec City",
-    "lat": 46.81,
-    "lon": -71.21,
-    "country": "加拿大",
-    "region": "美洲",
-    "appearances": [
-      {
-        "ep": 8,
-        "quote": "就到奎格克市",
-        "context": "騎行路線經過點。",
         "source": "transcript"
       }
     ]
@@ -33529,6 +34051,22 @@
     ]
   },
   {
+    "name": "鳴沙山月牙泉",
+    "name_en": "Mingsha Mountain and Crescent Lake",
+    "lat": 40.091,
+    "lon": 94.68,
+    "country": "中國",
+    "region": "亞洲",
+    "appearances": [
+      {
+        "ep": 252,
+        "quote": "那個明沙山跟月牙泉",
+        "context": "敦煌細沙沙漠，騎駱駝賞黃昏",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
     "name": "鳴門漩渦",
     "name_en": "Naruto Whirlpools",
     "lat": 34.2347,
@@ -33612,15 +34150,15 @@
   {
     "name": "鴻門宴遺址",
     "name_en": "Hongmen Banquet Site",
-    "lat": 34.375,
-    "lon": 109.255,
+    "lat": 34.376,
+    "lon": 109.234,
     "country": "中國",
     "region": "亞洲",
     "appearances": [
       {
         "ep": 252,
-        "quote": "我們附近有個就是當初鴻門宴 就是項羽劉邦的那個鴻門宴",
-        "context": "兵馬俑附近的復刻歷史景區",
+        "quote": "我們附近有個就是當初鴻門宴",
+        "context": "項羽劉邦鴻門宴疑似地點，多為新建",
         "source": "transcript"
       }
     ]
@@ -33752,6 +34290,22 @@
         "ep": 6,
         "quote": "我們中間還甚至是 從南京搭火車去爬黃山兩天",
         "context": "騎車途中順道遊覽。",
+        "source": "transcript"
+      }
+    ]
+  },
+  {
+    "name": "黃河（蘭州段）",
+    "name_en": "Yellow River at Lanzhou",
+    "lat": 36.062,
+    "lon": 103.826,
+    "country": "中國",
+    "region": "亞洲",
+    "appearances": [
+      {
+        "ep": 252,
+        "quote": "黃河是就是直接從蘭州市區裡面直接穿過",
+        "context": "黃河穿過蘭州市區，河水真的是黃色",
         "source": "transcript"
       }
     ]
