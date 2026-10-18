@@ -7,7 +7,8 @@
     "country": "马来西亚",
     "region": "亞洲",
     "quote": "很多人会去沙巴爬神山嘛...所谓神山就是他的金纳巴鲁山...马来西亚第一高峰",
-    "context": "马来西亚第一高峰，沙巴旅游亮点"
+    "context": "马来西亚第一高峰，沙巴旅游亮点",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Kinabalu_Sabah_Borneo_Kampong_Kundasang_panorama_2.jpg/330px-Kinabalu_Sabah_Borneo_Kampong_Kundasang_panorama_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "哥打金纳巴鲁",
@@ -17,7 +18,8 @@
     "country": "马来西亚",
     "region": "亞洲",
     "quote": "沙巴的首府是 哥打金纳巴鲁...又成雅壁啊",
-    "context": "沙巴首府，旅行起点与讨论"
+    "context": "沙巴首府，旅行起点与讨论",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Panoramic_view_of_Kota_Kinabalu_City.jpg/330px-Panoramic_view_of_Kota_Kinabalu_City.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "斯里巴加湾",
@@ -27,7 +29,8 @@
     "country": "文莱",
     "region": "亞洲",
     "quote": "汶来的首都叫 斯里巴加万港",
-    "context": "文莱首都，旅行重要一站"
+    "context": "文莱首都，旅行重要一站",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Brunei_Fireworks_%26_Drone_Light_Show_2024_12.jpg/330px-Brunei_Fireworks_%26_Drone_Light_Show_2024_12.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "古晋",
@@ -37,7 +40,8 @@
     "country": "马来西亚",
     "region": "亞洲",
     "quote": "沙拉越的首府 就是古静",
-    "context": "沙拉越首府，旅行重要一站"
+    "context": "沙拉越首府，旅行重要一站",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Kuching_Skyline.jpg/330px-Kuching_Skyline.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "加亚岛",
@@ -47,7 +51,8 @@
     "country": "马来西亚",
     "region": "亞洲",
     "quote": "我们在沙巴的时候 我们就去过一个加亚岛上的甘榜",
-    "context": "沙巴水上甘榜所在地"
+    "context": "沙巴水上甘榜所在地",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Pulau_Gaya_water_village_Kota_Kinabalu_Sabah_aerial_1.jpg/330px-Pulau_Gaya_water_village_Kota_Kinabalu_Sabah_aerial_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "金纳巴鲁渔港",
@@ -67,7 +72,8 @@
     "country": "文莱",
     "region": "亞洲",
     "quote": "在市中心的 问来河 潘 有一块甘榜",
-    "context": "甘榜亚逸所在河流"
+    "context": "甘榜亚逸所在河流",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Brunei_River_%2819042022%29.jpg/330px-Brunei_River_%2819042022%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "甘榜亚逸",
@@ -77,6 +83,7 @@
     "country": "文莱",
     "region": "亞洲",
     "quote": "很经典的甘榜...其实叫甘榜 亚裔",
-    "context": "文莱著名水上村落，与沙巴甘榜对比"
+    "context": "文莱著名水上村落，与沙巴甘榜对比",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Kampong_Ayer_Brunei_Darussalam.jpg/330px-Kampong_Ayer_Brunei_Darussalam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]

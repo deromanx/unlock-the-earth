@@ -7,7 +7,8 @@
     "country": "日本",
     "region": "亞洲",
     "quote": "有个叫郡府城的地方",
-    "context": "战国时期今川义元的根据地"
+    "context": "战国时期今川义元的根据地",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Sunpu-castle_tatsumi-yagura.JPG/330px-Sunpu-castle_tatsumi-yagura.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "桶狭间",
@@ -17,7 +18,8 @@
     "country": "日本",
     "region": "亞洲",
     "quote": "就是在统霞间被之前新城打到",
-    "context": "今川义元战败的历史古战场"
+    "context": "今川义元战败的历史古战场",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Map_%28Okehazama-Midori_Ward-Nagoya-Aichi%29.png/330px-Map_%28Okehazama-Midori_Ward-Nagoya-Aichi%29.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "阳明山",
@@ -27,7 +29,8 @@
     "country": "台湾",
     "region": "亞洲",
     "quote": "但他通常不会去阳明山",
-    "context": "代表台北人的假日休闲踏青地"
+    "context": "代表台北人的假日休闲踏青地",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Mount_Qixing_under_clear_sky_on_13th_February_2016.jpg/330px-Mount_Qixing_under_clear_sky_on_13th_February_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "北投",
@@ -47,7 +50,8 @@
     "country": "台湾",
     "region": "亞洲",
     "quote": "第一次来台北玩的景点其实很固定嘛 101",
-    "context": "观光客初访台北的固定景点"
+    "context": "观光客初访台北的固定景点",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Taipei_101_logo.svg/330px-Taipei_101_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "南门市场",
@@ -88,7 +92,8 @@
     "country": "日本",
     "region": "亞洲",
     "quote": "你只要想到东京 你就会想到东京铁塔",
-    "context": "最经典的东京印象地标"
+    "context": "最经典的东京印象地标",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Tokyo_Tower_2023.jpg/330px-Tokyo_Tower_2023.jpg"
   },
   {
     "name": "浅草",

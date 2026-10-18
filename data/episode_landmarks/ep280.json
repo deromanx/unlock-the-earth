@@ -1,0 +1,84 @@
+[
+  {
+    "name": "金字塔",
+    "name_en": "Pyramids",
+    "lat": 29.9792,
+    "lon": 31.1342,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "我竟然連金字塔都還沒看過",
+    "context": "本次埃及行程的主要驅動力與目標。",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/01_khafre_north.jpg/330px-01_khafre_north.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "人面石身像",
+    "name_en": "Great Sphinx of Giza",
+    "lat": 29.975,
+    "lon": 31.1375,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "隔天才發現人面石身像 就在我正前方 但是前一天是霧到 我完全看不到他",
+    "context": "與金字塔群相鄰的重要古蹟。"
+  },
+  {
+    "name": "大埃及博物館",
+    "name_en": "Grand Egyptian Museum",
+    "lat": 29.9745,
+    "lon": 31.1307,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "大埃及博物館裡面因為新的 就是真的感覺比",
+    "context": "展示大量古埃及文物的現代化博物館。"
+  },
+  {
+    "name": "吉薩",
+    "name_en": "Giza",
+    "lat": 29.9792,
+    "lon": 31.1342,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "然後就直接去住幾殺",
+    "context": "金字塔與人面獅身像所在地，行程住宿點。"
+  },
+  {
+    "name": "開羅",
+    "name_en": "Cairo",
+    "lat": 30.0444,
+    "lon": 31.2357,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "然後阿曼再去開羅",
+    "context": "埃及的首都，行程中的轉運點。",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Cairo_Opera_House%2C_Al_Hurriyah_Park_and_the_Nile_river_%2814797782354%29.jpg/330px-Cairo_Opera_House%2C_Al_Hurriyah_Park_and_the_Nile_river_%2814797782354%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "黑白沙漠",
+    "name_en": "Black and White Desert",
+    "lat": 28.6607,
+    "lon": 28.7077,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "所以我是後來回來才去開羅",
+    "context": "以獨特地貌聞名的沙漠保護區。"
+  },
+  {
+    "name": "金魚谷",
+    "name_en": "Whale Valley (Valley of the Whales)",
+    "lat": 27.9541,
+    "lon": 29.0622,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "因為他就是以前是海裡的地方 現在是變成沙漠",
+    "context": "展示古代海洋生物化石的沙漠景觀。"
+  },
+  {
+    "name": "法尤姆綠洲",
+    "name_en": "Faiyum Oasis",
+    "lat": 29.3064,
+    "lon": 30.6328,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "然後回來之後 就帶我們去法幽牧綠洲",
+    "context": "埃及西部沙漠中的重要綠洲。"
+  }
+]

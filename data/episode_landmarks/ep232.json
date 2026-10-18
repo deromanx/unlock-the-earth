@@ -17,7 +17,8 @@
     "country": "馬達加斯加",
     "region": "非洲",
     "quote": "那边搭车去摩隆达瓦",
-    "context": "前往猴麵包樹大道的必經城鎮，車程遙遠"
+    "context": "前往猴麵包樹大道的必經城鎮，車程遙遠",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Strada_di_Morondava.jpg/330px-Strada_di_Morondava.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "六旗樂園",
@@ -27,7 +28,8 @@
     "country": "美國",
     "region": "美洲",
     "quote": "就发现你知道在洛杉矶有个六骑乐园吗",
-    "context": "曾舉辦生吃馬達加斯加蟑螂以換取特權的活動"
+    "context": "曾舉辦生吃馬達加斯加蟑螂以換取特權的活動",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Six_Flags_Magic_Mountain_Entrance_Plaza_April_2026.jpg/330px-Six_Flags_Magic_Mountain_Entrance_Plaza_April_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "海德堡",

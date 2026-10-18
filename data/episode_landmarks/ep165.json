@@ -17,7 +17,8 @@
     "country": "中國香港",
     "region": "亞洲",
     "quote": "香港的第二高峰叫做鳳凰山，其實就在大嶼山...我到了那個鳳凰山的山下",
-    "context": "嘉賓分享在香港第一次行山的具體地點與慘痛經驗"
+    "context": "嘉賓分享在香港第一次行山的具體地點與慘痛經驗",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Lantau_Peak%2C_Hongkong.jpg/330px-Lantau_Peak%2C_Hongkong.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "大嶼山",
@@ -27,7 +28,8 @@
     "country": "中國香港",
     "region": "亞洲",
     "quote": "機場它的地點就在大嶼山，大嶼山其實本身就是一個非常有名的爬山的地方",
-    "context": "介紹機場所在地以及香港知名的登山區域"
+    "context": "介紹機場所在地以及香港知名的登山區域",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Lantau_Island_-_Hong_Kong.svg/330px-Lantau_Island_-_Hong_Kong.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "草悟道",
@@ -37,6 +39,7 @@
     "country": "台灣",
     "region": "台灣",
     "quote": "歡迎大家到台中市最綠意盎然的草務道，共同支持在地優質的新創品牌",
-    "context": "主持人推薦聽眾造訪的台中市知名綠色廊道"
+    "context": "主持人推薦聽眾造訪的台中市知名綠色廊道",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/%E7%B6%93%E5%9C%8B%E5%9C%92%E9%81%93%28%E8%8D%89%E6%82%9F%E9%81%93%29.JPG/330px-%E7%B6%93%E5%9C%8B%E5%9C%92%E9%81%93%28%E8%8D%89%E6%82%9F%E9%81%93%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]

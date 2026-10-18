@@ -1,22 +1,156 @@
 [
   {
-    "name": "马亢山（安康山）",
+    "name": "馬亢山",
     "name_en": "Doi Ang Khang",
-    "lat": 19.902,
-    "lon": 99.039,
-    "country": "泰国",
+    "lat": 19.8906,
+    "lon": 99.0436,
+    "country": "泰國",
     "region": "亞洲",
-    "quote": "那座山的中文我们都叫马亢山",
-    "context": "来宾当志工的村落所在地，也是泰国人的赏樱圣地"
+    "quote": "他們村子剛好就在那座山的山腰上，所以如果是以單純觀光的目的去那邊的話，只要時間挑對也蠻好玩的",
+    "context": "泰國人冬天賞櫻聖地"
   },
   {
-    "name": "清迈古城",
+    "name": "清邁古城",
     "name_en": "Chiang Mai Old City",
-    "lat": 18.787,
-    "lon": 98.987,
-    "country": "泰国",
+    "lat": 18.788,
+    "lon": 98.9847,
+    "country": "泰國",
     "region": "亞洲",
-    "quote": "太阳还没有很热的时候就开始出去走他们的青麦古城里面的街道",
-    "context": "来宾推荐清晨去散步与参观庙宇的地方"
+    "quote": "每次去清邁都會排一個行程，就大概早上五點多太陽還沒有很熱的時候就開始出去走他們的清邁古城裡面的街道",
+    "context": "徒步逛街、寺廟、和尚"
+  },
+  {
+    "name": "日惹",
+    "name_en": "Yogyakarta",
+    "lat": -7.7956,
+    "lon": 110.3695,
+    "country": "印尼",
+    "region": "亞洲",
+    "quote": "我去爪哇島印尼爪哇島的日惹的時候，在我們住的那個hostel下面，就每天都有固定那幾個人在那邊用電腦用一整天喔",
+    "context": "數位遊牧者駐點"
+  },
+  {
+    "name": "峇里島",
+    "name_en": "Bali Island",
+    "lat": -8.4095,
+    "lon": 115.1889,
+    "country": "印尼",
+    "region": "亞洲",
+    "quote": "比較紅的那種數碼遊牧點，像還有峇里島啊",
+    "context": "數碼遊牧推薦地點"
+  },
+  {
+    "name": "普吉島",
+    "name_en": "Phuket Island",
+    "lat": 7.9519,
+    "lon": 98.3381,
+    "country": "泰國",
+    "region": "亞洲",
+    "quote": "為什麼要抵制泰國旅遊業？因為他們好像去年底在普吉島有發生船難",
+    "context": "中國遊客船難，村民工作地"
+  },
+  {
+    "name": "曼谷中國城",
+    "name_en": "Bangkok Chinatown",
+    "lat": 13.7397,
+    "lon": 100.506,
+    "country": "泰國",
+    "region": "亞洲",
+    "quote": "我們那時候去曼谷的時候，我們不是有一起去那個等於說是中國城嗎",
+    "context": "潮州人後裔聚集地"
+  },
+  {
+    "name": "南府",
+    "name_en": "Nan",
+    "lat": 18.7834,
+    "lon": 100.7712,
+    "country": "泰國",
+    "region": "亞洲",
+    "quote": "我近期最喜歡的兩個城市，一個是清邁東邊的南",
+    "context": "較小規模古城，推薦地點"
+  },
+  {
+    "name": "湄豐頌",
+    "name_en": "Mae Hong Son",
+    "lat": 19.3005,
+    "lon": 97.962,
+    "country": "泰國",
+    "region": "亞洲",
+    "quote": "另外一個是清邁西邊的，湄豐頌",
+    "context": "偏大自然景觀，推薦地點"
+  },
+  {
+    "name": "清萊",
+    "name_en": "Chiang Rai",
+    "lat": 19.9039,
+    "lon": 99.8325,
+    "country": "泰國",
+    "region": "亞洲",
+    "quote": "一個是從北邊的清萊，然後走到緬甸的大其力",
+    "context": "泰緬邊境穿越路線起點"
+  },
+  {
+    "name": "大其力",
+    "name_en": "Tachileik",
+    "lat": 20.4578,
+    "lon": 99.8803,
+    "country": "緬甸",
+    "region": "亞洲",
+    "quote": "一個是從北邊的清萊，然後走到緬甸的大其力",
+    "context": "泰緬邊境城市，孤軍戰地",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Wat_Phra_Dhatu_Doi_Wao_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B8%94%E0%B8%AD%E0%B8%A2%E0%B9%80%E0%B8%A7%E0%B8%B2_%28October_2021%29_-_img_07.jpg/330px-Wat_Phra_Dhatu_Doi_Wao_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B8%94%E0%B8%AD%E0%B8%A2%E0%B9%80%E0%B8%A7%E0%B8%B2_%28October_2021%29_-_img_07.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "湄索",
+    "name_en": "Mae Sot",
+    "lat": 16.7118,
+    "lon": 98.5369,
+    "country": "泰國",
+    "region": "亞洲",
+    "quote": "另外一個是從西邊的湄索，然後直接走到緬甸的苗瓦底",
+    "context": "泰緬邊境穿越路線起點"
+  },
+  {
+    "name": "苗瓦底",
+    "name_en": "Myawaddy",
+    "lat": 16.6667,
+    "lon": 98.5,
+    "country": "緬甸",
+    "region": "亞洲",
+    "quote": "另外一個是從西邊的湄索，然後直接走到緬甸的苗瓦底",
+    "context": "泰緬邊境城市",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Myawaddy_street.jpg/330px-Myawaddy_street.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "瓦城",
+    "name_en": "Mandalay",
+    "lat": 21.9747,
+    "lon": 96.0833,
+    "country": "緬甸",
+    "region": "亞洲",
+    "quote": "大家不知道有沒有看過再見瓦城這部電影",
+    "context": "電影背景城市，緬甸移民故事",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Mandalay%2C_Myanmar.jpg/330px-Mandalay%2C_Myanmar.jpg"
+  },
+  {
+    "name": "合艾",
+    "name_en": "Hat Yai",
+    "lat": 7.0097,
+    "lon": 100.474,
+    "country": "泰國",
+    "region": "亞洲",
+    "quote": "然後進到泰國南部，像合艾",
+    "context": "泰國南部城市"
+  },
+  {
+    "name": "仰光",
+    "name_en": "Yangon",
+    "lat": 16.8409,
+    "lon": 96.1735,
+    "country": "緬甸",
+    "region": "亞洲",
+    "quote": "從緬甸出發，嗯，比如說從仰光",
+    "context": "緬甸城市，旅程起點設想",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/ShwedagonPagoda.jpg/330px-ShwedagonPagoda.jpg"
   }
 ]

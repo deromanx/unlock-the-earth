@@ -1,0 +1,55 @@
+[
+  {
+    "name": "古晉",
+    "name_en": "Kuching",
+    "lat": 1.556,
+    "lon": 110.355,
+    "country": "馬來西亞",
+    "region": "亞洲",
+    "quote": "錄完之後過沒多久我就去了",
+    "context": "之前一集Podcast討論過的地點",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Kuching_Skyline.jpg/330px-Kuching_Skyline.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "淡江大學",
+    "name_en": "Tamkang University",
+    "lat": 25.176,
+    "lon": 121.389,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "我們那時候，因為我念淡江大學，然後每年會有僑生展",
+    "context": "講者大學時期學習地理知識的場所"
+  },
+  {
+    "name": "泰姬瑪哈陵",
+    "name_en": "Taj Mahal",
+    "lat": 27.175,
+    "lon": 78.042,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "那一年就有個大大的太極馬哈林掛布還是怎麼在那邊，我就覺得很漂亮",
+    "context": "學生時期因掛布而認識印度地標",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Taj_Mahal_%28Edited%29.jpeg/330px-Taj_Mahal_%28Edited%29.jpeg"
+  },
+  {
+    "name": "德里",
+    "name_en": "Delhi",
+    "lat": 28.613,
+    "lon": 77.209,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "那個時候台灣還有直飛印度的，滑航直飛德里",
+    "context": "講者首次印度旅程的直飛目的地",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Jama_Masjid_2011.jpg/330px-Jama_Masjid_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "印度金三角",
+    "name_en": "Golden Triangle (India)",
+    "lat": 27.175,
+    "lon": 78.042,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "七天金三角",
+    "context": "講者第一次去印度旅遊的路線"
+  }
+]

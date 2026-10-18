@@ -1,0 +1,52 @@
+[
+  {
+    "name": "布朗斯堡",
+    "name_en": "Brunsburg",
+    "lat": 3.5,
+    "lon": -56.0,
+    "country": "苏里南",
+    "region": "美洲",
+    "quote": "比如像是Brunsburg是一个很出名的",
+    "context": "南部雨林中的著名景点"
+  },
+  {
+    "name": "马龙人村落",
+    "name_en": "Maroon villages",
+    "lat": 3.5,
+    "lon": -56.0,
+    "country": "苏里南",
+    "region": "美洲",
+    "quote": "非常多的就是马龙人的村落",
+    "context": "南部雨林，西非奴隶后裔居住地"
+  },
+  {
+    "name": "中国市集",
+    "name_en": "Chinese Market",
+    "lat": 5.819,
+    "lon": -55.187,
+    "country": "苏里南",
+    "region": "美洲",
+    "quote": "一个是中国的",
+    "context": "华人（客家人）聚集的周末市集"
+  },
+  {
+    "name": "爪哇市集",
+    "name_en": "Javanese Market",
+    "lat": 5.819,
+    "lon": -55.187,
+    "country": "苏里南",
+    "region": "美洲",
+    "quote": "一个是Javanese",
+    "context": "爪哇族裔聚集的周末市集"
+  },
+  {
+    "name": "24hostel",
+    "name_en": "24hostel",
+    "lat": 5.83,
+    "lon": -55.195,
+    "country": "苏里南",
+    "region": "美洲",
+    "quote": "这个叫做24hostel",
+    "context": "旅馆，是认识当地人和创业者的据点"
+  }
+]

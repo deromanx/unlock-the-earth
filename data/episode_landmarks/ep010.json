@@ -1,1 +1,217 @@
-[]
+[
+  {
+    "name": "馬拉加 (陽光)",
+    "name_en": "Málaga",
+    "lat": 36.721,
+    "lon": -4.421,
+    "country": "西班牙",
+    "region": "歐洲",
+    "quote": "像譬如說我講陽光，可是那一趟旅程我不只待陽光。",
+    "context": "討論旅遊攻略時提及曾造訪的城市。",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Da_Gibralfaro_%28cropped%292.jpg/330px-Da_Gibralfaro_%28cropped%292.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "西藏",
+    "name_en": "Tibet",
+    "lat": 30.297,
+    "lon": 90.963,
+    "country": "中國",
+    "region": "亞洲",
+    "quote": "就我之前去西藏前買的。",
+    "context": "提及旅行神器「旅行毛巾」的使用場景。"
+  },
+  {
+    "name": "泰國",
+    "name_en": "Thailand",
+    "lat": 13.756,
+    "lon": 100.502,
+    "country": "泰國",
+    "region": "亞洲",
+    "quote": "我在泰國上廁所的時候，他是，我就說上小號。",
+    "context": "分享在國外上廁所的奇特經歷。",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/330px-Flag_of_Thailand.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "巴黎",
+    "name_en": "Paris",
+    "lat": 48.857,
+    "lon": 2.352,
+    "country": "法國",
+    "region": "歐洲",
+    "quote": "有一次我去巴黎玩的時候，然後就會被人家騙錢。",
+    "context": "分享在國外遇到的最大挫折，被雜耍詐騙。",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/330px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "西班牙",
+    "name_en": "Spain",
+    "lat": 40.464,
+    "lon": -3.749,
+    "country": "西班牙",
+    "region": "歐洲",
+    "quote": "我有去過西班牙。",
+    "context": "聽眾提問希望討論的地點，主持人曾造訪。",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Flag_of_the_Kingdom_of_Spain.svg/330px-Flag_of_the_Kingdom_of_Spain.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "斯里蘭卡",
+    "name_en": "Sri Lanka",
+    "lat": 7.873,
+    "lon": 80.772,
+    "country": "斯里蘭卡",
+    "region": "亞洲",
+    "quote": "不過斯里蘭卡我也是沒去過，但是身邊很多朋友去過。",
+    "context": "聽眾希望討論的地點，主持人表示可邀請朋友分享。"
+  },
+  {
+    "name": "印度",
+    "name_en": "India",
+    "lat": 20.594,
+    "lon": 78.963,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "印度的話應該可以找到人，你有朋友去過，有啊近年來去印度的台灣人很多。",
+    "context": "聽眾希望討論的地點，主持人提及不少朋友曾自助旅行。",
+    "image": "https://thumb.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/330px-Flag_of_India.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "以色列",
+    "name_en": "Israel",
+    "lat": 31.046,
+    "lon": 34.852,
+    "country": "以色列",
+    "region": "亞洲",
+    "quote": "中東的話大部分是以色列，對啊我有朋友去過以色列。",
+    "context": "聽眾希望討論的地點，主持人表示有朋友曾造訪。",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/330px-Flag_of_Israel.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "希臘",
+    "name_en": "Greece",
+    "lat": 39.074,
+    "lon": 21.824,
+    "country": "希臘",
+    "region": "歐洲",
+    "quote": "希臘我兩年前還去過，你感覺蠻熟的，其實也沒有蠻熟的啦，我去了三四個點是還OK。",
+    "context": "聽眾希望討論的地點，主持人曾造訪多處。",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/330px-Flag_of_Greece.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "聖托里尼島",
+    "name_en": "Santorini Island",
+    "lat": 36.393,
+    "lon": 25.461,
+    "country": "希臘",
+    "region": "歐洲",
+    "quote": "譬如說聖托里尼島，他還有服務項目是幫你辦婚禮。",
+    "context": "提及希臘聖托里尼島提供辦婚禮的旅遊服務。"
+  },
+  {
+    "name": "冰島",
+    "name_en": "Iceland",
+    "lat": 64.963,
+    "lon": -19.021,
+    "country": "冰島",
+    "region": "歐洲",
+    "quote": "對冰島一直沒有什麼興趣，太多人去了嗎，太多人去是一個點啦。",
+    "context": "聽眾希望討論的地點，主持人分析為何興趣不大。",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/330px-Flag_of_Iceland.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "衣索比亞",
+    "name_en": "Ethiopia",
+    "lat": 9.145,
+    "lon": 40.49,
+    "country": "衣索比亞",
+    "region": "非洲",
+    "quote": "我有個朋友，他在目前在Essopia工作，下次他回來的時候，搞不好趁亂找他錄一集。",
+    "context": "提及有朋友在該國工作，考慮邀請分享。",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_Ethiopia.svg/330px-Flag_of_Ethiopia.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "哈薩克",
+    "name_en": "Kazakhstan",
+    "lat": 48.02,
+    "lon": 66.924,
+    "country": "哈薩克",
+    "region": "亞洲",
+    "quote": "所謂中亞五國就是哈薩克啊，烏茲別克啊，吉爾吉斯，塔吉克。",
+    "context": "提及中亞五國之一，討論朋友旅遊路線。"
+  },
+  {
+    "name": "烏茲別克",
+    "name_en": "Uzbekistan",
+    "lat": 41.377,
+    "lon": 64.585,
+    "country": "烏茲別克",
+    "region": "亞洲",
+    "quote": "所謂中亞五國就是哈薩克啊，烏茲別克啊，吉爾吉斯，塔吉克。",
+    "context": "提及中亞五國之一。"
+  },
+  {
+    "name": "吉爾吉斯",
+    "name_en": "Kyrgyzstan",
+    "lat": 41.204,
+    "lon": 74.766,
+    "country": "吉爾吉斯",
+    "region": "亞洲",
+    "quote": "所謂中亞五國就是哈薩克啊，烏茲別克啊，吉爾吉斯，塔吉克。",
+    "context": "提及中亞五國之一。",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Flag_of_Kyrgyzstan.svg/330px-Flag_of_Kyrgyzstan.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "塔吉克",
+    "name_en": "Tajikistan",
+    "lat": 38.861,
+    "lon": 71.276,
+    "country": "塔吉克",
+    "region": "亞洲",
+    "quote": "所謂中亞五國就是哈薩克啊，烏茲別克啊，吉爾吉斯，塔吉克。",
+    "context": "提及中亞五國之一。",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Tajikistan.svg/330px-Flag_of_Tajikistan.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "土庫曼",
+    "name_en": "Turkmenistan",
+    "lat": 38.97,
+    "lon": 59.556,
+    "country": "土庫曼",
+    "region": "亞洲",
+    "quote": "土庫曼果然是存在感比較低，也名字都想不起。欸你真的很失禮耶。",
+    "context": "討論中亞五國時，特別提及土庫曼的特色與旅遊現況。",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Turkmenistan.svg/330px-Flag_of_Turkmenistan.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "北韓",
+    "name_en": "North Korea",
+    "lat": 40.34,
+    "lon": 127.51,
+    "country": "北韓",
+    "region": "亞洲",
+    "quote": "有人說想要請我們去北韓，我自己是蠻想去的。",
+    "context": "聽眾希望討論的地點，主持人表示有興趣。",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Flag_of_North_Korea_%2820-33%29.svg/330px-Flag_of_North_Korea_%2820-33%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "巴布亞牛吉內亞",
+    "name_en": "Papua New Guinea",
+    "lat": -6.315,
+    "lon": 143.955,
+    "country": "巴布亞紐幾內亞",
+    "region": "大洋洲",
+    "quote": "可是我最想去的國家，就是巴布亞牛吉內亞。",
+    "context": "主持人分享自己最想去的國家。",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Papua_New_Guinea.svg/330px-Flag_of_Papua_New_Guinea.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "印尼",
+    "name_en": "Indonesia",
+    "lat": -0.789,
+    "lon": 113.921,
+    "country": "印尼",
+    "region": "亞洲",
+    "quote": "它是這個巴布亞島，它中間切一半，左邊是印尼的領土。",
+    "context": "解釋巴布亞島的地理劃分。",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/330px-Flag_of_Indonesia.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  }
+]

@@ -37,7 +37,8 @@
     "country": "澳洲",
     "region": "大洋洲",
     "quote": "在博斯那边有一个 比较大的华人巨礼 其实叫做北桥",
-    "context": "伯斯的華人區，有許多亞洲超市與餐廳"
+    "context": "伯斯的華人區，有許多亞洲超市與餐廳",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Motherboard_diagram.svg/langzh-330px-Motherboard_diagram.svg.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "倫敦閣",
@@ -47,7 +48,8 @@
     "country": "澳洲",
     "region": "大洋洲",
     "quote": "其实附近 还有一个叫伦敦阁",
-    "context": "充滿英式風情的步道與特色商店街"
+    "context": "充滿英式風情的步道與特色商店街",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/.00_2609_London_Court_shopping_arcade_in_Perth_%28Australia%29.jpg/330px-.00_2609_London_Court_shopping_arcade_in_Perth_%28Australia%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "博斯監獄（弗里曼特爾監獄）",
@@ -57,6 +59,7 @@
     "country": "澳洲",
     "region": "大洋洲",
     "quote": "然后其中一个很重要的就是有一个博士监狱",
-    "context": "歷史悠久的監獄古蹟，擁有特殊的地下水道行程"
+    "context": "歷史悠久的監獄古蹟，擁有特殊的地下水道行程",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Freo_prison_WMAU_gnangarra-131.jpg/330px-Freo_prison_WMAU_gnangarra-131.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]

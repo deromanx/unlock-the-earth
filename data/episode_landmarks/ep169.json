@@ -1,1 +1,53 @@
-[]
+[
+  {
+    "name": "克里米亞半島",
+    "name_en": "Crimea",
+    "lat": 45.345,
+    "lon": 34.426,
+    "country": "烏克蘭",
+    "region": "歐洲",
+    "quote": "他當初已經可以直接嫌疑到南岸，就是克里米亞那附近",
+    "context": "羅斯維京人曾到達此半島附近"
+  },
+  {
+    "name": "君士坦丁堡",
+    "name_en": "Constantinople",
+    "lat": 41.008,
+    "lon": 28.978,
+    "country": "土耳其",
+    "region": "歐洲",
+    "quote": "差點那個時候當下君士坦尼寶第一次知道的這種傢伙存在",
+    "context": "羅斯維京人曾攻打的拜占庭帝國首都",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Byzantine_Constantinople-en.png/330px-Byzantine_Constantinople-en.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "巴黎西堤島",
+    "name_en": "Île de la Cité, Paris",
+    "lat": 48.856,
+    "lon": 2.347,
+    "country": "法國",
+    "region": "歐洲",
+    "quote": "那個時候巴黎只是中央的一個小島",
+    "context": "維京人襲擊時的早期巴黎核心區"
+  },
+  {
+    "name": "塞納河",
+    "name_en": "Seine River",
+    "lat": 48.856,
+    "lon": 2.352,
+    "country": "法國",
+    "region": "歐洲",
+    "quote": "我今天在塞納河畔，船停在旁邊喝了一杯咖啡",
+    "context": "維京船隻可從此河航向大海"
+  },
+  {
+    "name": "盧娜古城",
+    "name_en": "Luna (ancient city)",
+    "lat": 44.053,
+    "lon": 10.03,
+    "country": "義大利",
+    "region": "歐洲",
+    "quote": "它在打的是一個意大利的城市叫做Luna",
+    "context": "維京人哈斯坦英曾攻陷的義大利城市"
+  }
+]

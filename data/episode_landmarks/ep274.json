@@ -1,0 +1,43 @@
+[
+  {
+    "name": "東京鐵塔",
+    "name_en": "Tokyo Tower",
+    "lat": 35.65858,
+    "lon": 139.74543,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "你看圖案中的東京鐵塔是這個 然後這個你現在看到就是東京鐵塔",
+    "context": "透過繪本認識並實際看見的地標。",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Tokyo_Tower_2023.jpg/330px-Tokyo_Tower_2023.jpg"
+  },
+  {
+    "name": "銀山溫泉",
+    "name_en": "Ginzan Onsen",
+    "lat": 38.5833,
+    "lon": 140.4,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "然後那時候在銀山溫泉 然後我就在拍景 然後所以就忘了卡住 它就一路滑滑滑滑滑滑 差點掉到河裡",
+    "context": "小孩推車差點滑入河中的地點，驚險回憶。"
+  },
+  {
+    "name": "樂高樂園",
+    "name_en": "Legoland Japan Resort",
+    "lat": 35.0689,
+    "lon": 136.8049,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "我們去了樂高樂園 那天太多小孩子了 然後我們並沒有好好的一直洗手 然後我們就在大阪就中標 就全部倒了三天",
+    "context": "全家人生病的地點，因人多未勤洗手。"
+  },
+  {
+    "name": "峇里島",
+    "name_en": "Bali",
+    "lat": -8.4095,
+    "lon": 115.1889,
+    "country": "印尼",
+    "region": "亞洲",
+    "quote": "所以像我們去峇里島什麼 他們都沒有拉肚子",
+    "context": "小孩從小吃土，去峇里島也沒拉肚子。"
+  }
+]

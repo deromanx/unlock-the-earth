@@ -1,0 +1,73 @@
+[
+  {
+    "name": "美思樂",
+    "name_en": "Mae Salong",
+    "lat": 19.833,
+    "lon": 99.659,
+    "country": "泰國",
+    "region": "亞洲",
+    "quote": "美思乐这个地方其实不止美思乐，只是美思乐是太北孤军华人村最大的地方",
+    "context": "泰緬孤軍後裔最大聚落，茶葉產區"
+  },
+  {
+    "name": "帕黨村",
+    "name_en": "Pha Tang Village",
+    "lat": 20.101,
+    "lon": 100.29,
+    "country": "泰國",
+    "region": "亞洲",
+    "quote": "帕党村是曾经孤军跟泰贡交火的战场",
+    "context": "孤軍與泰共交火的歷史戰場"
+  },
+  {
+    "name": "102高地",
+    "name_en": "102 Highland",
+    "lat": 20.104,
+    "lon": 100.29,
+    "country": "泰國",
+    "region": "亞洲",
+    "quote": "帕党村的有一个叫做102高地",
+    "context": "孤軍曾在此地作戰的歷史景點"
+  },
+  {
+    "name": "金三角",
+    "name_en": "Golden Triangle",
+    "lat": 20.3,
+    "lon": 100.1,
+    "country": "泰國",
+    "region": "亞洲",
+    "quote": "这所谓的金三角区域",
+    "context": "曾是毒品種植與販運的歷史區域"
+  },
+  {
+    "name": "清萊",
+    "name_en": "Chiang Rai",
+    "lat": 19.909,
+    "lon": 99.83,
+    "country": "泰國",
+    "region": "亞洲",
+    "quote": "我那时候搭那个双条车上去，你说从青莱的市区，然后搭双条车上到美思乐",
+    "context": "前往美思樂的起點城市"
+  },
+  {
+    "name": "清邁",
+    "name_en": "Chiang Mai",
+    "lat": 18.788,
+    "lon": 98.985,
+    "country": "泰國",
+    "region": "亞洲",
+    "quote": "清迈在往北的一个对一个府嘛",
+    "context": "泰國北部重要城市，地理位置參考",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/0020-%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B9%8C%E0%B8%A7%E0%B8%A3%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3.jpg/330px-0020-%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B9%8C%E0%B8%A7%E0%B8%A3%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "考科考牙山",
+    "name_en": "Khao Kho Ya Mountain",
+    "lat": 17.061,
+    "lon": 100.788,
+    "country": "泰國",
+    "region": "亞洲",
+    "quote": "最终就是在考科考牙山战役",
+    "context": "泰共與孤軍交戰的山區"
+  }
+]

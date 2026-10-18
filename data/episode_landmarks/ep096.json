@@ -17,7 +17,8 @@
     "country": "巴基斯坦",
     "region": "亞洲",
     "quote": "他在山頭上有一個碉堡，以前曾經是一個獨立的王國",
-    "context": "位於罕薩谷地的歷史建築，象徵當地過去的王國歷史。"
+    "context": "位於罕薩谷地的歷史建築，象徵當地過去的王國歷史。",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Baltit_fort%2C_Hunza_Valley.jpg/330px-Baltit_fort%2C_Hunza_Valley.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "伊斯蘭堡",
@@ -27,7 +28,8 @@
     "country": "巴基斯坦",
     "region": "亞洲",
     "quote": "在 Istamabad 在他們首都，有遇到一個蠻ㄎㄧㄤ的經驗",
-    "context": "講者在首都沙發衝浪時，意外住進「妓院」大樓的經歷地。"
+    "context": "講者在首都沙發衝浪時，意外住進「妓院」大樓的經歷地。",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Faisal_Mosque%2C_Islamabad_III.jpg/330px-Faisal_Mosque%2C_Islamabad_III.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "吉爾吉特",
@@ -37,7 +39,8 @@
     "country": "巴基斯坦",
     "region": "亞洲",
     "quote": "當初沒有去吉爾吉特這樣",
-    "context": "前往罕薩之前的交通樞紐城市，也是講者提到的旅遊遺憾。"
+    "context": "前往罕薩之前的交通樞紐城市，也是講者提到的旅遊遺憾。",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Gilgit_City_a_View_from_Gilgit_serena_hotel.jpg/330px-Gilgit_City_a_View_from_Gilgit_serena_hotel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "拉合爾",
@@ -47,7 +50,8 @@
     "country": "巴基斯坦",
     "region": "亞洲",
     "quote": "在 Lahore 的朋友，他們就是很隔空觀照",
-    "context": "講者在當地結識朋友並獲得協助的重要城市。"
+    "context": "講者在當地結識朋友並獲得協助的重要城市。",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Lahore_Fort_view_from_Baradari.jpg/330px-Lahore_Fort_view_from_Baradari.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "台中市議會",
@@ -57,7 +61,8 @@
     "country": "台灣",
     "region": "台灣",
     "quote": "帶民眾透過台中議會議事流程",
-    "context": "開場介紹中提到將舉辦市政監督工作坊的地點。"
+    "context": "開場介紹中提到將舉辦市政監督工作坊的地點。",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Taichung_City_Council_2024.svg/330px-Taichung_City_Council_2024.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "台中舊城區",

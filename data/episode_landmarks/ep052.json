@@ -67,7 +67,8 @@
     "country": "墨西哥",
     "region": "美洲",
     "quote": "一起去那個歌劇院 墨西哥城的歌劇院",
-    "context": "舉辦踢踏舞芭蕾等表演的古典巴洛克風格建築"
+    "context": "舉辦踢踏舞芭蕾等表演的古典巴洛克風格建築",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Bellas_Artes_01.jpg/330px-Bellas_Artes_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "Takashakara (卡卡什特拉遺址)",
@@ -127,7 +128,8 @@
     "country": "墨西哥",
     "region": "美洲",
     "quote": "它就是有個亡靈大道 有月亮金字塔 然後太陽金字塔",
-    "context": "提奧地華乾遺址內的重要金字塔"
+    "context": "提奧地華乾遺址內的重要金字塔",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/2020-02-11_Teotihuacan_la_Avenida_de_los_Muertos_y_la_Pir%C3%A1mide_del_Sol.jpg/330px-2020-02-11_Teotihuacan_la_Avenida_de_los_Muertos_y_la_Pir%C3%A1mide_del_Sol.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "奇形易渣 (奇琴伊察)",
@@ -237,7 +239,8 @@
     "country": "墨西哥",
     "region": "美洲",
     "quote": "它跟蛇王朝 就是卡拉木遺址 是對立的",
-    "context": "歷史上與蒂卡爾對立的蛇王朝城邦遺址"
+    "context": "歷史上與蒂卡爾對立的蛇王朝城邦遺址",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Pir%C3%A1mides_de_Calakmul.JPG/330px-Pir%C3%A1mides_de_Calakmul.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "Forest (弗洛雷斯)",

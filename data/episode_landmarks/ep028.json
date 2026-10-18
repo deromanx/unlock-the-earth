@@ -1,42 +1,63 @@
 [
   {
-    "name": "哇咪那",
-    "name_en": "Wamena",
-    "lat": -4.094,
-    "lon": 138.95,
+    "name": "西巴布亞",
+    "name_en": "West Papua",
+    "lat": -3.9,
+    "lon": 138.5,
     "country": "印尼",
     "region": "亞洲",
-    "quote": "我去的那個城鎮叫哇咪那",
-    "context": "Ben前往探索食人族部落的起點城鎮，當地無網路訊號。"
+    "quote": "我第一次看到是那個 就是西八布亞",
+    "context": "主要討論的地點"
+  },
+  {
+    "name": "爪哇島",
+    "name_en": "Java Island",
+    "lat": -7.0,
+    "lon": 111.0,
+    "country": "印尼",
+    "region": "亞洲",
+    "quote": "爪哇島比較算是印尼的政經的中心",
+    "context": "印尼的政經中心"
+  },
+  {
+    "name": "瓦米納",
+    "name_en": "Wamena",
+    "lat": -4.076,
+    "lon": 138.938,
+    "country": "印尼",
+    "region": "亞洲",
+    "quote": "然後再到那個瓦米納 就是我去拍影片的那個地方",
+    "context": "拍攝影片的城鎮",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Wamena%2C_Papua%2C_Indonesia_2019_09.jpg/330px-Wamena%2C_Papua%2C_Indonesia_2019_09.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "吉巴馬",
-    "name_en": "Jibama",
-    "lat": -4.088,
-    "lon": 138.924,
+    "name_en": "Jibama (Bus Station)",
+    "lat": -4.1,
+    "lon": 138.95,
     "country": "印尼",
     "region": "亞洲",
-    "quote": "那個公車站其實還蠻好玩的，他名字叫吉巴馬",
-    "context": "Ben為了前往深山部落而尋找的小巴公車站。"
+    "quote": "他名字叫吉巴馬 吉巴馬",
+    "context": "搭乘小巴的公車站"
   },
   {
-    "name": "蘇羅巴",
-    "name_en": "Suroba",
-    "lat": -4.015,
-    "lon": 138.945,
+    "name": "蘇羅巴部落",
+    "name_en": "Suroba Village",
+    "lat": -4.25,
+    "lon": 139.05,
     "country": "印尼",
     "region": "亞洲",
-    "quote": "因為那個是我查到第一個是Suroba，S-U-R-O-B-A這個部落",
-    "context": "Ben造訪的第一個部落，在此與酋長互動並在茅草屋留宿。"
+    "quote": "第一個是Suroba S-U-R-O-B-A這個部落",
+    "context": "第一個探訪的部落"
   },
   {
-    "name": "歐比亞",
-    "name_en": "Obia / Ovia",
-    "lat": -3.955,
-    "lon": 138.932,
+    "name": "歐比亞部落",
+    "name_en": "Ovia Village",
+    "lat": -4.3,
+    "lon": 139.15,
     "country": "印尼",
     "region": "亞洲",
     "quote": "第二個就是歐比亞",
-    "context": "Ben造訪的第二個部落，高度觀光化，設有巨型衛星網路。"
+    "context": "第二個探訪的部落"
   }
 ]

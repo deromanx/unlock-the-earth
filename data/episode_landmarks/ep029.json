@@ -1,22 +1,42 @@
 [
   {
-    "name": "武荖坑",
-    "name_en": "Wulaokeng",
-    "lat": 24.612,
-    "lon": 121.813,
-    "country": "台灣",
-    "region": "台灣",
-    "quote": "然後我當兵在吳老坑蘇澳的一個山上",
-    "context": "主持人提到自己以前當兵時的營區位置"
+    "name": "巴拿馬市",
+    "name_en": "Panama City",
+    "lat": 8.99407,
+    "lon": -79.51984,
+    "country": "巴拿馬",
+    "region": "美洲",
+    "quote": "對,我們在巴拿馬市",
+    "context": "替代役的駐地"
   },
   {
-    "name": "成功嶺",
-    "name_en": "Chenggongling",
-    "lat": 24.117,
-    "lon": 120.613,
+    "name": "信義區",
+    "name_en": "Xinyi District",
+    "lat": 25.033,
+    "lon": 121.564,
     "country": "台灣",
     "region": "台灣",
-    "quote": "就是這種特殊替代儀最爽的時候 是你在成功領的時候",
-    "context": "來賓分享替代役集中進行新兵訓練的營區"
+    "quote": "它有一區根本就是信義區啦",
+    "context": "形容巴拿馬市的現代化"
+  },
+  {
+    "name": "San Jose",
+    "name_en": "San Jose",
+    "lat": 9.92807,
+    "lon": -84.09073,
+    "country": "哥斯大黎加",
+    "region": "美洲",
+    "quote": "就有點像你講的那個感覺",
+    "context": "哥斯大黎加首都的對比"
+  },
+  {
+    "name": "Samblas",
+    "name_en": "Samblas",
+    "lat": 8.53333,
+    "lon": -77.73333,
+    "country": "巴拿馬",
+    "region": "美洲",
+    "quote": "它叫Samblas",
+    "context": "巴拿馬中部加勒比海的旅遊地"
   }
 ]

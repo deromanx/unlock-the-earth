@@ -27,7 +27,8 @@
     "country": "秘魯",
     "region": "美洲",
     "quote": "随后呢,Cuzco的机场突然宣布关闭",
-    "context": "因政變抗議潮而宣布關閉，導致遊客受困"
+    "context": "因政變抗議潮而宣布關閉，導致遊客受困",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Aeropuerto_Internacional_Alejandro_Velasco_Astete.jpg/330px-Aeropuerto_Internacional_Alejandro_Velasco_Astete.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "墨西哥駐秘魯大使館",
@@ -47,7 +48,8 @@
     "country": "秘魯",
     "region": "美洲",
     "quote": "然后其实总统府外,也有一大批声势更庞大的压力",
-    "context": "前總統支持者聚集抗議施加壓力的地點"
+    "context": "前總統支持者聚集抗議施加壓力的地點",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Palacio_de_Gobierno_del_Per%C3%BA_2017.jpg/330px-Palacio_de_Gobierno_del_Per%C3%BA_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "國際法院（海牙法庭）",
@@ -57,7 +59,8 @@
     "country": "荷蘭",
     "region": "歐洲",
     "quote": "然后甚至在十年前的2014年,还闹上了荷兰的海牙法庭",
-    "context": "仲裁秘魯與智利之間領海主權爭議的機構"
+    "context": "仲裁秘魯與智利之間領海主權爭議的機構",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/International_Court_of_Justice_Seal.svg/330px-International_Court_of_Justice_Seal.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "阿塔加馬沙漠",
@@ -67,6 +70,7 @@
     "country": "智利",
     "region": "美洲",
     "quote": "那当时呢,就是鸟粪矿,然后其实它运藏上最丰富的地方,是在阿达嘎玛沙漠",
-    "context": "19世紀鳥糞戰爭中礦產豐富的爭議地區"
+    "context": "19世紀鳥糞戰爭中礦產豐富的爭議地區",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Atacama.png/330px-Atacama.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]

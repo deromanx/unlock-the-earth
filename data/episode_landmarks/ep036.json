@@ -1,52 +1,63 @@
 [
   {
-    "name": "聖誕老人村",
-    "name_en": "Santa Claus Village",
-    "lat": 66.543,
-    "lon": 25.847,
+    "name": "拉普蘭",
+    "name_en": "Lapland",
+    "lat": 68.0,
+    "lon": 25.0,
     "country": "芬蘭",
     "region": "歐洲",
-    "quote": "那個地方最有名的就是聖誕老人村",
-    "context": "來賓工作與導覽的熱門觀光景點"
+    "quote": "尤其在我們拉普蘭地區,它才每平方公里大概2個人而已吧",
+    "context": "導遊工作區域，人口稀少"
   },
   {
     "name": "羅瓦涅米",
     "name_en": "Rovaniemi",
-    "lat": 66.503,
-    "lon": 25.729,
+    "lat": 66.5,
+    "lon": 25.72,
     "country": "芬蘭",
     "region": "歐洲",
-    "quote": "羅瓦涅米這個城市是在極圈上",
-    "context": "來賓主要進行導覽工作及居住的北極圈小鎮"
+    "quote": "聖誕老人村 就洛阿涅米那邊",
+    "context": "聖誕老人村所在地，城市在極圈上"
   },
   {
-    "name": "耳朵山",
-    "name_en": "Korvatunturi",
-    "lat": 68.073,
-    "lon": 29.314,
-    "country": "芬蘭",
-    "region": "歐洲",
-    "quote": "根據芬蘭的傳說是來自耳朵山",
-    "context": "傳說中聖誕老人的發源地與真正的故鄉"
-  },
-  {
-    "name": "聖誕小屋",
-    "name_en": "Christmas House",
+    "name": "聖誕老人村",
+    "name_en": "Santa Claus Village",
     "lat": 66.543,
-    "lon": 25.843,
+    "lon": 25.833,
     "country": "芬蘭",
     "region": "歐洲",
-    "quote": "叫聖誕植物Christmas house",
-    "context": "聖誕老人村內另一個提供聖誕老人合照的設施"
+    "quote": "別的行程像簡單的就是聖誕老人村",
+    "context": "熱門景點，官方認證聖誕老人辦公室"
   },
   {
-    "name": "北極博物館",
-    "name_en": "Arktikum",
-    "lat": 66.508,
-    "lon": 25.726,
+    "name": "爾多山",
+    "name_en": "Mount Korvatunturi",
+    "lat": 68.145,
+    "lon": 27.541,
     "country": "芬蘭",
     "region": "歐洲",
-    "quote": "像北極博物館會有一塊介紹到那個地方",
-    "context": "介紹薩米人原住民文化的相關博物館"
+    "quote": "聖誕老人的故鄉 根據芬蘭的傳說是來自爾多山",
+    "context": "傳說中聖誕老人的故鄉"
+  },
+  {
+    "name": "赫爾辛基",
+    "name_en": "Helsinki",
+    "lat": 60.17,
+    "lon": 24.94,
+    "country": "芬蘭",
+    "region": "歐洲",
+    "quote": "以芬蘭來說的話 這五個很貴的國家的其中一個 首都是赫爾辛基",
+    "context": "芬蘭首都，與工作地點羅瓦涅米形成對比",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Suomenlinna_%28cropped%29.jpg/330px-Suomenlinna_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "克拉半島",
+    "name_en": "Kola Peninsula",
+    "lat": 68.0,
+    "lon": 35.0,
+    "country": "俄羅斯",
+    "region": "歐洲",
+    "quote": "挪威 瑞典 芬蘭跟俄羅斯的 克拉半島",
+    "context": "薩米人分布的地區之一"
   }
 ]

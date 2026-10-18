@@ -1,32 +1,53 @@
 [
   {
-    "name": "吳哥窟",
-    "name_en": "Angkor Wat",
-    "lat": 13.412,
-    "lon": 103.866,
+    "name": "金边",
+    "name_en": "Phnom Penh",
+    "lat": 11.55,
+    "lon": 104.9167,
     "country": "柬埔寨",
     "region": "亞洲",
-    "quote": "通常首选就是五个库啦",
-    "context": "柬埔寨最具代表性的觀光景點"
+    "quote": "那我主要会着重在他们的首都金边",
+    "context": "本集主要讨论的首都"
+  },
+  {
+    "name": "暹粒",
+    "name_en": "Siem Reap",
+    "lat": 13.3667,
+    "lon": 103.8667,
+    "country": "柬埔寨",
+    "region": "亞洲",
+    "quote": "其实大部分人去柬埔寨的话 通常首选就是五个库啦",
+    "context": "柬埔寨主要观光区，常被推荐"
+  },
+  {
+    "name": "吴哥窟",
+    "name_en": "Angkor Wat",
+    "lat": 13.4125,
+    "lon": 103.8667,
+    "country": "柬埔寨",
+    "region": "亞洲",
+    "quote": "我从先例到了吴歌窟之后",
+    "context": "柬埔寨著名历史遗迹",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Angkor_Wat.jpg/330px-Angkor_Wat.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "金边王宫",
+    "name_en": "Royal Palace, Phnom Penh",
+    "lat": 11.5428,
+    "lon": 104.9217,
+    "country": "柬埔寨",
+    "region": "亞洲",
+    "quote": "他有金边王宫没错啊",
+    "context": "金边一处重要景点"
   },
   {
     "name": "吐斯廉屠殺紀念館",
-    "name_en": "Tuol Sleng Genocide Museum",
-    "lat": 11.549,
-    "lon": 104.918,
+    "name_en": "Tuol Sleng Genocide Museum (S-21 Prison)",
+    "lat": 11.5425,
+    "lon": 104.9075,
     "country": "柬埔寨",
     "region": "亞洲",
-    "quote": "他的名字叫土司联屠杀纪念馆",
-    "context": "金邊主要景點，前身為S21集中營，本集核心地點"
-  },
-  {
-    "name": "巴祝",
-    "name_en": "Ba Chuc",
-    "lat": 10.495,
-    "lon": 104.942,
-    "country": "越南",
-    "region": "亞洲",
-    "quote": "巴柱是一个他们柬埔寨跟越南交界处的一个小村落",
-    "context": "紅色高棉屠殺平民的村落，引發越柬戰爭"
+    "quote": "他的叫做土司联屠杀纪念馆",
+    "context": "红色高棉时期集中营，主要景点"
   }
 ]

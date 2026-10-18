@@ -1,92 +1,112 @@
 [
   {
-    "name": "第一牧志公設市場",
-    "name_en": "Makishi Public Market",
-    "lat": 26.214,
-    "lon": 127.688,
+    "name": "沖繩",
+    "name_en": "Okinawa",
+    "lat": 26.5,
+    "lon": 128.0,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "沖繩他真的是一個充滿歷史的地方",
+    "context": "主要討論地點，歷史文化豐富"
+  },
+  {
+    "name": "納帕市區",
+    "name_en": "Naha City",
+    "lat": 26.2123,
+    "lon": 127.6809,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "我從納霸市區出發，搭公車到南城市",
+    "context": "節目中提到交通起點"
+  },
+  {
+    "name": "南城市",
+    "name_en": "Nanjo City",
+    "lat": 26.1492,
+    "lon": 127.7319,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "我從納霸市區出發，搭公車到南城市",
+    "context": "節目中提到交通目的地"
+  },
+  {
+    "name": "第一木製公社市場",
+    "name_en": "First Public Market",
+    "lat": 26.2159,
+    "lon": 127.681,
     "country": "日本",
     "region": "亞洲",
     "quote": "大部分人去沖繩一定會去逛一個第一木製公社市場",
-    "context": "沖繩特色市場，展現當地與日本本島不同的飲食文化"
+    "context": "沖繩著名市場，以豬頭聞名"
   },
   {
     "name": "首里城",
     "name_en": "Shuri Castle",
-    "lat": 26.217,
-    "lon": 127.719,
+    "lat": 26.2155,
+    "lon": 127.7063,
     "country": "日本",
     "region": "亞洲",
-    "quote": "首里成他的建築反而是長的跟明朝是比較像的",
-    "context": "琉球王國皇宮，建築受明朝影響，為沖繩重要歷史建築"
+    "quote": "首里成應該算是古代琉球王國的皇宮",
+    "context": "古代琉球王國皇宮，曾遭戰火摧毀"
   },
   {
-    "name": "牡丹社",
-    "name_en": "Mudan Township",
-    "lat": 22.125,
-    "lon": 120.772,
-    "country": "台灣",
-    "region": "台灣",
-    "quote": "牡丹社事件就是當時琉球的船員他們失事在牡丹社這個地方",
-    "context": "琉球船員失事遇害地點，引發日本出兵攻打台灣"
-  },
-  {
-    "name": "八重山群島",
-    "name_en": "Yaeyama Islands",
-    "lat": 24.344,
-    "lon": 124.156,
+    "name": "中里城",
+    "name_en": "Nakazato Castle Ruins",
+    "lat": 26.665,
+    "lon": 127.945,
     "country": "日本",
     "region": "亞洲",
-    "quote": "主要是八重山島那邊去開疆僻土",
-    "context": "日治時期台灣人被派去開墾與種植經濟作物的地方"
+    "quote": "像是金貴人遺跡啊，中里城",
+    "context": "琉球王國時期領主城牆遺跡"
   },
   {
-    "name": "台灣之塔",
-    "name_en": "Taiwan no To",
-    "lat": 26.096,
-    "lon": 127.725,
+    "name": "災場玉遇",
+    "name_en": "Sagaridani-Udui",
+    "lat": 26.17,
+    "lon": 127.76,
     "country": "日本",
     "region": "亞洲",
-    "quote": "在沖繩有一個台灣之塔",
-    "context": "位於沖繩南端，紀念二戰時期在當地戰死的台灣人"
+    "quote": "在琉球王國時期是一個非常神聖的祭祀的地點",
+    "context": "皇室祭祀地，崇拜海與島嶼"
+  },
+  {
+    "name": "九高島",
+    "name_en": "Kudaka Island",
+    "lat": 26.151,
+    "lon": 127.791,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "他們就可以遠眺神之島，叫做九高島的這個島",
+    "context": "祭祀的神聖島嶼"
   },
   {
     "name": "萬座毛",
     "name_en": "Cape Manzamo",
-    "lat": 26.504,
-    "lon": 127.85,
+    "lat": 26.457,
+    "lon": 127.957,
     "country": "日本",
     "region": "亞洲",
-    "quote": "它叫做萬座毛",
-    "context": "著名風景區，傳聞有許多不願被統治的琉球人在此跳崖"
+    "quote": "那邊有一個長得很像象皮的岩石",
+    "context": "著名景點，有奇特岩石造型"
   },
   {
-    "name": "齋場御嶽",
-    "name_en": "Sefa-utaki",
-    "lat": 26.173,
-    "lon": 127.826,
+    "name": "孔廟",
+    "name_en": "Confucian Temple",
+    "lat": 26.2145,
+    "lon": 127.6835,
     "country": "日本",
     "region": "亞洲",
-    "quote": "叫做災場玉遇",
-    "context": "琉球王國時期最高的神聖祭祀地點"
+    "quote": "沖繩島有一間孔廟，那那個孔廟它所在地就是附近比較多是紅燈區的店面",
+    "context": "康熙贈送，紅燈區旁，具歷史意義"
   },
   {
-    "name": "久高島",
-    "name_en": "Kudaka Island",
-    "lat": 26.158,
-    "lon": 127.893,
+    "name": "台灣之塔",
+    "name_en": "Taiwanese Monument",
+    "lat": 26.076,
+    "lon": 127.676,
     "country": "日本",
     "region": "亞洲",
-    "quote": "他們就可以遠眺神之島叫做九高島的這個島",
-    "context": "齋場御嶽祭祀時遠眺的神聖島嶼"
-  },
-  {
-    "name": "久米孔廟",
-    "name_en": "Kume Shiseibyo",
-    "lat": 26.218,
-    "lon": 127.674,
-    "country": "日本",
-    "region": "亞洲",
-    "quote": "沖繩島有一間孔廟",
-    "context": "康熙贈送的禮物，位於紅燈區旁"
+    "quote": "在沖繩有一個台灣之塔",
+    "context": "紀念二戰犧牲的台灣士兵"
   }
 ]

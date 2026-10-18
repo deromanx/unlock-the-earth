@@ -37,7 +37,8 @@
     "country": "英國",
     "region": "歐洲",
     "quote": "有时候他就会带去Margat这个地方，Margat是沿海一带的小城市",
-    "context": "透納常去的海邊小城，讓他能頻繁接觸海景並成為其畫作的靈感。"
+    "context": "透納常去的海邊小城，讓他能頻繁接觸海景並成為其畫作的靈感。",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Margate_Clock_Tower_Oast_House_Archive.jpg/330px-Margate_Clock_Tower_Oast_House_Archive.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "滑鐵盧橋",
@@ -77,6 +78,7 @@
     "country": "台灣",
     "region": "台灣",
     "quote": "你爸爸开了一个理发厅在什么，在两厅院旁边，然后两厅院里面的人",
-    "context": "主持人用來比喻透納父親理髮廳位置的絕佳性，方便台灣聽眾理解。"
+    "context": "主持人用來比喻透納父親理髮廳位置的絕佳性，方便台灣聽眾理解。",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/DSCN7120P_%288149622548%29.jpg/330px-DSCN7120P_%288149622548%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]

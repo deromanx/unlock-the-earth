@@ -7,7 +7,8 @@
     "country": "聖克里斯多福及尼維斯",
     "region": "美洲",
     "quote": "大的叫Sankis",
-    "context": "該國的主要島嶼，形狀像雞腿"
+    "context": "該國的主要島嶼，形狀像雞腿",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Saint_Kitts_and_Nevis_Regions_map.png/330px-Saint_Kitts_and_Nevis_Regions_map.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "尼維斯島",
@@ -17,7 +18,8 @@
     "country": "聖克里斯多福及尼維斯",
     "region": "美洲",
     "quote": "小的岛叫Nivis",
-    "context": "該國的另一座主要島嶼，形狀呈圓形"
+    "context": "該國的另一座主要島嶼，形狀呈圓形",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Flag_of_Nevis.svg/330px-Flag_of_Nevis.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "巴斯蒂爾",
@@ -27,7 +29,8 @@
     "country": "聖克里斯多福及尼維斯",
     "region": "美洲",
     "quote": "比如说他的首都叫巴斯蒂尔",
-    "context": "該國首都，留有英法殖民時期的建築痕跡"
+    "context": "該國首都，留有英法殖民時期的建築痕跡",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/St._Kitts%2C_Karibik_-_Marina_in_Basseterre_-_panoramio.jpg/330px-St._Kitts%2C_Karibik_-_Marina_in_Basseterre_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "巴斯蒂爾鐘塔",

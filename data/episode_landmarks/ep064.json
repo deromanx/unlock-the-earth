@@ -37,7 +37,8 @@
     "country": "阿拉伯聯合大公國",
     "region": "亞洲",
     "quote": "我要去哈里巴塔巡店或什麼的",
-    "context": "提及工作巡店的地標，藉此觀察當地土豪奢華生活"
+    "context": "提及工作巡店的地標，藉此觀察當地土豪奢華生活",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Burj_Khalifa_%28worlds_tallest_building%29_and_the_Dubai_skyline_%2825781049892%29.jpg/330px-Burj_Khalifa_%28worlds_tallest_building%29_and_the_Dubai_skyline_%2825781049892%29.jpg"
   },
   {
     "name": "麥加",
@@ -47,6 +48,7 @@
     "country": "沙烏地阿拉伯",
     "region": "亞洲",
     "quote": "麥加聖地",
-    "context": "說明沙烏地阿拉伯在伊斯蘭宗教與文化上的核心地位"
+    "context": "說明沙烏地阿拉伯在伊斯蘭宗教與文化上的核心地位",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Great_Mosque_of_Mecca1.jpg/330px-Great_Mosque_of_Mecca1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]

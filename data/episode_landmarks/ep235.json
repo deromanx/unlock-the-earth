@@ -7,7 +7,8 @@
     "country": "台灣",
     "region": "台灣",
     "quote": "我才热腾腾的上周末才从故宫南院回来",
-    "context": "主持人近期前往觀看浮世繪特展的博物館"
+    "context": "主持人近期前往觀看浮世繪特展的博物館",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Southern_Branch_of_the_National_Palace_Museum_main_building_and_zhimei_bridge.jpg/330px-Southern_Branch_of_the_National_Palace_Museum_main_building_and_zhimei_bridge.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "日本橋",
@@ -27,7 +28,8 @@
     "country": "日本",
     "region": "亞洲",
     "quote": "终点是这个京都的三条大桥",
-    "context": "《東海道五十三次》的終點站"
+    "context": "《東海道五十三次》的終點站",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Kyoto_Sanjo_hashi.JPG/330px-Kyoto_Sanjo_hashi.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "鴨川",
@@ -37,7 +39,8 @@
     "country": "日本",
     "region": "亞洲",
     "quote": "因为他就在亚川鼎鼎有名的恒越亚川那边",
-    "context": "三條大橋所橫跨的知名河川"
+    "context": "三條大橋所橫跨的知名河川",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Kamogawa_sakura.jpg/330px-Kamogawa_sakura.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "富士山",
@@ -58,7 +61,8 @@
     "country": "日本",
     "region": "亞洲",
     "quote": "你有去过那个啊小田园树哦对对对对",
-    "context": "東海道上的宿場之一"
+    "context": "東海道上的宿場之一",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Odawara-jo.jpg/330px-Odawara-jo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "吉原遊廓",

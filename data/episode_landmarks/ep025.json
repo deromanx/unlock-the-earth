@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "name": "仰光",
+    "name_en": "Yangon",
+    "lat": 16.79,
+    "lon": 96.16,
+    "country": "緬甸",
+    "region": "亞洲",
+    "quote": "所以那時候你的工作地點就是在陽光",
+    "context": "Speaker's 2+ year experience.",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/ShwedagonPagoda.jpg/330px-ShwedagonPagoda.jpg"
+  },
+  {
+    "name": "毛淡棉",
+    "name_en": "Mawlamyine",
+    "lat": 16.493,
+    "lon": 97.626,
+    "country": "緬甸",
+    "region": "亞洲",
+    "quote": "然後南部我們會去南部的算第一大城嘛,叫毛淡棉",
+    "context": "Visited for business trips.",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Kyaikthanlan_Pagoda-15.jpg/330px-Kyaikthanlan_Pagoda-15.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "大金塔",
+    "name_en": "Shwedagon Pagoda",
+    "lat": 16.795,
+    "lon": 96.145,
+    "country": "緬甸",
+    "region": "亞洲",
+    "quote": "每個禮拜就會去那個廟裡,就比如說大金塔",
+    "context": "Local entertainment and religious site."
+  }
+]

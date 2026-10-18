@@ -1,52 +1,74 @@
 [
   {
-    "name": "湯加里羅越野步道",
-    "name_en": "Tongariro Alpine Crossing",
-    "lat": -39.138,
-    "lon": 175.642,
-    "country": "紐西蘭",
-    "region": "大洋洲",
-    "quote": "叫Tanker Rural Crossing",
-    "context": "與德國女孩一起去爬山，才發現是魔戒拍攝地"
+    "name": "AB的異想世界工作室",
+    "name_en": "AB's Studio",
+    "lat": 25.034,
+    "lon": 121.5644,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "就是AB的異想世界的工作室",
+    "context": "節目錄製地點，Podcast 創作者的工作室。"
   },
   {
-    "name": "陶波湖",
-    "name_en": "Lake Taupo",
-    "lat": -38.805,
-    "lon": 175.903,
-    "country": "紐西蘭",
-    "region": "大洋洲",
-    "quote": "陶坡湖",
-    "context": "遇到大型活動住宿客滿，意外住進當地人家裡"
+    "name": "日月潭",
+    "name_en": "Sun Moon Lake",
+    "lat": 23.9132,
+    "lon": 120.9338,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "我連台灣的那個什麼日月潭我都沒去",
+    "context": "曾未到訪過的台灣景點，用以說明初次旅行前的經驗匱乏。",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Sun_Moon_Lake_Sentinel-2B_MSI_2024-04-04.jpg/330px-Sun_Moon_Lake_Sentinel-2B_MSI_2024-04-04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "陽明山",
-    "name_en": "Yangmingshan",
-    "lat": 25.155,
-    "lon": 121.553,
+    "name_en": "Yangmingshan National Park",
+    "lat": 25.1542,
+    "lon": 121.505,
     "country": "台灣",
     "region": "台灣",
-    "quote": "阳明山的一个没有人的草地",
-    "context": "特地帶著書跑到沒人的草地躺著看"
+    "quote": "然後大家就去那個陽明山的什麼春天酒店",
+    "context": "過去員工旅遊泡溫泉的地點，也是 speaker 躺草地的地點。",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Mount_Qixing_under_clear_sky_on_13th_February_2016.jpg/330px-Mount_Qixing_under_clear_sky_on_13th_February_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "燦爛時光書店",
+    "name": "春天酒店",
+    "name_en": "Spring Hotel",
+    "lat": 25.1537,
+    "lon": 121.5056,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "然後大家就去那個陽明山的什麼春天酒店",
+    "context": "陽明山上員工旅遊曾至的地點。"
+  },
+  {
+    "name": "湯加里羅高山縱走",
+    "name_en": "Tongariro Alpine Crossing",
+    "lat": -39.1203,
+    "lon": 175.6333,
+    "country": "紐西蘭",
+    "region": "大洋洲",
+    "quote": "我要去那個爬一個山叫Tanker Rural Crossing",
+    "context": "與德國女孩一同攀登的紐西蘭著名健行路線。"
+  },
+  {
+    "name": "陶波湖",
+    "name_en": "Lake Taupō",
+    "lat": -38.8398,
+    "lon": 175.9207,
+    "country": "紐西蘭",
+    "region": "大洋洲",
+    "quote": "我們當時去一個叫陶坡湖",
+    "context": "住宿困難時結識當地人的紐西蘭湖泊。"
+  },
+  {
+    "name": "燦爛時光書局",
     "name_en": "Brilliant Time Bookstore",
-    "lat": 24.989,
-    "lon": 121.512,
+    "lat": 25.0327,
+    "lon": 121.4446,
     "country": "台灣",
     "region": "台灣",
-    "quote": "叫做灿烂时光书店吗",
-    "context": "提及該書店發起帶東南亞書籍回台的活動"
-  },
-  {
-    "name": "胡志明市書店街",
-    "name_en": "Ho Chi Minh City Book Street",
-    "lat": 10.781,
-    "lon": 106.7,
-    "country": "越南",
-    "region": "亞洲",
-    "quote": "它那边有一个书店街",
-    "context": "在此買了越南文的村上春樹小說參與捐書活動"
+    "quote": "你知道在台灣有一個書店叫做燦爛時光書局嗎",
+    "context": "啟發購書故事的台灣在地獨立書店。"
   }
 ]

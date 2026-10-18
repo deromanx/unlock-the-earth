@@ -1,112 +1,153 @@
 [
   {
-    "name": "紫禁城",
-    "name_en": "Forbidden City",
-    "lat": 39.916,
-    "lon": 116.39,
+    "name": "開封",
+    "name_en": "Kaifeng",
+    "lat": 34.7972,
+    "lon": 114.3105,
     "country": "中國",
     "region": "亞洲",
-    "quote": "我覺得北京是...很新 但是要看舊的東西很多 紫禁城啊",
-    "context": "討論北京雖現代但仍有許多舊古蹟"
+    "quote": "我們今天...來講一下那個開封 不是只有包青天啊 開封",
+    "context": "本集節目主要討論的中國古都"
+  },
+  {
+    "name": "西安",
+    "name_en": "Xi'an",
+    "lat": 34.2632,
+    "lon": 108.948,
+    "country": "中國",
+    "region": "亞洲",
+    "quote": "我一直想去西安啦",
+    "context": "主持人之一想去但未成行的古都",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/City_wall_of_Xi%27an_51550-Xian_%2827959363326%29.jpg/330px-City_wall_of_Xi%27an_51550-Xian_%2827959363326%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "紫禁城",
+    "name_en": "Forbidden City",
+    "lat": 39.9163,
+    "lon": 116.3972,
+    "country": "中國",
+    "region": "亞洲",
+    "quote": "紫禁城啊 對 紫禁城",
+    "context": "北京的古蹟，但感覺很新",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/The_Forbidden_City_-_View_from_Coal_Hill.jpg/330px-The_Forbidden_City_-_View_from_Coal_Hill.jpg"
+  },
+  {
+    "name": "胡同",
+    "name_en": "Hutongs",
+    "lat": 39.9298,
+    "lon": 116.4103,
+    "country": "中國",
+    "region": "亞洲",
+    "quote": "然後還有一些 就是老胡同啊",
+    "context": "北京的傳統街區，因奧運拆除重建",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Beijing_hutong_area_3.jpg/330px-Beijing_hutong_area_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "鳥巢",
-    "name_en": "Beijing National Stadium",
-    "lat": 39.993,
-    "lon": 116.396,
+    "name_en": "Beijing National Stadium (Bird's Nest)",
+    "lat": 39.9947,
+    "lon": 116.3939,
     "country": "中國",
     "region": "亞洲",
-    "quote": "其實之前那個奧運 為了要蓋鳥巢 2008年的時候",
-    "context": "提到北京奧運為了建設而拆除胡同"
+    "quote": "為了要蓋鳥巢 2008年的時候 對鳥巢",
+    "context": "北京奧運場館，為興建而拆除胡同",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Acrocephalus_arundinaceus_nest_%28cropped%29.jpg/330px-Acrocephalus_arundinaceus_nest_%28cropped%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "黃鶴樓",
     "name_en": "Yellow Crane Tower",
-    "lat": 30.544,
-    "lon": 114.297,
+    "lat": 30.5699,
+    "lon": 114.2982,
     "country": "中國",
     "region": "亞洲",
-    "quote": "我去湖北的時候...就是看那個黃鶴樓啊",
-    "context": "分享黃鶴樓翻新後看不出古蹟感"
+    "quote": "我去湖北的時候 就是看那個黃鶴樓啊",
+    "context": "湖北名勝，給人很新的感覺",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/CN_-_Hubei_-_Wuhan_-_Kranichpagode.jpg/330px-CN_-_Hubei_-_Wuhan_-_Kranichpagode.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "中甸古城 (獨克宗古城)",
-    "name_en": "Dukezong Ancient Town",
-    "lat": 27.814,
-    "lon": 99.7,
+    "name": "香格里拉市",
+    "name_en": "Shangri-La City (formerly Zhongdian)",
+    "lat": 27.8286,
+    "lon": 99.7118,
     "country": "中國",
     "region": "亞洲",
-    "quote": "雲南那邊有個地方 中甸 就是傳說中的香格里拉 那邊有個古城",
-    "context": "提到雲南古城翻新後又被燒毀的故事"
+    "quote": "雲南那邊有個地方 中店 就是傳說中的香格里拉",
+    "context": "雲南古城，燒毀後又快速重建",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/%E6%9D%BE%E8%B5%9E%E6%9E%97%E5%AF%BA_-_%E5%85%A8%E6%99%AF_-_2025-05-07_09_%28cropped%29.jpg/330px-%E6%9D%BE%E8%B5%9E%E6%9E%97%E5%AF%BA_-_%E5%85%A8%E6%99%AF_-_2025-05-07_09_%28cropped%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "烏鎮",
-    "name_en": "Wuzhen Water Town",
-    "lat": 30.751,
-    "lon": 120.483,
+    "name_en": "Wuzhen",
+    "lat": 30.7513,
+    "lon": 120.5756,
     "country": "中國",
     "region": "亞洲",
-    "quote": "像烏鎮 你有去過烏鎮 超扯的 就看起來好像真的是昨天蓋好",
-    "context": "舉例古鎮常被整修得太過於新"
+    "quote": "像...像烏鎮 你有去過烏鎮 超扯的",
+    "context": "中國水鄉古鎮，給人很新的感覺",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/1_wuzhen_aerial_2023.jpg/330px-1_wuzhen_aerial_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "中山陵",
     "name_en": "Sun Yat-sen Mausoleum",
-    "lat": 32.064,
-    "lon": 118.848,
+    "lat": 32.0617,
+    "lon": 118.8475,
     "country": "中國",
     "region": "亞洲",
-    "quote": "南京主要還是民國的東西比較多 對啊 像中山陵啊",
-    "context": "提到南京有許多民國時期的景點"
+    "quote": "像中山林啊",
+    "context": "南京的民國時期建築群之一",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Sun_Yat-sen_Mausoleum_-_54400198691.jpg/330px-Sun_Yat-sen_Mausoleum_-_54400198691.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "開封府",
-    "name_en": "Kaifeng Prefecture",
-    "lat": 34.789,
-    "lon": 114.341,
+    "name": "總統府",
+    "name_en": "Presidential Palace (Nanjing)",
+    "lat": 32.036,
+    "lon": 118.7906,
     "country": "中國",
     "region": "亞洲",
-    "quote": "像包公那個 那個真的開封府 它的已經不見了",
-    "context": "提及真正的開封府已被黃河淹沒"
-  },
-  {
-    "name": "包公祠",
-    "name_en": "Lord Bao Shrine",
-    "lat": 34.788,
-    "lon": 114.338,
-    "country": "中國",
-    "region": "亞洲",
-    "quote": "它現在生的包公祠 它也真的就是千年古蹟",
-    "context": "討論重建的包公祠看起來非常新"
+    "quote": "或是民國那時候的總統府啊",
+    "context": "南京的民國時期建築群之一",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/%E4%B8%AD%E5%8D%8E%E6%B0%91%E5%9B%BD%E6%80%BB%E7%BB%9F%E5%BA%9C%C2%B7%E5%8D%97%E4%BA%AC%C2%B7%E8%88%AA%E6%8B%8D.jpg/330px-%E4%B8%AD%E5%8D%8E%E6%B0%91%E5%9B%BD%E6%80%BB%E7%BB%9F%E5%BA%9C%C2%B7%E5%8D%97%E4%BA%AC%C2%B7%E8%88%AA%E6%8B%8D.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "大相國寺",
-    "name_en": "Da Xiangguo Temple",
-    "lat": 34.795,
-    "lon": 114.349,
+    "name_en": "Daxiangguo Temple",
+    "lat": 34.7915,
+    "lon": 114.3168,
     "country": "中國",
     "region": "亞洲",
-    "quote": "像那個大相國寺...它是一個佛寺 大相國寺",
-    "context": "講述走在歷史人物李清照曾走過的地點"
+    "quote": "像那個大象國寺 就是大就是大小的大 然後鄉性的鄉 國家的國",
+    "context": "開封佛寺，雖然很新但地點歷史悠久",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Daxiangguosi_1.jpg/330px-Daxiangguosi_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "京都",
+    "name_en": "Kyoto",
+    "lat": 35.0116,
+    "lon": 135.7681,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "去京都的時候 我就是抱著這種心情去",
+    "context": "主持人嚮往看老東西的古都",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Kyoto%2C_Japan_%2849667780482%29.jpg/330px-Kyoto%2C_Japan_%2849667780482%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "惠州西湖",
-    "name_en": "Huizhou West Lake",
-    "lat": 23.096,
-    "lon": 114.397,
+    "name_en": "West Lake of Huizhou",
+    "lat": 23.0906,
+    "lon": 114.4079,
     "country": "中國",
     "region": "亞洲",
     "quote": "我去那個 西湖散步的時候 惠州的西湖 在廣東",
-    "context": "分享在西湖想像蘇軾在此走過的感受"
+    "context": "散步緬懷古人蘇軾的地點"
   },
   {
-    "name": "清明上河園",
-    "name_en": "Millennium City Park",
-    "lat": 34.817,
-    "lon": 114.339,
+    "name": "洛陽",
+    "name_en": "Luoyang",
+    "lat": 34.6826,
+    "lon": 112.4578,
     "country": "中國",
     "region": "亞洲",
-    "quote": "你如果要換別的地方也可以啦 就清明上河圖主題樂園這樣",
-    "context": "提到開封當地復刻古風的主題樂園"
+    "quote": "西安 洛陽 洛陽現在是不是沒什麼東西",
+    "context": "討論中國古都現況時提及"
   }
 ]

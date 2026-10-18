@@ -7,7 +7,8 @@
     "country": "挪威",
     "region": "歐洲",
     "quote": "去了挪威的奧斯陸大學當交換學生",
-    "context": "講者擔任交換學生的學校"
+    "context": "講者擔任交換學生的學校",
+    "image": "https://thumb.wikimedia.org/wikipedia/en/thumb/3/31/University_of_Oslo_seal.svg/330px-University_of_Oslo_seal.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "聖壇岩",
@@ -17,7 +18,8 @@
     "country": "挪威",
     "region": "歐洲",
     "quote": "第一個就是聖壇岩它就是一個很像講台的那個地方",
-    "context": "挪威三大奇岩之一，熱門打卡景點"
+    "context": "挪威三大奇岩之一，熱門打卡景點",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Lyse_Fjord_et_Preikestolen.jpg/330px-Lyse_Fjord_et_Preikestolen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "奇蹟岩",
@@ -27,7 +29,8 @@
     "country": "挪威",
     "region": "歐洲",
     "quote": "第二個是奇蹟岩這個很多人應該都有聽過就是他就是一顆石頭夾在兩個山的中間",
-    "context": "挪威三大奇岩之一，夾在山壁間的石頭"
+    "context": "挪威三大奇岩之一，夾在山壁間的石頭",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Kjerakbolten_Freddy_Fish.jpg/330px-Kjerakbolten_Freddy_Fish.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "巨人之舌",
@@ -37,7 +40,8 @@
     "country": "挪威",
     "region": "歐洲",
     "quote": "第三個就叫做巨人之蛇然後它是一個很像舌頭然後就是一個很尖的就凸出來",
-    "context": "挪威三大奇岩之一，從山壁凸出的岩石"
+    "context": "挪威三大奇岩之一，從山壁凸出的岩石",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Trolltunga_2017.jpg/330px-Trolltunga_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "卡爾約翰大道",
@@ -67,6 +71,7 @@
     "country": "挪威",
     "region": "極地",
     "quote": "它就是一個極光小鎮然後叫做特羅姆色",
-    "context": "位於北極圈內的極光小鎮"
+    "context": "位於北極圈內的極光小鎮",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Troms%C3%B8_sentrum_%285835702754%29.jpg/330px-Troms%C3%B8_sentrum_%285835702754%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]

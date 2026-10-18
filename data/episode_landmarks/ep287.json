@@ -1,0 +1,102 @@
+[
+  {
+    "name": "雷克亞維克",
+    "name_en": "Reykjavík",
+    "lat": 64.1466,
+    "lon": -21.9426,
+    "country": "冰島",
+    "region": "歐洲",
+    "quote": "对因为我们就搭到那个 他的最大的那个机场 KEF",
+    "context": "旅程的起點，在此停留一天。"
+  },
+  {
+    "name": "凱夫拉維克國際機場",
+    "name_en": "Keflavík International Airport",
+    "lat": 63.985,
+    "lon": -22.6034,
+    "country": "冰島",
+    "region": "歐洲",
+    "quote": "对因为我们就搭到那个 他的最大的那个机场 KEF",
+    "context": "抵達冰島的主要機場。"
+  },
+  {
+    "name": "一號公路 (環島公路)",
+    "name_en": "Ring Road / Route 1",
+    "lat": 64.9631,
+    "lon": -19.0208,
+    "country": "冰島",
+    "region": "歐洲",
+    "quote": "但是冰岛整体的路况 开起来蛮舒服的 因为它基本上就是一条路",
+    "context": "冰島主要的環島公路。"
+  },
+  {
+    "name": "阿克雷里",
+    "name_en": "Akureyri",
+    "lat": 65.6813,
+    "lon": 18.0686,
+    "country": "冰島",
+    "region": "歐洲",
+    "quote": "我们只有到北边有一个 比较大的镇叫做 呃 阿克雷里",
+    "context": "冰島北部的大鎮，有節慶活動。"
+  },
+  {
+    "name": "眾神瀑布",
+    "name_en": "Godafoss",
+    "lat": 65.9667,
+    "lon": 17.55,
+    "country": "冰島",
+    "region": "歐洲",
+    "quote": "然后那个小镇很接近纵神瀑布",
+    "context": "冰島著名的壯觀瀑布。"
+  },
+  {
+    "name": "惠爾火山口",
+    "name_en": "Hverfjall crater",
+    "lat": 65.5719,
+    "lon": 16.8775,
+    "country": "冰島",
+    "region": "歐洲",
+    "quote": "跟还有一个是那个 惠儿火山口",
+    "context": "冰島的地質景觀。"
+  },
+  {
+    "name": "赫佛瑞爾地熱區",
+    "name_en": "Hverir geothermal area",
+    "lat": 65.6564,
+    "lon": 16.8322,
+    "country": "冰島",
+    "region": "歐洲",
+    "quote": "因为它地上 因为是那个地热的关係嘛 所以就没",
+    "context": "充滿硫磺味的噴氣孔與泥漿池。"
+  },
+  {
+    "name": "赫魯塞克",
+    "name_en": "Húsavík",
+    "lat": 66.0366,
+    "lon": 17.2059,
+    "country": "冰島",
+    "region": "歐洲",
+    "quote": "然后我们往北的时候 我们有到他的一一个镇 叫做什么呢 Hukavik",
+    "context": "以賞鯨聞名的小鎮。"
+  },
+  {
+    "name": "米湖",
+    "name_en": "Mývatn",
+    "lat": 65.6,
+    "lon": 17.0,
+    "country": "冰島",
+    "region": "歐洲",
+    "quote": "像蓝湖 温泉 米湖",
+    "context": "冰島北部著名湖泊及周邊區域。"
+  },
+  {
+    "name": "阿克亞里社區游泳池",
+    "name_en": "Akureyri Community Swimming Pool",
+    "lat": 65.6849,
+    "lon": 18.1077,
+    "country": "冰島",
+    "region": "歐洲",
+    "quote": "冰岛他们觉得最好玩的社区游泳池 就是我们刚好现在在的那个城市",
+    "context": "當地居民常去的社區泳池。"
+  }
+]

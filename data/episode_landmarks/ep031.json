@@ -1,1 +1,108 @@
-[]
+[
+  {
+    "name": "諾魯",
+    "name_en": "Nauru",
+    "lat": -0.5395,
+    "lon": 166.9596,
+    "country": "諾魯",
+    "region": "亞洲",
+    "quote": "諾魯齁,它是世界上第四個小的國家",
+    "context": "世界上第四小的國家，無聊",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Flag_of_Nauru.svg/330px-Flag_of_Nauru.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "土瓦魯",
+    "name_en": "Tuvalu",
+    "lat": -8.1139,
+    "lon": 178.0009,
+    "country": "土瓦魯",
+    "region": "亞洲",
+    "quote": "說要被淹沒的國家",
+    "context": "意象深刻的淹沒國",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tuvalu.svg/330px-Flag_of_Tuvalu.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "帛琉",
+    "name_en": "Palau",
+    "lat": 7.5147,
+    "lon": 134.5827,
+    "country": "帛琉",
+    "region": "亞洲",
+    "quote": "大家最熟知的就是帛琉",
+    "context": "最方便到達的邦交國",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Palau.svg/330px-Flag_of_Palau.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "吉里巴斯",
+    "name_en": "Kiribati",
+    "lat": 1.4151,
+    "lon": 172.9688,
+    "country": "吉里巴斯",
+    "region": "亞洲",
+    "quote": "曾經的邦交國",
+    "context": "航線國家，經歷斷交"
+  },
+  {
+    "name": "馬紹爾群島",
+    "name_en": "Marshall Islands",
+    "lat": 9.0342,
+    "lon": 169.1343,
+    "country": "馬紹爾群島",
+    "region": "亞洲",
+    "quote": "最後到馬哨爾巡島這樣子",
+    "context": "航線終點國家"
+  },
+  {
+    "name": "索羅門群島",
+    "name_en": "Solomon Islands",
+    "lat": -9.6598,
+    "lon": 160.1396,
+    "country": "索羅門群島",
+    "region": "亞洲",
+    "quote": "我之前去過的索羅門巡島",
+    "context": "曾於2018年拜訪",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Flag_of_the_Solomon_Islands.svg/330px-Flag_of_the_Solomon_Islands.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "梵蒂岡",
+    "name_en": "Vatican City",
+    "lat": 41.9028,
+    "lon": 12.4534,
+    "country": "梵蒂岡",
+    "region": "亞洲",
+    "quote": "最小一定是梵蒂岡",
+    "context": "最小國家，亦為邦交國"
+  },
+  {
+    "name": "斐濟",
+    "name_en": "Fiji",
+    "lat": -17.7134,
+    "lon": 178.065,
+    "country": "斐濟",
+    "region": "亞洲",
+    "quote": "從斐濟開始",
+    "context": "前往土瓦魯起點",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Fiji.svg/330px-Flag_of_Fiji.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "布里斯本",
+    "name_en": "Brisbane",
+    "lat": -27.4702,
+    "lon": 153.021,
+    "country": "澳洲",
+    "region": "亞洲",
+    "quote": "可以到那個布里斯本阿",
+    "context": "諾魯另一航線選項"
+  },
+  {
+    "name": "澳洲",
+    "name_en": "Australia",
+    "lat": -25.2744,
+    "lon": 133.7751,
+    "country": "澳洲",
+    "region": "亞洲",
+    "quote": "他們最大的夥伴就是澳洲",
+    "context": "難民營所在地，重要夥伴",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/330px-Flag_of_Australia_%28converted%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  }
+]

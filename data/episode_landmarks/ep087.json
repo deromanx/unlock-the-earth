@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "name": "諾魯",
+    "name_en": "Nauru",
+    "lat": -0.5228,
+    "lon": 166.9315,
+    "country": "諾魯",
+    "region": "大洋洲",
+    "quote": "我在諾魯的時候，那時候我不知道大家知不知道諾魯一個小島國，在南太平洋",
+    "context": "前大使在此國的經驗，描述其地理大小與專案",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Flag_of_Nauru.svg/330px-Flag_of_Nauru.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  }
+]

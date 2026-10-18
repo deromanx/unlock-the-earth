@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "name": "兰屿",
+    "name_en": "Lanyu / Orchid Island",
+    "lat": 22.05,
+    "lon": 121.55,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "先去兰屿",
+    "context": "建议替代旅游地点"
+  },
+  {
+    "name": "西藏",
+    "name_en": "Tibet",
+    "lat": 29.65,
+    "lon": 91.1167,
+    "country": "中國",
+    "region": "亞洲",
+    "quote": "因为我知道在西藏当年就是被中共破坏之后",
+    "context": "流亡藏人起源地"
+  }
+]

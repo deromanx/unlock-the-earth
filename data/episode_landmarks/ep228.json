@@ -7,7 +7,8 @@
     "country": "阿拉伯聯合大公國",
     "region": "亞洲",
     "quote": "我机场就很大 很大 如同大家想象的杜拜的机场一样",
-    "context": "討論初次造訪杜拜的機場印象"
+    "context": "討論初次造訪杜拜的機場印象",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/DXB_word_mark.svg/330px-DXB_word_mark.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "哈里發塔",
@@ -78,7 +79,8 @@
     "country": "日本",
     "region": "亞洲",
     "quote": "如果东京 我们讲三首线好了 或是台北的板南线",
-    "context": "用來比喻杜拜地鐵擁擠程度的日本鐵路"
+    "context": "用來比喻杜拜地鐵擁擠程度的日本鐵路",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Yamanote-Line-E235.jpg/330px-Yamanote-Line-E235.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "板南線",

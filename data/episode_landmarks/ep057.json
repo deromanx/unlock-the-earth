@@ -2,11 +2,34 @@
   {
     "name": "維多利亞瀑布",
     "name_en": "Victoria Falls",
-    "lat": -17.924,
-    "lon": 25.856,
-    "country": "星巴威",
+    "lat": -17.9243,
+    "lon": 25.85724,
+    "country": "辛巴威",
     "region": "非洲",
-    "quote": "我們要去的維多利亞瀑布那邊的時候",
-    "context": "過海關後約定補寄電子簽證的目的地"
+    "quote": "像我們的最終站其實是抵達維多利亞瀑布那邊",
+    "context": "本趟旅行的最終目的地與重要景點",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Cataratas_Victoria%2C_Zambia-Zimbabue%2C_2018-07-27%2C_DD_04.jpg/330px-Cataratas_Victoria%2C_Zambia-Zimbabue%2C_2018-07-27%2C_DD_04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "贊比西河",
+    "name_en": "Zambezi River",
+    "lat": -17.915,
+    "lon": 25.85,
+    "country": "辛巴威",
+    "region": "非洲",
+    "quote": "我們是在那個上筆河的下游",
+    "context": "泛舟活動進行地，水流湍急",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Zambezi_River_at_junction_of_Namibia%2C_Zambia%2C_Zimbabwe_%26_Botswana.jpg/330px-Zambezi_River_at_junction_of_Namibia%2C_Zambia%2C_Zimbabwe_%26_Botswana.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "約翰尼斯堡 山頓區",
+    "name_en": "Sandton, Johannesburg",
+    "lat": -26.107,
+    "lon": 28.055,
+    "country": "南非",
+    "region": "非洲",
+    "quote": "我們之後去的是一個就是全正最fancy的地方",
+    "context": "約翰尼斯堡內治安較好且高級的區域",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Montecasino.jpg/330px-Montecasino.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]

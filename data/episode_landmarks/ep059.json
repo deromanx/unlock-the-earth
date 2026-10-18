@@ -7,7 +7,8 @@
     "country": "土耳其",
     "region": "亞洲",
     "quote": "波斯伯魯斯",
-    "context": "切開伊斯坦堡，使其橫跨歐亞大陸的海峽"
+    "context": "切開伊斯坦堡，使其橫跨歐亞大陸的海峽",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Turkish_Strait_disambig.svg/330px-Turkish_Strait_disambig.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "金角灣",
@@ -17,7 +18,8 @@
     "country": "土耳其",
     "region": "歐洲",
     "quote": "中間隔了一個叫做京腳灣",
-    "context": "分隔伊斯坦堡新城區與舊城區的地理界線"
+    "context": "分隔伊斯坦堡新城區與舊城區的地理界線",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Ottoman_Istanbul_-_en.svg/330px-Ottoman_Istanbul_-_en.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "藍色清真寺",
@@ -37,7 +39,8 @@
     "country": "土耳其",
     "region": "歐洲",
     "quote": "拿最經典的聖索菲亞大教堂來講好了，它以前曾經是基督教的禮拜的地方嘛",
-    "context": "舉例說明建築在不同政權下轉變用途的歷史"
+    "context": "舉例說明建築在不同政權下轉變用途的歷史",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Hagia_Sophia_%28228968325%29.jpeg/330px-Hagia_Sophia_%28228968325%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "川普大廈（伊斯坦堡）",

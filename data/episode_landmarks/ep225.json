@@ -17,7 +17,8 @@
     "country": "英國",
     "region": "歐洲",
     "quote": "比如说像是什么Chelsea Physic Garden就是在Chelsea那边",
-    "context": "倫敦古老藥草花園，探討早期草本療法"
+    "context": "倫敦古老藥草花園，探討早期草本療法",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/II_Chelsea_Physic_Garden%2C_London%2C_UK.jpg/330px-II_Chelsea_Physic_Garden%2C_London%2C_UK.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "大英博物館",
@@ -27,7 +28,8 @@
     "country": "英國",
     "region": "歐洲",
     "quote": "就是大英博物馆的精神创始人汉斯罗恩他当年就是靠药草赚了很多很多钱",
-    "context": "創始人曾為切爾西藥草園的土地贊助者"
+    "context": "創始人曾為切爾西藥草園的土地贊助者",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/British_Museum_from_NE_2.JPG/330px-British_Museum_from_NE_2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "銀行地鐵站",
@@ -37,7 +39,8 @@
     "country": "英國",
     "region": "歐洲",
     "quote": "在伦敦靠近这个bankstation这里有一个小小的pub",
-    "context": "描述威廉巴特勒之首酒吧的相對位置"
+    "context": "描述威廉巴特勒之首酒吧的相對位置",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Bank_station_entrance_look_to_Bank.JPG/330px-Bank_station_entrance_look_to_Bank.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "威廉巴特勒之首酒吧",
@@ -67,7 +70,8 @@
     "country": "英國",
     "region": "歐洲",
     "quote": "靠近我们的肉市场这个Smithfield Market这边出现了",
-    "context": "外科與理髮匠工會發源地，反映早期屠夫兼職手術"
+    "context": "外科與理髮匠工會發源地，反映早期屠夫兼職手術",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Smithfield_Meat_Market_tower1.jpg/330px-Smithfield_Meat_Market_tower1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "外科與理髮匠工會大廳",

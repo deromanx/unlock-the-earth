@@ -7,7 +7,8 @@
     "country": "加拿大",
     "region": "美洲",
     "quote": "我就挑那些知名的极光小镇 什么黄刀镇啊什么",
-    "context": "被提及為知名的追極光地點"
+    "context": "被提及為知名的追極光地點",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Northwest_Territories_Legislative_Building.jpg/330px-Northwest_Territories_Legislative_Building.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "康克魯斯瓦格 (Kangaloose Walk)",
@@ -17,7 +18,8 @@
     "country": "格陵蘭",
     "region": "極地",
     "quote": "西南角的话 最大的城市叫做Kangaloose Walk",
-    "context": "氣候最穩定，是進入格陵蘭的主要門戶"
+    "context": "氣候最穩定，是進入格陵蘭的主要門戶",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Kangerlussuaq%2C_Greenland.jpg/330px-Kangerlussuaq%2C_Greenland.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "伊盧利薩特 (Illulisat)",
@@ -38,7 +40,8 @@
     "country": "格陵蘭",
     "region": "極地",
     "quote": "往南的话 就是格林兰的首都 就是Nuke",
-    "context": "格陵蘭首都，集結較多文化與人文"
+    "context": "格陵蘭首都，集結較多文化與人文",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Nuuk%2C_Greenland_skyline_aerial_view.jpg/330px-Nuuk%2C_Greenland_skyline_aerial_view.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "660高地 (Point 66)",
@@ -58,7 +61,8 @@
     "country": "格陵蘭",
     "region": "極地",
     "quote": "它最有名就是Icecap跟Point 66",
-    "context": "世界第二大冰蓋，旅客可直接走在上方"
+    "context": "世界第二大冰蓋，旅客可直接走在上方",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Greenland_ice_sheet_AMSL_thickness_map-en.png/330px-Greenland_ice_sheet_AMSL_thickness_map-en.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "高雄港",
@@ -68,7 +72,8 @@
     "country": "台灣",
     "region": "台灣",
     "quote": "其实Illulisat 它是就是一个 想象成高雄海港",
-    "context": "講者用來比喻伊盧利薩特的峽灣地形"
+    "context": "講者用來比喻伊盧利薩特的峽灣地形",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Cityscape_of_Kaohsiung%2C_Taiwan_202303.jpg/330px-Cityscape_of_Kaohsiung%2C_Taiwan_202303.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "市民大道",
@@ -78,6 +83,7 @@
     "country": "台灣",
     "region": "台灣",
     "quote": "市民大道两条的宽度",
-    "context": "講者用來比喻站在冰蓋邊緣的安全視覺距離"
+    "context": "講者用來比喻站在冰蓋邊緣的安全視覺距離",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/TaipeiCivicBlvdExpressway.jpg/330px-TaipeiCivicBlvdExpressway.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]

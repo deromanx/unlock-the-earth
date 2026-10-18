@@ -2,91 +2,143 @@
   {
     "name": "丹東",
     "name_en": "Dandong",
-    "lat": 40.129,
-    "lon": 124.395,
+    "lat": 40.126,
+    "lon": 124.394,
     "country": "中國",
     "region": "亞洲",
-    "quote": "丹東就是在那個東北擱這鴨綠江跟北韓對望的那個小城市丹東",
-    "context": "中國與北韓邊境城市"
+    "quote": "丹東就是在那個東北擱這鴨綠江，跟北韓對望的那個小城市丹東",
+    "context": "中國與北韓邊境的小城市，從此搭火車進入北韓。"
   },
   {
     "name": "鴨綠江",
     "name_en": "Yalu River",
-    "lat": 40.109,
-    "lon": 124.389,
-    "country": "中國/北韓",
+    "lat": 40.068,
+    "lon": 124.363,
+    "country": "中國",
     "region": "亞洲",
-    "quote": "從中國大陸然後跨越越的壓綠江然後到北韓",
-    "context": "連接中國與北韓的界河"
+    "quote": "從中國大陸，然後跨越越的鴨綠江，然後到北韓",
+    "context": "中國與北韓的邊界河流，火車路線跨越此江。"
+  },
+  {
+    "name": "鴨綠江新橋",
+    "name_en": "New Yalu River Bridge",
+    "lat": 40.119,
+    "lon": 124.348,
+    "country": "中國",
+    "region": "亞洲",
+    "quote": "而且我們那個火車走的是鴨綠江的新橋",
+    "context": "中朝邊境的火車橋樑，旅行團通過。"
+  },
+  {
+    "name": "鴨綠江斷橋",
+    "name_en": "Yalu River Broken Bridge",
+    "lat": 40.12,
+    "lon": 124.346,
+    "country": "中國",
+    "region": "亞洲",
+    "quote": "那右手邊你就會看到，有一個已經很破碎的那個斷橋",
+    "context": "韓戰中被炸毀的歷史遺跡。"
   },
   {
     "name": "羊角島飯店",
     "name_en": "Yanggakdo International Hotel",
-    "lat": 38.999,
-    "lon": 125.751,
+    "lat": 39.012,
+    "lon": 125.758,
     "country": "北韓",
     "region": "亞洲",
-    "quote": "我住的地方是羊角島飯店",
-    "context": "住宿飯店，位於島上"
+    "quote": "反正我住的地方是羊角島飯店",
+    "context": "觀光客住宿的指標性飯店，位於平壤的一個島上。"
   },
   {
-    "name": "板门店",
-    "name_en": "Panmunjom",
-    "lat": 37.96,
-    "lon": 126.665,
-    "country": "北韓",
-    "region": "亞洲",
-    "quote": "那其實那时候刚好我們要去那个38度線對板门店的时候",
-    "context": "南北韓邊境，戒備森嚴"
-  },
-  {
-    "name": "38度線",
+    "name": "三八度線",
     "name_en": "38th Parallel",
-    "lat": 37.96,
-    "lon": 126.665,
-    "country": "北韓/南韓",
+    "lat": 37.942,
+    "lon": 126.677,
+    "country": "北韓",
     "region": "亞洲",
-    "quote": "板门店就是一条38路线跟南北韩对望嘛",
-    "context": "南北韓分界線"
+    "quote": "就是一條38路線，跟南北韓對望嘛",
+    "context": "南北韓的軍事分界線，節目中強調其政治意義。"
+  },
+  {
+    "name": "板門店",
+    "name_en": "Panmunjom",
+    "lat": 37.954,
+    "lon": 126.677,
+    "country": "北韓",
+    "region": "亞洲",
+    "quote": "其實那時候剛好我們要去那個38度線，對板門店的時候她就在車上這樣講",
+    "context": "南北韓停戰區的重要地點，遊客參觀軍事分界。"
+  },
+  {
+    "name": "白宮",
+    "name_en": "The White House",
+    "lat": 38.898,
+    "lon": -77.037,
+    "country": "美國",
+    "region": "美洲",
+    "quote": "然後你在上面看得到那種像是白宮被炸毀啊",
+    "context": "作為北韓反美宣傳海報的圖像內容。",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/White_House_north_and_south_sides.jpg/330px-White_House_north_and_south_sides.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "平壤凱旋門",
+    "name_en": "Arch of Triumph, Pyongyang",
+    "lat": 39.049,
+    "lon": 125.753,
+    "country": "北韓",
+    "region": "亞洲",
+    "quote": "基本上我們像是去看那個平洋的凱旋門",
+    "context": "平壤的著名建築，比法國凱旋門更高。"
+  },
+  {
+    "name": "台北民生社區",
+    "name_en": "Minsheng Community, Taipei",
+    "lat": 25.06,
+    "lon": 121.554,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "店面在台北的民生社區",
+    "context": "贊助商蛋糕店的實際地點。"
+  },
+  {
+    "name": "芝加哥",
+    "name_en": "Chicago",
+    "lat": 41.878,
+    "lon": -87.629,
+    "country": "美國",
+    "region": "美洲",
+    "quote": "那时候從北韓寄到芝加哥給我的女朋友",
+    "context": "寄送北韓明信片的收件城市。",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Chicago_River_ferry_b.jpg/330px-Chicago_River_ferry_b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "葉卡捷林堡",
+    "name_en": "Ekaterinburg",
+    "lat": 56.839,
+    "lon": 60.606,
+    "country": "俄羅斯",
+    "region": "歐洲",
+    "quote": "他去俄羅斯交換，然後他的那個城市叫葉卡捷林堡",
+    "context": "俄羅斯城市，有北韓餐廳，是朋友的經歷地點。"
+  },
+  {
+    "name": "開城高麗博物館",
+    "name_en": "Koryo Museum, Kaesong",
+    "lat": 37.979,
+    "lon": 126.565,
+    "country": "北韓",
+    "region": "亞洲",
+    "quote": "一個叫高麗城軍館，就他們算是一個，很多人都會跑去那邊拍婚紗",
+    "context": "北韓開城的一個博物館，有新人拍婚紗的軼事。"
   },
   {
     "name": "平壤地鐵站",
     "name_en": "Pyongyang Metro Station",
-    "lat": 39.0085,
-    "lon": 125.7177,
+    "lat": 39.02,
+    "lon": 125.75,
     "country": "北韓",
     "region": "亞洲",
-    "quote": "我们有一个行程是去北韩的地铁站",
-    "context": "體驗當地地鐵，深度防空洞"
-  },
-  {
-    "name": "平壤凱旋門",
-    "name_en": "Triumphal Arch of Pyongyang",
-    "lat": 39.0446,
-    "lon": 125.7531,
-    "country": "北韓",
-    "region": "亞洲",
-    "quote": "去看那个平洋的凯旋门",
-    "context": "紀念建築，比法國凱旋門高"
-  },
-  {
-    "name": "高麗飯店",
-    "name_en": "Koryo Hotel",
-    "lat": 39.0052,
-    "lon": 125.735,
-    "country": "北韓",
-    "region": "亞洲",
-    "quote": "一个叫高丽城军馆... 很多人都会跑去那边拍婚纱",
-    "context": "拍照景點，常見北韓人拍婚紗"
-  },
-  {
-    "name": "萬壽臺大紀念碑",
-    "name_en": "Mansu Hill Grand Monument",
-    "lat": 39.03194,
-    "lon": 125.75333,
-    "country": "北韓",
-    "region": "亞洲",
-    "quote": "在其他区域会看到那个金日成跟金正日的那个雕像",
-    "context": "需莊重對待的領導人雕像"
+    "quote": "我們有一個行程是去北韓的地铁站",
+    "context": "平壤地下鐵系統，以深度聞名，遊客體驗一站。"
   }
 ]

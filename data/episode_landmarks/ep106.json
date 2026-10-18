@@ -7,7 +7,8 @@
     "country": "塞爾維亞",
     "region": "亞洲",
     "quote": "首都里面最大的东征交交场，号称世界上最大的东征交交场，还在盖当中",
-    "context": "提及俄羅斯石油公司贊助興建的當地地標"
+    "context": "提及俄羅斯石油公司贊助興建的當地地標",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Hram_svetog_save_beograd_0005_%28edited%29.jpg/330px-Hram_svetog_save_beograd_0005_%28edited%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "穆罕默德·帕夏·索科洛維奇橋",
@@ -17,6 +18,7 @@
     "country": "波士尼亞與赫塞哥維納",
     "region": "亞洲",
     "quote": "经过了一条河，然后就是德里纳河上的桥，他是诺贝尔文学奖的得主的小说",
-    "context": "諾貝爾文學獎小說故事的核心場景"
+    "context": "諾貝爾文學獎小說故事的核心場景",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Bridge_on_the_Drina%2C_januar_2018.jpg/330px-Bridge_on_the_Drina%2C_januar_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]

@@ -58,7 +58,8 @@
     "country": "台灣",
     "region": "台灣",
     "quote": "然后台北101 这边也有保 就是比较大的景点 这边通常都会有保",
-    "context": "說明大型知名景點一定會有人藏寶"
+    "context": "說明大型知名景點一定會有人藏寶",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Taipei_101_logo.svg/330px-Taipei_101_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "青島大學",
@@ -129,7 +130,8 @@
     "country": "美國",
     "region": "美洲",
     "quote": "譬如说要去长城 要去看自由女神",
-    "context": "舉例旅行蟲可能被設定的環遊世界目標"
+    "context": "舉例旅行蟲可能被設定的環遊世界目標",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Front_view_of_Statue_of_Liberty_%28cropped%29.jpg/330px-Front_view_of_Statue_of_Liberty_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "富國島",

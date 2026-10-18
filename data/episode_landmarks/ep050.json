@@ -7,7 +7,8 @@
     "country": "尼泊爾",
     "region": "亞洲",
     "quote": "基本上背包客一定會去那個塔沒有區，就是塔沒有那個，那個老城區吧",
-    "context": "加德滿都著名的背包客聚集老城區"
+    "context": "加德滿都著名的背包客聚集老城區",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Thamel_at_Night_-_Kathmandu%2C_Nepal_%281%29.jpg/330px-Thamel_at_Night_-_Kathmandu%2C_Nepal_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "薩德街",
@@ -17,7 +18,8 @@
     "country": "印度",
     "region": "亞洲",
     "quote": "有一條街好像叫Souders Street吧，就很多背包客會先到那邊去",
-    "context": "加爾各答著名的背包客聚集街道"
+    "context": "加爾各答著名的背包客聚集街道",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Sudder_Street_%2814660873888%29.jpg/330px-Sudder_Street_%2814660873888%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "瓦拉納西恆河河壇",
@@ -47,6 +49,7 @@
     "country": "印度",
     "region": "亞洲",
     "quote": "阿格拉就是看太吉馬哈林這樣",
-    "context": "阿格拉最著名的陵墓建築，安檢嚴格且建築十分工整"
+    "context": "阿格拉最著名的陵墓建築，安檢嚴格且建築十分工整",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Taj_Mahal_%28Edited%29.jpeg/330px-Taj_Mahal_%28Edited%29.jpeg"
   }
 ]

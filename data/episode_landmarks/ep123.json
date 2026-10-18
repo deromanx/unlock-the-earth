@@ -67,7 +67,8 @@
     "country": "土庫曼",
     "region": "亞洲",
     "quote": "它的體育場內呢 也有金氏劑紀錄 列為全世界最高的馬型雕像",
-    "context": "體育場內建有全世界最高的馬型雕像，象徵對汗血寶馬的自豪"
+    "context": "體育場內建有全世界最高的馬型雕像，象徵對汗血寶馬的自豪",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Saparmurat_Turkmenbashi_Olympic_Stadium.jpg/330px-Saparmurat_Turkmenbashi_Olympic_Stadium.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "土庫曼廣播電視中心",
@@ -77,6 +78,7 @@
     "country": "土庫曼",
     "region": "亞洲",
     "quote": "它的有一個廣播電台 是全世界最大的新型建築",
-    "context": "高達211公尺的巨大星形建築，為世界最大的星形建築"
+    "context": "高達211公尺的巨大星形建築，為世界最大的星形建築",
+    "image": "https://thumb.wikimedia.org/wikipedia/en/thumb/7/7f/Fernsehturm_T%C3%BCrkmenistan_teleradio_merkezi.jpg/330px-Fernsehturm_T%C3%BCrkmenistan_teleradio_merkezi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]

@@ -1,1 +1,66 @@
-[]
+[
+  {
+    "name": "伊拉克庫德斯坦",
+    "name_en": "Iraqi Kurdistan",
+    "lat": 36.191,
+    "lon": 44.008,
+    "country": "伊拉克",
+    "region": "亞洲",
+    "quote": "你去的那個地方應該算是伊拉克的一個自治區",
+    "context": "本集主要討論的區域"
+  },
+  {
+    "name": "蘇萊曼尼亞",
+    "name_en": "Sulaymaniyah",
+    "lat": 35.56,
+    "lon": 45.432,
+    "country": "伊拉克",
+    "region": "亞洲",
+    "quote": "嗯我主要是待在蘇萊曼尼亞，就是第二大城",
+    "context": "主角見習醫院與生活的主要城市",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Sulaymaniyah_City_-_Grand_Millenium_Hotel.jpg/330px-Sulaymaniyah_City_-_Grand_Millenium_Hotel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "艾比爾",
+    "name_en": "Erbil",
+    "lat": 36.191,
+    "lon": 44.008,
+    "country": "伊拉克",
+    "region": "亞洲",
+    "quote": "所以在伊拉克庫德斯坦的大城市，像蘇萊曼尼亞，嗯，或是艾比爾",
+    "context": "庫德斯坦的大城市之一",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Shar_Park%2C_Hawler%2C_Erbil_Governorate%2C_Iraq.jpg/330px-Shar_Park%2C_Hawler%2C_Erbil_Governorate%2C_Iraq.jpg"
+  },
+  {
+    "name": "伊拉克與伊朗邊界",
+    "name_en": "Iran-Iraq Border",
+    "lat": 35.176,
+    "lon": 46.066,
+    "country": "伊拉克",
+    "region": "亞洲",
+    "quote": "就是我有去伊朗跟伊拉克的邊界，對，但是那裡算是一個觀光聖地",
+    "context": "可一腳踏兩國的觀光邊界"
+  },
+  {
+    "name": "哈拉馬",
+    "name_en": "Halabja",
+    "lat": 35.176,
+    "lon": 46.002,
+    "country": "伊拉克",
+    "region": "亞洲",
+    "quote": "然後帶我們一起去一個叫做哈拉馬的城市",
+    "context": "被洛桑條約切成兩半的邊境城市",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Halabja.jpg/330px-Halabja.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "印度加爾各答",
+    "name_en": "Kolkata",
+    "lat": 22.572,
+    "lon": 88.363,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "下一站應該會去印度吧，印度加爾各答",
+    "context": "主角下一個計畫前往的城市",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Kolkata_maidan.jpg/330px-Kolkata_maidan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  }
+]

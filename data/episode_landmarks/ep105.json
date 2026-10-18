@@ -57,7 +57,8 @@
     "country": "南非",
     "region": "非洲",
     "quote": "你知聽過那個table mountain嗎",
-    "context": "開普敦知名地標，山頂平坦如上帝的餐桌"
+    "context": "開普敦知名地標，山頂平坦如上帝的餐桌",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Table_Mountain_DanieVDM.jpg/330px-Table_Mountain_DanieVDM.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "海豹島",
@@ -77,7 +78,8 @@
     "country": "南非",
     "region": "非洲",
     "quote": "你可以去好望角那邊拍拍照",
-    "context": "非洲西南端知名地標，可觀賞野生企鵝"
+    "context": "非洲西南端知名地標，可觀賞野生企鵝",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/CapeHopePeninsulaMap.png/330px-CapeHopePeninsulaMap.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "羅本島",
@@ -87,7 +89,8 @@
     "country": "南非",
     "region": "非洲",
     "quote": "有個地方叫Ruban Island",
-    "context": "曾關押曼德拉的監獄島，現有前獄友擔任導遊"
+    "context": "曾關押曼德拉的監獄島，現有前獄友擔任導遊",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Robben_Island_-_Cape_Town%2C_South_Africa_%283883849594%29.jpg/330px-Robben_Island_-_Cape_Town%2C_South_Africa_%283883849594%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "克魯格國家公園",

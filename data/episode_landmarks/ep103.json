@@ -47,7 +47,8 @@
     "country": "英國",
     "region": "歐洲",
     "quote": "很漂亮很漂亮的，就是大教堂",
-    "context": "位於皇家一英里上的一座古老教堂"
+    "context": "位於皇家一英里上的一座古老教堂",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/St_Giles_Cathedral_-_01.jpg/330px-St_Giles_Cathedral_-_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "愛丁堡舊城",
@@ -77,6 +78,7 @@
     "country": "英國",
     "region": "歐洲",
     "quote": "在英格兰跟苏格兰的边界呢盖了座墙",
-    "context": "古羅馬帝國為抵禦蘇格蘭部落所建的邊界防線"
+    "context": "古羅馬帝國為抵禦蘇格蘭部落所建的邊界防線",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Hadrians_Wall_map.svg/330px-Hadrians_Wall_map.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]

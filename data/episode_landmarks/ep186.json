@@ -77,7 +77,8 @@
     "country": "日本",
     "region": "亞洲",
     "quote": "从一个叫做龙寒王子的地方 走到雄野本宫大社",
-    "context": "熊野古道多條路線的共同終點"
+    "context": "熊野古道多條路線的共同終點",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Shrine_Kumano_hongu_torii01.jpg/330px-Shrine_Kumano_hongu_torii01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "熊野那智大社 (納志大社/納智大社)",
@@ -87,7 +88,8 @@
     "country": "日本",
     "region": "亞洲",
     "quote": "从另外一个神社叫做纳志大社",
-    "context": "30公里最難路線的起點及必須參拜地"
+    "context": "30公里最難路線的起點及必須參拜地",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Kumano-Nachi-shrine002.JPG/330px-Kumano-Nachi-shrine002.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "發心門王子 (發西門王子)",
@@ -107,7 +109,8 @@
     "country": "日本",
     "region": "亞洲",
     "quote": "你要去参拜另外两间神社 叫做纳智大社跟树玉大社",
-    "context": "走最短路線也必須參拜的神社之一"
+    "context": "走最短路線也必須參拜的神社之一",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Kumanohayatama-taisha10s4s4440.jpg/330px-Kumanohayatama-taisha10s4s4440.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "高野山",
@@ -117,7 +120,8 @@
     "country": "日本",
     "region": "亞洲",
     "quote": "是从高野山走到本宫大社 这一条70公里",
-    "context": "熊野古道70公里長路線的起點"
+    "context": "熊野古道70公里長路線的起點",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Danjogaran_Koyasan12n3200.jpg/330px-Danjogaran_Koyasan12n3200.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "中邊路",

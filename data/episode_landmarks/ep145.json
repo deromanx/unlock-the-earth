@@ -7,7 +7,8 @@
     "country": "中國/尼泊爾/印度",
     "region": "亞洲",
     "quote": "然後主要他靠近那個西亞脈雅山脈",
-    "context": "解釋克什米爾獨特地形與壯麗風景的地理成因"
+    "context": "解釋克什米爾獨特地形與壯麗風景的地理成因",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Himalayas_and_allied_ranges_NASA_Landsat_showing_the_eight_thousanders%2C_annotated_with_major_rivers.jpg/330px-Himalayas_and_allied_ranges_NASA_Landsat_showing_the_eight_thousanders%2C_annotated_with_major_rivers.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "斯里納加爾",
@@ -17,6 +18,7 @@
     "country": "印度",
     "region": "亞洲",
     "quote": "那時候是去斯里納加爾",
-    "context": "來賓前往克什米爾實際造訪的冬季首府"
+    "context": "來賓前往克什米爾實際造訪的冬季首府",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Red_and_Yellow_Tulips.JPG/330px-Red_and_Yellow_Tulips.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]

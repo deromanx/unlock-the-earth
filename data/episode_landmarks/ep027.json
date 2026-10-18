@@ -1,42 +1,105 @@
 [
   {
-    "name": "里沃利街 (含59號藝術聚落)",
-    "name_en": "Rue de Rivoli / 59 Rivoli",
-    "lat": 48.859,
-    "lon": 2.348,
+    "name": "巴黎",
+    "name_en": "Paris",
+    "lat": 48.8566,
+    "lon": 2.3522,
     "country": "法國",
     "region": "歐洲",
-    "quote": "剛剛那條街就有移動 就是 房子 整個是 藝術家Squad",
-    "context": "介紹巴黎市中心知名的藝術家佔領空間"
+    "quote": "因為很多人去法國就是去巴黎對不對",
+    "context": "許多人去法國的首選，但主持人認為其大。",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/330px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "巴黎地下墓穴",
-    "name_en": "Catacombs of Paris",
-    "lat": 48.834,
-    "lon": 2.332,
+    "name": "巴黎市中心",
+    "name_en": "Paris City Center",
+    "lat": 48.8647,
+    "lon": 2.349,
     "country": "法國",
     "region": "歐洲",
-    "quote": "你那個講的是在14區的一個地下墓穴博物館",
-    "context": "本集核心重點，講者分享在非法地下墓穴探險的經歷"
+    "quote": "其實是巴黎市中心,市政府站的,的街",
+    "context": "討論藝術家佔領區的位置。"
   },
   {
-    "name": "巴黎小環線鐵路",
-    "name_en": "La Petite Ceinture",
-    "lat": 48.825,
-    "lon": 2.335,
+    "name": "14區",
+    "name_en": "14th Arrondissement",
+    "lat": 48.8322,
+    "lon": 2.3213,
     "country": "法國",
     "region": "歐洲",
-    "quote": "巴黎郊區的隧道裡面 就是你要走進去一個幽暗的隧道 以前是火車的隧道嘛",
-    "context": "進入巴黎非法地下墓穴的途徑與廢棄地標"
+    "quote": "你在14區的一個地下墓穴博物館",
+    "context": "討論巴黎地下墓穴博物館的位置。"
   },
   {
-    "name": "空中巴士土魯斯總部",
-    "name_en": "Airbus Headquarters Toulouse",
-    "lat": 43.615,
-    "lon": 1.365,
+    "name": "地下墓穴博物館",
+    "name_en": "Catacombs Museum",
+    "lat": 48.8322,
+    "lon": 2.3213,
     "country": "法國",
     "region": "歐洲",
-    "quote": "大家如果聽過Airbus空中發誓是在Toulouse",
-    "context": "提及土魯斯作為法國航空重鎮的代表地標"
+    "quote": "你在14區的一個地下墓穴博物館",
+    "context": "參觀過的合法地下墓穴景點。"
+  },
+  {
+    "name": "非法地下墓穴",
+    "name_en": "Illegal Catacombs",
+    "lat": 48.8322,
+    "lon": 2.3213,
+    "country": "法國",
+    "region": "歐洲",
+    "quote": "我去過的那個是非法的",
+    "context": "節目中詳細討論的冒險經歷。"
+  },
+  {
+    "name": "南法",
+    "name_en": "South of France",
+    "lat": 43.4832,
+    "lon": 3.1525,
+    "country": "法國",
+    "region": "歐洲",
+    "quote": "那南法待個四天",
+    "context": "提及與巴黎並列的旅遊規劃。"
+  },
+  {
+    "name": "土魯斯",
+    "name_en": "Toulouse",
+    "lat": 43.6047,
+    "lon": 1.4442,
+    "country": "法國",
+    "region": "歐洲",
+    "quote": "不然我一直都住在南法Toulouse",
+    "context": "主持人過去居住的城市，對比巴黎。",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Toulouse_-_vue_du_Vieux_Toulouse_depuis_St_Sernin_06.jpg/330px-Toulouse_-_vue_du_Vieux_Toulouse_depuis_St_Sernin_06.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "玫瑰之城",
+    "name_en": "City of Roses",
+    "lat": 43.6047,
+    "lon": 1.4442,
+    "country": "法國",
+    "region": "歐洲",
+    "quote": "所以Toulouse被稱為玫瑰之城",
+    "context": "Toulouse 的別稱，因紅磚建築得名。"
+  },
+  {
+    "name": "凱旋門",
+    "name_en": "Arc de Triomphe",
+    "lat": 48.8738,
+    "lon": 2.295,
+    "country": "法國",
+    "region": "歐洲",
+    "quote": "燒啊,燒凱旋門也燒",
+    "context": "提及法國社會運動中被破壞的目標。",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Arc_de_Triomphe_-_Ao%C3%BBt_2026.jpg/330px-Arc_de_Triomphe_-_Ao%C3%BBt_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "佛羅倫斯",
+    "name_en": "Florence",
+    "lat": 43.7696,
+    "lon": 11.2558,
+    "country": "義大利",
+    "region": "歐洲",
+    "quote": "像我最喜歡講的就是佛羅倫斯",
+    "context": "被主持人認為是「沒有生活感」的城市。"
   }
 ]

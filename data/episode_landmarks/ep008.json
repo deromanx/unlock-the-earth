@@ -2,31 +2,142 @@
   {
     "name": "聖羅倫斯河",
     "name_en": "St. Lawrence River",
-    "lat": 46.813,
-    "lon": -71.207,
+    "lat": 46.0,
+    "lon": -75.0,
     "country": "加拿大",
     "region": "美洲",
-    "quote": "然后沿着圣罗伦斯河",
-    "context": "加拿大單車旅程中沿河騎乘的主要自然地標"
+    "quote": "我们从多伦多出发，然后沿着圣罗伦斯河",
+    "context": "骑行路线的起点，沿河骑行。"
   },
   {
-    "name": "海豹海灘",
+    "name": "均士頓",
+    "name_en": "Kingston",
+    "lat": 44.23,
+    "lon": -76.48,
+    "country": "加拿大",
+    "region": "美洲",
+    "quote": "我们经过均士顿，然后经过均士顿",
+    "context": "骑行路线经过点。"
+  },
+  {
+    "name": "魁北克市",
+    "name_en": "Québec City",
+    "lat": 46.81,
+    "lon": -71.21,
+    "country": "加拿大",
+    "region": "美洲",
+    "quote": "就到奎格克市",
+    "context": "骑行路线经过点。"
+  },
+  {
+    "name": "爱德华王子岛",
+    "name_en": "Prince Edward Island",
+    "lat": 46.5,
+    "lon": -63.5,
+    "country": "加拿大",
+    "region": "美洲",
+    "quote": "原本的计划终点是设在爱德华王子岛",
+    "context": "原本骑行计划的终点。"
+  },
+  {
+    "name": "蒙特利尔",
+    "name_en": "Montreal",
+    "lat": 45.5,
+    "lon": -73.57,
+    "country": "加拿大",
+    "region": "美洲",
+    "quote": "那个时候我们正好是在法语区在 Montreal",
+    "context": "骑行遇到困难，曾至急诊。"
+  },
+  {
+    "name": "新不伦瑞克省",
+    "name_en": "New Brunswick",
+    "lat": 46.5,
+    "lon": -66.0,
+    "country": "加拿大",
+    "region": "美洲",
+    "quote": "一个省份叫做New Bronx Week",
+    "context": "搭便车旅程的起点省份。"
+  },
+  {
+    "name": "弗雷德里克顿",
+    "name_en": "Fredericton",
+    "lat": 45.96,
+    "lon": -66.65,
+    "country": "加拿大",
+    "region": "美洲",
+    "quote": "我们在他的首都 Fredericton",
+    "context": "搭便车旅程的首都起点。"
+  },
+  {
+    "name": "波特兰",
+    "name_en": "Portland",
+    "lat": 45.52,
+    "lon": -122.68,
+    "country": "美国",
+    "region": "美洲",
+    "quote": "我们是从奥瑞冈州的波特兰",
+    "context": "美国西岸骑行起点。"
+  },
+  {
+    "name": "圣地牙哥",
+    "name_en": "San Diego",
+    "lat": 32.72,
+    "lon": -117.16,
+    "country": "美国",
+    "region": "美洲",
+    "quote": "最后一个城市是San Diego",
+    "context": "美国西岸骑行终点。",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/La_Jolla_Shores_view_%28cropped%29.jpg/330px-La_Jolla_Shores_view_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "加拿大瀑布",
+    "name_en": "Niagara Falls",
+    "lat": 43.08,
+    "lon": -79.08,
+    "country": "加拿大",
+    "region": "美洲",
+    "quote": "美国那一侧的大瀑布，尼加拿大瀑布那边去取货",
+    "context": "取单车货运点，需过境。"
+  },
+  {
+    "name": "安大略湖",
+    "name_en": "Lake Ontario",
+    "lat": 43.5,
+    "lon": -78.0,
+    "country": "加拿大",
+    "region": "美洲",
+    "quote": "它前面就是有安大略湖",
+    "context": "规划帆船旅行的出发点。"
+  },
+  {
+    "name": "海狮滩",
     "name_en": "Seal Beach",
-    "lat": 33.741,
-    "lon": -118.114,
-    "country": "美國",
+    "lat": 33.74,
+    "lon": -118.08,
+    "country": "美国",
     "region": "美洲",
-    "quote": "我还有到一个沙滩\n它叫做Seal Beach",
-    "context": "講者在此地衝浪時不慎被海裡的魟魚刺傷"
+    "quote": "我还有一个沙滩，叫做Seal Beach",
+    "context": "冲浪点，因红鱼有危险。"
   },
   {
-    "name": "美墨邊界 (海灘段)",
-    "name_en": "US-Mexico Border (Beach)",
-    "lat": 32.534,
-    "lon": -117.122,
-    "country": "美國",
-    "region": "美洲",
-    "quote": "海边的地方他会擦木桩",
-    "context": "美西單車行的終點，講者觀察延伸至海裡的邊界木樁"
+    "name": "台东",
+    "name_en": "Taitung",
+    "lat": 22.76,
+    "lon": 121.14,
+    "country": "台湾",
+    "region": "台灣",
+    "quote": "台湾台东屏东那一段东海岸",
+    "context": "描述台湾东海岸景色。"
+  },
+  {
+    "name": "屏东",
+    "name_en": "Pingtung",
+    "lat": 22.67,
+    "lon": 120.48,
+    "country": "台湾",
+    "region": "台灣",
+    "quote": "台湾台东屏东那一段东海岸",
+    "context": "描述台湾东海岸景色。"
   }
 ]

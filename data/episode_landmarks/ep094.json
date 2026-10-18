@@ -7,7 +7,8 @@
     "country": "阿曼",
     "region": "亞洲",
     "quote": "就是阿曼的機場 那個地磚什麼 都是挑特別的石頭啊",
-    "context": "受訪者抵達阿曼的第一印象，覺得機場像皇宮般奢華"
+    "context": "受訪者抵達阿曼的第一印象，覺得機場像皇宮般奢華",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Aerial_view_of_Muscat_International_Airport_%28Ank_Kunar%2C_Infosys_Limited%29_02.jpg/330px-Aerial_view_of_Muscat_International_Airport_%28Ank_Kunar%2C_Infosys_Limited%29_02.jpg"
   },
   {
     "name": "桑給巴爾",
@@ -17,6 +18,7 @@
     "country": "坦尚尼亞",
     "region": "非洲",
     "quote": "旁邊有個小島叫做 Nenzi Bar 他們直接把首都 Moscow 牽到 牽到小島",
-    "context": "阿曼帝國時期因香料貿易，曾將首都遷至此島"
+    "context": "阿曼帝國時期因香料貿易，曾將首都遷至此島",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Zanzibar.svg/330px-Flag_of_Zanzibar.svg.png"
   }
 ]

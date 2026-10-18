@@ -7,7 +7,8 @@
     "country": "摩洛哥",
     "region": "非洲",
     "quote": "出生在摩洛哥一个叫做丹吉尔的地方",
-    "context": "伊本巴圖塔的出生地，為大西洋與地中海交界的港口城市"
+    "context": "伊本巴圖塔的出生地，為大西洋與地中海交界的港口城市",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Tanger_cor.jpg/330px-Tanger_cor.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "麥加",
@@ -17,7 +18,8 @@
     "country": "沙烏地阿拉伯",
     "region": "亞洲",
     "quote": "一生就至少需要前往卖家朝圣一次",
-    "context": "伊本巴圖塔踏上旅途的終極目的地"
+    "context": "伊本巴圖塔踏上旅途的終極目的地",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Great_Mosque_of_Mecca1.jpg/330px-Great_Mosque_of_Mecca1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "特萊姆森",
@@ -37,6 +39,7 @@
     "country": "阿爾及利亞",
     "region": "非洲",
     "quote": "他走到今天那个阿尔吉利亚的首都阿尔及尔城",
-    "context": "伊本巴圖塔旅途中抵達的城市，並在此加入商隊同行"
+    "context": "伊本巴圖塔旅途中抵達的城市，並在此加入商隊同行",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/La_baie_d%27Alger_%28cropped%29.jpg/330px-La_baie_d%27Alger_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]

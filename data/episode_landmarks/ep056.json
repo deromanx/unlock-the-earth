@@ -27,7 +27,8 @@
     "country": "義大利",
     "region": "歐洲",
     "quote": "我看到百花大教堂之後 我就覺得 好 你現在把我殺了我OK",
-    "context": "形容對佛羅倫斯景點的極度喜愛"
+    "context": "形容對佛羅倫斯景點的極度喜愛",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Cattedrale_di_Santa_Maria_del_Fiore_%E2%80%93_Il_Duomo_di_Firenze.jpg/330px-Cattedrale_di_Santa_Maria_del_Fiore_%E2%80%93_Il_Duomo_di_Firenze.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "比薩",
@@ -37,7 +38,8 @@
     "country": "義大利",
     "region": "歐洲",
     "quote": "那離附近最近的景點 就是比薩",
-    "context": "住在托斯卡尼鄉間時前往的鄰近景點"
+    "context": "住在托斯卡尼鄉間時前往的鄰近景點",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Italy_-_Pisa.jpg/330px-Italy_-_Pisa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "羅馬競技場",
@@ -47,7 +49,8 @@
     "country": "義大利",
     "region": "歐洲",
     "quote": "就你一出捷運站 明明是羅馬市中心 就看到 羅馬競技場",
-    "context": "形容羅馬市中心古蹟帶來的視覺震撼"
+    "context": "形容羅馬市中心古蹟帶來的視覺震撼",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Colosseo_2020.jpg/330px-Colosseo_2020.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "龐貝城",
@@ -57,7 +60,8 @@
     "country": "義大利",
     "region": "歐洲",
     "quote": "它龐貝的古蹟 其實是非常龐大",
-    "context": "詳細討論其歷史遺跡與自然災害的震撼"
+    "context": "詳細討論其歷史遺跡與自然災害的震撼",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Aerial_image_of_Pompeii_and_Mount_Vesuvius_%28view_from_the_southeast%29.jpg/330px-Aerial_image_of_Pompeii_and_Mount_Vesuvius_%28view_from_the_southeast%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "巴里",
@@ -67,7 +71,8 @@
     "country": "義大利",
     "region": "歐洲",
     "quote": "他就是在意大利東南部 斜根的地方叫巴里",
-    "context": "被形容為危險但保留義大利真實原貌的城市"
+    "context": "被形容為危險但保留義大利真實原貌的城市",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Bari_-_Lungomare_Imperatore_Augusto_%26_Mare.jpg/330px-Bari_-_Lungomare_Imperatore_Augusto_%26_Mare.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "蒙皮利耶",
@@ -77,6 +82,7 @@
     "country": "義大利",
     "region": "歐洲",
     "quote": "甚至像 Monopoly這個地方 根本連 義大利純種人 都很少去的地方",
-    "context": "被盛讚比聖托里尼還美且無人的當地小鎮"
+    "context": "被盛讚比聖托里尼還美且無人的當地小鎮",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Vedutamonopoli2.jpg/330px-Vedutamonopoli2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]

@@ -7,7 +7,8 @@
     "country": "法國",
     "region": "歐洲",
     "quote": "尤其我想巴黎最有名的就是那个双手跟花神嘛",
-    "context": "舉例說明巴黎知名的咖啡文化與打卡景點"
+    "context": "舉例說明巴黎知名的咖啡文化與打卡景點",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Les_Deux_Magots%2C_25_September_2019.jpg/330px-Les_Deux_Magots%2C_25_September_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "花神咖啡館",
@@ -17,6 +18,7 @@
     "country": "法國",
     "region": "歐洲",
     "quote": "尤其我想巴黎最有名的就是那个双手跟花神嘛",
-    "context": "舉例說明巴黎知名的咖啡文化與打卡景點"
+    "context": "舉例說明巴黎知名的咖啡文化與打卡景點",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Caf%C3%A9_de_Flore%2C_172_boulevard_Saint-Germain%2C_Paris_6e.jpg/330px-Caf%C3%A9_de_Flore%2C_172_boulevard_Saint-Germain%2C_Paris_6e.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]

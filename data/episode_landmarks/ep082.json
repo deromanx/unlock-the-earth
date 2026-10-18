@@ -17,7 +17,8 @@
     "country": "英國",
     "region": "歐洲",
     "quote": "對在倫敦博物館裡 西元一世紀 對他們就有金幣 有比基尼還有化妝品",
-    "context": "館內展示西元一世紀羅馬人留下的比基尼與化妝品"
+    "context": "館內展示西元一世紀羅馬人留下的比基尼與化妝品",
+    "image": "https://thumb.wikimedia.org/wikipedia/en/thumb/a/a8/London_Museum_logo_2024.jpeg/330px-London_Museum_logo_2024.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "空中花園",
@@ -77,7 +78,8 @@
     "country": "英國",
     "region": "歐洲",
     "quote": "因為旁邊有一棟教堂 他叫St. Peter's",
-    "context": "牧師不斷退稿導致建築師在隔壁建築放惡魔雕像嘲諷"
+    "context": "牧師不斷退稿導致建築師在隔壁建築放惡魔雕像嘲諷",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/St_Peter_upon_Cornhill_20130323_055.jpg/330px-St_Peter_upon_Cornhill_20130323_055.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "勒登霍爾市場",
@@ -87,7 +89,8 @@
     "country": "英國",
     "region": "歐洲",
     "quote": "Harry Potter其中有一幕 走斜角像就是在這個Ladenhall Market裡面",
-    "context": "哈利波特斜角巷拍攝地，早期為家禽市場"
+    "context": "哈利波特斜角巷拍攝地，早期為家禽市場",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Leadenhall_Market_In_London_-_Feb_2006_rotated.jpg/330px-Leadenhall_Market_In_London_-_Feb_2006_rotated.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "皇家交易所",
@@ -107,7 +110,8 @@
     "country": "英國",
     "region": "歐洲",
     "quote": "我今天請大家特別注意一個 Pub 它的名字叫做George and Vulture",
-    "context": "狄更斯愛去的酒吧，保留維多利亞時代吃大塊肉傳統"
+    "context": "狄更斯愛去的酒吧，保留維多利亞時代吃大塊肉傳統",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/The_George_and_Vulture%2C_Castle_Court_-_City_Of_London._%284793266343%29.jpg/330px-The_George_and_Vulture%2C_Castle_Court_-_City_Of_London._%284793266343%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "牙買加咖啡屋",
@@ -117,7 +121,8 @@
     "country": "英國",
     "region": "歐洲",
     "quote": "還有一個小房子 它叫Jamaican House 它是倫敦第一個 我們所謂的咖啡屋文化",
-    "context": "倫敦咖啡屋文化發源地，孕育投資銀行與報業"
+    "context": "倫敦咖啡屋文化發源地，孕育投資銀行與報業",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Jamaica_Wine_House_20130323_049.jpg/330px-Jamaica_Wine_House_20130323_049.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "倫敦市政廳",
@@ -127,7 +132,8 @@
     "country": "英國",
     "region": "歐洲",
     "quote": "而是一個地方叫Gilt Hall... 它繳稅的地方 它那個大走廊是 現在開始是辦很大的這些儀式",
-    "context": "早期工會繳稅地，二戰轟炸後在地底發現羅馬競技場"
+    "context": "早期工會繳稅地，二戰轟炸後在地底發現羅馬競技場",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Guildhall%2C_City_of_London_-_Diliff.jpg/330px-Guildhall%2C_City_of_London_-_Diliff.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "市政廳美術館",
@@ -137,7 +143,8 @@
     "country": "英國",
     "region": "歐洲",
     "quote": "可是在這個裡面這個藝廊它就叫做Gilt Hall Art Gallery",
-    "context": "收藏本土藝術，地下有羅馬競技場遺址"
+    "context": "收藏本土藝術，地下有羅馬競技場遺址",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Guildhall_Art_Gallery_%2814186022081%29.jpg/330px-Guildhall_Art_Gallery_%2814186022081%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "倫敦市警察博物館",
@@ -167,6 +174,7 @@
     "country": "英國",
     "region": "歐洲",
     "quote": "我們會到一個地方 叫做Smithfield... 也是一個很華麗的大肉鋪",
-    "context": "歷史悠久的肉類市場，有特殊的學徒加冕儀式"
+    "context": "歷史悠久的肉類市場，有特殊的學徒加冕儀式",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Smithfield_Meat_Market_tower1.jpg/330px-Smithfield_Meat_Market_tower1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]

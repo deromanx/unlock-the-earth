@@ -1,42 +1,106 @@
 [
   {
-    "name": "台北表演艺术中心",
-    "name_en": "Taipei Performing Arts Center",
-    "lat": 25.088,
-    "lon": 121.524,
-    "country": "台湾",
-    "region": "亞洲",
-    "quote": "台北的建坛站有一栋叫做表演艺术中心,那一个就是Rankulhas设计的",
-    "context": "作为建筑大师Rem Koolhaas的作品举例"
+    "name": "威尼斯",
+    "name_en": "Venice",
+    "lat": 45.43875,
+    "lon": 12.33137,
+    "country": "義大利",
+    "region": "歐洲",
+    "quote": "那除了比较重点的 可能像是威尼斯因为看展览 所以待比较多天之外",
+    "context": "参观建筑双年展"
   },
   {
-    "name": "学院美术馆",
-    "name_en": "Galleria dell'Accademia",
-    "lat": 43.777,
-    "lon": 11.259,
-    "country": "义大利",
-    "region": "亞洲",
-    "quote": "佛罗伦斯有一个学院美术馆,那学院美术馆里面有大卫像",
-    "context": "分享在此静静观察游人与大卫像互动的经验"
+    "name": "里昂",
+    "name_en": "Lyon",
+    "lat": 45.76404,
+    "lon": 4.83566,
+    "country": "法國",
+    "region": "歐洲",
+    "quote": "是在里昂的西北侧 一个叫做Eveux的小镇",
+    "context": "柯比義的拉图雷特修道院所在地",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Lyon-part-dieu-2023.jpg/330px-Lyon-part-dieu-2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "圣家堂",
-    "name_en": "Sagrada Família",
-    "lat": 41.404,
-    "lon": 2.174,
-    "country": "西班牙",
-    "region": "亞洲",
-    "quote": "譬如说我看圣家堂,我觉得哇天哪圣家堂太屌了",
-    "context": "讨论高第为表达神圣信仰而设计的建筑特例"
+    "name": "埃维",
+    "name_en": "Éveux",
+    "lat": 45.85417,
+    "lon": 4.7625,
+    "country": "法國",
+    "region": "歐洲",
+    "quote": "一个叫做Eveux的小镇",
+    "context": "柯比義的拉图雷特修道院所在地"
   },
   {
     "name": "拉图雷特修道院",
-    "name_en": "Sainte Marie de La Tourette",
-    "lat": 45.819,
-    "lon": 4.622,
-    "country": "法国",
-    "region": "亞洲",
-    "quote": "然后他那些地方叫做拉图雷特修道院",
-    "context": "详细介绍柯比意晚期极具特色的粗糙混凝土建筑"
+    "name_en": "Sainte Marie de La Tourette Convent",
+    "lat": 45.85417,
+    "lon": 4.7625,
+    "country": "法國",
+    "region": "歐洲",
+    "quote": "他那些地方叫做拉图雷特修道院",
+    "context": "柯比義晚期代表作"
+  },
+  {
+    "name": "罗马",
+    "name_en": "Rome",
+    "lat": 41.90278,
+    "lon": 12.49637,
+    "country": "義大利",
+    "region": "歐洲",
+    "quote": "比如说我自己很有 最有印象的一件事情 其实是在罗马大街上",
+    "context": "旅途中发生有趣的小插曲",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Trevi_Fountain%2C_Rome%2C_Italy_2_-_May_2007.jpg/330px-Trevi_Fountain%2C_Rome%2C_Italy_2_-_May_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "台北101",
+    "name_en": "Taipei 101",
+    "lat": 25.03396,
+    "lon": 121.56473,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "那为什么会觉得说好像纽约的高尔大厦跟台北101长得差不多",
+    "context": "讨论现代建筑的同质性",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Taipei_101_logo.svg/330px-Taipei_101_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "佛罗伦斯",
+    "name_en": "Florence",
+    "lat": 43.76959,
+    "lon": 11.25584,
+    "country": "義大利",
+    "region": "歐洲",
+    "quote": "就是之前我在佛罗伦斯玩的时候",
+    "context": "参观学院美术馆"
+  },
+  {
+    "name": "学院美术馆",
+    "name_en": "Accademia Gallery",
+    "lat": 43.77257,
+    "lon": 11.25793,
+    "country": "義大利",
+    "region": "歐洲",
+    "quote": "佛罗伦斯有一个学院美术馆",
+    "context": "参观大卫像并观察人与空间互动"
+  },
+  {
+    "name": "大卫像",
+    "name_en": "Statue of David",
+    "lat": 43.77257,
+    "lon": 11.25793,
+    "country": "義大利",
+    "region": "歐洲",
+    "quote": "那它大卫像还是放在一个很棒的一个圆顶下面",
+    "context": "震撼的艺术品，观察人们的表情"
+  },
+  {
+    "name": "圣家堂",
+    "name_en": "Sagrada Familia",
+    "lat": 41.40363,
+    "lon": 2.17435,
+    "country": "西班牙",
+    "region": "歐洲",
+    "quote": "譬如说我看圣家堂 我觉得哇天哪圣家堂太屌了",
+    "context": "作为特殊案例讨论与人的关系",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/SF_maig_2_cropped.jpg/330px-SF_maig_2_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]

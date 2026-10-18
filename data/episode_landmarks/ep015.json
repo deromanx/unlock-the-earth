@@ -6,57 +6,68 @@
     "lon": -83.852,
     "country": "哥斯大黎加",
     "region": "美洲",
-    "quote": "有一个火山叫做伊拉苏 那伊拉苏火山它是死火山啦",
-    "context": "距離首都近的死火山，可開車直達火山口。"
-  },
-  {
-    "name": "中國街",
-    "name_en": "Barrio Chino San José",
-    "lat": 9.931,
-    "lon": -84.077,
-    "country": "哥斯大黎加",
-    "region": "美洲",
-    "quote": "他们也有一个中国城 诶其实也不是中国城 就是中国街这样",
-    "context": "聖荷西的華人街，但講述者覺得幾乎沒中國相關事物。"
+    "quote": "在SENJOSÉ旁邊呢，很近的地方，大概開車半小時的地方，有一個火山，叫做伊拉蘇。",
+    "context": "哥斯大黎加的死火山，可開車直達火山口，景色優美。"
   },
   {
     "name": "拉福圖納",
     "name_en": "La Fortuna",
-    "lat": 10.471,
-    "lon": -84.645,
+    "lat": 10.472,
+    "lon": -84.647,
     "country": "哥斯大黎加",
     "region": "美洲",
-    "quote": "一个是他们比较中部的地方 叫La Fortuna",
-    "context": "作者離開首都後前往的中部城鎮，以火山景點聞名。"
+    "quote": "我們後來去了兩個點，一個是他們比較中部的地方，叫La Fortuna。",
+    "context": "哥斯大黎加中部城鎮，阿雷納火山所在地。"
   },
   {
-    "name": "阿雷納爾火山",
+    "name": "利比里亞",
+    "name_en": "Liberia",
+    "lat": 10.634,
+    "lon": -85.441,
+    "country": "哥斯大黎加",
+    "region": "美洲",
+    "quote": "後來我們再去西邊，靠太平洋的海岸，一個叫一個城市叫Liberia。",
+    "context": "哥斯大黎加西岸城市，天氣較好，有許多海灘和國家公園。",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_Liberia.svg/330px-Flag_of_Liberia.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "阿雷納火山",
     "name_en": "Arenal Volcano",
-    "lat": 10.463,
+    "lat": 10.464,
     "lon": -84.703,
     "country": "哥斯大黎加",
     "region": "美洲",
-    "quote": "在La Fortuna那个火山啊 他叫做Arenna 这个Arenna火山",
-    "context": "外型標準的錐形火山，但作者去時因起霧沒能看到。"
-  },
-  {
-    "name": "利韋里亞",
-    "name_en": "Liberia",
-    "lat": 10.634,
-    "lon": -85.437,
-    "country": "哥斯大黎加",
-    "region": "美洲",
-    "quote": "后来我们再去西边 靠太平洋的海岸 一个城市叫Liberia",
-    "context": "西部沿岸的小城市，有著人少的沙灘和陽光普照的天氣。"
+    "quote": "在La Fortuna那個火山啊，他叫做Arenna這個Arenna火山他就是整個形狀他是一個就跟你想像中標準火山就長一樣這樣子。",
+    "context": "位於拉福圖納，形狀獨特，但因下雨未能看見。"
   },
   {
     "name": "林貢國家公園",
     "name_en": "Rincón de la Vieja National Park",
-    "lat": 10.83,
-    "lon": -85.324,
+    "lat": 10.835,
+    "lon": -85.315,
     "country": "哥斯大黎加",
     "region": "美洲",
-    "quote": "其中一个国家公园叫林贡 那这个国家公园呢 他著名的就是火山景点",
-    "context": "擁有冒煙的池子和硫磺味，地熱景觀豐富的國家公園。"
+    "quote": "我們有去Liberia旁邊的其中一個國家公園叫林貢。",
+    "context": "利比里亞附近的火山國家公園，有冒煙池和硫磺味。"
+  },
+  {
+    "name": "卡塔哥",
+    "name_en": "Cartago",
+    "lat": 9.866,
+    "lon": -83.919,
+    "country": "哥斯大黎加",
+    "region": "美洲",
+    "quote": "住在Sé José附近一個叫Gadago的一個小鎮。",
+    "context": "聖約瑟附近的小鎮，曾是西班牙殖民時期的首都。"
+  },
+  {
+    "name": "天使聖母教堂",
+    "name_en": "Basílica de Nuestra Señora de los Ángeles",
+    "lat": 9.863,
+    "lon": -83.915,
+    "country": "哥斯大黎加",
+    "region": "美洲",
+    "quote": "它叫做呃天使教堂之類的，內部裝潢啊，我覺得跟我們在歐陸習慣看到的那些教堂都差很多。",
+    "context": "卡塔哥的一座獨特教堂，供奉聖母瑪利亞雕像，有傳奇故事。"
   }
 ]

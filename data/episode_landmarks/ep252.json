@@ -40,7 +40,8 @@
     "country": "中國",
     "region": "亞洲",
     "quote": "有一天的行程就是要去那個看兵馬泳 然後看華清池",
-    "context": "唐玄宗與楊貴妃的故事及西安事變發生地"
+    "context": "唐玄宗與楊貴妃的故事及西安事變發生地",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Huaqingchi_1.JPG/330px-Huaqingchi_1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "鴻門宴遺址",
@@ -60,7 +61,8 @@
     "country": "中國",
     "region": "亞洲",
     "quote": "當初西安事變的那個地點 就在華清池後面的那個離山上面那邊",
-    "context": "西安事變蔣中正被軟禁的地點"
+    "context": "西安事變蔣中正被軟禁的地點",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Yuan_Jiang-At_Mount_Li_Escaping_the_Heat.jpg/330px-Yuan_Jiang-At_Mount_Li_Escaping_the_Heat.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "秦始皇陵",
@@ -70,7 +72,8 @@
     "country": "中國",
     "region": "亞洲",
     "quote": "就是那個秦始皇的始皇陵",
-    "context": "未被盜掘的古代帝王陵墓"
+    "context": "未被盜掘的古代帝王陵墓",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Tomb_of_the_First_Emperor_Qin_Shi_Huang_Di%2C_Xi%27an%2C_China_-_panoramio.jpg/330px-Tomb_of_the_First_Emperor_Qin_Shi_Huang_Di%2C_Xi%27an%2C_China_-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "乾陵",

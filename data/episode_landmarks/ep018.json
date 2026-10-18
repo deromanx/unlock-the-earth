@@ -1,22 +1,24 @@
 [
   {
-    "name": "奔牛街",
-    "name_en": "Calle de la Estafeta",
-    "lat": 42.817,
-    "lon": -1.642,
+    "name": "潘普洛納",
+    "name_en": "Pamplona",
+    "lat": 42.81,
+    "lon": -1.65,
     "country": "西班牙",
     "region": "歐洲",
-    "quote": "那个地方就是大家一定都没听过 但是大家应该都会知道奔牛街",
-    "context": "介紹西班牙交換城市潘普洛納的著名街道與文化"
+    "quote": "我那時候在西班牙北部有一個地方叫潘普洛納",
+    "context": "嘉賓交換學習的城市",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Monumento_a_los_Fueros_%28Pamplona%29.jpg/330px-Monumento_a_los_Fueros_%28Pamplona%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "中山醫學大學",
-    "name_en": "Chung Shan Medical University",
-    "lat": 24.122,
-    "lon": 120.651,
+    "name": "台中",
+    "name_en": "Taichung",
+    "lat": 24.15,
+    "lon": 120.68,
     "country": "台灣",
     "region": "台灣",
-    "quote": "中山医跟中国医都在台中 好像是中山医",
-    "context": "奧地利沙發衝浪女主人曾在台灣交換就讀的大學"
+    "quote": "結果沒想到是 他們那女生是 曾經在台中",
+    "context": "主播朋友的交換地點",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Taichung_skyline.png/330px-Taichung_skyline.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]

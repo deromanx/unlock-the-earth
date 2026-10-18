@@ -1,0 +1,106 @@
+[
+  {
+    "name": "海德堡",
+    "name_en": "Heidelberg",
+    "lat": 49.4121,
+    "lon": 8.7073,
+    "country": "德國",
+    "region": "歐洲",
+    "quote": "就是在海德堡的时候",
+    "context": "主持人認識的白俄羅斯人在海德堡",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/K%C3%B6nigstuhl%2C_Heidelberg%2C_U-17.jpg/330px-K%C3%B6nigstuhl%2C_Heidelberg%2C_U-17.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "明斯克",
+    "name_en": "Minsk",
+    "lat": 53.9063,
+    "lon": 27.5619,
+    "country": "白俄羅斯",
+    "region": "歐洲",
+    "quote": "白俄罗斯的首都是哪你知道吗明斯克",
+    "context": "白俄羅斯的首都，蘇聯風格建築",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/View_of_Minsk_%28180819%29_09.jpg/330px-View_of_Minsk_%28180819%29_09.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "戰爭獨立廣場",
+    "name_en": "Victory Square",
+    "lat": 53.9054,
+    "lon": 27.5757,
+    "country": "白俄羅斯",
+    "region": "歐洲",
+    "quote": "明斯克最有名的就是他的战争独立广场",
+    "context": "明斯克最有名景點之一"
+  },
+  {
+    "name": "戰爭博物館",
+    "name_en": "Museum of the Great Patriotic War",
+    "lat": 53.896,
+    "lon": 27.5491,
+    "country": "白俄羅斯",
+    "region": "歐洲",
+    "quote": "还有一个战争博物馆",
+    "context": "位於明斯克，講述抵抗納粹德國"
+  },
+  {
+    "name": "迷尼博物館",
+    "name_en": "Mini Museum",
+    "lat": 53.9063,
+    "lon": 27.5619,
+    "country": "白俄羅斯",
+    "region": "歐洲",
+    "quote": "然后我还有去他们的那个迷尼博物馆",
+    "context": "介紹白俄羅斯歷史與市政規劃"
+  },
+  {
+    "name": "獨立國家廣場",
+    "name_en": "Independence Square",
+    "lat": 53.9034,
+    "lon": 27.5605,
+    "country": "白俄羅斯",
+    "region": "歐洲",
+    "quote": "独立国家广场楼下就是百货公司",
+    "context": "明斯克市中心廣場，有地下商場"
+  },
+  {
+    "name": "吉布地",
+    "name_en": "Djibouti",
+    "lat": 11.5833,
+    "lon": 43.15,
+    "country": "吉布地",
+    "region": "非洲",
+    "quote": "我想去吉普蒂啊",
+    "context": "主持人想去的旅遊目的地",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_Djibouti.svg/330px-Flag_of_Djibouti.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "索馬利蘭",
+    "name_en": "Somaliland",
+    "lat": 8.0,
+    "lon": 47.0,
+    "country": "索馬利亞",
+    "region": "非洲",
+    "quote": "但是索马利亚认为索马利兰是索马利亚",
+    "context": "台灣人入境受限的區域",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Flag_of_Somaliland.svg/330px-Flag_of_Somaliland.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "米爾城堡",
+    "name_en": "Mir Castle",
+    "lat": 53.4557,
+    "lon": 26.48,
+    "country": "白俄羅斯",
+    "region": "歐洲",
+    "quote": "他一开始立陶宛大公国帮他盖的这个城堡",
+    "context": "16世紀立陶宛時期古堡"
+  },
+  {
+    "name": "涅斯維日城堡",
+    "name_en": "Nesvizh Castle",
+    "lat": 53.2144,
+    "lon": 26.6728,
+    "country": "白俄羅斯",
+    "region": "歐洲",
+    "quote": "他一开始立陶宛大公国帮他盖的这个城堡",
+    "context": "16世紀立陶宛時期古堡"
+  }
+]

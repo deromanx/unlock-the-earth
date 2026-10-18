@@ -2,61 +2,152 @@
   {
     "name": "海德公園",
     "name_en": "Hyde Park",
-    "lat": 51.507,
-    "lon": -0.165,
+    "lat": 51.5074,
+    "lon": -0.1657,
     "country": "英國",
     "region": "歐洲",
-    "quote": "我們沿著海德公園，就看到一堆鮮花",
-    "context": "黛安娜王妃過世時，民眾堆放鮮花致意的地方"
+    "quote": "我們沿著海德公園就看到一堆鮮花",
+    "context": "黛安娜王妃悼念現場",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Aerial_view_of_Hyde_Park.jpg/330px-Aerial_view_of_Hyde_Park.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "西敏寺",
     "name_en": "Westminster Abbey",
-    "lat": 51.499,
-    "lon": -0.127,
+    "lat": 51.4994,
+    "lon": -0.1274,
     "country": "英國",
     "region": "歐洲",
     "quote": "那個西敏寺就做了一個很大的這個哀悼",
-    "context": "舉辦黛安娜王妃國喪哀悼儀式的地點"
+    "context": "黛安娜王妃悼念場所"
   },
   {
-    "name": "中央聖馬丁學院",
+    "name": "聖馬丁 (藝術學院)",
     "name_en": "Central Saint Martins",
-    "lat": 51.535,
-    "lon": -0.125,
+    "lat": 51.5217,
+    "lon": -0.0815,
     "country": "英國",
     "region": "歐洲",
-    "quote": "我的學校是聖馬丁，然後聖馬丁就是很多時尚人會去的",
-    "context": "講者就讀的藝術學院，培育了許多知名設計師"
+    "quote": "我是所謂的那種創作藝術系出來的，然後我的學校是聖馬丁",
+    "context": "演講者母校，時尚設計名校",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Central_Saint_Martins_College_of_Arts_and_Design_King%27s_Cross.jpg/330px-Central_Saint_Martins_College_of_Arts_and_Design_King%27s_Cross.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "國家美術館",
-    "name_en": "National Gallery",
-    "lat": 51.508,
-    "lon": -0.128,
+    "name_en": "The National Gallery",
+    "lat": 51.5086,
+    "lon": -0.1284,
     "country": "英國",
     "region": "歐洲",
-    "quote": "倫敦的國家美術館好了，倫敦最大的這個西洋美術史的經典",
-    "context": "講述梵谷畫作以及黑奴貿易歷史的重要導覽地"
+    "quote": "比如說一些很大名聲的藝術家，就說國家美術館",
+    "context": "倫敦重要藝術博物館",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Galer%C3%ADa_Nacional%2C_Londres%2C_Inglaterra%2C_2014-08-07%2C_DD_036.JPG/330px-Galer%C3%ADa_Nacional%2C_Londres%2C_Inglaterra%2C_2014-08-07%2C_DD_036.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "泰德美術館",
+    "name_en": "Tate Modern",
+    "lat": 51.5055,
+    "lon": -0.1007,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "你就說這個早上十點半在泰德美術館見面這樣子",
+    "context": "導覽集合地點",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Tate_Modern_-_Bankside_Power_Station.jpg/330px-Tate_Modern_-_Bankside_Power_Station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "大英博物館",
     "name_en": "British Museum",
-    "lat": 51.519,
-    "lon": -0.126,
+    "lat": 51.5194,
+    "lon": -0.127,
     "country": "英國",
     "region": "歐洲",
-    "quote": "我個人覺得最近讓我很感動的一個文物，就是在大英博物館裡面的復活島石雕",
-    "context": "展示復活節島石雕，近期因島民抗議而改寫導覽敘述"
+    "quote": "就是在大英博物館裡面的復活島石雕",
+    "context": "討論文物歸還爭議",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/British_Museum_from_NE_2.JPG/330px-British_Museum_from_NE_2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "復活節島",
+    "name": "復活島石雕",
+    "name_en": "Easter Island Statue (Moai)",
+    "lat": -27.121,
+    "lon": -109.3617,
+    "country": "智利",
+    "region": "美洲",
+    "quote": "就是在大英博物館裡面的復活島石雕",
+    "context": "討論文物歸還爭議"
+  },
+  {
+    "name": "復活島",
     "name_en": "Easter Island",
-    "lat": -27.112,
-    "lon": -109.366,
+    "lat": -27.121,
+    "lon": -109.3617,
     "country": "智利",
     "region": "美洲",
     "quote": "復活島它是在南美智利外面的一個小島",
-    "context": "大英博物館中爭議石雕的來源地，島民跨海爭取文物"
+    "context": "石雕的發源地",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Easter_Island_5.jpg/330px-Easter_Island_5.jpg"
+  },
+  {
+    "name": "倫敦橋",
+    "name_en": "London Bridge",
+    "lat": 51.5075,
+    "lon": -0.0895,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "那個地方就在倫敦橋附近",
+    "context": "歷史手術室發現地",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/London_Bridge_from_St_Olaf_Stairs.jpg/330px-London_Bridge_from_St_Olaf_Stairs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "史密斯菲爾德市場",
+    "name_en": "Smithfield Market",
+    "lat": 51.5177,
+    "lon": -0.1031,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "倫敦最大的肉鋪叫Smithfield Market",
+    "context": "手術的發源地",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Smithfield_Meat_Market_tower1.jpg/330px-Smithfield_Meat_Market_tower1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "倫敦政經學院",
+    "name_en": "London School of Economics and Political Science",
+    "lat": 51.512,
+    "lon": -0.1144,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "他當時去LSE就是倫敦政經學院",
+    "context": "徐志摩旁聽、學生運動地點",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/London_School_of_Economics_Coat_of_Arms.svg/330px-London_School_of_Economics_Coat_of_Arms.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "劍橋",
+    "name_en": "Cambridge",
+    "lat": 52.2053,
+    "lon": 0.1218,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "他可能是後來愛不到，所以他當時這個朋友，是建議他去劍橋",
+    "context": "徐志摩求學地，大學宗教限制",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Cambridge_-_Kings_College_vue_des_backs.jpg/330px-Cambridge_-_Kings_College_vue_des_backs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "Bloomsbury",
+    "name_en": "Bloomsbury",
+    "lat": 51.5232,
+    "lon": -0.1267,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "一群接近大英博物館那一群，叫Bloomsbury這一代的作家們",
+    "context": "文人聚集區，徐志摩可能互動",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/British_Museum_from_NE_2_%28cropped%29.JPG/330px-British_Museum_from_NE_2_%28cropped%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "黑奴紀念碑",
+    "name_en": "Monument to the Abolition of the Slave Trade",
+    "lat": 51.5143,
+    "lon": -0.0979,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "我試著帶大家去一個黑奴紀念碑",
+    "context": "紀念奴隸貿易歷史"
   }
 ]

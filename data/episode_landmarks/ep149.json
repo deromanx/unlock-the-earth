@@ -27,7 +27,8 @@
     "country": "英國",
     "region": "歐洲",
     "quote": "那所以在溫沙裡面也有一個聖喬治小教堂",
-    "context": "提及內部設有皇家特用的小教堂"
+    "context": "提及內部設有皇家特用的小教堂",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Windsor_Castle_at_Sunset_-_Nov_2006.jpg/330px-Windsor_Castle_at_Sunset_-_Nov_2006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "聖喬治小教堂",
@@ -37,7 +38,8 @@
     "country": "英國",
     "region": "歐洲",
     "quote": "那所以在溫沙裡面也有一個聖喬治小教堂",
-    "context": "舉例說明的皇家特用教堂之一"
+    "context": "舉例說明的皇家特用教堂之一",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/St._Georges_Chapel%2C_Windsor_Castle_%282%29.jpg/330px-St._Georges_Chapel%2C_Windsor_Castle_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "倫敦塔",
@@ -47,7 +49,8 @@
     "country": "英國",
     "region": "歐洲",
     "quote": "那還有在倫敦塔裡面 也有一個小教堂",
-    "context": "提及內部也設有皇家特用教堂"
+    "context": "提及內部也設有皇家特用教堂",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Tower_of_London_from_the_Shard_%288515883950%29.jpg/330px-Tower_of_London_from_the_Shard_%288515883950%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "聖保羅大教堂",

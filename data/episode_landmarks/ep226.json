@@ -58,7 +58,8 @@
     "country": "英國",
     "region": "歐洲",
     "quote": "这个Olaf其实是和一个故事 伦敦桥垮下来有关",
-    "context": "提及與挪威國王奇襲維京人有關的故事"
+    "context": "提及與挪威國王奇襲維京人有關的故事",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/London_Bridge_from_St_Olaf_Stairs.jpg/330px-London_Bridge_from_St_Olaf_Stairs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "溫莎城堡",
@@ -68,7 +69,8 @@
     "country": "英國",
     "region": "歐洲",
     "quote": "他当时就从伦敦逃离出来 他就躲在瘟沙和汉不顿宫",
-    "context": "亨利八世躲避瘟疫的逃亡地之一"
+    "context": "亨利八世躲避瘟疫的逃亡地之一",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Windsor_Castle_at_Sunset_-_Nov_2006.jpg/330px-Windsor_Castle_at_Sunset_-_Nov_2006.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "漢普頓宮",

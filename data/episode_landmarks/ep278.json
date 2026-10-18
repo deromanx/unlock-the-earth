@@ -1,0 +1,268 @@
+[
+  {
+    "name": "信义国中",
+    "name_en": "Xinyi Junior High School",
+    "lat": 25.039,
+    "lon": 121.545,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "信义国中的那个 社区大学玛雅文字解读",
+    "context": "玛雅人曾在此处开办社区大学课程。"
+  },
+  {
+    "name": "人类学博物馆",
+    "name_en": "National Museum of Anthropology",
+    "lat": 19.427,
+    "lon": -99.187,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "对啊 我们这次其实在 人类学博物馆也会看到 就真的是很大的一个大头",
+    "context": "收藏有大量中美洲古文明文物，包括奥尔梅克大头。"
+  },
+  {
+    "name": "奥尔梅克巨石像",
+    "name_en": "Olmec Colossal Heads",
+    "lat": 19.427,
+    "lon": -99.187,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "对啊 我们这次其实在 人类学博物馆也会看到 就真的是很大的一个大头",
+    "context": "奥尔梅克文明最著名的艺术品，现多收藏于人类学博物馆。"
+  },
+  {
+    "name": "特诺奇蒂特兰城",
+    "name_en": "Tenochtitlan",
+    "lat": 19.432,
+    "lon": -99.133,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "然后最后他邀请他们参观他们的首都 特诺奇地特兰城 就是今天的墨西哥城",
+    "context": "阿兹特克帝国的首都，是今日墨西哥城的前身。"
+  },
+  {
+    "name": "三种文化广场",
+    "name_en": "Plaza de las Tres Culturas",
+    "lat": 19.437,
+    "lon": -99.147,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "所以墨西哥城里面就干脆有一个广场 就叫三种文化广场",
+    "context": "象征墨西哥古代、殖民及现代文化的广场。"
+  },
+  {
+    "name": "瓜达卢佩圣母圣殿",
+    "name_en": "Basilica of Our Lady of Guadalupe",
+    "lat": 19.472,
+    "lon": -99.074,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "我们这次好像也会去一个 他们有一个叫 瓜达路配圣母的圣殿",
+    "context": "墨西哥最重要的天主教朝圣地之一。"
+  },
+  {
+    "name": "提奥蒂瓦坎",
+    "name_en": "Teotihuacan",
+    "lat": 19.692,
+    "lon": -98.844,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "然后最后一个就是它的飞龙在天 与蛇神庙",
+    "context": "古代中美洲的巨大城市遗址，有太阳金字塔和月亮金字塔。"
+  },
+  {
+    "name": "太阳金字塔",
+    "name_en": "Pyramid of the Sun",
+    "lat": 19.691,
+    "lon": -98.844,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "一个是太阳金字塔",
+    "context": "提奥蒂瓦坎遗址中最主要的金字塔之一。",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/2020-02-11_Teotihuacan_la_Avenida_de_los_Muertos_y_la_Pir%C3%A1mide_del_Sol.jpg/330px-2020-02-11_Teotihuacan_la_Avenida_de_los_Muertos_y_la_Pir%C3%A1mide_del_Sol.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "月亮金字塔",
+    "name_en": "Pyramid of the Moon",
+    "lat": 19.693,
+    "lon": -98.842,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "然后月亮金字塔",
+    "context": "提奥蒂瓦坎遗址的主要金字塔之一。"
+  },
+  {
+    "name": "羽蛇神庙",
+    "name_en": "Temple of the Feathered Serpent",
+    "lat": 19.695,
+    "lon": -98.841,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "然后最后一个就是它的飞龙在天 与蛇神庙",
+    "context": "提奥蒂瓦坎遗址的重要神庙。"
+  },
+  {
+    "name": "奇琴伊察",
+    "name_en": "Chichen Itza",
+    "lat": 20.683,
+    "lon": -88.568,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "世界新七大集井 墨西哥人最爱卖的主产 叫做那个 齐琴伊察",
+    "context": "世界新七大奇迹之一，玛雅遗址。",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Chichen_Itza_3.jpg/330px-Chichen_Itza_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "土拉",
+    "name_en": "Tula",
+    "lat": 20.042,
+    "lon": -99.279,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "托尔特克的首都叫土拉",
+    "context": "托尔特克文明的首都，历史遗址。"
+  },
+  {
+    "name": "瓦哈卡",
+    "name_en": "Oaxaca",
+    "lat": 17.067,
+    "lon": -96.726,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "然后之后就会去一个就会去一个 号称墨西哥台南的地方",
+    "context": "墨西哥的美食之都，有许多历史遗址和特色工艺品。",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Oaxaqa_%2841%29.jpg/330px-Oaxaqa_%2841%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "瓜纳华托",
+    "name_en": "Guanajuato",
+    "lat": 21.017,
+    "lon": -101.25,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "那今天那个区域其实就是瓜纳华多 也是一个旅游圣地",
+    "context": "西班牙人曾在此发现金银矿，现为旅游胜地。",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_of_Guanajuato.svg/330px-Flag_of_Guanajuato.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "圣米格尔阿连德",
+    "name_en": "San Miguel de Allende",
+    "lat": 20.917,
+    "lon": -100.733,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "S. Miguel Arendes",
+    "context": "墨西哥的殖民时期城市，著名的旅游目的地。",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/San_Miguel_de_Allende_Collage.jpg/330px-San_Miguel_de_Allende_Collage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "卡卡什塔拉",
+    "name_en": "Kakaxtla",
+    "lat": 19.302,
+    "lon": -98.074,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "然后还会有一个私房景点的遗址 叫做卡卡什塔拉",
+    "context": "拥有保存完整宫殿和玛雅风格壁画的偏僻遗址。"
+  },
+  {
+    "name": "蒙特阿尔班",
+    "name_en": "Monte Alban",
+    "lat": 16.978,
+    "lon": -96.777,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "所以他那边也会有萨波台克的一些遗址 Monte Alban",
+    "context": "萨波台克文明的古代遗址，世界文化遗产。",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Monte_Alban_West_Side_Platform.jpg/330px-Monte_Alban_West_Side_Platform.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "盖拉盖茶节",
+    "name_en": "Guelaguetza Festival",
+    "lat": 17.067,
+    "lon": -96.726,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "七月份阿哈卡有一个非常重要的节庆 叫 盖拉盖茶 !",
+    "context": "瓦哈卡地区每年七月举行的重要文化节庆。"
+  },
+  {
+    "name": "白狗王国 (萨茜)",
+    "name_en": "White Dog Kingdom (Siete)",
+    "lat": 16.5,
+    "lon": -93.0,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "我们在那个玛雅文献上面 然后有看到一个城邦 叫白狗王国",
+    "context": "玛雅文献中记载的城邦，在农场中被重新发现。"
+  },
+  {
+    "name": "恰帕斯州",
+    "name_en": "Chiapas",
+    "lat": 16.5,
+    "lon": -93.0,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "那一区是蛮荒地区 就是他在墨西哥南部的恰帕斯州",
+    "context": "墨西哥南部区域，有许多原住民部落和考古遗址。"
+  },
+  {
+    "name": "帝王蝶栖息地",
+    "name_en": "Monarch Butterfly Biosphere Reserve",
+    "lat": 19.595,
+    "lon": -100.301,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "对 墨西哥特有种 它是墨西哥很独特的一个自然现象",
+    "context": "帝王蝶冬季迁徙的目的地，独特的自然景观。"
+  },
+  {
+    "name": "安提瓜",
+    "name_en": "Antigua Guatemala",
+    "lat": 14.557,
+    "lon": -90.734,
+    "country": "危地马拉",
+    "region": "美洲",
+    "quote": "那我在那个像是在那个 安提瓜的那个饭店 安提瓜其实是古都嘛",
+    "context": "危地马拉的古都，城外有火山景观。"
+  },
+  {
+    "name": "提卡尔",
+    "name_en": "Tikal",
+    "lat": 17.223,
+    "lon": -89.627,
+    "country": "危地马拉",
+    "region": "美洲",
+    "quote": "光是提卡就 几十个吧",
+    "context": "危地马拉的著名玛雅遗址，有大量金字塔。"
+  },
+  {
+    "name": "波波火山",
+    "name_en": "Popocatépetl",
+    "lat": 19.023,
+    "lon": -98.607,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "我你说波波火山",
+    "context": "墨西哥一座著名且持续活跃的火山。"
+  },
+  {
+    "name": "特拉尔特洛库",
+    "name_en": "Tlatelolco",
+    "lat": 19.435,
+    "lon": -99.139,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "一个就是特诺奇地特兰 然后另外一个是Talatetokou 那是另外一个阿兹特克人的城邦",
+    "context": "曾是与特诺奇蒂特兰并存的阿兹特克城邦。"
+  },
+  {
+    "name": "阿卡滕南戈",
+    "name_en": "Acatenango",
+    "lat": 14.498,
+    "lon": -90.878,
+    "country": "危地马拉",
+    "region": "美洲",
+    "quote": "Aca Tenango 也是一个火山 很难爬",
+    "context": "危地马拉的地名，有火山，也是咖啡产区。"
+  }
+]

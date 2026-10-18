@@ -7,7 +7,8 @@
     "country": "英國",
     "region": "歐洲",
     "quote": "我們的母港是南安普敦",
-    "context": "該郵輪航線的起點與終點母港"
+    "context": "該郵輪航線的起點與終點母港",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/View_across_Ocean_Village_Marina_%28geograph_5432669%29.jpg/330px-View_across_Ocean_Village_Marina_%28geograph_5432669%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "根西島",
@@ -47,7 +48,8 @@
     "country": "愛爾蘭",
     "region": "歐洲",
     "quote": "就是COBH",
-    "context": "郵輪特別停靠的愛爾蘭小港口"
+    "context": "郵輪特別停靠的愛爾蘭小港口",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Cobh.jpg/330px-Cobh.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "勒阿弗爾",
@@ -57,6 +59,7 @@
     "country": "法國",
     "region": "歐洲",
     "quote": "會停法國的第二大港",
-    "context": "供旅客下船轉乘前往巴黎的停靠港"
+    "context": "供旅客下船轉乘前往巴黎的停靠港",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Panorama_of_Le_Havre%2C_September_2019.jpg/330px-Panorama_of_Le_Havre%2C_September_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]

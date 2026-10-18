@@ -2,11 +2,146 @@
   {
     "name": "黑石沙漠",
     "name_en": "Black Rock Desert",
-    "lat": 40.786,
-    "lon": -119.206,
+    "lat": 40.8802,
+    "lon": -119.0049,
     "country": "美國",
     "region": "美洲",
-    "quote": "火人節他就是辦在 內華達 美國內華達 黑石沙漠的一個 短期派對的那種感覺",
-    "context": "為本集探討核心「火人節」的舉辦場地，參加者須在沙漠中自給自足生存七天。"
+    "quote": "火人節他就是辦在內華達美國內華達黑石沙漠的一個短期派對",
+    "context": "Burning Man音樂季的舉辦地點"
+  },
+  {
+    "name": "舊金山",
+    "name_en": "San Francisco",
+    "lat": 37.7749,
+    "lon": -122.4194,
+    "country": "美國",
+    "region": "美洲",
+    "quote": "我是搭到San Francisco",
+    "context": "前往Burning Man的交通節點",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Zeppelin-ride-020100925-195_%285029394846%29.jpg/330px-Zeppelin-ride-020100925-195_%285029394846%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "沙加緬度",
+    "name_en": "Sacramento",
+    "lat": 38.5816,
+    "lon": -121.4944,
+    "country": "美國",
+    "region": "美洲",
+    "quote": "先搭飛機搭到Sacramento",
+    "context": "前往Burning Man的交通節點",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Sacramento%2C_CA_skyline_%28cropped%29.jpg/330px-Sacramento%2C_CA_skyline_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "雷諾",
+    "name_en": "Reno",
+    "lat": 39.5296,
+    "lon": -119.8157,
+    "country": "美國",
+    "region": "美洲",
+    "quote": "從Reno再進到Burning Man",
+    "context": "前往Burning Man的門戶城市",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Reno%2C_Nevada_%2816931715632%29.jpg/330px-Reno%2C_Nevada_%2816931715632%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "基隆西岸",
+    "name_en": "Keelung West Coast",
+    "lat": 25.133,
+    "lon": 121.74,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "基隆西岸它除了就是我們大家都知道的那些自然景觀之外啊",
+    "context": "音樂會場地及周邊景點區域"
+  },
+  {
+    "name": "基隆外幕山海埔新生地",
+    "name_en": "Keelung Wa-mou-shan Coastal Reclamation Area",
+    "lat": 25.11,
+    "lon": 121.75,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "音樂會它是舉辦在基隆西岸的那個基隆外幕山海埔新生地",
+    "context": "音樂會的具體舉辦地點"
+  },
+  {
+    "name": "白米瓮砲台",
+    "name_en": "Baimi Weng Battery",
+    "lat": 25.135,
+    "lon": 121.693,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "像是白米瓮砲台",
+    "context": "基隆的歷史文化景點"
+  },
+  {
+    "name": "仙洞巖",
+    "name_en": "Xiandongyan Cave",
+    "lat": 25.1485,
+    "lon": 121.717,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "仙洞演",
+    "context": "基隆的宗教與自然景點",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Photo_of_Kiirun_03.jpg/330px-Photo_of_Kiirun_03.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "基隆燈塔",
+    "name_en": "Keelung Lighthouse",
+    "lat": 25.176,
+    "lon": 121.742,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "基隆燈塔",
+    "context": "基隆的著名地標",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/2018_Keelung_Lighthouse_f.jpg/330px-2018_Keelung_Lighthouse_f.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "王爺廟",
+    "name_en": "Wangye Temple",
+    "lat": 25.1328,
+    "lon": 121.7408,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "王爺廟",
+    "context": "基隆的宗教場所"
+  },
+  {
+    "name": "竹港出張所",
+    "name_en": "Zhugang Chuzhangsuo",
+    "lat": 25.1285,
+    "lon": 121.7385,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "竹港出張所",
+    "context": "基隆的歷史建築"
+  },
+  {
+    "name": "人類洗車營區",
+    "name_en": "Human Car Wash Camp",
+    "lat": 40.8802,
+    "lon": -119.0049,
+    "country": "美國",
+    "region": "美洲",
+    "quote": "這裡是我們Human Car Wash Camp",
+    "context": "Burning Man的特色臨時營區"
+  },
+  {
+    "name": "焚燒的廟宇",
+    "name_en": "Temple",
+    "lat": 40.8802,
+    "lon": -119.0049,
+    "country": "美國",
+    "region": "美洲",
+    "quote": "禮拜天就是燒temple他們都會有一個廟",
+    "context": "Burning Man的告別儀式場所"
+  },
+  {
+    "name": "火人雕像",
+    "name_en": "Fire Man Statue",
+    "lat": 40.8802,
+    "lon": -119.0049,
+    "country": "美國",
+    "region": "美洲",
+    "quote": "是燒火人的那個雕像",
+    "context": "Burning Man的核心象徵物"
   }
 ]

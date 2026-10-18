@@ -1,42 +1,32 @@
 [
   {
-    "name": "台北車站大廳",
-    "name_en": "Taipei Main Station Hall",
-    "lat": 25.047,
-    "lon": 121.517,
+    "name": "台北車站",
+    "name_en": "Taipei Main Station",
+    "lat": 25.0477,
+    "lon": 121.5172,
     "country": "台灣",
     "region": "台灣",
-    "quote": "我常常一個人到禮拜天的台北車站大廳",
-    "context": "印尼移工週末聚集的地方，引發講者的好奇"
+    "quote": "我常常一個人到禮拜天的台北山大廳",
+    "context": "移工週日聚集場所，用於訪談交流"
   },
   {
     "name": "印尼街",
     "name_en": "Indonesian Street",
-    "lat": 25.047,
-    "lon": 121.518,
+    "lat": 25.055,
+    "lon": 121.516,
     "country": "台灣",
     "region": "台灣",
-    "quote": "在台北車站旁邊，走路兩分鐘就有一條印尼街",
-    "context": "移工帶領導覽的小旅行目的地，充滿異國風情"
+    "quote": "然後他所有招牌都是印尼文這樣子",
+    "context": "移工週末採買、聚會的特定街道"
   },
   {
-    "name": "東三門",
-    "name_en": "East Gate 3",
-    "lat": 25.047,
-    "lon": 121.518,
+    "name": "平溪",
+    "name_en": "Pingxi District",
+    "lat": 25.0265,
+    "lon": 121.7345,
     "country": "台灣",
     "region": "台灣",
-    "quote": "大概就是從東三門那邊出來",
-    "context": "描述印尼街的確切位置與方向"
-  },
-  {
-    "name": "中山北路",
-    "name_en": "Zhongshan North Road",
-    "lat": 25.048,
-    "lon": 121.522,
-    "country": "台灣",
-    "region": "台灣",
-    "quote": "然後往中山北路那個路上的那個路段",
-    "context": "說明印尼街所在的周邊道路範圍"
+    "quote": "他們很常去平溪就撿那個我們放天燈掉下來的垃圾",
+    "context": "移工淨灘的地點"
   }
 ]
