@@ -1,75 +1,117 @@
 [
   {
-    "name": "博斯普魯斯海峽",
-    "name_en": "Bosphorus Strait",
-    "lat": 41.026,
-    "lon": 29.004,
+    "name": "藍色清真寺",
+    "name_en": "Blue Mosque (Sultan Ahmed Mosque)",
+    "lat": 41.0054,
+    "lon": 28.9768,
     "country": "土耳其",
     "region": "亞洲",
-    "quote": "波斯伯魯斯",
-    "context": "切開伊斯坦堡，使其橫跨歐亞大陸的海峽",
+    "quote": "藍色清真寺跟聖索菲亞大教堂",
+    "context": "與聖索菲亞對望，黃昏景色絕美，為伊斯坦堡印象最深古蹟"
+  },
+  {
+    "name": "聖索菲亞大教堂",
+    "name_en": "Hagia Sophia",
+    "lat": 41.0086,
+    "lon": 28.9802,
+    "country": "土耳其",
+    "region": "亞洲",
+    "quote": "拿最經典的聖索菲亞大教堂來講好了",
+    "context": "歷經教堂、清真寺、博物館的轉變，聖像修復痕跡",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Hagia_Sophia_%28228968325%29.jpeg/330px-Hagia_Sophia_%28228968325%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "伊斯坦堡舊城區",
+    "name_en": "Sultanahmet (Istanbul Old City)",
+    "lat": 41.0054,
+    "lon": 28.9784,
+    "country": "土耳其",
+    "region": "亞洲",
+    "quote": "所有的景點基本上都是在舊城區",
+    "context": "古蹟密度極高，集中大量不同時期建築"
+  },
+  {
+    "name": "伊斯坦堡新城區",
+    "name_en": "Beyoglu (Istanbul New City)",
+    "lat": 41.037,
+    "lon": 28.985,
+    "country": "土耳其",
+    "region": "亞洲",
+    "quote": "新城區其實就是他們的科技的中心啊",
+    "context": "現代商業區，有川普大廈，作者沙發衝浪首站"
+  },
+  {
+    "name": "博斯普魯斯海峽",
+    "name_en": "Bosphorus Strait",
+    "lat": 41.119,
+    "lon": 29.077,
+    "country": "土耳其",
+    "region": "亞洲",
+    "quote": "他是世界上唯一一個橫跨歐亞大陸的城市",
+    "context": "分隔歐亞兩岸，山丘咖啡廳可俯瞰海峽景色",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Turkish_Strait_disambig.svg/330px-Turkish_Strait_disambig.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "金角灣",
     "name_en": "Golden Horn",
-    "lat": 41.025,
-    "lon": 28.96,
+    "lat": 41.043,
+    "lon": 28.964,
     "country": "土耳其",
-    "region": "歐洲",
-    "quote": "中間隔了一個叫做京腳灣",
-    "context": "分隔伊斯坦堡新城區與舊城區的地理界線",
+    "region": "亞洲",
+    "quote": "然後中間隔了一個叫做京腳灣",
+    "context": "隔開伊斯坦堡歐洲區新舊城區的海灣",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Ottoman_Istanbul_-_en.svg/330px-Ottoman_Istanbul_-_en.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "藍色清真寺",
-    "name_en": "Blue Mosque",
-    "lat": 41.005,
-    "lon": 28.976,
-    "country": "土耳其",
-    "region": "歐洲",
-    "quote": "就是你想到藍色新增寺啊",
-    "context": "伊斯坦堡舊城區的代表性古蹟之一"
-  },
-  {
-    "name": "聖索菲亞大教堂",
-    "name_en": "Hagia Sophia",
-    "lat": 41.008,
-    "lon": 28.978,
-    "country": "土耳其",
-    "region": "歐洲",
-    "quote": "拿最經典的聖索菲亞大教堂來講好了，它以前曾經是基督教的禮拜的地方嘛",
-    "context": "舉例說明建築在不同政權下轉變用途的歷史",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Hagia_Sophia_%28228968325%29.jpeg/330px-Hagia_Sophia_%28228968325%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "川普大廈（伊斯坦堡）",
-    "name_en": "Trump Towers Istanbul",
-    "lat": 41.062,
-    "lon": 28.992,
-    "country": "土耳其",
-    "region": "歐洲",
-    "quote": "從外看出去的第一個大樓，叫做Trump Tower",
-    "context": "來賓對土耳其新城區高度國際化的第一印象"
-  },
-  {
-    "name": "以弗所 / 愛菲索斯",
+    "name": "以弗所古城",
     "name_en": "Ephesus",
-    "lat": 37.941,
-    "lon": 27.341,
+    "lat": 37.9395,
+    "lon": 27.3417,
     "country": "土耳其",
     "region": "亞洲",
-    "quote": "中文可以翻叫以佛斯或是愛菲索斯",
-    "context": "全世界現存最大且最完整的古羅馬遺跡"
+    "quote": "事實上全世界最大的古羅馬遺跡在土耳其",
+    "context": "保存完整的大理石古羅馬城，可直接走入遺跡"
   },
   {
     "name": "棉堡",
-    "name_en": "Pamukkale",
-    "lat": 37.923,
-    "lon": 29.119,
+    "name_en": "Pamukkale (Hierapolis)",
+    "lat": 37.9137,
+    "lon": 29.1187,
     "country": "土耳其",
     "region": "亞洲",
-    "quote": "大家應該比較常聽到的就是棉堡",
-    "context": "指出其除了石灰岩地形外，更是一大片古羅馬遺跡"
+    "quote": "就是大家應該比較常聽到的就是棉堡",
+    "context": "石灰岩地形與山上古羅馬劇場、古泳池遺跡",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Pamukkale_30.jpg/330px-Pamukkale_30.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "布爾薩",
+    "name_en": "Bursa",
+    "lat": 40.1826,
+    "lon": 29.0665,
+    "country": "土耳其",
+    "region": "亞洲",
+    "quote": "我是從伊斯坦堡到布爾薩",
+    "context": "作者搭船前往的非觀光城市，遇自助餐被注視",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Bursa_image.jpg/330px-Bursa_image.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "布爾薩古鄂圖曼村落",
+    "name_en": "Cumalikizik Village, Bursa",
+    "lat": 40.216,
+    "lon": 29.142,
+    "country": "土耳其",
+    "region": "亞洲",
+    "quote": "那裡就有一座非常有名的就是古厄圖曼的Village",
+    "context": "保存傳統石屋的村落，可吃傳統土耳其早餐"
+  },
+  {
+    "name": "川普大廈",
+    "name_en": "Trump Towers Istanbul",
+    "lat": 41.0675,
+    "lon": 28.994,
+    "country": "土耳其",
+    "region": "亞洲",
+    "quote": "從外看出去的第一個大樓叫做Trump Tower",
+    "context": "作者對伊斯坦堡的第一印象，顛覆傳統想像"
   }
 ]

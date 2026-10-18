@@ -1,23 +1,45 @@
 [
   {
-    "name": "瑪瑙斯",
+    "name": "馬瑙斯",
     "name_en": "Manaus",
     "lat": -3.119,
-    "lon": -60.021,
+    "lon": -60.022,
     "country": "巴西",
     "region": "美洲",
-    "quote": "我那時候的地方在亞馬遜和 亞馬遜叢林附近的一個州叫做Manaus",
-    "context": "主角外派工廠所在的城市"
+    "quote": "亞馬遜叢林附近的一個州叫做Manaus",
+    "context": "講者外派駐廠所在地，位於亞馬遜雨林旁的工業區"
   },
   {
     "name": "亞馬遜河",
     "name_en": "Amazon River",
-    "lat": -3.16,
-    "lon": -59.932,
+    "lat": -3.14,
+    "lon": -59.9,
     "country": "巴西",
     "region": "美洲",
-    "quote": "我們工廠到亞馬遜河 大概就20分鐘的車程",
-    "context": "主角工廠附近的河流，有水上酒吧及特殊生態",
+    "quote": "我們工廠到亞馬遜河大概就20分鐘的車程",
+    "context": "工廠鄰近亞馬遜河，介紹粉紅海豚、食人魚與河上酒吧",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Amazon_River_ESA387332.jpg/330px-Amazon_River_ESA387332.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "亞馬遜雨林",
+    "name_en": "Amazon Rainforest",
+    "lat": -3.47,
+    "lon": -60.1,
+    "country": "巴西",
+    "region": "美洲",
+    "quote": "它是從亞馬遜雨林出來的",
+    "context": "馬瑙斯工廠區所在，也是巴西莓的產地",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Amazon17_%285641020319%29.jpg/330px-Amazon17_%285641020319%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "聖保羅",
+    "name_en": "São Paulo",
+    "lat": -23.55,
+    "lon": -46.633,
+    "country": "巴西",
+    "region": "美洲",
+    "quote": "他在聖保羅，聖保羅最多嘛",
+    "context": "南方客戶集中地，都會冷漠但發達",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Marginal_Pinheiros_e_Jockey_Club.jpg/330px-Marginal_Pinheiros_e_Jockey_Club.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]

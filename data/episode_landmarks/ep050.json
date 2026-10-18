@@ -1,55 +1,168 @@
 [
   {
-    "name": "塔美爾區",
-    "name_en": "Thamel",
-    "lat": 27.715,
-    "lon": 85.312,
-    "country": "尼泊爾",
-    "region": "亞洲",
-    "quote": "基本上背包客一定會去那個塔沒有區，就是塔沒有那個，那個老城區吧",
-    "context": "加德滿都著名的背包客聚集老城區",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Thamel_at_Night_-_Kathmandu%2C_Nepal_%281%29.jpg/330px-Thamel_at_Night_-_Kathmandu%2C_Nepal_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "薩德街",
-    "name_en": "Sudder Street",
-    "lat": 22.555,
-    "lon": 88.353,
+    "name": "瓦拉納西恆河河階",
+    "name_en": "Ganges Ghats, Varanasi",
+    "lat": 25.307,
+    "lon": 83.01,
     "country": "印度",
     "region": "亞洲",
-    "quote": "有一條街好像叫Souders Street吧，就很多背包客會先到那邊去",
-    "context": "加爾各答著名的背包客聚集街道",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Sudder_Street_%2814660873888%29.jpg/330px-Sudder_Street_%2814660873888%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    "quote": "橫河邊嘛 那其實我那時候住的地方 就是在橫河邊",
+    "context": "聖城恆河畔，火葬場與日常生活交融，作者住一週"
   },
   {
-    "name": "瓦拉納西恆河河壇",
-    "name_en": "Varanasi Ghats",
-    "lat": 25.308,
-    "lon": 83.013,
+    "name": "瓦拉納西老城區",
+    "name_en": "Old City of Varanasi",
+    "lat": 25.31,
+    "lon": 83.011,
     "country": "印度",
     "region": "亞洲",
-    "quote": "橫河邊其實就是北段跟南段都有一個火葬場，然後就是燒屍這樣子",
-    "context": "當地人生活與死亡的中心，進行沐浴與火葬的場所"
+    "quote": "那個老城的路真的很窄",
+    "context": "狹窄巷弄中有優格店，屍體抬過街道"
   },
   {
-    "name": "Blue Lassi 優格店",
-    "name_en": "Blue Lassi Shop",
-    "lat": 25.311,
-    "lon": 83.013,
+    "name": "馬尼卡尼卡火葬場",
+    "name_en": "Manikarnika Ghat",
+    "lat": 25.3109,
+    "lon": 83.0107,
     "country": "印度",
     "region": "亞洲",
-    "quote": "那個老城區其實有一個很有名的那個優格店，叫Blue La Sea這樣",
-    "context": "瓦拉納西老城區內知名小店，顧客常在此看著遺體被抬過"
+    "quote": "北段跟南段都有一個火葬場",
+    "context": "恆河畔火葬場，作者每天散步都會經過"
   },
   {
-    "name": "泰姬陵",
+    "name": "藍色拉西優格店",
+    "name_en": "Blue Lassi, Varanasi",
+    "lat": 25.3098,
+    "lon": 83.0102,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "有一個很有名的那個優格店 叫Blue La Sea這樣",
+    "context": "老城區知名優格店，邊吃邊看送葬隊伍"
+  },
+  {
+    "name": "加爾各達",
+    "name_en": "Kolkata",
+    "lat": 22.5726,
+    "lon": 88.3639,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "我覺得我一到加爾各達 我覺得我發現的是那個生命力超強",
+    "context": "旅程起點，嘈雜充滿活力的老城市",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Kolkata_maidan.jpg/330px-Kolkata_maidan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "蘇德街",
+    "name_en": "Sudder Street, Kolkata",
+    "lat": 22.5626,
+    "lon": 88.3519,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "有一條街好像叫Souders Street吧 就很多背包客會先到那邊去",
+    "context": "加爾各達背包客聚集街道，小販糾纏"
+  },
+  {
+    "name": "泰姬瑪哈陵",
     "name_en": "Taj Mahal",
-    "lat": 27.175,
-    "lon": 78.042,
+    "lat": 27.1751,
+    "lon": 78.0421,
     "country": "印度",
     "region": "亞洲",
-    "quote": "阿格拉就是看太吉馬哈林這樣",
-    "context": "阿格拉最著名的陵墓建築，安檢嚴格且建築十分工整",
+    "quote": "就是怎麼會有人為了自己愛的人 把一個東西搞這麼複利堂皇的誇張",
+    "context": "大理石建築震撼，河邊角度最佳，安檢嚴格",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Taj_Mahal_%28Edited%29.jpeg/330px-Taj_Mahal_%28Edited%29.jpeg"
+  },
+  {
+    "name": "阿格拉",
+    "name_en": "Agra",
+    "lat": 27.1767,
+    "lon": 78.0081,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "阿格拉比較有趣的是 那也是我第一次遇到那個 火車delay真的很久",
+    "context": "看泰姬陵，火車嚴重誤點"
+  },
+  {
+    "name": "齋浦爾",
+    "name_en": "Jaipur",
+    "lat": 26.9124,
+    "lon": 75.7873,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "塞浦河其實就是粉紅城市 你就是去市集逛",
+    "context": "拉賈斯坦粉紅城市，逛市集、看電影、老咖啡店",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/East_facade_Hawa_Mahal_Jaipur_from_ground_level_%28July_2022%29_-_img_01.jpg/330px-East_facade_Hawa_Mahal_Jaipur_from_ground_level_%28July_2022%29_-_img_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "普什卡",
+    "name_en": "Pushkar",
+    "lat": 26.4897,
+    "lon": 74.5511,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "它其實Pushka它本身那個城市 它就是中間一個很大的湖",
+    "context": "湖畔嬉皮小城，可學瑜伽與西塔琴"
+  },
+  {
+    "name": "久德布爾",
+    "name_en": "Jodhpur",
+    "lat": 26.2389,
+    "lon": 73.0243,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "就是那個藍色城市 藍色城市 就是他老城區 就整個塗藍色這樣",
+    "context": "藍色老城，巷弄散步與當地人互動",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Mehrangarh_Fort_sanhita.jpg/330px-Mehrangarh_Fort_sanhita.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "梅蘭加爾堡",
+    "name_en": "Mehrangarh Fort",
+    "lat": 26.2979,
+    "lon": 73.0185,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "他有個叫梅蘭加德城堡吧",
+    "context": "城堡下方民居巷弄可穿梭迷路"
+  },
+  {
+    "name": "阿姆利則",
+    "name_en": "Amritsar",
+    "lat": 31.634,
+    "lon": 74.8723,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "後來就是去阿姆利哲 那阿姆利哲他其實在行程上比較有趣",
+    "context": "錫克教聖城，鄰近巴基斯坦邊界",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Golden_Temple_Amritsar_Gurudwara_%28cropped%29.jpg/330px-Golden_Temple_Amritsar_Gurudwara_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "金廟",
+    "name_en": "Golden Temple",
+    "lat": 31.62,
+    "lon": 74.8765,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "所以他那邊有一個廟叫金廟 他是席客教的聖地",
+    "context": "錫克教聖地，免費香客住宿與公共食堂",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/The_Golden_Temple_of_Amrithsar_7.jpg/330px-The_Golden_Temple_of_Amrithsar_7.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "阿塔里—瓦加邊境閱兵儀式",
+    "name_en": "Attari–Wagah Border Ceremony",
+    "lat": 31.6045,
+    "lon": 74.5727,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "大家都會去那邊交界看那個 閱兵是不是",
+    "context": "印巴邊界降旗儀式，士兵高大踢腿競賽"
+  },
+  {
+    "name": "卡尼瑪塔老鼠廟",
+    "name_en": "Karni Mata Temple",
+    "lat": 27.7899,
+    "lon": 73.3425,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "他是供奉老鼠 他是供奉老鼠",
+    "context": "比卡內爾附近，上千隻老鼠與祭司共處"
   }
 ]

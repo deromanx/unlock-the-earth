@@ -1,72 +1,62 @@
 [
   {
-    "name": "舍夫沙萬 (藍城)",
-    "name_en": "Chefchaouen",
-    "lat": 35.171,
-    "lon": -5.264,
+    "name": "卡薩布蘭加海上清真寺（哈桑二世清真寺）",
+    "name_en": "Hassan II Mosque",
+    "lat": 33.608,
+    "lon": -7.632,
     "country": "摩洛哥",
     "region": "非洲",
-    "quote": "去玩Face之後呢 就要搭巴士去 Chef Chauang 就是藍城",
-    "context": "講者為了看貓咪而特別前往的特色藍色城鎮"
+    "quote": "它是三分之二是海 就是真的是在海面上",
+    "context": "建於海上的非洲最大清真寺，講者覺得震撼力不如聖家堂"
   },
   {
-    "name": "撒哈拉沙漠",
-    "name_en": "Sahara Desert",
-    "lat": 31.096,
-    "lon": -3.984,
+    "name": "舍夫沙萬藍城",
+    "name_en": "Chefchaouen Blue City",
+    "lat": 35.168,
+    "lon": -5.269,
     "country": "摩洛哥",
     "region": "非洲",
-    "quote": "就是這個地方就是在 可能撒哈拉的邊界",
-    "context": "講者參加三天兩夜沙漠團並騎駱駝的地區"
-  },
-  {
-    "name": "艾西拉 (阿里)",
-    "name_en": "Asilah",
-    "lat": 35.467,
-    "lon": -6.033,
-    "country": "摩洛哥",
-    "region": "非洲",
-    "quote": "去玩藍城 還要再往上一點 就是去 阿里",
-    "context": "講者造訪藍城後繼續往北前往的沿海小鎮"
+    "quote": "就是摩洛哥的藍城",
+    "context": "講者因貓書封面而嚮往，城中有許多親人的野貓"
   },
   {
     "name": "非斯古城",
-    "name_en": "Fes Medina",
-    "lat": 34.061,
-    "lon": -4.978,
+    "name_en": "Fes el-Bali",
+    "lat": 34.065,
+    "lon": -4.973,
     "country": "摩洛哥",
     "region": "非洲",
     "quote": "他就是在很像古城的地方 然後就有驢子在吃草",
-    "context": "講者在非斯遇到當地導覽與牽著驢子的人的地方"
+    "context": "遇到驢子與兩種不同的牧人，並洗了古老土耳其浴"
   },
   {
-    "name": "馬拉喀什市集",
-    "name_en": "Marrakech Souk",
-    "lat": 31.626,
-    "lon": -7.989,
+    "name": "馬拉喀什",
+    "name_en": "Marrakech",
+    "lat": 31.629,
+    "lon": -7.981,
     "country": "摩洛哥",
     "region": "非洲",
-    "quote": "就是Malrakesh的市集裡面 我就隨便找一家餐廳然後做進去",
-    "context": "講者在市集裡的餐廳誤點了羊肉料理"
+    "quote": "大家就是去摩洛哥一定會去馬拉克什 是因為沙漠團大部分都從那邊出",
+    "context": "沙漠團出發地，市集用餐，也是MIB取景地"
   },
   {
-    "name": "麥地那 (美滴娜)",
-    "name_en": "Medina",
-    "lat": 31.63,
-    "lon": -7.984,
+    "name": "撒哈拉沙漠",
+    "name_en": "Sahara Desert (Merzouga)",
+    "lat": 31.099,
+    "lon": -4.012,
     "country": "摩洛哥",
     "region": "非洲",
-    "quote": "我就跟他說我要到這個美滴娜 就是他們的那個什麼市集",
-    "context": "講者搭車抵達時與當地司機發生爭執的目的地"
+    "quote": "你曾經腳踩在撒哈拉沙子上",
+    "context": "三天兩夜沙漠團，騎駱駝並在沙漠過夜"
   },
   {
-    "name": "艾特本哈杜 (紅城)",
-    "name_en": "Aït Benhaddou",
+    "name": "艾特本哈杜（古堡村落）",
+    "name_en": "Ait Benhaddou",
     "lat": 31.047,
-    "lon": -7.132,
+    "lon": -7.13,
     "country": "摩洛哥",
     "region": "非洲",
     "quote": "就是一片很像紅城 紅牆的地方",
-    "context": "沙漠團途中經過的有如紅牆般的古蹟景點"
+    "context": "沙漠行程中的古蹟，沿路有攤販，常作電影取景地"
   }
 ]

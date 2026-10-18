@@ -1,0 +1,83 @@
+[
+  {
+    "name": "白馬鎮",
+    "name_en": "Whitehorse",
+    "lat": 60.721,
+    "lon": -135.055,
+    "country": "加拿大",
+    "region": "美洲",
+    "quote": "我有个朋友在育空的白马镇这边",
+    "context": "育空首府，作者旅居生活的主要據點"
+  },
+  {
+    "name": "斯卡圭",
+    "name_en": "Skagway",
+    "lat": 59.458,
+    "lon": -135.314,
+    "country": "美國",
+    "region": "美洲",
+    "quote": "离白马最近的阿拉斯加的点就叫Skateway",
+    "context": "阿拉斯加冰河峽灣小鎮，直升機冰川健行與極光"
+  },
+  {
+    "name": "道森市",
+    "name_en": "Dawson City",
+    "lat": 64.06,
+    "lon": -139.432,
+    "country": "加拿大",
+    "region": "美洲",
+    "quote": "道森这边形成了一个就是像淘金小镇之类的一个地方",
+    "context": "淘金熱小鎮，房屋因凍土歪斜",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Dawson_Yukon_June_07.jpg/330px-Dawson_Yukon_June_07.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "育空河",
+    "name_en": "Yukon River",
+    "lat": 60.7,
+    "lon": -135.05,
+    "country": "加拿大",
+    "region": "美洲",
+    "quote": "玉空河其实跟我讲的不太一样",
+    "context": "白馬段水流湍急，與文章中的想像不同"
+  },
+  {
+    "name": "克朗代克河",
+    "name_en": "Klondike River",
+    "lat": 64.05,
+    "lon": -139.4,
+    "country": "加拿大",
+    "region": "美洲",
+    "quote": "有个叫Klondike River的一个地方",
+    "context": "淘金熱的發源地"
+  },
+  {
+    "name": "克朗代克公路",
+    "name_en": "Klondike Highway",
+    "lat": 62.2,
+    "lon": -136.0,
+    "country": "加拿大",
+    "region": "美洲",
+    "quote": "其中一条就是cloneback highway",
+    "context": "串聯白馬與道森的公路"
+  },
+  {
+    "name": "阿拉斯加公路",
+    "name_en": "Alaska Highway",
+    "lat": 60.6,
+    "lon": -134.5,
+    "country": "加拿大",
+    "region": "美洲",
+    "quote": "阿拉斯加highway是玉空通往阿拉斯加的一条路",
+    "context": "兩側森林與群山的經典公路景象"
+  },
+  {
+    "name": "長湖",
+    "name_en": "Long Lake",
+    "lat": 60.68,
+    "lon": -135.02,
+    "country": "加拿大",
+    "region": "美洲",
+    "quote": "我们就走到一个超远的地方Long Lake",
+    "context": "白馬鎮附近隨興健行抵達的湖"
+  }
+]

@@ -1,62 +1,82 @@
 [
   {
-    "name": "台北車站",
-    "name_en": "Taipei Main Station",
-    "lat": 25.047,
-    "lon": 121.517,
-    "country": "台灣",
-    "region": "台灣",
-    "quote": "在台北車站附近就會聚集真的是成百上千的穆斯林移工",
-    "context": "穆斯林移工聚集開齋節活動的地點"
-  },
-  {
-    "name": "長灘島星巴克",
-    "name_en": "Starbucks Boracay",
-    "lat": 11.96,
-    "lon": 121.926,
-    "country": "菲律賓",
-    "region": "亞洲",
-    "quote": "我就去那邊星巴克這樣我花最多時間是在長灘島的星巴克這樣",
-    "context": "講者在長灘島主要的遠距工作地點"
-  },
-  {
     "name": "朱拉隆功大學",
     "name_en": "Chulalongkorn University",
     "lat": 13.738,
     "lon": 100.532,
     "country": "泰國",
     "region": "亞洲",
-    "quote": "有一次我應該是去朱拉龍宮就是在曼谷的那個",
-    "context": "講者在曼谷找大學作為工作地點"
+    "quote": "我應該是去朱拉龍宮就是在曼谷的那個曼谷最屌的大學",
+    "context": "在曼谷名校校園找空位遠距工作"
   },
   {
     "name": "曼谷設計中心",
-    "name_en": "Thailand Creative & Design Center",
-    "lat": 13.727,
-    "lon": 100.515,
+    "name_en": "Thailand Creative & Design Center (TCDC)",
+    "lat": 13.7466,
+    "lon": 100.5348,
     "country": "泰國",
     "region": "亞洲",
-    "quote": "後來有一次是去曼谷的好像是叫什麼設計中心",
-    "context": "講者付費使用的曼谷工作空間"
+    "quote": "曼谷的好像是叫什麼設計中心",
+    "context": "內建付費圖書館、電腦便宜，適合遠距工作"
   },
   {
-    "name": "馬祖圖書館 (中正圖書館)",
+    "name": "長灘島",
+    "name_en": "Boracay",
+    "lat": 11.967,
+    "lon": 121.925,
+    "country": "菲律賓",
+    "region": "亞洲",
+    "quote": "我花最多時間是在長灘島的星巴克這樣",
+    "context": "海島度假型數位遊牧，在海邊星巴克工作"
+  },
+  {
+    "name": "澳門賭場貴賓廳",
+    "name_en": "Macau Casino VIP Hall",
+    "lat": 22.1987,
+    "lon": 113.5439,
+    "country": "中國澳門",
+    "region": "亞洲",
+    "quote": "他們賭場裡面有貴賓廳有貴賓室",
+    "context": "在安靜的賭場休息區工作，免費飲水"
+  },
+  {
+    "name": "馬祖圖書館",
     "name_en": "Matsu Library",
-    "lat": 26.155,
-    "lon": 119.929,
+    "lat": 26.1597,
+    "lon": 119.9519,
     "country": "台灣",
     "region": "台灣",
-    "quote": "第一個地方先去找馬祖圖書館然後有一個從政圖書館",
-    "context": "講者在馬祖的第一個工作地點"
+    "quote": "我第一個去的地方是圖書館就是我到馬祖之後",
+    "context": "離島遠距工作，圖書館幾乎無人使用"
+  },
+  {
+    "name": "舊金山灣區通勤火車",
+    "name_en": "Caltrain",
+    "lat": 37.7764,
+    "lon": -122.3946,
+    "country": "美國",
+    "region": "美洲",
+    "quote": "所以我多數在那邊的所有務的時間都是在火車上",
+    "context": "舊金山大眾運輸不便，在雙層火車上工作"
   },
   {
     "name": "藍瓶咖啡",
     "name_en": "Blue Bottle Coffee",
-    "lat": 37.776,
-    "lon": -122.4,
+    "lat": 37.7826,
+    "lon": -122.4082,
     "country": "美國",
     "region": "美洲",
     "quote": "我本來是想要去什麼藍瓶就是覺得那邊有很多藍瓶咖啡嘛",
-    "context": "講者原本幻想在舊金山工作的地方"
+    "context": "座位少、無WiFi，無法工作"
+  },
+  {
+    "name": "台北車站",
+    "name_en": "Taipei Main Station",
+    "lat": 25.0478,
+    "lon": 121.517,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "在台北車站附近就會聚集真的是成百上千的穆斯林移工",
+    "context": "開齋節穆斯林移工聚會地點"
   }
 ]

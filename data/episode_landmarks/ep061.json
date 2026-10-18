@@ -2,51 +2,101 @@
   {
     "name": "鹹海",
     "name_en": "Aral Sea",
-    "lat": 45.394,
-    "lon": 58.612,
-    "country": "烏茲別克與哈薩克",
+    "lat": 45.0,
+    "lon": 60.0,
+    "country": "烏茲別克／哈薩克",
     "region": "亞洲",
     "quote": "在中亞有一片曾經是一個鹹水湖的海叫做鹹海",
-    "context": "蘇聯時期大量引水灌溉導致幾近枯竭的湖泊"
+    "context": "因蘇聯棉花灌溉而幾近乾涸的生態災難"
   },
   {
-    "name": "地獄之門",
-    "name_en": "Darvaza Gas Crater",
-    "lat": 40.252,
-    "lon": 58.439,
-    "country": "土庫曼",
+    "name": "費爾干納盆地",
+    "name_en": "Fergana Valley",
+    "lat": 40.5,
+    "lon": 71.5,
+    "country": "烏茲別克",
     "region": "亞洲",
-    "quote": "會發現很多人去那邊他要看一個經驗叫做地獄之馬",
-    "context": "土庫曼挖天然氣留下的坑洞，因放火燃燒成景點"
-  },
-  {
-    "name": "帕米爾高原",
-    "name_en": "Pamir Mountains",
-    "lat": 38.237,
-    "lon": 73.238,
-    "country": "塔吉克",
-    "region": "亞洲",
-    "quote": "然後跨過帕米爾高原",
-    "context": "講者從吉爾吉斯前往中國新疆途中跨越的高原"
+    "quote": "菲爾甘那盆地就是我們剛前面有講到就是烏茲別克吉爾吉斯還有塔吉克都各在這個盆地裡面",
+    "context": "張騫通西域最遠抵達處，也是飛地密集的民族交界地"
   },
   {
     "name": "宋湖",
-    "name_en": "Song-Kul",
-    "lat": 41.838,
-    "lon": 75.143,
+    "name_en": "Song Kol",
+    "lat": 41.83,
+    "lon": 75.13,
     "country": "吉爾吉斯",
     "region": "亞洲",
-    "quote": "我覺得是他的一個高山湖泊叫做宋湖",
-    "context": "講者最推薦的吉爾吉斯高山湖泊，適合社區旅遊"
+    "quote": "如果要講我最推薦的地點的話我覺得是他的一個高山湖泊叫做宋湖",
+    "context": "海拔三千多公尺高山湖，騎馬兩天住蒙古包"
   },
   {
-    "name": "伊賽克湖",
+    "name": "伊塞克湖",
     "name_en": "Issyk-Kul",
-    "lat": 42.428,
-    "lon": 77.294,
+    "lat": 42.45,
+    "lon": 77.25,
     "country": "吉爾吉斯",
     "region": "亞洲",
-    "quote": "不過第一個湖叫做伊賽克湖",
-    "context": "吉爾吉斯開發較完整的最大湖泊，曾為避暑勝地"
+    "quote": "第一個湖叫做伊賽克湖",
+    "context": "吉爾吉斯第一大湖，開發完整的度假湖泊"
+  },
+  {
+    "name": "奧什",
+    "name_en": "Osh",
+    "lat": 40.513,
+    "lon": 72.816,
+    "country": "吉爾吉斯",
+    "region": "亞洲",
+    "quote": "到了第二個大城叫做奧什",
+    "context": "吉爾吉斯第二大城，位於費爾干納盆地，轉乘帕米爾班車"
+  },
+  {
+    "name": "帕米爾高原",
+    "name_en": "Pamir Plateau",
+    "lat": 38.5,
+    "lon": 73.5,
+    "country": "塔吉克",
+    "region": "亞洲",
+    "quote": "我接下來要下一個行程就是要跨過帕米爾高原",
+    "context": "搭共乘小巴翻越，遇雪與牧民趕羊"
+  },
+  {
+    "name": "薩雷塔什",
+    "name_en": "Sary-Tash",
+    "lat": 39.73,
+    "lon": 73.25,
+    "country": "吉爾吉斯",
+    "region": "亞洲",
+    "quote": "那邊有個村子叫做Saritash",
+    "context": "通往中國與塔吉克的四岔路口，背包客聖地"
+  },
+  {
+    "name": "地獄之門",
+    "name_en": "Darvaza Gas Crater (Door to Hell)",
+    "lat": 40.253,
+    "lon": 58.44,
+    "country": "土庫曼",
+    "region": "亞洲",
+    "quote": "很多人去那邊他要看一個經驗叫做地獄之馬",
+    "context": "天然氣坑持續燃燒成為景點"
+  },
+  {
+    "name": "努爾蘇丹（阿斯塔納）",
+    "name_en": "Nur-Sultan (Astana)",
+    "lat": 51.169,
+    "lon": 71.449,
+    "country": "哈薩克",
+    "region": "亞洲",
+    "quote": "他的首都不是本來叫做阿斯塔那嗎他就把他改名叫努爾蘇丹",
+    "context": "首都以總統名字改名的例子"
+  },
+  {
+    "name": "吉爾吉斯—中國邊境口岸",
+    "name_en": "Irkeshtam / Kyrgyz–China Border Crossing",
+    "lat": 39.69,
+    "lon": 73.92,
+    "country": "吉爾吉斯",
+    "region": "亞洲",
+    "quote": "你要走路走過那個邊界從吉爾吉斯的最後一個崗哨出來",
+    "context": "步行過境，進入新疆接受嚴格行李與手機檢查"
   }
 ]

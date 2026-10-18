@@ -1,132 +1,165 @@
 [
   {
-    "name": "泰晤士河",
-    "name_en": "River Thames",
-    "lat": 51.505,
-    "lon": -0.021,
-    "country": "英國",
-    "region": "歐洲",
-    "quote": "找了一個工程師來整治倫敦的泰魯士河",
-    "context": "探討倫敦地下排水系統與生態恢復的歷史"
-  },
-  {
-    "name": "克羅斯內斯泵站",
+    "name": "克羅斯內斯抽水站",
     "name_en": "Crossness Pumping Station",
-    "lat": 51.507,
-    "lon": 0.138,
+    "lat": 51.5025,
+    "lon": 0.1356,
     "country": "英國",
     "region": "歐洲",
     "quote": "我們今天介紹的這個Crossing Pumping Station就是當時的污水處理場",
-    "context": "維多利亞時期裝飾極度華麗的汙水處理廠"
+    "context": "維多利亞時期華麗的污水處理場，現為景點"
   },
   {
-    "name": "沃平區",
+    "name": "沃平",
     "name_en": "Wapping",
-    "lat": 51.506,
-    "lon": -0.058,
-    "country": "英國",
-    "region": "歐洲",
-    "quote": "那我現在要介紹一個地方叫做Warpin",
-    "context": "歷史上作為倫敦重要貨物轉運港口與海盜行刑地"
-  },
-  {
-    "name": "拉姆斯蓋特鎮酒館",
-    "name_en": "The Town of Ramsgate",
-    "lat": 51.503,
-    "lon": -0.058,
-    "country": "英國",
-    "region": "歐洲",
-    "quote": "一個叫The Town of Ramsgate",
-    "context": "死刑法官曾在此變裝試圖逃亡海外的酒館"
-  },
-  {
-    "name": "葡萄小酒館",
-    "name_en": "The Grapes",
-    "lat": 51.509,
-    "lon": -0.038,
-    "country": "英國",
-    "region": "歐洲",
-    "quote": "這個小酒館叫 The Grapes",
-    "context": "魔戒演員伊恩麥克連買下的五百年歷史酒吧"
-  },
-  {
-    "name": "惠特比的展望酒館",
-    "name_en": "Prospect of Whitby",
-    "lat": 51.507,
-    "lon": -0.053,
-    "country": "英國",
-    "region": "歐洲",
-    "quote": "叫做 Prospect of Whitby",
-    "context": "保留了過去吊死海盜的絞刑台的歷史酒館"
-  },
-  {
-    "name": "皇家倫敦醫院 (白教堂醫院)",
-    "name_en": "Royal London Hospital (Whitechapel)",
-    "lat": 51.518,
-    "lon": -0.059,
-    "country": "英國",
-    "region": "歐洲",
-    "quote": "叫做White Chapel Hospital",
-    "context": "曾檢驗開膛手傑克受害者，並收藏象人的骨骸"
-  },
-  {
-    "name": "纜線街",
-    "name_en": "Cable Street",
-    "lat": 51.511,
-    "lon": -0.061,
-    "country": "英國",
-    "region": "歐洲",
-    "quote": "有一條街 它叫Cable Street",
-    "context": "1936年當地居民團結對抗法西斯主義大遊行的地點"
-  },
-  {
-    "name": "纜線街壁畫",
-    "name_en": "Cable Street Mural",
-    "lat": 51.512,
+    "lat": 51.5043,
     "lon": -0.056,
     "country": "英國",
     "region": "歐洲",
+    "quote": "Warpin這邊是一個河港的港口",
+    "context": "泰晤士河港區，狄更斯筆下貧童與海盜行刑之地"
+  },
+  {
+    "name": "蘭斯蓋特之鎮酒館",
+    "name_en": "The Town of Ramsgate",
+    "lat": 51.5059,
+    "lon": -0.0597,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "一個叫The Town of Ramsgate",
+    "context": "傑佛瑞法官試圖從此逃亡被認出的酒館"
+  },
+  {
+    "name": "葡萄酒館",
+    "name_en": "The Grapes",
+    "lat": 51.5112,
+    "lon": -0.0376,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "這個小酒館叫 The Grapes",
+    "context": "伊恩·麥克連買下拯救的五百年老酒吧"
+  },
+  {
+    "name": "惠特比展望酒館",
+    "name_en": "Prospect of Whitby",
+    "lat": 51.5081,
+    "lon": -0.0535,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "叫做 Prospect of Whitby",
+    "context": "酒吧外有懸吊海盜的絞刑台"
+  },
+  {
+    "name": "白教堂皇家倫敦醫院",
+    "name_en": "Royal London Hospital (Whitechapel)",
+    "lat": 51.5183,
+    "lon": -0.0597,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "叫做White Chapel Hospital",
+    "context": "收藏象人梅里克骨骸與醫療史博物館"
+  },
+  {
+    "name": "電纜街壁畫",
+    "name_en": "Cable Street Mural",
+    "lat": 51.5107,
+    "lon": -0.058,
+    "country": "英國",
+    "region": "歐洲",
     "quote": "它叫做Cable Street Mural",
-    "context": "紀念纜線街反法西斯戰役的巨型塗鴉"
+    "context": "紀念1936年反法西斯遊行的巨型壁畫"
   },
   {
-    "name": "達爾斯頓",
-    "name_en": "Dalston",
-    "lat": 51.545,
+    "name": "肖迪奇",
+    "name_en": "Shoreditch",
+    "lat": 51.5246,
+    "lon": -0.078,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "簡單說就是文青區啦",
+    "context": "流行街頭食物與文創小店聚集的文青區",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/View_from_Curtain_Road%2C_Shoreditch.jpg/330px-View_from_Curtain_Road%2C_Shoreditch.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "三一教堂（小丑教堂）",
+    "name_en": "Holy Trinity Church, Dalston (Clowns' Church)",
+    "lat": 51.546,
     "lon": -0.075,
     "country": "英國",
     "region": "歐洲",
-    "quote": "我要介紹一個地方 叫做Doulston",
-    "context": "東倫敦富有街頭食物與世界料理的文青區"
+    "quote": "這個小教堂裡面有一個小丑博物館",
+    "context": "小丑公會祈禱處，陳列小丑蛋畫"
   },
   {
-    "name": "聖三一教堂",
-    "name_en": "Holy Trinity Church, Dalston",
-    "lat": 51.544,
-    "lon": -0.076,
-    "country": "英國",
-    "region": "歐洲",
-    "quote": "叫做Chinity Church Doulston",
-    "context": "設有小丑博物館並舉辦小丑追思禮拜的教堂"
-  },
-  {
-    "name": "邦德里屋邨",
+    "name": "邊界莊園",
     "name_en": "Boundary Estate",
-    "lat": 51.526,
-    "lon": -0.075,
+    "lat": 51.5252,
+    "lon": -0.0756,
     "country": "英國",
     "region": "歐洲",
     "quote": "我建議大家去一個地方叫Boundary Estate",
-    "context": "為改善底層生活而建立的倫敦最早的國宅"
+    "context": "倫敦最早的國宅，取代老尼可貧民窟"
   },
   {
-    "name": "舊尼科爾",
+    "name": "老尼可貧民窟",
     "name_en": "Old Nichol",
-    "lat": 51.526,
-    "lon": -0.075,
+    "lat": 51.5262,
+    "lon": -0.0768,
     "country": "英國",
     "region": "歐洲",
-    "quote": "倫敦最窮最窮縣的國宅 叫Old Nickel",
-    "context": "國宅建立前惡名昭彰的貧民窟"
+    "quote": "叫Old Nickel",
+    "context": "維多利亞時期倫敦最窮的貧民窟"
+  },
+  {
+    "name": "倫敦塔",
+    "name_en": "Tower of London",
+    "lat": 51.5081,
+    "lon": -0.0759,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "有一個重要的景點叫做倫敦塔",
+    "context": "關政治犯的王室要塞，曾有動物園",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Tower_of_London_from_the_Shard_%288515883950%29.jpg/330px-Tower_of_London_from_the_Shard_%288515883950%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "鐘塔（宵禁鐘）",
+    "name_en": "Bell Tower, Tower of London",
+    "lat": 51.5075,
+    "lon": -0.0768,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "叫鐘塔",
+    "context": "內有宵禁鐘，晚九點敲響"
+  },
+  {
+    "name": "東聖鄧斯坦教堂",
+    "name_en": "St Dunstan in the East",
+    "lat": 51.5101,
+    "lon": -0.0824,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "這個地方叫做 St. Dunstan in the East",
+    "context": "二戰被炸毀後成為花園的打卡景點"
+  },
+  {
+    "name": "倫敦橋",
+    "name_en": "London Bridge",
+    "lat": 51.5079,
+    "lon": -0.0877,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "倫敦橋從一世紀的時候就有了",
+    "context": "古橋，曾掛政治犯人頭，19世紀橋賣到美國",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/London_Bridge_from_St_Olaf_Stairs.jpg/330px-London_Bridge_from_St_Olaf_Stairs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "赫爾街",
+    "name_en": "Redchurch Street",
+    "lat": 51.5252,
+    "lon": -0.0766,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "被很多很多的週刊評論為現在倫敦最時髦的一條街",
+    "context": "咖啡店與共享辦公室聚集的時髦街道"
   }
 ]

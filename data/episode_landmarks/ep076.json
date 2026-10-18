@@ -2,32 +2,33 @@
   {
     "name": "台北車站大廳",
     "name_en": "Taipei Main Station Hall",
-    "lat": 25.0475,
+    "lat": 25.0478,
     "lon": 121.517,
     "country": "台灣",
     "region": "台灣",
-    "quote": "台北車站大廳不是有一堆黑白格子嗎對不對然後他的畫面主要是這樣然後正中央是車站的大時鐘",
-    "context": "東南亞移工假日聚會地點，時鐘有深層意義。"
-  },
-  {
-    "name": "西澳利澳",
-    "name_en": "Siauliai",
-    "lat": 55.9333,
-    "lon": 23.3167,
-    "country": "立陶宛",
-    "region": "歐洲",
-    "quote": "他要去一個地方叫做中文叫做西澳利澳...西澳利澳其實是立陶宛的第4個大城",
-    "context": "立陶宛第四大城，前往十字架山的中轉站。"
+    "quote": "台北車站大廳不是有一堆黑白格子嗎",
+    "context": "移工假日聚會地點，攝影作品聚焦其大時鐘"
   },
   {
     "name": "十字架山",
     "name_en": "Hill of Crosses",
-    "lat": 56.0153,
+    "lat": 56.015,
     "lon": 23.4167,
     "country": "立陶宛",
     "region": "歐洲",
-    "quote": "當地有一個叫做十字架山的景點...就是一個小山丘，然後上面會插了非常多的十字架",
-    "context": "立陶宛著名地標，歷史象徵，國族認同。"
+    "quote": "它其實就是一個小山丘，然後上面會插了非常多的十字架",
+    "context": "立陶宛最著名景點，象徵抵抗蘇聯與國族認同"
+  },
+  {
+    "name": "席奧利艾",
+    "name_en": "Šiauliai",
+    "lat": 55.9349,
+    "lon": 23.3137,
+    "country": "立陶宛",
+    "region": "歐洲",
+    "quote": "然後這個西澳利澳，其實是立陶宛的第4個大城",
+    "context": "前往十字架山的中繼城市，作者過夜處",
+    "image": "https://thumb.wikimedia.org/wikipedia/en/thumb/b/bc/%C5%A0iauliai_State_College_and_%C5%A0iauliai_Cathedral_in_2022.jpg/330px-%C5%A0iauliai_State_College_and_%C5%A0iauliai_Cathedral_in_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "帕蘭加",
@@ -36,7 +37,7 @@
     "lon": 21.0686,
     "country": "立陶宛",
     "region": "歐洲",
-    "quote": "他們那地方叫做...Palinga...他們是一個海濱的小鎮...有點像墾丁大街",
-    "context": "立陶宛海濱小鎮，度假勝地，host帶去觀光。"
+    "quote": "他們是一個海濱的小鎮，我自己是把它取作叫做立陶宛的墾丁大街",
+    "context": "波羅的海海濱度假小鎮，似墾丁大街"
   }
 ]

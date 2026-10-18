@@ -1,112 +1,92 @@
 [
   {
     "name": "海雲台",
-    "name_en": "Haeundae",
-    "lat": 35.158,
-    "lon": 129.16,
+    "name_en": "Haeundae Beach",
+    "lat": 35.1587,
+    "lon": 129.1604,
     "country": "韓國",
     "region": "亞洲",
     "quote": "我大概我住在釜山是住海云台那个区域",
-    "context": "本集主要讨论的釜山区域，拥有美丽的海滩与住宿区"
+    "context": "釜山代表性海水浴場與住宿區，沿海步道、咖啡廳林立"
   },
   {
     "name": "The Bay 101",
     "name_en": "The Bay 101",
-    "lat": 35.156,
-    "lon": 129.152,
+    "lat": 35.1553,
+    "lon": 129.1245,
     "country": "韓國",
     "region": "亞洲",
     "quote": "叫做Le Bay 101",
-    "context": "孔刘代言手机拍摄爆红的看夜景名胜"
+    "context": "孔劉拍廣告而爆紅的夜景景點，當地人也愛去"
   },
   {
     "name": "札嘎其市場",
     "name_en": "Jagalchi Market",
-    "lat": 35.097,
-    "lon": 129.027,
+    "lat": 35.0967,
+    "lon": 129.0306,
     "country": "韓國",
     "region": "亞洲",
     "quote": "他们那边有一个加嘎鸡市场",
-    "context": "品尝新鲜海鲜与生章鱼的著名传统市场"
+    "context": "海鮮市場，可代客料理、吃活章魚與帝王蟹"
   },
   {
-    "name": "青沙浦天空步道",
-    "name_en": "Cheongsapo Daritdol Observatory",
-    "lat": 35.164,
-    "lon": 129.2,
+    "name": "新世界百貨 Spa Land",
+    "name_en": "Shinsegae Centum City Spa Land",
+    "lat": 35.1688,
+    "lon": 129.1307,
     "country": "韓國",
     "region": "亞洲",
-    "quote": "它还有很多的天空步道",
-    "context": "建于海边悬崖上的透明玻璃观景步道"
+    "quote": "新世界百货它就有一个Spa Land",
+    "context": "五星級汗蒸幕，約四百元台幣可泡四小時"
   },
   {
-    "name": "青沙浦紅白燈塔",
-    "name_en": "Cheongsapo Twin Lighthouses",
-    "lat": 35.16,
-    "lon": 129.193,
+    "name": "甘川洞文化村",
+    "name_en": "Gamcheon Culture Village",
+    "lat": 35.0975,
+    "lon": 129.0106,
     "country": "韓國",
     "region": "亞洲",
-    "quote": "像我们那时候就有去那个双胞胎的那个红白灯塔",
-    "context": "天空步道附近的可爱海港拍照景点"
+    "quote": "他们还有一个叫做干川洞文化村",
+    "context": "山坡上五彩繽紛的房屋，是拍照好去處"
   },
   {
-    "name": "Cafe Rooftop",
-    "name_en": "Cafe Rooftop",
-    "lat": 35.161,
-    "lon": 129.194,
+    "name": "天空步道",
+    "name_en": "Busan Skywalk",
+    "lat": 35.0757,
+    "lon": 129.0176,
     "country": "韓國",
     "region": "亞洲",
-    "quote": "那个Rooftop",
-    "context": "青沙浦著名的网美咖啡厅，可看海景"
+    "quote": "那个步道可能下面就是透明的",
+    "context": "海崖上的透明步道，需套鞋套，景色刺激"
+  },
+  {
+    "name": "紅白燈塔",
+    "name_en": "Busan Red and White Lighthouses",
+    "lat": 35.0786,
+    "lon": 129.0192,
+    "country": "韓國",
+    "region": "亞洲",
+    "quote": "就是你远远看到就两只胖胖的灯塔在那边",
+    "context": "一紅一白的雙胞胎燈塔，天空步道後的拍照點"
   },
   {
     "name": "西面",
     "name_en": "Seomyeon",
-    "lat": 35.157,
-    "lon": 129.06,
+    "lat": 35.1579,
+    "lon": 129.0595,
     "country": "韓國",
     "region": "亞洲",
     "quote": "其实我们去西面",
-    "context": "釜山知名的逛街商圈"
+    "context": "釜山鬧區商圈，逛街小路多，像高雄新堀江"
   },
   {
-    "name": "樂天百貨 (釜山總店)",
-    "name_en": "Lotte Department Store",
-    "lat": 35.156,
-    "lon": 129.055,
-    "country": "韓國",
-    "region": "亞洲",
-    "quote": "就是有乐天百婚的边",
-    "context": "位于西面的大型百货公司"
-  },
-  {
-    "name": "釜山塔",
-    "name_en": "Busan Tower",
-    "lat": 35.1,
-    "lon": 129.032,
-    "country": "韓國",
-    "region": "亞洲",
-    "quote": "它有那个高空塔可以看",
-    "context": "可俯瞰釜山市景的高空塔"
-  },
-  {
-    "name": "APEC世峰樓",
-    "name_en": "Nurimaru APEC House",
-    "lat": 35.152,
-    "lon": 129.151,
-    "country": "韓國",
-    "region": "亞洲",
-    "quote": "或是什么APEC的那个侍奉会之前开会的场所",
-    "context": "海云台海岸步道沿途的国际会议场所"
-  },
-  {
-    "name": "黃玉公主美人魚雕像",
-    "name_en": "Hwangok Princess Mermaid Statue",
-    "lat": 35.154,
-    "lon": 129.153,
-    "country": "韓國",
-    "region": "亞洲",
-    "quote": "你就会经过可能人鱼雕像",
-    "context": "海云台海岸步道沿途的雕像景点"
+    "name": "Korea Plaza",
+    "name_en": "Korea Plaza Taipei",
+    "lat": 25.0338,
+    "lon": 121.5645,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "它是在那个世贸中心信义区那边附近的一个空间",
+    "context": "釜山觀光公社駐台空間，七月辦釜山主題活動"
   }
 ]

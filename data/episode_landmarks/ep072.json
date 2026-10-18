@@ -7,29 +7,28 @@
     "country": "愛沙尼亞",
     "region": "歐洲",
     "quote": "其實愛上尼亞它也有所謂的古城區",
-    "context": "具備粉嫩建築與石板路特色",
+    "context": "粉嫩建築與石板路的古城，逛半天即可",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Old_Town_of_Tallinn%2C_Tallinn%2C_Estonia_-_panoramio_%2858%29.jpg/330px-Old_Town_of_Tallinn%2C_Tallinn%2C_Estonia_-_panoramio_%2858%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "林納哈爾大會堂",
+    "name": "林納霍爾（海上體育館）",
     "name_en": "Linnahall",
-    "lat": 59.447,
-    "lon": 24.753,
+    "lat": 59.4437,
+    "lon": 24.7497,
     "country": "愛沙尼亞",
     "region": "歐洲",
     "quote": "它叫做林拉厚",
-    "context": "荒廢的蘇聯時期海濱體育館",
+    "context": "蘇聯奧運時期遺留、荒廢的大型場館",
     "image": "https://thumb.wikimedia.org/wikipedia/en/thumb/8/87/Linnahall_s%C3%BCgisel.jpg/330px-Linnahall_s%C3%BCgisel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "普蘭格利島",
-    "name_en": "Prangli",
-    "lat": 59.624,
-    "lon": 25.021,
+    "name": "普拉納島（疑為小島打工地）",
+    "name_en": "Prangli Island",
+    "lat": 59.6333,
+    "lon": 25.0167,
     "country": "愛沙尼亞",
     "region": "歐洲",
-    "quote": "它叫做Prankley",
-    "context": "來賓打工度假的微型島嶼",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Prangli_Laurentiuse_kirik2009.jpg/330px-Prangli_Laurentiuse_kirik2009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    "quote": "去愛沙尼亞另外一個小島",
+    "context": "作者打工換宿、夜間捕魚與芬蘭浴的小島"
   }
 ]

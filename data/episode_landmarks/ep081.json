@@ -1,22 +1,72 @@
 [
   {
-    "name": "約翰尼斯堡國際機場",
-    "name_en": "O.R. Tambo International Airport",
-    "lat": -26.136,
-    "lon": 28.241,
-    "country": "南非",
+    "name": "姆巴巴內",
+    "name_en": "Mbabane",
+    "lat": -26.317,
+    "lon": 31.142,
+    "country": "史瓦帝尼",
     "region": "非洲",
-    "quote": "因為我們從南非的那個約翰尼斯堡國際機場",
-    "context": "主持人提到搭巴士前往史瓦帝尼的出發地點"
+    "quote": "Mbobane就是那個斯瓦帝尼的首都",
+    "context": "首都，巴士客運站所在，旅程起點"
+  },
+  {
+    "name": "西貝貝巨石",
+    "name_en": "Sibebe Rock",
+    "lat": -26.28,
+    "lon": 31.178,
+    "country": "史瓦帝尼",
+    "region": "非洲",
+    "quote": "世界上第二大塊的石頭，就在斯瓦地尼",
+    "context": "全球第二大單體巨石，當地人週末踏青景點"
+  },
+  {
+    "name": "蠟燭工廠",
+    "name_en": "Swazi Candles",
+    "lat": -26.228,
+    "lon": 31.207,
+    "country": "史瓦帝尼",
+    "region": "非洲",
+    "quote": "一個是那個蠟燭工廠 一個是玻璃工廠",
+    "context": "觀光團必訪，可現場捏製動物蠟燭"
+  },
+  {
+    "name": "恩甘瓦玻璃工廠",
+    "name_en": "Ngwenya Glass",
+    "lat": -26.2,
+    "lon": 31.064,
+    "country": "史瓦帝尼",
+    "region": "非洲",
+    "quote": "他們會回收那種可能玻璃瓶 然後把它砸碎",
+    "context": "回收玻璃重製，觀光團必訪"
   },
   {
     "name": "史瓦帝尼民俗文化村",
     "name_en": "Mantenga Cultural Village",
-    "lat": -26.439,
-    "lon": 31.177,
+    "lat": -26.454,
+    "lon": 31.183,
     "country": "史瓦帝尼",
     "region": "非洲",
-    "quote": "他們其實在市區旁邊附近有一個民俗文化村",
-    "context": "當地展示史瓦帝尼傳統舞蹈與茅草屋的文化保留區"
+    "quote": "附近有一個民俗文化村 就很像我們原住民那種九族文化村",
+    "context": "每日傳統舞蹈與茅草屋體驗"
+  },
+  {
+    "name": "王后行宮",
+    "name_en": "Queen's Royal Residence (Eswatini)",
+    "lat": -26.46,
+    "lon": 31.2,
+    "country": "史瓦帝尼",
+    "region": "非洲",
+    "quote": "去到了那個某一個皇后的行宮",
+    "context": "每位王后分開居住，旗上有獅子表示國王在"
+  },
+  {
+    "name": "史瓦帝尼野生動物保護區",
+    "name_en": "Hlane Royal National Park",
+    "lat": -26.275,
+    "lon": 31.88,
+    "country": "史瓦帝尼",
+    "region": "非洲",
+    "quote": "他也有這種Safari的行程 對而且這個Safari的行程呢 你是可以開你自己的車進去的",
+    "context": "自駕看獅子、犀牛、斑馬、白蟻丘"
   }
 ]

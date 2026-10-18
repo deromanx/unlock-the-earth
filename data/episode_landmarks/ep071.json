@@ -1,23 +1,23 @@
 [
   {
-    "name": "聖索菲亞大教堂",
-    "name_en": "Hagia Sophia",
-    "lat": 41.0085,
-    "lon": 28.9799,
-    "country": "土耳其",
-    "region": "歐洲",
-    "quote": "譬如说一三宝后面就一定要画那个圣索菲亚大教堂",
-    "context": "客人在畫像時要求加入的地標背景",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Hagia_Sophia_%28228968325%29.jpeg/330px-Hagia_Sophia_%28228968325%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "喀什的廣場",
-    "name_en": "Kashgar People's Square",
-    "lat": 39.4705,
-    "lon": 75.9897,
+    "name": "喀什廣場",
+    "name_en": "Kashgar Square",
+    "lat": 39.47,
+    "lon": 75.989,
     "country": "中國",
     "region": "亞洲",
-    "quote": "有一次就是我在新疆的卡什那边摆摊... 可是那是一个广场",
-    "context": "受訪者擺攤一整天卻完全沒有收入的地點"
+    "quote": "有一次就是我在新疆的卡什那边摆摊",
+    "context": "在新疆喀什廣場擺攤一整天無人光顧"
+  },
+  {
+    "name": "聖索菲亞大教堂",
+    "name_en": "Hagia Sophia",
+    "lat": 41.008,
+    "lon": 28.98,
+    "country": "土耳其",
+    "region": "亞洲",
+    "quote": "一定要画那个圣索菲亚大教堂",
+    "context": "客人常要求以聖索菲亞為肖像背景",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Hagia_Sophia_%28228968325%29.jpeg/330px-Hagia_Sophia_%28228968325%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]

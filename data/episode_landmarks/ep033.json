@@ -7,7 +7,8 @@
     "country": "緬甸",
     "region": "亞洲",
     "quote": "仰光市區的車就明顯變多",
-    "context": "緬甸最大城市，傳統服飾龍基與改革開放變化"
+    "context": "緬甸最大城市，傳統服飾龍基與改革開放變化",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/ShwedagonPagoda.jpg/330px-ShwedagonPagoda.jpg"
   },
   {
     "name": "蒲甘",
@@ -17,7 +18,8 @@
     "country": "緬甸",
     "region": "亞洲",
     "quote": "它那個地方是一個真的是世界遺跡",
-    "context": "世界級遺跡，卻幾乎沒有觀光客"
+    "context": "世界級遺跡，卻幾乎沒有觀光客",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bagan%2C_Burma.jpg/330px-Bagan%2C_Burma.jpg"
   },
   {
     "name": "曼德勒",
@@ -27,7 +29,8 @@
     "country": "緬甸",
     "region": "亞洲",
     "quote": "北邊的曼德勒就是瓦城",
-    "context": "大四角之一，與台灣瓦城餐廳趣談"
+    "context": "大四角之一，與台灣瓦城餐廳趣談",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Mandalay%2C_Myanmar.jpg/330px-Mandalay%2C_Myanmar.jpg"
   },
   {
     "name": "茵萊湖",
@@ -37,7 +40,8 @@
     "country": "緬甸",
     "region": "亞洲",
     "quote": "然後到英來湖再回來",
-    "context": "大四角之一，周邊可健行與延伸行程"
+    "context": "大四角之一，周邊可健行與延伸行程",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Inle_Lake_%28Myanmar%29.jpg/330px-Inle_Lake_%28Myanmar%29.jpg"
   },
   {
     "name": "卡勞",
@@ -47,7 +51,8 @@
     "country": "緬甸",
     "region": "亞洲",
     "quote": "我覺得很像一個小瑞士",
-    "context": "涼爽山城，健行起點，西化小鎮"
+    "context": "涼爽山城，健行起點，西化小鎮",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Kalaw_21.jpg/330px-Kalaw_21.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "東枝",
@@ -57,7 +62,8 @@
     "country": "緬甸",
     "region": "亞洲",
     "quote": "膽幫的首府叫做東芝",
-    "context": "撣邦首府，以天燈節聞名"
+    "context": "撣邦首府，以天燈節聞名",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Shwe_Bone_Pwint_Pagoda%2C_Taunggyi%2CShan.jpg/330px-Shwe_Bone_Pwint_Pagoda%2C_Taunggyi%2CShan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "大金石",
@@ -67,7 +73,8 @@
     "country": "緬甸",
     "region": "亞洲",
     "quote": "整顆石頭是貼滿金箔",
-    "context": "貼滿金箔的巨石佛塔，搭卡車上山"
+    "context": "貼滿金箔的巨石佛塔，搭卡車上山",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Golden_Rock.JPG/330px-Golden_Rock.JPG?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "毛淡棉",
@@ -77,7 +84,8 @@
     "country": "緬甸",
     "region": "亞洲",
     "quote": "毛蛋棉有名是因為喬治歐威爾",
-    "context": "南部大城，歐威爾曾居住，殖民老房子"
+    "context": "南部大城，歐威爾曾居住，殖民老房子",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Kyaikthanlan_Pagoda-15.jpg/330px-Kyaikthanlan_Pagoda-15.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "帕安",
@@ -87,7 +95,8 @@
     "country": "緬甸",
     "region": "亞洲",
     "quote": "有一個也是相對比較背包客比較有聽過的地方叫做帕安",
-    "context": "克倫邦山水田園風光，大佛與寺廟"
+    "context": "克倫邦山水田園風光，大佛與寺廟",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Hpa_An_03.jpg/330px-Hpa_An_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "奈比多",
@@ -97,7 +106,8 @@
     "country": "緬甸",
     "region": "亞洲",
     "quote": "路真的很大",
-    "context": "人造首都，道路寬闊、飯店空蕩、蓮花雕像"
+    "context": "人造首都，道路寬闊、飯店空蕩、蓮花雕像",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/NPT_Water_Fountain.jpg/330px-NPT_Water_Fountain.jpg"
   },
   {
     "name": "丹老群島",
@@ -107,7 +117,8 @@
     "country": "緬甸",
     "region": "亞洲",
     "quote": "有一塊很長的島嶼叫做丹老群島",
-    "context": "與世隔絕的群島，包船跳島與莫肯族"
+    "context": "與世隔絕的群島，包船跳島與莫肯族",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Mergui_Village.jpg/330px-Mergui_Village.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "高東",
@@ -117,7 +128,8 @@
     "country": "緬甸",
     "region": "亞洲",
     "quote": "那個地方叫Kalton",
-    "context": "最南端邊境小鎮，群島行程起點"
+    "context": "最南端邊境小鎮，群島行程起點",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Kawthaung_entrance%2C_Myanmar.jpg/330px-Kawthaung_entrance%2C_Myanmar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "丹老",
@@ -127,6 +139,7 @@
     "country": "緬甸",
     "region": "亞洲",
     "quote": "MAC就是這整個南部的這個省份裡面的算第一大城",
-    "context": "群島行程終點，跨年烤肉"
+    "context": "群島行程終點，跨年烤肉",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/%E1%80%99%E1%80%BC%E1%80%AD%E1%80%90%E1%80%BA%E1%80%99%E1%80%BC%E1%80%AD%E1%80%AF%E1%80%B7.jpg/330px-%E1%80%99%E1%80%BC%E1%80%AD%E1%80%90%E1%80%BA%E1%80%99%E1%80%BC%E1%80%AD%E1%80%AF%E1%80%B7.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]

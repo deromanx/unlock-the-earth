@@ -1,13 +1,23 @@
 [
   {
-    "name": "提卡爾",
+    "name": "蒂卡爾",
     "name_en": "Tikal",
     "lat": 17.222,
-    "lon": -89.624,
+    "lon": -89.623,
     "country": "瓜地馬拉",
     "region": "美洲",
-    "quote": "就是到那个最大的马拉雅古迹 就是蒂卡尔",
-    "context": "講者週末開車跨國去參觀的知名馬雅古蹟"
+    "quote": "就是到那個最大的馬雅古蹟 就是蒂卡爾",
+    "context": "偷偷越境參觀的大型馬雅遺址，導遊能說多國語言"
+  },
+  {
+    "name": "ATM洞穴",
+    "name_en": "Actun Tunichil Muknal (ATM Cave)",
+    "lat": 17.116,
+    "lon": -88.864,
+    "country": "貝里斯",
+    "region": "美洲",
+    "quote": "它裡面最有名的一個觀光景點 最有名之一啦 就是一個洞 叫做ATM",
+    "context": "馬雅獻祭石灰岩洞穴，需涉水潛入，內有骸骨"
   },
   {
     "name": "大藍洞",
@@ -16,47 +26,47 @@
     "lon": -87.535,
     "country": "貝里斯",
     "region": "美洲",
-    "quote": "那另外好像他有一个很有名的 就是叫大蓝洞",
-    "context": "貝里斯世界知名的潛水與海底洞穴探險景點"
-  },
-  {
-    "name": "ATM洞穴",
-    "name_en": "Actun Tunichil Muknal",
-    "lat": 17.091,
-    "lon": -88.864,
-    "country": "貝里斯",
-    "region": "美洲",
-    "quote": "它里面最有名的一个观光景点 最有名之一啦 就是一个洞 叫做ATMK",
-    "context": "擁有馬雅獻祭人類遺骸的鐘乳石洞穴探險行程"
-  },
-  {
-    "name": "貝爾蒙潘",
-    "name_en": "Belmopan",
-    "lat": 17.251,
-    "lon": -88.759,
-    "country": "貝里斯",
-    "region": "美洲",
-    "quote": "其实就是贝尔蒙潘其实就不能干嘛",
-    "context": "講者擔任志工時居住與工作的地方"
+    "quote": "大藍洞 之前跟馬爾人聊的時候 好像有提到",
+    "context": "世界知名深海藍洞，需報名行程進階潛水"
   },
   {
     "name": "貝里斯市",
     "name_en": "Belize City",
     "lat": 17.499,
-    "lon": -88.197,
+    "lon": -88.187,
     "country": "貝里斯",
     "region": "美洲",
-    "quote": "就是去那个贝里斯市 就是在海边的城市那个开会",
-    "context": "講者開會時遇到地震與海嘯警報的沿海最大城市"
+    "quote": "就是去那個貝里斯市 就是在海邊的城市那個開會",
+    "context": "遇海嘯警報逃難、參加電影節的海邊最大城"
+  },
+  {
+    "name": "貝爾莫潘",
+    "name_en": "Belmopan",
+    "lat": 17.251,
+    "lon": -88.759,
+    "country": "貝里斯",
+    "region": "美洲",
+    "quote": "其實就是貝爾蒙潘其實就不能幹嘛",
+    "context": "首都，作者工作生活的地方，下班行程居家"
   },
   {
     "name": "貝里斯大學",
-    "name_en": "University of Belize",
-    "lat": 17.247,
+    "name_en": "University of Belize (Belmopan campus)",
+    "lat": 17.246,
     "lon": -88.775,
     "country": "貝里斯",
     "region": "美洲",
-    "quote": "因为他们贝里斯大学在那个首都有校区",
-    "context": "講者常去閒晃且許多留學生學英文的地方"
+    "quote": "因為他們貝里斯大學在那個首都有校區",
+    "context": "首都校區，鄰近住處，有華語中心與留學生"
+  },
+  {
+    "name": "貝里斯堡礁",
+    "name_en": "Belize Barrier Reef",
+    "lat": 17.3,
+    "lon": -87.8,
+    "country": "貝里斯",
+    "region": "美洲",
+    "quote": "那他們還有就是他們很有名的是潛水",
+    "context": "加勒比海潛水，見海龜、鯊魚、龍蝦"
   }
 ]

@@ -1,35 +1,5 @@
 [
   {
-    "name": "杜拜老城區",
-    "name_en": "Old Dubai",
-    "lat": 25.267,
-    "lon": 55.297,
-    "country": "阿拉伯聯合大公國",
-    "region": "亞洲",
-    "quote": "我當初住的地方是杜拜的老城區",
-    "context": "講述剛到杜拜時的居住地，反映當地外籍勞工生活"
-  },
-  {
-    "name": "尼羅河",
-    "name_en": "Nile River",
-    "lat": 30.044,
-    "lon": 31.235,
-    "country": "埃及",
-    "region": "非洲",
-    "quote": "看著尼羅河抽水煙",
-    "context": "描述埃及當地充滿生活感的庶民街邊咖啡廳氛圍"
-  },
-  {
-    "name": "舊開羅",
-    "name_en": "Old Cairo",
-    "lat": 30.01,
-    "lon": 31.23,
-    "country": "埃及",
-    "region": "非洲",
-    "quote": "舊開羅",
-    "context": "對比杜拜的摩登，形容埃及具有深厚歷史底蘊"
-  },
-  {
     "name": "哈里發塔",
     "name_en": "Burj Khalifa",
     "lat": 25.197,
@@ -37,18 +7,48 @@
     "country": "阿拉伯聯合大公國",
     "region": "亞洲",
     "quote": "我要去哈里巴塔巡店或什麼的",
-    "context": "提及工作巡店的地標，藉此觀察當地土豪奢華生活",
+    "context": "工作巡店時見到富裕家庭購物下午茶的場景",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Burj_Khalifa_%28worlds_tallest_building%29_and_the_Dubai_skyline_%2825781049892%29.jpg/330px-Burj_Khalifa_%28worlds_tallest_building%29_and_the_Dubai_skyline_%2825781049892%29.jpg"
+  },
+  {
+    "name": "尼羅河",
+    "name_en": "Nile River",
+    "lat": 30.044,
+    "lon": 31.224,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "看著尼羅河抽水煙",
+    "context": "埃及路邊咖啡廳的生活感，對比杜拜摩登咖啡廳"
+  },
+  {
+    "name": "舊開羅",
+    "name_en": "Old Cairo",
+    "lat": 30.006,
+    "lon": 31.23,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "埃及開羅 舊開羅 就有點像是大稻車",
+    "context": "以舊城區比喻開羅的老舊與生活感"
+  },
+  {
+    "name": "杜拜老城區",
+    "name_en": "Old Dubai (Deira)",
+    "lat": 25.269,
+    "lon": 55.308,
+    "country": "阿拉伯聯合大公國",
+    "region": "亞洲",
+    "quote": "我當初住的地方是杜拜的老城區",
+    "context": "初到杜拜居住的舊區，生活機能與想像落差大"
   },
   {
     "name": "麥加",
     "name_en": "Mecca",
-    "lat": 21.422,
-    "lon": 39.826,
+    "lat": 21.389,
+    "lon": 39.858,
     "country": "沙烏地阿拉伯",
     "region": "亞洲",
-    "quote": "麥加聖地",
-    "context": "說明沙烏地阿拉伯在伊斯蘭宗教與文化上的核心地位",
+    "quote": "麥加聖地 也是在沙烏地阿拉伯",
+    "context": "伊斯蘭聖地，使沙烏地在宗教上話語權大",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Great_Mosque_of_Mecca1.jpg/330px-Great_Mosque_of_Mecca1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]

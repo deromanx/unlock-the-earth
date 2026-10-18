@@ -1,1 +1,114 @@
-[]
+[
+  {
+    "name": "銀閣寺",
+    "name_en": "Ginkaku-ji",
+    "lat": 35.027,
+    "lon": 135.798,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "可是我們在像我在銀閣寺住",
+    "context": "迪克第一年打工換宿所在的京都左京區",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Ginkakuji_Kyoto03-r.jpg/330px-Ginkakuji_Kyoto03-r.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "琵琶湖",
+    "name_en": "Lake Biwa",
+    "lat": 35.3,
+    "lon": 136.1,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "滋賀最有名就是琵琶湖",
+    "context": "滋賀代表景點，東西岸風貌與煙火大會"
+  },
+  {
+    "name": "白鬚神社",
+    "name_en": "Shirahige Shrine",
+    "lat": 35.3446,
+    "lon": 136.0146,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "就是他的神社他的那個鳥居是蓋在水上的",
+    "context": "琵琶湖西岸的水中鳥居，可體驗立槳"
+  },
+  {
+    "name": "近江八幡",
+    "name_en": "Omi-Hachiman",
+    "lat": 35.128,
+    "lon": 136.099,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "有那個近江八帆八帆山然後你會看起來就綠意盎然",
+    "context": "琵琶湖東側的古色古香歷史城鎮"
+  },
+  {
+    "name": "東大寺",
+    "name_en": "Todai-ji",
+    "lat": 34.689,
+    "lon": 135.84,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "奈良那邊就是他們的那個東大寺那邊",
+    "context": "奈良的鹿與神像，推薦景點"
+  },
+  {
+    "name": "姬路城",
+    "name_en": "Himeji Castle",
+    "lat": 34.839,
+    "lon": 134.694,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "因為那個城堡是日本三大城",
+    "context": "日本三大名城，附AR導覽app"
+  },
+  {
+    "name": "大阪城",
+    "name_en": "Osaka Castle",
+    "lat": 34.687,
+    "lon": 135.526,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "你如果買大阪的那個就是他們有個大阪的周遊券",
+    "context": "護城河導覽船可用周遊券搭乘",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Osaka_Castle_03bs3200.jpg/330px-Osaka_Castle_03bs3200.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "貴船神社",
+    "name_en": "Kifune Shrine",
+    "lat": 35.1203,
+    "lon": 135.7627,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "貴船神社很有趣的是他們還會有那個就是",
+    "context": "以流水素麵活動聞名"
+  },
+  {
+    "name": "伊根",
+    "name_en": "Ine",
+    "lat": 35.6742,
+    "lon": 135.2886,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "主要去京都的北邊叫做伊根",
+    "context": "海上京都，舟屋村落與餵海鷗"
+  },
+  {
+    "name": "天橋立",
+    "name_en": "Amanohashidate",
+    "lat": 35.5726,
+    "lon": 135.1953,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "另外還可以去天橋立",
+    "context": "搭纜車上山胯下看飛龍在天"
+  },
+  {
+    "name": "堂山町",
+    "name_en": "Dotonbori-dotanyama (Doyama-cho)",
+    "lat": 34.7042,
+    "lon": 135.51,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "其實在大阪的唐山亭就是",
+    "context": "大阪男同志區，有三溫暖與拉客黑道"
+  }
+]

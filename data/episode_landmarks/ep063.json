@@ -7,6 +7,56 @@
     "country": "台灣",
     "region": "台灣",
     "quote": "位於台北的華山文創園區",
-    "context": "舉辦混音樂節的活動場地"
+    "context": "ONE40混音樂節舉辦地點，移工與台灣樂團共演"
+  },
+  {
+    "name": "九族文化村",
+    "name_en": "Formosan Aboriginal Culture Village",
+    "lat": 23.8707,
+    "lon": 120.9294,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "不是九族文化村喔是16族",
+    "context": "討論其名稱造成大眾對原住民族數的刻板印象"
+  },
+  {
+    "name": "奧克蘭機場",
+    "name_en": "Auckland Airport",
+    "lat": -37.0082,
+    "lon": 174.785,
+    "country": "紐西蘭",
+    "region": "大洋洲",
+    "quote": "你一下那個奧克蘭機場吧",
+    "context": "以機場毛利語雙語標示說明毛利文化的能見度"
+  },
+  {
+    "name": "山地門",
+    "name_en": "Sandimen",
+    "lat": 22.7167,
+    "lon": 120.6525,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "像我知道屏東他們一定會能去山地門",
+    "context": "舉例套裝行程常去的屏東原鄉觀光景點"
+  },
+  {
+    "name": "林阿里部落",
+    "name_en": "Linali Tribe (Lin-A-Li)",
+    "lat": 22.7,
+    "lon": 120.74,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "像是我常去的那個林阿里部落",
+    "context": "八八風災後重建的部落，舉例家庭旅宿體驗的界線"
+  },
+  {
+    "name": "小鬼湖",
+    "name_en": "Little Ghost Lake (Xiaoguihu)",
+    "lat": 23.0,
+    "lon": 120.85,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "其實那個小鬼狐對盧凱族來講就是一個境地",
+    "context": "魯凱族聖地，遊客擅闖登山的風險與文化禁忌"
   }
 ]

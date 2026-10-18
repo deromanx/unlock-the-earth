@@ -2,34 +2,95 @@
   {
     "name": "卡浩珠遺址",
     "name_en": "Cahal Pech",
-    "lat": 17.155,
-    "lon": -89.07,
+    "lat": 17.145,
+    "lon": -89.074,
     "country": "貝里斯",
     "region": "美洲",
-    "quote": "我就要那個月要在貝里斯這個國家 叫卡浩珠這個移植",
-    "context": "講者考古工作地點及人生首座瑪雅神廟",
+    "quote": "我那個月要在貝里斯這個國家叫卡浩珠這個移植",
+    "context": "講者第一次考古的瑪雅遺址，親見第一座神廟而感動",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Cahal_Pech_Jul_10_2015_49.jpg/330px-Cahal_Pech_Jul_10_2015_49.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "瑪雅潘",
+    "name_en": "Mayapan",
+    "lat": 20.629,
+    "lon": -89.461,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "我們認為可能來自一個城邦叫瑪雅潘",
+    "context": "晚期最強瑪雅城邦，「瑪雅」一詞可能由來"
   },
   {
     "name": "亞克其蘭遺址",
     "name_en": "Yaxchilan",
     "lat": 16.898,
-    "lon": -90.965,
+    "lon": -90.964,
     "country": "墨西哥",
     "region": "美洲",
-    "quote": "亞克其蘭遺址的門櫚",
-    "context": "瑪雅王族進行自我獻祭的著名石板出土地",
+    "quote": "最有名的當然就是大印博物館裡面的亞克其蘭遺址的門櫚",
+    "context": "門楣石板描繪王后穿舌獻祭的儀式",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Foto_en_la_Zona_Arqueol%C3%B3gica_de_Yaxchilan_01.jpg/330px-Foto_en_la_Zona_Arqueol%C3%B3gica_de_Yaxchilan_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "圖倫遺址",
+    "name": "科潘",
+    "name_en": "Copán",
+    "lat": 14.84,
+    "lon": -89.142,
+    "country": "宏都拉斯",
+    "region": "美洲",
+    "quote": "他是柯潘城代表性的君主",
+    "context": "十八隻兔王為該城代表性君主"
+  },
+  {
+    "name": "圖倫",
     "name_en": "Tulum",
     "lat": 20.215,
     "lon": -87.429,
     "country": "墨西哥",
     "region": "美洲",
-    "quote": "有去過圖論 或者是去這個奇形異詐 你就會 尤其在圖論",
-    "context": "瑪雅後期流行下降之神信仰的遺址",
+    "quote": "如果你今天去旅遊有去過圖論或者是去這個奇形異詐",
+    "context": "後期瑪雅遺址，可見大量下降之神圖像",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Tulum_2.jpg/330px-Tulum_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "奇琴伊察",
+    "name_en": "Chichén Itzá",
+    "lat": 20.683,
+    "lon": -88.568,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "如果你今天去旅遊有去過圖論或者是去這個奇形異詐",
+    "context": "後期瑪雅遺址，下降之神圖像常見處"
+  },
+  {
+    "name": "特諾奇提特蘭",
+    "name_en": "Tenochtitlan",
+    "lat": 19.435,
+    "lon": -99.131,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "就是他們首都鐵洛茲提浪城周圍跟鐵洛茲提浪城本身",
+    "context": "阿茲特克首都，國王直接控制之處"
+  },
+  {
+    "name": "喬盧拉",
+    "name_en": "Cholula",
+    "lat": 19.058,
+    "lon": -98.298,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "就在墨西哥附近叫做丘盧拉",
+    "context": "西班牙人途中與當地交戰之獨立城邦"
+  },
+  {
+    "name": "紐芬蘭",
+    "name_en": "Newfoundland",
+    "lat": 49.371,
+    "lon": -56.146,
+    "country": "加拿大",
+    "region": "美洲",
+    "quote": "因為維京人以前曾經殖民過那個紐芬蘭地區嘛",
+    "context": "維京人早期殖民地，早於哥倫布",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Flag_of_Newfoundland_and_Labrador.svg/330px-Flag_of_Newfoundland_and_Labrador.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]

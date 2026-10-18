@@ -1,13 +1,63 @@
 [
   {
-    "name": "烏魯伯格天文台",
-    "name_en": "Ulugh Beg Observatory",
-    "lat": 39.674,
-    "lon": 67.006,
+    "name": "雷吉斯坦廣場",
+    "name_en": "Registan Square",
+    "lat": 39.654,
+    "lon": 66.975,
     "country": "烏茲別克",
     "region": "亞洲",
-    "quote": "他们就建一个非常壮观的天文台 我那时候有去看他是半地下的",
-    "context": "體現鐵木耳帝國時期的強盛國力與高度科學發展"
+    "quote": "雷吉斯坦那那個地方就是一個廣場然後有三面都是被經學院所環繞",
+    "context": "撒馬爾罕經學院集中的廣場，夜間有燈光秀"
+  },
+  {
+    "name": "撒馬爾罕天文台（兀魯伯天文台）",
+    "name_en": "Ulugh Beg Observatory",
+    "lat": 39.6753,
+    "lon": 66.9877,
+    "country": "烏茲別克",
+    "region": "亞洲",
+    "quote": "他們就建立了所謂的天文台",
+    "context": "帖木兒帝國時期半地下天文台，顯示科學發達"
+  },
+  {
+    "name": "沙希津達陵墓群",
+    "name_en": "Shah-i-Zinda",
+    "lat": 39.6637,
+    "lon": 66.9894,
+    "country": "烏茲別克",
+    "region": "亞洲",
+    "quote": "他有一個皇家陵園那規模並不是很大而且他離市區有一段距離",
+    "context": "藍綠色瓷磚陵墓沿road排列，如異次元空間"
+  },
+  {
+    "name": "希瓦古城",
+    "name_en": "Itchan Kala, Khiva",
+    "lat": 41.378,
+    "lon": 60.359,
+    "country": "烏茲別克",
+    "region": "亞洲",
+    "quote": "他保存了非常完整的城牆然後在城內是完全沒有任何現代建築",
+    "context": "保存完整的小型汗國古城，城內無現代建築"
+  },
+  {
+    "name": "布哈拉古城",
+    "name_en": "Historic Centre of Bukhara",
+    "lat": 39.774,
+    "lon": 64.428,
+    "country": "烏茲別克",
+    "region": "亞洲",
+    "quote": "布哈拉的話我覺得就是介於兩者之間",
+    "context": "新舊交融的汗國古城，規模介於希瓦與撒馬爾罕"
+  },
+  {
+    "name": "撒馬爾罕古城",
+    "name_en": "Samarkand",
+    "lat": 39.627,
+    "lon": 66.975,
+    "country": "烏茲別克",
+    "region": "亞洲",
+    "quote": "他的首都撒馬爾汗那撒馬爾汗他在今天的烏茲別克",
+    "context": "帖木兒帝國首都，氣勢壯觀的絲路古城"
   },
   {
     "name": "泰姬瑪哈陵",
@@ -16,8 +66,8 @@
     "lon": 78.042,
     "country": "印度",
     "region": "亞洲",
-    "quote": "这个印度我们知道最有名的经典太极马哈林",
-    "context": "作為蒙兀兒帝國融合中亞多種文化風格的建築代表",
+    "quote": "你仔細想太極馬哈林這個建筑形式",
+    "context": "蒙兀兒帝國伊斯蘭建築，反映帖木兒文化遺產",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Taj_Mahal_%28Edited%29.jpeg/330px-Taj_Mahal_%28Edited%29.jpeg"
   }
 ]

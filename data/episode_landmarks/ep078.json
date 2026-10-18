@@ -2,22 +2,44 @@
   {
     "name": "泰梅爾",
     "name_en": "Thamel",
-    "lat": 27.714,
-    "lon": 85.31,
+    "lat": 27.715,
+    "lon": 85.312,
     "country": "尼泊爾",
     "region": "亞洲",
-    "quote": "加德滿都有一區 特別多觀光客會去的一區 就叫做Tamel",
-    "context": "觀光客聚集區，有特色小店與書店且禁行汽車",
+    "quote": "加德滿都有一區特別多觀光客會去的一區就叫做Tamel",
+    "context": "加德滿都觀光街區，禁行汽車，有書店與咖啡廳",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Thamel_at_Night_-_Kathmandu%2C_Nepal_%281%29.jpg/330px-Thamel_at_Night_-_Kathmandu%2C_Nepal_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "聖母峰",
-    "name_en": "Mount Everest",
-    "lat": 27.988,
-    "lon": 86.925,
+    "name": "波卡拉",
+    "name_en": "Pokhara",
+    "lat": 28.209,
+    "lon": 83.986,
     "country": "尼泊爾",
     "region": "亞洲",
-    "quote": "尤其是像你如果要去爬聖母峰的話 你一定要Hire當地的向導",
-    "context": "討論攀登高山的困難度與高昂門票、嚮導費用"
+    "quote": "波卡拉最有名的特色是他有一個很大的湖泊",
+    "context": "西化的度假觀光城市，作者不太喜歡",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Pokhara_Valley.jpg/330px-Pokhara_Valley.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "加德滿都",
+    "name_en": "Kathmandu",
+    "lat": 27.717,
+    "lon": 85.324,
+    "country": "尼泊爾",
+    "region": "亞洲",
+    "quote": "我看到他第一眼我只有一句話就是塵土飛揚",
+    "context": "首都，塵土飛揚，也是Holi慶典所在",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Kathmandu-Durbar_Square-06-Mahavishnu-Kuh-Vishnu-Pratapamalla-Jagannath-2007-gje.jpg/330px-Kathmandu-Durbar_Square-06-Mahavishnu-Kuh-Vishnu-Pratapamalla-Jagannath-2007-gje.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "丹丹村",
+    "name_en": "Dam Dam Village",
+    "lat": 28.285,
+    "lon": 84.1,
+    "country": "尼泊爾",
+    "region": "亞洲",
+    "quote": "那個小村莊叫做Dam Dam Village",
+    "context": "波卡拉山上古隆族村落，住民宿體驗傳統生活"
   }
 ]

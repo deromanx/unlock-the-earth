@@ -1,73 +1,93 @@
 [
   {
-    "name": "前美國大使館",
-    "name_en": "Former US Embassy",
-    "lat": 35.707,
-    "lon": 51.425,
+    "name": "前美國大使館（間諜巢穴博物館）",
+    "name_en": "Former US Embassy (Den of Espionage Museum), Tehran",
+    "lat": 35.6926,
+    "lon": 51.4187,
     "country": "伊朗",
     "region": "亞洲",
     "quote": "還有像那個前美國大使館",
-    "context": "現為展示反美塗鴉與文物的博物館。"
+    "context": "伊朗人質事件地點，現為反美博物館，展示碎紙機與革命照片"
   },
   {
-    "name": "聚禮清真寺",
-    "name_en": "Jameh Mosque of Isfahan",
-    "lat": 32.67,
-    "lon": 51.685,
+    "name": "伊瑪目廣場",
+    "name_en": "Naqsh-e Jahan Square (Imam Square), Isfahan",
+    "lat": 32.6578,
+    "lon": 51.6776,
     "country": "伊朗",
     "region": "亞洲",
-    "quote": "那邊最有名的是 那個 距離新增市",
-    "context": "聯合國遺產，融合各時期建築風格的清真寺。"
+    "quote": "它是算是聯合國的遺產之一",
+    "context": "伊斯法罕世界遺產大廣場，四面清真寺環繞，當地人休閒場所"
   },
   {
-    "name": "33拱橋",
-    "name_en": "Si-o-se-pol",
-    "lat": 32.644,
-    "lon": 51.667,
+    "name": "三十三孔橋",
+    "name_en": "Si-o-se-pol (33 Arch Bridge), Isfahan",
+    "lat": 32.6366,
+    "lon": 51.6676,
     "country": "伊朗",
     "region": "亞洲",
     "quote": "伊斯法海它還有一個也是被列為一山33拱橋",
-    "context": "伊斯法罕連接河兩岸的著名行人橋。"
-  },
-  {
-    "name": "天障台",
-    "name_en": "Tower of Silence",
-    "lat": 31.821,
-    "lon": 54.354,
-    "country": "伊朗",
-    "region": "亞洲",
-    "quote": "他還有一個必須的地方是天障台",
-    "context": "雅茲德郊區的拜火教天葬遺跡。"
-  },
-  {
-    "name": "亞茲德拜火教神廟",
-    "name_en": "Yazd Atash Behram",
-    "lat": 31.88,
-    "lon": 54.374,
-    "country": "伊朗",
-    "region": "亞洲",
-    "quote": "他們有一個博物館 就那個 裡面有 就既是一個火",
-    "context": "供奉兩千年不滅聖火的拜火教神廟。"
+    "context": "連接河兩岸的行人橋，夜景名勝，但河水乾涸"
   },
   {
     "name": "波斯波利斯",
     "name_en": "Persepolis",
-    "lat": 29.934,
-    "lon": 52.891,
+    "lat": 29.9355,
+    "lon": 52.8916,
     "country": "伊朗",
     "region": "亞洲",
-    "quote": "第一個蓋下去的城市才是波斯波利斯",
-    "context": "古波斯帝國首都遺址，有著壯觀的浮雕。",
+    "quote": "他們會刻一些像春夏秋冬各邦外邦要進貢什麼樣的貢品",
+    "context": "古波斯帝國首都遺址，被亞歷山大焚毀，世界遺產",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/2018-09-21_Iran%2C_Persepolis%2C_Tachara_%28from_the_southeast%29.jpg/330px-2018-09-21_Iran%2C_Persepolis%2C_Tachara_%28from_the_southeast%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "光明王之墓",
-    "name_en": "Shah Cheragh",
-    "lat": 29.61,
-    "lon": 52.543,
+    "name": "光明王之墓（沙赫·切拉格聖陵）",
+    "name_en": "Shah Cheragh Mausoleum, Shiraz",
+    "lat": 29.6086,
+    "lon": 52.5453,
     "country": "伊朗",
     "region": "亞洲",
-    "quote": "那個 光明王之墓 我聽起來很屌",
-    "context": "色拉子的伊斯蘭領袖陵墓，內部由玻璃拼湊裝飾。"
+    "quote": "第一個是那個光明王之墓",
+    "context": "設拉子伊斯蘭聖陵與清真寺，玻璃鑲嵌金碧輝煌"
+  },
+  {
+    "name": "亞茲德拜火教寂靜之塔",
+    "name_en": "Towers of Silence, Yazd",
+    "lat": 31.8431,
+    "lon": 54.3114,
+    "country": "伊朗",
+    "region": "亞洲",
+    "quote": "那拜火教的起源地在雅兹德",
+    "context": "郊外古老天葬台遺跡，兩千年前拜火教遺產"
+  },
+  {
+    "name": "亞茲德拜火教聖火神廟",
+    "name_en": "Yazd Atash Behram Fire Temple",
+    "lat": 31.8954,
+    "lon": 54.3687,
+    "country": "伊朗",
+    "region": "亞洲",
+    "quote": "號稱2000年不滅",
+    "context": "據稱燃燒近兩千年的聖火，博物館展示"
+  },
+  {
+    "name": "亞茲德古城",
+    "name_en": "Yazd Old Town",
+    "lat": 31.8974,
+    "lon": 54.3675,
+    "country": "伊朗",
+    "region": "亞洲",
+    "quote": "我在那個古鎮裡面坐了三天左右",
+    "context": "沙漠綠洲古鎮，有風塔與坎兒井等沙漠生存智慧"
+  },
+  {
+    "name": "德黑蘭大巴扎",
+    "name_en": "Grand Bazaar of Tehran",
+    "lat": 35.6735,
+    "lon": 51.421,
+    "country": "伊朗",
+    "region": "亞洲",
+    "quote": "他們的Bazaar的話他的街景就完全跟一般人的印象不一樣",
+    "context": "市集販售飾品金屬器具，有水煙茶室"
   }
 ]

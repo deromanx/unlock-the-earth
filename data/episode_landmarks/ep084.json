@@ -1,33 +1,143 @@
 [
   {
-    "name": "達爾文港",
-    "name_en": "Darwin Harbour",
-    "lat": -12.468,
-    "lon": 130.841,
-    "country": "澳洲",
-    "region": "大洋洲",
-    "quote": "澳洲唯一被日本打過的地方，就叫做達爾文港",
-    "context": "二戰時期遭日軍轟炸的歷史地點"
-  },
-  {
     "name": "卡卡杜國家公園",
     "name_en": "Kakadu National Park",
-    "lat": -13.092,
-    "lon": 132.393,
+    "lat": -12.8,
+    "lon": 132.5,
     "country": "澳洲",
     "region": "大洋洲",
-    "quote": "在北領地這邊有一個國家公園，它叫做卡卡杜國家公園",
-    "context": "澳洲最大國家公園，有豐富原住民壁畫及野生動物",
+    "quote": "在北領地這邊有一個國家公園,它叫做卡卡杜國家公園",
+    "context": "澳洲最大國家公園,有原住民壁畫、鱷魚、瀑布",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Kakadu_2431.jpg/330px-Kakadu_2431.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "鱷魚動物園 (Crocosaurus Cove)",
-    "name_en": "Crocosaurus Cove",
-    "lat": -12.463,
+    "name": "達爾文鱷魚公園(死亡之籠)",
+    "name_en": "Crocodylus Park / Cage of Death, Darwin",
+    "lat": -12.4634,
+    "lon": 130.8456,
+    "country": "澳洲",
+    "region": "大洋洲",
+    "quote": "它有一個活動叫做死亡之龍",
+    "context": "市區鱷魚動物園,體驗透明籠子與鱷魚近距離接觸"
+  },
+  {
+    "name": "達爾文港",
+    "name_en": "Darwin Harbour",
+    "lat": -12.47,
     "lon": 130.84,
     "country": "澳洲",
     "region": "大洋洲",
-    "quote": "它市區有一個那個鱷魚的動物園",
-    "context": "提供「死亡之龍」活動與鱷魚近距離接觸的市區景點"
+    "quote": "澳洲唯一被日本打過的地方,就叫做達爾文港",
+    "context": "二戰時唯一遭日軍轟炸的澳洲地點"
+  },
+  {
+    "name": "列儂巷",
+    "name_en": "Lennon Court (Perth)",
+    "lat": -31.954,
+    "lon": 115.86,
+    "country": "澳洲",
+    "region": "大洋洲",
+    "quote": "市區還有一個巷子叫做Lennon Court",
+    "context": "伯斯市區維多利亞式建築小巷"
+  },
+  {
+    "name": "天鵝塔(鐘塔)",
+    "name_en": "Swan Bells",
+    "lat": -31.9583,
+    "lon": 115.8567,
+    "country": "澳洲",
+    "region": "大洋洲",
+    "quote": "它叫做Swan Tower",
+    "context": "河邊天鵝造型鐘塔,伯斯市區地標"
+  },
+  {
+    "name": "天鵝河",
+    "name_en": "Swan River",
+    "lat": -31.965,
+    "lon": 115.86,
+    "country": "澳洲",
+    "region": "大洋洲",
+    "quote": "這條河就叫做Swan River",
+    "context": "環繞伯斯的河流,可河邊散步"
+  },
+  {
+    "name": "科特斯洛海灘",
+    "name_en": "Cottesloe Beach",
+    "lat": -31.994,
+    "lon": 115.757,
+    "country": "澳洲",
+    "region": "大洋洲",
+    "quote": "我在博斯最喜歡的海灘,它叫做Coteslo Beach",
+    "context": "作者最愛的海灘,看夕陽、連四年慶生"
+  },
+  {
+    "name": "羅特尼斯島",
+    "name_en": "Rottnest Island",
+    "lat": -32.007,
+    "lon": 115.513,
+    "country": "澳洲",
+    "region": "大洋洲",
+    "quote": "博斯的話,它旁邊有一個小島,它叫做Ronas Island",
+    "context": "短尾矮袋鼠(微笑袋鼠)棲息的小島"
+  },
+  {
+    "name": "巴瑟爾頓棧橋",
+    "name_en": "Busselton Jetty",
+    "lat": -33.648,
+    "lon": 115.348,
+    "country": "澳洲",
+    "region": "大洋洲",
+    "quote": "海邊呢,有一個很長很長的堤防",
+    "context": "長兩公里木棧道與小火車,疑似神隱少女海上列車"
+  },
+  {
+    "name": "瑪格麗特河",
+    "name_en": "Margaret River",
+    "lat": -33.955,
+    "lon": 115.075,
+    "country": "澳洲",
+    "region": "大洋洲",
+    "quote": "有一個叫瑪格麗特河的酒庄",
+    "context": "西澳著名酒莊區,公路旅行重點"
+  },
+  {
+    "name": "漢姆林灣",
+    "name_en": "Hamelin Bay",
+    "lat": -34.222,
+    "lon": 115.027,
+    "country": "澳洲",
+    "region": "大洋洲",
+    "quote": "有一個海灘,它叫做Hamling Bay",
+    "context": "可近距離看到野生鱝魚的海灘"
+  },
+  {
+    "name": "勒文角燈塔",
+    "name_en": "Cape Leeuwin Lighthouse",
+    "lat": -34.373,
+    "lon": 115.135,
+    "country": "澳洲",
+    "region": "大洋洲",
+    "quote": "它那個燈塔說,它是看太平洋和印度洋交界的一個地方",
+    "context": "可觀鯨,看兩大洋交界的燈塔"
+  },
+  {
+    "name": "彭伯頓",
+    "name_en": "Pemberton",
+    "lat": -34.443,
+    "lon": 116.036,
+    "country": "澳洲",
+    "region": "大洋洲",
+    "quote": "它有一個叫Pemberton的一個區塊",
+    "context": "高聳森林區,有可攀爬的瞭望樹"
+  },
+  {
+    "name": "皇家秀(伯斯皇家展)",
+    "name_en": "Perth Royal Show",
+    "lat": -31.95,
+    "lon": 115.955,
+    "country": "澳洲",
+    "region": "大洋洲",
+    "quote": "像是有去到澳洲的皇家秀,它叫做royal show",
+    "context": "農牧展兼遊樂園,作者在鬼屋打工"
   }
 ]
