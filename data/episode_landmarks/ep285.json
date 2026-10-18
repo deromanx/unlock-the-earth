@@ -1,73 +1,73 @@
 [
   {
-    "name": "美思樂",
-    "name_en": "Mae Salong",
-    "lat": 19.833,
-    "lon": 99.659,
+    "name": "美斯樂",
+    "name_en": "Mae Salong (Santikhiri)",
+    "lat": 20.158,
+    "lon": 99.623,
     "country": "泰國",
     "region": "亞洲",
-    "quote": "美思乐这个地方其实不止美思乐，只是美思乐是太北孤军华人村最大的地方",
-    "context": "泰緬孤軍後裔最大聚落，茶葉產區"
+    "quote": "美思乐是太北孤军华人村最大的地方",
+    "context": "泰北孤軍後裔最大華人村，節目核心地點"
   },
   {
     "name": "帕黨村",
-    "name_en": "Pha Tang Village",
-    "lat": 20.101,
-    "lon": 100.29,
+    "name_en": "Pha Dang Village",
+    "lat": 20.348,
+    "lon": 99.887,
     "country": "泰國",
     "region": "亞洲",
-    "quote": "帕党村是曾经孤军跟泰贡交火的战场",
-    "context": "孤軍與泰共交火的歷史戰場"
+    "quote": "帕党村是在泰国跟辽国的边界",
+    "context": "孤軍與泰共交火戰場所在的邊境華人村"
   },
   {
     "name": "102高地",
-    "name_en": "102 Highland",
-    "lat": 20.104,
-    "lon": 100.29,
+    "name_en": "Hill 102 (Doi Pha Dang)",
+    "lat": 20.355,
+    "lon": 99.878,
     "country": "泰國",
     "region": "亞洲",
     "quote": "帕党村的有一个叫做102高地",
-    "context": "孤軍曾在此地作戰的歷史景點"
-  },
-  {
-    "name": "金三角",
-    "name_en": "Golden Triangle",
-    "lat": 20.3,
-    "lon": 100.1,
-    "country": "泰國",
-    "region": "亞洲",
-    "quote": "这所谓的金三角区域",
-    "context": "曾是毒品種植與販運的歷史區域"
+    "context": "昔日戰場，今為看雲海景點"
   },
   {
     "name": "清萊",
     "name_en": "Chiang Rai",
-    "lat": 19.909,
-    "lon": 99.83,
+    "lat": 19.907,
+    "lon": 99.833,
     "country": "泰國",
     "region": "亞洲",
-    "quote": "我那时候搭那个双条车上去，你说从青莱的市区，然后搭双条车上到美思乐",
-    "context": "前往美思樂的起點城市"
+    "quote": "我就在青莱那边 我就亲自到了美思了",
+    "context": "前往美斯樂的轉運起點"
   },
   {
-    "name": "清邁",
-    "name_en": "Chiang Mai",
-    "lat": 18.788,
-    "lon": 98.985,
+    "name": "金三角",
+    "name_en": "Golden Triangle",
+    "lat": 20.352,
+    "lon": 100.083,
     "country": "泰國",
     "region": "亞洲",
-    "quote": "清迈在往北的一个对一个府嘛",
-    "context": "泰國北部重要城市，地理位置參考",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/0020-%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B9%8C%E0%B8%A7%E0%B8%A3%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3.jpg/330px-0020-%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B9%8C%E0%B8%A7%E0%B8%A3%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    "quote": "因为这是所谓的金三角区域",
+    "context": "鴉片產區，孤軍曾護運並後轉型種茶"
   },
   {
     "name": "考科考牙山",
-    "name_en": "Khao Kho Ya Mountain",
-    "lat": 17.061,
-    "lon": 100.788,
+    "name_en": "Khao Khor",
+    "lat": 16.633,
+    "lon": 101.083,
     "country": "泰國",
     "region": "亞洲",
     "quote": "最终就是在考科考牙山战役",
-    "context": "泰共與孤軍交戰的山區"
+    "context": "孤軍協助泰國擊敗泰共的關鍵戰役"
+  },
+  {
+    "name": "大其力",
+    "name_en": "Tachileik",
+    "lat": 20.448,
+    "lon": 99.883,
+    "country": "緬甸",
+    "region": "亞洲",
+    "quote": "他们是在大麒麟打胜仗",
+    "context": "孤軍大勝緬軍、震驚東南亞之地",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Wat_Phra_Dhatu_Doi_Wao_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B8%94%E0%B8%AD%E0%B8%A2%E0%B9%80%E0%B8%A7%E0%B8%B2_%28October_2021%29_-_img_07.jpg/330px-Wat_Phra_Dhatu_Doi_Wao_%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%98%E0%B8%B2%E0%B8%95%E0%B8%B8%E0%B8%94%E0%B8%AD%E0%B8%A2%E0%B9%80%E0%B8%A7%E0%B8%B2_%28October_2021%29_-_img_07.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]

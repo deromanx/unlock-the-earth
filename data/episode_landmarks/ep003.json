@@ -1,116 +1,83 @@
 [
   {
-    "name": "永珍",
-    "name_en": "Vientiane",
-    "lat": 17.9667,
-    "lon": 102.6,
-    "country": "寮國",
-    "region": "亞洲",
-    "quote": "對，就是在節目中講到永珍凱旋門",
-    "context": "節目中誤提及的凱旋門所在地。",
-    "image": "https://thumb.wikimedia.org/wikipedia/en/thumb/2/28/Vientiane_-_Patuxai_-_0003.jpg/330px-Vientiane_-_Patuxai_-_0003.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "佛羅倫斯",
-    "name_en": "Florence",
-    "lat": 43.7696,
-    "lon": 11.2558,
-    "country": "意大利",
-    "region": "歐洲",
-    "quote": "好啦，我們終於要進入正題了...... 意大利的佛羅倫斯。",
-    "context": "本集主要討論的城市，充滿文藝復興氣息。"
-  },
-  {
-    "name": "英斯布魯克",
-    "name_en": "Innsbruck",
-    "lat": 47.2682,
-    "lon": 11.3947,
-    "country": "奥地利",
-    "region": "歐洲",
-    "quote": "你覺得你最喜歡的歐洲城市是哪一座？我覺得應該是英斯布魯克耶。",
-    "context": "主播個人最喜歡的歐洲城市之一。"
-  },
-  {
-    "name": "巴黎",
-    "name_en": "Paris",
-    "lat": 48.8566,
-    "lon": 2.3522,
-    "country": "法国",
-    "region": "歐洲",
-    "quote": "我是從法國巴黎開始玩",
-    "context": "旅程的起點城市。",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/330px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
     "name": "聖母百花大教堂",
-    "name_en": "Florence Cathedral",
+    "name_en": "Florence Cathedral (Santa Maria del Fiore)",
     "lat": 43.7731,
-    "lon": 11.2558,
-    "country": "意大利",
+    "lon": 11.256,
+    "country": "義大利",
     "region": "歐洲",
-    "quote": "佛羅倫斯的話，他最重要的，他最重要的景點就是聖母百花大教堂。",
-    "context": "佛羅倫斯的が核心地標，外觀獨特。",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Cattedrale_di_Santa_Maria_del_Fiore_%E2%80%93_Il_Duomo_di_Firenze.jpg/330px-Cattedrale_di_Santa_Maria_del_Fiore_%E2%80%93_Il_Duomo_di_Firenze.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    "quote": "佛罗伦斯的话他最重要的景点就是圣母百花大教堂",
+    "context": "佛羅倫斯核心地標，圓頂建造歷程與投票招標故事"
   },
   {
     "name": "喬托鐘樓",
     "name_en": "Giotto's Campanile",
-    "lat": 43.773,
-    "lon": 11.2542,
-    "country": "意大利",
+    "lat": 43.7728,
+    "lon": 11.2558,
+    "country": "義大利",
     "region": "歐洲",
-    "quote": "你可以到，他隔壁有個叫喬托鐘樓，然後去眺望那個隔壁的那個圓頂。",
-    "context": "可眺望教堂圓頂的建築。"
+    "quote": "他隔壁有个叫桥托钟楼，然后去眺望那个隔壁的那个圆顶",
+    "context": "可登上眺望大教堂圓頂的鐘樓"
   },
   {
-    "name": "維奇奧宮",
+    "name": "領主宮（舊宮）",
     "name_en": "Palazzo Vecchio",
-    "lat": 43.7695,
-    "lon": 11.255,
-    "country": "意大利",
+    "lat": 43.7693,
+    "lon": 11.2562,
+    "country": "義大利",
     "region": "歐洲",
-    "quote": "那還包括了一個很有名的，叫做維奇奧宮。維奇奧宮他有一個小名叫做舊宮。",
-    "context": "佛羅倫斯市政廳，歷史悠久的宮殿。"
+    "quote": "维奇奥宫他有一个小名叫做旧宫",
+    "context": "梅迪奇家族舊宮殿，今為市政廳並開放參觀"
   },
   {
-    "name": "大衛像",
-    "name_en": "Statue of David",
-    "lat": 43.7739,
-    "lon": 11.2589,
-    "country": "意大利",
-    "region": "歐洲",
-    "quote": "到佛羅倫斯...還有一個必看的，幾乎所有人都必看的就是大衛像。",
-    "context": "米開朗基羅的雕塑傑作。"
-  },
-  {
-    "name": "佛羅倫斯美術館學院博物館",
+    "name": "佛羅倫斯學院美術館",
     "name_en": "Galleria dell'Accademia",
-    "lat": 43.7739,
-    "lon": 11.2589,
-    "country": "意大利",
+    "lat": 43.7769,
+    "lon": 11.2587,
+    "country": "義大利",
     "region": "歐洲",
-    "quote": "那移回去的話，就把它移到佛羅倫斯的美術學院的博物館裡面。",
-    "context": "收藏大衛像的藝術博物館。"
+    "quote": "把它移回去就把它移到佛伦斯的美术学院的博物馆里面",
+    "context": "收藏米開朗基羅大衛像真品的美術館"
   },
   {
-    "name": "希恩娜",
+    "name": "錫耶納",
     "name_en": "Siena",
-    "lat": 43.3182,
-    "lon": 11.331,
-    "country": "意大利",
+    "lat": 43.3188,
+    "lon": 11.3308,
+    "country": "義大利",
     "region": "歐洲",
-    "quote": "那所以呢，離開佛羅倫斯之後啊，他們近郊有兩個小城，一個叫希恩娜。",
-    "context": "佛羅倫斯附近的推薦小城。",
+    "quote": "那希恩娜的话是比较大一点，可是它也差不多这样的风情",
+    "context": "托斯卡尼近郊中世紀小城，適合一日遊",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Siena_Cattedrale_nuova_Vista_su_la_Piazza_del_Campo_2.jpg/330px-Siena_Cattedrale_nuova_Vista_su_la_Piazza_del_Campo_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "聖吉米尼亞諾",
     "name_en": "San Gimignano",
-    "lat": 43.4679,
-    "lon": 11.0354,
-    "country": "意大利",
+    "lat": 43.4677,
+    "lon": 11.0433,
+    "country": "義大利",
     "region": "歐洲",
-    "quote": "然後一個叫聖吉米尼亞諾。這兩個地方都是從佛羅倫斯搭公車、搭巴士去，大概一小時。",
-    "context": "佛羅倫斯附近的推薦中世紀小城。"
+    "quote": "像吉米尼亚诺就是这样，你在那个中塔上你看下去眼底就是一个小城",
+    "context": "山丘上的中世紀塔樓小城，可俯瞰托斯卡尼田野"
+  },
+  {
+    "name": "萬象凱旋門",
+    "name_en": "Patuxai (Vientiane Victory Gate)",
+    "lat": 17.9751,
+    "lon": 102.6199,
+    "country": "寮國",
+    "region": "亞洲",
+    "quote": "我们在节目中讲到永珍凯旋门",
+    "context": "道歉更正：1950年代寮國人自建的紀念門"
+  },
+  {
+    "name": "因斯布魯克",
+    "name_en": "Innsbruck",
+    "lat": 47.2692,
+    "lon": 11.4041,
+    "country": "奧地利",
+    "region": "歐洲",
+    "quote": "英斯布鲁克他是一个被山环绕的小镇",
+    "context": "主持人交換學生的最愛城市，群山環繞"
   }
 ]

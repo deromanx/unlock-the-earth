@@ -2,21 +2,32 @@
   {
     "name": "伊基多斯",
     "name_en": "Iquitos",
-    "lat": -3.7481,
-    "lon": -73.2529,
-    "country": "秘魯",
+    "lat": -3.749,
+    "lon": -73.253,
+    "country": "秘鲁",
     "region": "美洲",
-    "quote": "它的位置就是在秘鲁北部的亚马逊大城，它叫做伊基多斯",
-    "context": "秘魯北部的亞馬遜大城"
+    "quote": "它的位置就是在秘鲁北部的亚马逊大城它叫做伊基多斯",
+    "context": "志工基地所在的亞馬遜河畔大城，野放中心位於其郊外"
   },
   {
-    "name": "亚马逊雨林意识、救援与教育中心",
-    "name_en": "Rain Forest Awareness Rescue Education Center",
-    "lat": -4.1394,
-    "lon": -73.4706,
-    "country": "秘魯",
+    "name": "伊基多斯野放中心（雨林救援教育中心）",
+    "name_en": "Rainforest Awareness Rescue Education Center (Iquitos)",
+    "lat": -3.95,
+    "lon": -73.43,
+    "country": "秘鲁",
     "region": "美洲",
-    "quote": "它是我们要搭公车大概搭一个半小时，它大概是距离那个城市40公里左右的一个公路旁边的野放中心",
-    "context": "志工工作的野放動物中心"
+    "quote": "距离那个城市40公里左右的一个公路旁边的野放中心",
+    "context": "主角三個月擔任獸醫志工的野生動物救援中心"
+  },
+  {
+    "name": "亞馬遜河",
+    "name_en": "Amazon River",
+    "lat": -4.0,
+    "lon": -73.2,
+    "country": "秘鲁",
+    "region": "美洲",
+    "quote": "亚马逊河这条河呢它是从厄瓜多横跨到哥伦比亚秘鲁玻利维亚到巴西的出海口",
+    "context": "介紹亞馬遜河流經範圍與秘魯河段",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Amazon_River_ESA387332.jpg/330px-Amazon_River_ESA387332.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]

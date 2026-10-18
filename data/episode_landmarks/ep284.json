@@ -1,33 +1,34 @@
 [
   {
-    "name": "巴厘岛",
-    "name_en": "Bali",
-    "lat": -8.3405,
-    "lon": 115.0917,
-    "country": "印度尼西亚",
-    "region": "亞洲",
-    "quote": "巴厘岛跟泰国那些都是有很多观光客",
-    "context": "数位游牧热门地点，安全有社群"
-  },
-  {
-    "name": "清迈",
+    "name": "清邁",
     "name_en": "Chiang Mai",
     "lat": 18.788,
-    "lon": 98.9853,
-    "country": "泰国",
+    "lon": 98.985,
+    "country": "泰國",
     "region": "亞洲",
-    "quote": "巴厘岛清麦 就是数位有目",
-    "context": "数位游牧入门推荐地，有社群",
+    "quote": "像我那時候在青邁的，我跟我朋友住在co-living space",
+    "context": "數位游牧熱點，分享住共居空間與遇到退休夫妻的經歷",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/0020-%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B9%8C%E0%B8%A7%E0%B8%A3%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3.jpg/330px-0020-%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B9%8C%E0%B8%A7%E0%B8%A3%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "會安",
-    "name_en": "Hoi An",
-    "lat": 15.8801,
-    "lon": 108.338,
+    "name": "巴厘島",
+    "name_en": "Bali",
+    "lat": -8.41,
+    "lon": 115.189,
+    "country": "印尼",
+    "region": "亞洲",
+    "quote": "那青麥跟巴厘島都是數位有目熱點",
+    "context": "推薦給數位游牧新手的入門據點，觀光客多、社群活躍"
+  },
+  {
+    "name": "芽莊",
+    "name_en": "Nha Trang",
+    "lat": 12.239,
+    "lon": 109.197,
     "country": "越南",
     "region": "亞洲",
-    "quote": "越南 會安我也蠻推",
-    "context": "数位游牧热门地点，生活蓬勃"
+    "quote": "現岗我也蠻推，我去年待了半年",
+    "context": "海邊數位游牧據點，比峇里島便宜不擁擠，講者待過半年",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Nha_Trang_%2C_Vietnam_-_panoramio_%2835%29.jpg/330px-Nha_Trang_%2C_Vietnam_-_panoramio_%2835%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]

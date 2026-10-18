@@ -1,65 +1,22 @@
 [
   {
-    "name": "政治大學",
-    "name_en": "National Chengchi University",
-    "lat": 24.9877,
-    "lon": 121.5762,
-    "country": "臺灣",
-    "region": "台灣",
-    "quote": "就是我們的貓空大學 阿拉伯語文學期",
-    "context": "學校有科威特交換獎學金計畫"
-  },
-  {
-    "name": "埃及",
-    "name_en": "Egypt",
-    "lat": 26.8206,
-    "lon": 30.8025,
-    "country": "埃及",
-    "region": "非洲",
-    "quote": "對歐洲 然後是埃及啊 好爽喔",
-    "context": "主角寒暑假旅行地點之一",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/330px-Flag_of_Egypt.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "杜拜",
-    "name_en": "Dubai",
-    "lat": 25.2048,
-    "lon": 55.2708,
-    "country": "阿拉伯聯合大公國",
-    "region": "亞洲",
-    "quote": "譬如說像是杜拜阿 或是卡達",
-    "context": "海灣國家外籍勞工比例高舉例",
-    "image": "https://thumb.wikimedia.org/wikipedia/en/thumb/c/c7/Burj_Khalifa_2021.jpg/330px-Burj_Khalifa_2021.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "科威特市區",
-    "name_en": "Kuwait City",
-    "lat": 29.3759,
-    "lon": 47.9774,
+    "name": "科威特大學",
+    "name_en": "Kuwait University",
+    "lat": 29.332,
+    "lon": 47.9,
     "country": "科威特",
     "region": "亞洲",
-    "quote": "離市區 離科威特市區 差不多要一個半小時的車程",
-    "context": "離主角住處較遠，為採買商品地點",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Kuwait_City_Skyline_1.jpg/330px-Kuwait_City_Skyline_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    "quote": "我們是有一個交換",
+    "context": "作者交換留學與領獎學金的學校"
   },
   {
-    "name": "赫蘭",
-    "name_en": "Khiran",
-    "lat": 28.7183,
-    "lon": 48.3842,
+    "name": "卡伊蘭度假區",
+    "name_en": "Khairan",
+    "lat": 28.703,
+    "lon": 48.375,
     "country": "科威特",
     "region": "亞洲",
-    "quote": "地圖上 你看的話 那個地方叫做黑爛 K-A-H-I-R-N",
-    "context": "主角居住和度假的重點區域，有人造海灣。"
-  },
-  {
-    "name": "中國市場",
-    "name_en": "Chinese Market",
-    "lat": 29.3364,
-    "lon": 47.9355,
-    "country": "科威特",
-    "region": "亞洲",
-    "quote": "我都是去黑市買 有這種東西 豬肉黑市 我都是去黑市買",
-    "context": "買豬肉和酒的黑市地點"
+    "quote": "那個地方叫做黑爛",
+    "context": "作者工作時居住的南部人造海度假聖地"
   }
 ]

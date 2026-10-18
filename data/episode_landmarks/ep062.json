@@ -1,75 +1,44 @@
 [
   {
     "name": "龍山寺",
-    "name_en": "Longshan Temple",
+    "name_en": "Lungshan Temple",
     "lat": 25.037,
     "lon": 121.499,
     "country": "台灣",
     "region": "台灣",
-    "quote": "我帶他去到龍山寺，龍山寺是他第一個見到的亞洲的那種廟，他拍了五個小時。",
-    "context": "朋友Leo首次見到的亞洲廟宇，在此停留很久拍照。"
-  },
-  {
-    "name": "聖地牙哥",
-    "name_en": "San Diego",
-    "lat": 32.716,
-    "lon": -117.161,
-    "country": "美國",
-    "region": "美洲",
-    "quote": "像美國比較南邊墨西哥風味的城市，像是什麼San Diego啊",
-    "context": "作為與墨西哥接壤的美國南部城市範例。",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/La_Jolla_Shores_view_%28cropped%29.jpg/330px-La_Jolla_Shores_view_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "聖安東尼奧",
-    "name_en": "San Antonio",
-    "lat": 29.424,
-    "lon": -98.494,
-    "country": "美國",
-    "region": "美洲",
-    "quote": "或者是San Antonio",
-    "context": "作為與墨西哥接壤的美國南部城市範例。"
-  },
-  {
-    "name": "休士頓",
-    "name_en": "Houston",
-    "lat": 29.76,
-    "lon": -95.369,
-    "country": "美國",
-    "region": "美洲",
-    "quote": "或甚至像Houston那種大城市的感覺",
-    "context": "作為與墨西哥接壤的美國南部城市範例。",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Texas_medical_center.jpg/330px-Texas_medical_center.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "瓦哈卡市",
-    "name_en": "Oaxaca City",
-    "lat": 17.073,
-    "lon": -96.726,
-    "country": "墨西哥",
-    "region": "美洲",
-    "quote": "那他有一個州叫瓦哈卡，他很喜歡去那邊，因為他就是一個很接近大自然的地方。",
-    "context": "朋友Leo喜歡去探訪的接近大自然的地區。"
+    "quote": "我帶他去到龍山市龍山市是他第一個見到的亞洲的那種廟",
+    "context": "墨西哥友人首次見到亞洲廟宇，拍攝五小時"
   },
   {
     "name": "提華納",
     "name_en": "Tijuana",
     "lat": 32.515,
-    "lon": -117.035,
+    "lon": -117.038,
     "country": "墨西哥",
     "region": "美洲",
-    "quote": "我不知道你知道提灣娜這個城市，他是在San Diago的南邊，你可以步行進到那個提灣娜這個城市。",
-    "context": "美墨邊境城市，被誤認安全但實際上謀殺率高。"
+    "quote": "你可以步行進到那個提灣娜這個城市",
+    "context": "美墨邊境城市，美國人眼中的安全選擇卻是兇殺率高的城市"
   },
   {
     "name": "墨西哥城",
     "name_en": "Mexico City",
-    "lat": 19.432,
+    "lat": 19.433,
     "lon": -99.133,
     "country": "墨西哥",
     "region": "美洲",
-    "quote": "光在墨西哥城裡面的那個改變，白態這樣子。",
-    "context": "城市內部從進步到貧窮地區的多樣風貌。",
+    "quote": "墨西哥城非常非常大",
+    "context": "作者在此生活，走路回家三小時的經歷",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Sobrevuelos_CDMX_HJ2A4913_%2825514321687%29_%28cropped%29.jpg/330px-Sobrevuelos_CDMX_HJ2A4913_%2825514321687%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "瓦哈卡",
+    "name_en": "Oaxaca",
+    "lat": 17.073,
+    "lon": -96.727,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "他有一個州叫瓦哈卡他很喜歡去那邊",
+    "context": "合夥人常去的原住民部落地區，談及種族自卑",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Oaxaqa_%2841%29.jpg/330px-Oaxaqa_%2841%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]

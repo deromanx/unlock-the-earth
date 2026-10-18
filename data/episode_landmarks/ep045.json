@@ -1,106 +1,54 @@
 [
   {
-    "name": "提奧提瓦坎",
-    "name_en": "Teotihuacan",
-    "lat": 19.6924,
-    "lon": -98.8435,
-    "country": "墨西哥",
-    "region": "美洲",
-    "quote": "有一個叫做 提奧提瓦坎 這個文明",
-    "context": "文明，奧爾梅克母體發展"
-  },
-  {
     "name": "奇琴伊察",
     "name_en": "Chichen Itza",
-    "lat": 20.6829,
-    "lon": -88.5678,
+    "lat": 20.683,
+    "lon": -88.568,
     "country": "墨西哥",
     "region": "美洲",
-    "quote": "北部有一個叫齊千尼柵",
-    "context": "著名的瑪雅金字塔",
+    "quote": "那齊千尼柵是現在世界新的七大奇景之一",
+    "context": "尤加敦半島馬雅金字塔，新七大奇景之一",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Chichen_Itza_3.jpg/330px-Chichen_Itza_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "羅馬競技場",
-    "name_en": "Colosseum",
-    "lat": 41.8902,
-    "lon": 12.4922,
-    "country": "義大利",
-    "region": "歐洲",
-    "quote": "第一個是羅馬競技場",
-    "context": "世界新七大奇景之一",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Colosseo_2020.jpg/330px-Colosseo_2020.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "萬里長城",
-    "name_en": "Great Wall of China",
-    "lat": 40.3555,
-    "lon": 116.0072,
-    "country": "中國",
-    "region": "亞洲",
-    "quote": "再來是萬里長城",
-    "context": "世界新七大奇景之一"
-  },
-  {
-    "name": "佩特拉古城",
-    "name_en": "Petra",
-    "lat": 30.3285,
-    "lon": 35.4444,
-    "country": "約旦",
-    "region": "亞洲",
-    "quote": "第三個是約旦的佩特拉古城",
-    "context": "世界新七大奇景之一",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Al_Deir_Petra.JPG/330px-Al_Deir_Petra.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "基督救世主像",
-    "name_en": "Christ the Redeemer",
-    "lat": -22.9519,
-    "lon": -43.2105,
-    "country": "巴西",
-    "region": "美洲",
-    "quote": "巴西里約熱內盧的那個耶穌巷",
-    "context": "世界新七大奇景之一"
   },
   {
     "name": "馬丘比丘",
     "name_en": "Machu Picchu",
-    "lat": -13.1631,
+    "lat": -13.163,
     "lon": -72.545,
     "country": "秘魯",
     "region": "美洲",
-    "quote": "馬丘比丘秘魯",
-    "context": "世界新七大奇景之一"
+    "quote": "我去年的這個時候剛好在馬丘比丘上面",
+    "context": "七大奇景之一，講者上山時遇雨"
   },
   {
-    "name": "泰姬瑪哈陵",
-    "name_en": "Taj Mahal",
-    "lat": 27.1751,
-    "lon": 78.0421,
-    "country": "印度",
-    "region": "亞洲",
-    "quote": "第七個是印度的太吉馬哈林",
-    "context": "世界新七大奇景之一",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Taj_Mahal_%28Edited%29.jpeg/330px-Taj_Mahal_%28Edited%29.jpeg"
+    "name": "烏尤尼鹽湖（天空之鏡）",
+    "name_en": "Salar de Uyuni",
+    "lat": -20.133,
+    "lon": -67.489,
+    "country": "玻利維亞",
+    "region": "美洲",
+    "quote": "是秘魯加波利維亞的天空之徑",
+    "context": "同事帶團遇雨後鹽田，天氣絕佳"
   },
   {
-    "name": "古巴",
-    "name_en": "Cuba",
-    "lat": 21.5,
-    "lon": -79.5,
+    "name": "哈瓦那凱賓斯基飯店",
+    "name_en": "Gran Hotel Manzana Kempinski, Havana",
+    "lat": 23.1385,
+    "lon": -82.3589,
     "country": "古巴",
     "region": "美洲",
-    "quote": "中南美的話是墨西哥 古巴",
-    "context": "特殊島國，旅遊不易"
+    "quote": "住到哈瓦那最好的飯店是凱冰斯基",
+    "context": "古巴最好的五星飯店，早餐價格高昂"
   },
   {
-    "name": "哈瓦那",
-    "name_en": "Havana",
-    "lat": 23.1136,
-    "lon": -82.3666,
-    "country": "古巴",
-    "region": "美洲",
-    "quote": "我們去通常都是去哈瓦那",
-    "context": "古巴首都，城市特色討論"
+    "name": "馬德里皇宮",
+    "name_en": "Royal Palace of Madrid",
+    "lat": 40.418,
+    "lon": -3.714,
+    "country": "西班牙",
+    "region": "歐洲",
+    "quote": "我有一次在西班牙然後去皇宮",
+    "context": "導覽說房間用黃金，被拉美人聽到不滿",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Palacio_Real_de_Madrid_Julio_2016_%28cropped%29.jpg/330px-Palacio_Real_de_Madrid_Julio_2016_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]

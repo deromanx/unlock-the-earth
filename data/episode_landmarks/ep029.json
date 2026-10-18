@@ -2,41 +2,21 @@
   {
     "name": "巴拿馬市",
     "name_en": "Panama City",
-    "lat": 8.99407,
-    "lon": -79.51984,
+    "lat": 8.983,
+    "lon": -79.517,
     "country": "巴拿馬",
     "region": "美洲",
-    "quote": "對,我們在巴拿馬市",
-    "context": "替代役的駐地"
+    "quote": "我們在巴拿馬市",
+    "context": "講者擔任外交替代役期間居住與生活的城市"
   },
   {
-    "name": "信義區",
-    "name_en": "Xinyi District",
-    "lat": 25.033,
-    "lon": 121.564,
-    "country": "台灣",
-    "region": "台灣",
-    "quote": "它有一區根本就是信義區啦",
-    "context": "形容巴拿馬市的現代化"
-  },
-  {
-    "name": "San Jose",
-    "name_en": "San Jose",
-    "lat": 9.92807,
-    "lon": -84.09073,
-    "country": "哥斯大黎加",
-    "region": "美洲",
-    "quote": "就有點像你講的那個感覺",
-    "context": "哥斯大黎加首都的對比"
-  },
-  {
-    "name": "Samblas",
-    "name_en": "Samblas",
-    "lat": 8.53333,
-    "lon": -77.73333,
+    "name": "聖布拉斯群島",
+    "name_en": "San Blas Islands (Guna Yala)",
+    "lat": 9.552,
+    "lon": -78.98,
     "country": "巴拿馬",
     "region": "美洲",
-    "quote": "它叫Samblas",
-    "context": "巴拿馬中部加勒比海的旅遊地"
+    "quote": "它那邊其實是一個當地原住民的保護區",
+    "context": "加勒比海原住民離島跳島行程，現撈龍蝦"
   }
 ]

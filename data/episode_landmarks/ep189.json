@@ -1,52 +1,22 @@
 [
   {
-    "name": "坎培拉",
+    "name": "坎帕拉",
     "name_en": "Kampala",
     "lat": 0.3476,
     "lon": 32.5825,
     "country": "烏干達",
     "region": "非洲",
-    "quote": "我剛落地烏干達的時候還是有嚇到，我是非首都坎培拉",
-    "context": "烏干達首都，實習與生活地點"
+    "quote": "它的首都坎培拉其實是六座小丘陵組成的",
+    "context": "烏干達首都，丘陵地形、市容、治安與生活見聞"
   },
   {
-    "name": "阿如夏",
+    "name": "阿魯阿",
     "name_en": "Arua",
-    "lat": 3.0205,
-    "lon": 30.9167,
+    "lat": 3.02,
+    "lon": 30.911,
     "country": "烏干達",
     "region": "非洲",
-    "quote": "在他的家鄉成立了一隻小朋友球隊，然後他現在非常偏遠，非常在烏干達的最西北邊，叫阿如夏的地方",
-    "context": "同事家鄉，球隊所在地"
-  },
-  {
-    "name": "家樂福",
-    "name_en": "Carrefour (Kampala)",
-    "lat": 0.3159,
-    "lon": 32.5886,
-    "country": "烏干達",
-    "region": "非洲",
-    "quote": "家樂福它是一個批發價，然後公開透明的價格",
-    "context": "坎培拉的連鎖超市，物價公開透明"
-  },
-  {
-    "name": "傳統市場",
-    "name_en": "Traditional Market (Kampala)",
-    "lat": 0.313,
-    "lon": 32.576,
-    "country": "烏干達",
-    "region": "非洲",
-    "quote": "我只要去傳統市場才賣，我一定會買Rollex來吃",
-    "context": "購買Rollex和廚餘收集點"
-  },
-  {
-    "name": "工業區",
-    "name_en": "Industrial Area (Kampala)",
-    "lat": 0.306,
-    "lon": 32.6,
-    "country": "烏干達",
-    "region": "非洲",
-    "quote": "我住工業區的旁邊，然後工業區晚上班也比較少人嘛",
-    "context": "訪客的居住地附近，治安較差"
+    "quote": "非常在烏干達的最西北邊",
+    "context": "同事的家鄉，成立小朋友曲棍球隊之處"
   }
 ]

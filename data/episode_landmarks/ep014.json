@@ -1,135 +1,93 @@
 [
   {
-    "name": "多倫多",
-    "name_en": "Toronto",
-    "lat": 43.6532,
-    "lon": -79.3832,
-    "country": "加拿大",
-    "region": "美洲",
-    "quote": "因為蕭斌自從四年前就到加拿大多倫多居住",
-    "context": "蕭斌長期居住和工作的城市",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Toronto_Skyline_from_Snake_Island%2C_September_11_2026_%2801%29.jpg/330px-Toronto_Skyline_from_Snake_Island%2C_September_11_2026_%2801%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
     "name": "尼加拉瀑布",
     "name_en": "Niagara Falls",
-    "lat": 43.0799,
-    "lon": -79.0746,
-    "country": "美國",
-    "region": "美洲",
-    "quote": "反正就在尼加拉瀑布那邊是美國的邊界",
-    "context": "換簽證時需出境再入境的地點"
-  },
-  {
-    "name": "長虹橋",
-    "name_en": "Rainbow Bridge",
-    "lat": 43.0906,
-    "lon": -79.0573,
-    "country": "美國",
-    "region": "美洲",
-    "quote": "然後有一個長虹橋我就要過去走過去再走回來",
-    "context": "換簽證時出入境的橋"
-  },
-  {
-    "name": "多倫多大學實驗小學",
-    "name_en": "University of Toronto Lab School",
-    "lat": 43.6669,
-    "lon": -79.39,
+    "lat": 43.08,
+    "lon": -79.075,
     "country": "加拿大",
     "region": "美洲",
-    "quote": "那是一個小學是一個多倫多大學的實驗小學",
-    "context": "一個不考試的實驗小學"
+    "quote": "就在尼加拉瀑布那边是美国的边界然后有一个长虹桥",
+    "context": "換簽證需出境，走過彩虹橋到美國再回來"
   },
   {
-    "name": "波特蘭",
-    "name_en": "Portland",
-    "lat": 45.5231,
-    "lon": -122.6765,
-    "country": "美國",
+    "name": "彩虹橋",
+    "name_en": "Rainbow Bridge",
+    "lat": 43.09,
+    "lon": -79.069,
+    "country": "加拿大",
     "region": "美洲",
-    "quote": "美西是從歐瑞羅州波特蘭一路到最南端美墨邊界Sandyago",
-    "context": "美西單車旅行的起點"
+    "quote": "然后有一个长虹桥我就要过去走过去然后再走回来",
+    "context": "步行過橋出境十秒再入境換簽證"
   },
   {
-    "name": "聖地牙哥",
-    "name_en": "San Diego",
-    "lat": 32.7157,
-    "lon": -117.1611,
-    "country": "美國",
+    "name": "阿岡昆省立公園",
+    "name_en": "Algonquin Provincial Park",
+    "lat": 45.837,
+    "lon": -78.378,
+    "country": "加拿大",
     "region": "美洲",
-    "quote": "歐瑞羅州波特蘭一路到最南端美墨邊界Sandyago",
-    "context": "美西單車旅行的終點",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/La_Jolla_Shores_view_%28cropped%29.jpg/330px-La_Jolla_Shores_view_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    "quote": "叫做阿尔冠国家公园阿康克林",
+    "context": "划獨木舟露營三天兩夜，最推薦的旅行方式"
   },
   {
     "name": "愛德華王子島",
     "name_en": "Prince Edward Island",
-    "lat": 46.5107,
-    "lon": -63.4168,
+    "lat": 46.51,
+    "lon": -63.417,
     "country": "加拿大",
     "region": "美洲",
-    "quote": "那一次我們就開到從多倫多開車旅行開到愛德華王子島",
+    "quote": "从多伦多开车旅行开到爱德华王子岛来回",
     "context": "與家人開車露營旅行的目的地"
   },
   {
     "name": "聖羅倫斯河",
-    "name_en": "Saint Lawrence River",
-    "lat": 46.85,
-    "lon": -70.9,
+    "name_en": "St. Lawrence River",
+    "lat": 46.8,
+    "lon": -71.2,
     "country": "加拿大",
     "region": "美洲",
-    "quote": "然後我們就租一台車然後就沿著聖羅人士河一路開",
-    "context": "與家人開車旅行的路線",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Le_fleuve_Saint-Laurent.jpg/330px-Le_fleuve_Saint-Laurent.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "阿爾岡國家公園",
-    "name_en": "Algonquin Provincial Park",
-    "lat": 45.8333,
-    "lon": -78.5,
-    "country": "加拿大",
-    "region": "美洲",
-    "quote": "中間有一個比較特別也會推薦大家去的是叫做阿爾冠國家公園阿康克林",
-    "context": "推薦的獨木舟露營地"
-  },
-  {
-    "name": "溫哥華",
-    "name_en": "Vancouver",
-    "lat": 49.2827,
-    "lon": -123.1207,
-    "country": "加拿大",
-    "region": "美洲",
-    "quote": "如果要滑雪真的是要去西邊去溫哥華",
-    "context": "推薦的滑雪地點"
+    "quote": "然后就沿着圣罗人士河一路开其实影点还蛮多的",
+    "context": "家庭露營旅行沿河而行"
   },
   {
     "name": "惠斯勒",
     "name_en": "Whistler",
-    "lat": 50.1163,
-    "lon": -122.9574,
+    "lat": 50.116,
+    "lon": -122.957,
     "country": "加拿大",
     "region": "美洲",
-    "quote": "霍斯勒那邊真的是大山",
-    "context": "著名的滑雪勝地"
+    "quote": "去温哥华霍斯勒那边真的是大山",
+    "context": "滑雪推薦地，需搭機前往"
   },
   {
-    "name": "魁北克省",
-    "name_en": "Quebec Province",
-    "lat": 52.0,
-    "lon": -71.0,
+    "name": "弗雷德里克頓",
+    "name_en": "Fredericton",
+    "lat": 45.964,
+    "lon": -66.643,
     "country": "加拿大",
     "region": "美洲",
-    "quote": "再往東一點到魁北克省法語區的話那基本上就會好一點",
-    "context": "討論其法語區文化與旅遊趣事"
+    "quote": "从多伦多骑到右边的东边的New Brunswick Fredericton大概1600公里",
+    "context": "單車旅行終點"
   },
   {
-    "name": "蒙特婁",
-    "name_en": "Montreal",
-    "lat": 45.5019,
-    "lon": -73.5674,
-    "country": "加拿大",
+    "name": "波特蘭",
+    "name_en": "Portland",
+    "lat": 45.515,
+    "lon": -122.679,
+    "country": "美國",
     "region": "美洲",
-    "quote": "就是你不要講這個Montreal這種大的城市那真的是這個地方是可以",
-    "context": "魁北克省的大城市，與小城鎮語言情況不同"
+    "quote": "从欧瑞罗州波特兰一路到最南端美墨边界Sandyago",
+    "context": "美西單車旅行起點"
+  },
+  {
+    "name": "聖地牙哥",
+    "name_en": "San Diego",
+    "lat": 32.716,
+    "lon": -117.161,
+    "country": "美國",
+    "region": "美洲",
+    "quote": "一路到最南端美墨边界Sandyago",
+    "context": "美西單車旅行終點",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/La_Jolla_Shores_view_%28cropped%29.jpg/330px-La_Jolla_Shores_view_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]

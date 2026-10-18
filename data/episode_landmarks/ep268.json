@@ -1,154 +1,156 @@
 [
   {
-    "name": "總統府",
-    "name_en": "Presidential Office Building",
-    "lat": 25.04,
-    "lon": 121.512,
-    "country": "臺灣",
+    "name": "鼎泰豐",
+    "name_en": "Din Tai Fung",
+    "lat": 25.0334,
+    "lon": 121.5296,
+    "country": "台灣",
     "region": "台灣",
-    "quote": "有一些人 他們是會來參觀 TSMC跟總統府的",
-    "context": "MBA學生想參觀的景點之一"
-  },
-  {
-    "name": "舊金山街上",
-    "name_en": "Streets of San Francisco",
-    "lat": 37.775,
-    "lon": -122.419,
-    "country": "美國",
-    "region": "美洲",
-    "quote": "我覺得我根本不可能晚上八點過後還在舊金山的街上走路",
-    "context": "與臺灣夜間安全的對比"
-  },
-  {
-    "name": "台北101",
-    "name_en": "Taipei 101",
-    "lat": 25.034,
-    "lon": 121.565,
-    "country": "臺灣",
-    "region": "台灣",
-    "quote": "比如說台北101一定要嘛",
-    "context": "外國人來臺灣必去景點之一",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Taipei_101_logo.svg/330px-Taipei_101_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "九份",
-    "name_en": "Jiufen",
-    "lat": 25.109,
-    "lon": 121.844,
-    "country": "臺灣",
-    "region": "台灣",
-    "quote": "然後九份一定要去",
-    "context": "外國人來臺灣必去景點，提及跑階梯比賽",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Jiufen_Amei_Tea_House_08.23.jpg/330px-Jiufen_Amei_Tea_House_08.23.jpg"
-  },
-  {
-    "name": "圓山大飯店",
-    "name_en": "Grand Hotel Taipei",
-    "lat": 25.079,
-    "lon": 121.524,
-    "country": "臺灣",
-    "region": "台灣",
-    "quote": "圓山大飯店 就是一定要住一下",
-    "context": "外國人最喜歡的景點，符合東方想像"
-  },
-  {
-    "name": "士林夜市",
-    "name_en": "Shilin Night Market",
-    "lat": 25.088,
-    "lon": 121.526,
-    "country": "臺灣",
-    "region": "台灣",
-    "quote": "士林夜市 就是去之前 剛才講說 士林夜市 就是那個你知道 門口那個大雞排 可以吃一下",
-    "context": "學生自由探索的夜市"
-  },
-  {
-    "name": "太魯閣國家公園",
-    "name_en": "Taroko National Park",
-    "lat": 24.182,
-    "lon": 121.621,
-    "country": "臺灣",
-    "region": "台灣",
-    "quote": "我記得太魯閣國家公園 沒有開的",
-    "context": "因地震影響未能前往"
-  },
-  {
-    "name": "安平區",
-    "name_en": "Anping District",
-    "lat": 23.004,
-    "lon": 120.165,
-    "country": "臺灣",
-    "region": "台灣",
-    "quote": "我們第一個行程 安平遊船 哇嚇到不行",
-    "context": "臺南行程第一站，學生遇到下雨"
-  },
-  {
-    "name": "赤崁樓",
-    "name_en": "Chihkan Tower",
-    "lat": 22.997,
-    "lon": 120.203,
-    "country": "臺灣",
-    "region": "台灣",
-    "quote": "我們就去赤坎樓啊 然後孔廟啊 然後林百貨這些地方就帶他們去走一走",
-    "context": "臺南歷史景點，學生參觀"
-  },
-  {
-    "name": "臺南孔廟",
-    "name_en": "Tainan Confucius Temple",
-    "lat": 22.99,
-    "lon": 120.204,
-    "country": "臺灣",
-    "region": "台灣",
-    "quote": "我們就去赤坎樓啊 然後孔廟啊 然後林百貨這些地方就帶他們去走一走",
-    "context": "臺南歷史景點，學生參觀"
-  },
-  {
-    "name": "林百貨",
-    "name_en": "Hayashi Department Store",
-    "lat": 22.989,
-    "lon": 120.2,
-    "country": "臺灣",
-    "region": "台灣",
-    "quote": "我們就去赤坎樓啊 然後孔廟啊 然後林百貨這些地方就帶他們去走一走",
-    "context": "臺南歷史景點，學生參觀"
-  },
-  {
-    "name": "神農街",
-    "name_en": "Shennong Street",
-    "lat": 22.998,
-    "lon": 120.194,
-    "country": "臺灣",
-    "region": "台灣",
-    "quote": "尤其像那個神農街附近啊 你去那邊走你會覺得這個感覺很好",
-    "context": "臺南晚上散步安全且氣氛好的地方"
-  },
-  {
-    "name": "龍山寺",
-    "name_en": "Longshan Temple",
-    "lat": 25.037,
-    "lon": 121.499,
-    "country": "臺灣",
-    "region": "台灣",
-    "quote": "像我朋友他們有去龍山寺 就你知道龍山寺並不是一個 跟安平古堡是完全不同類型的古蹟",
-    "context": "臺北古蹟，與臺南歐式古蹟對比"
+    "quote": "我们第一站是顶太风",
+    "context": "MBA團抵台第一餐，六十人包場用餐",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Taiwan_2009_Taipei_DinTaiFung_Dumpling_House_at_Pacific_Sogo_ZhongXiao_Store_FRD_9000.jpg/330px-Taiwan_2009_Taipei_DinTaiFung_Dumpling_House_at_Pacific_Sogo_ZhongXiao_Store_FRD_9000.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "迪化街",
     "name_en": "Dihua Street",
-    "lat": 25.056,
-    "lon": 121.51,
-    "country": "臺灣",
+    "lat": 25.0627,
+    "lon": 121.5107,
+    "country": "台灣",
     "region": "台灣",
-    "quote": "那條整條迪化就擠到不行對啊那你就崩潰",
-    "context": "過年期間年貨大街，非常擁擠"
+    "quote": "迪化街因为是年货大街嘛",
+    "context": "年貨大街，參拜霞海城隍廟的所在"
   },
   {
     "name": "霞海城隍廟",
-    "name_en": "Xia Hai City God Temple",
-    "lat": 25.057,
+    "name_en": "Taipei Xia-Hai City God Temple",
+    "lat": 25.0555,
     "lon": 121.51,
-    "country": "臺灣",
+    "country": "台灣",
     "region": "台灣",
-    "quote": "那你們拜的是狹海城皇廟嗎是狹海城皇廟",
-    "context": "學生們參拜月老的地方"
+    "quote": "你们拜的是狭海城皇庙吗是狭海城皇庙60个人",
+    "context": "外國同學排隊拜月老的有趣畫面",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Taipei_Xia-Hai_City_God_Temple_07.23.jpg/330px-Taipei_Xia-Hai_City_God_Temple_07.23.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "九份",
+    "name_en": "Jiufen",
+    "lat": 25.1096,
+    "lon": 121.8441,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "九份阶梯不是很长吗",
+    "context": "同學比賽跑上階梯、茶行喝茶買茶具",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Jiufen_Amei_Tea_House_08.23.jpg/330px-Jiufen_Amei_Tea_House_08.23.jpg"
+  },
+  {
+    "name": "圓山大飯店",
+    "name_en": "The Grand Hotel Taipei",
+    "lat": 25.0786,
+    "lon": 121.5262,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "他们IG发最多的一个地方是圆山大饭店",
+    "context": "最符合外國人對東方想像，同學最愛"
+  },
+  {
+    "name": "山海樓",
+    "name_en": "Shan Hai Lou",
+    "lat": 25.0405,
+    "lon": 121.5446,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "我们有一天去吃了山海楼那一餐才是哇要瘦贵",
+    "context": "高級台菜，現場片雞表演嚇到素食者"
+  },
+  {
+    "name": "安平",
+    "name_en": "Anping",
+    "lat": 23.001,
+    "lon": 120.16,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "我们第一个行程安平游船",
+    "context": "台南首站遇雨的安平遊船"
+  },
+  {
+    "name": "赤崁樓",
+    "name_en": "Chihkan Tower",
+    "lat": 22.9972,
+    "lon": 120.2025,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "我们就去赤坎楼啊然后孔庙啊然后林百货",
+    "context": "台南行程中的歷史古蹟"
+  },
+  {
+    "name": "台南孔廟",
+    "name_en": "Tainan Confucius Temple",
+    "lat": 22.9903,
+    "lon": 120.2046,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "我们就去赤坎楼啊然后孔庙啊然后林百货",
+    "context": "台南行程中的歷史古蹟"
+  },
+  {
+    "name": "林百貨",
+    "name_en": "Hayashi Department Store",
+    "lat": 22.9922,
+    "lon": 120.1975,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "我们就去赤坎楼啊然后孔庙啊然后林百货",
+    "context": "台南行程中的歷史建築"
+  },
+  {
+    "name": "神農街",
+    "name_en": "Shennong Street",
+    "lat": 22.9987,
+    "lon": 120.1968,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "尤其像那个神农街附近啊",
+    "context": "台南夜晚酒吧串場、散步氛圍極佳"
+  },
+  {
+    "name": "龍山寺",
+    "name_en": "Lungshan Temple",
+    "lat": 25.0373,
+    "lon": 121.4999,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "因为像我朋友他们有去龙山寺",
+    "context": "舉例台北中式古蹟，與台南對比"
+  },
+  {
+    "name": "士林夜市",
+    "name_en": "Shilin Night Market",
+    "lat": 25.0879,
+    "lon": 121.524,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "比如说士林夜市就是去之前",
+    "context": "推薦吃大雞排、地瓜球後自由探索"
+  },
+  {
+    "name": "國立故宮博物院",
+    "name_en": "National Palace Museum",
+    "lat": 25.1024,
+    "lon": 121.5485,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "我们隔天去了故宫跟士林夜市还有再去九份的时候",
+    "context": "行程中造訪的博物館",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/73/National_Palace_Museum_logo.svg/330px-National_Palace_Museum_logo.svg.png"
+  },
+  {
+    "name": "太魯閣國家公園",
+    "name_en": "Taroko National Park",
+    "lat": 24.159,
+    "lon": 121.621,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "我记得太鲁的国家公司没有开的",
+    "context": "因地震未開放，錯失東部爬山行程"
   }
 ]

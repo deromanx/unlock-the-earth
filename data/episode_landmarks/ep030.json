@@ -1,195 +1,196 @@
 [
   {
-    "name": "布達",
-    "name_en": "Buda",
-    "lat": 47.497,
-    "lon": 19.04,
-    "country": "匈牙利",
-    "region": "歐洲",
-    "quote": "多瑙河的左邊這邊是叫做布達",
-    "context": "布達佩斯的一部分，多瑙河左岸。"
-  },
-  {
-    "name": "佩斯",
-    "name_en": "Pest",
-    "lat": 47.4979,
-    "lon": 19.06,
-    "country": "匈牙利",
-    "region": "歐洲",
-    "quote": "另外邊叫佩斯，大部分活動的區域都在佩斯",
-    "context": "布達佩斯的一部分，觀光活動主要區域。"
-  },
-  {
-    "name": "布達佩斯城堡",
+    "name": "布達城堡",
     "name_en": "Buda Castle",
-    "lat": 47.497,
-    "lon": 19.04,
-    "country": "匈牙利",
-    "region": "歐洲",
-    "quote": "布達佩斯城堡啊，城堡區是在布達",
-    "context": "布達城堡區的主要皇宮建築。"
-  },
-  {
-    "name": "自由女神像",
-    "name_en": "Liberty Statue",
-    "lat": 47.48,
-    "lon": 19.05,
-    "country": "匈牙利",
-    "region": "歐洲",
-    "quote": "布達佩斯也有一個自由女神像，他其實是一個女神",
-    "context": "位於高山丘，可俯瞰市景。"
-  },
-  {
-    "name": "吉列山",
-    "name_en": "Gellért Hill",
-    "lat": 47.48,
-    "lon": 19.05,
-    "country": "匈牙利",
-    "region": "歐洲",
-    "quote": "那個山其實就叫吉列山",
-    "context": "自由女神像與溫泉所在地。"
-  },
-  {
-    "name": "吉列溫泉",
-    "name_en": "Gellért Hot Spring",
-    "lat": 47.482,
-    "lon": 19.051,
-    "country": "匈牙利",
-    "region": "歐洲",
-    "quote": "那個飯店就是一個就是Gilliat Hot Spring",
-    "context": "位於吉列山腳，本地人多。"
-  },
-  {
-    "name": "英雄廣場",
-    "name_en": "Hero Square",
-    "lat": 47.505,
-    "lon": 19.076,
-    "country": "匈牙利",
-    "region": "歐洲",
-    "quote": "在Hero Square就是英雄廣場那邊",
-    "context": "有大型SPA澡堂，週末辦電影派對。"
-  },
-  {
-    "name": "紐約公咖啡館",
-    "name_en": "New York Café",
-    "lat": 47.4911,
-    "lon": 19.0632,
-    "country": "匈牙利",
-    "region": "歐洲",
-    "quote": "紐約公咖啡館，紐約公",
-    "context": "世界十大華麗咖啡廳之一。"
-  },
-  {
-    "name": "國會大廈",
-    "name_en": "Parliament House",
-    "lat": 47.505,
-    "lon": 19.045,
-    "country": "匈牙利",
-    "region": "歐洲",
-    "quote": "國會大廈也是布達佩斯非常非常有名的建築物",
-    "context": "宏偉建築，夜晚打橘黃色燈光。"
-  },
-  {
-    "name": "魚人堡",
-    "name_en": "Fisherman's Bastion",
-    "lat": 47.501,
-    "lon": 19.035,
-    "country": "匈牙利",
-    "region": "歐洲",
-    "quote": "另外一個有名的就是魚人堡",
-    "context": "城堡區碉堡集合，熱門拍照景點。",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Hal%C3%A1szb%C3%A1stya_2017.jpg/330px-Hal%C3%A1szb%C3%A1stya_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "聖伊什特萬聖殿",
-    "name_en": "St. Stephen's Basilica",
-    "lat": 47.498,
-    "lon": 19.057,
-    "country": "匈牙利",
-    "region": "歐洲",
-    "quote": "Saint Basilica大教堂，那個主教座堂前面",
-    "context": "廣場常辦市集活動。",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Budapest_Szent_Istvan_Bazilika_R01.jpg/330px-Budapest_Szent_Istvan_Bazilika_R01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "Gozsdu Market",
-    "name_en": "Gozsdu Market",
-    "lat": 47.4945,
-    "lon": 19.062,
-    "country": "匈牙利",
-    "region": "歐洲",
-    "quote": "一個叫做Ghostu Market，Gozsdu Market",
-    "context": "創意市集，每週末開放。"
-  },
-  {
-    "name": "Simpla Kert",
-    "name_en": "Simpla Kert",
-    "lat": 47.495,
-    "lon": 19.064,
-    "country": "匈牙利",
-    "region": "歐洲",
-    "quote": "Simpla Kert其實是廢墟酒吧",
-    "context": "廢棄公寓改建，晚間為酒吧。"
-  },
-  {
-    "name": "匈牙利環道",
-    "name_en": "Hungaroring",
-    "lat": 47.579,
-    "lon": 19.145,
-    "country": "匈牙利",
-    "region": "歐洲",
-    "quote": "F1賽車，有一站是在匈牙利，就是Hungarian Ring",
-    "context": "F1賽車場地，八月舉辦賽事。",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Hungaroring2026.svg/330px-Hungaroring2026.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "造船島",
-    "name_en": "Sziget Island",
-    "lat": 47.53,
-    "lon": 19.05,
-    "country": "匈牙利",
-    "region": "歐洲",
-    "quote": "一個叫做造船島",
-    "context": "中歐最大音樂節舉辦地。"
-  },
-  {
-    "name": "瑪格麗特島",
-    "name_en": "Margaret Island",
-    "lat": 47.51,
-    "lon": 19.05,
-    "country": "匈牙利",
-    "region": "歐洲",
-    "quote": "另外一個島是瑪格麗特島",
-    "context": "位於多瑙河，有免費動物園，休閒島嶼。"
-  },
-  {
-    "name": "時尚大道",
-    "name_en": "Fashion Street",
-    "lat": 47.493,
-    "lon": 19.06,
-    "country": "匈牙利",
-    "region": "歐洲",
-    "quote": "叫做Fashion Street，它叫Fashion Street",
-    "context": "販售精品，餐廳不推薦。"
-  },
-  {
-    "name": "多瑙河",
-    "name_en": "Danube River",
-    "lat": 47.5,
-    "lon": 19.04,
-    "country": "匈牙利",
-    "region": "歐洲",
-    "quote": "布達佩斯其實是一個被多瑙河貫穿的城市",
-    "context": "貫穿布達佩斯，分隔布達與佩斯。"
-  },
-  {
-    "name": "城堡區",
-    "name_en": "Castle District",
-    "lat": 47.497,
+    "lat": 47.496,
     "lon": 19.04,
     "country": "匈牙利",
     "region": "歐洲",
     "quote": "城堡區是在布達",
-    "context": "位於布達，包含布達佩斯城堡。"
+    "context": "布達的主要景點，建築四平八穩無尖塔，現為博物館，夜間打光"
+  },
+  {
+    "name": "國會大廈",
+    "name_en": "Hungarian Parliament Building",
+    "lat": 47.507,
+    "lon": 19.046,
+    "country": "匈牙利",
+    "region": "歐洲",
+    "quote": "國會大廈也是布拉佩斯非常非常有名的建築物",
+    "context": "原為奧匈帝國行政中樞而建，夜間金色打光"
+  },
+  {
+    "name": "漁人堡",
+    "name_en": "Fisherman's Bastion",
+    "lat": 47.502,
+    "lon": 19.035,
+    "country": "匈牙利",
+    "region": "歐洲",
+    "quote": "從那邊都可以直接看到國會大廈",
+    "context": "城堡區塔樓群，熱門網美拍照點",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Hal%C3%A1szb%C3%A1stya_2017.jpg/330px-Hal%C3%A1szb%C3%A1stya_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "自由女神像",
+    "name_en": "Liberty Statue",
+    "lat": 47.486,
+    "lon": 19.046,
+    "country": "匈牙利",
+    "region": "歐洲",
+    "quote": "布達佩斯也有一個自由女神像",
+    "context": "蓋勒特山丘上手持棕櫚葉的女神像，可俯瞰全城"
+  },
+  {
+    "name": "蓋勒特山",
+    "name_en": "Gellért Hill",
+    "lat": 47.487,
+    "lon": 19.043,
+    "country": "匈牙利",
+    "region": "歐洲",
+    "quote": "那個山其實就叫吉列山",
+    "context": "自由女神像所在山丘，步道輕鬆好走"
+  },
+  {
+    "name": "蓋勒特溫泉浴場",
+    "name_en": "Gellért Thermal Bath",
+    "lat": 47.484,
+    "lon": 19.052,
+    "country": "匈牙利",
+    "region": "歐洲",
+    "quote": "那個地方是一個有名的溫泉",
+    "context": "山腳飯店旁的溫泉，多為本地人前往"
+  },
+  {
+    "name": "英雄廣場",
+    "name_en": "Heroes' Square",
+    "lat": 47.515,
+    "lon": 19.078,
+    "country": "匈牙利",
+    "region": "歐洲",
+    "quote": "在Hero Square就是英雄廣場那邊有另外一個很大的SPA澡堂",
+    "context": "附近大型溫泉浴場，週六晚有泳池派對"
+  },
+  {
+    "name": "紐約咖啡宮",
+    "name_en": "New York Café",
+    "lat": 47.499,
+    "lon": 19.071,
+    "country": "匈牙利",
+    "region": "歐洲",
+    "quote": "大部分人想到布華佩斯大概都會想到就是那個紐約公咖啡館",
+    "context": "華麗飯店咖啡廳，適合拍照打卡"
+  },
+  {
+    "name": "聖伊什特萬大教堂",
+    "name_en": "St. Stephen's Basilica",
+    "lat": 47.501,
+    "lon": 19.054,
+    "country": "匈牙利",
+    "region": "歐洲",
+    "quote": "最常見的是在Saint Basilica大教堂那個主教座堂前面",
+    "context": "前方廣場常舉辦各式市集",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Budapest_Szent_Istvan_Bazilika_R01.jpg/330px-Budapest_Szent_Istvan_Bazilika_R01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "戈茲杜庭院市集",
+    "name_en": "Gozsdu Courtyard",
+    "lat": 47.497,
+    "lon": 19.06,
+    "country": "匈牙利",
+    "region": "歐洲",
+    "quote": "這個市集他在每個六日都有",
+    "context": "週末創意手作市集"
+  },
+  {
+    "name": "斯慕普拉廢墟酒吧",
+    "name_en": "Szimpla Kert",
+    "lat": 47.497,
+    "lon": 19.064,
+    "country": "匈牙利",
+    "region": "歐洲",
+    "quote": "其實是廢墟酒吧",
+    "context": "二戰受損公寓改成酒吧，週末有農夫與創意市集",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Szimpla_Kert_Trabant.jpg/330px-Szimpla_Kert_Trabant.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "瑪格麗特島",
+    "name_en": "Margaret Island",
+    "lat": 47.528,
+    "lon": 19.047,
+    "country": "匈牙利",
+    "region": "歐洲",
+    "quote": "我覺得算是蠻值得去走一走的一個島",
+    "context": "多瑙河休閒島，有免費動物園與游泳池"
+  },
+  {
+    "name": "造船島",
+    "name_en": "Óbuda Island (Sziget)",
+    "lat": 47.554,
+    "lon": 19.055,
+    "country": "匈牙利",
+    "region": "歐洲",
+    "quote": "一個叫做造船島，造船島就是Seagate",
+    "context": "舉辦中歐最大音樂節Sziget"
+  },
+  {
+    "name": "匈牙利賽道",
+    "name_en": "Hungaroring",
+    "lat": 47.583,
+    "lon": 19.249,
+    "country": "匈牙利",
+    "region": "歐洲",
+    "quote": "有一站是在匈牙利就是Hungarian Ring",
+    "context": "八月F1賽事，市區人潮暴增",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Hungaroring2026.svg/330px-Hungaroring2026.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "布達佩斯爵士俱樂部",
+    "name_en": "Budapest Jazz Club",
+    "lat": 47.505,
+    "lon": 19.067,
+    "country": "匈牙利",
+    "region": "歐洲",
+    "quote": "我自己蠻喜歡去一個爵士酒吧",
+    "context": "每天售票爵士演出，票價親民"
+  },
+  {
+    "name": "瓦茨街",
+    "name_en": "Váci Street",
+    "lat": 47.495,
+    "lon": 19.05,
+    "country": "匈牙利",
+    "region": "歐洲",
+    "quote": "在布達佩斯爵有一條藍布拉大道不過它叫做Fashion Street",
+    "context": "精品徒步街，餐廳又貴又難吃"
+  },
+  {
+    "name": "多瑙河",
+    "name_en": "Danube River (Budapest)",
+    "lat": 47.5,
+    "lon": 19.045,
+    "country": "匈牙利",
+    "region": "歐洲",
+    "quote": "布達佩斯其實是一個被多瑙河貫穿的城市",
+    "context": "分隔布達與佩斯，沿岸夜景與派對船"
+  },
+  {
+    "name": "佩斯",
+    "name_en": "Pest",
+    "lat": 47.498,
+    "lon": 19.06,
+    "country": "匈牙利",
+    "region": "歐洲",
+    "quote": "所有的觀光客大部分活動的區域都在佩斯",
+    "context": "多瑙河東岸，觀光與住宿中心"
+  },
+  {
+    "name": "布達",
+    "name_en": "Buda",
+    "lat": 47.497,
+    "lon": 19.028,
+    "country": "匈牙利",
+    "region": "歐洲",
+    "quote": "多瑙河的左邊這邊是叫做布達",
+    "context": "多瑙河西岸，非商業區，城堡所在"
   }
 ]

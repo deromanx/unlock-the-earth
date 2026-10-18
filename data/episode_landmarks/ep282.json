@@ -1,237 +1,188 @@
 [
   {
-    "name": "萨拉丁城堡",
-    "name_en": "Saladin Citadel",
-    "lat": 30.0325,
-    "lon": 31.7506,
-    "country": "埃及",
-    "region": "非洲",
-    "quote": "除了大家都会去的那个萨拉丁城堡之外",
-    "context": "著名景点，大家都会去"
-  },
-  {
-    "name": "垃圾城",
+    "name": "垃圾城（曼希亞特納賽爾）",
     "name_en": "Garbage City (Manshiyat Naser)",
-    "lat": 30.03,
-    "lon": 31.77,
+    "lat": 30.0295,
+    "lon": 31.2885,
     "country": "埃及",
     "region": "非洲",
-    "quote": "因为它那个垃圾城整个就是基督教就是被边缘化之后",
-    "context": "基督教社区，以回收垃圾为生"
+    "quote": "我最想去的是垃圾城跟那個洞穴教堂",
+    "context": "科普特人以回收垃圾為生的社區，畫面衝突強烈"
   },
   {
-    "name": "洞穴教堂",
-    "name_en": "Cave Church (Monastery of St. Simon the Tanner)",
-    "lat": 30.036,
-    "lon": 31.765,
+    "name": "洞穴教堂（聖西門修道院）",
+    "name_en": "Cave Church (Monastery of Saint Simon)",
+    "lat": 30.023,
+    "lon": 31.297,
     "country": "埃及",
     "region": "非洲",
-    "quote": "我最想去的是垃圾城跟那个洞穴教堂",
-    "context": "圣西蒙修道院，在洞穴中建造"
+    "quote": "它就是一個在洞穴裡的把它弄成一個教堂",
+    "context": "岩壁鑿成的巨大十字架與教堂，開門過程曲折"
   },
   {
     "name": "哈利利市集",
-    "name_en": "Khan el-Khalili Bazaar",
-    "lat": 30.058,
-    "lon": 31.758,
+    "name_en": "Khan el-Khalili",
+    "lat": 30.0477,
+    "lon": 31.2623,
     "country": "埃及",
     "region": "非洲",
-    "quote": "哈利利市集是就是开罗那边就是最大大家一定会去的",
-    "context": "开罗最大观光市集，游客众多"
+    "quote": "哈利利市集是開羅那邊最大大家一定會去的最大的觀光景點",
+    "context": "觀光市集，小男孩帶路過地下道",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/%D8%AE%D8%A7%D9%86_%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D9%84%D9%8A_1.jpg/330px-%D8%AE%D8%A7%D9%86_%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D9%84%D9%8A_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "西瓦",
-    "name_en": "Siwa",
-    "lat": 29.205,
-    "lon": 25.517,
-    "country": "埃及",
-    "region": "非洲",
-    "quote": "然后我们就是凌晨的时候抵达西瓦这样子",
-    "context": "埃及西部沙漠绿洲，淳朴小镇"
-  },
-  {
-    "name": "西瓦盐湖",
+    "name": "錫瓦綠洲鹽湖",
     "name_en": "Siwa Salt Lake",
-    "lat": 29.17,
-    "lon": 25.56,
+    "lat": 29.2,
+    "lon": 25.51,
     "country": "埃及",
     "region": "非洲",
-    "quote": "我那时候去洗碗最大的原因是因为它有盐湖",
-    "context": "漂浮感佳的盐湖，风景独特"
+    "quote": "我那時候去洗瓦最大的原因是因為它有盐湖",
+    "context": "高密度鹽湖漂浮體驗，小孩皮膚刺痛"
   },
   {
-    "name": "沙利古堡",
-    "name_en": "Shali Fortress",
-    "lat": 29.206,
-    "lon": 25.518,
+    "name": "錫瓦沙漠廢墟晚餐地",
+    "name_en": "Siwa Desert Ruins Dinner Site",
+    "lat": 29.22,
+    "lon": 25.54,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "在廢墟裡面要抬頭看星星",
+    "context": "風大改在廢墟吃烤雞，點火愛心驚喜"
+  },
+  {
+    "name": "沙利古堡（舒立古城）",
+    "name_en": "Shali Fortress (Shali Ghadi)",
+    "lat": 29.204,
+    "lon": 25.519,
     "country": "埃及",
     "region": "非洲",
     "quote": "沙利古堡是它是生活的地方",
-    "context": "昔日古城遗迹，见证生活变迁"
+    "context": "因地震與暴雨廢棄的古城遺跡"
   },
   {
-    "name": "地王谷",
-    "name_en": "Valley of the Kings",
-    "lat": 25.7333,
-    "lon": 32.6,
+    "name": "王者之山",
+    "name_en": "Gebel al-Mawta (Mountain of the Dead)",
+    "lat": 29.199,
+    "lon": 25.526,
     "country": "埃及",
     "region": "非洲",
-    "quote": "隔天我们有去那个地王谷",
-    "context": "著名陵墓区，法老墓穴",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Luxor%2C_Tal_der_K%C3%B6nige_%281995%2C_860x605%29.jpg/330px-Luxor%2C_Tal_der_K%C3%B6nige_%281995%2C_860x605%29.jpg"
+    "quote": "其實它每個蟻穴每個小縫裡面下面都是一個墳墓",
+    "context": "山坡上的貴族墓穴，兩座開放參觀"
   },
   {
-    "name": "卢克索神庙",
+    "name": "神諭神廟",
+    "name_en": "Temple of the Oracle (Aghurmi)",
+    "lat": 29.187,
+    "lon": 25.546,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "還去了那個王者之山跟神域廟",
+    "context": "錫瓦經典景點，簡短提及"
+  },
+  {
+    "name": "幻想島",
+    "name_en": "Fantasy Island (Siwa)",
+    "lat": 29.19,
+    "lon": 25.495,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "好像叫Fantasy Island吧就是有個島可以在那個島上看日落",
+    "context": "錫瓦湖中看日落的小島"
+  },
+  {
+    "name": "阿布辛貝神廟",
+    "name_en": "Abu Simbel Temples",
+    "lat": 22.3372,
+    "lon": 31.6258,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "阿布新貝神廟會有一個生機日",
+    "context": "太陽節日出照亮拉美西斯二世像，含燈光秀與日落船"
+  },
+  {
+    "name": "菲萊神廟",
+    "name_en": "Philae Temple",
+    "lat": 24.025,
+    "lon": 32.884,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "雅思文一般都一定會去那個飛來神廟",
+    "context": "島上神廟，夜宿旁島看燈光秀"
+  },
+  {
+    "name": "康翁波神廟",
+    "name_en": "Temple of Kom Ombo",
+    "lat": 24.4521,
+    "lon": 32.9288,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "就是孔孟坡神廟艾德福神廟跟伊斯納神廟",
+    "context": "阿斯旺往盧克索途中的神廟",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Kom_Ombo_Portal_04.jpg/330px-Kom_Ombo_Portal_04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "艾德福神廟",
+    "name_en": "Temple of Edfu",
+    "lat": 24.9779,
+    "lon": 32.8733,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "孔孟坡跟艾德福一般大家也會去因為他就是赫魯斯的神廟",
+    "context": "供奉荷魯斯的神廟",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Temple_Edfou_Egypte.jpg/330px-Temple_Edfou_Egypte.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "伊斯納神廟",
+    "name_en": "Temple of Esna",
+    "lat": 25.2932,
+    "lon": 32.556,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "它是我們看到的所有神廟裡面最彩色的一個",
+    "context": "小而偏僻，色彩保存最好，天花板有十二星座",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Egypt.Esna.Temple.01.jpg/330px-Egypt.Esna.Temple.01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "盧克索神廟",
     "name_en": "Luxor Temple",
-    "lat": 25.705,
-    "lon": 32.657,
+    "lat": 25.6996,
+    "lon": 32.6391,
     "country": "埃及",
     "region": "非洲",
-    "quote": "卢克索神庙真的要晚上去，它晚上真的很美",
-    "context": "宏伟神庙，夜景尤其美丽",
+    "quote": "盧克索神廟真的要晚上去它晚上真的很美",
+    "context": "夜景打燈，關燈趕人的趣事",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Templo_de_Luxor%2C_Luxor%2C_Egipto%2C_2022-04-01%2C_DD_01.jpg/330px-Templo_de_Luxor%2C_Luxor%2C_Egipto%2C_2022-04-01%2C_DD_01.jpg"
   },
   {
-    "name": "卡纳克神庙",
-    "name_en": "Karnak Temple Complex",
-    "lat": 25.714,
-    "lon": 32.658,
+    "name": "卡納克神廟",
+    "name_en": "Karnak Temple",
+    "lat": 25.7188,
+    "lon": 32.6573,
     "country": "埃及",
     "region": "非洲",
-    "quote": "跟卡纳克神庙，这些都有去",
-    "context": "巨大神庙建筑群，历史悠久"
+    "quote": "盧克索神廟跟卡納克神廟中間有一排羊面獅身大道",
+    "context": "與盧克索神廟以羊面獅身大道相連，保全幫拍照",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Temple_de_Louxor_68.jpg/330px-Temple_de_Louxor_68.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "羊面狮身大道",
+    "name": "羊面獅身大道",
     "name_en": "Avenue of Sphinxes",
-    "lat": 25.712,
-    "lon": 32.66,
+    "lat": 25.709,
+    "lon": 32.648,
     "country": "埃及",
     "region": "非洲",
-    "quote": "中间有一排羊面狮身大道",
-    "context": "连接两大神庙的迎宾大道"
+    "quote": "它就是真的是很長到你看不到鏡頭",
+    "context": "連接兩座神廟的羊首獅身像大道"
   },
   {
-    "name": "扎马雷克区",
+    "name": "扎馬雷克",
     "name_en": "Zamalek",
-    "lat": 30.05,
-    "lon": 31.22,
+    "lat": 30.0626,
+    "lon": 31.2197,
     "country": "埃及",
     "region": "非洲",
-    "quote": "那个Zamalek，它就是在开裸旁边的一区感觉是星星的文青区",
-    "context": "开罗文青区，欧洲风格建筑"
-  },
-  {
-    "name": "黑白沙漠",
-    "name_en": "Black and White Desert",
-    "lat": 27.5667,
-    "lon": 27.8833,
-    "country": "埃及",
-    "region": "非洲",
-    "quote": "离开黑白沙漠之后",
-    "context": "埃及西部独特地貌，旅游胜地"
-  },
-  {
-    "name": "吉萨",
-    "name_en": "Giza",
-    "lat": 29.9792,
-    "lon": 31.1342,
-    "country": "埃及",
-    "region": "非洲",
-    "quote": "从吉萨",
-    "context": "金字塔所在地，著名古迹区"
-  },
-  {
-    "name": "阿布新贝",
-    "name_en": "Abu Simbel",
-    "lat": 22.3333,
-    "lon": 31.6333,
-    "country": "埃及",
-    "region": "非洲",
-    "quote": "然后通常大家都是从雅斯文包车去阿布新贝",
-    "context": "拉美西斯二世神庙，有神迹日"
-  },
-  {
-    "name": "飞来神庙",
-    "name_en": "Philae Temple",
-    "lat": 24.035,
-    "lon": 32.907,
-    "country": "埃及",
-    "region": "非洲",
-    "quote": "一般都一定会去的那个飞来神庙",
-    "context": "位于岛上，有灯光秀"
-  },
-  {
-    "name": "孔孟坡神庙",
-    "name_en": "Kom Ombo Temple",
-    "lat": 24.474,
-    "lon": 32.948,
-    "country": "埃及",
-    "region": "非洲",
-    "quote": "一路就去了三个神庙，就是孔孟坡神庙",
-    "context": "赫鲁斯神庙，行程中途"
-  },
-  {
-    "name": "艾德福神庙",
-    "name_en": "Edfu Temple",
-    "lat": 24.985,
-    "lon": 32.885,
-    "country": "埃及",
-    "region": "非洲",
-    "quote": "一路就去了三个神庙",
-    "context": "赫鲁斯神庙，行程中途"
-  },
-  {
-    "name": "伊斯纳神庙",
-    "name_en": "Esna Temple",
-    "lat": 25.29,
-    "lon": 32.55,
-    "country": "埃及",
-    "region": "非洲",
-    "quote": "伊斯纳神庙，它是看到人家的介绍，我就特别有兴趣",
-    "context": "小型彩色神庙，有十二星座天花板"
-  },
-  {
-    "name": "神域庙",
-    "name_en": "Valley of the Queens",
-    "lat": 25.72,
-    "lon": 32.6,
-    "country": "埃及",
-    "region": "非洲",
-    "quote": "神域庙也是一个",
-    "context": "陵墓，类似贵族坟墓"
-  },
-  {
-    "name": "亚斯文",
-    "name_en": "Aswan",
-    "lat": 24.0889,
-    "lon": 32.907,
-    "country": "埃及",
-    "region": "非洲",
-    "quote": "我就直接搭飞机去雅斯文",
-    "context": "埃及南部重要城市，河轮出发点",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Panoramic_view_of_Aswan%2C_Egypt.jpg/330px-Panoramic_view_of_Aswan%2C_Egypt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "卢克索",
-    "name_en": "Luxor",
-    "lat": 25.7,
-    "lon": 32.64,
-    "country": "埃及",
-    "region": "非洲",
-    "quote": "从亚斯文到卢克索",
-    "context": "尼罗河畔古城，神庙集中地",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/LuxorHotelsIbnWalidSt.jpg/330px-LuxorHotelsIbnWalidSt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "亚历山大港",
-    "name_en": "Alexandria",
-    "lat": 31.2,
-    "lon": 29.9,
-    "country": "埃及",
-    "region": "非洲",
-    "quote": "还要缺亚历山大港",
-    "context": "埃及北部重要港口城市",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/San_Stefano_Grand_Plaza.JPG/330px-San_Stefano_Grand_Plaza.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    "quote": "那個Zamalek他就是在開羅旁邊的一區",
+    "context": "歐式建築的文青區，咖啡廳與花店"
   }
 ]

@@ -1,223 +1,236 @@
 [
   {
-    "name": "吳哥窟",
+    "name": "小吳哥",
     "name_en": "Angkor Wat",
     "lat": 13.4125,
-    "lon": 103.8675,
+    "lon": 103.867,
     "country": "柬埔寨",
     "region": "亞洲",
-    "quote": "小吳哥的話它基本上就是吳哥窟比較有代表性的那一個",
-    "context": "吳哥窟是此集討論核心",
+    "quote": "小烏哥格局很大 所以第一個我被嚇到就是他的護城河",
+    "context": "蘇利亞跋摩二世的國廟，西向、日出倒影與春秋分",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Angkor_Wat.jpg/330px-Angkor_Wat.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "巴龍寺",
+    "name": "巴戎寺",
     "name_en": "Bayon Temple",
-    "lat": 13.4194,
-    "lon": 103.8547,
+    "lat": 13.4412,
+    "lon": 103.8589,
     "country": "柬埔寨",
     "region": "亞洲",
-    "quote": "在巴龍寺的壁調裡面可以看到當地人生活的景象",
-    "context": "有哲也巴摩七世的臉，壁雕生活景象"
+    "quote": "巴龍寺最著名的是吳哥的微笑",
+    "context": "闍耶跋摩七世的佛寺，五十多座人面塔與壁雕"
   },
   {
-    "name": "塔普倫",
+    "name": "塔普倫寺",
     "name_en": "Ta Prohm",
-    "lat": 13.4207,
-    "lon": 103.8728,
+    "lat": 13.435,
+    "lon": 103.889,
     "country": "柬埔寨",
     "region": "亞洲",
     "quote": "塔普倫最著名就是那個古墓奇兵的遺跡",
-    "context": "樹木與遺跡融合，電影場景"
-  },
-  {
-    "name": "女王宮",
-    "name_en": "Banteay Srei",
-    "lat": 13.5706,
-    "lon": 103.9738,
-    "country": "柬埔寨",
-    "region": "亞洲",
-    "quote": "女王宮我是覺得它是說五個遺跡裡面就是雕工最細的",
-    "context": "雕工最細緻，譽為東方蒙娜麗莎"
-  },
-  {
-    "name": "崩蜜獵",
-    "name_en": "Beng Mealea",
-    "lat": 13.4797,
-    "lon": 104.0836,
-    "country": "柬埔寨",
-    "region": "亞洲",
-    "quote": "崩蜜獵它是一個毀壞的特別嚴重的寺廟",
-    "context": "毀壞嚴重，苔蘚植物，古墓奇兵感"
-  },
-  {
-    "name": "共開金字塔",
-    "name_en": "Koh Ker Pyramid (Prasat Thom)",
-    "lat": 13.8183,
-    "lon": 104.7708,
-    "country": "柬埔寨",
-    "region": "亞洲",
-    "quote": "共開金字塔你沒去過吧這個太遠了我真的沒去",
-    "context": "瑪雅金字塔風格，較遠景點"
-  },
-  {
-    "name": "柏惟夏",
-    "name_en": "Preah Vihear Temple",
-    "lat": 14.3767,
-    "lon": 104.9889,
-    "country": "柬埔寨",
-    "region": "亞洲",
-    "quote": "柏惟夏它是柬埔寨人心目中三大重要寺廟之一",
-    "context": "山頂遺跡，泰柬邊境，需搭皮卡車"
-  },
-  {
-    "name": "羅洛斯遺跡",
-    "name_en": "Roluos Group",
-    "lat": 13.451,
-    "lon": 103.91,
-    "country": "柬埔寨",
-    "region": "亞洲",
-    "quote": "羅洛斯遺跡它就是吳各王朝的起源",
-    "context": "吳哥王朝起源，較樸拙"
-  },
-  {
-    "name": "聖劍寺",
-    "name_en": "Preah Khan",
-    "lat": 13.4407,
-    "lon": 103.856,
-    "country": "柬埔寨",
-    "region": "亞洲",
-    "quote": "譬如說那個聖劍寺是摺葉巴摩七世蓋給他爸爸的",
-    "context": "摺葉巴摩七世為父所建"
-  },
-  {
-    "name": "涅槃寺",
-    "name_en": "Neak Pean",
-    "lat": 13.4447,
-    "lon": 103.8613,
-    "country": "柬埔寨",
-    "region": "亞洲",
-    "quote": "涅槃寺它是一個格局比較小的寺廟然後它其實它不是寺廟它是醫院",
-    "context": "舊醫院，位於人工湖"
-  },
-  {
-    "name": "東梅彭寺",
-    "name_en": "East Mebon",
-    "lat": 13.4403,
-    "lon": 103.9078,
-    "country": "柬埔寨",
-    "region": "亞洲",
-    "quote": "東梅彭寺它有一個雕像是整顆巨石雕成的大象",
-    "context": "巨石雕大象，水神廟"
-  },
-  {
-    "name": "變身塔",
-    "name_en": "Baksei Chamkrong",
-    "lat": 13.4284,
-    "lon": 103.8501,
-    "country": "柬埔寨",
-    "region": "亞洲",
-    "quote": "我很推薦大家去變身塔看",
-    "context": "推薦日落點，人少於巴肯山"
+    "context": "樹木與遺跡共生，不砍樹的維修方式"
   },
   {
     "name": "吳哥博物館",
     "name_en": "Angkor National Museum",
-    "lat": 13.377,
-    "lon": 103.8646,
+    "lat": 13.36,
+    "lon": 103.862,
     "country": "柬埔寨",
     "region": "亞洲",
     "quote": "可以先到先立裡面的無歌博物館",
-    "context": "了解浮雕及遺跡"
+    "context": "建議行前參觀以了解浮雕，傳聞由北韓協助興建"
   },
   {
-    "name": "金邊圓環",
-    "name_en": "Phnom Penh Roundabout",
-    "lat": 11.5476,
-    "lon": 104.9207,
+    "name": "聖劍寺",
+    "name_en": "Preah Khan",
+    "lat": 13.4617,
+    "lon": 103.8615,
     "country": "柬埔寨",
     "region": "亞洲",
-    "quote": "在西哈努科大道跟諾羅頓大道那邊有一個圓環",
-    "context": "仿巴肯寺中央塔的圓環"
+    "quote": "聖劍寺是摺葉巴摩七世蓋給他爸爸的",
+    "context": "闍耶跋摩七世為父所建，毀佛後佛像遭移除"
   },
   {
-    "name": "烏洞",
+    "name": "涅槃寺",
+    "name_en": "Neak Pean",
+    "lat": 13.4623,
+    "lon": 103.8933,
+    "country": "柬埔寨",
+    "region": "亞洲",
+    "quote": "它是在一個那個人工湖裡面",
+    "context": "人工湖中的醫院，木棧道與枯樹景觀"
+  },
+  {
+    "name": "東梅彭寺",
+    "name_en": "East Mebon",
+    "lat": 13.4358,
+    "lon": 103.9211,
+    "country": "柬埔寨",
+    "region": "亞洲",
+    "quote": "它有一個雕像是整顆巨石雕成的大象",
+    "context": "水庫中的水神廟，巨石大象雕像"
+  },
+  {
+    "name": "變身塔",
+    "name_en": "Pre Rup",
+    "lat": 13.4306,
+    "lon": 103.9231,
+    "country": "柬埔寨",
+    "region": "亞洲",
+    "quote": "我推薦去變身塔因為人比較少",
+    "context": "推薦的日落景點，取代人多的巴肯山"
+  },
+  {
+    "name": "女王宮",
+    "name_en": "Banteay Srei",
+    "lat": 13.5989,
+    "lon": 103.9625,
+    "country": "柬埔寨",
+    "region": "亞洲",
+    "quote": "女王宮我是覺得它是說五個遺跡裡面就是雕工最細的",
+    "context": "濕婆神廟，東方蒙娜麗莎雕像與失竊故事"
+  },
+  {
+    "name": "崩密列",
+    "name_en": "Beng Mealea",
+    "lat": 13.4733,
+    "lon": 104.2386,
+    "country": "柬埔寨",
+    "region": "亞洲",
+    "quote": "崩蜜獵它是一個毀壞的特別嚴重的寺廟",
+    "context": "坍塌覆滿青苔，探險感，已納入套票"
+  },
+  {
+    "name": "貢開金字塔",
+    "name_en": "Koh Ker",
+    "lat": 13.7787,
+    "lon": 104.5372,
+    "country": "柬埔寨",
+    "region": "亞洲",
+    "quote": "共開金字塔那個就像一個瑪雅金字塔一樣",
+    "context": "曾為國都，因地雷清除後才開發",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/0505280017PThompyramid.jpg/330px-0505280017PThompyramid.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "柏威夏寺",
+    "name_en": "Preah Vihear Temple",
+    "lat": 14.3919,
+    "lon": 104.6803,
+    "country": "柬埔寨",
+    "region": "亞洲",
+    "quote": "這個柏惟夏在泰國跟柬埔寨的邊境",
+    "context": "山頂濕婆廟，邊境領土爭議，天氣多變"
+  },
+  {
+    "name": "羅洛斯遺跡",
+    "name_en": "Roluos Group",
+    "lat": 13.3425,
+    "lon": 103.9719,
+    "country": "柬埔寨",
+    "region": "亞洲",
+    "quote": "羅洛斯遺跡它就是吳各王朝的起源",
+    "context": "九世紀古蹟，石獅雕刻特色"
+  },
+  {
+    "name": "吳哥窟遺跡群",
+    "name_en": "Angkor Archaeological Park",
+    "lat": 13.4333,
+    "lon": 103.8667,
+    "country": "柬埔寨",
+    "region": "亞洲",
+    "quote": "他們在檢新年的時候就會在五哥的遺跡群裡面就開盛大的Party",
+    "context": "小圈大圈外圈規劃與新年慶典",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Karta_AngkorWat.PNG/330px-Karta_AngkorWat.PNG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "金邊獨立紀念碑",
+    "name_en": "Independence Monument, Phnom Penh",
+    "lat": 11.5565,
+    "lon": 104.9282,
+    "country": "柬埔寨",
+    "region": "亞洲",
+    "quote": "他的形狀他就是一個八肯寺",
+    "context": "仿吳哥建築造型的圓環，精神指標",
+    "image": "https://thumb.wikimedia.org/wikipedia/en/thumb/e/e7/02-Independence_Monument_Phnom_Penh-nX-6.jpg/330px-02-Independence_Monument_Phnom_Penh-nX-6.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "烏東山",
     "name_en": "Oudong",
-    "lat": 12.1167,
-    "lon": 104.7333,
+    "lat": 11.8,
+    "lon": 104.7286,
     "country": "柬埔寨",
     "region": "亞洲",
     "quote": "烏洞的話就是柬埔在一個舊的首都",
-    "context": "舊首都，有山丘寺廟"
+    "context": "舊都，山丘上有佛塔，可騎單車前往"
   },
   {
     "name": "馬德望蝙蝠洞",
-    "name_en": "Battambang Bat Caves",
-    "lat": 13.1,
-    "lon": 102.9833,
+    "name_en": "Phnom Sampov Bat Cave, Battambang",
+    "lat": 13.0176,
+    "lon": 103.1333,
     "country": "柬埔寨",
     "region": "亞洲",
-    "quote": "當規模大到那個程度時蝙蝠會形成巨龍",
-    "context": "傍晚蝙蝠成龍，紅色高棉殺人洞"
+    "quote": "蝙蝠會在天空中形成一條巨龍",
+    "context": "黃昏蝙蝠出洞奇景，亦為赤柬殺戮洞"
   },
   {
-    "name": "共布",
-    "name_en": "Kampot",
-    "lat": 10.6167,
-    "lon": 104.1667,
+    "name": "馬德望黑棍神像圓環",
+    "name_en": "Battambang Dambong Dek Roundabout",
+    "lat": 13.0957,
+    "lon": 103.2022,
     "country": "柬埔寨",
     "region": "亞洲",
-    "quote": "共布的話它是一個很悠閒的小鎮",
-    "context": "悠閒小鎮，出產水果胡椒"
+    "quote": "他是一個黑棍神就是馬德旺的這個精神指標",
+    "context": "失落權杖傳說，城名由來"
+  },
+  {
+    "name": "馬德望竹子火車",
+    "name_en": "Battambang Bamboo Train",
+    "lat": 13.075,
+    "lon": 103.187,
+    "country": "柬埔寨",
+    "region": "亞洲",
+    "quote": "竹子火車現在就變得比較商業化",
+    "context": "法國遺留鐵軌改裝的台車，已逐漸消失"
+  },
+  {
+    "name": "西哈努克市",
+    "name_en": "Sihanoukville",
+    "lat": 10.6093,
+    "lon": 103.5296,
+    "country": "柬埔寨",
+    "region": "亞洲",
+    "quote": "現在去的話就發現就是完全的一個中國城",
+    "context": "線上博弈產業崩盤後的爛尾工地"
+  },
+  {
+    "name": "金邊河岸",
+    "name_en": "Phnom Penh Riverside",
+    "lat": 11.5642,
+    "lon": 104.9312,
+    "country": "柬埔寨",
+    "region": "亞洲",
+    "quote": "我最喜歡的就是去金邊的河岸",
+    "context": "講者玩長板與吹風的休閒地"
+  },
+  {
+    "name": "貢布",
+    "name_en": "Kampot",
+    "lat": 10.6104,
+    "lon": 104.1815,
+    "country": "柬埔寨",
+    "region": "亞洲",
+    "quote": "它是一個很悠閒的小鎮",
+    "context": "胡椒、水果、河上獨木舟的悠閒小鎮"
   },
   {
     "name": "波哥山",
     "name_en": "Bokor Mountain",
-    "lat": 10.6167,
-    "lon": 104.0167,
+    "lat": 10.6258,
+    "lon": 104.0206,
     "country": "柬埔寨",
     "region": "亞洲",
-    "quote": "共布他們那邊有個波哥山",
-    "context": "海拔高，氣候涼爽"
-  },
-  {
-    "name": "共布河",
-    "name_en": "Kampot River",
-    "lat": 10.6167,
-    "lon": 104.1667,
-    "country": "柬埔寨",
-    "region": "亞洲",
-    "quote": "它有共布的河的上游，那邊可以滑獨木舟",
-    "context": "上游可划獨木舟、游泳"
-  },
-  {
-    "name": "巴肯山",
-    "name_en": "Bakheng Hill",
-    "lat": 13.4333,
-    "lon": 103.8453,
-    "country": "柬埔寨",
-    "region": "亞洲",
-    "quote": "有些人可能雨季彈帶你去巴肯山",
-    "context": "常見日落點，人多"
-  },
-  {
-    "name": "巴孔寺 (中央塔)",
-    "name_en": "Bakong Temple (Central Tower)",
-    "lat": 13.4587,
-    "lon": 103.9036,
-    "country": "柬埔寨",
-    "region": "亞洲",
-    "quote": "它的形狀，它就是一個八肯寺，八就是羅洛寺椅子那個八孔寺的那個中央塔",
-    "context": "金邊圓環造型靈感"
-  },
-  {
-    "name": "西哈努克",
-    "name_en": "Sihanoukville",
-    "lat": 10.628,
-    "lon": 103.5139,
-    "country": "柬埔寨",
-    "region": "亞洲",
-    "quote": "他們南方有個叫西哈努克的城市",
-    "context": "曾為海灘，現中國城工地"
+    "quote": "他們那邊有個波哥山大概海拔一千多公尺",
+    "context": "山上涼爽，如陽明山"
   }
 ]

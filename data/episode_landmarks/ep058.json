@@ -1,13 +1,23 @@
 [
   {
-    "name": "伊索比亞高原",
+    "name": "衣索比亞高原",
     "name_en": "Ethiopian Highlands",
-    "lat": 9.0,
-    "lon": 39.0,
+    "lat": 9.5,
+    "lon": 39.5,
     "country": "衣索比亞",
     "region": "非洲",
-    "quote": "伊索比亞的天氣就很涼爽，對對對，那就是海拔平均2000的地方，就是伊索比亞高原",
-    "context": "討論伊索比亞氣候涼爽的原因",
+    "quote": "那就是海拔平均2000的地方就是伊索比亞高原",
+    "context": "說明衣索比亞氣候涼爽、非洲並非處處炎熱的原因",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Semien_Mountains_13.jpg/330px-Semien_Mountains_13.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "非洲之角",
+    "name_en": "Horn of Africa",
+    "lat": 8.0,
+    "lon": 46.0,
+    "country": "索馬利亞",
+    "region": "非洲",
+    "quote": "你知道非洲之腳其實他是包含非常多的國家",
+    "context": "以旱災新聞說明媒體將非洲一體化的迷思"
   }
 ]

@@ -1,53 +1,54 @@
 [
   {
-    "name": "亞法",
-    "name_en": "Jaffa",
-    "lat": 32.0456,
-    "lon": 34.7562,
-    "country": "以色列",
+    "name": "伯利恆",
+    "name_en": "Bethlehem",
+    "lat": 31.704,
+    "lon": 35.202,
+    "country": "巴勒斯坦",
     "region": "亞洲",
-    "quote": "就說那亞法的東西多貴又多貴",
-    "context": "提及物價很高"
+    "quote": "會去伯利恆,就是耶穌誕生的地方,那邊有一個教堂",
+    "context": "遊客最常造訪的巴勒斯坦朝聖地,多為一日行程",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Church_of_the_Nativity_%287703592746%29.jpg/330px-Church_of_the_Nativity_%287703592746%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "耶穌誕生教堂",
+    "name_en": "Church of the Nativity",
+    "lat": 31.704,
+    "lon": 35.207,
+    "country": "巴勒斯坦",
+    "region": "亞洲",
+    "quote": "那個馬槽後來就建了一個教堂這樣子",
+    "context": "建於耶穌誕生馬槽原址的教堂,朝聖者必訪"
   },
   {
     "name": "死海",
     "name_en": "Dead Sea",
     "lat": 31.5,
-    "lon": 35.5,
+    "lon": 35.47,
     "country": "以色列",
     "region": "亞洲",
-    "quote": "我們有聽過有人去巴勒斯坦去死海耶",
-    "context": "提及遊客會去體驗"
+    "quote": "那時候我在死海,然後就泡了一陣子",
+    "context": "分享在死海放屁刺痛的趣事"
   },
   {
-    "name": "伯利恆",
-    "name_en": "Bethlehem",
-    "lat": 31.7047,
-    "lon": 35.2007,
+    "name": "巴勒斯坦隔離牆",
+    "name_en": "West Bank Barrier",
+    "lat": 31.9,
+    "lon": 35.2,
     "country": "巴勒斯坦",
     "region": "亞洲",
-    "quote": "會去伯利恆 就是 耶穌誕生的地方",
-    "context": "耶穌誕生地，重要宗教景點",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Church_of_the_Nativity_%287703592746%29.jpg/330px-Church_of_the_Nativity_%287703592746%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    "quote": "你知道巴勒斯坦有一個隔離牆嗎,七百公里的隔離牆",
+    "context": "牆上塗鴉盛行,沙發主家牆面仿其塗鴉",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Qalandia_checkpoint_-_panoramio_%28535%29.jpg/330px-Qalandia_checkpoint_-_panoramio_%28535%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "耶穌基督誕生的教堂",
-    "name_en": "Church of the Nativity",
-    "lat": 31.7055,
-    "lon": 35.2037,
-    "country": "巴勒斯坦",
+    "name": "特拉維夫",
+    "name_en": "Tel Aviv",
+    "lat": 32.085,
+    "lon": 34.782,
+    "country": "以色列",
     "region": "亞洲",
-    "quote": "那邊有一個教堂 就是耶穌基督誕生的教堂",
-    "context": "耶穌誕生地，有教堂"
-  },
-  {
-    "name": "隔離牆",
-    "name_en": "Separation Wall / Barrier",
-    "lat": 31.9218,
-    "lon": 35.2026,
-    "country": "巴勒斯坦",
-    "region": "亞洲",
-    "quote": "巴勒斯坦有一個隔離牆 700公里的隔離牆",
-    "context": "700公里長，象徵衝突"
+    "quote": "所以我們就在特拉維夫一個酒吧見了他面這樣",
+    "context": "遇見沙發客之處,也曾遭飛彈攻擊"
   }
 ]

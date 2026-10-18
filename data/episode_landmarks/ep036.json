@@ -1,63 +1,62 @@
 [
   {
-    "name": "拉普蘭",
-    "name_en": "Lapland",
-    "lat": 68.0,
-    "lon": 25.0,
-    "country": "芬蘭",
-    "region": "歐洲",
-    "quote": "尤其在我們拉普蘭地區,它才每平方公里大概2個人而已吧",
-    "context": "導遊工作區域，人口稀少"
-  },
-  {
     "name": "羅瓦涅米",
     "name_en": "Rovaniemi",
-    "lat": 66.5,
-    "lon": 25.72,
+    "lat": 66.503,
+    "lon": 25.729,
     "country": "芬蘭",
     "region": "歐洲",
-    "quote": "聖誕老人村 就洛阿涅米那邊",
-    "context": "聖誕老人村所在地，城市在極圈上"
+    "quote": "羅瓦涅米這個城市是在極圈上",
+    "context": "講者工作的北極圈城市，各種極光與雪地行程的據點"
   },
   {
     "name": "聖誕老人村",
     "name_en": "Santa Claus Village",
     "lat": 66.543,
-    "lon": 25.833,
+    "lon": 25.847,
     "country": "芬蘭",
     "region": "歐洲",
-    "quote": "別的行程像簡單的就是聖誕老人村",
-    "context": "熱門景點，官方認證聖誕老人辦公室"
+    "quote": "官方認證的聖誕老人的辦公室",
+    "context": "聖誕旺季人潮、排隊與合照收費的商業化景點"
   },
   {
-    "name": "爾多山",
-    "name_en": "Mount Korvatunturi",
-    "lat": 68.145,
-    "lon": 27.541,
+    "name": "拉普蘭",
+    "name_en": "Lapland",
+    "lat": 67.5,
+    "lon": 26.0,
     "country": "芬蘭",
     "region": "歐洲",
-    "quote": "聖誕老人的故鄉 根據芬蘭的傳說是來自爾多山",
-    "context": "傳說中聖誕老人的故鄉"
+    "quote": "尤其在我們拉普蘭地區",
+    "context": "芬蘭最北地區，人口密度極低，活動集中地"
   },
   {
-    "name": "赫爾辛基",
-    "name_en": "Helsinki",
-    "lat": 60.17,
-    "lon": 24.94,
+    "name": "北極圈",
+    "name_en": "Arctic Circle",
+    "lat": 66.563,
+    "lon": 25.8,
+    "country": "芬蘭",
+    "region": "極地",
+    "quote": "開車五分鐘就會在極圈內",
+    "context": "羅瓦涅米位於極圈線上，開車即可往返"
+  },
+  {
+    "name": "北極博物館",
+    "name_en": "Arktikum",
+    "lat": 66.51,
+    "lon": 25.727,
     "country": "芬蘭",
     "region": "歐洲",
-    "quote": "以芬蘭來說的話 這五個很貴的國家的其中一個 首都是赫爾辛基",
-    "context": "芬蘭首都，與工作地點羅瓦涅米形成對比",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Suomenlinna_%28cropped%29.jpg/330px-Suomenlinna_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    "quote": "像北極博物館會有一塊介紹到那個地方",
+    "context": "介紹薩米文化的博物館，講者導覽時提及"
   },
   {
-    "name": "克拉半島",
-    "name_en": "Kola Peninsula",
-    "lat": 68.0,
-    "lon": 35.0,
-    "country": "俄羅斯",
+    "name": "耳朵山",
+    "name_en": "Korvatunturi",
+    "lat": 68.074,
+    "lon": 29.309,
+    "country": "芬蘭",
     "region": "歐洲",
-    "quote": "挪威 瑞典 芬蘭跟俄羅斯的 克拉半島",
-    "context": "薩米人分布的地區之一"
+    "quote": "根據芬蘭的傳說是來自爾多山",
+    "context": "傳說中聖誕老人的故鄉，位於芬俄邊界"
   }
 ]

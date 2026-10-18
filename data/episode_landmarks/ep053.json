@@ -1,32 +1,55 @@
 [
   {
-    "name": "薩達街",
-    "name_en": "Sadar Street",
-    "lat": 22.5536,
-    "lon": 88.347,
+    "name": "蘇德街",
+    "name_en": "Sudder Street",
+    "lat": 22.5626,
+    "lon": 88.351,
     "country": "印度",
     "region": "亞洲",
-    "quote": "他就帶我去他一個那個Suder Street附近有個穆斯林的社區這樣",
-    "context": "穆斯林社區所在地"
+    "quote": "Suder Street附近有個穆斯林的社區這樣",
+    "context": "加爾各達背包客街，附近穆斯林社區夜晚被帶去吃喝",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Sudder_Street_%2814660873888%29.jpg/330px-Sudder_Street_%2814660873888%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "菩提伽耶",
-    "name_en": "Bodh Gaya",
-    "lat": 24.6931,
-    "lon": 84.9908,
-    "country": "印度",
-    "region": "亞洲",
-    "quote": "結果我發現它叫布達戈亞",
-    "context": "被騙至此以領取現金"
-  },
-  {
-    "name": "加爾克蘭",
-    "name_en": "Kalkar",
-    "lat": 25.5904,
-    "lon": 84.9697,
+    "name": "豪拉火車站",
+    "name_en": "Howrah Railway Station",
+    "lat": 22.5839,
+    "lon": 88.3426,
     "country": "印度",
     "region": "亞洲",
     "quote": "加爾克蘭火車站算是好一點",
-    "context": "火車站所在地，被認為比較好一點"
+    "context": "第一次搭印度夜車，車站大廳席地而坐的人群"
+  },
+  {
+    "name": "布達戈亞（疑為巴德瓦曼）",
+    "name_en": "Bardhaman",
+    "lat": 23.2324,
+    "lon": 87.8615,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "結果我發現它叫布達戈亞",
+    "context": "被帶去刷卡領錢買摩托車的城市，發現方向不對",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Burdwan_Flyover.png/330px-Burdwan_Flyover.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "瓦迦邊境",
+    "name_en": "Wagah Border",
+    "lat": 31.6048,
+    "lon": 74.5729,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "因為他就是很多觀光客要去邊界",
+    "context": "阿姆利則攬客喊Border，用搞笑方式應對"
+  },
+  {
+    "name": "賈沙梅爾古堡",
+    "name_en": "Jaisalmer Fort",
+    "lat": 26.9124,
+    "lon": 70.9129,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "它是一個就是城堡的一端嘛",
+    "context": "住在沙漠古堡內，喝大麻優格差點無法動彈",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Jaisalmer_forteresse.jpg/330px-Jaisalmer_forteresse.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]

@@ -1,175 +1,94 @@
 [
   {
-    "name": "倫敦",
-    "name_en": "London",
-    "lat": 51.507,
-    "lon": -0.128,
-    "country": "英國",
-    "region": "歐洲",
-    "quote": "有關倫敦好玩的事情",
-    "context": "Craig分享倫敦好玩的事情，是他的主要生活地",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/330px-London_Skyline_%28125508655%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "國家美術館",
-    "name_en": "National Gallery",
-    "lat": 51.5073,
-    "lon": -0.1276,
-    "country": "英國",
-    "region": "歐洲",
-    "quote": "比如說國家美術館",
-    "context": "導覽員考試需準備的景點之一"
-  },
-  {
-    "name": "大英博物館",
-    "name_en": "British Museum",
-    "lat": 51.519,
-    "lon": -0.154,
-    "country": "英國",
-    "region": "歐洲",
-    "quote": "大英博物館就是三十幾個文物",
-    "context": "導覽員考試需準備的景點之一，內容豐富",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/British_Museum_from_NE_2.JPG/330px-British_Museum_from_NE_2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "聖保羅座堂",
-    "name_en": "St Paul's Cathedral",
-    "lat": 51.513,
-    "lon": -0.098,
-    "country": "英國",
-    "region": "歐洲",
-    "quote": "聖保羅你就要",
-    "context": "導覽員考試需準備的景點之一"
-  },
-  {
-    "name": "蘇格蘭",
-    "name_en": "Scotland",
-    "lat": 55.953,
-    "lon": -3.189,
-    "country": "英國",
-    "region": "歐洲",
-    "quote": "蘇格蘭人他們一直不覺得自己是英國",
-    "context": "討論蘇格蘭人的獨特民族性格與歷史"
-  },
-  {
-    "name": "英格蘭",
-    "name_en": "England",
-    "lat": 51.507,
-    "lon": -0.128,
-    "country": "英國",
-    "region": "歐洲",
-    "quote": "英格蘭銀行創造的時候",
-    "context": "與蘇格蘭對比，討論地區文化差異"
-  },
-  {
-    "name": "威爾斯",
-    "name_en": "Wales",
-    "lat": 51.481,
-    "lon": -3.18,
-    "country": "英國",
-    "region": "歐洲",
-    "quote": "愛爾蘭人、蘇格蘭人、英格蘭人、威爾斯人",
-    "context": "討論英國內部各民族的關係"
-  },
-  {
-    "name": "愛爾蘭",
-    "name_en": "Ireland",
-    "lat": 53.349,
-    "lon": -6.26,
-    "country": "愛爾蘭",
-    "region": "歐洲",
-    "quote": "愛爾蘭人、蘇格蘭人、英格蘭人、威爾斯人",
-    "context": "討論英國內部各民族的關係"
-  },
-  {
     "name": "西敏寺",
     "name_en": "Westminster Abbey",
     "lat": 51.499,
     "lon": -0.127,
     "country": "英國",
     "region": "歐洲",
-    "quote": "倫敦最容易一網打進你這些教科書裡聽到的各種人文的就是西敏寺",
-    "context": "重要歷史名人聚集地，推薦必訪"
-  },
-  {
-    "name": "倫敦金融區",
-    "name_en": "City of London",
-    "lat": 51.513,
-    "lon": -0.086,
-    "country": "英國",
-    "region": "歐洲",
-    "quote": "我個人覺得其實金融區也很有趣",
-    "context": "倫敦金融區的歷史與建築特色"
+    "quote": "你在西敏寺裡面，你就可以碰到本初子午線",
+    "context": "安葬牛頓、達爾文等名人，建築歷經多世紀擴建"
   },
   {
     "name": "倫敦博物館",
     "name_en": "Museum of London",
-    "lat": 51.515,
-    "lon": -0.076,
+    "lat": 51.5179,
+    "lon": -0.0966,
     "country": "英國",
     "region": "歐洲",
     "quote": "我會很推薦倫敦博物館",
-    "context": "了解倫敦歷史的好地方，內容豐富",
+    "context": "介紹倫敦歷史、頭蓋骨手術、倫敦大火等展品",
     "image": "https://thumb.wikimedia.org/wikipedia/en/thumb/a/a8/London_Museum_logo_2024.jpeg/330px-London_Museum_logo_2024.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "自然科學博物館",
-    "name_en": "Natural History Museum",
-    "lat": 51.495,
-    "lon": -0.177,
+    "name": "大英博物館",
+    "name_en": "British Museum",
+    "lat": 51.5194,
+    "lon": -0.127,
     "country": "英國",
     "region": "歐洲",
-    "quote": "在自然科學博物館裡面，它就早期達爾文帶來的很多的標本也都放在那裡面",
-    "context": "收藏達爾文標本和進化論手稿"
+    "quote": "當然大英博物館是一定要去",
+    "context": "館藏七世紀藏寶沉船、埃及文物等",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/British_Museum_from_NE_2.JPG/330px-British_Museum_from_NE_2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "倫敦金融城",
+    "name_en": "City of London",
+    "lat": 51.5155,
+    "lon": -0.0922,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "金融區也很有趣",
+    "context": "新舊建築交錯，十四世紀教堂與現代大樓並存"
+  },
+  {
+    "name": "自然史博物館",
+    "name_en": "Natural History Museum",
+    "lat": 51.4967,
+    "lon": -0.1764,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "在自然科學博物館裡面它就早期達爾文帶來的很多的標本",
+    "context": "收藏達爾文標本、手稿與渡渡鳥"
   },
   {
     "name": "格林威治天文台",
-    "name_en": "Greenwich Observatory",
-    "lat": 51.477,
-    "lon": 0.001,
+    "name_en": "Royal Observatory Greenwich",
+    "lat": 51.4769,
+    "lon": -0.0005,
     "country": "英國",
     "region": "歐洲",
     "quote": "或者是格林威治天文台",
-    "context": "觀看天文和導航儀器"
+    "context": "可看天文與航海導航器材"
   },
   {
-    "name": "科學館",
-    "name_en": "Science Museum",
-    "lat": 51.497,
-    "lon": -0.175,
+    "name": "倫敦博物館港區館",
+    "name_en": "Museum of London Docklands",
+    "lat": 51.5073,
+    "lon": -0.0236,
     "country": "英國",
     "region": "歐洲",
-    "quote": "你就去科學館",
-    "context": "觀看天文和導航儀器"
+    "quote": "他倫敦博物館還有一個分館",
+    "context": "介紹東區倉庫、貿易與殖民歷史"
   },
   {
-    "name": "東倫敦",
-    "name_en": "East London",
-    "lat": 51.507,
-    "lon": -0.0,
+    "name": "包子店 Bao",
+    "name_en": "Bao London",
+    "lat": 51.5133,
+    "lon": -0.1318,
     "country": "英國",
     "region": "歐洲",
-    "quote": "倫敦的發展是從東到西邊 以前倫敦發展是從東邊",
-    "context": "倫敦發展的歷史脈絡，早期工業與商業區"
+    "quote": "有一間叫包嘛對包",
+    "context": "台灣人與香港人開的割包店，風靡倫敦"
   },
   {
-    "name": "西倫敦",
-    "name_en": "West London",
-    "lat": 51.507,
-    "lon": -0.2,
+    "name": "博羅市場",
+    "name_en": "Borough Market",
+    "lat": 51.5055,
+    "lon": -0.091,
     "country": "英國",
     "region": "歐洲",
-    "quote": "就往西邊移 因為東邊污染太嚴重了",
-    "context": "倫敦發展的歷史脈絡，後期政要與住宅區"
-  },
-  {
-    "name": "包",
-    "name_en": "Bao",
-    "lat": 51.512,
-    "lon": -0.137,
-    "country": "英國",
-    "region": "歐洲",
-    "quote": "有一間叫包嘛",
-    "context": "倫敦很紅的台灣掛包店"
+    "quote": "倫敦就有這種巴洛士籍",
+    "context": "傳統食材市場，如今有各國熟食"
   }
 ]

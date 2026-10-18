@@ -1,63 +1,64 @@
 [
   {
-    "name": "撒穆爾山國家公園",
-    "name_en": "Samuel Mountain",
-    "lat": 13.167,
-    "lon": 38.417,
+    "name": "賽門山國家公園",
+    "name_en": "Simien Mountains National Park",
+    "lat": 13.25,
+    "lon": 38.05,
     "country": "衣索比亞",
     "region": "非洲",
-    "quote": "他真的是滿山遍野的紅心獅子肺 滿山遍野喔",
-    "context": "觀賞紅心獅子肺的國家公園"
+    "quote": "那個好像叫一個國家公園叫Samuel Mountain",
+    "context": "紅心獅子狒狒（吃草的狒狒）滿山遍野的棲息地"
+  },
+  {
+    "name": "猴麵包樹大道",
+    "name_en": "Avenue of the Baobabs",
+    "lat": -20.25,
+    "lon": 44.418,
+    "country": "馬達加斯加",
+    "region": "非洲",
+    "quote": "我們把它稱作猴面包樹大道",
+    "context": "馬達加斯加標誌性景點，數十棵巨大猴麵包樹"
+  },
+  {
+    "name": "克魯格國家公園",
+    "name_en": "Kruger National Park",
+    "lat": -23.988,
+    "lon": 31.554,
+    "country": "南非",
+    "region": "非洲",
+    "quote": "像是克魯閣國家公園他裡面的動物啊獅子的數量密度可以說是可能是世界最高的",
+    "context": "南非入門看動物首選，獅子密度高"
   },
   {
     "name": "馬賽馬拉草原",
-    "name_en": "Masai Mara National Reserve",
-    "lat": -1.48,
-    "lon": 35.2,
+    "name_en": "Maasai Mara National Reserve",
+    "lat": -1.49,
+    "lon": 35.144,
     "country": "肯亞",
     "region": "非洲",
-    "quote": "進入肯亞的馬賽馬拉草原",
-    "context": "東非動物大遷徙的主要棲息地"
+    "quote": "然後進到了肯亞的馬賽馬拉草原",
+    "context": "動物大遷徙七至九月抵達的核心草原",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Masai_Mara_at_Sunset.jpg/330px-Masai_Mara_at_Sunset.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "塞倫蓋蒂草原",
+    "name": "塞倫蓋提草原",
     "name_en": "Serengeti National Park",
     "lat": -2.333,
     "lon": 34.833,
     "country": "坦尚尼亞",
     "region": "非洲",
     "quote": "坦上尼亞叫色倫蓋體草原",
-    "context": "與馬賽馬拉共享的草原生態系",
+    "context": "與馬賽馬拉相連，大遷徙主要棲地",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Serengeti-Landscape-2012.JPG/330px-Serengeti-Landscape-2012.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "馬拉河",
     "name_en": "Mara River",
-    "lat": -1.7,
-    "lon": 35.0,
+    "lat": -1.55,
+    "lon": 35.02,
     "country": "肯亞",
     "region": "非洲",
-    "quote": "看它們過河 過河也是一個很精彩的畫面",
-    "context": "動物大遷徙中重要的河流"
-  },
-  {
-    "name": "克魯格國家公園",
-    "name_en": "Kruger National Park",
-    "lat": -23.8,
-    "lon": 31.5,
-    "country": "南非",
-    "region": "非洲",
-    "quote": "像是克魯閣國家公園",
-    "context": "入門級看動物的推薦選項"
-  },
-  {
-    "name": "猴面包树大道",
-    "name_en": "Avenue of the Baobabs",
-    "lat": -19.84,
-    "lon": 44.717,
-    "country": "馬達加斯加",
-    "region": "非洲",
-    "quote": "猴面包樹大道 因為那個大道上面大概有可能",
-    "context": "馬達加斯加標誌性景觀"
+    "quote": "畢竟那個那條馬拉河很長",
+    "context": "牛羚斑馬過河、鱷魚獵食的精彩場景"
   }
 ]

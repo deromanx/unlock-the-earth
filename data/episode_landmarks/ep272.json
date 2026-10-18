@@ -1,62 +1,72 @@
 [
   {
-    "name": "台灣桃園國際機場",
-    "name_en": "Taiwan Taoyuan International Airport",
-    "lat": 25.0777,
-    "lon": 121.232,
-    "country": "台灣",
-    "region": "台灣",
-    "quote": "就直接桃園機場就飛到青麥",
-    "context": "提到直飛清邁的航班出發地"
-  },
-  {
-    "name": "清邁老城",
-    "name_en": "Chiang Mai Old City",
-    "lat": 18.7899,
-    "lon": 98.9859,
-    "country": "泰國",
-    "region": "亞洲",
-    "quote": "但是清邁雖然是泰國的第二個大城 但是因為它有一個老城",
-    "context": "描述清邁的特色，特別指出老城的樸實感"
-  },
-  {
     "name": "真心市集",
     "name_en": "Ginjai Market",
-    "lat": 18.777,
-    "lon": 99.006,
+    "lat": 18.8,
+    "lon": 98.969,
     "country": "泰國",
     "region": "亞洲",
-    "quote": "比方說清麥有一個市集叫做真心市集 真心 對翻成中文叫真心市集 他的泰文寫作Ginjai Ginjai Market",
-    "context": "描述清邁週末必去的市集"
+    "quote": "清麥有一個市集叫做真心市集",
+    "context": "週末早上開市的觀光導向市集，含小農與小吃"
   },
   {
-    "name": "清邁大學",
-    "name_en": "Chiang Mai University",
-    "lat": 18.7996,
-    "lon": 98.9482,
+    "name": "清邁古城",
+    "name_en": "Chiang Mai Old City",
+    "lat": 18.7883,
+    "lon": 98.9853,
     "country": "泰國",
     "region": "亞洲",
-    "quote": "清邁大學附近還有一個夜市",
-    "context": "提到大學附近的熱炒夜市"
+    "quote": "我很喜歡在他清麥的古城裡面晃來晃去",
+    "context": "作者偏好的住宿與散步區域，氛圍淳樸"
   },
   {
-    "name": "清邁北門爵士吧",
+    "name": "清邁北門爵士酒吧",
     "name_en": "North Gate Jazz Co-Op",
-    "lat": 18.7915,
-    "lon": 98.9866,
+    "lat": 18.7955,
+    "lon": 98.9877,
     "country": "泰國",
     "region": "亞洲",
-    "quote": "清麥的老城的北邊有一間爵士bar 它是會每天晚上都會有現場表演的一個很有名的bar",
-    "context": "描述清邁最有名、現場表演的爵士酒吧"
+    "quote": "清麥的老城的北邊有一間爵士bar",
+    "context": "每晚現場演出的知名爵士吧，遊客慕名而來"
   },
   {
-    "name": "清邁北門夜市",
-    "name_en": "North Gate Night Market",
-    "lat": 18.7915,
-    "lon": 98.9866,
+    "name": "北門夜市",
+    "name_en": "Chang Phuak Night Market",
+    "lat": 18.7965,
+    "lon": 98.9875,
     "country": "泰國",
     "region": "亞洲",
     "quote": "那間爵士bar的附近就有一個北門的夜市",
-    "context": "位於爵士吧附近，提供宵夜小吃"
+    "context": "爵士吧附近的每晚夜市，適合宵夜"
+  },
+  {
+    "name": "清邁大學夜市",
+    "name_en": "Chiang Mai University Night Market",
+    "lat": 18.8,
+    "lon": 98.951,
+    "country": "泰國",
+    "region": "亞洲",
+    "quote": "清邁大學對面有一個夜市",
+    "context": "鐵棚下熱炒一條街，適合多人聚餐"
+  },
+  {
+    "name": "Bar Sim",
+    "name_en": "Bar Sim",
+    "lat": 18.796,
+    "lon": 98.968,
+    "country": "泰國",
+    "region": "亞洲",
+    "quote": "全泰國第10名 然後全清賣第一名的一間bar",
+    "context": "獲評泰國第十名的雞尾酒吧，餐點出色"
+  },
+  {
+    "name": "山中竹林麵包市集",
+    "name_en": "Bamboo Forest Bread Market",
+    "lat": 18.76,
+    "lon": 98.93,
+    "country": "泰國",
+    "region": "亞洲",
+    "quote": "搬到山上半山要的一個竹林裡面",
+    "context": "週六排隊買麵包的竹林市集，附贈咖啡"
   }
 ]

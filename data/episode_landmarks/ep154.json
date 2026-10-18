@@ -1,229 +1,63 @@
 [
   {
-    "name": "倫敦",
-    "name_en": "London",
-    "lat": 51.507,
-    "lon": -0.128,
-    "country": "英國",
-    "region": "歐洲",
-    "quote": "全部都環繞在倫敦這個主題，其實我完全不知道單單一座城市可以講出超過10個小時的故事",
-    "context": "本集核心討論來賓Craig的導覽主題城市",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/330px-London_Skyline_%28125508655%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "聖克里斯多福",
-    "name_en": "Saint Kitts",
-    "lat": 17.348,
-    "lon": -62.771,
-    "country": "聖克里斯多福及尼維斯",
-    "region": "美洲",
-    "quote": "上次我們雖然只聊到聖克里斯多福而已",
-    "context": "主持人前一集節目曾提及的足跡",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Saint_Kitts_and_Nevis_Regions_map.png/330px-Saint_Kitts_and_Nevis_Regions_map.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "貝里斯",
-    "name_en": "Belize",
-    "lat": 17.189,
-    "lon": -88.497,
-    "country": "貝里斯",
-    "region": "美洲",
-    "quote": "我待比較長的時間是在貝里斯 跟聖克里斯多福基尼維斯這兩個地方",
-    "context": "主持人曾經待過且詳細討論的國家"
-  },
-  {
-    "name": "瓜地馬拉",
-    "name_en": "Guatemala",
-    "lat": 15.783,
-    "lon": -90.23,
-    "country": "瓜地馬拉",
-    "region": "美洲",
-    "quote": "瓜地馬拉的左邊就是薩瓦多 下面的話就是宏都拉斯 然後再來尼加拉瓜",
-    "context": "主持人去過的國家，治安曾被提及",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Flag_of_Guatemala.svg/330px-Flag_of_Guatemala.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "宏都拉斯",
-    "name_en": "Honduras",
-    "lat": 14.867,
-    "lon": -86.581,
-    "country": "宏都拉斯",
-    "region": "美洲",
-    "quote": "我聽說的是宏都拉斯最慘 世界上摩沙利第一個國家就在宏都拉斯",
-    "context": "主持人去過的國家，治安被認為最差",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Honduras_%281949%E2%80%932022%2C_2026%E2%80%93present%29.svg/330px-Flag_of_Honduras_%281949%E2%80%932022%2C_2026%E2%80%93present%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "哥斯大黎加",
-    "name_en": "Costa Rica",
-    "lat": 9.748,
-    "lon": -83.753,
-    "country": "哥斯大黎加",
-    "region": "美洲",
-    "quote": "我只去過 again 就是我已經講 對只去過克斯大利家 那克斯大利家的交通的確是蠻hardcore的",
-    "context": "主持人提及交通不便的中美洲國家"
-  },
-  {
-    "name": "瓜地馬拉市",
-    "name_en": "Guatemala City",
-    "lat": 14.634,
-    "lon": -90.506,
-    "country": "瓜地馬拉",
-    "region": "美洲",
-    "quote": "但是瓜地馬拉市 市中心它的治安非常非常的糟糕",
-    "context": "瓜地馬拉首都，主持人提及治安很差"
-  },
-  {
-    "name": "墨西哥市",
-    "name_en": "Mexico City",
-    "lat": 19.432,
+    "name": "墨西哥城歷史街區",
+    "name_en": "Historic Centre of Mexico City",
+    "lat": 19.433,
     "lon": -99.133,
     "country": "墨西哥",
     "region": "美洲",
-    "quote": "我今天要推薦的就是墨西哥市 就是最最最最最最基本",
-    "context": "本集主要推薦的中美洲入門城市，節目花大量時間介紹",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Sobrevuelos_CDMX_HJ2A4913_%2825514321687%29_%28cropped%29.jpg/330px-Sobrevuelos_CDMX_HJ2A4913_%2825514321687%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    "quote": "墨西哥它有一個歷史街區",
+    "context": "西班牙殖民建築與現代高樓並存，新舊交融"
   },
   {
-    "name": "猶加敦半島",
-    "name_en": "Yucatán Peninsula",
-    "lat": 20.655,
-    "lon": -87.491,
+    "name": "墨西哥城大教堂",
+    "name_en": "Mexico City Metropolitan Cathedral",
+    "lat": 19.434,
+    "lon": -99.133,
     "country": "墨西哥",
     "region": "美洲",
-    "quote": "你中間一定可以停那個MerryDot 對 尤加頓半島 對尤加頓半島",
-    "context": "墨西哥第二好入門的地方，看瑪雅文化"
-  },
-  {
-    "name": "梅里達",
-    "name_en": "Mérida",
-    "lat": 20.967,
-    "lon": -89.624,
-    "country": "墨西哥",
-    "region": "美洲",
-    "quote": "然後到 Merry達 然後到貝里斯",
-    "context": "墨西哥猶加敦半島的城市，瑪雅文化重鎮"
-  },
-  {
-    "name": "墨西哥市歷史街區",
-    "name_en": "Historic Center of Mexico City",
-    "lat": 19.432,
-    "lon": -99.134,
-    "country": "墨西哥",
-    "region": "美洲",
-    "quote": "墨西哥它有一個歷史街區 歷史街區就是由西班牙殖民時代留下建築",
-    "context": "墨西哥市的舊城區，新舊建築交會"
-  },
-  {
-    "name": "墨西哥國家宮",
-    "name_en": "National Palace of Mexico",
-    "lat": 19.432,
-    "lon": -99.131,
-    "country": "墨西哥",
-    "region": "美洲",
-    "quote": "有一部分就是可能譬如說什麼國家工 對 然後又加上什麼 教堂",
-    "context": "墨西哥市歷史街區的重要建築物"
-  },
-  {
-    "name": "墨西哥城都主教座堂",
-    "name_en": "Metropolitan Cathedral of Mexico City",
-    "lat": 19.433,
-    "lon": -99.134,
-    "country": "墨西哥",
-    "region": "美洲",
-    "quote": "墨西哥中心的一個大教堂 他 我剛出北門站的時候就有看到",
-    "context": "墨西哥市重要教堂，可看到阿茲特克遺跡"
-  },
-  {
-    "name": "特諾奇提特蘭",
-    "name_en": "Tenochtitlan",
-    "lat": 19.432,
-    "lon": -99.134,
-    "country": "墨西哥",
-    "region": "美洲",
-    "quote": "那邊就是可能就是當初阿茲特克的特諾奇麗特蘭城的那種遺址",
-    "context": "墨西哥城都主教座堂下方可見的阿茲特克遺址"
+    "quote": "然後有一些那個類似金字塔那種磚塊在下面",
+    "context": "玻璃地板下可見阿茲特克特諾奇提特蘭遺址地基"
   },
   {
     "name": "特奧蒂瓦坎",
     "name_en": "Teotihuacan",
     "lat": 19.692,
-    "lon": -98.843,
-    "country": "墨西哥",
-    "region": "美洲",
-    "quote": "提奧地華坎 他是一個阿茲特克的遺跡",
-    "context": "墨西哥市郊外壯觀的阿茲特克遺跡"
-  },
-  {
-    "name": "太陽金字塔",
-    "name_en": "Pyramid of the Sun",
-    "lat": 19.692,
-    "lon": -98.843,
-    "country": "墨西哥",
-    "region": "美洲",
-    "quote": "在太陽 還一個太陽電 一個月亮電 太陽電的頂端有一個 就有一堆阿伯 就脫衣服 坐在那裡",
-    "context": "特奧蒂瓦坎的重要金字塔之一",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/2020-02-11_Teotihuacan_la_Avenida_de_los_Muertos_y_la_Pir%C3%A1mide_del_Sol.jpg/330px-2020-02-11_Teotihuacan_la_Avenida_de_los_Muertos_y_la_Pir%C3%A1mide_del_Sol.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "月亮金字塔",
-    "name_en": "Pyramid of the Moon",
-    "lat": 19.694,
     "lon": -98.844,
     "country": "墨西哥",
     "region": "美洲",
-    "quote": "在太陽 還一個太陽電 一個月亮電",
-    "context": "特奧蒂瓦坎的重要金字塔之一"
+    "quote": "非常壯觀的一個遺跡",
+    "context": "墨西哥城郊金字塔遺址，太陽神殿頂有人曬太陽吸靈氣"
   },
   {
-    "name": "瓜達露佩聖母聖殿",
+    "name": "瓜達盧佩聖母大殿",
     "name_en": "Basilica of Our Lady of Guadalupe",
-    "lat": 19.485,
+    "lat": 19.484,
     "lon": -99.117,
     "country": "墨西哥",
     "region": "美洲",
-    "quote": "Guadalupe神母大教堂 對 這個大教堂的有趣地方 是他有一件神奇的斗篷",
-    "context": "墨西哥重要天主教堂，有聖母斗篷傳說"
+    "quote": "這個大教堂的有趣的地方是他有一件神奇的斗篷",
+    "context": "聖母顯靈斗篷傳說，原住民前來朝聖"
   },
   {
-    "name": "查普爾特佩克城堡",
-    "name_en": "Chapultepec Castle",
-    "lat": 19.421,
-    "lon": -99.182,
+    "name": "墨西哥城郵政總局",
+    "name_en": "Palacio Postal (Correo Mayor), Mexico City",
+    "lat": 19.4349,
+    "lon": -99.1405,
     "country": "墨西哥",
     "region": "美洲",
-    "quote": "就是那邊有個叫喬不太貝的城堡 下面有個動物園",
-    "context": "墨西哥市內歷史悠久的城堡"
+    "quote": "墨西哥市他有一個墨西哥算是郵政總局非常的金碧輝煌",
+    "context": "金碧輝煌的郵局，寄給自己的明信片一年後才收到"
   },
   {
-    "name": "查普爾特佩克公園",
-    "name_en": "Chapultepec Park",
-    "lat": 19.42,
-    "lon": -99.185,
-    "country": "墨西哥",
-    "region": "美洲",
-    "quote": "就是那邊有個叫喬不太貝的城堡 下面有個動物園",
-    "context": "墨西哥市的大型公園，包含動物園和城堡"
-  },
-  {
-    "name": "憲法廣場",
-    "name_en": "Zócalo / Plaza de la Constitución",
-    "lat": 19.432,
-    "lon": -99.133,
-    "country": "墨西哥",
-    "region": "美洲",
-    "quote": "我那時候剛好在憲法大道吧 然後有個很大的紀念碑那邊",
-    "context": "墨西哥市中心主要廣場"
-  },
-  {
-    "name": "弗里達卡羅博物館",
+    "name": "弗里達博物館",
     "name_en": "Frida Kahlo Museum (Casa Azul)",
-    "lat": 19.354,
-    "lon": -99.163,
+    "lat": 19.355,
+    "lon": -99.162,
     "country": "墨西哥",
     "region": "美洲",
-    "quote": "最後我還非常推薦一個 就是弗里達的博物館 對 他也是在墨西哥市",
-    "context": "墨西哥市的著名博物館，介紹女畫家生平"
+    "quote": "最後我還非常推薦一個就是弗里達的博物館",
+    "context": "弗里達故居，戴耳機導覽，最後一幅畫為西瓜"
   },
   {
     "name": "墨西哥國立自治大學",
@@ -232,7 +66,28 @@
     "lon": -99.187,
     "country": "墨西哥",
     "region": "美洲",
-    "quote": "你可以去武難大學學西班牙文 武難大學 對就是墨西哥市的 就雖然有點像墨西哥的台大 墨西哥大學 第一學府",
-    "context": "墨西哥第一學府，推薦學習西文的地點"
+    "quote": "你可以去武難大學學西班牙文",
+    "context": "推薦以語言學校方式在墨西哥市學西文、Gap Year"
+  },
+  {
+    "name": "查普爾特佩克城堡",
+    "name_en": "Chapultepec Castle",
+    "lat": 19.42,
+    "lon": -99.182,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "那邊有個叫喬不太貝的城堡下面有個動物園",
+    "context": "城堡下動物園，遇到當地人要求合照"
+  },
+  {
+    "name": "太陽金字塔",
+    "name_en": "Pyramid of the Sun",
+    "lat": 19.692,
+    "lon": -98.843,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "太陽電的頂端有一個就有一堆阿伯就脫衣服",
+    "context": "頂端有人裸上身吸收靈氣",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/2020-02-11_Teotihuacan_la_Avenida_de_los_Muertos_y_la_Pir%C3%A1mide_del_Sol.jpg/330px-2020-02-11_Teotihuacan_la_Avenida_de_los_Muertos_y_la_Pir%C3%A1mide_del_Sol.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]

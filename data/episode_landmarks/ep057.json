@@ -1,35 +1,54 @@
 [
   {
+    "name": "約翰尼斯堡",
+    "name_en": "Johannesburg",
+    "lat": -26.204,
+    "lon": 28.047,
+    "country": "南非",
+    "region": "非洲",
+    "quote": "我那時候在約翰尼斯堡下他的旅館",
+    "context": "治安疑慮，辛巴威籍酒保提醒部分區域不能去",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Johannesburg_skyline_2017.jpg/330px-Johannesburg_skyline_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
     "name": "維多利亞瀑布",
     "name_en": "Victoria Falls",
-    "lat": -17.9243,
-    "lon": 25.85724,
+    "lat": -17.925,
+    "lon": 25.857,
     "country": "辛巴威",
     "region": "非洲",
-    "quote": "像我們的最終站其實是抵達維多利亞瀑布那邊",
-    "context": "本趟旅行的最終目的地與重要景點",
+    "quote": "當我們抵達我們要去的維多利亞瀑布那邊的時候",
+    "context": "旅程終點，觀光化地區，也是泛舟地點",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Cataratas_Victoria%2C_Zambia-Zimbabue%2C_2018-07-27%2C_DD_04.jpg/330px-Cataratas_Victoria%2C_Zambia-Zimbabue%2C_2018-07-27%2C_DD_04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "贊比西河",
-    "name_en": "Zambezi River",
-    "lat": -17.915,
+    "name": "贊比西河下游峽谷",
+    "name_en": "Zambezi River Gorge (Batoka Gorge)",
+    "lat": -17.98,
     "lon": 25.85,
     "country": "辛巴威",
     "region": "非洲",
     "quote": "我們是在那個上筆河的下游",
-    "context": "泛舟活動進行地，水流湍急",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Zambezi_River_at_junction_of_Namibia%2C_Zambia%2C_Zimbabwe_%26_Botswana.jpg/330px-Zambezi_River_at_junction_of_Namibia%2C_Zambia%2C_Zimbabwe_%26_Botswana.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    "context": "19個急流的激流泛舟，媽媽落水"
   },
   {
-    "name": "約翰尼斯堡 山頓區",
-    "name_en": "Sandton, Johannesburg",
-    "lat": -26.107,
-    "lon": 28.055,
+    "name": "南非與辛巴威邊境（貝特橋口岸）",
+    "name_en": "Beitbridge Border Post",
+    "lat": -22.218,
+    "lon": 30.0,
+    "country": "辛巴威",
+    "region": "非洲",
+    "quote": "從南非到星巴威的那個邊境",
+    "context": "以貪腐聞名的邊境，電子簽證被刁難"
+  },
+  {
+    "name": "莫三比克與南非邊境（雷薩諾加西亞口岸）",
+    "name_en": "Lebombo–Ressano Garcia Border",
+    "lat": -25.436,
+    "lon": 32.017,
     "country": "南非",
     "region": "非洲",
-    "quote": "我們之後去的是一個就是全正最fancy的地方",
-    "context": "約翰尼斯堡內治安較好且高級的區域",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Montecasino.jpg/330px-Montecasino.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    "quote": "從莫山比克回到南非的那個邊界",
+    "context": "海關請作者寫中文名字，氣氛輕鬆"
   }
 ]

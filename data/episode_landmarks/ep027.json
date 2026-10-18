@@ -1,105 +1,33 @@
 [
   {
-    "name": "巴黎",
-    "name_en": "Paris",
-    "lat": 48.8566,
-    "lon": 2.3522,
+    "name": "巴黎地下墓穴（非法區域）",
+    "name_en": "Paris Catacombs (Illegal Sections)",
+    "lat": 48.834,
+    "lon": 2.332,
     "country": "法國",
     "region": "歐洲",
-    "quote": "因為很多人去法國就是去巴黎對不對",
-    "context": "許多人去法國的首選，但主持人認為其大。",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/330px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    "quote": "我去的那個是要鑽30公分的洞進去的",
+    "context": "主講人探訪非法地下墓穴的驚險經歷"
   },
   {
-    "name": "巴黎市中心",
-    "name_en": "Paris City Center",
-    "lat": 48.8647,
-    "lon": 2.349,
+    "name": "巴黎地下墓穴博物館",
+    "name_en": "Catacombs of Paris",
+    "lat": 48.834,
+    "lon": 2.3324,
     "country": "法國",
     "region": "歐洲",
-    "quote": "其實是巴黎市中心,市政府站的,的街",
-    "context": "討論藝術家佔領區的位置。"
+    "quote": "你講的是在14區的一個地下墓穴博物館",
+    "context": "合法開放的地下墓穴，與非法區域對照"
   },
   {
-    "name": "14區",
-    "name_en": "14th Arrondissement",
-    "lat": 48.8322,
-    "lon": 2.3213,
-    "country": "法國",
-    "region": "歐洲",
-    "quote": "你在14區的一個地下墓穴博物館",
-    "context": "討論巴黎地下墓穴博物館的位置。"
-  },
-  {
-    "name": "地下墓穴博物館",
-    "name_en": "Catacombs Museum",
-    "lat": 48.8322,
-    "lon": 2.3213,
-    "country": "法國",
-    "region": "歐洲",
-    "quote": "你在14區的一個地下墓穴博物館",
-    "context": "參觀過的合法地下墓穴景點。"
-  },
-  {
-    "name": "非法地下墓穴",
-    "name_en": "Illegal Catacombs",
-    "lat": 48.8322,
-    "lon": 2.3213,
-    "country": "法國",
-    "region": "歐洲",
-    "quote": "我去過的那個是非法的",
-    "context": "節目中詳細討論的冒險經歷。"
-  },
-  {
-    "name": "南法",
-    "name_en": "South of France",
-    "lat": 43.4832,
-    "lon": 3.1525,
-    "country": "法國",
-    "region": "歐洲",
-    "quote": "那南法待個四天",
-    "context": "提及與巴黎並列的旅遊規劃。"
-  },
-  {
-    "name": "土魯斯",
+    "name": "圖盧茲",
     "name_en": "Toulouse",
     "lat": 43.6047,
     "lon": 1.4442,
     "country": "法國",
     "region": "歐洲",
-    "quote": "不然我一直都住在南法Toulouse",
-    "context": "主持人過去居住的城市，對比巴黎。",
+    "quote": "被稱為玫瑰之城",
+    "context": "主講人居住的南法紅磚城市，生活與物價",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Toulouse_-_vue_du_Vieux_Toulouse_depuis_St_Sernin_06.jpg/330px-Toulouse_-_vue_du_Vieux_Toulouse_depuis_St_Sernin_06.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "玫瑰之城",
-    "name_en": "City of Roses",
-    "lat": 43.6047,
-    "lon": 1.4442,
-    "country": "法國",
-    "region": "歐洲",
-    "quote": "所以Toulouse被稱為玫瑰之城",
-    "context": "Toulouse 的別稱，因紅磚建築得名。"
-  },
-  {
-    "name": "凱旋門",
-    "name_en": "Arc de Triomphe",
-    "lat": 48.8738,
-    "lon": 2.295,
-    "country": "法國",
-    "region": "歐洲",
-    "quote": "燒啊,燒凱旋門也燒",
-    "context": "提及法國社會運動中被破壞的目標。",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Arc_de_Triomphe_-_Ao%C3%BBt_2026.jpg/330px-Arc_de_Triomphe_-_Ao%C3%BBt_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "佛羅倫斯",
-    "name_en": "Florence",
-    "lat": 43.7696,
-    "lon": 11.2558,
-    "country": "義大利",
-    "region": "歐洲",
-    "quote": "像我最喜歡講的就是佛羅倫斯",
-    "context": "被主持人認為是「沒有生活感」的城市。"
   }
 ]

@@ -1,34 +1,33 @@
 [
   {
-    "name": "土魯斯",
+    "name": "里斯本海濱夜店停車場",
+    "name_en": "Lisbon Waterfront Nightclub Parking Lot",
+    "lat": 38.706,
+    "lon": -9.152,
+    "country": "葡萄牙",
+    "region": "歐洲",
+    "quote": "我們是停在里斯本市中心的一個夜店的停車場",
+    "context": "露營車停靠點，結識長住卡車的街頭藝人與鼓手"
+  },
+  {
+    "name": "圖盧茲",
     "name_en": "Toulouse",
-    "lat": 43.6047,
-    "lon": 1.4442,
+    "lat": 43.604,
+    "lon": 1.444,
     "country": "法國",
     "region": "歐洲",
     "quote": "因為我們兩個是住在Toulouse",
-    "context": "主角曾居住的法國南部城市",
+    "context": "旅程出發地，位於法國南部",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Toulouse_-_vue_du_Vieux_Toulouse_depuis_St_Sernin_06.jpg/330px-Toulouse_-_vue_du_Vieux_Toulouse_depuis_St_Sernin_06.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "比利牛斯山",
+    "name": "庇里牛斯山",
     "name_en": "Pyrenees",
-    "lat": 42.8,
-    "lon": 0.9,
-    "country": "法國/西班牙",
+    "lat": 42.7,
+    "lon": 0.5,
+    "country": "法國",
     "region": "歐洲",
-    "quote": "就越過比利牛13那邊",
-    "context": "法國南部與西班牙北部邊界"
-  },
-  {
-    "name": "里斯本",
-    "name_en": "Lisbon",
-    "lat": 38.7223,
-    "lon": -9.1393,
-    "country": "葡萄牙",
-    "region": "歐洲",
-    "quote": "我們停在里斯本市中心的一個夜店的停車場",
-    "context": "停靠夜店停車場過夜的地點",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Lisboa_-_Portugal_%2852597836992%29.jpg/330px-Lisboa_-_Portugal_%2852597836992%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    "quote": "就是比利牛13那邊",
+    "context": "露營車越過山脈進入西班牙北部"
   }
 ]

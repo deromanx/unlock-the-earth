@@ -1,22 +1,77 @@
 [
   {
-    "name": "乌尤尼盐沼 (天空之镜)",
-    "name_en": "Salar de Uyuni",
-    "lat": -20.133,
-    "lon": -67.489,
-    "country": "玻利维亚",
+    "name": "聖克魯斯德拉謝拉",
+    "name_en": "Santa Cruz de la Sierra",
+    "lat": -17.784,
+    "lon": -63.182,
+    "country": "玻利維亞",
     "region": "美洲",
-    "quote": "玻璃维雅那个天空之境还是很美我们还是很想去",
-    "context": "讲者为欣赏此美景，不惜在通关受挫后改搭飞机前往"
+    "quote": "叫 Santa Cruz de la Sierra",
+    "context": "改搭飛機入境的商業城市，偶遇門諾派教徒",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Santa_Cruz_de_la_Sierra_3.jpg/330px-Santa_Cruz_de_la_Sierra_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "卡尔奥克恐龙化石墙",
-    "name_en": "Cal Orck'o",
-    "lat": -19.005,
-    "lon": -65.238,
-    "country": "玻利维亚",
+    "name": "蘇克雷",
+    "name_en": "Sucre",
+    "lat": -19.033,
+    "lon": -65.263,
+    "country": "玻利維亞",
     "region": "美洲",
-    "quote": "他附近郊区有一个好像是恐龙的走路的化石",
-    "context": "苏格雷郊区景点，保留在垂直山壁上的恐龙脚印化石"
+    "quote": "我记得是先到苏格雷 那苏格雷算是他们的法定首都",
+    "context": "法定首都，恐龍足跡、護照遺失又尋回",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Sucre%2C_Capital_de_Bolivia.jpg/330px-Sucre%2C_Capital_de_Bolivia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "拉巴斯",
+    "name_en": "La Paz",
+    "lat": -16.49,
+    "lon": -68.119,
+    "country": "玻利維亞",
+    "region": "美洲",
+    "quote": "那拉帕斯其实就是他们现在比较偏实质上首都",
+    "context": "實質首都，前往蒂亞瓦納科的據點"
+  },
+  {
+    "name": "蒂亞瓦納科",
+    "name_en": "Tiwanaku",
+    "lat": -16.555,
+    "lon": -68.673,
+    "country": "玻利維亞",
+    "region": "美洲",
+    "quote": "有一些当地古文明的遗迹 是当地我记得叫艾玛拉的一个族群",
+    "context": "艾馬拉古文明遺址，參加秋分薩滿儀式",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/PUERTA_DEL_SOL_TIWANAKU.jpg/330px-PUERTA_DEL_SOL_TIWANAKU.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "太陽之門",
+    "name_en": "Gate of the Sun",
+    "lat": -16.554,
+    "lon": -68.673,
+    "country": "玻利維亞",
+    "region": "美洲",
+    "quote": "有一个比较有名的叫做一个太阳之门",
+    "context": "蒂亞瓦納科著名石門，儀式在其前舉行",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Zonnepoort_tiwanaku.jpg/330px-Zonnepoort_tiwanaku.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "的的喀喀湖",
+    "name_en": "Lake Titicaca",
+    "lat": -15.925,
+    "lon": -69.35,
+    "country": "玻利維亞",
+    "region": "美洲",
+    "quote": "滴滴咖咖咖湖是全世界最高原的一个湖",
+    "context": "搭平底船跨湖入境秘魯，航程五六小時"
+  },
+  {
+    "name": "亞松森",
+    "name_en": "Asunción",
+    "lat": -25.264,
+    "lon": -57.576,
+    "country": "巴拉圭",
+    "region": "美洲",
+    "quote": "然后回到亚松生",
+    "context": "巴拉圭首都，被拒入境後折返並改搭飛機",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Palacio_de_los_L%C3%B3pez_Asunci%C3%B3n_2.jpg/330px-Palacio_de_los_L%C3%B3pez_Asunci%C3%B3n_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]

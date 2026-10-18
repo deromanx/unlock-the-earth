@@ -2,51 +2,41 @@
   {
     "name": "愛妮島",
     "name_en": "El Nido",
-    "lat": 11.1833,
-    "lon": 119.4167,
+    "lat": 11.178,
+    "lon": 119.393,
     "country": "菲律賓",
     "region": "亞洲",
-    "quote": "我一個月前去菲律賓的愛妮島玩",
-    "context": "信用卡被盜領事件發生地"
-  },
-  {
-    "name": "蘭嶼",
-    "name_en": "Lanyu Island",
-    "lat": 22.0494,
-    "lon": 121.5287,
-    "country": "台灣",
-    "region": "台灣",
-    "quote": "有點像藍羽的感覺",
-    "context": "比較愛妮島的原始，後來提到當地餐廳老闆"
-  },
-  {
-    "name": "蘭嶼漂流木餐廳",
-    "name_en": "Driftwood Restaurant Lanyu",
-    "lat": 22.052,
-    "lon": 121.5256,
-    "country": "台灣",
-    "region": "台灣",
-    "quote": "我們就去一間餐廳叫漂流木",
-    "context": "餐廳老闆放棄城市生活定居蘭嶼"
+    "quote": "我一个月前去菲律宾的爱妮岛玩",
+    "context": "ATM遭盜copy卡片、被盜領的旅行倒楣事發生地"
   },
   {
     "name": "張家口",
     "name_en": "Zhangjiakou",
-    "lat": 40.8118,
-    "lon": 114.8784,
+    "lat": 40.768,
+    "lon": 114.886,
     "country": "中國",
     "region": "亞洲",
-    "quote": "他會去張家口，就是在北京的路上",
-    "context": "搭便車事件的轉折點，險些被司機砍殺"
+    "quote": "他说他不会去北京啊可是他会去张家口",
+    "context": "搭便車變計程車糾紛、遭持刀追砍的地點"
   },
   {
-    "name": "品納瓦拉大象孤兒院",
-    "name_en": "Pinnawala Elephant Orphanage",
-    "lat": 7.3242,
-    "lon": 80.3732,
+    "name": "蘭嶼",
+    "name_en": "Orchid Island (Lanyu)",
+    "lat": 22.045,
+    "lon": 121.535,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "我们去蓝宇嘛上个礼拜然后我们就去一间餐厅叫漂流木",
+    "context": "遇見定居蘭嶼的台北老闆娘，展現不同人生"
+  },
+  {
+    "name": "斯里蘭卡大象孤兒院",
+    "name_en": "Elephant Orphanage, Sri Lanka (Pinnawala)",
+    "lat": 7.3,
+    "lon": 80.386,
     "country": "斯里蘭卡",
     "region": "亞洲",
-    "quote": "某一天到一個大象孤兒院",
-    "context": "被導遊強收高價介紹費"
+    "quote": "某一天到一个大象孤儿院自己一个人好端端的在那边看大象",
+    "context": "遭陌生人導覽後索討高額費用"
   }
 ]

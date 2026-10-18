@@ -1,159 +1,52 @@
 [
   {
-    "name": "佛得角",
-    "name_en": "Cabo Verde",
-    "lat": 15.1,
-    "lon": -23.6,
-    "country": "佛得角",
-    "region": "非洲",
-    "quote": "我觉得如果我要解锁非洲，第一站一定是韦德角。",
-    "context": "西非外海島國，主持人想解鎖的首站。"
-  },
-  {
-    "name": "聖多美普林西比",
-    "name_en": "São Tomé and Príncipe",
-    "lat": 0.3,
-    "lon": 6.7,
-    "country": "聖多美普林西比",
-    "region": "非洲",
-    "quote": "我在2008年时候去的，圣多美福利西比。",
-    "context": "主持人曾駐點四年的島國。"
-  },
-  {
-    "name": "奴隶之门",
-    "name_en": "Slave Gate",
-    "lat": 14.888,
-    "lon": -23.594,
-    "country": "佛得角",
-    "region": "非洲",
-    "quote": "围德角有个地方，叫做奴隶之门",
-    "context": "歷史上奴隸使用的門。"
-  },
-  {
-    "name": "葡萄牙",
-    "name_en": "Portugal",
-    "lat": 39.554,
-    "lon": -8.002,
-    "country": "葡萄牙",
-    "region": "歐洲",
-    "quote": "圣多美福利比，圣多美，还有莫山比克，莫山比克是也是一样是普与系的国家。",
-    "context": "曾殖民非洲島國，語言文化影響深遠。",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Flag_of_Portugal_%28official%29.svg/330px-Flag_of_Portugal_%28official%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "聖多美島",
-    "name_en": "São Tomé Island",
-    "lat": 0.3,
-    "lon": 6.7,
-    "country": "聖多美普林西比",
-    "region": "非洲",
-    "quote": "你在那边待四年，圣多美",
-    "context": "主持人曾駐點的主要島嶼。"
-  },
-  {
-    "name": "普林西比島",
-    "name_en": "Príncipe Island",
-    "lat": 1.567,
-    "lon": 7.417,
-    "country": "聖多美普林西比",
-    "region": "非洲",
-    "quote": "圣多美普林西比，两个岛国组成",
-    "context": "聖多美普林西比的另一島嶼。"
-  },
-  {
-    "name": "宏都拉斯",
-    "name_en": "Honduras",
-    "lat": 15.195,
-    "lon": -86.243,
-    "country": "宏都拉斯",
-    "region": "美洲",
-    "quote": "我是宏多拉斯的外交替代医",
-    "context": "曾任外交替代醫的國家。",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Honduras_%281949%E2%80%932022%2C_2026%E2%80%93present%29.svg/330px-Flag_of_Honduras_%281949%E2%80%932022%2C_2026%E2%80%93present%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "里斯本",
-    "name_en": "Lisbon",
-    "lat": 38.722,
-    "lon": -9.139,
-    "country": "葡萄牙",
-    "region": "歐洲",
-    "quote": "他先到里斯本，然后转机到圣多美普林西比。",
-    "context": "前往聖多美的轉機點。",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Lisboa_-_Portugal_%2852597836992%29.jpg/330px-Lisboa_-_Portugal_%2852597836992%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "班纠岛",
+    "name": "班糾島",
     "name_en": "Ilhéu das Rolas",
-    "lat": 0.0,
-    "lon": 6.547,
+    "lat": -0.0042,
+    "lon": 6.5333,
     "country": "聖多美普林西比",
     "region": "非洲",
-    "quote": "我们南部有个班纠岛，它是一个旅游圣地。",
-    "context": "赤道經過的旅遊聖地。"
-  },
-  {
-    "name": "巴西",
-    "name_en": "Brazil",
-    "lat": -14.235,
-    "lon": -51.925,
-    "country": "巴西",
-    "region": "美洲",
-    "quote": "第二个是巴西，都是讲葡萄牙。",
-    "context": "聖多美普林西比人留學目的地。",
-    "image": "https://thumb.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/330px-Flag_of_Brazil.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "荷兰",
-    "name_en": "Netherlands",
-    "lat": 52.132,
-    "lon": 5.291,
-    "country": "荷蘭",
-    "region": "歐洲",
-    "quote": "他们几乎都是在荷兰啊比利时",
-    "context": "足球明星的留學/發展地。",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/330px-Flag_of_the_Netherlands.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "比利时",
-    "name_en": "Belgium",
-    "lat": 50.837,
-    "lon": 4.367,
-    "country": "比利時",
-    "region": "歐洲",
-    "quote": "他们几乎都是在荷兰啊比利时",
-    "context": "足球明星的留學/發展地。",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/330px-Flag_of_Belgium.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "印尼",
-    "name_en": "Indonesia",
-    "lat": -0.789,
-    "lon": 113.921,
-    "country": "印尼",
-    "region": "亞洲",
-    "quote": "像印尼的可可，已经比盛多美的还便宜",
-    "context": "可可產量豐富，價格較低。",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/330px-Flag_of_Indonesia.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "火之岛",
-    "name_en": "Fogo Island",
-    "lat": 14.95,
-    "lon": -24.4,
-    "country": "佛得角",
-    "region": "非洲",
-    "quote": "有个叫火之岛的地方，它是一个火山岛",
-    "context": "火山島，西側土壤肥沃。"
+    "quote": "圣多美的下面还有一个班纠岛 它是小岛 大概跟小琉球一样",
+    "context": "赤道經過的離島，度假、游泳潛水勝地"
   },
   {
     "name": "聖多美市",
-    "name_en": "São Tomé City",
-    "lat": 0.3,
-    "lon": 6.7,
+    "name_en": "São Tomé",
+    "lat": 0.3365,
+    "lon": 6.7273,
     "country": "聖多美普林西比",
     "region": "非洲",
     "quote": "圣多美市就有这样的区域",
-    "context": "擁有與佛得角相似的葡式歷史街區。"
+    "context": "擁有葡式歷史中心區，但維護不如維德角"
+  },
+  {
+    "name": "火之島（福古島）",
+    "name_en": "Fogo Island",
+    "lat": 14.95,
+    "lon": -24.3833,
+    "country": "維德角",
+    "region": "非洲",
+    "quote": "有个叫火之岛的 这个地方 它是一个火山岛",
+    "context": "維德角唯一土壤肥沃的火山島"
+  },
+  {
+    "name": "奴隸之門",
+    "name_en": "Gate of Slaves (Cidade Velha)",
+    "lat": 14.9155,
+    "lon": -23.6061,
+    "country": "維德角",
+    "region": "非洲",
+    "quote": "围德角有个地方 叫做奴隶之门 就是那个门只有奴隶可以过",
+    "context": "殖民時期奴隸專用之門，象徵歷史卑微處境"
+  },
+  {
+    "name": "咖啡山",
+    "name_en": "Monte Café",
+    "lat": 0.2833,
+    "lon": 6.6333,
+    "country": "聖多美普林西比",
+    "region": "非洲",
+    "quote": "我们有时候去那个 Monti Cafe 就是在有个咖啡山",
+    "context": "咖啡種植園，由義大利人承包，可參觀"
   }
 ]

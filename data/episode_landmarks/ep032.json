@@ -1,32 +1,42 @@
 [
   {
-    "name": "台北車站",
-    "name_en": "Taipei Main Station",
-    "lat": 25.0477,
-    "lon": 121.5172,
+    "name": "台北車站大廳",
+    "name_en": "Taipei Main Station Hall",
+    "lat": 25.0478,
+    "lon": 121.517,
     "country": "台灣",
     "region": "台灣",
-    "quote": "我常常一個人到禮拜天的台北山大廳",
-    "context": "移工週日聚集場所，用於訪談交流"
+    "quote": "我常常一個人到禮拜天的台北車站大廳",
+    "context": "移工週日聚集地，創辦人與印尼移工初識之處"
   },
   {
-    "name": "印尼街",
-    "name_en": "Indonesian Street",
-    "lat": 25.055,
-    "lon": 121.516,
+    "name": "台北印尼街",
+    "name_en": "Indonesian Street (Zhongshan N. Rd. near Taipei Station)",
+    "lat": 25.0498,
+    "lon": 121.52,
     "country": "台灣",
     "region": "台灣",
-    "quote": "然後他所有招牌都是印尼文這樣子",
-    "context": "移工週末採買、聚會的特定街道"
+    "quote": "在台北車站旁邊走路兩分鐘就有一條印尼街",
+    "context": "移工週日採買、匯款、聚會的街區，小旅行景點"
   },
   {
     "name": "平溪",
-    "name_en": "Pingxi District",
-    "lat": 25.0265,
-    "lon": 121.7345,
+    "name_en": "Pingxi",
+    "lat": 25.0258,
+    "lon": 121.7405,
     "country": "台灣",
     "region": "台灣",
     "quote": "他們很常去平溪就撿那個我們放天燈掉下來的垃圾",
-    "context": "移工淨灘的地點"
+    "context": "移工社團淨灘淨山、撿拾天燈垃圾之地"
+  },
+  {
+    "name": "北海岸",
+    "name_en": "North Coast of Taiwan",
+    "lat": 25.282,
+    "lon": 121.52,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "然後去北海岸然後甚至是去爬山去撿垃圾",
+    "context": "印尼移工社團定期淨灘地點"
   }
 ]

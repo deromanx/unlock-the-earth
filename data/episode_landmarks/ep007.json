@@ -1,75 +1,72 @@
 [
   {
-    "name": "慕尼黑",
-    "name_en": "Munich",
-    "lat": 48.1351,
-    "lon": 11.582,
+    "name": "慕尼黑啤酒節會場（特蕾西亞草坪）",
+    "name_en": "Theresienwiese (Oktoberfest grounds)",
+    "lat": 48.1315,
+    "lon": 11.5495,
     "country": "德國",
     "region": "歐洲",
-    "quote": "每年德國慕尼黑舉辦啤酒節的時期",
-    "context": "啤酒節主要舉辦地",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Stadtbild_M%C3%BCnchen.jpg/330px-Stadtbild_M%C3%BCnchen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    "quote": "就是真的把一個游樂園搬過來的那種感覺",
+    "context": "慕尼黑啤酒節會場，有遊樂設施、帳篷與喝酒文化"
   },
   {
-    "name": "英斯布魯克",
-    "name_en": "Innsbruck",
-    "lat": 47.2682,
-    "lon": 11.3946,
-    "country": "奧地利",
+    "name": "慕尼黑新市政廳",
+    "name_en": "Neues Rathaus, Munich",
+    "lat": 48.1374,
+    "lon": 11.5755,
+    "country": "德國",
     "region": "歐洲",
-    "quote": "離慕尼黑近到不行 兩個半小時的距離",
-    "context": "離慕尼黑近，方便一日往返"
+    "quote": "慕尼黑的市政廳啊,他每天會敲鐘三次",
+    "context": "市政廳鐘樓木偶秀與黑死病後重振慶典的由來"
   },
   {
-    "name": "阿姆斯特丹",
-    "name_en": "Amsterdam",
-    "lat": 52.3676,
-    "lon": 4.9041,
+    "name": "瑪麗恩廣場",
+    "name_en": "Marienplatz",
+    "lat": 48.1374,
+    "lon": 11.5755,
+    "country": "德國",
+    "region": "歐洲",
+    "quote": "搬在那個市政廳前面的廣場",
+    "context": "市政廳前廣場，設有素食啤酒節攤位"
+  },
+  {
+    "name": "巴伐利亞女神像",
+    "name_en": "Bavaria Statue",
+    "lat": 48.1318,
+    "lon": 11.5364,
+    "country": "德國",
+    "region": "歐洲",
+    "quote": "這個雕像就是用一個女性的形象去呈現那個巴伐利亞的精神",
+    "context": "啤酒節旁山坡上的女性與獅子雕像，象徵巴伐利亞"
+  },
+  {
+    "name": "海尼根體驗館",
+    "name_en": "Heineken Experience",
+    "lat": 52.3578,
+    "lon": 4.8918,
     "country": "荷蘭",
     "region": "歐洲",
-    "quote": "之前也去過阿姆斯特那邊有個海尼根酒廠",
-    "context": "海尼根酒廠所在地",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Imagen_de_los_canales_conc%C3%A9ntricos_en_%C3%81msterdam.png/330px-Imagen_de_los_canales_conc%C3%A9ntricos_en_%C3%81msterdam.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    "quote": "去過阿姆斯特那邊有個海尼根酒廠",
+    "context": "原廠導覽、手環換啤酒與證書，偏現代遊樂園風格"
   },
   {
-    "name": "皮爾森",
-    "name_en": "Pilsen",
-    "lat": 49.7435,
-    "lon": 13.377,
+    "name": "比爾森啤酒廠",
+    "name_en": "Pilsner Urquell Brewery",
+    "lat": 49.7473,
+    "lon": 13.3853,
     "country": "捷克",
     "region": "歐洲",
-    "quote": "我那时候我稍微去一下他们的酒厂晃晃",
-    "context": "捷克啤酒品牌產地，酒廠參觀"
+    "quote": "皮爾森真的就是傳統的酒廠那種感覺",
+    "context": "傳統酒廠，木桶釀酒，啤酒偏苦"
   },
   {
-    "name": "尼斯",
-    "name_en": "Nice",
-    "lat": 43.7102,
-    "lon": 7.262,
-    "country": "法國",
-    "region": "歐洲",
-    "quote": "法國尼斯那個嘛...他是說開車在街上亂撞人",
-    "context": "恐攻事件地點",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Promenade_des_Anglais_Nice_IMG_1255.jpg/330px-Promenade_des_Anglais_Nice_IMG_1255.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "維也納",
-    "name_en": "Vienna",
-    "lat": 48.2082,
-    "lon": 16.3738,
+    "name": "因斯布魯克",
+    "name_en": "Innsbruck",
+    "lat": 47.2692,
+    "lon": 11.4041,
     "country": "奧地利",
     "region": "歐洲",
-    "quote": "我對於那種曾經存在然後已經不復存在的國家有興趣",
-    "context": "討論奧匈帝國歷史脈絡"
-  },
-  {
-    "name": "慕尼黑市政廳",
-    "name_en": "Munich City Hall",
-    "lat": 48.139,
-    "lon": 11.574,
-    "country": "德國",
-    "region": "歐洲",
-    "quote": "市政厅上面布置了很多那种很有节庆装饰",
-    "context": "介紹其敲鐘報時機制與裝飾"
+    "quote": "秋林圈交換的城市英斯普魯克雖然在奧地利可是離慕尼黑近到不行",
+    "context": "主持人交換地，離慕尼黑僅兩個半小時"
   }
 ]

@@ -1,102 +1,153 @@
 [
   {
-    "name": "雷克亞維克",
-    "name_en": "Reykjavík",
-    "lat": 64.1466,
-    "lon": -21.9426,
+    "name": "雷克雅維克",
+    "name_en": "Reykjavik",
+    "lat": 64.147,
+    "lon": -21.942,
     "country": "冰島",
     "region": "歐洲",
-    "quote": "对因为我们就搭到那个 他的最大的那个机场 KEF",
-    "context": "旅程的起點，在此停留一天。"
+    "quote": "你們是從雷克亞維克出發",
+    "context": "自駕露營車環島的起點與終點",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Reykjav%C3%ADk%2C_view_from_Hallgr%C3%ADmskirkja_%282%29.jpg/330px-Reykjav%C3%ADk%2C_view_from_Hallgr%C3%ADmskirkja_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "凱夫拉維克國際機場",
-    "name_en": "Keflavík International Airport",
+    "name_en": "Keflavik International Airport",
     "lat": 63.985,
-    "lon": -22.6034,
+    "lon": -22.605,
     "country": "冰島",
     "region": "歐洲",
-    "quote": "对因为我们就搭到那个 他的最大的那个机场 KEF",
-    "context": "抵達冰島的主要機場。"
+    "quote": "我們就搭到它的最大的機場KEF",
+    "context": "抵達冰島的機場，租車後折返處理車底問題"
   },
   {
-    "name": "一號公路 (環島公路)",
-    "name_en": "Ring Road / Route 1",
-    "lat": 64.9631,
-    "lon": -19.0208,
+    "name": "海豹海灘",
+    "name_en": "Seal Beach (Ytri Tunga)",
+    "lat": 64.8,
+    "lon": -23.0,
     "country": "冰島",
     "region": "歐洲",
-    "quote": "但是冰岛整体的路况 开起来蛮舒服的 因为它基本上就是一条路",
-    "context": "冰島主要的環島公路。"
+    "quote": "海豹最常出沒的海灘",
+    "context": "安靜觀賞野生海豹，只需付停車費"
+  },
+  {
+    "name": "基爾丘山",
+    "name_en": "Kirkjufell",
+    "lat": 64.943,
+    "lon": -23.307,
+    "country": "冰島",
+    "region": "歐洲",
+    "quote": "那个露营区在教会山附近",
+    "context": "露營區鄰近的知名景點"
   },
   {
     "name": "阿克雷里",
     "name_en": "Akureyri",
-    "lat": 65.6813,
-    "lon": 18.0686,
+    "lat": 65.683,
+    "lon": -18.088,
     "country": "冰島",
     "region": "歐洲",
-    "quote": "我们只有到北边有一个 比较大的镇叫做 呃 阿克雷里",
-    "context": "冰島北部的大鎮，有節慶活動。"
+    "quote": "北邊有一個比較大的鎮叫做阿克雷里",
+    "context": "北部大鎮，逢週年慶典，體驗社區泳池"
+  },
+  {
+    "name": "阿克雷里社區游泳池",
+    "name_en": "Akureyri Swimming Pool",
+    "lat": 65.681,
+    "lon": -18.093,
+    "country": "冰島",
+    "region": "歐洲",
+    "quote": "冰島他們覺得最好玩的社區游泳池",
+    "context": "體驗在地人泡池與滑水道"
   },
   {
     "name": "眾神瀑布",
     "name_en": "Godafoss",
-    "lat": 65.9667,
-    "lon": 17.55,
+    "lat": 65.683,
+    "lon": -17.55,
     "country": "冰島",
     "region": "歐洲",
-    "quote": "然后那个小镇很接近纵神瀑布",
-    "context": "冰島著名的壯觀瀑布。"
+    "quote": "那个小镇很接近众神瀑布",
+    "context": "壯麗瀑布，僅簡短提及"
   },
   {
-    "name": "惠爾火山口",
-    "name_en": "Hverfjall crater",
-    "lat": 65.5719,
-    "lon": 16.8775,
+    "name": "米湖地熱區",
+    "name_en": "Hverir Geothermal Area",
+    "lat": 65.644,
+    "lon": -16.808,
     "country": "冰島",
     "region": "歐洲",
-    "quote": "跟还有一个是那个 惠儿火山口",
-    "context": "冰島的地質景觀。"
+    "quote": "那个地热区我们去的时候已经黄昏了",
+    "context": "黃昏粉紅天空下宛如外星的地熱區"
   },
   {
-    "name": "赫佛瑞爾地熱區",
-    "name_en": "Hverir geothermal area",
-    "lat": 65.6564,
-    "lon": 16.8322,
+    "name": "胡薩維克",
+    "name_en": "Husavik",
+    "lat": 66.045,
+    "lon": -17.338,
     "country": "冰島",
     "region": "歐洲",
-    "quote": "因为它地上 因为是那个地热的关係嘛 所以就没",
-    "context": "充滿硫磺味的噴氣孔與泥漿池。"
+    "quote": "我们有到他的一个小镇叫做Hukavik",
+    "context": "賞鯨小鎮，搭木船出海看座頭鯨"
   },
   {
-    "name": "赫魯塞克",
-    "name_en": "Húsavík",
-    "lat": 66.0366,
-    "lon": 17.2059,
+    "name": "海雀海角",
+    "name_en": "Puffin Cape (Latrabjarg)",
+    "lat": 65.5,
+    "lon": -24.53,
     "country": "冰島",
     "region": "歐洲",
-    "quote": "然后我们往北的时候 我们有到他的一一个镇 叫做什么呢 Hukavik",
-    "context": "以賞鯨聞名的小鎮。"
+    "quote": "为了要去看那个puffing最常出现的那个海角",
+    "context": "開兩小時車前往卻沒看到海雀"
   },
   {
-    "name": "米湖",
-    "name_en": "Mývatn",
-    "lat": 65.6,
-    "lon": 17.0,
+    "name": "冰川健行地點",
+    "name_en": "Glacier hike (Vatnajokull area)",
+    "lat": 64.0,
+    "lon": -16.8,
     "country": "冰島",
     "region": "歐洲",
-    "quote": "像蓝湖 温泉 米湖",
-    "context": "冰島北部著名湖泊及周邊區域。"
+    "quote": "我们冰川剑情是选五个小时的",
+    "context": "五小時冰川健行，含冰斧冰爪與攀降"
   },
   {
-    "name": "阿克亞里社區游泳池",
-    "name_en": "Akureyri Community Swimming Pool",
-    "lat": 65.6849,
-    "lon": 18.1077,
+    "name": "冰河湖",
+    "name_en": "Jokulsarlon Glacier Lagoon",
+    "lat": 64.048,
+    "lon": -16.18,
     "country": "冰島",
     "region": "歐洲",
-    "quote": "冰岛他们觉得最好玩的社区游泳池 就是我们刚好现在在的那个城市",
-    "context": "當地居民常去的社區泳池。"
+    "quote": "比如说看冰河湖",
+    "context": "南部大景點，見證冰川融化"
+  },
+  {
+    "name": "格利穆爾瀑布",
+    "name_en": "Glymur",
+    "lat": 64.392,
+    "lon": -21.254,
+    "country": "冰島",
+    "region": "歐洲",
+    "quote": "好像是冰島第二高的瀑布叫Glimmer",
+    "context": "健行約三十分鐘，景色如仙境"
+  },
+  {
+    "name": "雷克雅達魯爾野溪溫泉",
+    "name_en": "Reykjadalur Hot Spring Thermal River",
+    "lat": 64.026,
+    "lon": -21.2,
+    "country": "冰島",
+    "region": "歐洲",
+    "quote": "最后一个野溪温泉",
+    "context": "健行一小時抵達免費野溪溫泉"
+  },
+  {
+    "name": "紅色小屋",
+    "name_en": "Red Church (Hofsosskirkja area)",
+    "lat": 65.0,
+    "lon": -19.0,
+    "country": "冰島",
+    "region": "歐洲",
+    "quote": "大家都說很像梁世麗的小紅屋",
+    "context": "路邊小紅屋頂，原為教堂，等車離開拍照"
   }
 ]

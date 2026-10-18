@@ -1,32 +1,43 @@
 [
   {
-    "name": "瓜塔佩巨岩",
-    "name_en": "El Peñón de Guatapé",
-    "lat": 6.21633,
-    "lon": -75.16327,
+    "name": "麥德林",
+    "name_en": "Medellín",
+    "lat": 6.244,
+    "lon": -75.581,
     "country": "哥倫比亞",
     "region": "美洲",
-    "quote": "美德基那邊有一個非常有名的巨石，它是一個超級大的石頭，對叫做El Peñón de Guatapé",
-    "context": "哥倫比亞著名天然巨石，可攀登俯瞰湖景"
+    "quote": "他其实是一个高原城市 然后是哥伦比亚的第二大城市 唯一一个有捷运的城市",
+    "context": "講者任教與生活的城市，曾是毒梟據點，現已發展",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Centro_de_Medell%C3%ADn_en_dron_04.jpg/330px-Centro_de_Medell%C3%ADn_en_dron_04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "波哥大",
+    "name_en": "Bogotá",
+    "lat": 4.711,
+    "lon": -74.072,
+    "country": "哥倫比亞",
+    "region": "美洲",
+    "quote": "所以最后才到Bogoda而已哦 我还没到美得进",
+    "context": "講者抵達哥倫比亞的機場，無人接機"
+  },
+  {
+    "name": "瓜達比岩",
+    "name_en": "El Peñón de Guatapé",
+    "lat": 6.219,
+    "lon": -75.159,
+    "country": "哥倫比亞",
+    "region": "美洲",
+    "quote": "它就是有很多个阶梯 围绕着那个巨石",
+    "context": "麥德林近郊巨石，740階梯可登頂俯瞰湖群"
   },
   {
     "name": "馬丘比丘",
     "name_en": "Machu Picchu",
-    "lat": -13.16314,
-    "lon": -72.54496,
+    "lat": -13.163,
+    "lon": -72.545,
     "country": "秘魯",
     "region": "美洲",
-    "quote": "對那就是有印加文化的Machu Picchu",
-    "context": "秘魯著名的印加文化古蹟"
-  },
-  {
-    "name": "天空之境",
-    "name_en": "Salar de Uyuni",
-    "lat": -20.27989,
-    "lon": -67.62537,
-    "country": "波利維亞",
-    "region": "美洲",
-    "quote": "對那邊有一個天空之境",
-    "context": "波利維亞著名鹽沼，因倒影如鏡面而聞名，主持人想去"
+    "quote": "秘鲁可能因为他有马修比丘 所以他有非常多的观光客",
+    "context": "印加遺址，使秘魯觀光客多、英語普及"
   }
 ]

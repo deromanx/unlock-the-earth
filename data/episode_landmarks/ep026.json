@@ -1,22 +1,13 @@
 [
   {
-    "name": "兰屿",
-    "name_en": "Lanyu / Orchid Island",
-    "lat": 22.05,
-    "lon": 121.55,
-    "country": "台灣",
-    "region": "台灣",
-    "quote": "先去兰屿",
-    "context": "建议替代旅游地点"
-  },
-  {
-    "name": "西藏",
-    "name_en": "Tibet",
-    "lat": 29.65,
-    "lon": 91.1167,
-    "country": "中國",
+    "name": "班加羅爾",
+    "name_en": "Bangalore",
+    "lat": 12.972,
+    "lon": 77.594,
+    "country": "印度",
     "region": "亞洲",
-    "quote": "因为我知道在西藏当年就是被中共破坏之后",
-    "context": "流亡藏人起源地"
+    "quote": "我是去班加罗尔",
+    "context": "講者出差參加電子展的城市，印度南部第二大城",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/View_from_Visvesvaraya_Industrial_and_Technological_Museum_%282025%29_02.jpg/330px-View_from_Visvesvaraya_Industrial_and_Technological_Museum_%282025%29_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]

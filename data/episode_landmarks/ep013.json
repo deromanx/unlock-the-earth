@@ -1,94 +1,74 @@
 [
   {
-    "name": "澎湖",
-    "name_en": "Penghu",
-    "lat": 23.585,
-    "lon": 119.579,
-    "country": "台灣",
-    "region": "台灣",
-    "quote": "因為我是住澎湖 我媽說 就澎湖的東北季風 那個渣子也很重",
-    "context": "從小居住地，媽媽阻止她買檔車。",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Penghu_County_Montage.png/330px-Penghu_County_Montage.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "金邊",
-    "name_en": "Phnom Penh",
-    "lat": 11.556,
-    "lon": 104.922,
-    "country": "柬埔寨",
-    "region": "亞洲",
-    "quote": "我是從金邊搭巴士 到西貢對不對",
-    "context": "搭巴士前往越南的起點。"
-  },
-  {
-    "name": "胡志明市",
-    "name_en": "Ho Chi Minh City",
-    "lat": 10.762,
-    "lon": 106.66,
+    "name": "達拉",
+    "name_en": "Da Lat",
+    "lat": 11.94,
+    "lon": 108.458,
     "country": "越南",
     "region": "亞洲",
-    "quote": "反正我後來就是我到了胡志明市 然後我有一個朋友 他是法國人",
-    "context": "旅伴會合地，購買二手檔車的城市。"
+    "quote": "達臘它是就是在越南南部山上的一個城市",
+    "context": "法國殖民避暑山城，旅伴相聚、住家庭旅館"
   },
   {
-    "name": "湄公河出海口",
-    "name_en": "Mekong Delta Estuary",
-    "lat": 9.947,
-    "lon": 106.118,
+    "name": "美奈",
+    "name_en": "Mui Ne",
+    "lat": 10.933,
+    "lon": 108.287,
     "country": "越南",
     "region": "亞洲",
-    "quote": "到美工河出海口是不是 欸 這地方也算是吧",
-    "context": "主角騎車前往的海邊，歐洲旅伴在此瘋狂。"
+    "quote": "南部還有一個地方我蠻喜歡是叫那個mine",
+    "context": "可搭吉普車看紅白沙丘的海邊小鎮"
+  },
+  {
+    "name": "會安",
+    "name_en": "Hoi An",
+    "lat": 15.88,
+    "lon": 108.338,
+    "country": "越南",
+    "region": "亞洲",
+    "quote": "後來我也有去到會安，會安是一個我覺得就是古都的那種感覺",
+    "context": "燈籠古城，訂做衣服與華人老建築"
+  },
+  {
+    "name": "下龍灣",
+    "name_en": "Ha Long Bay",
+    "lat": 20.91,
+    "lon": 107.184,
+    "country": "越南",
+    "region": "亞洲",
+    "quote": "下龍灣是一個非常多中國觀光客的地方",
+    "context": "海鮮聞名，騎機車搭貨輪上島卻去錯島",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Ha_Long_Bay_in_2019.jpg/330px-Ha_Long_Bay_in_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "沙壩",
+    "name_en": "Sapa",
+    "lat": 22.336,
+    "lon": 103.844,
+    "country": "越南",
+    "region": "亞洲",
+    "quote": "其實我想要騎到那個Sapa",
+    "context": "梯田與民宿體驗，因車禍而放棄前往"
   },
   {
     "name": "胡志明公路",
     "name_en": "Ho Chi Minh Highway",
-    "lat": 14.545,
-    "lon": 107.828,
+    "lat": 15.5,
+    "lon": 107.8,
     "country": "越南",
     "region": "亞洲",
-    "quote": "然後我們就一路沿著 非常有名的胡志明公路 一直騎到北邊",
-    "context": "越南最美公路，騎車從南到北的主要路線。"
+    "quote": "我們就一路沿著非常有名的胡志明公路一直騎到北邊",
+    "context": "南北縱貫主幹道，路況佳可選山路或海路"
   },
   {
-    "name": "大叻",
-    "name_en": "Da Lat",
-    "lat": 11.94,
-    "lon": 108.441,
+    "name": "胡志明市",
+    "name_en": "Ho Chi Minh City",
+    "lat": 10.776,
+    "lon": 106.701,
     "country": "越南",
     "region": "亞洲",
-    "quote": "我喜歡的鄉鎮都是比較靠山的 像是大叻它是就是在越南南部",
-    "context": "越南南部山城，法式殖民風情，可以泛舟。"
-  },
-  {
-    "name": "美奈",
-    "name_en": "Mũi Né",
-    "lat": 10.957,
-    "lon": 108.27,
-    "country": "越南",
-    "region": "亞洲",
-    "quote": "南部還有一個地方 我蠻喜歡是叫那個Mũi Né 它是可以就是你可以搭吉普車",
-    "context": "可以搭吉普車看沙丘的海邊景點。"
-  },
-  {
-    "name": "美奈沙丘",
-    "name_en": "Mũi Né Sand Dunes",
-    "lat": 10.961,
-    "lon": 108.281,
-    "country": "越南",
-    "region": "亞洲",
-    "quote": "牠有沙丘就是一邊紅色的一邊白色的",
-    "context": "美奈的特色，分紅色和白色沙丘。"
-  },
-  {
-    "name": "會安",
-    "name_en": "Hội An",
-    "lat": 15.879,
-    "lon": 108.336,
-    "country": "越南",
-    "region": "亞洲",
-    "quote": "會安是一個我覺得就是古都的那種感覺 就全部都是燈籠啊",
-    "context": "中越古城，以燈籠、河道和訂做衣服聞名。"
+    "quote": "我到了胡志明市，然後我有一個朋友",
+    "context": "買二手檔車的出發點，市區騎車驚險"
   },
   {
     "name": "河內",
@@ -97,29 +77,18 @@
     "lon": 105.854,
     "country": "越南",
     "region": "亞洲",
-    "quote": "後來我一路騎到北邊 騎到河內之後 我們在河內待了大概一兩天",
-    "context": "北越終點，辦理簽證延長，觀光購物城市。",
+    "quote": "騎到河內之後我們在河內待了大概一兩天",
+    "context": "北越觀光城市，辦簽證延期、賣車",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Hanoi_skyline_with_Ba_Vi_Mountain.jpg/330px-Hanoi_skyline_with_Ba_Vi_Mountain.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "下龍灣",
-    "name_en": "Ha Long Bay",
-    "lat": 20.91,
-    "lon": 107.183,
-    "country": "越南",
+    "name": "金邊",
+    "name_en": "Phnom Penh",
+    "lat": 11.562,
+    "lon": 104.916,
+    "country": "柬埔寨",
     "region": "亞洲",
-    "quote": "我就直接去下龍灣這樣子 然後下龍灣是一個非常多中國觀光客的地方",
-    "context": "以海鮮和搭船聞名的觀光景點，觀光客多。",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Ha_Long_Bay_in_2019.jpg/330px-Ha_Long_Bay_in_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "沙壩",
-    "name_en": "Sa Pa",
-    "lat": 22.338,
-    "lon": 103.854,
-    "country": "越南",
-    "region": "亞洲",
-    "quote": "其實我想要騎到那個Sapa Sapa",
-    "context": "原計劃前往的北越山城，以梯田與姑娘聞名。"
+    "quote": "你是從金邊搭巴士到西貢對不對",
+    "context": "搭巴士過海關赴越南的出發地，被退回"
   }
 ]

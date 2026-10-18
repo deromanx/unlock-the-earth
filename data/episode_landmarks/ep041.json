@@ -2,121 +2,113 @@
   {
     "name": "庫斯科",
     "name_en": "Cusco",
-    "lat": -13.5221,
-    "lon": -71.9534,
+    "lat": -13.532,
+    "lon": -71.967,
     "country": "秘魯",
     "region": "美洲",
-    "quote": "原本是庫斯科王國",
-    "context": "印加帝國前首都"
+    "quote": "庫斯科王國 現在目前還是在秘魯裡面",
+    "context": "印加帝國首都，傳說建國之地，有城牆與神殿"
   },
   {
     "name": "馬丘比丘",
     "name_en": "Machu Picchu",
-    "lat": -13.1631,
+    "lat": -13.163,
     "lon": -72.545,
     "country": "秘魯",
     "region": "美洲",
-    "quote": "他還可以在那個地方死守幾十年",
-    "context": "印加貴族休養/度假之地"
+    "quote": "最後跑到山上 馬丘比丘這個地方",
+    "context": "印加貴族度假地，末代君主逃亡避難處"
   },
   {
     "name": "的的喀喀湖",
     "name_en": "Lake Titicaca",
-    "lat": -16.0,
-    "lon": -69.0,
-    "country": "秘魯/玻利維亞",
+    "lat": -15.835,
+    "lon": -69.368,
+    "country": "秘魯／玻利維亞",
     "region": "美洲",
-    "quote": "從Titikaka Lake一個很高的高山湖泊",
-    "context": "印加傳說發源地"
+    "quote": "他的開國君主是從Titikaka Lake",
+    "context": "印加傳說的發源地，高山湖泊"
   },
   {
     "name": "太陽島",
-    "name_en": "Isla de Sol",
-    "lat": -16.1667,
-    "lon": -69.0667,
+    "name_en": "Isla del Sol",
+    "lat": -16.017,
+    "lon": -69.147,
     "country": "玻利維亞",
     "region": "美洲",
-    "quote": "叫做Isla de Sol就是太陽島那邊出來的",
-    "context": "印加發源傳說中的島嶼"
-  },
-  {
-    "name": "烏尤尼鹽沼",
-    "name_en": "Salar de Uyuni",
-    "lat": -20.1333,
-    "lon": -67.45,
-    "country": "玻利維亞",
-    "region": "美洲",
-    "quote": "就是著名的天空之景",
-    "context": "世界上最大的鹽湖，鏡面效果"
-  },
-  {
-    "name": "普諾",
-    "name_en": "Puno",
-    "lat": -15.837,
-    "lon": -70.0155,
-    "country": "秘魯",
-    "region": "美洲",
-    "quote": "到滴滴克拉類秘魯側的普諾",
-    "context": "提提卡卡湖秘魯側城市"
-  },
-  {
-    "name": "科帕卡瓦納",
-    "name_en": "Copacabana",
-    "lat": -16.1764,
-    "lon": -69.0961,
-    "country": "玻利維亞",
-    "region": "美洲",
-    "quote": "保利比亞那一側的Coppa Cabana",
-    "context": "提提卡卡湖玻利維亞側城鎮"
+    "quote": "太陽島就是說 當初就是太陽神他出來的地方",
+    "context": "印加傳說太陽神誕生處，作者健行一日",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Isladelsol.jpg/330px-Isladelsol.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "月亮島",
     "name_en": "Isla de la Luna",
-    "lat": -16.2167,
-    "lon": -69.0667,
+    "lat": -16.003,
+    "lon": -69.19,
     "country": "玻利維亞",
     "region": "美洲",
-    "quote": "另一個是月亮島",
-    "context": "提提卡卡湖上的島嶼"
+    "quote": "一個叫做月亮島 另一個是太陽島",
+    "context": "與太陽島並列的湖中島"
   },
   {
-    "name": "尤加頓半島",
-    "name_en": "Yucatan Peninsula",
-    "lat": 20.5937,
-    "lon": -89.1897,
-    "country": "墨西哥",
+    "name": "烏尤尼鹽湖（天空之鏡）",
+    "name_en": "Salar de Uyuni",
+    "lat": -20.134,
+    "lon": -67.489,
+    "country": "玻利維亞",
     "region": "美洲",
-    "quote": "應該是集中在尤加頓半島那幾個國家",
-    "context": "瑪雅古文明集中區域"
+    "quote": "就是著名的天空之景",
+    "context": "世界最大鹽湖，日落追水團與三日遊"
   },
   {
-    "name": "聖彼得堡",
-    "name_en": "Saint Petersburg",
-    "lat": 59.9343,
-    "lon": 30.3351,
-    "country": "俄羅斯",
-    "region": "歐洲",
-    "quote": "然後在聖彼得堡又在一起旅行",
-    "context": "與前旅友共遊的地點"
-  },
-  {
-    "name": "庫斯科太陽神殿",
-    "name_en": "Qorikancha (Temple of the Sun)",
-    "lat": -13.5156,
-    "lon": -71.9747,
+    "name": "十二角石",
+    "name_en": "Stone of Twelve Angles",
+    "lat": -13.5158,
+    "lon": -71.9751,
     "country": "秘魯",
     "region": "美洲",
-    "quote": "庫斯科的太陽神殿",
-    "context": "原為鋪滿黃金的神殿"
+    "quote": "那些石頭其中有一顆 你可以看到數出來它有十二個角",
+    "context": "庫斯科舊城牆上的著名磨石工藝",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Cusco%2C_Peru.png/330px-Cusco%2C_Peru.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "百內國家公園",
-    "name_en": "Torres del Paine National Park",
-    "lat": -51.0,
-    "lon": -72.9,
-    "country": "智利",
+    "name": "太陽神殿（科里坎查）",
+    "name_en": "Qorikancha",
+    "lat": -13.5189,
+    "lon": -71.9753,
+    "country": "秘魯",
     "region": "美洲",
-    "quote": "之後下面有一些很漂亮的百內國家公園",
-    "context": "著名國家公園，極致美景"
+    "quote": "把庫斯科的太陽神殿 雖然現在還在但是以前是鋪滿黃金",
+    "context": "原鋪滿黃金，被西班牙人掠奪"
+  },
+  {
+    "name": "普諾",
+    "name_en": "Puno",
+    "lat": -15.84,
+    "lon": -70.028,
+    "country": "秘魯",
+    "region": "美洲",
+    "quote": "坐巴士到 滴滴克拉類秘魯側的 普諾",
+    "context": "的的喀喀湖秘魯側城鎮，過夜處"
+  },
+  {
+    "name": "科帕卡巴納",
+    "name_en": "Copacabana",
+    "lat": -16.166,
+    "lon": -69.087,
+    "country": "玻利維亞",
+    "region": "美洲",
+    "quote": "我就跑到保利比亞那一側的 Coppa Cabana",
+    "context": "玻利維亞側湖畔城鎮，過海關後抵達"
+  },
+  {
+    "name": "熱水鎮",
+    "name_en": "Aguas Calientes",
+    "lat": -13.155,
+    "lon": -72.526,
+    "country": "秘魯",
+    "region": "美洲",
+    "quote": "才能到山下的熱水鎮",
+    "context": "馬丘比丘山下小鎮，省錢路線終點"
   }
 ]

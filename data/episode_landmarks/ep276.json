@@ -1,62 +1,72 @@
 [
   {
-    "name": "吉布地市",
-    "name_en": "Djibouti City",
-    "lat": 11.6265,
-    "lon": 43.1456,
-    "country": "吉布地",
-    "region": "非洲",
-    "quote": "吉布地作為耳朵旅行社來節目上分享的主題，實在再適合不過。",
-    "context": "本集主要討論的國家，有港口與戰略位置。"
-  },
-  {
-    "name": "吉布地港",
-    "name_en": "Port of Djibouti",
-    "lat": 11.605,
-    "lon": 43.1569,
-    "country": "吉布地",
-    "region": "非洲",
-    "quote": "他一個小國家，但是他有一個天然兩港，叫吉布地港。",
-    "context": "吉布地最重要的港口，負責伊索比亞進出口。"
-  },
-  {
-    "name": "阿少湖",
+    "name": "阿薩勒湖",
     "name_en": "Lake Assal",
-    "lat": 11.675,
-    "lon": 42.7833,
+    "lat": 11.658,
+    "lon": 42.411,
     "country": "吉布地",
     "region": "非洲",
     "quote": "一個是阿少湖，就是比較靠上面的，它是一個非常大的岩湖",
-    "context": "吉布地最鹹的湖泊，特殊礦物質，觀光景點。"
+    "context": "世界最鹹湖泊之一，白色鹽結晶地景，本集核心景點"
   },
   {
     "name": "阿貝湖",
     "name_en": "Lake Abbe",
-    "lat": 11.023,
-    "lon": 42.006,
+    "lat": 11.187,
+    "lon": 41.79,
     "country": "吉布地",
     "region": "非洲",
-    "quote": "另外一個是叫做阿北湖，或是你要叫阿北湖",
-    "context": "邊界湖，奇特地形，疑似電影拍攝地。"
+    "quote": "另外一個是叫做阿北湖，在跟伊索比亞邊界的那個湖",
+    "context": "火山地熱惡地地形，火烈鳥與石灰岩煙囪，核心景點"
+  },
+  {
+    "name": "吉布地港",
+    "name_en": "Port of Djibouti",
+    "lat": 11.6,
+    "lon": 43.135,
+    "country": "吉布地",
+    "region": "非洲",
+    "quote": "他有一個天然良港，叫吉布地港",
+    "context": "伊索比亞進出口命脈，國家經濟基礎"
+  },
+  {
+    "name": "曼德海峽",
+    "name_en": "Bab-el-Mandeb Strait",
+    "lat": 12.583,
+    "lon": 43.333,
+    "country": "吉布地",
+    "region": "非洲",
+    "quote": "就是曼德海峽",
+    "context": "紅海通往印度洋的咽喉，吉布地地理優勢所在"
+  },
+  {
+    "name": "吉布地市",
+    "name_en": "Djibouti City",
+    "lat": 11.589,
+    "lon": 43.145,
+    "country": "吉布地",
+    "region": "非洲",
+    "quote": "我自己下飛機，然後搭車進的那個吉布地市",
+    "context": "首都，駐軍、賭場飯店、禁拍照與破舊法式建築"
+  },
+  {
+    "name": "阿布爾瑪壁畫",
+    "name_en": "Abourma Rock Art Site",
+    "lat": 11.957,
+    "lon": 42.7,
+    "country": "吉布地",
+    "region": "非洲",
+    "quote": "他有一個阿布爾瑪的壁畫",
+    "context": "新石器時代動物壁畫，東非最大規模，有望成世界遺產"
   },
   {
     "name": "塔朱拉",
     "name_en": "Tadjoura",
-    "lat": 11.7744,
-    "lon": 42.9571,
+    "lat": 11.785,
+    "lon": 42.884,
     "country": "吉布地",
     "region": "非洲",
-    "quote": "吉布地在塔朱拉附近，他有一個阿布爾瑪的壁畫",
-    "context": "吉布地沿海城鎮，有重要史前壁畫。"
-  },
-  {
-    "name": "阿布爾瑪岩畫",
-    "name_en": "Abourma rock art",
-    "lat": 11.7744,
-    "lon": 42.9571,
-    "country": "吉布地",
-    "region": "非洲",
-    "quote": "吉布地在塔朱拉附近，他有一個阿布爾瑪的壁畫",
-    "context": "東非最長最大的史前壁畫，描繪動物。"
+    "quote": "剛剛因為他有提到塔朱拉",
+    "context": "北岸小城，阿布爾瑪壁畫所在地區"
   }
 ]

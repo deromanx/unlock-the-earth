@@ -1,123 +1,113 @@
 [
   {
-    "name": "宿霧市",
-    "name_en": "Cebu City",
-    "lat": 10.3157,
-    "lon": 123.8805,
+    "name": "宿霧",
+    "name_en": "Cebu",
+    "lat": 10.317,
+    "lon": 123.885,
     "country": "菲律賓",
     "region": "亞洲",
-    "quote": "其實我主要是在宿物啦，對，那他就是在菲律賓的中部",
-    "context": "介紹在菲律賓的主要據點與長期居住地"
+    "quote": "其实我主要是在宿物啦",
+    "context": "主持來賓留學與旅行的主要據點"
   },
   {
-    "name": "資生堂島 (草衙島)",
-    "name_en": "Caohagan Island (Shiseido Island)",
-    "lat": 10.26,
-    "lon": 123.95,
+    "name": "資生堂島",
+    "name_en": "Shiseido Island (Nalusuan area)",
+    "lat": 10.215,
+    "lon": 123.99,
     "country": "菲律賓",
     "region": "亞洲",
-    "quote": "像我那時候去了一個很特別的島，就是資深堂島，它是被日本人買下來的嘛",
-    "context": "被日本人買下，有特殊背景的小島"
-  },
-  {
-    "name": "薄荷島",
-    "name_en": "Bohol Island",
-    "lat": 9.7719,
-    "lon": 123.8576,
-    "country": "菲律賓",
-    "region": "亞洲",
-    "quote": "那個薄荷島他們也有自己的語言",
-    "context": "有自己的語言，且是觀光熱點，有海陸行程"
-  },
-  {
-    "name": "馬尼拉",
-    "name_en": "Manila",
-    "lat": 14.5995,
-    "lon": 120.9842,
-    "country": "菲律賓",
-    "region": "亞洲",
-    "quote": "他一到馬尼拉下飛機，連飛機還沒下來直接爆頭",
-    "context": "官方語言所在地，也是政治歷史事件發生地",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Cityscape_of_Manila%2C_2025_%2801%29.jpg/330px-Cityscape_of_Manila%2C_2025_%2801%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    "quote": "我那时候去了一个很特别的岛 就是资深堂岛",
+    "context": "被日本出版社老闆買下的小島，設有學校"
   },
   {
     "name": "聖嬰大教堂",
     "name_en": "Basilica del Santo Niño",
-    "lat": 10.2929,
-    "lon": 123.9017,
+    "lat": 10.294,
+    "lon": 123.902,
     "country": "菲律賓",
     "region": "亞洲",
-    "quote": "所以是許有一個聖陰大教堂，就是以這個命名",
-    "context": "紀念聖嬰耶穌，舉辦全亞洲最大節慶的地點"
+    "quote": "所以是许有一个圣阴大教堂 就是以这个命名",
+    "context": "供奉嬰兒耶穌像，聖嬰節的核心"
   },
   {
     "name": "馬拉帕斯瓜島",
     "name_en": "Malapascua Island",
-    "lat": 11.332,
-    "lon": 124.116,
+    "lat": 11.334,
+    "lon": 124.113,
     "country": "菲律賓",
     "region": "亞洲",
-    "quote": "你可以去那個北冰有個島，叫做馬拉帕斯瓜",
-    "context": "以深潛看長尾鯊聞名的島嶼"
+    "quote": "那个北冰有个岛 叫做 马拉帕斯瓜",
+    "context": "潛水看長尾鯊的島嶼"
   },
   {
-    "name": "奧斯陸",
+    "name": "奧斯陸（鯨鯊共游）",
     "name_en": "Oslob",
-    "lat": 9.505,
-    "lon": 123.389,
+    "lat": 9.46,
+    "lon": 123.383,
     "country": "菲律賓",
     "region": "亞洲",
-    "quote": "他們一定會去奧斯路，奧斯路他們就是跟金沙一起游泳",
-    "context": "以與鯨鯊共游行程聞名"
+    "quote": "他们一定会去奥斯路",
+    "context": "跟團必去的鯨鯊共游景點"
+  },
+  {
+    "name": "薄荷島",
+    "name_en": "Bohol",
+    "lat": 9.85,
+    "lon": 124.1435,
+    "country": "菲律賓",
+    "region": "亞洲",
+    "quote": "它旁边有一个叫做薄荷岛的",
+    "context": "生態與山海行程豐富的大島",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Chocolate_Hills_Bohol_Philippines.jpg/330px-Chocolate_Hills_Bohol_Philippines.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "班塔岩島",
     "name_en": "Bantayan Island",
-    "lat": 11.2333,
-    "lon": 123.7167,
+    "lat": 11.168,
+    "lon": 123.722,
     "country": "菲律賓",
     "region": "亞洲",
-    "quote": "我自己個人很喜歡的一個島也在北邊，叫做班塔岩島",
-    "context": "主持人推薦的私房景點，人少物價合理，適合極限運動"
+    "quote": "叫做班塔岩岛",
+    "context": "人少景美、可玩極限運動的推薦小島"
   },
   {
-    "name": "莫阿爾博阿爾",
+    "name": "莫阿爾博阿",
     "name_en": "Moalboal",
-    "lat": 9.94,
-    "lon": 123.36,
+    "lat": 9.949,
+    "lon": 123.397,
     "country": "菲律賓",
     "region": "亞洲",
-    "quote": "還有一個點就是沙丁魚，就是大家一定會去莫保，莫保去看沙丁魚",
-    "context": "以沙丁魚風暴聞名的潛水勝地"
+    "quote": "大家一定会去莫保 去看沙丁鱼",
+    "context": "沙丁魚風暴潛水勝地"
   },
   {
     "name": "卡瓦桑瀑布",
     "name_en": "Kawasan Falls",
-    "lat": 9.8058,
-    "lon": 123.3697,
+    "lat": 9.803,
+    "lon": 123.377,
     "country": "菲律賓",
     "region": "亞洲",
-    "quote": "它附近有一個叫做Kawasan 4，Kawasan 4 Kawasan的這個瀑布",
-    "context": "體驗跳瀑布、溯溪行程的天然瀑布"
+    "quote": "附近有一个叫做 Kawasan 的这个瀑布",
+    "context": "六小時跳瀑布溯溪行程"
   },
   {
-    "name": "西基霍爾島",
+    "name": "錫基霍爾島",
     "name_en": "Siquijor Island",
-    "lat": 9.1714,
-    "lon": 123.5709,
+    "lat": 9.1999,
+    "lon": 123.515,
     "country": "菲律賓",
     "region": "亞洲",
-    "quote": "那我要推薦一個很特別的地方，它叫做西基島",
-    "context": "被稱為女巫島，有愛情靈藥傳說的獨特島嶼"
+    "quote": "那我要推荐一个很特别的地方 它叫做西基岛",
+    "context": "女巫島，賣愛情靈藥，騎摩托環島"
   },
   {
     "name": "杜馬蓋地",
     "name_en": "Dumaguete",
-    "lat": 9.3094,
-    "lon": 123.3088,
+    "lat": 9.3068,
+    "lon": 123.3054,
     "country": "菲律賓",
     "region": "亞洲",
-    "quote": "先搭車到杜馬蓋地，然後搭船到杜馬蓋地",
-    "context": "前往西基霍爾島的交通轉運站"
+    "quote": "然后搭船到杜马盖地",
+    "context": "前往錫基霍爾島的轉乘港口城市"
   }
 ]

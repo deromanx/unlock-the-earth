@@ -3,41 +3,71 @@
     "name": "吳哥窟",
     "name_en": "Angkor Wat",
     "lat": 13.4125,
-    "lon": 103.8675,
+    "lon": 103.867,
     "country": "柬埔寨",
     "region": "亞洲",
-    "quote": "保留的雕刻是蠻完整的，所以每一面牆都有他的故事",
-    "context": "世界文化遺產，寺廟群，有豐富雕刻故事",
+    "quote": "因为真的是雕刻是吴歌里面一个精华",
+    "context": "本集核心，作者造訪三四十次，介紹雕刻、歷史與旅遊規劃",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Angkor_Wat.jpg/330px-Angkor_Wat.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "仙利",
+    "name": "暹粒",
     "name_en": "Siem Reap",
-    "lat": 13.36,
-    "lon": 103.85,
+    "lat": 13.3633,
+    "lon": 103.8564,
     "country": "柬埔寨",
     "region": "亞洲",
-    "quote": "我那時候下班最大的興趣就是騎腳踏車，繞一繞市區老城區，我就很舒壓",
-    "context": "吳哥窟旁的旅遊小鎮，建築受限"
+    "quote": "仙利就是吴歌窟旁边的那个小镇",
+    "context": "吳哥窟旁小鎮，建築限高、沿河步道、遊客休閒氛圍"
   },
   {
-    "name": "仙利河",
+    "name": "金邊",
+    "name_en": "Phnom Penh",
+    "lat": 11.5564,
+    "lon": 104.9282,
+    "country": "柬埔寨",
+    "region": "亞洲",
+    "quote": "金边就是首都嘛",
+    "context": "柬埔寨首都，來賓的第一站與現居地，交通與市容印象"
+  },
+  {
+    "name": "老城區酒吧街",
+    "name_en": "Pub Street, Siem Reap",
+    "lat": 13.3544,
+    "lon": 103.8559,
+    "country": "柬埔寨",
+    "region": "亞洲",
+    "quote": "去市区老城区POP STREET绕一绕",
+    "context": "暹粒老城區熱鬧街區，下班騎車散心之處"
+  },
+  {
+    "name": "暹粒河",
     "name_en": "Siem Reap River",
-    "lat": 13.362,
-    "lon": 103.855,
+    "lat": 13.36,
+    "lon": 103.859,
     "country": "柬埔寨",
     "region": "亞洲",
-    "quote": "仙利的市區是被那個仙利河貫穿的，對，仙利河整治的超漂亮。",
-    "context": "貫穿市區，河岸步道舒適乾淨"
+    "quote": "先利河整治的超漂亮",
+    "context": "貫穿暹粒市區，沿河步道舒適乾淨"
   },
   {
-    "name": "巴戎寺",
-    "name_en": "Bayon Temple",
-    "lat": 13.4475,
-    "lon": 103.8645,
+    "name": "吳哥通王城",
+    "name_en": "Angkor Thom",
+    "lat": 13.4411,
+    "lon": 103.8597,
     "country": "柬埔寨",
     "region": "亞洲",
-    "quote": "人面然後就跟那個樹纏到一起，展上出來就很像那個佛光普照的樣子",
-    "context": "寺廟中的人面雕刻與樹木纏繞景象"
+    "quote": "这个吴哥大吴哥有几个城门",
+    "context": "周達觀記載大吳哥城門與方位，也有人面塔與樹纏繞景象"
+  },
+  {
+    "name": "吳哥博物館",
+    "name_en": "Angkor National Museum",
+    "lat": 13.3667,
+    "lon": 103.8603,
+    "country": "柬埔寨",
+    "region": "亞洲",
+    "quote": "因为吴歌那边有吴歌博物馆",
+    "context": "館內歷史描述少，多引述《真臘風土記》"
   }
 ]

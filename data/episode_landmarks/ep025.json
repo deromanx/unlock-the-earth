@@ -1,34 +1,45 @@
 [
   {
-    "name": "仰光",
-    "name_en": "Yangon",
-    "lat": 16.79,
-    "lon": 96.16,
+    "name": "大金塔",
+    "name_en": "Shwedagon Pagoda",
+    "lat": 16.798,
+    "lon": 96.149,
     "country": "緬甸",
     "region": "亞洲",
-    "quote": "所以那時候你的工作地點就是在陽光",
-    "context": "Speaker's 2+ year experience.",
+    "quote": "比如說大金塔在那邊就做一個下午這樣子",
+    "context": "當地人每週去寺廟的休閒方式，以大金塔為例"
+  },
+  {
+    "name": "仰光",
+    "name_en": "Yangon",
+    "lat": 16.841,
+    "lon": 96.173,
+    "country": "緬甸",
+    "region": "亞洲",
+    "quote": "陽光是緬甸的首都他確實是第一大城",
+    "context": "講者工作與生活的主要城市，房租、停電、塞車",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/ShwedagonPagoda.jpg/330px-ShwedagonPagoda.jpg"
+  },
+  {
+    "name": "奈比多",
+    "name_en": "Naypyidaw",
+    "lat": 19.763,
+    "lon": 96.078,
+    "country": "緬甸",
+    "region": "亞洲",
+    "quote": "他政治上的首都叫做Nabito然後中文翻叫奈比多",
+    "context": "緬甸政治首都，遊客少、很無聊",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/NPT_Water_Fountain.jpg/330px-NPT_Water_Fountain.jpg"
   },
   {
     "name": "毛淡棉",
     "name_en": "Mawlamyine",
-    "lat": 16.493,
-    "lon": 97.626,
+    "lat": 16.491,
+    "lon": 97.628,
     "country": "緬甸",
     "region": "亞洲",
-    "quote": "然後南部我們會去南部的算第一大城嘛,叫毛淡棉",
-    "context": "Visited for business trips.",
+    "quote": "應該是毛蛋棉就是算南部的一個二線城市",
+    "context": "出差二線城市，客戶現場殺雞借廚房煮雞",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Kyaikthanlan_Pagoda-15.jpg/330px-Kyaikthanlan_Pagoda-15.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "大金塔",
-    "name_en": "Shwedagon Pagoda",
-    "lat": 16.795,
-    "lon": 96.145,
-    "country": "緬甸",
-    "region": "亞洲",
-    "quote": "每個禮拜就會去那個廟裡,就比如說大金塔",
-    "context": "Local entertainment and religious site."
   }
 ]

@@ -1,52 +1,52 @@
 [
   {
-    "name": "布朗斯堡",
-    "name_en": "Brunsburg",
-    "lat": 3.5,
-    "lon": -56.0,
-    "country": "苏里南",
+    "name": "帕拉馬利波",
+    "name_en": "Paramaribo",
+    "lat": 5.852,
+    "lon": -55.204,
+    "country": "蘇利南",
     "region": "美洲",
-    "quote": "比如像是Brunsburg是一个很出名的",
-    "context": "南部雨林中的著名景点"
+    "quote": "我在帕拉玛利波待了三个礼拜",
+    "context": "蘇利南首都，荷蘭殖民木造建築、多元文化與數位游牧據點"
   },
   {
-    "name": "马龙人村落",
-    "name_en": "Maroon villages",
-    "lat": 3.5,
-    "lon": -56.0,
-    "country": "苏里南",
+    "name": "24 Hostel",
+    "name_en": "24 Hostel",
+    "lat": 5.8225,
+    "lon": -55.1655,
+    "country": "蘇利南",
     "region": "美洲",
-    "quote": "非常多的就是马龙人的村落",
-    "context": "南部雨林，西非奴隶后裔居住地"
+    "quote": "直接去这个24hostel你不用找了",
+    "context": "蘇利南唯一青年旅館，認識當地人的據點"
   },
   {
-    "name": "中国市集",
-    "name_en": "Chinese Market",
-    "lat": 5.819,
-    "lon": -55.187,
-    "country": "苏里南",
+    "name": "中國市集",
+    "name_en": "Chinese Market, Paramaribo",
+    "lat": 5.8265,
+    "lon": -55.1675,
+    "country": "蘇利南",
     "region": "美洲",
     "quote": "一个是中国的",
-    "context": "华人（客家人）聚集的周末市集"
+    "context": "週末市集，客家移民後裔的小吃聚集地"
   },
   {
     "name": "爪哇市集",
-    "name_en": "Javanese Market",
-    "lat": 5.819,
-    "lon": -55.187,
-    "country": "苏里南",
+    "name_en": "Javanese Market, Paramaribo",
+    "lat": 5.8235,
+    "lon": -55.169,
+    "country": "蘇利南",
     "region": "美洲",
-    "quote": "一个是Javanese",
-    "context": "爪哇族裔聚集的周末市集"
+    "quote": "一个是Javanese就是爪哇市集",
+    "context": "週末小吃市集，印尼風味美食"
   },
   {
-    "name": "24hostel",
-    "name_en": "24hostel",
-    "lat": 5.83,
-    "lon": -55.195,
-    "country": "苏里南",
+    "name": "布朗斯堡",
+    "name_en": "Brownsberg Nature Park",
+    "lat": 4.9333,
+    "lon": -55.1833,
+    "country": "蘇利南",
     "region": "美洲",
-    "quote": "这个叫做24hostel",
-    "context": "旅馆，是认识当地人和创业者的据点"
+    "quote": "Brunsburg是一个很出名的",
+    "context": "南部雨林景點，可觀賞野生動物"
   }
 ]

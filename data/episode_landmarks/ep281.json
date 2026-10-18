@@ -1,123 +1,102 @@
 [
   {
-    "name": "倫敦",
-    "name_en": "London",
-    "lat": 51.5074,
-    "lon": -0.1278,
-    "country": "英國",
-    "region": "歐洲",
-    "quote": "所以你什麼時候離開倫敦的",
-    "context": "在倫敦看球，討論Pub文化",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/330px-London_Skyline_%28125508655%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "Ye Olde Mitre",
-    "name_en": "Ye Olde Mitre",
-    "lat": 51.5164,
-    "lon": -0.1142,
-    "country": "英國",
-    "region": "歐洲",
-    "quote": "另一間更老 倫敦最老的好像是13 13還14年就蓋好了",
-    "context": "倫敦最老的Pub之一，14-15世紀"
-  },
-  {
-    "name": "The Lamb and Flag",
+    "name": "檸檬與旗幟酒吧",
     "name_en": "The Lamb and Flag",
-    "lat": 51.5379,
-    "lon": -0.1315,
+    "lat": 51.5128,
+    "lon": -0.126,
     "country": "英國",
     "region": "歐洲",
-    "quote": "有一間像Lemon Flag它好像是1628年吧",
-    "context": "位於科芬園，1628年建造的Pub"
+    "quote": "它就在科芬园 就非常方便",
+    "context": "倫敦科芬園老酒館，命名與宗教典故"
+  },
+  {
+    "name": "古老主教冠酒吧",
+    "name_en": "Ye Olde Mitre",
+    "lat": 51.5191,
+    "lon": -0.1068,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "另外一间是我刚才说的 另外一间很老的叫做Yeometer",
+    "context": "倫敦最古老酒館之一，名稱源自主教帽"
   },
   {
     "name": "科芬園",
     "name_en": "Covent Garden",
-    "lat": 51.51,
-    "lon": -0.1236,
+    "lat": 51.5117,
+    "lon": -0.124,
     "country": "英國",
     "region": "歐洲",
-    "quote": "因為它就在科芬園",
-    "context": "The Lamb and Flag Pub的所在地"
+    "quote": "因为它就在科芬园",
+    "context": "羔羊與旗幟酒吧所在的倫敦街區"
   },
   {
-    "name": "Hands in Hand",
-    "name_en": "Hands in Hand",
-    "lat": 51.4348,
-    "lon": -0.2009,
+    "name": "溫布頓山",
+    "name_en": "Wimbledon Hill",
+    "lat": 51.4214,
+    "lon": -0.2064,
     "country": "英國",
     "region": "歐洲",
-    "quote": "像我住在溫布頓 溫布頓山 那山上就會有一個 不錯的Pub叫Hands in Hand",
-    "context": "溫布頓山上的Pub，提供餐點"
+    "quote": "我住在文布顿 文布顿山",
+    "context": "主持人居住地，山上有Hand in Hand酒吧"
   },
   {
-    "name": "溫布頓",
-    "name_en": "Wimbledon",
-    "lat": 51.4237,
-    "lon": -0.2054,
+    "name": "手牽手酒吧",
+    "name_en": "The Hand in Hand, Wimbledon",
+    "lat": 51.426,
+    "lon": -0.22,
     "country": "英國",
     "region": "歐洲",
-    "quote": "像我住在溫布頓",
-    "context": "主持人居住的區域"
+    "quote": "叫Hands in Hand",
+    "context": "溫布頓山上以午餐聞名的酒吧"
   },
   {
-    "name": "Royal Tunbridge Wells",
-    "name_en": "Royal Tunbridge Wells",
-    "lat": 51.1304,
-    "lon": 0.174,
+    "name": "米爾安德",
+    "name_en": "Mile End",
+    "lat": 51.5251,
+    "lon": -0.0332,
     "country": "英國",
     "region": "歐洲",
-    "quote": "去那個Royal Tunbridge Wells是一個倫敦外的一個鎮 觀光鎮",
-    "context": "鎮上有歌劇院改建的Pub"
-  },
-  {
-    "name": "皇家劇院 (Royal Tunbridge Wells)",
-    "name_en": "Opera House (Royal Tunbridge Wells)",
-    "lat": 51.1304,
-    "lon": 0.174,
-    "country": "英國",
-    "region": "歐洲",
-    "quote": "把它把過去的一個Opera House 建築物改成Pub",
-    "context": "被改建成Pub的歌劇院"
-  },
-  {
-    "name": "Cross Keys",
-    "name_en": "Cross Keys",
-    "lat": 51.5137,
-    "lon": -0.0862,
-    "country": "英國",
-    "region": "歐洲",
-    "quote": "比如在倫敦像是Cross Key 在我公司旁邊",
-    "context": "前銀行改建的Pub，有金庫裝潢"
-  },
-  {
-    "name": "舊火車站 (改建Pub)",
-    "name_en": "Old Station (converted pub)",
-    "lat": 51.5074,
-    "lon": -0.1278,
-    "country": "英國",
-    "region": "歐洲",
-    "quote": "有一個在靠近那個西倫敦 它原本是一個車站",
-    "context": "由舊火車站改建的Pub"
+    "quote": "是在伦敦的东北那边 Miles End那边",
+    "context": "主持人挑戰果凍鰻魚的地區"
   },
   {
     "name": "泰晤士河",
-    "name_en": "Thames River",
+    "name_en": "River Thames",
     "lat": 51.5074,
-    "lon": -0.1278,
+    "lon": -0.1,
     "country": "英國",
     "region": "歐洲",
-    "quote": "那時候倫敦這個工業城 那裡找得到最多蛋白質的食物呢 就是倫敦的泰伍斯河裡面的鰻魚",
-    "context": "歷史上的鰻魚捕撈地"
+    "quote": "就是伦敦的泰伍斯河 里面的鰻鱼",
+    "context": "工業革命時期鰻魚的來源"
   },
   {
-    "name": "Mile End",
-    "name_en": "Mile End",
-    "lat": 51.526,
-    "lon": -0.0415,
+    "name": "皇家滕布里奇韋爾斯",
+    "name_en": "Royal Tunbridge Wells",
+    "lat": 51.132,
+    "lon": 0.263,
     "country": "英國",
     "region": "歐洲",
-    "quote": "它是在倫敦的東北那邊 Miles End 那邊",
-    "context": "Jellied Eels的銷售地"
+    "quote": "是去那个Royal Tombridge Wells 是一个伦敦外的一个镇",
+    "context": "Wetherspoon由歌劇院改建的酒吧所在"
+  },
+  {
+    "name": "十字鑰匙酒吧",
+    "name_en": "The Crosse Keys, Gracechurch Street",
+    "lat": 51.5128,
+    "lon": -0.084,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "伦敦像是cross key 是在我公司旁边",
+    "context": "由舊銀行改建的Wetherspoon酒吧"
+  },
+  {
+    "name": "慕尼黑啤酒節",
+    "name_en": "Oktoberfest (Theresienwiese)",
+    "lat": 48.1315,
+    "lon": 11.5497,
+    "country": "德國",
+    "region": "歐洲",
+    "quote": "我之前有去那个Octoberfest",
+    "context": "主持人出差順道參加，一公斤啤酒杯"
   }
 ]

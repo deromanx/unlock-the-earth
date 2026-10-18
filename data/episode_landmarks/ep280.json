@@ -1,84 +1,83 @@
 [
   {
-    "name": "金字塔",
-    "name_en": "Pyramids",
+    "name": "吉薩金字塔",
+    "name_en": "Giza Pyramids",
     "lat": 29.9792,
     "lon": 31.1342,
     "country": "埃及",
     "region": "非洲",
-    "quote": "我竟然連金字塔都還沒看過",
-    "context": "本次埃及行程的主要驅動力與目標。",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/01_khafre_north.jpg/330px-01_khafre_north.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "人面石身像",
-    "name_en": "Great Sphinx of Giza",
-    "lat": 29.975,
-    "lon": 31.1375,
-    "country": "埃及",
-    "region": "非洲",
-    "quote": "隔天才發現人面石身像 就在我正前方 但是前一天是霧到 我完全看不到他",
-    "context": "與金字塔群相鄰的重要古蹟。"
+    "quote": "我就想要隔天一大早就去金字塔",
+    "context": "本集核心，母女親眼看金字塔、拍攝紀念照",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Pyramids_of_the_Giza_Necropolis.jpg/330px-Pyramids_of_the_Giza_Necropolis.jpg"
   },
   {
     "name": "大埃及博物館",
     "name_en": "Grand Egyptian Museum",
-    "lat": 29.9745,
-    "lon": 31.1307,
+    "lat": 29.9942,
+    "lon": 31.119,
     "country": "埃及",
     "region": "非洲",
-    "quote": "大埃及博物館裡面因為新的 就是真的感覺比",
-    "context": "展示大量古埃及文物的現代化博物館。"
-  },
-  {
-    "name": "吉薩",
-    "name_en": "Giza",
-    "lat": 29.9792,
-    "lon": 31.1342,
-    "country": "埃及",
-    "region": "非洲",
-    "quote": "然後就直接去住幾殺",
-    "context": "金字塔與人面獅身像所在地，行程住宿點。"
-  },
-  {
-    "name": "開羅",
-    "name_en": "Cairo",
-    "lat": 30.0444,
-    "lon": 31.2357,
-    "country": "埃及",
-    "region": "非洲",
-    "quote": "然後阿曼再去開羅",
-    "context": "埃及的首都，行程中的轉運點。",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Cairo_Opera_House%2C_Al_Hurriyah_Park_and_the_Nile_river_%2814797782354%29.jpg/330px-Cairo_Opera_House%2C_Al_Hurriyah_Park_and_the_Nile_river_%2814797782354%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    "quote": "大埃及博物館就是又新又漂亮",
+    "context": "圖坦卡門黃金面具、七層棺材與混亂的入口管理"
   },
   {
     "name": "黑白沙漠",
     "name_en": "Black and White Desert",
-    "lat": 28.6607,
-    "lon": 28.7077,
+    "lat": 27.35,
+    "lon": 28.15,
     "country": "埃及",
     "region": "非洲",
-    "quote": "所以我是後來回來才去開羅",
-    "context": "以獨特地貌聞名的沙漠保護區。"
+    "quote": "晚上我們就是夜宿白沙漠這樣子",
+    "context": "帳篷露營、星空與晨曦的魔幻體驗"
   },
   {
-    "name": "金魚谷",
-    "name_en": "Whale Valley (Valley of the Whales)",
-    "lat": 27.9541,
-    "lon": 29.0622,
+    "name": "鯨魚谷",
+    "name_en": "Wadi El Hitan (Valley of the Whales)",
+    "lat": 29.27,
+    "lon": 30.04,
     "country": "埃及",
     "region": "非洲",
-    "quote": "因為他就是以前是海裡的地方 現在是變成沙漠",
-    "context": "展示古代海洋生物化石的沙漠景觀。"
+    "quote": "我跟他講說我要去金魚谷",
+    "context": "沙漠中的古鯨魚骨化石，逐一尋看"
   },
   {
     "name": "法尤姆綠洲",
-    "name_en": "Faiyum Oasis",
-    "lat": 29.3064,
-    "lon": 30.6328,
+    "name_en": "Fayoum Oasis",
+    "lat": 29.3084,
+    "lon": 30.8428,
     "country": "埃及",
     "region": "非洲",
-    "quote": "然後回來之後 就帶我們去法幽牧綠洲",
-    "context": "埃及西部沙漠中的重要綠洲。"
+    "quote": "就帶我們去法幽牧綠洲",
+    "context": "沙漠行程結束前的綠洲，用餐與住宿"
+  },
+  {
+    "name": "人面獅身像",
+    "name_en": "Great Sphinx of Giza",
+    "lat": 29.9753,
+    "lon": 31.1376,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "我隔天才發現人面石身像就在我正前方",
+    "context": "大霧中看不見，隔天才發現就在旅館前"
+  },
+  {
+    "name": "水晶山",
+    "name_en": "Crystal Mountain",
+    "lat": 27.05,
+    "lon": 28.55,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "水晶山就真的地上都是水晶",
+    "context": "黑白沙漠行程景點，保護區不可拿水晶"
+  },
+  {
+    "name": "舊埃及博物館",
+    "name_en": "Egyptian Museum (Tahrir)",
+    "lat": 30.0478,
+    "lon": 31.2336,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "舊的埃及博物館在開羅",
+    "context": "被形容像儲藏室，又悶又熱"
   }
 ]

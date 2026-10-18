@@ -2,232 +2,183 @@
   {
     "name": "大稻埕",
     "name_en": "Dadaocheng",
-    "lat": 25.057,
-    "lon": 121.504,
+    "lat": 25.0553,
+    "lon": 121.51,
     "country": "台灣",
     "region": "台灣",
-    "quote": "因為我有一個身份還蠻特別，就是我是在台北的歷史街區，叫做大稻城，這個地方出生長大的。",
-    "context": "主角從小在此長大，創業核心區域"
+    "quote": "我是在台北的这个历史街区叫做大稻城这个地方出生长大的",
+    "context": "主講人家鄉，導覽事業起點與核心街區"
   },
   {
     "name": "迪化街",
     "name_en": "Dihua Street",
-    "lat": 25.0579,
-    "lon": 121.502,
+    "lat": 25.062,
+    "lon": 121.5096,
     "country": "台灣",
     "region": "台灣",
-    "quote": "我发现了台北大稻城迪化街有很多过去发生过的故事。",
-    "context": "大稻城的主要街道，年货大街所在地"
+    "quote": "迪化街只是大稻埕的其中一條街",
+    "context": "外國人熟知的大稻埕代表街道，年貨大街所在"
+  },
+  {
+    "name": "淡水河岸洋樓與領事館遺址",
+    "name_en": "Former Consulates along Tamsui River, Dadaocheng",
+    "lat": 25.0565,
+    "lon": 121.5075,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "當時大部分的這個國領事館都是在淡水河岸的洋樓",
+    "context": "清代各國領事館因快速道路被拆除"
   },
   {
     "name": "艋舺",
-    "name_en": "Mengjia",
-    "lat": 25.034,
-    "lon": 121.494,
+    "name_en": "Bangka (Monga)",
+    "lat": 25.0373,
+    "lon": 121.4995,
     "country": "台灣",
     "region": "台灣",
-    "quote": "一开始我们先从大道城嘛，然后还有艋舺，还有大龙洞。",
-    "context": "岛内散步介绍的老街区之一"
+    "quote": "一開始我們先從大稻埕嘛然後還有艋舺",
+    "context": "早期導覽路線之一，青山王遶境所在"
   },
   {
-    "name": "大龙峒",
+    "name": "大龍峒",
     "name_en": "Dalongdong",
-    "lat": 25.066,
-    "lon": 121.513,
+    "lat": 25.073,
+    "lon": 121.515,
     "country": "台灣",
     "region": "台灣",
-    "quote": "一开始我们先从大道城嘛，然后还有艋舺，还有大龙洞。",
-    "context": "岛内散步介绍的老街区之一"
+    "quote": "或者是算四分之一的大龍峒人",
+    "context": "早期導覽的老街區之一"
   },
   {
-    "name": "北投",
-    "name_en": "Beitou",
-    "lat": 25.13,
-    "lon": 121.5,
+    "name": "二二八和平公園",
+    "name_en": "228 Peace Memorial Park",
+    "lat": 25.0425,
+    "lon": 121.515,
     "country": "台灣",
     "region": "台灣",
-    "quote": "一开始我们先从大道城嘛，然后还有艋舺，还有大龙洞，或者是算四分之一的大龙洞人，北投啊这些。",
-    "context": "岛内散步介绍的区域之一"
+    "quote": "晚上的時候不能去那個當時叫做新公園",
+    "context": "老一輩同志活動場域，同志導覽路線"
   },
   {
-    "name": "德国领事馆遗址",
-    "name_en": "German Consulate Site",
+    "name": "西門紅樓",
+    "name_en": "Red House Theater",
+    "lat": 25.042,
+    "lon": 121.508,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "他為什麼會發生在紅樓",
+    "context": "同志歷史與現今活動空間之一"
+  },
+  {
+    "name": "西門町",
+    "name_en": "Ximending",
+    "lat": 25.042,
+    "lon": 121.507,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "他們為什麼會出現在西門町",
+    "context": "現今同志活動場域的導覽重點",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/%E5%BE%9E%E5%B1%88%E8%87%A3%E6%B0%8F%E8%A5%BF%E9%96%80%E9%96%80%E5%B8%82%E5%88%B0%E9%8C%A2%E6%AB%83%E5%8F%B0%E5%8C%97%E4%B8%AD%E8%8F%AF%E6%96%B0%E9%A4%A8_20211204.jpg/330px-%E5%BE%9E%E5%B1%88%E8%87%A3%E6%B0%8F%E8%A5%BF%E9%96%80%E9%96%80%E5%B8%82%E5%88%B0%E9%8C%A2%E6%AB%83%E5%8F%B0%E5%8C%97%E4%B8%AD%E8%8F%AF%E6%96%B0%E9%A4%A8_20211204.jpg"
+  },
+  {
+    "name": "林森北路",
+    "name_en": "Linsen North Road",
     "lat": 25.056,
-    "lon": 121.5,
+    "lon": 121.527,
     "country": "台灣",
     "region": "台灣",
-    "quote": "所以我们只能带他们到快速道路旁边，到他们间到那个德国领事馆的遗址。",
-    "context": "曾设于大稻城，现为遗址"
+    "quote": "臨森北路條通的酒店導覽",
+    "context": "日式酒店條通文化導覽，由媽媽桑帶領"
   },
   {
-    "name": "美国领事馆遗址",
-    "name_en": "US Consulate Site",
-    "lat": 25.056,
-    "lon": 121.5,
+    "name": "屈尺",
+    "name_en": "Quchi",
+    "lat": 24.94,
+    "lon": 121.54,
     "country": "台灣",
     "region": "台灣",
-    "quote": "领事馆的话，有德国领事馆、美国领事馆、荷兰领事馆、英国领事馆、日本领事馆，还有一个，我忘记。",
-    "context": "曾设于大稻城，现为遗址"
+    "quote": "我們到了這個新店的屈尺",
+    "context": "新店近年熱門導覽路線，水力發電廠所在"
   },
   {
-    "name": "荷兰领事馆遗址",
-    "name_en": "Dutch Consulate Site",
-    "lat": 25.056,
-    "lon": 121.5,
+    "name": "小粗坑發電廠",
+    "name_en": "Xiaocukeng Power Plant",
+    "lat": 24.942,
+    "lon": 121.545,
     "country": "台灣",
     "region": "台灣",
-    "quote": "领事馆的话，有德国领事馆、美国领事馆、荷兰领事馆、英国领事馆、日本领事馆，还有一个，我忘记。",
-    "context": "曾设于大稻城，现为遗址"
+    "quote": "它那邊有個電廠叫小粗坑電廠",
+    "context": "全台第一座水力發電廠，百年仍運作"
   },
   {
-    "name": "英国领事馆遗址",
-    "name_en": "British Consulate Site",
-    "lat": 25.056,
-    "lon": 121.5,
-    "country": "台灣",
-    "region": "台灣",
-    "quote": "领事馆的话，有德国领事馆、美国领事馆、荷兰领事馆、英国领事馆、日本领事馆，还有一个，我忘记。",
-    "context": "曾设于大稻城，现为遗址"
-  },
-  {
-    "name": "日本领事馆遗址",
-    "name_en": "Japanese Consulate Site",
-    "lat": 25.056,
-    "lon": 121.5,
-    "country": "台灣",
-    "region": "台灣",
-    "quote": "领事馆的话，有德国领事馆、美国领事馆、荷兰领事馆、英国领事馆、日本领事馆，还有一个，我忘记。",
-    "context": "曾设于大稻城，现为遗址"
-  },
-  {
-    "name": "小出坑发电厂",
-    "name_en": "Xiaochukeng Power Plant",
-    "lat": 24.9875,
-    "lon": 121.574,
-    "country": "台灣",
-    "region": "台灣",
-    "quote": "那边有个电厂叫小出坑发电厂，水利发电厂。",
-    "context": "台湾第一个水力发电厂，仍在运作"
-  },
-  {
-    "name": "翡翠水库",
-    "name_en": "Feicui Reservoir",
-    "lat": 24.93,
-    "lon": 121.63,
-    "country": "台灣",
-    "region": "台灣",
-    "quote": "因为大家对新年期有什么样的印象？新年期可能就是，翡翠水库。",
-    "context": "常见误以为是台北饮用水源"
-  },
-  {
-    "name": "直潭堰",
-    "name_en": "Zhitian Weir",
-    "lat": 24.96,
+    "name": "翡翠水庫",
+    "name_en": "Feitsui Reservoir",
+    "lat": 24.87,
     "lon": 121.58,
     "country": "台灣",
     "region": "台灣",
-    "quote": "可是实际上并不是，其实台北人喝的水是取新电锡的直潭堰的水，直接取河水。",
-    "context": "台北市实际饮用水源地"
+    "quote": "新店溪可能就是翡翠水庫",
+    "context": "常被誤認為台北飲用水來源"
   },
   {
-    "name": "东海大学",
+    "name": "直潭淨水場",
+    "name_en": "Zhitan Water Treatment Plant",
+    "lat": 24.944,
+    "lon": 121.542,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "其實台北人喝的水是取新店溪的直潭壩的水",
+    "context": "台北飲用水實際取水處"
+  },
+  {
+    "name": "東海大學",
     "name_en": "Tunghai University",
-    "lat": 24.178,
-    "lon": 120.66,
+    "lat": 24.181,
+    "lon": 120.602,
     "country": "台灣",
     "region": "台灣",
-    "quote": "建筑跟民俗祭典，我看到里面有一个像东海大学的，对东海大学的，也就是看建筑。",
-    "context": "建筑设计导览地点之一"
+    "quote": "我看到裡面有一個像東海大學的",
+    "context": "建築導覽路線，8月行程"
   },
   {
-    "name": "台东",
-    "name_en": "Taitung",
-    "lat": 22.757,
-    "lon": 121.147,
-    "country": "台灣",
-    "region": "台灣",
-    "quote": "7月份我们去看了台东的建筑设计，台东市或者是，因为台东其实有很多的外国人。",
-    "context": "建筑设计导览地点，与外国人传教有关"
-  },
-  {
-    "name": "新庄大拜拜",
-    "name_en": "Xinzhuang Grand Ceremony",
-    "lat": 25.015,
-    "lon": 121.45,
-    "country": "台灣",
-    "region": "台灣",
-    "quote": "那像我们往年啊，就是上半年一定会有新庄大拜拜，淡水的大拜拜的绕境祭典的导览。",
-    "context": "台北市规模最大的绕境祭典之一"
-  },
-  {
-    "name": "淡水",
-    "name_en": "Tamsui",
-    "lat": 25.171,
-    "lon": 121.442,
-    "country": "台灣",
-    "region": "台灣",
-    "quote": "那像我们往年啊，就是上半年一定会有新庄大拜拜，淡水的大拜拜的绕境祭典的导览。",
-    "context": "绕境祭典导览地点之一",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/%E7%B4%85%E6%AF%9B%E5%9F%8E%E4%B9%8B%E7%BE%8E.jpg/330px-%E7%B4%85%E6%AF%9B%E5%9F%8E%E4%B9%8B%E7%BE%8E.jpg"
-  },
-  {
-    "name": "霞海城隍庙",
-    "name_en": "Xiahai Chenghuang Temple",
-    "lat": 25.059,
-    "lon": 121.502,
-    "country": "台灣",
-    "region": "台灣",
-    "quote": "那或者是霞海城隍大稻城的绕境祭典的导览。",
-    "context": "大稻城地区的重要城隍庙，有绕境祭典"
-  },
-  {
-    "name": "艋舺青山王祭",
-    "name_en": "Mengjia Qingshan King Festival",
-    "lat": 25.034,
-    "lon": 121.494,
-    "country": "台灣",
-    "region": "台灣",
-    "quote": "那下半年一定会有艋舺青山王的导览。",
-    "context": "艋舺地区规模最大的绕境祭典"
-  },
-  {
-    "name": "投城抢孤",
-    "name_en": "Toucheng Qianggu",
-    "lat": 24.945,
-    "lon": 121.917,
-    "country": "台灣",
-    "region": "台灣",
-    "quote": "我们有办投城抢孤的导览。",
-    "context": "宜兰地区鬼月最后的民俗活动"
-  },
-  {
-    "name": "东港",
+    "name": "東港",
     "name_en": "Donggang",
-    "lat": 22.468,
-    "lon": 120.457,
+    "lat": 22.466,
+    "lon": 120.438,
     "country": "台灣",
     "region": "台灣",
-    "quote": "比较有名的是东港，然后再来就是小琉球，另外一个是台南的西港。",
-    "context": "重要王船祭典地点之一"
+    "quote": "比較有名的是東港",
+    "context": "三大王船祭典之一"
   },
   {
     "name": "小琉球",
-    "name_en": "Xiao Liuqiu",
-    "lat": 22.345,
-    "lon": 120.353,
+    "name_en": "Xiaoliuqiu",
+    "lat": 22.34,
+    "lon": 120.37,
     "country": "台灣",
     "region": "台灣",
-    "quote": "比较有名的是东港，然后再来就是小琉球，另外一个是台南的西港。",
-    "context": "重要王船祭典地点之一"
+    "quote": "然後再來就是小琉球",
+    "context": "三大王船祭典之一"
   },
   {
-    "name": "台南西港",
-    "name_en": "Tainan Xigang",
-    "lat": 23.11,
-    "lon": 120.16,
+    "name": "西港",
+    "name_en": "Xigang",
+    "lat": 23.12,
+    "lon": 120.2,
     "country": "台灣",
     "region": "台灣",
-    "quote": "比较有名的是东港，然后再来就是小琉球，另外一个是台南的西港。",
-    "context": "重要王船祭典地点之一"
+    "quote": "另外一個是台南的西港",
+    "context": "三大王船祭典之一"
+  },
+  {
+    "name": "頭城",
+    "name_en": "Toucheng",
+    "lat": 24.859,
+    "lon": 121.823,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "我們有辦頭城搶孤的導覽",
+    "context": "宜蘭鬼月最後活動搶孤",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/%E7%83%8F%E7%9F%B3%E6%B8%AF_Wushi_Harbour_-_panoramio_%281%29.jpg/330px-%E7%83%8F%E7%9F%B3%E6%B8%AF_Wushi_Harbour_-_panoramio_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]

@@ -1,137 +1,74 @@
 [
   {
-    "name": "仰光",
-    "name_en": "Yangon",
-    "lat": 16.77708,
-    "lon": 96.15578,
-    "country": "緬甸",
-    "region": "亞洲",
-    "quote": "我們今天要去的地方就是緬甸的仰光",
-    "context": "本集主要討論的城市，緬甸最大城",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/ShwedagonPagoda.jpg/330px-ShwedagonPagoda.jpg"
-  },
-  {
-    "name": "普甘",
-    "name_en": "Bagan",
-    "lat": 21.1681,
-    "lon": 94.869,
-    "country": "緬甸",
-    "region": "亞洲",
-    "quote": "剩下三個點就是第一個是普甘",
-    "context": "緬甸大四角旅遊景點之一",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bagan%2C_Burma.jpg/330px-Bagan%2C_Burma.jpg"
-  },
-  {
-    "name": "曼德勒 (瓦城)",
-    "name_en": "Mandalay (Mandalay City)",
-    "lat": 21.979,
-    "lon": 96.0837,
-    "country": "緬甸",
-    "region": "亞洲",
-    "quote": "第二個是曼德勒，曼德勒就是所謂的瓦城",
-    "context": "緬甸大四角旅遊景點之一"
-  },
-  {
-    "name": "陰來湖",
-    "name_en": "Inle Lake",
-    "lat": 20.575,
-    "lon": 96.92,
-    "country": "緬甸",
-    "region": "亞洲",
-    "quote": "第三個是陰來湖",
-    "context": "緬甸大四角旅遊景點之一",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Inle_Lake_%28Myanmar%29.jpg/330px-Inle_Lake_%28Myanmar%29.jpg"
-  },
-  {
     "name": "蘇雷塔",
     "name_en": "Sule Pagoda",
-    "lat": 16.77708,
-    "lon": 96.15578,
+    "lat": 16.7745,
+    "lon": 96.1585,
     "country": "緬甸",
     "region": "亞洲",
-    "quote": "第一站要去的他們的景點叫蘇雷塔",
-    "context": "仰光市中心著名佛塔，八角形結構"
+    "quote": "這個蘇雷塔其實就是他們仰光的市中心很著名的景點",
+    "context": "仰光市中心八角形佛塔，學生導遊解說生肖與洗佛像"
   },
   {
-    "name": "獨立紀念碑 (仰光)",
-    "name_en": "Independence Monument (Yangon)",
-    "lat": 16.7788,
-    "lon": 96.1557,
+    "name": "獨立紀念碑",
+    "name_en": "Independence Monument (Maha Bandula Park)",
+    "lat": 16.7757,
+    "lon": 96.1585,
     "country": "緬甸",
     "region": "亞洲",
-    "quote": "在這個公園的中心啊，你在那個獨立紀念碑前面，還環顧四周",
-    "context": "仰光市區，被殖民建築環繞"
-  },
-  {
-    "name": "奈比多",
-    "name_en": "Naypyidaw",
-    "lat": 19.742,
-    "lon": 96.1264,
-    "country": "緬甸",
-    "region": "亞洲",
-    "quote": "緬甸中部的另外一個城市叫奈比多",
-    "context": "緬甸現任首都，軍政府憑空創造",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/NPT_Water_Fountain.jpg/330px-NPT_Water_Fountain.jpg"
+    "quote": "這個公園裡面它就有一個獨立紀念碑",
+    "context": "公園中心紀念碑，周圍環繞英式殖民公家機關"
   },
   {
     "name": "翁山市場",
     "name_en": "Bogyoke Aung San Market",
-    "lat": 16.7797,
-    "lon": 96.1578,
+    "lat": 16.7787,
+    "lon": 96.1494,
     "country": "緬甸",
     "region": "亞洲",
-    "quote": "他們市中心最大的市場，是重頭戲嗎？不是什麼重頭戲，這是一個市場",
-    "context": "仰光市中心最大市場，英式建築"
+    "quote": "這個市場的名字叫翁山市場",
+    "context": "以翁山將軍命名的英式建築室內市場"
   },
   {
     "name": "大金塔",
     "name_en": "Shwedagon Pagoda",
-    "lat": 16.7981,
+    "lat": 16.7983,
     "lon": 96.1497,
     "country": "緬甸",
     "region": "亞洲",
-    "quote": "仰光最著名的地標，大金塔前面",
-    "context": "仰光著名地標，翁山蘇姬曾演說"
+    "quote": "仰光最著名的地標大金塔前面",
+    "context": "1988年翁山蘇姬在此對數十萬群眾演說"
   },
   {
-    "name": "翁山蘇姬故居 (全民盟辦公室)",
-    "name_en": "Aung San Suu Kyi's House (NLD Office)",
-    "lat": 16.8227,
-    "lon": 96.136,
+    "name": "翁山蘇姬故居",
+    "name_en": "Aung San Suu Kyi's Residence (University Avenue)",
+    "lat": 16.8197,
+    "lon": 96.1327,
     "country": "緬甸",
     "region": "亞洲",
-    "quote": "我還要特別跑到孟山書記被軟禁的那個地方拍照，就他家不是嗎",
-    "context": "翁山蘇姬曾被軟禁21年，現為辦公室"
+    "quote": "他以前在那邊被軟禁了21年",
+    "context": "蘇姬被軟禁處，後成全民盟辦公室，作者最後一天拍照"
+  },
+  {
+    "name": "奈比多",
+    "name_en": "Naypyidaw",
+    "lat": 19.7633,
+    "lon": 96.0785,
+    "country": "緬甸",
+    "region": "亞洲",
+    "quote": "他們就把整個遷到中部的城市叫奈比多",
+    "context": "2005年軍政府憑空建造的新首都",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/NPT_Water_Fountain.jpg/330px-NPT_Water_Fountain.jpg"
   },
   {
     "name": "若開邦",
     "name_en": "Rakhine State",
-    "lat": 19.3333,
-    "lon": 93.3,
+    "lat": 20.15,
+    "lon": 93.5,
     "country": "緬甸",
     "region": "亞洲",
-    "quote": "羅興亞人他們就是在緬甸的西南，一個叫若開邦的地方",
-    "context": "羅興亞人權危機發生地",
+    "quote": "一個叫若開邦的地方",
+    "context": "羅興亞人聚居地，2017年遭軍隊鎮壓",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Ngapali_beach_and_surrounding_area%2C_Rakhine_State_07.jpg/330px-Ngapali_beach_and_surrounding_area%2C_Rakhine_State_07.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "仰光和理工學院",
-    "name_en": "Yangon Institute of Technology",
-    "lat": 16.8329,
-    "lon": 96.1415,
-    "country": "緬甸",
-    "region": "亞洲",
-    "quote": "最一開始從仰光和理工學院的學生，開始舉行很多抗議活動啊",
-    "context": "緬甸民主運動的發源地"
-  },
-  {
-    "name": "牛津大學",
-    "name_en": "University of Oxford",
-    "lat": 51.7548,
-    "lon": -1.2544,
-    "country": "英國",
-    "region": "歐洲",
-    "quote": "他在牛津大學，就得到學士學位啊",
-    "context": "翁山蘇姬曾就讀的大學"
   }
 ]

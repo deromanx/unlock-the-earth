@@ -2,23 +2,65 @@
   {
     "name": "潘普洛納",
     "name_en": "Pamplona",
-    "lat": 42.81,
-    "lon": -1.65,
+    "lat": 42.812,
+    "lon": -1.645,
     "country": "西班牙",
     "region": "歐洲",
-    "quote": "我那時候在西班牙北部有一個地方叫潘普洛納",
-    "context": "嘉賓交換學習的城市",
+    "quote": "西班牙北部有一個地方叫潘普洛納",
+    "context": "講者交換學生就讀的城市，以奔牛節聞名",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Monumento_a_los_Fueros_%28Pamplona%29.jpg/330px-Monumento_a_los_Fueros_%28Pamplona%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "法西邊境",
+    "name_en": "Spain–France Border Crossing",
+    "lat": 43.339,
+    "lon": -1.789,
+    "country": "法國",
+    "region": "歐洲",
+    "quote": "凌晨一點我在法國邊境下車了",
+    "context": "夜巴被查護照，被帶往警局的整夜驚險經歷"
+  },
+  {
+    "name": "薩爾茲堡",
+    "name_en": "Salzburg",
+    "lat": 47.8,
+    "lon": 13.044,
+    "country": "奧地利",
+    "region": "歐洲",
+    "quote": "我就說薩斯堡",
+    "context": "住進沙發主人爸媽家，看見人生第一場雪"
+  },
+  {
+    "name": "馬德里",
+    "name_en": "Madrid",
+    "lat": 40.417,
+    "lon": -3.704,
+    "country": "西班牙",
+    "region": "歐洲",
+    "quote": "一個是馬德里一個就是帕布洛娜",
+    "context": "姐妹校城市之一，講者哥哥曾在此念碩士",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Madrid_-_Sky_Bar_360%C2%BA_%28Hotel_Riu_Plaza_Espa%C3%B1a%29%2C_vistas_19.jpg/330px-Madrid_-_Sky_Bar_360%C2%BA_%28Hotel_Riu_Plaza_Espa%C3%B1a%29%2C_vistas_19.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "台中",
     "name_en": "Taichung",
-    "lat": 24.15,
-    "lon": 120.68,
+    "lat": 24.148,
+    "lon": 120.674,
     "country": "台灣",
     "region": "台灣",
-    "quote": "結果沒想到是 他們那女生是 曾經在台中",
-    "context": "主播朋友的交換地點",
+    "quote": "她曾經在台中交換的一個人",
+    "context": "奧地利沙發主人曾在台中交換",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Taichung_skyline.png/330px-Taichung_skyline.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "倫敦",
+    "name_en": "London",
+    "lat": 51.507,
+    "lon": -0.128,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "英國倫敦的故事就是",
+    "context": "第一次沙發衝浪，住在狹小房間五天",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/London_Skyline_%28125508655%29.jpeg/330px-London_Skyline_%28125508655%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]
