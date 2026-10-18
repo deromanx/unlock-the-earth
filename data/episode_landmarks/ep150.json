@@ -6,29 +6,91 @@
     "lon": 78.042,
     "country": "印度",
     "region": "亞洲",
-    "quote": "所以他自己就和Tajman Howe拍了一张照片",
-    "context": "沙迦漢為亡妻建造，戴安娜王妃曾獨自在此拍照",
+    "quote": "就是太极马哈林的建造者",
+    "context": "沙迦汗為亡妻所建，與黛安娜王妃、威廉凱特的故事相連",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Taj_Mahal_%28Edited%29.jpeg/330px-Taj_Mahal_%28Edited%29.jpeg"
   },
   {
-    "name": "綠園",
-    "name_en": "Green Park",
-    "lat": 51.504,
-    "lon": -0.143,
+    "name": "倫敦塔",
+    "name_en": "Tower of London",
+    "lat": 51.508,
+    "lon": -0.076,
     "country": "英國",
     "region": "歐洲",
-    "quote": "大概在今天Green Park附近他要进一间豪宅的时候被一个疯子用棍子打到他头上淤情",
-    "context": "維多利亞女王探望親戚時在附近遇襲",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Green_Park%2C_London_-_April_2007.jpg/330px-Green_Park%2C_London_-_April_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    "quote": "他大部分的时间应该会在伦敦塔里面",
+    "context": "光之山鑽石目前展示的地點",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Tower_of_London_from_the_Shard_%288515883950%29.jpg/330px-Tower_of_London_from_the_Shard_%288515883950%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "水晶宮（萬國博覽會）",
-    "name_en": "Crystal Palace (The Great Exhibition)",
-    "lat": 51.503,
-    "lon": -0.169,
+    "name": "乾草市場街",
+    "name_en": "Haymarket",
+    "lat": 51.508,
+    "lon": -0.132,
     "country": "英國",
     "region": "歐洲",
-    "quote": "就放在英国知名的万国博览会The Great Exhibition里面",
-    "context": "光之山鑽石初到英國時的展出地點"
+    "quote": "他在1852年在黑马克这里",
+    "context": "歌劇魅影劇院所在街道，鑽石重新切割之處"
+  },
+  {
+    "name": "漢普頓宮",
+    "name_en": "Hampton Court Palace",
+    "lat": 51.403,
+    "lon": -0.338,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "他小时候是在Hampton Court的长大",
+    "context": "蘇菲亞公主童年成長之處，亨利八世舊居"
+  },
+  {
+    "name": "布萊頓皇家行宮",
+    "name_en": "Royal Pavilion, Brighton",
+    "lat": 50.822,
+    "lon": -0.138,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "Brighton有一个宫殿叫Brighton Pavilion",
+    "context": "一戰時改為醫院，蘇菲亞公主在此擔任護士"
+  },
+  {
+    "name": "拉合爾",
+    "name_en": "Lahore",
+    "lat": 31.558,
+    "lon": 74.351,
+    "country": "巴基斯坦",
+    "region": "亞洲",
+    "quote": "其实是今天的老后拉荷尔应该算是现在的巴基斯坦",
+    "context": "錫克帝國首都，光之山鑽石在此由蘭吉特·辛格持有",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Lahore_Fort_view_from_Baradari.jpg/330px-Lahore_Fort_view_from_Baradari.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "德里",
+    "name_en": "Delhi",
+    "lat": 28.614,
+    "lon": 77.209,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "从伊朗这边整个突破进入今天的德里",
+    "context": "1739年納迪爾沙攻陷並屠城、奪取鑽石之地",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Jama_Masjid_2011.jpg/330px-Jama_Masjid_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "克什米爾",
+    "name_en": "Kashmir",
+    "lat": 34.083,
+    "lon": 74.797,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "他被关在Kashmir这个地方",
+    "context": "沙·舒賈被囚禁、藏匿鑽石之處"
+  },
+  {
+    "name": "水晶宮萬國博覽會",
+    "name_en": "The Great Exhibition (Hyde Park)",
+    "lat": 51.505,
+    "lon": -0.17,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "在1851年就放在英国知名的万国博览会The Great Exhibition里面",
+    "context": "光之山鑽石首度在英國公開展出"
   }
 ]

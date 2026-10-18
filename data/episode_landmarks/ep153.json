@@ -1,62 +1,52 @@
 [
   {
-    "name": "左營高鐵站",
-    "name_en": "Zuoying HSR Station",
-    "lat": 22.687,
-    "lon": 120.308,
+    "name": "里那里聚落",
+    "name_en": "Rinari Village",
+    "lat": 22.766,
+    "lon": 120.662,
     "country": "台灣",
     "region": "台灣",
-    "quote": "我們一開始就直接從左營高鐵站嘛",
-    "context": "節目的旅程出發點"
+    "quote": "那里那里那邊看起來是好幾個不同的部落聚在一起",
+    "context": "八八風災後三部落合併遷居的永久屋聚落"
   },
   {
-    "name": "里那里 (禮納里)",
-    "name_en": "Rinari Tribe",
-    "lat": 22.701,
-    "lon": 120.652,
+    "name": "原鄉馬家部落",
+    "name_en": "Makazayazaya (Majia) Original Village",
+    "lat": 22.728,
+    "lon": 120.711,
     "country": "台灣",
     "region": "台灣",
-    "quote": "然後就直接衝去里那里",
-    "context": "三個部落在八八風災後的共同遷居地"
-  },
-  {
-    "name": "馬家部落 (瑪家部落)",
-    "name_en": "Majia Tribe",
-    "lat": 22.673,
-    "lon": 120.692,
-    "country": "台灣",
-    "region": "台灣",
-    "quote": "我自己的部落是馬家，屬於排灣族",
-    "context": "主持人的家鄉及本次探訪的核心部落"
+    "quote": "原鄉馬家是都還蠻完整的",
+    "context": "排灣族原鄉部落，保留許多石板屋"
   },
   {
     "name": "好茶部落",
-    "name_en": "Haocha Tribe",
-    "lat": 22.684,
-    "lon": 120.738,
+    "name_en": "Kucapungane (Haocha) Village",
+    "lat": 22.709,
+    "lon": 120.744,
     "country": "台灣",
     "region": "台灣",
-    "quote": "最嚴重的是好茶部落，就是它原鄉的好茶部落整個被衝不見了",
-    "context": "原為魯凱族部落，受風災嚴重影響而遷居"
+    "quote": "最嚴重的是好茶部落就是它原鄉的好茶部落整個被衝不見了",
+    "context": "魯凱族舊部落，風災嚴重受損後遷居"
   },
   {
     "name": "大社部落",
-    "name_en": "Dashe Tribe",
-    "lat": 22.766,
-    "lon": 120.669,
+    "name_en": "Dashe Village",
+    "lat": 22.76,
+    "lon": 120.67,
     "country": "台灣",
     "region": "台灣",
-    "quote": "還有來自三地門鄉的大社村，大社部落是排灣族",
-    "context": "遷居至里那里的排灣族部落之一"
+    "quote": "還有來自三地門鄉的大社村大社部落是排灣族",
+    "context": "三地門鄉排灣族部落，一半被沖毀"
   },
   {
-    "name": "愛寮溪 (隘寮溪)",
+    "name": "隘寮溪",
     "name_en": "Ailiao River",
-    "lat": 22.73,
-    "lon": 120.627,
+    "lat": 22.735,
+    "lon": 120.65,
     "country": "台灣",
     "region": "台灣",
-    "quote": "他們原本居住的地方在愛寮溪的河畔旁邊，其實是很容易被水災弄掉的",
-    "context": "好茶部落原居地，易受水災影響"
+    "quote": "他們原本居住的地方在愛寮溪的河畔旁邊",
+    "context": "好茶部落原居河畔，易受水災侵襲"
   }
 ]

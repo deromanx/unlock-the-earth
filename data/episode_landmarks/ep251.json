@@ -1,89 +1,86 @@
 [
   {
-    "name": "中部关口",
-    "name_en": "King Hussein Bridge / Allenby Bridge",
-    "lat": 31.873,
-    "lon": 35.546,
-    "country": "约旦/巴勒斯坦",
-    "region": "亞洲",
-    "quote": "他的中部关口是有两条路一条是给当地人一条是给外国人",
-    "context": "往返约旦与巴勒斯坦/以色列的陆路边境关口"
-  },
-  {
-    "name": "老城区",
-    "name_en": "Old City of Jerusalem",
-    "lat": 31.776,
-    "lon": 35.234,
-    "country": "以色列",
-    "region": "亞洲",
-    "quote": "后来我们就搬到老城里面就是刚才那枯墙走路两分钟",
-    "context": "主持人入住的地点，包含众多历史古迹",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/2014-06_East_Jerusalem_090_%2814936890061%29.jpg/330px-2014-06_East_Jerusalem_090_%2814936890061%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "哭墙",
+    "name": "哭牆（西牆）",
     "name_en": "Western Wall",
-    "lat": 31.776,
-    "lon": 35.234,
+    "lat": 31.7767,
+    "lon": 35.2345,
     "country": "以色列",
     "region": "亞洲",
-    "quote": "他原本应该叫西墙然后哭墙是他的外号",
-    "context": "犹太人悼念祖先与塞纸条许愿的圣地",
+    "quote": "他原本應該叫西牆，然後哭牆是他的外號",
+    "context": "猶太人祈禱與塞心願紙條的聖地，旅程首晚造訪",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Westernwall2.jpg/330px-Westernwall2.jpg"
   },
   {
-    "name": "大马士革门",
-    "name_en": "Damascus Gate",
-    "lat": 31.782,
-    "lon": 35.23,
+    "name": "耶路撒冷老城",
+    "name_en": "Old City of Jerusalem",
+    "lat": 31.7767,
+    "lon": 35.2297,
     "country": "以色列",
     "region": "亞洲",
-    "quote": "他城区是好几个门有什么大马士革门啊狮子门",
-    "context": "耶路撒冷老城区著名的历史城门之一",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Jerusalem_Damaskustor_BW_1.jpg/330px-Jerusalem_Damaskustor_BW_1.jpg"
+    "quote": "你就在那個老城區的正中心",
+    "context": "作者住宿所在，戰時空蕩蕩的觀光體驗",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/2014-06_East_Jerusalem_090_%2814936890061%29.jpg/330px-2014-06_East_Jerusalem_090_%2814936890061%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "狮子门",
-    "name_en": "Lions' Gate",
-    "lat": 31.781,
-    "lon": 35.236,
+    "name": "約旦河西岸中部關口（艾倫比／侯賽因國王橋）",
+    "name_en": "Allenby Bridge / King Hussein Bridge Crossing",
+    "lat": 31.8789,
+    "lon": 35.5389,
+    "country": "巴勒斯坦",
+    "region": "亞洲",
+    "quote": "我們從來來回回，我不知道為什麼我們可以走10個小時",
+    "context": "約旦與西岸間關口，朝聖者潮造成通關十小時"
+  },
+  {
+    "name": "橄欖山",
+    "name_en": "Mount of Olives",
+    "lat": 31.7786,
+    "lon": 35.2456,
     "country": "以色列",
     "region": "亞洲",
-    "quote": "有什么大马士革门啊狮子门很多很有名的很有历史性的城墙",
-    "context": "耶路撒冷老城区著名的历史城门之一",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/LionsGate_Jerusalem.JPG/330px-LionsGate_Jerusalem.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    "quote": "我們就走過去，大概二十幾分鐘，到橄欖山去俯瞰耶路撒冷",
+    "context": "俯瞰耶路撒冷並觀察依宗教劃分的墓園",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/2013-Aerial-Mount_of_Olives.jpg/330px-2013-Aerial-Mount_of_Olives.jpg"
   },
   {
-    "name": "清真寺",
-    "name_en": "Al-Aqsa Mosque / Dome of the Rock",
-    "lat": 31.776,
-    "lon": 35.235,
-    "country": "以色列",
-    "region": "亞洲",
-    "quote": "还有他们的一个亲证室但是亲证室那时候是封锁的",
-    "context": "穆斯林礼拜地，被认为是不会受空袭的安全点",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Supplicating_Pilgrim_at_Masjid_Al_Haram._Mecca%2C_Saudi_Arabia.jpg/330px-Supplicating_Pilgrim_at_Masjid_Al_Haram._Mecca%2C_Saudi_Arabia.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "圣殿山",
+    "name": "聖殿山（haram al-Sharif）",
     "name_en": "Temple Mount",
     "lat": 31.778,
-    "lon": 35.235,
+    "lon": 35.2354,
     "country": "以色列",
     "region": "亞洲",
-    "quote": "他在圣殿山上面他也是一座小山丘",
-    "context": "老城所在的区域，附近有不同宗教的墓园",
+    "quote": "耶路撒冷老城，他在聖殿山上面，他也是一座小山丘",
+    "context": "老城所在高地，附近清真寺使伊朗不敢攻擊",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Jerusalem-2013%282%29-Aerial-Temple_Mount-%28south_exposure%29.jpg/330px-Jerusalem-2013%282%29-Aerial-Temple_Mount-%28south_exposure%29.jpg"
   },
   {
-    "name": "橄榄山",
-    "name_en": "Mount of Olives",
-    "lat": 31.778,
-    "lon": 35.243,
+    "name": "阿克薩清真寺",
+    "name_en": "Al-Aqsa Mosque",
+    "lat": 31.7761,
+    "lon": 35.2358,
     "country": "以色列",
     "region": "亞洲",
-    "quote": "去橄榄山啊去那边看一下耶路撒冷的世容",
-    "context": "可俯瞰耶路撒冷市容的高地，设有犹太人墓园",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/2013-Aerial-Mount_of_Olives.jpg/330px-2013-Aerial-Mount_of_Olives.jpg"
+    "quote": "我們在哭牆旁邊或是在清真寺旁邊，你過一個門不用一分鐘就到清真寺",
+    "context": "穆斯林聖地，因禮拜日封鎖，也成為安全依據"
+  },
+  {
+    "name": "特拉維夫",
+    "name_en": "Tel Aviv",
+    "lat": 32.0853,
+    "lon": 34.7818,
+    "country": "以色列",
+    "region": "亞洲",
+    "quote": "特拉威夫市中心有被轟一颗在那个他们的大楼",
+    "context": "戰時遭轟炸，台灣辦事處所在地"
+  },
+  {
+    "name": "安曼",
+    "name_en": "Amman",
+    "lat": 31.9539,
+    "lon": 35.9106,
+    "country": "約旦",
+    "region": "亞洲",
+    "quote": "从安曼就是首都，往中部是最方便的",
+    "context": "約旦首都，關口前後的交通起點與撤僑終點"
   }
 ]

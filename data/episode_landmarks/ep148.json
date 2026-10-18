@@ -1,63 +1,52 @@
 [
   {
-    "name": "乌普利斯克岩城",
+    "name": "烏普利斯齊凱岩城",
     "name_en": "Uplistsikhe",
-    "lat": 41.967,
-    "lon": 44.207,
-    "country": "乔治亚",
+    "lat": 41.966,
+    "lon": 44.206,
+    "country": "喬治亞",
     "region": "亞洲",
-    "quote": "像我们就有去个地方叫做乌普利斯克岩城 他是从铁气时代呢 就有人居住在那个地方",
-    "context": "建于铁器时代的半地下石城遗址，拥有上百座洞穴。"
+    "quote": "我們就有去個地方叫做烏普利斯克岩城",
+    "context": "鐵器時代起的洞穴石城，有通道、劇院遺址與教堂"
   },
   {
     "name": "哥里",
     "name_en": "Gori",
     "lat": 41.984,
-    "lon": 44.115,
-    "country": "乔治亚",
+    "lon": 44.11,
+    "country": "喬治亞",
     "region": "亞洲",
-    "quote": "他就是在乔治亚内的一个小镇 叫做哥里",
-    "context": "史达林的出生地，保留了许多相关的历史遗迹。"
+    "quote": "他是在喬治亞一個小鎮叫Gori出生的",
+    "context": "史達林出生地，設有史達林博物館與紀念物"
   },
   {
-    "name": "史达林博物馆",
+    "name": "史達林博物館",
     "name_en": "Joseph Stalin Museum",
-    "lat": 41.987,
-    "lon": 44.113,
-    "country": "乔治亚",
+    "lat": 41.983,
+    "lon": 44.109,
+    "country": "喬治亞",
     "region": "亞洲",
-    "quote": "对我有记住他的博物馆 他博物馆里面就是有他之前用过的东西",
-    "context": "收藏史达林生前物品，包括防弹车与被保护的老家建筑。"
+    "quote": "他博物館裡面就是有他之前用過的東西",
+    "context": "保存史達林遺物、出生故居與防彈車"
   },
   {
-    "name": "哥里城堡",
+    "name": "哥里要塞",
     "name_en": "Gori Fortress",
-    "lat": 41.986,
-    "lon": 44.108,
-    "country": "乔治亚",
+    "lat": 41.985,
+    "lon": 44.112,
+    "country": "喬治亞",
     "region": "亞洲",
-    "quote": "你如果去那个城镇的话 除了看史达林的东西 也可以去看七世纪建造的Fortress",
-    "context": "位于哥里的中世纪古堡遗迹。"
+    "quote": "也可以去看七世紀建造的Fortress",
+    "context": "哥里小鎮中世紀重要的古城堡"
   },
   {
-    "name": "提比利斯地铁",
-    "name_en": "Tbilisi Metro",
-    "lat": 41.716,
-    "lon": 44.783,
-    "country": "乔治亚",
+    "name": "提比里斯舊城",
+    "name_en": "Old Tbilisi",
+    "lat": 41.692,
+    "lon": 44.809,
+    "country": "喬治亞",
     "region": "亞洲",
-    "quote": "提比里斯最特殊的地方 就是他的地铁 一进去就可以闻到硫磺的味道",
-    "context": "提比利斯的地下交通系统，因有温泉而带有特殊气味。"
-  },
-  {
-    "name": "提比利斯温泉区",
-    "name_en": "Abanotubani",
-    "lat": 41.688,
-    "lon": 44.811,
-    "country": "乔治亚",
-    "region": "亞洲",
-    "quote": "因为他其实有很多温泉 所以Tiblesi这个字 就是保暖之处",
-    "context": "提比利斯著名的硫磺温泉区。",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/2014_Tbilisi%2C_%C5%81a%C5%BAnie_siarkowe_w_Abanotubani_%2804%29.jpg/330px-2014_Tbilisi%2C_%C5%81a%C5%BAnie_siarkowe_w_Abanotubani_%2804%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    "quote": "所以它的首都提比利斯就是主要我們去的地方",
+    "context": "首都，溫泉、地鐵硫磺味與俄羅斯帝國風貌"
   }
 ]

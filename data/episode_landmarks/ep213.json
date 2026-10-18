@@ -6,71 +6,108 @@
     "lon": -72.545,
     "country": "秘魯",
     "region": "美洲",
-    "quote": "那我这趟秘鲁之行,其实就是最期待的马丘比丘",
-    "context": "講者原本秘魯之行最期待的目的地"
+    "quote": "马丘比丘我终于终于跟你相遇了",
+    "context": "旅程終極目標，首次受阻、二訪終於登頂相遇"
+  },
+  {
+    "name": "阿雷基帕",
+    "name_en": "Arequipa",
+    "lat": -16.399,
+    "lon": -71.537,
+    "country": "秘魯",
+    "region": "美洲",
+    "quote": "阿雷吉巴呢,它是仅次于首都利马的第二大城",
+    "context": "白色火山岩古城，二訪秘魯首站，介紹三大景點"
+  },
+  {
+    "name": "聖卡塔利娜修道院",
+    "name_en": "Santa Catalina Monastery",
+    "lat": -16.396,
+    "lon": -71.5367,
+    "country": "秘魯",
+    "region": "美洲",
+    "quote": "修道院里面有六条街道,想不到吧",
+    "context": "阿雷基帕必訪景點，規模如城市，遇到國中生"
+  },
+  {
+    "name": "耶穌會教堂",
+    "name_en": "Church of the Society of Jesus, Arequipa",
+    "lat": -16.3991,
+    "lon": -71.537,
+    "country": "秘魯",
+    "region": "美洲",
+    "quote": "这座教堂也是在西巴尔子米时期,建造的",
+    "context": "安第斯巴洛克風格，印加版最後的晚餐"
+  },
+  {
+    "name": "安地斯聖殿博物館",
+    "name_en": "Museo Santuarios Andinos",
+    "lat": -16.3977,
+    "lon": -71.5346,
+    "country": "秘魯",
+    "region": "美洲",
+    "quote": "他是安地斯圣殿博物馆",
+    "context": "收藏冰封少女胡安妮塔，講述印加活人獻祭"
+  },
+  {
+    "name": "利馬修女院",
+    "name_en": "Convent in Lima",
+    "lat": -12.046,
+    "lon": -77.043,
+    "country": "秘魯",
+    "region": "美洲",
+    "quote": "现在就住在立马市区的一座修女院里面",
+    "context": "政變期間借宿，與修女共度聖誕夜"
+  },
+  {
+    "name": "米斯蒂火山",
+    "name_en": "El Misti",
+    "lat": -16.294,
+    "lon": -71.409,
+    "country": "秘魯",
+    "region": "美洲",
+    "quote": "其中最美的一座火山,其实你在城市的市中心",
+    "context": "阿雷基帕周邊活火山，1985年最近一次爆發"
+  },
+  {
+    "name": "庫斯科",
+    "name_en": "Cusco",
+    "lat": -13.532,
+    "lon": -71.967,
+    "country": "秘魯",
+    "region": "美洲",
+    "quote": "Cuzco大家一定都不陌生,因为他就正式通往马丘比丘的门户",
+    "context": "政變抗議中心，機場鐵路關閉，通往馬丘比丘門戶"
   },
   {
     "name": "熱水鎮",
     "name_en": "Aguas Calientes",
     "lat": -13.155,
-    "lon": -72.525,
+    "lon": -72.527,
     "country": "秘魯",
     "region": "美洲",
-    "quote": "然后当时就其实有数百位游客,他就被困在马丘比丘山脚下的热水镇",
-    "context": "數百名遊客因政變與機場關閉被困的小鎮"
+    "quote": "数百位游客,他就被困在马丘比丘山脚下的热水镇",
+    "context": "政變時遊客受困的馬丘比丘山腳小鎮"
   },
   {
-    "name": "庫斯科機場",
-    "name_en": "Alejandro Velasco Astete International Airport",
-    "lat": -13.535,
-    "lon": -71.938,
+    "name": "瓦伊納比丘",
+    "name_en": "Huayna Picchu",
+    "lat": -13.1614,
+    "lon": -72.5461,
     "country": "秘魯",
     "region": "美洲",
-    "quote": "随后呢,Cuzco的机场突然宣布关闭",
-    "context": "因政變抗議潮而宣布關閉，導致遊客受困",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Aeropuerto_Internacional_Alejandro_Velasco_Astete.jpg/330px-Aeropuerto_Internacional_Alejandro_Velasco_Astete.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    "quote": "另外一座山头,他叫瓦那比丘",
+    "context": "友人推薦，可回望馬丘比丘全景的山頭"
   },
   {
-    "name": "墨西哥駐秘魯大使館",
-    "name_en": "Embassy of Mexico in Peru",
-    "lat": -12.097,
-    "lon": -77.036,
-    "country": "秘魯",
-    "region": "美洲",
-    "quote": "于是他们就决定驱车,先往墨西哥的驻秘鲁大使馆,先往那边逃",
-    "context": "前總統被彈劾後試圖尋求政治庇護的地點"
-  },
-  {
-    "name": "秘魯總統府",
-    "name_en": "Government Palace of Peru",
-    "lat": -12.045,
-    "lon": -77.03,
-    "country": "秘魯",
-    "region": "美洲",
-    "quote": "然后其实总统府外,也有一大批声势更庞大的压力",
-    "context": "前總統支持者聚集抗議施加壓力的地點",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Palacio_de_Gobierno_del_Per%C3%BA_2017.jpg/330px-Palacio_de_Gobierno_del_Per%C3%BA_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "國際法院（海牙法庭）",
-    "name_en": "International Court of Justice",
-    "lat": 52.087,
-    "lon": 4.296,
-    "country": "荷蘭",
-    "region": "歐洲",
-    "quote": "然后甚至在十年前的2014年,还闹上了荷兰的海牙法庭",
-    "context": "仲裁秘魯與智利之間領海主權爭議的機構",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/International_Court_of_Justice_Seal.svg/330px-International_Court_of_Justice_Seal.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "阿塔加馬沙漠",
+    "name": "阿塔卡馬沙漠",
     "name_en": "Atacama Desert",
     "lat": -23.863,
     "lon": -69.133,
     "country": "智利",
     "region": "美洲",
-    "quote": "那当时呢,就是鸟粪矿,然后其实它运藏上最丰富的地方,是在阿达嘎玛沙漠",
-    "context": "19世紀鳥糞戰爭中礦產豐富的爭議地區",
+    "quote": "鸟粪矿,然后其实它运藏上最丰富的地方,是在阿达嘎玛沙漠",
+    "context": "鳥糞礦產地，引發太平洋戰爭",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Atacama.png/330px-Atacama.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]

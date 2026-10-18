@@ -1,176 +1,84 @@
 [
   {
-    "name": "切爾西",
-    "name_en": "Chelsea",
-    "lat": 51.487,
-    "lon": -0.168,
-    "country": "英國",
-    "region": "歐洲",
-    "quote": "就是在Chelsea那边我们有个很老很老的药草花园",
-    "context": "切爾西藥草園的所在地"
-  },
-  {
-    "name": "切爾西藥草園",
-    "name_en": "Chelsea Physic Garden",
-    "lat": 51.485,
-    "lon": -0.162,
-    "country": "英國",
-    "region": "歐洲",
-    "quote": "比如说像是什么Chelsea Physic Garden就是在Chelsea那边",
-    "context": "倫敦古老藥草花園，探討早期草本療法",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/II_Chelsea_Physic_Garden%2C_London%2C_UK.jpg/330px-II_Chelsea_Physic_Garden%2C_London%2C_UK.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "大英博物館",
-    "name_en": "British Museum",
-    "lat": 51.519,
-    "lon": -0.127,
-    "country": "英國",
-    "region": "歐洲",
-    "quote": "就是大英博物馆的精神创始人汉斯罗恩他当年就是靠药草赚了很多很多钱",
-    "context": "創始人曾為切爾西藥草園的土地贊助者",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/British_Museum_from_NE_2.JPG/330px-British_Museum_from_NE_2.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "銀行地鐵站",
-    "name_en": "Bank Station",
-    "lat": 51.513,
-    "lon": -0.088,
-    "country": "英國",
-    "region": "歐洲",
-    "quote": "在伦敦靠近这个bankstation这里有一个小小的pub",
-    "context": "描述威廉巴特勒之首酒吧的相對位置",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Bank_station_entrance_look_to_Bank.JPG/330px-Bank_station_entrance_look_to_Bank.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "威廉巴特勒之首酒吧",
-    "name_en": "William Butler's Head Pub",
-    "lat": 51.514,
-    "lon": -0.089,
-    "country": "英國",
-    "region": "歐洲",
-    "quote": "有一个小小的pub他叫做William Butler's Head Pub",
-    "context": "17世紀醫生威廉巴特勒以奇妙方式行醫的酒吧"
-  },
-  {
-    "name": "泰晤士河",
-    "name_en": "River Thames",
-    "lat": 51.51,
-    "lon": -0.1,
-    "country": "英國",
-    "region": "歐洲",
-    "quote": "他把他扔进太鲁士河里面就直接扔",
-    "context": "威廉巴特勒執行驚嚇療法的地點"
-  },
-  {
-    "name": "史密斯菲爾德市場",
-    "name_en": "Smithfield Market",
-    "lat": 51.518,
-    "lon": -0.101,
-    "country": "英國",
-    "region": "歐洲",
-    "quote": "靠近我们的肉市场这个Smithfield Market这边出现了",
-    "context": "外科與理髮匠工會發源地，反映早期屠夫兼職手術",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Smithfield_Meat_Market_tower1.jpg/330px-Smithfield_Meat_Market_tower1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "外科與理髮匠工會大廳",
-    "name_en": "Barber-Surgeons' Hall",
-    "lat": 51.518,
-    "lon": -0.096,
-    "country": "英國",
-    "region": "歐洲",
-    "quote": "他们的HQ他们的Headquarter还在我们的这个肉这个肉市级旁边这样子",
-    "context": "外科與理髮匠工會至今仍保留的總部辦公室"
-  },
-  {
-    "name": "倫敦老城區",
-    "name_en": "City of London",
-    "lat": 51.515,
-    "lon": -0.093,
-    "country": "英國",
-    "region": "歐洲",
-    "quote": "他们也有一个自己的这个工会也是在这个伦敦老城区里面",
-    "context": "早期草藥協會與工會所在的歷史城區"
-  },
-  {
     "name": "科學博物館",
     "name_en": "Science Museum",
-    "lat": 51.497,
-    "lon": -0.174,
+    "lat": 51.4978,
+    "lon": -0.1745,
     "country": "英國",
     "region": "歐洲",
-    "quote": "我觉得你第一个一定要去的就是我们的科学博物馆Science Museum",
-    "context": "擁有全世界最大醫療歷史樓層的博物館"
-  },
-  {
-    "name": "牛津街",
-    "name_en": "Oxford Street",
-    "lat": 51.515,
-    "lon": -0.141,
-    "country": "英國",
-    "region": "歐洲",
-    "quote": "而且他们是在牛津街是英国当时最红最红的购物街",
-    "context": "20世紀初販售電療瘦身器材的熱門購物街"
-  },
-  {
-    "name": "劍橋大學",
-    "name_en": "University of Cambridge",
-    "lat": 52.205,
-    "lon": 0.119,
-    "country": "英國",
-    "region": "歐洲",
-    "quote": "那这个结构呢这个模型就在剑桥大学做出来",
-    "context": "DNA雙股螺旋結構模型的發源及製作地"
-  },
-  {
-    "name": "牛津大學",
-    "name_en": "University of Oxford",
-    "lat": 51.752,
-    "lon": -1.255,
-    "country": "英國",
-    "region": "歐洲",
-    "quote": "那当时青梅树的成功那他就量产就交给这个牛津大学",
-    "context": "成功量產青黴素的研究團隊所在地"
-  },
-  {
-    "name": "派丁頓車站",
-    "name_en": "Paddington Station",
-    "lat": 51.516,
-    "lon": -0.177,
-    "country": "英國",
-    "region": "歐洲",
-    "quote": "有就靠在佩林顿这一站找到的所以就靠近佩林顿这一站",
-    "context": "亞歷山大·弗萊明實驗室附近的知名車站"
+    "quote": "我觉得你第一个一定要去的就是我们的科学博物馆",
+    "context": "本集核心，收藏詹納牛痘刀、首張X光、DNA模型等醫療史文物"
   },
   {
     "name": "亞歷山大·弗萊明實驗室博物館",
     "name_en": "Alexander Fleming Laboratory Museum",
-    "lat": 51.517,
-    "lon": -0.174,
+    "lat": 51.5181,
+    "lon": -0.1738,
     "country": "英國",
     "region": "歐洲",
-    "quote": "他的英文叫Alexander Fleming's Laboratory你就按一个按钮",
-    "context": "保留發現青黴素的弗萊明生前工作桌及實驗室"
+    "quote": "就是他的英文叫Alexander Fleming's Laboratory",
+    "context": "盤尼西林發現地，保存弗萊明當年的實驗桌"
   },
   {
-    "name": "聖巴塞洛繆醫院",
-    "name_en": "St Bartholomew's Hospital",
-    "lat": 51.517,
-    "lon": -0.1,
+    "name": "聖巴多羅買醫院博物館",
+    "name_en": "St Bartholomew's Hospital Museum",
+    "lat": 51.5176,
+    "lon": -0.1005,
     "country": "英國",
     "region": "歐洲",
-    "quote": "有一间这个古老的医院博物馆叫Sembathamil Hospital",
-    "context": "經營超過900年的古老醫院及附設博物館"
+    "quote": "他旁边有一个小小的博物馆",
+    "context": "始於12世紀的古老醫院，有霍加斯壁畫與募款大廳"
   },
   {
     "name": "聖巴多羅買大教堂",
-    "name_en": "St Bartholomew the Great",
-    "lat": 51.518,
-    "lon": -0.1,
+    "name_en": "St Bartholomew-the-Great",
+    "lat": 51.5183,
+    "lon": -0.0993,
     "country": "英國",
     "region": "歐洲",
-    "quote": "他旁边你还能够进的伦敦气氛最独特的教堂就是St. Barnum Church",
-    "context": "聖巴塞洛繆醫院旁充滿獨特氣氛的12世紀教堂"
+    "quote": "伦敦气氛最独特的教堂就是St. Barnum Church",
+    "context": "羅馬式教堂，多部電影取景地"
+  },
+  {
+    "name": "史密斯菲爾德市場",
+    "name_en": "Smithfield Market",
+    "lat": 51.5192,
+    "lon": -0.1024,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "靠近我们的肉市场这个Smithfield Market这边出现了",
+    "context": "倫敦最古老肉市場，理髮外科醫師公會所在附近",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Smithfield_Meat_Market_tower1.jpg/330px-Smithfield_Meat_Market_tower1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "切爾西藥用植物園",
+    "name_en": "Chelsea Physic Garden",
+    "lat": 51.485,
+    "lon": -0.1623,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "Chelsea Physic Garden就是在Chelsea那边",
+    "context": "古老藥草園，由藥草工會成立，漢斯·斯隆贊助",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/II_Chelsea_Physic_Garden%2C_London%2C_UK.jpg/330px-II_Chelsea_Physic_Garden%2C_London%2C_UK.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "威廉·巴特勒之首酒館",
+    "name_en": "William Butler's Head Pub",
+    "lat": 51.5133,
+    "lon": -0.09,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "靠近这个bankstation这里有一个小小的pub",
+    "context": "紀念十七世紀怪異御醫威廉·巴特勒的酒館"
+  },
+  {
+    "name": "牛津街",
+    "name_en": "Oxford Street",
+    "lat": 51.5151,
+    "lon": -0.1415,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "他们是在牛津街是英国当时最红最红的购物街",
+    "context": "二十世紀初電療腰帶與美容產品的販售地"
   }
 ]

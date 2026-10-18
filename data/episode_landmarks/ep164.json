@@ -1,33 +1,34 @@
 [
   {
-    "name": "草悟廣場",
-    "name_en": "Caowu Square",
-    "lat": 24.149,
-    "lon": 120.663,
+    "name": "草悟道",
+    "name_en": "Calligraphy Greenway",
+    "lat": 24.144,
+    "lon": 120.6634,
     "country": "台灣",
     "region": "台灣",
-    "quote": "在台中市草务道广场B区 为这些用心的创业青年举办颁奖典礼进行表扬",
-    "context": "台中市政府舉辦青年創業品牌特色標章活動的場地"
+    "quote": "歡迎大家到台中市最綠意盎然的草務道",
+    "context": "片頭廣告：青創品牌頒獎典禮與青創市集舉辦地點",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/%E7%B6%93%E5%9C%8B%E5%9C%92%E9%81%93%28%E8%8D%89%E6%82%9F%E9%81%93%29.JPG/330px-%E7%B6%93%E5%9C%8B%E5%9C%92%E9%81%93%28%E8%8D%89%E6%82%9F%E9%81%93%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "國立政治大學",
+    "name": "政治大學",
     "name_en": "National Chengchi University",
-    "lat": 24.986,
-    "lon": 121.573,
+    "lat": 24.9867,
+    "lon": 121.576,
     "country": "台灣",
     "region": "台灣",
-    "quote": "所以就找到了政大 然后他们的俄罗斯研究所 然后我就觉得好像很适合我",
-    "context": "來賓Vlad來台灣就讀研究所的學校"
+    "quote": "所以就找到了政大",
+    "context": "來賓赴台就讀的學校，就讀俄羅斯研究所"
   },
   {
     "name": "索契",
     "name_en": "Sochi",
-    "lat": 43.585,
-    "lon": 39.72,
+    "lat": 43.5855,
+    "lon": 39.7231,
     "country": "俄羅斯",
     "region": "歐洲",
     "quote": "我真的有听说过索契",
-    "context": "俄羅斯南方的溫暖度假勝地，曾辦過奧運",
+    "context": "黑海濱度假勝地，說明俄羅斯並非全年酷寒",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Sochi_harbour.jpg/330px-Sochi_harbour.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]

@@ -1,82 +1,103 @@
 [
   {
-    "name": "懷唐伊",
-    "name_en": "Waitangi",
-    "lat": -35.281,
-    "lon": 174.082,
+    "name": "福克斯冰河小鎮",
+    "name_en": "Franz Josef Glacier",
+    "lat": -43.389,
+    "lon": 170.183,
     "country": "紐西蘭",
     "region": "大洋洲",
-    "quote": "等于他们在北岛一个叫Waytangi的地方",
-    "context": "1840年毛利酋長與英國政府簽署條約的歷史地點。"
+    "quote": "就是在这个France Joseph小镇就可以玩",
+    "context": "主講人擔任冰河嚮導的小鎮與冰河，含命名由來與毛利傳說"
+  },
+  {
+    "name": "福克斯冰河",
+    "name_en": "Fox Glacier",
+    "lat": -43.465,
+    "lon": 170.017,
+    "country": "紐西蘭",
+    "region": "大洋洲",
+    "quote": "Fox跟France Joseph",
+    "context": "紐西蘭可健行的三大冰河之一，傳說中圖阿衛墜落處"
+  },
+  {
+    "name": "塔斯曼冰河",
+    "name_en": "Tasman Glacier",
+    "lat": -43.723,
+    "lon": 170.318,
+    "country": "紐西蘭",
+    "region": "大洋洲",
+    "quote": "Tasman冰河",
+    "context": "紐西蘭最大的冰河"
+  },
+  {
+    "name": "米佛峽灣",
+    "name_en": "Milford Sound",
+    "lat": -44.671,
+    "lon": 167.926,
+    "country": "紐西蘭",
+    "region": "大洋洲",
+    "quote": "然后他说最可怕的其实是Milford Sound的附近",
+    "context": "地震後五分鐘內可能遭海嘯襲擊的熱門遊船景點"
+  },
+  {
+    "name": "懷唐伊",
+    "name_en": "Waitangi",
+    "lat": -35.268,
+    "lon": 174.08,
+    "country": "紐西蘭",
+    "region": "大洋洲",
+    "quote": "他们在北岛一个叫Waytangi的地方",
+    "context": "1840年毛利酋長與英國簽署條約之地"
+  },
+  {
+    "name": "基督城",
+    "name_en": "Christchurch",
+    "lat": -43.532,
+    "lon": 172.636,
+    "country": "紐西蘭",
+    "region": "大洋洲",
+    "quote": "最大的城市基督城就在等于它的东北的一个就是靠海的地方",
+    "context": "南島最大城市，南島主要進出機場之一，曾遭大地震"
   },
   {
     "name": "皇后鎮",
     "name_en": "Queenstown",
     "lat": -45.031,
-    "lon": 168.662,
+    "lon": 168.663,
     "country": "紐西蘭",
     "region": "大洋洲",
-    "quote": "要不到南边的皇后镇",
-    "context": "紐西蘭南島著名的旅遊中心與極限運動勝地。"
+    "quote": "尤其更往南去到皇后镇的话他其实就很像把它打造成一个极限运动之城",
+    "context": "南島極限運動之城，另一主要進出機場"
   },
   {
     "name": "亞瑟隘口",
     "name_en": "Arthur's Pass",
-    "lat": -42.941,
-    "lon": 171.561,
+    "lat": -42.949,
+    "lon": 171.564,
     "country": "紐西蘭",
     "region": "大洋洲",
-    "quote": "Arthurs Pass 过来到西边",
-    "context": "連接基督城與西海岸的重要交通隘口。"
+    "quote": "可能看你先从北边走Arthurs Pass过来到西边",
+    "context": "自駕環南島時從東岸前往西岸的路線"
   },
   {
-    "name": "法蘭士·約瑟夫小鎮",
-    "name_en": "Franz Josef",
-    "lat": -43.387,
-    "lon": 170.181,
+    "name": "南阿爾卑斯山",
+    "name_en": "Southern Alps",
+    "lat": -43.595,
+    "lon": 170.142,
     "country": "紐西蘭",
     "region": "大洋洲",
-    "quote": "在我们就是我们France Joseph小镇就可以玩",
-    "context": "位於南島西岸，僅400常住人口的冰河觀光小鎮。"
-  },
-  {
-    "name": "法蘭士·約瑟夫冰河",
-    "name_en": "Franz Josef Glacier",
-    "lat": -43.466,
-    "lon": 170.189,
-    "country": "紐西蘭",
-    "region": "大洋洲",
-    "quote": "France Joseph第四大的",
-    "context": "著名的可進入冰河，是主角擔任冰河向導的工作地點。"
-  },
-  {
-    "name": "福克斯冰河",
-    "name_en": "Fox Glacier",
-    "lat": -43.513,
-    "lon": 170.016,
-    "country": "紐西蘭",
-    "region": "大洋洲",
-    "quote": "然后还有Fox 跟France Joseph 三个冰河",
-    "context": "紐西蘭南島西岸著名的冰河踐行景點之一。"
-  },
-  {
-    "name": "塔斯曼冰河",
-    "name_en": "Tasman Glacier",
-    "lat": -43.6,
-    "lon": 170.25,
-    "country": "紐西蘭",
-    "region": "大洋洲",
-    "quote": "包括最大的是Tasman Tasman冰河",
-    "context": "紐西蘭境內規模與面積最大的冰河。"
+    "quote": "正好就撞到南阿尔北斯山嘛",
+    "context": "攔截西風濕氣造成西岸豐沛降雨與冰河",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/South_Island.jpg/330px-South_Island.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "嘉明湖",
     "name_en": "Jiaming Lake",
-    "lat": 23.295,
-    "lon": 121.034,
+    "lat": 23.286,
+    "lon": 121.032,
     "country": "台灣",
     "region": "台灣",
-    "quote": "冰斗就像嘉明湖，他其实",
-    "context": "節目中用來向聽眾解釋「冰斗」地形的台灣地標。"
+    "quote": "冰斗就像嘉明湖",
+    "context": "以台灣冰斗遺跡為例說明冰斗"
   }
 ]

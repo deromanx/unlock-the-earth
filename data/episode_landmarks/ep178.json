@@ -2,11 +2,33 @@
   {
     "name": "品川車站",
     "name_en": "Shinagawa Station",
-    "lat": 35.628,
-    "lon": 139.739,
+    "lat": 35.6285,
+    "lon": 139.7387,
     "country": "日本",
     "region": "亞洲",
-    "quote": "就是有一次我去日本玩的時候 在東京的品川車站",
-    "context": "看到成千上萬穿黑西裝的上班族"
+    "quote": "在東京的品川車站",
+    "context": "說話者曾見上千名黑西裝上班族同時出站的壯觀場景"
+  },
+  {
+    "name": "蘇美島",
+    "name_en": "Ko Samui",
+    "lat": 9.512,
+    "lon": 100.013,
+    "country": "泰國",
+    "region": "亞洲",
+    "quote": "我在蘇眉島 我就換了三間",
+    "context": "用點數兌換三間附私人泳池的度假飯店",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Koh_Samui_Lipa_Noi2.jpg/330px-Koh_Samui_Lipa_Noi2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "關島",
+    "name_en": "Guam",
+    "lat": 13.444,
+    "lon": 144.793,
+    "country": "美國",
+    "region": "大洋洲",
+    "quote": "我讓中間去關島轉了個機",
+    "context": "利用里程機票的中途停留規則，在關島停留四天",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Flag_of_Guam.svg/330px-Flag_of_Guam.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]

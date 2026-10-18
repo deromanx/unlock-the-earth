@@ -1,94 +1,73 @@
 [
   {
-    "name": "沙灣那吉",
-    "name_en": "Savannakhet",
-    "lat": 16.566,
-    "lon": 104.75,
-    "country": "寮國",
+    "name": "烏布",
+    "name_en": "Ubud",
+    "lat": -8.519,
+    "lon": 115.263,
+    "country": "印尼",
     "region": "亞洲",
-    "quote": "曼谷有直飛沙灣那吉，現在去寮國的那個難易度變簡單了",
-    "context": "寮國的城市，被提及是近期數位遊牧的重鎮。",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Savannakhet1.JPG/330px-Savannakhet1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    "quote": "那烏布他也是巴黎島非常受遊客歡迎的一個區域",
+    "context": "商業化與在地文化最平衡，可見居民日常與宗教生活"
   },
   {
     "name": "庫塔",
     "name_en": "Kuta",
-    "lat": -8.718,
-    "lon": 115.169,
-    "country": "印度尼西亞",
+    "lat": -8.722,
+    "lon": 115.172,
+    "country": "印尼",
     "region": "亞洲",
-    "quote": "我住的地方是庫塔，庫塔算是巴黎島南端，就是很熱鬧的一個城鎮還城市",
-    "context": "巴厘島熱鬧的區域，講者因其過於商業化而印象欠佳。"
+    "quote": "庫塔算是巴黎島南端就是很熱鬧的",
+    "context": "高度商業化的海灘鬧區，也是爆炸案發生地"
+  },
+  {
+    "name": "峇里島爆炸案紀念碑",
+    "name_en": "Bali Bombing Memorial",
+    "lat": -8.7186,
+    "lon": 115.1685,
+    "country": "印尼",
+    "region": "亞洲",
+    "quote": "會到庫塔一座紀念碑去為過去就是不幸罹難的亡生者為他們舉行那個欺負儀式",
+    "context": "2002年恐攻舊址，每年10月12日舉行紀念儀式"
+  },
+  {
+    "name": "巴厘島梯田",
+    "name_en": "Bali Rice Terraces",
+    "lat": -8.4312,
+    "lon": 115.279,
+    "country": "印尼",
+    "region": "亞洲",
+    "quote": "巴黎島他們的比如說宣傳照片跟影片一定會有一個東西叫做梯田",
+    "context": "金黃梯田景觀與蘇巴克水利系統，列世界文化遺產"
+  },
+  {
+    "name": "布拉坦水神廟",
+    "name_en": "Pura Ulun Danu Beratan",
+    "lat": -8.2753,
+    "lon": 115.1668,
+    "country": "印尼",
+    "region": "亞洲",
+    "quote": "像很多人會去的那個什麼布拉坦水神廟就很多人會去打卡的地方",
+    "context": "祭拜水神的湖上神廟，火山形成的天然水庫"
   },
   {
     "name": "金巴蘭",
     "name_en": "Jimbaran",
-    "lat": -8.77,
-    "lon": 115.17,
-    "country": "印度尼西亞",
+    "lat": -8.79,
+    "lon": 115.165,
+    "country": "印尼",
     "region": "亞洲",
-    "quote": "什麼金巴蘭啊、烏布啊，就是這些在巴黎島很受遊客歡迎的城市，我都沒去",
-    "context": "巴厘島南部受歡迎的海灘區域，與爆炸案故事相關。",
+    "quote": "因為爆炸案當天這對夫婦的先生他要去京巴蘭就是另外一個海灘",
+    "context": "司機父親當天帶客前往的海灘，因而躲過爆炸",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Jimbaran200507-1.jpg/330px-Jimbaran200507-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "烏布",
-    "name_en": "Ubud",
-    "lat": -8.507,
-    "lon": 115.262,
-    "country": "印度尼西亞",
-    "region": "亞洲",
-    "quote": "我第一個地方選的是烏布，烏布他也是巴黎島非常受遊客歡迎的一個區域",
-    "context": "講者第二次旅行的首站，認為其商業與在地文化取得平衡。"
-  },
-  {
-    "name": "布羅摩火山",
-    "name_en": "Mount Bromo",
-    "lat": -7.942,
-    "lon": 112.953,
-    "country": "印度尼西亞",
-    "region": "亞洲",
-    "quote": "我去巴黎島之前我去了布羅摩跟宜正，我就是我連續跑了兩座火山",
-    "context": "位於東爪哇的著名火山，講者在抵達巴厘島前曾造訪。"
-  },
-  {
     "name": "宜珍火山",
-    "name_en": "Mount Ijen",
+    "name_en": "Ijen Crater",
     "lat": -8.058,
     "lon": 114.242,
-    "country": "印度尼西亞",
+    "country": "印尼",
     "region": "亞洲",
-    "quote": "我東爪哇第一個要確定是宜珍火山，然後它其實離巴黎島沒有太遠",
-    "context": "東爪哇的火山，以藍火聞名，地理位置與巴厘島相近。"
-  },
-  {
-    "name": "德格拉朗梯田",
-    "name_en": "Tegalalang Rice Terrace",
-    "lat": -8.435,
-    "lon": 115.279,
-    "country": "印度尼西亞",
-    "region": "亞洲",
-    "quote": "巴黎島他們的比如說宣傳照片跟影片，一定會有一個東西，叫做梯田",
-    "context": "巴厘島著名的梯田景觀，展現了傳統的蘇巴克灌溉技術。"
-  },
-  {
-    "name": "布拉坦水神廟",
-    "name_en": "Pura Ulun Danu Bratan",
-    "lat": -8.275,
-    "lon": 115.166,
-    "country": "印度尼西亞",
-    "region": "亞洲",
-    "quote": "很多人會去的那個什麼布拉坦水神廟，就很多人會去打卡的地方，其實也是在祭拜水神",
-    "context": "位於湖邊的著名神廟，是巴厘島重要的打卡點與宗教地標。"
-  },
-  {
-    "name": "巴厘島爆炸案紀念碑",
-    "name_en": "Bali Bombing Memorial",
-    "lat": -8.717,
-    "lon": 115.174,
-    "country": "印度尼西亞",
-    "region": "亞洲",
-    "quote": "會到庫塔一座紀念碑去，為過去就是不幸罹難的亡生者，為他們舉行那個欺負儀式",
-    "context": "紀念2002年庫塔恐怖攻擊受難者的碑誌，氛圍肅穆。"
+    "quote": "我東爪哇第一個要確定是宜珍火山",
+    "context": "東爪哇行程起點，從峇里島乘船即可抵達東爪哇"
   }
 ]

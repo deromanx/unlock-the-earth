@@ -1,33 +1,23 @@
 [
   {
+    "name": "伏見稻荷大社",
+    "name_en": "Fushimi Inari Taisha",
+    "lat": 34.9671,
+    "lon": 135.7727,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "或者是福建道合神社那个红色的千鸟居",
+    "context": "千本鳥居因電影而爆紅，成為打卡熱門景點",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Torii_path_with_lantern_at_Fushimi_Inari_Taisha_Shrine%2C_Kyoto%2C_Japan.jpg/330px-Torii_path_with_lantern_at_Fushimi_Inari_Taisha_Shrine%2C_Kyoto%2C_Japan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
     "name": "同志社大學",
     "name_en": "Doshisha University",
-    "lat": 35.029,
-    "lon": 135.76,
+    "lat": 35.0306,
+    "lon": 135.7604,
     "country": "日本",
     "region": "亞洲",
-    "quote": "我念是同志社嘛 那已经是在京都寓所的北边",
-    "context": "講者過去在京都就讀的大學"
-  },
-  {
-    "name": "京都御所",
-    "name_en": "Kyoto Imperial Palace",
-    "lat": 35.025,
-    "lon": 135.762,
-    "country": "日本",
-    "region": "亞洲",
-    "quote": "那已经是在京都寓所的北边",
-    "context": "作為描述同志社大學位置的相對地標",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Kyoto-gosho_Kenreimon_%28open%29.JPG/330px-Kyoto-gosho_Kenreimon_%28open%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "JR京都車站",
-    "name_en": "Kyoto Station",
-    "lat": 34.985,
-    "lon": 135.758,
-    "country": "日本",
-    "region": "亞洲",
-    "quote": "城南 就是JR车站更后面的地方",
-    "context": "用以形容違規腳踏車保管場位置偏遠"
+    "quote": "我念是同志社嘛那已经是在京都寓所的北边",
+    "context": "講者就讀的大學，位於京都市區北邊"
   }
 ]

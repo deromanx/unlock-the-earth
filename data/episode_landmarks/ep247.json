@@ -1,56 +1,192 @@
 [
   {
-    "name": "埃及博物館",
-    "name_en": "Egyptian Museum",
-    "lat": 30.047,
-    "lon": 31.233,
-    "country": "埃及",
-    "region": "非洲",
-    "quote": "到博物館買門票的時候 我就先試試看 一律學生假",
-    "context": "來賓分享使用學生證購買半價門票並與當地人互動的經驗",
-    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Egyptian_Museum_logo.png/330px-Egyptian_Museum_logo.png"
-  },
-  {
     "name": "吉薩金字塔",
     "name_en": "Giza Pyramids",
     "lat": 29.979,
     "lon": 31.134,
     "country": "埃及",
     "region": "非洲",
-    "quote": "你現場看到金字塔的 那個感受怎麼樣",
-    "context": "主持人與來賓討論親眼見到金字塔的真實感受與震撼感",
+    "quote": "你现场看到金字塔的那个感受怎么样",
+    "context": "騎駱駝繞吉薩遠觀金字塔，討論現場震撼感",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Pyramids_of_the_Giza_Necropolis.jpg/330px-Pyramids_of_the_Giza_Necropolis.jpg"
-  },
-  {
-    "name": "阿布辛貝神廟",
-    "name_en": "Abu Simbel Temples",
-    "lat": 22.337,
-    "lon": 31.626,
-    "country": "埃及",
-    "region": "非洲",
-    "quote": "到亞斯文 一個很大的目的就是要 第一個是去阿布星輩",
-    "context": "抵達亞斯文後的主要觀光目的地，讓來賓感到非常震撼"
   },
   {
     "name": "盧克索神廟",
     "name_en": "Luxor Temple",
-    "lat": 25.7,
+    "lat": 25.699,
     "lon": 32.639,
     "country": "埃及",
     "region": "非洲",
-    "quote": "我們就把 陸客所神廟 當作我們的 最後一個 這種文化景點",
-    "context": "旅程中最後一個參觀的文化景點，夕陽光影非常美麗",
+    "quote": "所以我们就把陆克所神庙当作我们的最后一个这种文化景点",
+    "context": "夕陽時分的神廟光影，是最難忘的神廟",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Templo_de_Luxor%2C_Luxor%2C_Egipto%2C_2022-04-01%2C_DD_01.jpg/330px-Templo_de_Luxor%2C_Luxor%2C_Egipto%2C_2022-04-01%2C_DD_01.jpg"
+  },
+  {
+    "name": "亞歷山卓路面電車",
+    "name_en": "Alexandria Tram",
+    "lat": 31.2,
+    "lon": 29.918,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "我想要去体验那样子的氛围",
+    "context": "專程搭乘老舊在地路面電車，成為旅程轉折點"
+  },
+  {
+    "name": "西瓦綠洲",
+    "name_en": "Siwa Oasis",
+    "lat": 29.203,
+    "lon": 25.519,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "西瓦是个沙漠绿洲嘛",
+    "context": "撒哈拉沙漠綠洲，結識民宿老闆、鹽湖與星空",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/%D9%8A%D9%88%D9%85_%D8%AC%D8%AF%D9%8A%D8%AF.jpg/330px-%D9%8A%D9%88%D9%85_%D8%AC%D8%AF%D9%8A%D8%AF.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "西瓦鹽湖",
+    "name_en": "Siwa Salt Lake",
+    "lat": 29.19,
+    "lon": 25.56,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "据说他的那个盐度是跟死海很接近的",
+    "context": "可漂浮的高鹽度湖泊，個人版死海"
+  },
+  {
+    "name": "撒哈拉沙漠（西瓦一帶）",
+    "name_en": "Sahara Desert near Siwa",
+    "lat": 29.1,
+    "lon": 25.4,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "这辈子没有看过这么美的星空",
+    "context": "沙漠中看銀河、喝洛神花茶度過夜晚"
   },
   {
     "name": "帝王谷",
     "name_en": "Valley of the Kings",
     "lat": 25.74,
-    "lon": 32.601,
+    "lon": 32.602,
     "country": "埃及",
     "region": "非洲",
-    "quote": "因為盧克所神廟 然後再來是 帝王谷 還有搭熱氣球",
-    "context": "位於盧克索周邊的知名歷史景點，常與熱氣球行程搭配",
+    "quote": "帝王谷也有去啦",
+    "context": "在盧克索造訪，但已有神廟疲勞",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Luxor%2C_Tal_der_K%C3%B6nige_%281995%2C_860x605%29.jpg/330px-Luxor%2C_Tal_der_K%C3%B6nige_%281995%2C_860x605%29.jpg"
+  },
+  {
+    "name": "阿布辛貝神廟",
+    "name_en": "Abu Simbel",
+    "lat": 22.337,
+    "lon": 31.626,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "第一个是去阿布星辈",
+    "context": "南下亞斯文的主要目的，非常震撼"
+  },
+  {
+    "name": "亞斯文",
+    "name_en": "Aswan",
+    "lat": 24.088,
+    "lon": 32.899,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "我们一路就杀到了埃及相对最难的一个大城市是亚斯文",
+    "context": "搭巴士南下抵達，河輪起點",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Panoramic_view_of_Aswan%2C_Egypt.jpg/330px-Panoramic_view_of_Aswan%2C_Egypt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "胡爾加達",
+    "name_en": "Hurghada",
+    "lat": 27.258,
+    "lon": 33.812,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "我们到胡尔加达",
+    "context": "紅海潛水勝地，首次深潛",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/South_Hurghada.jpg/330px-South_Hurghada.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "達哈布",
+    "name_en": "Dahab",
+    "lat": 28.501,
+    "lon": 34.513,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "一个是达哈布",
+    "context": "西奈半島海濱小鎮，再次潛水並愛上海"
+  },
+  {
+    "name": "沙姆沙伊赫",
+    "name_en": "Sharm El Sheikh",
+    "lat": 27.915,
+    "lon": 34.33,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "另一个是沙姆沙伊赫",
+    "context": "西奈半島南端的度假城市",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Sharm_El_Sheikh_-_panoramio_%2815%29.jpg/330px-Sharm_El_Sheikh_-_panoramio_%2815%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "西奈半島",
+    "name_en": "Sinai Peninsula",
+    "lat": 29.5,
+    "lon": 33.8,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "那后来会又去到了西奈半岛这个区域",
+    "context": "臨時加入的行程，氛圍與埃及本島不同"
+  },
+  {
+    "name": "尼羅河",
+    "name_en": "Nile River",
+    "lat": 25.7,
+    "lon": 32.64,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "尼罗河很好认就即使在夜空中你还是可以清楚辨识到",
+    "context": "熱氣球與河輪所見，孕育文明的河流"
+  },
+  {
+    "name": "盧克索",
+    "name_en": "Luxor",
+    "lat": 25.687,
+    "lon": 32.64,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "所以你在卢克所下船的时候",
+    "context": "河輪終點，神廟與熱氣球之地",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/LuxorHotelsIbnWalidSt.jpg/330px-LuxorHotelsIbnWalidSt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "開羅",
+    "name_en": "Cairo",
+    "lat": 30.044,
+    "lon": 31.236,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "开罗的交通是很塞的还是怎样",
+    "context": "抵達首站，交通混亂、老電梯、深夜文化",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Cairo_Opera_House%2C_Al_Hurriyah_Park_and_the_Nile_river_%2814797782354%29.jpg/330px-Cairo_Opera_House%2C_Al_Hurriyah_Park_and_the_Nile_river_%2814797782354%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "開羅國際機場",
+    "name_en": "Cairo International Airport",
+    "lat": 30.112,
+    "lon": 31.4,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "在你还没有进到那个移民官之前就有好几间银行在那边",
+    "context": "機場購買落地簽貼紙與司機包圍"
+  },
+  {
+    "name": "亞歷山卓",
+    "name_en": "Alexandria",
+    "lat": 31.2,
+    "lon": 29.919,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "他们都很骄傲自己是亚历山大人",
+    "context": "地中海沿岸城市，氛圍涼爽有秩序",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/San_Stefano_Grand_Plaza.JPG/330px-San_Stefano_Grand_Plaza.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]

@@ -1,63 +1,93 @@
 [
   {
-    "name": "安曼城堡",
-    "name_en": "Amman Citadel",
-    "lat": 31.9547,
-    "lon": 35.9343,
+    "name": "安曼",
+    "name_en": "Amman",
+    "lat": 31.954,
+    "lon": 35.91,
     "country": "約旦",
     "region": "亞洲",
-    "quote": "就是他們在約旦的首都安曼的一個 就是山頂上的古蹟 在那裡做了一個life concert",
-    "context": "Coldplay 舉辦線上演唱會的地點，為古老的山頂遺跡"
-  },
-  {
-    "name": "瓦蒂倫沙漠",
-    "name_en": "Wadi Rum",
-    "lat": 29.5735,
-    "lon": 35.421,
-    "country": "約旦",
-    "region": "亞洲",
-    "quote": "約旦它其實有一座非常漂亮雄偉的沙漠，叫做瓦蒂倫沙漠",
-    "context": "知名電影《沙丘》取景地，擁有獨特大地色系景觀"
+    "quote": "在約旦的首都安曼的一個山頂上的古蹟",
+    "context": "約旦首都山城，Coldplay演唱會取景，交通上下坡不便"
   },
   {
     "name": "死海",
     "name_en": "Dead Sea",
-    "lat": 31.5,
-    "lon": 35.5,
+    "lat": 31.559,
+    "lon": 35.473,
     "country": "約旦",
     "region": "亞洲",
-    "quote": "它是地球上已露出的陸地最低點 它的海拔是-424",
-    "context": "地表陸地最低點，以高鹽度、強大浮力與海泥聞名"
+    "quote": "它是地球上已露出的陸地最低點",
+    "context": "海拔-424公尺，高鹽度，建議住五星級飯店"
   },
   {
     "name": "佩特拉古城",
     "name_en": "Petra",
-    "lat": 30.3285,
-    "lon": 35.4444,
+    "lat": 30.329,
+    "lon": 35.444,
     "country": "約旦",
     "region": "亞洲",
-    "quote": "去到Petra，尤其是Petra，就是很有名的玫瑰古城那邊",
-    "context": "世界文化遺產，因岩石顏色呈現粉紅而稱「玫瑰古城」",
+    "quote": "他雖然已經是這麼網紅的一個景點但我去的時候還是覺得It's worth it",
+    "context": "納巴泰王朝首都，岩壁神殿古城，至少需三天",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Al_Deir_Petra.JPG/330px-Al_Deir_Petra.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "卡茲尼神殿",
+    "name_en": "Al-Khazneh (The Treasury)",
+    "lat": 30.322,
+    "lon": 35.451,
+    "country": "約旦",
+    "region": "亞洲",
+    "quote": "大家會拍的景點就是那一個叫做Treasury",
+    "context": "佩特拉最著名的打卡神殿"
+  },
+  {
+    "name": "小佩特拉",
+    "name_en": "Little Petra",
+    "lat": 30.395,
+    "lon": 35.456,
+    "country": "約旦",
+    "region": "亞洲",
+    "quote": "Petra旁邊有一個Little Petra小佩特拉",
+    "context": "附近較小的古蹟，騎馬行程目的地"
+  },
+  {
+    "name": "瓦地倫沙漠",
+    "name_en": "Wadi Rum",
+    "lat": 29.576,
+    "lon": 35.42,
+    "country": "約旦",
+    "region": "亞洲",
+    "quote": "約旦它其實有一座非常漂亮雄偉的沙漠叫做瓦蒂倫沙漠",
+    "context": "電影取景沙漠，貝都因營地，岩山高聳"
+  },
+  {
+    "name": "亞倫之墓",
+    "name_en": "Tomb of Aaron (Jabal Harun)",
+    "lat": 30.317,
+    "lon": 35.396,
+    "country": "約旦",
+    "region": "亞洲",
+    "quote": "亞倫有一個陵墓然後據說那個陵墓就在佩特拉的附近",
+    "context": "布克哈特藉口獻祭山羊而發現佩特拉"
+  },
+  {
+    "name": "阿布辛貝神殿",
+    "name_en": "Abu Simbel",
+    "lat": 22.337,
+    "lon": 31.626,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "阿布星輩是他發現的",
+    "context": "布克哈特沿尼羅河上行發現的古蹟"
   },
   {
     "name": "約旦河",
     "name_en": "Jordan River",
-    "lat": 32.1,
-    "lon": 35.55,
+    "lat": 31.767,
+    "lon": 35.545,
     "country": "約旦",
     "region": "亞洲",
-    "quote": "它的水源來源其實就是約旦河 就我剛說把那個巴斯坦就是劃分的那一條河",
-    "context": "死海的主要水源，也是約旦與巴勒斯坦的地理界線"
-  },
-  {
-    "name": "安曼羅馬劇場",
-    "name_en": "Roman Theatre",
-    "lat": 31.9511,
-    "lon": 35.9392,
-    "country": "約旦",
-    "region": "亞洲",
-    "quote": "它就是有一些古蹟可以看 一些羅馬的古城啊 還有就是競技場什麼的",
-    "context": "位於首都安曼市中心的古羅馬時期大型競技場遺址"
+    "quote": "它唯一的水源來源就是約旦河",
+    "context": "死海唯一水源，被上游國家取水灌溉"
   }
 ]

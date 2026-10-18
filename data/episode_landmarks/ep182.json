@@ -1,53 +1,137 @@
 [
   {
-    "name": "索科特拉島 (龍血島)",
+    "name": "索科特拉島",
     "name_en": "Socotra Island",
-    "lat": 12.463,
-    "lon": 53.823,
+    "lat": 12.5,
+    "lon": 53.9,
     "country": "葉門",
     "region": "亞洲",
-    "quote": "另外一個的話就是去龍血島",
-    "context": "擁有特有種龍血樹，是本集探險的核心旅遊地",
+    "quote": "龍血島 So-Kotra Island 他就是那個全世界唯一的龍血樹",
+    "context": "龍血樹所在島嶼，本集重頭戲，露營七天行程",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Socotra_satview.jpg/330px-Socotra_satview.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "塔林",
+    "name": "龍血樹森林",
+    "name_en": "Dragon's Blood Tree Forest (Firmihin)",
+    "lat": 12.51,
+    "lon": 54.0,
+    "country": "葉門",
+    "region": "亞洲",
+    "quote": "你來到那個龍血樹森林的時候 你會發現自己來到了一個外星球",
+    "context": "上千棵龍血樹，視覺衝擊震撼，旅行最大亮點"
+  },
+  {
+    "name": "希巴姆",
+    "name_en": "Shibam",
+    "lat": 15.927,
+    "lon": 48.627,
+    "country": "葉門",
+    "region": "亞洲",
+    "quote": "那個地區 它叫西安 你在那邊可以發現 人類用泥巴做的房子 竟然可以蓋到三四十公尺",
+    "context": "世界遺產泥磚摩天樓，號稱葉門曼哈頓"
+  },
+  {
+    "name": "塔里姆",
     "name_en": "Tarim",
-    "lat": 16.053,
-    "lon": 48.998,
+    "lat": 16.057,
+    "lon": 49.0,
     "country": "葉門",
     "region": "亞洲",
     "quote": "所以我們那時候先去要到一個地方叫Tarim",
-    "context": "位於葉門本土的小城市，有龐大的卡特草交易市場"
+    "context": "入境葉門後首個落腳小城，有卡特草市場街區"
   },
   {
-    "name": "希巴姆 (逐字稿稱西安/夜門曼哈頓)",
-    "name_en": "Shibam",
-    "lat": 15.927,
-    "lon": 48.625,
+    "name": "塔里姆卡特草市場",
+    "name_en": "Tarim Qat Market",
+    "lat": 16.057,
+    "lon": 49.0,
     "country": "葉門",
     "region": "亞洲",
-    "quote": "夜門曼哈頓",
-    "context": "以五六百年歷史的泥巴高樓群聞名的世界文化遺產"
+    "quote": "整個市場都是在賣卡特草 每一個攤位 都是不同的等級",
+    "context": "滿是持槍男子的卡特草市集，差點走不出來"
   },
   {
-    "name": "蓋達",
-    "name_en": "Al Qa'idah",
-    "lat": 13.828,
-    "lon": 44.155,
+    "name": "穆卡拉",
+    "name_en": "Mukalla",
+    "lat": 14.54,
+    "lon": 49.125,
     "country": "葉門",
     "region": "亞洲",
-    "quote": "他竟然有個地名叫做蓋達",
-    "context": "賓拉登祖父曾居住的小鎮，現留有廢棄空屋"
+    "quote": "Mukala這個一個城市 算海邊的一個城市",
+    "context": "葉門第一大港，較商業化，可喝茶抽水煙",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Khor_al-Mukalla.jpg/330px-Khor_al-Mukalla.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "龍血樹森林 (狄克薩姆高原)",
-    "name_en": "Diksam Plateau",
-    "lat": 12.478,
-    "lon": 53.987,
+    "name": "臨海沙丘",
+    "name_en": "Socotra Coastal Dune (Haggeher/Arher Dune)",
+    "lat": 12.65,
+    "lon": 54.35,
     "country": "葉門",
     "region": "亞洲",
-    "quote": "你來到那個龍血樹森林的時候",
-    "context": "生長著上千棵獨特龍血樹的壯觀森林，宛如外星球"
+    "quote": "它那邊有全世界最大最高的那個領海沙丘",
+    "context": "約三百公尺沙丘直通大海，爬了一小時"
+  },
+  {
+    "name": "阿卜杜拉的洞穴與潮間帶",
+    "name_en": "Abdullah's Cave and Tidal Flat, Socotra",
+    "lat": 12.64,
+    "lon": 54.02,
+    "country": "葉門",
+    "region": "亞洲",
+    "quote": "他是唯一的一個在Socotra Island的山頂洞人",
+    "context": "洞穴居民示範潮間帶採集與捕魚，成為景點"
+  },
+  {
+    "name": "賓拉登祖父舊居",
+    "name_en": "Osama bin Laden's Grandfather's House",
+    "lat": 15.7,
+    "lon": 49.1,
+    "country": "葉門",
+    "region": "亞洲",
+    "quote": "最終的話就是要去賓拉登他阿公家 他阿公家在夜門",
+    "context": "位於哈德拉毛的廢棄空屋，當地人無特別感覺"
+  },
+  {
+    "name": "薩拉拉",
+    "name_en": "Salalah",
+    "lat": 17.019,
+    "lon": 54.089,
+    "country": "阿曼",
+    "region": "亞洲",
+    "quote": "搭了12個小時的夜車到Salala 在南部的大城",
+    "context": "夜車抵達後換麵包車前往葉門邊境"
+  },
+  {
+    "name": "馬斯喀特",
+    "name_en": "Muscat",
+    "lat": 23.588,
+    "lon": 58.383,
+    "country": "阿曼",
+    "region": "亞洲",
+    "quote": "我們從阿曼的首都Maskat 搭了12個小時的夜車",
+    "context": "前往葉門的出發地",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Al_Alam_Palace.jpg/330px-Al_Alam_Palace.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "薩那",
+    "name_en": "Sanaa",
+    "lat": 15.369,
+    "lon": 44.191,
+    "country": "葉門",
+    "region": "亞洲",
+    "quote": "我原本是想說要去他們的首都撒拿 但撒拿的話其實不能去",
+    "context": "葉門首都，因政局複雜加價且不便前往",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Sana%27a_%282286825748%29.jpg/330px-Sana%27a_%282286825748%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "阿布達比",
+    "name_en": "Abu Dhabi",
+    "lat": 24.454,
+    "lon": 54.377,
+    "country": "阿拉伯聯合大公國",
+    "region": "亞洲",
+    "quote": "大家都是可能歐美遊客 就飛到阿布達比 然後每個禮拜會有一班飛機",
+    "context": "遊客飛往索科特拉島的中轉點",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Abu_dhabi_skylines_2014.jpg/330px-Abu_dhabi_skylines_2014.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]

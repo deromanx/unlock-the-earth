@@ -1,42 +1,126 @@
 [
   {
-    "name": "新德里英迪拉·甘地國際機場",
+    "name": "達蘭薩拉",
+    "name_en": "Dharamshala",
+    "lat": 32.219,
+    "lon": 76.323,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "我的藏語老師住在北印度的達蘭薩拉",
+    "context": "主持人快閃拜訪藏語老師的地點，停留不到24小時"
+  },
+  {
+    "name": "曼尼拉",
+    "name_en": "Manila",
+    "lat": 14.599,
+    "lon": 120.984,
+    "country": "菲律賓",
+    "region": "亞洲",
+    "quote": "我的菲律賓語老師住在菲律賓曼尼拉",
+    "context": "主持人首次線下拜訪菲律賓語老師",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Cityscape_of_Manila%2C_2025_%2801%29.jpg/330px-Cityscape_of_Manila%2C_2025_%2801%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "德里英迪拉甘地國際機場",
     "name_en": "Indira Gandhi International Airport",
     "lat": 28.556,
     "lon": 77.1,
     "country": "印度",
     "region": "亞洲",
-    "quote": "因为我晚上到新德里的机场",
-    "context": "來賓快閃行程中過夜與經歷安檢的地方"
+    "quote": "我晚上到新德里的機場，然後晚上就待機場",
+    "context": "前往達蘭薩拉前在機場過夜，安檢分區嚴格"
+  },
+  {
+    "name": "日惹",
+    "name_en": "Yogyakarta",
+    "lat": -7.797,
+    "lon": 110.37,
+    "country": "印尼",
+    "region": "亞洲",
+    "quote": "日澤真的很棒，而且是個很有藝術氣息的地方",
+    "context": "爪哇島古蹟與數位游牧友善的悠閒城市"
+  },
+  {
+    "name": "萬隆",
+    "name_en": "Bandung",
+    "lat": -6.917,
+    "lon": 107.619,
+    "country": "印尼",
+    "region": "亞洲",
+    "quote": "萬龍它是個比較位在山上的城市",
+    "context": "位於高地，氣溫比平地低五六度",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Bandung_View_dari_Gedung_Wisma_HSBC_Asia_Afrika_4.jpg/330px-Bandung_View_dari_Gedung_Wisma_HSBC_Asia_Afrika_4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "泗水",
+    "name_en": "Surabaya",
+    "lat": -7.25,
+    "lon": 112.769,
+    "country": "印尼",
+    "region": "亞洲",
+    "quote": "我知道大部分人去火山都是從四水去的",
+    "context": "前往火山群的常見出發點，也是火車終點",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Central_Surabaya_view_taken_from_JW_Marriott_Surabaya.jpg/330px-Central_Surabaya_view_taken_from_JW_Marriott_Surabaya.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "婆羅摩火山",
+    "name_en": "Mount Bromo",
+    "lat": -7.942,
+    "lon": 112.953,
+    "country": "印尼",
+    "region": "亞洲",
+    "quote": "然後再去看火山口",
+    "context": "清晨看日出與火山口的行程高潮"
   },
   {
     "name": "伊真火山",
-    "name_en": "Ijen Volcano",
+    "name_en": "Ijen Crater",
     "lat": -8.058,
     "lon": 114.242,
     "country": "印尼",
     "region": "亞洲",
-    "quote": "哦你说的是一针火山对不对",
-    "context": "主持人在印尼看大型火山流氣孔的具體地點"
+    "quote": "那個我有去，但是那個也是一大早要起來",
+    "context": "需凌晨起床上下坡的硫磺噴氣孔"
+  },
+  {
+    "name": "巴厘島",
+    "name_en": "Bali",
+    "lat": -8.409,
+    "lon": 115.189,
+    "country": "印尼",
+    "region": "亞洲",
+    "quote": "巴厘島就是觀光客很多的地方",
+    "context": "印度教島嶼，豬肉料理，行程中休息放鬆"
   },
   {
     "name": "弗洛勒斯島",
-    "name_en": "Flores Island",
-    "lat": -8.65,
-    "lon": 121.083,
+    "name_en": "Flores",
+    "lat": -8.657,
+    "lon": 121.08,
     "country": "印尼",
     "region": "亞洲",
-    "quote": "有一个叫做佛罗伦斯岛",
-    "context": "作為前往科莫多島跳板的印尼島嶼"
+    "quote": "去佛羅倫斯島主要是我要去看那個克莫多龍",
+    "context": "前往科莫多龍的出發島嶼"
   },
   {
     "name": "科莫多島",
     "name_en": "Komodo Island",
-    "lat": -8.583,
-    "lon": 119.483,
+    "lat": -8.55,
+    "lon": 119.489,
     "country": "印尼",
     "region": "亞洲",
-    "quote": "科莫多岛跟佛罗伦斯岛是在同一个",
-    "context": "本集後半段主角前往觀賞科莫多龍的地點"
+    "quote": "科莫多島跟佛羅倫斯島是在同一個差不多地方",
+    "context": "可看科莫多龍的島嶼，包船過夜浮潛"
+  },
+  {
+    "name": "雅加達",
+    "name_en": "Jakarta",
+    "lat": -6.209,
+    "lon": 106.846,
+    "country": "印尼",
+    "region": "亞洲",
+    "quote": "雅加達的觀光資源比較貧乏",
+    "context": "過馬路困難、交通擁擠，有荷蘭殖民老建築",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Bundaran_Hotel_Indonesia_%282025%29_%28cropped%29.jpg/330px-Bundaran_Hotel_Indonesia_%282025%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]

@@ -1,54 +1,147 @@
 [
   {
-    "name": "塔佩門",
-    "name_en": "Tha Phae Gate",
-    "lat": 18.787,
-    "lon": 98.993,
-    "country": "泰國",
-    "region": "亞洲",
-    "quote": "那個時候跟我同樣要去塔配門的一對中國母女",
-    "context": "討論在清邁搭雙條車避免被司機坑錢的經驗"
+    "name": "波多",
+    "name_en": "Porto",
+    "lat": 41.1496,
+    "lon": -8.611,
+    "country": "葡萄牙",
+    "region": "歐洲",
+    "quote": "我走的路線是葡萄牙的波多再到阿威羅然後里斯本",
+    "context": "旅程第一站，人情味濃、物價便宜、最喜歡的城市"
+  },
+  {
+    "name": "阿威羅",
+    "name_en": "Aveiro",
+    "lat": 40.6405,
+    "lon": -8.6538,
+    "country": "葡萄牙",
+    "region": "歐洲",
+    "quote": "阿威羅就是比較平",
+    "context": "葡萄牙威尼斯，彩色房屋與運河，巴西家庭開珍奶店"
+  },
+  {
+    "name": "里斯本",
+    "name_en": "Lisbon",
+    "lat": 38.7223,
+    "lon": -9.1393,
+    "country": "葡萄牙",
+    "region": "歐洲",
+    "quote": "我覺得就是觀光客變多了而且是多非常非常的多",
+    "context": "大城市，黃色電車、升降車、數位游牧咖啡廳",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Lisboa_-_Portugal_%2852597836992%29.jpg/330px-Lisboa_-_Portugal_%2852597836992%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "杜羅河",
     "name_en": "Douro River",
     "lat": 41.14,
-    "lon": -8.612,
+    "lon": -8.62,
     "country": "葡萄牙",
     "region": "歐洲",
     "quote": "因為波多是有那個杜羅河穿過的",
-    "context": "沿岸與上游為波多酒的重要產地與觀光區",
+    "context": "流經波多，沿岸為波特酒產區",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Rio_Douro_-_Portugal_%2832615481975%29_%28cropped%29.jpg/330px-Rio_Douro_-_Portugal_%2832615481975%29_%28cropped%29.jpg"
   },
   {
     "name": "路易一世大橋",
     "name_en": "Dom Luís I Bridge",
-    "lat": 41.14,
-    "lon": -8.609,
+    "lat": 41.1398,
+    "lon": -8.6094,
     "country": "葡萄牙",
     "region": "歐洲",
-    "quote": "祖景點有那個什麼路易儀式大橋嘛",
-    "context": "連接波多舊城區與加亞新城的重要歷史地標",
+    "quote": "什麼路易儀式大橋啊",
+    "context": "連接波多舊城區與蓋亞新城區的地標大橋",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Dom_Lu%C3%ADs_I_Bridge_%2836961760686%29.jpg/330px-Dom_Lu%C3%ADs_I_Bridge_%2836961760686%29.jpg"
   },
   {
-    "name": "加亞新城",
+    "name": "蓋亞新城",
     "name_en": "Vila Nova de Gaia",
-    "lat": 41.133,
-    "lon": -8.616,
+    "lat": 41.1333,
+    "lon": -8.6167,
     "country": "葡萄牙",
     "region": "歐洲",
-    "quote": "然後新城區叫那個嘉雅新城",
-    "context": "波多酒的主要銷售區與酒莊集中地"
+    "quote": "新城區叫那個嘉雅新城",
+    "context": "橋對岸的酒莊區，可買波特酒"
   },
   {
-    "name": "阿威羅",
-    "name_en": "Aveiro",
-    "lat": 40.64,
-    "lon": -8.653,
+    "name": "熱羅尼莫斯修道院",
+    "name_en": "Jerónimos Monastery",
+    "lat": 38.6979,
+    "lon": -9.2068,
     "country": "葡萄牙",
     "region": "歐洲",
-    "quote": "你要去的是我的下一個城市阿威羅",
-    "context": "以彩繪船與平價海鮮聞名、地勢平坦的平靜小城"
+    "quote": "那家丹塔店是開在那個一間很大的修道院旁邊",
+    "context": "蛋塔發源地旁的修道院，建築漂亮、需排隊"
+  },
+  {
+    "name": "貝倫蛋塔店",
+    "name_en": "Pastéis de Belém",
+    "lat": 38.6975,
+    "lon": -9.2031,
+    "country": "葡萄牙",
+    "region": "歐洲",
+    "quote": "世界上第一間丹塔店在里斯本",
+    "context": "世界第一間葡式蛋塔店，口味像肯德基"
+  },
+  {
+    "name": "里斯本大教堂",
+    "name_en": "Lisbon Cathedral (Sé de Lisboa)",
+    "lat": 38.7099,
+    "lon": -9.133,
+    "country": "葡萄牙",
+    "region": "歐洲",
+    "quote": "28號電車會經過那個主教堂前面",
+    "context": "28號電車經過，是熱門借位拍照點"
+  },
+  {
+    "name": "上城區",
+    "name_en": "Bairro Alto",
+    "lat": 38.7133,
+    "lon": -9.1459,
+    "country": "葡萄牙",
+    "region": "歐洲",
+    "quote": "我最喜歡的是他們新的那個SOHO區在上城區",
+    "context": "酒吧斜坡街、平價 Sangria、老少同樂的夜生活"
+  },
+  {
+    "name": "貝倫文化中心旁泰式涼亭",
+    "name_en": "Thai Pavilion, Belém",
+    "lat": 38.6958,
+    "lon": -9.206,
+    "country": "葡萄牙",
+    "region": "歐洲",
+    "quote": "那公園裡面有一個泰式的涼亭",
+    "context": "泰國贈送的涼亭，令作者想起泰國"
+  },
+  {
+    "name": "清邁",
+    "name_en": "Chiang Mai",
+    "lat": 18.7883,
+    "lon": 98.9853,
+    "country": "泰國",
+    "region": "亞洲",
+    "quote": "那時候我去青麥玩",
+    "context": "2019年搭雙條車的省錢經驗",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/0020-%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B9%8C%E0%B8%A7%E0%B8%A3%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3.jpg/330px-0020-%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%9E%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B9%8C%E0%B8%A7%E0%B8%A3%E0%B8%A1%E0%B8%AB%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "素萬那普機場",
+    "name_en": "Suvarnabhumi Airport",
+    "lat": 13.69,
+    "lon": 100.7501,
+    "country": "泰國",
+    "region": "亞洲",
+    "quote": "從曼谷市區到Swanapurk機場其實是80塊",
+    "context": "計程車常見加價坑客問題"
+  },
+  {
+    "name": "巴塞隆納",
+    "name_en": "Barcelona",
+    "lat": 41.3874,
+    "lon": 2.1686,
+    "country": "西班牙",
+    "region": "歐洲",
+    "quote": "最後再飛到西班牙的巴塞隆納",
+    "context": "行程終點，治安與觀光客多",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Evening_light_over_Barcelona.jpg/330px-Evening_light_over_Barcelona.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]

@@ -6,48 +6,48 @@
     "lon": 114.242,
     "country": "印尼",
     "region": "亞洲",
-    "quote": "東爪哇有一個非常有名的火山叫一針火山",
-    "context": "節目核心討論地點，以極端採礦環境與壯觀火山景致著稱。"
+    "quote": "东爪哇有一个非常有名的火山叫一针火山",
+    "context": "跟隨硫磺礦工採礦的核心地點，描述礦工艱苦處境"
   },
   {
-    "name": "宜珍火山口",
-    "name_en": "Kawah Ijen Crater",
-    "lat": -8.058,
-    "lon": 114.242,
+    "name": "雅加達北部沿海",
+    "name_en": "North Jakarta Coast",
+    "lat": -6.108,
+    "lon": 106.812,
     "country": "印尼",
     "region": "亞洲",
-    "quote": "還要跟著下到那個 200 公尺深的火山口",
-    "context": "礦工採集硫磺的具體地點，環境險惡且充滿高濃度毒氣。"
+    "quote": "雅加达北部沿海地区的居民他们那个地方下沉的速度是每年25公分",
+    "context": "地層下陷最嚴重地區，貧民窟與洪災"
   },
   {
-    "name": "波羅摩火山",
-    "name_en": "Mount Bromo",
-    "lat": -7.942,
-    "lon": 112.953,
+    "name": "北雅加達廢棄清真寺",
+    "name_en": "Abandoned Mosque of North Jakarta",
+    "lat": -6.105,
+    "lon": 106.835,
     "country": "印尼",
     "region": "亞洲",
-    "quote": "帶著遊客去宜征火山，或是去波羅摩山",
-    "context": "受訪者提到的著名火山景點，也是當地礦工嚮往轉行當導遊的目標。"
-  },
-  {
-    "name": "外南夢港口",
-    "name_en": "Ketapang Ferry Terminal",
-    "lat": -8.136,
-    "lon": 114.396,
-    "country": "印尼",
-    "region": "亞洲",
-    "quote": "我下船之後，然後我就從港口走出來",
-    "context": "受訪者從巴厘島搭船抵達東爪哇，與當地礦工接應的地點。"
+    "quote": "我在那个港口看到一座破旧的清真寺",
+    "context": "半淹沒於海中，象徵地層下陷與環境惡化"
   },
   {
     "name": "努山塔拉",
     "name_en": "Nusantara",
-    "lat": -0.961,
-    "lon": 116.71,
+    "lat": -0.975,
+    "lon": 116.7,
     "country": "印尼",
     "region": "亞洲",
-    "quote": "未來叫命名，叫努山塔拉",
-    "context": "印尼政府預計遷往加里曼丹的新首都位址，因雅加達城市問題而選定。",
+    "quote": "然后未来叫命名叫努山塔拉",
+    "context": "印尼新首都計畫選址，位於加里曼丹",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Nusantara%2C_June_2024.png/330px-Nusantara%2C_June_2024.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "班尤旺義",
+    "name_en": "Banyuwangi",
+    "lat": -8.219,
+    "lon": 114.369,
+    "country": "印尼",
+    "region": "亞洲",
+    "quote": "来到一个叫做外南梦印尼语好像叫巴黎王仪吧",
+    "context": "從峇里島搭船抵達的東爪哇第一城"
   }
 ]

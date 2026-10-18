@@ -1,24 +1,109 @@
 [
   {
-    "name": "天山山脉",
-    "name_en": "Tian Shan Mountains",
-    "lat": 42.028,
-    "lon": 80.132,
-    "country": "哈萨克",
+    "name": "阿拉木圖",
+    "name_en": "Almaty",
+    "lat": 43.238,
+    "lon": 76.945,
+    "country": "哈薩克",
     "region": "亞洲",
-    "quote": "天山山脉 正好它可以帮它抓住 就是水汽",
-    "context": "拦截水汽，调节哈萨克南部气候与降雨",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Alpine_meadows_and_snow-covered_peaks_in_Khan_Tengri_Nature_Park%2C_Tien_Shan.jpg/330px-Alpine_meadows_and_snow-covered_peaks_in_Khan_Tengri_Nature_Park%2C_Tien_Shan.jpg"
+    "quote": "阿拉木图就会在天山山脉三角下",
+    "context": "哈薩克舊首都，棋盤式街道、綠意多，行程主要據點",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Almaty_K%C3%B6k_T%C3%B6be.jpg/330px-Almaty_K%C3%B6k_T%C3%B6be.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "喜马拉雅山",
-    "name_en": "Himalayas",
-    "lat": 27.988,
-    "lon": 86.925,
-    "country": "尼泊尔/中国",
+    "name": "阿斯塔納",
+    "name_en": "Astana",
+    "lat": 51.169,
+    "lon": 71.449,
+    "country": "哈薩克",
     "region": "亞洲",
-    "quote": "印度板块跟欧亚大陆板块 会挤压 形成出那个很大的 那个喜马拉雅山",
-    "context": "解释中亚地区发生大地震的板块运动原因",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Himalayas_and_allied_ranges_NASA_Landsat_showing_the_eight_thousanders%2C_annotated_with_major_rivers.jpg/330px-Himalayas_and_allied_ranges_NASA_Landsat_showing_the_eight_thousanders%2C_annotated_with_major_rivers.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    "quote": "阿斯塔纳就是比较新的城市",
+    "context": "人造新首都，共產風格建築，適合停留兩天",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Astana_Esil_view.jpg/330px-Astana_Esil_view.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "天山山脈",
+    "name_en": "Tian Shan",
+    "lat": 43.05,
+    "lon": 77.1,
+    "country": "哈薩克",
+    "region": "亞洲",
+    "quote": "最南边有个天山山脉",
+    "context": "攔截水氣，使阿拉木圖多雨、綠意盎然"
+  },
+  {
+    "name": "夏倫大峽谷",
+    "name_en": "Charyn Canyon",
+    "lat": 43.35,
+    "lon": 79.08,
+    "country": "哈薩克",
+    "region": "亞洲",
+    "quote": "有一个叫做Chayun的Canyon",
+    "context": "類似美國大峽谷的健行景點，步行約一小時下坡",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Charyn_Canyon%2C_Kazakhstan_03.jpg/330px-Charyn_Canyon%2C_Kazakhstan_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "科爾賽湖",
+    "name_en": "Kolsai Lake",
+    "lat": 42.987,
+    "lon": 78.325,
+    "country": "哈薩克",
+    "region": "亞洲",
+    "quote": "一个叫做Cose跟Candy",
+    "context": "一日團行程中的高山湖泊之一"
+  },
+  {
+    "name": "凱恩迪湖",
+    "name_en": "Kaindy Lake",
+    "lat": 42.998,
+    "lon": 78.462,
+    "country": "哈薩克",
+    "region": "亞洲",
+    "quote": "一个叫做Cose跟Candy",
+    "context": "需步行或乘吉普車前往的湖泊",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Kaindy_lake_south-east_Kazakhstan.jpg/330px-Kaindy_lake_south-east_Kazakhstan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "晨山纜車與滑雪場",
+    "name_en": "Shymbulak",
+    "lat": 43.127,
+    "lon": 77.081,
+    "country": "哈薩克",
+    "region": "亞洲",
+    "quote": "最后就到海拔3000公尺",
+    "context": "三段纜車直上高山，冬季滑雪場，夏季避暑",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Shimbulak1.JPG/330px-Shimbulak1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "拜科努爾發射場",
+    "name_en": "Baikonur Cosmodrome",
+    "lat": 45.965,
+    "lon": 63.305,
+    "country": "哈薩克",
+    "region": "亞洲",
+    "quote": "那个地方是苏联的火箭发射基地",
+    "context": "租給俄羅斯的火箭基地，偏遠且團費昂貴，未成行",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Baikonur_Cosmodrome_Soyuz_launch_pad.jpg/330px-Baikonur_Cosmodrome_Soyuz_launch_pad.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "德瑞克海峽",
+    "name_en": "Drake Passage",
+    "lat": -58.5,
+    "lon": -65.0,
+    "country": "南極洲",
+    "region": "極地",
+    "quote": "德瑞克海峡很可怕",
+    "context": "前往南極必經海域，風浪大易暈船"
+  },
+  {
+    "name": "威廉斯港",
+    "name_en": "Puerto Williams",
+    "lat": -54.933,
+    "lon": -67.617,
+    "country": "智利",
+    "region": "美洲",
+    "quote": "威廉斯港跟那个跟陆树怀雅两边在争夺",
+    "context": "南極行程出發點，與烏斯懷亞爭奪最南城鎮",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Puerto_Williams1.JPG/330px-Puerto_Williams1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]

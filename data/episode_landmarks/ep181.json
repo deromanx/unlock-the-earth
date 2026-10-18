@@ -1,22 +1,32 @@
 [
   {
-    "name": "聖地亞哥-德孔波斯特拉主教座堂",
-    "name_en": "Cathedral of Santiago de Compostela",
-    "lat": 42.88,
-    "lon": -8.545,
+    "name": "聖地牙哥德孔波斯特拉大教堂",
+    "name_en": "Santiago de Compostela Cathedral",
+    "lat": 42.8806,
+    "lon": -8.5447,
     "country": "西班牙",
     "region": "歐洲",
-    "quote": "反正他的終點呢 就一定是那個San Diego 就是那個教堂",
-    "context": "朝聖之路的終點，所有朝聖者最終抵達的目的地"
+    "quote": "反正他的终点呢就一定是那个San Diego就是那个教堂",
+    "context": "朝聖之路的固定終點，所有路線皆通往此教堂"
   },
   {
-    "name": "朝聖者辦公室 (聖讓皮耶德波爾)",
-    "name_en": "Pilgrim's Reception Office",
-    "lat": 43.163,
-    "lon": -1.237,
+    "name": "法國之路",
+    "name_en": "Camino Francés",
+    "lat": 42.8,
+    "lon": -1.64,
+    "country": "西班牙",
+    "region": "歐洲",
+    "quote": "我选择就是最简单的路最简单就是最多人然后比较偏安全的路就是法国之路",
+    "context": "講者所走的朝聖路線，全長約800公里"
+  },
+  {
+    "name": "庇里牛斯山朝聖第一天路段",
+    "name_en": "Pyrenees Crossing (Napoleon Route)",
+    "lat": 43.02,
+    "lon": -1.29,
     "country": "法國",
     "region": "歐洲",
-    "quote": "我們在走這個朝聖之路的第一天 我們會先進朝聖者辦公室 然後會拿一個要蓋章的東西",
-    "context": "出發第一天報到並領取朝聖護照（集點卡）的地方"
+    "quote": "第一天你就会经过一个非常猛大家俗称大魔王的一个山",
+    "context": "朝聖第一天的艱難翻山路段，常讓人崩潰或失溫"
   }
 ]

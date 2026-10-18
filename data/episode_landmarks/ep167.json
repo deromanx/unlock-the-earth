@@ -1,22 +1,44 @@
 [
   {
-    "name": "夏威夷大學",
-    "name_en": "University of Hawaii",
-    "lat": 21.297,
-    "lon": -157.817,
-    "country": "美國",
-    "region": "大洋洲",
-    "quote": "然後我就想說夏威夷大學其實是一個非常好的地方",
-    "context": "講者選擇去夏威夷大學留學，以探索南島語族觀點"
-  },
-  {
     "name": "台東史前館",
     "name_en": "National Museum of Prehistory",
-    "lat": 22.761,
-    "lon": 121.092,
+    "lat": 22.7336,
+    "lon": 121.1022,
     "country": "台灣",
     "region": "台灣",
-    "quote": "像最近那個就是台東史前館",
-    "context": "提到其重新開幕的「南島廳」將台灣放入南島語族脈絡"
+    "quote": "最近那個就是台東史前館",
+    "context": "重新開幕並新設南島廳，把台灣放進南島語族脈絡"
+  },
+  {
+    "name": "夏威夷大學",
+    "name_en": "University of Hawaii at Manoa",
+    "lat": 21.2969,
+    "lon": -157.8171,
+    "country": "美國",
+    "region": "大洋洲",
+    "quote": "我就想說夏威夷大學其實是一個非常好的地方",
+    "context": "來賓赴夏威夷求學研究南島語族與菲律賓"
+  },
+  {
+    "name": "基隆",
+    "name_en": "Keelung",
+    "lat": 25.1283,
+    "lon": 121.7419,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "因為我自己是基隆人",
+    "context": "來賓家鄉，移民城市，海洋疏離感的例子",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/%E7%8D%85%E7%90%83%E5%B6%BA%E7%9C%BA%E6%9C%9B%E5%9F%BA%E9%9A%86%E6%B8%AF2017.jpg/330px-%E7%8D%85%E7%90%83%E5%B6%BA%E7%9C%BA%E6%9C%9B%E5%9F%BA%E9%9A%86%E6%B8%AF2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "關島",
+    "name_en": "Guam",
+    "lat": 13.4443,
+    "lon": 144.7937,
+    "country": "美國",
+    "region": "大洋洲",
+    "quote": "我2016年的時候去關島參加一個太平洋藝術節",
+    "context": "來賓參加太平洋藝術節，觀察台灣與大洋洲落差",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Flag_of_Guam.svg/330px-Flag_of_Guam.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]

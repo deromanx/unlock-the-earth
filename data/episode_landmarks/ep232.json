@@ -1,56 +1,54 @@
 [
   {
+    "name": "安塔那那利佛",
+    "name_en": "Antananarivo",
+    "lat": -18.879,
+    "lon": 47.508,
+    "country": "馬達加斯加",
+    "region": "非洲",
+    "quote": "我们就是先飞到那个首都嘛",
+    "context": "旅程起點首都，貧富衝擊、法式餐廳與交通樞紐"
+  },
+  {
     "name": "猴麵包樹大道",
     "name_en": "Avenue of the Baobabs",
     "lat": -20.251,
     "lon": 44.418,
     "country": "馬達加斯加",
     "region": "非洲",
-    "quote": "但是有一个猴面包树大道",
-    "context": "當地最著名的打卡景點，可欣賞美麗夕陽"
+    "quote": "有一个猴面包树大道就是你在IG看它都很美",
+    "context": "旅行主要目的地，以夕陽與猴麵包樹聞名"
   },
   {
-    "name": "摩隆達瓦",
+    "name": "穆隆達瓦",
     "name_en": "Morondava",
-    "lat": -20.283,
-    "lon": 44.283,
+    "lat": -20.287,
+    "lon": 44.288,
     "country": "馬達加斯加",
     "region": "非洲",
-    "quote": "那边搭车去摩隆达瓦",
-    "context": "前往猴麵包樹大道的必經城鎮，車程遙遠",
+    "quote": "摩隆达瓦就是刚刚讲那个猴面包树大道的地方",
+    "context": "從首都搭十五小時車抵達的猴麵包樹大道所在城鎮",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Strada_di_Morondava.jpg/330px-Strada_di_Morondava.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "六旗樂園",
-    "name_en": "Six Flags Magic Mountain",
-    "lat": 34.425,
-    "lon": -118.597,
-    "country": "美國",
-    "region": "美洲",
-    "quote": "就发现你知道在洛杉矶有个六骑乐园吗",
-    "context": "曾舉辦生吃馬達加斯加蟑螂以換取特權的活動",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Six_Flags_Magic_Mountain_Entrance_Plaza_April_2026.jpg/330px-Six_Flags_Magic_Mountain_Entrance_Plaza_April_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    "name": "諾西貝島",
+    "name_en": "Nosy Be",
+    "lat": -13.314,
+    "lon": 48.26,
+    "country": "馬達加斯加",
+    "region": "非洲",
+    "quote": "叫做贝岛 Nosey Bay 对它是在马来加之家的北边的一个小岛",
+    "context": "北部度假島，主講者受傷縫針與歐洲買春團話題"
   },
   {
     "name": "海德堡",
     "name_en": "Heidelberg",
-    "lat": 49.398,
+    "lat": 49.399,
     "lon": 8.672,
     "country": "德國",
     "region": "歐洲",
-    "quote": "是在德国海德堡的时候",
-    "context": "講者在此地上舞蹈課時首次遇見馬達加斯加人",
+    "quote": "第一次的相遇是在德国海德堡的时候",
+    "context": "講者在此上騷莎課，初遇馬達加斯加人",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/K%C3%B6nigstuhl%2C_Heidelberg%2C_U-17.jpg/330px-K%C3%B6nigstuhl%2C_Heidelberg%2C_U-17.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "復活節島",
-    "name_en": "Easter Island",
-    "lat": -27.112,
-    "lon": -109.349,
-    "country": "智利",
-    "region": "大洋洲",
-    "quote": "因为我才刚从复活节岛回来嘛",
-    "context": "探討南島語系發源與遷徙時提到的地點",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Easter_Island_5.jpg/330px-Easter_Island_5.jpg"
   }
 ]

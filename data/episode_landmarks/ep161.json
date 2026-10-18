@@ -1,53 +1,138 @@
 [
   {
-    "name": "國立臺灣大學",
-    "name_en": "National Taiwan University",
-    "lat": 25.017,
-    "lon": 121.536,
-    "country": "台灣",
-    "region": "台灣",
-    "quote": "台大有一門課是農學院開的選修它叫可可學",
-    "context": "講者接觸甜點與可可學的啟蒙地",
-    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/National_Taiwan_University_seal.svg/330px-National_Taiwan_University_seal.svg.png"
-  },
-  {
-    "name": "布龍泰",
-    "name_en": "Bronte",
-    "lat": 37.79,
-    "lon": 14.834,
-    "country": "義大利",
-    "region": "歐洲",
-    "quote": "開心果節在西西里島的東邊一個叫做Blonde的一個小村",
-    "context": "舉辦開心果節的西西里島小鎮"
-  },
-  {
     "name": "阿爾巴",
     "name_en": "Alba",
     "lat": 44.7,
-    "lon": 8.033,
+    "lon": 8.035,
     "country": "義大利",
     "region": "歐洲",
     "quote": "一開始落腳的地方叫Alba",
-    "context": "講者北義體驗榛果與白松露節的據點城鎮"
+    "context": "皮埃蒙特榛果節與白松露節所在小鎮，費列羅總部"
   },
   {
-    "name": "朗格和蒙費拉托",
+    "name": "朗格-蒙費拉托葡萄園景觀",
     "name_en": "Langhe-Roero and Monferrato",
-    "lat": 44.645,
-    "lon": 7.962,
+    "lat": 44.62,
+    "lon": 8.02,
     "country": "義大利",
     "region": "歐洲",
-    "quote": "他們那邊有一個聯合國世界遺產叫做Lange Montferrat",
-    "context": "講者徒步與體驗葡萄採收的文化遺產酒莊區"
+    "quote": "他們那邊有一個聯合國世界遺產",
+    "context": "釀酒區丘陵葡萄園，作者在此健行六小時"
   },
   {
-    "name": "科爾泰米利亞",
+    "name": "戈雷米里亞",
     "name_en": "Cortemilia",
-    "lat": 44.58,
-    "lon": 8.191,
+    "lat": 44.585,
+    "lon": 8.19,
     "country": "義大利",
     "region": "歐洲",
     "quote": "他那個地方叫做Gordemiria",
-    "context": "講者實際前往尋找榛果節活動的山中城鎮"
+    "context": "榛果盛產山城，榛果節舉辦地"
+  },
+  {
+    "name": "米蘭",
+    "name_en": "Milan",
+    "lat": 45.464,
+    "lon": 9.19,
+    "country": "義大利",
+    "region": "歐洲",
+    "quote": "我離開Alba之後的第一站是去米蘭",
+    "context": "探訪甜點店，對傳統甜點感到失望",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Milan_Cathedral_from_Piazza_del_Duomo.jpg/330px-Milan_Cathedral_from_Piazza_del_Duomo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "的里雅斯特",
+    "name_en": "Trieste",
+    "lat": 45.65,
+    "lon": 13.777,
+    "country": "義大利",
+    "region": "歐洲",
+    "quote": "一個東北方叫做Trieste的地方",
+    "context": "奧匈影響的海港，吃到驚豔的蘋果酥捲",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Trieste_%2828766391880%29.jpg/330px-Trieste_%2828766391880%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "熱那亞",
+    "name_en": "Genoa",
+    "lat": 44.406,
+    "lon": 8.934,
+    "country": "義大利",
+    "region": "歐洲",
+    "quote": "一個叫Genova的地方",
+    "context": "松露獵人需前往私人莊園申請採松露執照",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Piazza_de_Ferrari%2C_Genoa.jpg/330px-Piazza_de_Ferrari%2C_Genoa.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "波隆那",
+    "name_en": "Bologna",
+    "lat": 44.494,
+    "lon": 11.343,
+    "country": "義大利",
+    "region": "歐洲",
+    "quote": "你如果去Bologna的話",
+    "context": "以公主長髮為靈感的麵條塔傳說",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Torri_di_Bologna%2C_Bologna.jpg/330px-Torri_di_Bologna%2C_Bologna.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "卡塔尼亞",
+    "name_en": "Catania",
+    "lat": 37.502,
+    "lon": 15.087,
+    "country": "義大利",
+    "region": "歐洲",
+    "quote": "西西島東方有一個叫Catania的地方",
+    "context": "百年老店的粒雪冰配布里歐麵包",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Catania_vista_dall%27alto_e_il_vulcano_Etna_a_sovrastarla.jpg/330px-Catania_vista_dall%27alto_e_il_vulcano_Etna_a_sovrastarla.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "墨西拿",
+    "name_en": "Messina",
+    "lat": 38.194,
+    "lon": 15.554,
+    "country": "義大利",
+    "region": "歐洲",
+    "quote": "一個叫Messina的地方",
+    "context": "作者在西西里實習的東岸地區",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Messina_2003.JPG/330px-Messina_2003.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "贊克萊",
+    "name_en": "Zancle (Messina area)",
+    "lat": 38.19,
+    "lon": 15.555,
+    "country": "義大利",
+    "region": "歐洲",
+    "quote": "我們在那個地方是一個小城叫做Zanglia",
+    "context": "作者實習甜點店所在小城，面向地中海"
+  },
+  {
+    "name": "艾特納火山",
+    "name_en": "Mount Etna",
+    "lat": 37.751,
+    "lon": 14.994,
+    "country": "義大利",
+    "region": "歐洲",
+    "quote": "模仿那個東邊有一個艾特納火山",
+    "context": "東邊尖形炸飯團的形狀靈感來源"
+  },
+  {
+    "name": "巴勒莫主教堂",
+    "name_en": "Palermo Cathedral",
+    "lat": 38.114,
+    "lon": 13.356,
+    "country": "義大利",
+    "region": "歐洲",
+    "quote": "在巴勒摩的時候那邊有一個主教堂",
+    "context": "修女以杏仁膏做彩繪水果的由來"
+  },
+  {
+    "name": "甘奇里湖",
+    "name_en": "Lago di Ganzirri",
+    "lat": 38.264,
+    "lon": 15.627,
+    "country": "義大利",
+    "region": "歐洲",
+    "quote": "我們一開始是去西西里的東北方一個湖",
+    "context": "養殖淡菜與海鮮餐廳聚集地，買菜辦派對"
   }
 ]

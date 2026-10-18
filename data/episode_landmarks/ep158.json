@@ -3,20 +3,20 @@
     "name": "坦塔",
     "name_en": "Tanta",
     "lat": 30.786,
-    "lon": 31.0,
-    "country": "埃及",
-    "region": "非洲",
-    "quote": "它是介於開羅跟亞歷山酌中間的一個小小的農業城市",
-    "context": "講者最初在埃及留學生活半年的城市"
-  },
-  {
-    "name": "坦塔大學",
-    "name_en": "Tanta University",
-    "lat": 30.793,
     "lon": 31.001,
     "country": "埃及",
     "region": "非洲",
-    "quote": "就在坦塔大學附設的語言中心",
-    "context": "講者學習阿拉伯文的機構所在地"
+    "quote": "其實前面的半年在坦塔",
+    "context": "講者初到埃及留學的農業小城，位於開羅與亞歷山卓之間"
+  },
+  {
+    "name": "尼羅河三角洲",
+    "name_en": "Nile Delta",
+    "lat": 30.8,
+    "lon": 31.0,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "就是尼羅河三角洲那個地帶",
+    "context": "農業地帶，開羅人稱當地人為法拉興（農夫）"
   }
 ]

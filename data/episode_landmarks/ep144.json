@@ -1,14 +1,14 @@
 [
   {
-    "name": "吉薩金字塔",
-    "name_en": "Giza Pyramids",
+    "name": "吉薩金字塔群",
+    "name_en": "Giza Pyramid Complex",
     "lat": 29.979,
     "lon": 31.134,
     "country": "埃及",
     "region": "非洲",
-    "quote": "大家會說吉薩金字塔 但有人又會說 哎 金字塔在開羅",
-    "context": "本集主要探討的核心地標，討論其規模與周邊環境",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Pyramids_of_the_Giza_Necropolis.jpg/330px-Pyramids_of_the_Giza_Necropolis.jpg"
+    "quote": "我覺得真的很震撼 就是它比你想像中還要大",
+    "context": "三座金字塔的規模、內部無壁畫與外星人說法",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Pyramids_of_the_Giza_Necropolis.jpg/330px-Pyramids_of_the_Giza_Necropolis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "薩卡拉",
@@ -17,27 +17,131 @@
     "lon": 31.216,
     "country": "埃及",
     "region": "非洲",
-    "quote": "往開羅南部大概開車30分鐘的地方 有個地方叫做薩卡拉",
-    "context": "來賓極力推薦的古蹟景點，保留精美壁畫且遊客較少"
+    "quote": "有個地方叫做薩卡拉",
+    "context": "階梯金字塔所在，有壁畫，與吉薩對比"
   },
   {
-    "name": "階梯金字塔",
+    "name": "左塞爾階梯金字塔",
     "name_en": "Pyramid of Djoser",
     "lat": 29.871,
     "lon": 31.216,
     "country": "埃及",
     "region": "非洲",
     "quote": "那第一個金字塔在這邊就叫階梯金字塔",
-    "context": "位於薩卡拉，為史上第一座金字塔，由印和闐設計"
+    "context": "印和闐建造的第一座金字塔，陵墓在地下"
   },
   {
     "name": "死者之城",
-    "name_en": "City of the Dead",
-    "lat": 30.043,
-    "lon": 31.276,
+    "name_en": "City of the Dead (Cairo)",
+    "lat": 30.046,
+    "lon": 31.275,
     "country": "埃及",
     "region": "非洲",
     "quote": "有一個地方叫做死者之城",
-    "context": "開羅近郊的巨大公墓，目前有幾十萬活人居住於此"
+    "context": "開羅巨大公墓，約五十萬活人居住其中",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Wiki_city_of_the_dead_DSCF0114_Edit.jpg/330px-Wiki_city_of_the_dead_DSCF0114_Edit.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "穆卡坦山丘（垃圾城）",
+    "name_en": "Mokattam / Garbage City",
+    "lat": 30.032,
+    "lon": 31.286,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "他有一個更廣為人知的名字叫做垃圾城",
+    "context": "開羅拾荒者聚居的山丘，分類回收垃圾"
+  },
+  {
+    "name": "聖西蒙教堂",
+    "name_en": "Cave Church of Saint Simon",
+    "lat": 30.0267,
+    "lon": 31.2889,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "這個教堂是完全鑲嵌在一個洞穴裡面的",
+    "context": "位於垃圾城山頂的洞穴教堂，臭味濃重"
+  },
+  {
+    "name": "阿布辛貝神殿",
+    "name_en": "Abu Simbel Temples",
+    "lat": 22.337,
+    "lon": 31.626,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "亞斯文的南邊有一個非常非常有名的神殿 叫做阿布辛貝神廟",
+    "context": "拉美西斯二世神殿，曾因築壩整體遷移，日光奇景"
+  },
+  {
+    "name": "帝王谷",
+    "name_en": "Valley of the Kings",
+    "lat": 25.74,
+    "lon": 32.602,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "圖坦卡門是葬在埃及的帝王谷嘛",
+    "context": "新王國法老陵墓群，壁畫仍有顏色",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Luxor%2C_Tal_der_K%C3%B6nige_%281995%2C_860x605%29.jpg/330px-Luxor%2C_Tal_der_K%C3%B6nige_%281995%2C_860x605%29.jpg"
+  },
+  {
+    "name": "阿瑪納",
+    "name_en": "Amarna",
+    "lat": 27.645,
+    "lon": 30.896,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "遷都到一個叫做阿瑪那的地方",
+    "context": "阿肯納頓為一神教所遷之新都"
+  },
+  {
+    "name": "黑沙漠",
+    "name_en": "Black Desert",
+    "lat": 28.35,
+    "lon": 28.85,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "黑沙漠它其實就是很多個山丘 然後它全部都是黑色的",
+    "context": "撒哈拉中的黑色山丘景觀"
+  },
+  {
+    "name": "白沙漠",
+    "name_en": "White Desert National Park",
+    "lat": 27.33,
+    "lon": 28.15,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "白沙漠 它其實就是很多白色的小沙丘",
+    "context": "白色岩層狀似海浪，奇形怪石"
+  },
+  {
+    "name": "亞斯文",
+    "name_en": "Aswan",
+    "lat": 24.088,
+    "lon": 32.899,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "我是到最南 我就直接先到亞斯文",
+    "context": "夜鋪火車終點，尼羅河郵輪起點，產花崗岩",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Panoramic_view_of_Aswan%2C_Egypt.jpg/330px-Panoramic_view_of_Aswan%2C_Egypt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "盧克索",
+    "name_en": "Luxor",
+    "lat": 25.687,
+    "lon": 32.64,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "後來又去了盧克索",
+    "context": "古底比斯，郵輪終點",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/LuxorHotelsIbnWalidSt.jpg/330px-LuxorHotelsIbnWalidSt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "撒哈拉沙漠（埃及西部沙漠）",
+    "name_en": "Sahara Desert, Western Desert",
+    "lat": 27.5,
+    "lon": 28.5,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "薩哈拉沙漠的野營 是妳最愛的",
+    "context": "三天兩夜野營，星空與寂靜"
   }
 ]

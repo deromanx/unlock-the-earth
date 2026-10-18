@@ -6,119 +6,130 @@
     "lon": -72.545,
     "country": "秘魯",
     "region": "美洲",
-    "quote": "第五天到馬丘比丘，就這樣走過去",
-    "context": "印加遺址，受訪者徒步五天抵達的終點。"
+    "quote": "我们花了五天的时间从Cuzco走到马丘比丘",
+    "context": "徒步印加古道五天抵達馬丘比丘，本集旅程重點"
+  },
+  {
+    "name": "印加古道",
+    "name_en": "Inca Trail",
+    "lat": -13.215,
+    "lon": -72.5,
+    "country": "秘魯",
+    "region": "美洲",
+    "quote": "我们徒步了85公里",
+    "context": "從庫斯科徒步五天，最高海拔4600公尺"
   },
   {
     "name": "庫斯科",
     "name_en": "Cusco",
-    "lat": -13.531,
+    "lat": -13.532,
     "lon": -71.967,
     "country": "秘魯",
     "region": "美洲",
-    "quote": "從Cuzco走到馬丘比丘",
-    "context": "徒步旅程的起點，古印加帝國首都。"
+    "quote": "然后我们就从Cuzco开始走",
+    "context": "印加古道徒步起點"
   },
   {
-    "name": "薩干代步道",
-    "name_en": "Salkantay Trek",
-    "lat": -13.333,
-    "lon": -72.633,
-    "country": "秘魯",
-    "region": "美洲",
-    "quote": "他有一條步道叫薩干代，然後我們就從Cuzco開始走",
-    "context": "徒步至馬丘比丘的替代路線，海拔最高4600公尺。"
-  },
-  {
-    "name": "瓦納比丘",
+    "name": "萬那比丘山",
     "name_en": "Huayna Picchu",
-    "lat": -13.156,
-    "lon": -72.545,
+    "lat": -13.157,
+    "lon": -72.547,
     "country": "秘魯",
     "region": "美洲",
-    "quote": "去爬玩那比丘，就是在馬丘比丘旁的山，然後我們就爬到最上面",
-    "context": "馬丘比丘旁的尖峰，可俯瞰整個遺址景觀。"
+    "quote": "我们之后还有去爬玩那比丘",
+    "context": "登上馬丘比丘旁的山俯瞰遺址"
   },
   {
     "name": "亞馬遜雨林",
-    "name_en": "Amazon Rainforest",
-    "lat": -3.749,
-    "lon": -73.253,
+    "name_en": "Amazon Rainforest (Peru)",
+    "lat": -12.6,
+    "lon": -69.2,
     "country": "秘魯",
     "region": "美洲",
-    "quote": "亞馬遜雨林，親眼看到你在國家地理頻道才會看到的景色",
-    "context": "入住雨林旅館四天三夜，觀察原住民生活。",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Amazon17_%285641020319%29.jpg/330px-Amazon17_%285641020319%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    "quote": "大概四天三夜",
+    "context": "包場式雨林行程，參訪原住民",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Amazon_rainforest.jpg/330px-Amazon_rainforest.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "阿里吉巴 (阿雷基帕)",
+    "name": "阿雷基帕",
     "name_en": "Arequipa",
     "lat": -16.409,
     "lon": -71.537,
     "country": "秘魯",
     "region": "美洲",
-    "quote": "它是白色之城，就它建築都是白色，因為它都是用火山灰蓋",
-    "context": "秘魯最漂亮的城市，建築多由火山石建成。"
+    "quote": "叫阿里吉巴",
+    "context": "火山灰建成的白色之城，三座火山環繞"
   },
   {
-    "name": "米斯蒂火山",
-    "name_en": "El Misti",
-    "lat": -16.294,
-    "lon": -71.409,
+    "name": "阿雷基帕周邊火山",
+    "name_en": "Volcano near Arequipa",
+    "lat": -16.23,
+    "lon": -71.41,
     "country": "秘魯",
     "region": "美洲",
-    "quote": "一路爬到5822公尺，火山是那種你踩一下它會陷下去",
-    "context": "阿里吉巴旁的火山，受訪者在此經歷艱難登頂。"
+    "quote": "一路爬到5822公尺",
+    "context": "攀登近5800公尺火山，遭導遊拋下"
   },
   {
     "name": "拉巴斯",
     "name_en": "La Paz",
-    "lat": -16.489,
+    "lat": -16.49,
     "lon": -68.119,
     "country": "玻利維亞",
     "region": "美洲",
-    "quote": "我們在首都的拉巴斯，我們待了兩周",
-    "context": "玻利維亞行政首都，受訪者在此遭遇大罷工。"
+    "quote": "我们在首都的拉巴斯我们待了两周",
+    "context": "在玻利維亞首都停留兩週，進行各種挑戰"
   },
   {
-    "name": "天空之境 (烏尤尼鹽沼)",
-    "name_en": "Salar de Uyuni",
-    "lat": -20.133,
-    "lon": -67.483,
+    "name": "死亡公路",
+    "name_en": "Yungas Road (Death Road)",
+    "lat": -16.3,
+    "lon": -67.79,
     "country": "玻利維亞",
     "region": "美洲",
-    "quote": "大家的目光都會落在天空之境",
-    "context": "玻利維亞最知名的景點，世界最大鹽沼。"
+    "quote": "死亡公路是他的official name",
+    "context": "騎單車下坡，驚險萬分"
   },
   {
-    "name": "瓦伊納波托西山",
-    "name_en": "Huayna Potosí",
-    "lat": -16.262,
-    "lon": -68.155,
-    "country": "玻利維亞",
-    "region": "美洲",
-    "quote": "去挑戰6800公尺的雪山，它是要雪盤，就是爬在雪上",
-    "context": "拉巴斯附近的雪山，受訪者進行冰川攀登挑戰。"
-  },
-  {
-    "name": "米蘭馬爾彭薩機場",
-    "name_en": "Milan Malpensa Airport",
-    "lat": 45.63,
-    "lon": 8.723,
-    "country": "義大利",
-    "region": "歐洲",
-    "quote": "我選的那個地方在米蘭的那個國際機場附近",
-    "context": "受訪者即將前往交換的據點，交通位置便利。",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Milan_malpensa_terminal_airport.jpg/330px-Milan_malpensa_terminal_airport.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "聖地牙哥",
-    "name_en": "Santiago",
-    "lat": -33.448,
-    "lon": -70.667,
+    "name": "阿塔卡馬沙漠",
+    "name_en": "Atacama Desert",
+    "lat": -23.865,
+    "lon": -69.133,
     "country": "智利",
     "region": "美洲",
-    "quote": "這次就是只有到智利的首都，我們就玩到森迪亞哥",
-    "context": "智利首都，本次南美旅程抵達的最南端城市。"
+    "quote": "自立北边的那个阿塔嘎玛沙漠",
+    "context": "觀星、租越野腳踏車探索沙漠",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Atacama.png/330px-Atacama.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "布宜諾斯艾利斯",
+    "name_en": "Buenos Aires",
+    "lat": -34.604,
+    "lon": -58.382,
+    "country": "阿根廷",
+    "region": "美洲",
+    "quote": "我们去不运动在伊丽丝的时候我们有去跟当地人学Tango",
+    "context": "體驗探戈舞會與眼神邀舞文化",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Puerto_Madero%2C_Buenos_Aires_%2840689219792%29_%28cropped%29.jpg/330px-Puerto_Madero%2C_Buenos_Aires_%2840689219792%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "伊瓜蘇瀑布",
+    "name_en": "Iguazu Falls",
+    "lat": -25.695,
+    "lon": -54.436,
+    "country": "阿根廷",
+    "region": "美洲",
+    "quote": "伊瓜书就是它是世界上最宽的瀑布",
+    "context": "震撼的大瀑布，可順道一日遊巴西"
+  },
+  {
+    "name": "魔鬼咽喉",
+    "name_en": "Devil's Throat (Garganta del Diablo)",
+    "lat": -25.686,
+    "lon": -54.444,
+    "country": "阿根廷",
+    "region": "美洲",
+    "quote": "那个时候魔鬼咽喉被冲断",
+    "context": "步道遭沖毀後重建，剛啟用時造訪"
   }
 ]

@@ -1,16 +1,5 @@
 [
   {
-    "name": "國立臺灣大學",
-    "name_en": "National Taiwan University",
-    "lat": 25.017,
-    "lon": 121.536,
-    "country": "台灣",
-    "region": "台灣",
-    "quote": "然後後來就去台大跟他們交流",
-    "context": "講者與邦交國代表及考古學家交流的地點",
-    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/National_Taiwan_University_seal.svg/330px-National_Taiwan_University_seal.svg.png"
-  },
-  {
     "name": "蒂卡爾",
     "name_en": "Tikal",
     "lat": 17.222,
@@ -18,36 +7,56 @@
     "country": "瓜地馬拉",
     "region": "美洲",
     "quote": "萬里馬拉最大的考古遺址是蒂卡爾",
-    "context": "瓜地馬拉最大的瑪雅考古遺址"
+    "context": "瓜地馬拉最大瑪雅遺址，曾被卡拉科擊敗"
+  },
+  {
+    "name": "卡拉科遺址",
+    "name_en": "Caracol",
+    "lat": 16.764,
+    "lon": -89.116,
+    "country": "貝里斯",
+    "region": "美洲",
+    "quote": "在他的麻雅的地區有一個叫卡拉库的遺址",
+    "context": "貝里斯巨大瑪雅城邦，擊敗蒂卡爾，英國王室造訪"
   },
   {
     "name": "聖伊格納西奧",
     "name_en": "San Ignacio",
-    "lat": 17.158,
+    "lat": 17.157,
     "lon": -89.069,
     "country": "貝里斯",
     "region": "美洲",
-    "quote": "叫Saint Ignatium",
-    "context": "講者參與考古發掘的遺址所在城鎮"
+    "quote": "貝離斯西部的第一大城叫Saint Ignatium",
+    "context": "貝里斯西部大城，旁邊山坡即作者考古遺址"
   },
   {
     "name": "ATM洞穴",
     "name_en": "Actun Tunichil Muknal",
-    "lat": 17.097,
-    "lon": -88.864,
+    "lat": 17.112,
+    "lon": -88.866,
     "country": "貝里斯",
     "region": "美洲",
-    "quote": "ATM CAVE",
-    "context": "古代瑪雅人進行活人獻祭的洞穴遺跡"
+    "quote": "有一個叫ATM ATM CAVE",
+    "context": "瑪雅活人獻祭洞穴遺址，需涉水進入"
   },
   {
-    "name": "卡拉庫",
-    "name_en": "Caracol",
-    "lat": 16.763,
-    "lon": -89.117,
+    "name": "貝爾莫潘",
+    "name_en": "Belmopan",
+    "lat": 17.251,
+    "lon": -88.759,
     "country": "貝里斯",
     "region": "美洲",
-    "quote": "在他的麻雅的地區有一個叫卡拉库的遺址",
-    "context": "曾打敗蒂卡爾的強大城邦"
+    "quote": "我要去他們首都就是Belmopan",
+    "context": "貝里斯首都，作者在巴士上見聞辣醬趣事"
+  },
+  {
+    "name": "大藍洞",
+    "name_en": "Great Blue Hole",
+    "lat": 17.316,
+    "lon": -87.535,
+    "country": "貝里斯",
+    "region": "美洲",
+    "quote": "所以大藍洞啊就是海有海要遺跡有遺跡",
+    "context": "貝里斯自然美景象徵，常用於觀光宣傳"
   }
 ]

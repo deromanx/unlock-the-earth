@@ -1,53 +1,74 @@
 [
   {
-    "name": "星宿海青年旅館 (Star Hostel)",
-    "name_en": "Star Hostel",
-    "lat": 25.05,
-    "lon": 121.516,
-    "country": "台灣",
-    "region": "台灣",
-    "quote": "你知道我在Star Hostel那边 路过一段时间赢",
-    "context": "主持人提到早期曾在此處錄音。"
+    "name": "布宜諾斯艾利斯歷史博物館",
+    "name_en": "Museo Histórico Nacional (Buenos Aires)",
+    "lat": -34.6276,
+    "lon": -58.3702,
+    "country": "阿根廷",
+    "region": "美洲",
+    "quote": "大家一定一定要抽半天去",
+    "context": "講解員一小時講完阿根廷歷史，強力推薦首站造訪"
+  },
+  {
+    "name": "門多薩",
+    "name_en": "Mendoza",
+    "lat": -32.8895,
+    "lon": -68.8458,
+    "country": "阿根廷",
+    "region": "美洲",
+    "quote": "酒鬼的梦乡就是他是一个非常非常有名的产酒地方",
+    "context": "葡萄酒產地，作者在此品酒、參加酒莊之旅"
+  },
+  {
+    "name": "科爾多瓦",
+    "name_en": "Córdoba, Argentina",
+    "lat": -31.4201,
+    "lon": -64.1888,
+    "country": "阿根廷",
+    "region": "美洲",
+    "quote": "他们的第二大城市",
+    "context": "遇上國慶日，吃到Locro，與西班牙同名城市鬧烏龍"
+  },
+  {
+    "name": "前哥倫布藝術博物館",
+    "name_en": "Museo Chileno de Arte Precolombino",
+    "lat": -33.439,
+    "lon": -70.6509,
+    "country": "智利",
+    "region": "美洲",
+    "quote": "叫做Pre-Columbia美术馆",
+    "context": "聖地牙哥博物館，詳盡介紹中南美原住民與殖民歷史"
+  },
+  {
+    "name": "伊瓜蘇瀑布",
+    "name_en": "Iguazú Falls",
+    "lat": -25.6953,
+    "lon": -54.4367,
+    "country": "阿根廷",
+    "region": "美洲",
+    "quote": "就是刚讲到那个大瀑布伊瓜苏",
+    "context": "阿根廷北部大瀑布，作者未前往",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Aerial_Foz_de_Igua%C3%A7u_26_Nov_2005.jpg/330px-Aerial_Foz_de_Igua%C3%A7u_26_Nov_2005.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "烏斯懷亞",
     "name_en": "Ushuaia",
-    "lat": -54.801,
-    "lon": -68.302,
+    "lat": -54.8019,
+    "lon": -68.303,
     "country": "阿根廷",
     "region": "美洲",
-    "quote": "大家经常去那个呃 乌斯怀亚 对 乌斯怀亚 去到南京那边",
-    "context": "許多旅客會前往的南部城市，作為搭船前往南極的起點。",
+    "quote": "乌斯怀亚 对 乌斯怀亚",
+    "context": "前往南極的出發港，作者行程刻意略過",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Ushuaia_aerial_panorama.jpg/330px-Ushuaia_aerial_panorama.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "伊瓜蘇瀑布",
-    "name_en": "Iguazu Falls",
-    "lat": -25.695,
-    "lon": -54.436,
+    "name": "安第斯山脈跨境路段",
+    "name_en": "Andes Mountains (Mendoza–Santiago route)",
+    "lat": -32.823,
+    "lon": -70.088,
     "country": "阿根廷",
     "region": "美洲",
-    "quote": "就是刚讲到那个大瀑布 伊瓜苏",
-    "context": "位於阿根廷北部的著名大瀑布景點。"
-  },
-  {
-    "name": "巴塔哥尼亞國家公園",
-    "name_en": "Patagonia National Park",
-    "lat": -47.114,
-    "lon": -72.485,
-    "country": "阿根廷",
-    "region": "美洲",
-    "quote": "它还有一个很著名的 一个公园 叫做 Patagonia 那个国家公园",
-    "context": "阿根廷南部著名的國家公園，為熱門的徒步旅行地點。"
-  },
-  {
-    "name": "阿根廷國家藝術大學",
-    "name_en": "National University of the Arts",
-    "lat": -34.594,
-    "lon": -58.373,
-    "country": "阿根廷",
-    "region": "美洲",
-    "quote": "他们是旁边的一所 阿根廷艺术类大学",
-    "context": "當地藝術學生抗議政府因經濟因素可能關閉該校。"
+    "quote": "中间其实是安地斯山脉嘛我们中间有一段真的是绝美",
+    "context": "夜巴翻越安地斯山，朝陽映照雪頂的美景"
   }
 ]

@@ -1,43 +1,166 @@
 [
   {
     "name": "埃及博物館",
-    "name_en": "Egyptian Museum",
-    "lat": 30.047,
-    "lon": 31.233,
+    "name_en": "Egyptian Museum, Cairo",
+    "lat": 30.048,
+    "lon": 31.234,
     "country": "埃及",
     "region": "非洲",
-    "quote": "就埃及博物馆里面 大部分的墓里面法老的展览品 都是它一个人的",
-    "context": "收藏圖坦卡門大量陪葬品的舊博物館",
-    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Egyptian_Museum_logo.png/330px-Egyptian_Museum_logo.png"
-  },
-  {
-    "name": "阿布辛貝神廟",
-    "name_en": "Abu Simbel Temples",
-    "lat": 22.337,
-    "lon": 31.625,
-    "country": "埃及",
-    "region": "非洲",
-    "quote": "他留下来就是各式各样的神庙跟雕像 阿布辛贝",
-    "context": "拉美西斯二世留下的著名神廟"
+    "quote": "現在的舊的埃及博物館二樓一整層幾乎都是圖坦卡蒙的東西",
+    "context": "舊館展出圖坦卡蒙大量陪葬品"
   },
   {
     "name": "埃及文明博物館",
     "name_en": "National Museum of Egyptian Civilization",
-    "lat": 30.008,
-    "lon": 31.248,
+    "lat": 30.0084,
+    "lon": 31.265,
     "country": "埃及",
     "region": "非洲",
-    "quote": "第二个是埃及文明博物馆 这个算新的 大概两年多 两三年前开始吧",
-    "context": "展出重要法老木乃伊且具科技感的新博物館"
+    "quote": "你要去埃及文明博物館現在",
+    "context": "新建博物館，收藏拉美西斯二世等重要木乃伊"
   },
   {
-    "name": "尼羅河",
-    "name_en": "Nile River",
-    "lat": 30.048,
-    "lon": 31.224,
+    "name": "路克索神廟",
+    "name_en": "Luxor Temple",
+    "lat": 25.6996,
+    "lon": 32.6392,
     "country": "埃及",
     "region": "非洲",
-    "quote": "钉死丢到尼罗河里面 他就被淹死了",
-    "context": "神話中歐西里斯遇害的地點及鱷魚神信仰來源"
+    "quote": "在這個神廟你可以同時看到基督教的影子也可以看到伊斯蘭的影子",
+    "context": "古埃及神廟內疊有基督教痕跡與清真寺",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Templo_de_Luxor%2C_Luxor%2C_Egipto%2C_2022-04-01%2C_DD_01.jpg/330px-Templo_de_Luxor%2C_Luxor%2C_Egipto%2C_2022-04-01%2C_DD_01.jpg"
+  },
+  {
+    "name": "卡納克神廟",
+    "name_en": "Karnak Temple Complex",
+    "lat": 25.7188,
+    "lon": 32.6573,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "有一個很大很大的卡納克神廟",
+    "context": "歷代法老增建的龐大露天神廟群"
+  },
+  {
+    "name": "斯芬克斯大道",
+    "name_en": "Avenue of Sphinxes",
+    "lat": 25.7077,
+    "lon": 32.649,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "它有一條道路那這道路兩旁它都有放羊面獅身像",
+    "context": "連接路克索與卡納克神廟的慶典大道"
+  },
+  {
+    "name": "底比斯",
+    "name_en": "Thebes",
+    "lat": 25.7,
+    "lon": 32.64,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "路克索這個地方以前叫做迪比斯",
+    "context": "古埃及某時期首都，即今路克索"
+  },
+  {
+    "name": "菲萊神廟",
+    "name_en": "Philae Temple",
+    "lat": 24.025,
+    "lon": 32.8847,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "你去阿斯旺的飛來神廟它就是比較是記錄那個伊西斯跟歐西里斯他們之間的愛情",
+    "context": "壁畫記載伊西斯與歐西里斯的故事"
+  },
+  {
+    "name": "阿布辛貝神廟",
+    "name_en": "Abu Simbel Temples",
+    "lat": 22.3372,
+    "lon": 31.6258,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "拉美西斯二世呢他留下來是各式各樣的神廟跟雕像阿布辛貝",
+    "context": "拉美西斯二世留下的神廟代表"
+  },
+  {
+    "name": "西奈山",
+    "name_en": "Mount Sinai",
+    "lat": 28.5392,
+    "lon": 33.9754,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "山你可以去爬西奈山",
+    "context": "摩西受十誡之山，半夜登頂看日出"
+  },
+  {
+    "name": "達哈布藍洞",
+    "name_en": "Blue Hole, Dahab",
+    "lat": 28.572,
+    "lon": 34.5369,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "比如說Dahab這個地方有一個地方叫藍洞",
+    "context": "紅海知名潛水點"
+  },
+  {
+    "name": "鯨魚谷",
+    "name_en": "Wadi Al-Hitan (Whale Valley)",
+    "lat": 29.2686,
+    "lon": 30.0394,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "我推薦你去鯨魚谷這個地方",
+    "context": "沙漠中的鯨魚化石遺址，可一日往返",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/The_whales_fossils_at_Wadi_El-Hitan%2C_Egypt_2017.jpg/330px-The_whales_fossils_at_Wadi_El-Hitan%2C_Egypt_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "法尤姆綠洲",
+    "name_en": "Faiyum Oasis",
+    "lat": 29.3084,
+    "lon": 30.8428,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "它在的綠洲叫法尤姆綠洲",
+    "context": "離開羅近，鯨魚谷所在綠洲"
+  },
+  {
+    "name": "黑白沙漠",
+    "name_en": "Black and White Desert",
+    "lat": 27.35,
+    "lon": 28.1,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "你也可以去黑白沙漠我也非常非常推薦這個地方",
+    "context": "兩天一夜露營，奇岩景觀"
+  },
+  {
+    "name": "水晶山",
+    "name_en": "Crystal Mountain",
+    "lat": 27.03,
+    "lon": 28.11,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "還有一個地方叫水晶山也在那附近",
+    "context": "水晶岩山，遭遊客敲取而縮小"
+  },
+  {
+    "name": "西瓦綠洲",
+    "name_en": "Siwa Oasis",
+    "lat": 29.2032,
+    "lon": 25.5195,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "有一個地方叫西瓦綠洲",
+    "context": "極深處綠洲，有網美鹽湖，開羅單程12小時",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/%D9%8A%D9%88%D9%85_%D8%AC%D8%AF%D9%8A%D8%AF.jpg/330px-%D9%8A%D9%88%D9%85_%D8%AC%D8%AF%D9%8A%D8%AF.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "吉薩金字塔",
+    "name_en": "Giza Pyramid Complex",
+    "lat": 29.9792,
+    "lon": 31.1342,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "金字塔這邊就也算撒哈拉沙漠了",
+    "context": "位於撒哈拉邊緣，亦是埃及夢象徵",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Pyramids_of_the_Giza_Necropolis.jpg/330px-Pyramids_of_the_Giza_Necropolis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]

@@ -1,34 +1,66 @@
 [
   {
-    "name": "哥倫比亞大學",
-    "name_en": "Columbia University",
-    "lat": 40.807,
-    "lon": -73.962,
-    "country": "美國",
+    "name": "波哥大老城區",
+    "name_en": "La Candelaria, Bogotá",
+    "lat": 4.597,
+    "lon": -74.075,
+    "country": "哥倫比亞",
     "region": "美洲",
-    "quote": "我没有升上哥伦比亚大学",
-    "context": "主持人開玩笑說因沒考上該大學所以去哥倫比亞",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Coat_of_Arms_of_Columbia_University.svg/330px-Coat_of_Arms_of_Columbia_University.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    "quote": "我在住在他們的老城區 他們每兩個街口就會有一個警察",
+    "context": "作者住宿與參加塗鴉導覽的核心區域，街頭滿是塗鴉"
   },
   {
     "name": "薩倫托",
     "name_en": "Salento",
     "lat": 4.637,
-    "lon": -75.57,
+    "lon": -75.571,
     "country": "哥倫比亞",
     "region": "美洲",
-    "quote": "中间有一个就是小山区 它就是专门是用来徒步的 叫做Solanto",
-    "context": "哥倫比亞的小山區城鎮，是熱門的徒步旅行地點",
+    "quote": "它主要是一個徒步的城市",
+    "context": "以徒步與咖啡莊園聞名，作者在此徒步並品嚐咖啡",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/The_heel_of_the_boot_of_Italy.jpeg/330px-The_heel_of_the_boot_of_Italy.jpeg"
   },
   {
-    "name": "波哥大老城區",
-    "name_en": "Bogotá Old City (La Candelaria)",
-    "lat": 4.597,
-    "lon": -74.072,
+    "name": "卡利",
+    "name_en": "Cali",
+    "lat": 3.451,
+    "lon": -76.532,
     "country": "哥倫比亞",
     "region": "美洲",
-    "quote": "我在住在他们的老城区 他们每两个街口就会有一个警察",
-    "context": "主持人在波哥大居住及觀看著名塗鴉的歷史街區"
+    "quote": "我主要就是去了它的首都波哥大和它的就是第二大城市卡利",
+    "context": "作者造訪的第二大城，以莎莎舞聞名",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Santiago_de_Cali.jpg/330px-Santiago_de_Cali.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "麥德林",
+    "name_en": "Medellín",
+    "lat": 6.244,
+    "lon": -75.581,
+    "country": "哥倫比亞",
+    "region": "美洲",
+    "quote": "麥德林本身它原來是他們的第三大城市吧",
+    "context": "昔日毒品重鎮，如今轉型為夜生活派對城市",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Centro_de_Medell%C3%ADn_en_dron_04.jpg/330px-Centro_de_Medell%C3%ADn_en_dron_04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "美國哥倫比亞特區",
+    "name_en": "Washington, D.C. (District of Columbia)",
+    "lat": 38.895,
+    "lon": -77.036,
+    "country": "美國",
+    "region": "美洲",
+    "quote": "他的英文名字是District of Columbia",
+    "context": "解釋 DC 名稱由來與哥倫比亞名字的關聯"
+  },
+  {
+    "name": "哥倫比亞大學",
+    "name_en": "Columbia University",
+    "lat": 40.808,
+    "lon": -73.962,
+    "country": "美國",
+    "region": "美洲",
+    "quote": "哥伦比亚大学跟哥伦比亚没有半点关系",
+    "context": "開場以校名談哥倫比亞名稱的淵源",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Coat_of_Arms_of_Columbia_University.svg/330px-Coat_of_Arms_of_Columbia_University.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]

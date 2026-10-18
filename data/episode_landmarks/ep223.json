@@ -3,82 +3,171 @@
     "name": "柯芬園",
     "name_en": "Covent Garden",
     "lat": 51.512,
-    "lon": -0.123,
+    "lon": -0.122,
     "country": "英國",
     "region": "歐洲",
-    "quote": "他的爸爸就在科芬园这里开了一个这个理法厅",
-    "context": "透納父親開設理髮廳的地點，也是充滿活力、各種人群聚集的街區。"
+    "quote": "柯芬園是他以前是一個富豪區",
+    "context": "透納出生成長之地，父親理髮廳所在，曾為蔬果市場"
   },
   {
     "name": "梅登巷21號",
     "name_en": "21 Maiden Lane",
-    "lat": 51.51,
-    "lon": -0.123,
+    "lat": 51.5105,
+    "lon": -0.1236,
     "country": "英國",
     "region": "歐洲",
-    "quote": "他的理法厅，就是21号Mainton Lane，就在科分园里面",
-    "context": "透納父親理髮廳的確切地址與透納故居，現址已變成一間酒吧。"
+    "quote": "就是21号Mainton Lane",
+    "context": "透納父親理髮廳舊址，現為酒吧並有綠色紀念牌"
   },
   {
     "name": "皇家藝術學院",
     "name_en": "Royal Academy of Arts",
-    "lat": 51.509,
-    "lon": -0.14,
+    "lat": 51.5095,
+    "lon": -0.1394,
     "country": "英國",
     "region": "歐洲",
-    "quote": "他就在RA，就是皇家艺术学院展出了一幅画，那个对年轻人来说是很了不得的事情",
-    "context": "透納的母校，他年輕時即在此展出畫作，後來也成為該院的院士。"
-  },
-  {
-    "name": "馬蓋特",
-    "name_en": "Margate",
-    "lat": 51.385,
-    "lon": 1.386,
-    "country": "英國",
-    "region": "歐洲",
-    "quote": "有时候他就会带去Margat这个地方，Margat是沿海一带的小城市",
-    "context": "透納常去的海邊小城，讓他能頻繁接觸海景並成為其畫作的靈感。",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Margate_Clock_Tower_Oast_House_Archive.jpg/330px-Margate_Clock_Tower_Oast_House_Archive.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "滑鐵盧橋",
-    "name_en": "Waterloo Bridge",
-    "lat": 51.508,
-    "lon": -0.117,
-    "country": "英國",
-    "region": "歐洲",
-    "quote": "那他那时候展出他的一幅画，就是这个开幕的滑铁卢之桥",
-    "context": "畫家康斯特勃展出的畫作主題，描繪了慶祝滑鐵盧戰役勝利的橋上人群。"
+    "quote": "皇家艺术学院的Royal Academy of Arts",
+    "context": "透納的母校，24歲成為最年輕院士，與康斯塔伯較勁"
   },
   {
     "name": "國家美術館",
     "name_en": "National Gallery",
-    "lat": 51.508,
-    "lon": -0.128,
+    "lat": 51.5089,
+    "lon": -0.1283,
     "country": "英國",
     "region": "歐洲",
-    "quote": "接下来离他很近的呢，也是一个很重要很重要的地标，就是National Gallery",
-    "context": "距離透納生活圈很近的倫敦重要地標，於2024年迎來成立200週年。"
+    "quote": "就是National Gallery",
+    "context": "收藏無畏號等透納名作，與克勞德·洛蘭作品並置"
+  },
+  {
+    "name": "泰德不列顛美術館",
+    "name_en": "Tate Britain",
+    "lat": 51.491,
+    "lon": -0.1276,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "你一定要去Tate Britain",
+    "context": "設有透納專區，收藏《藍色瑞吉山》與滑鐵盧等畫作"
+  },
+  {
+    "name": "透納故居",
+    "name_en": "Turner's House",
+    "lat": 51.4472,
+    "lon": -0.3322,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "就叫Tunner's House",
+    "context": "透納中年時期在特威克南的住所，已整修開放"
+  },
+  {
+    "name": "聖保羅大教堂",
+    "name_en": "St Paul's Cathedral",
+    "lat": 51.5138,
+    "lon": -0.0984,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "他最后是埋葬在圣保罗大教堂里面",
+    "context": "透納安葬於地下墓室的藝術家區"
+  },
+  {
+    "name": "格林威治",
+    "name_en": "Greenwich",
+    "lat": 51.4826,
+    "lon": -0.0077,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "Greenwich这一代就是从16世纪以后",
+    "context": "造船與海事重地，海事博物館所在"
+  },
+  {
+    "name": "格林威治國家海事博物館",
+    "name_en": "National Maritime Museum",
+    "lat": 51.4811,
+    "lon": -0.0054,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "就是格里尼治海事博物館",
+    "context": "展出透納特拉法加海戰大型畫作"
+  },
+  {
+    "name": "切爾西切尼步道",
+    "name_en": "Cheyne Walk, Chelsea",
+    "lat": 51.4846,
+    "lon": -0.1721,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "今天我们叫这个Cheney Walk这一带",
+    "context": "透納晚年與情婦居住的富人區"
+  },
+  {
+    "name": "瑞吉山",
+    "name_en": "Rigi",
+    "lat": 47.0562,
+    "lon": 8.4854,
+    "country": "瑞士",
+    "region": "歐洲",
+    "quote": "Rigi这个地方其实是在瑞士",
+    "context": "透納《藍色瑞吉山》描繪的風景，與龜山島相聯想"
+  },
+  {
+    "name": "馬蓋特",
+    "name_en": "Margate",
+    "lat": 51.3813,
+    "lon": 1.3862,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "Margat是沿海一带的小城市",
+    "context": "透納少年時期常去的海邊小鎮，影響其海景創作",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Margate_Clock_Tower_Oast_House_Archive.jpg/330px-Margate_Clock_Tower_Oast_House_Archive.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "特拉法加海戰海域",
+    "name_en": "Cape Trafalgar",
+    "lat": 36.1833,
+    "lon": -6.0333,
+    "country": "西班牙",
+    "region": "歐洲",
+    "quote": "他出现在这个特拉法加之战里面",
+    "context": "無畏號參與的1805年海戰，納爾遜陣亡"
+  },
+  {
+    "name": "滑鐵盧橋",
+    "name_en": "Waterloo Bridge",
+    "lat": 51.5086,
+    "lon": -0.1167,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "这个开幕的滑铁卢之桥",
+    "context": "康斯塔伯展出《滑鐵盧橋開幕》，透納以紅點搶風頭"
+  },
+  {
+    "name": "加拿大水域與德特福德一帶",
+    "name_en": "Canada Water / Deptford",
+    "lat": 51.498,
+    "lon": -0.05,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "大概在今天的Canada Water或Devr这一带",
+    "context": "無畏號被拖往解體的泰晤士河東南區"
   },
   {
     "name": "奇美博物館",
     "name_en": "Chimei Museum",
-    "lat": 22.934,
+    "lat": 22.9345,
     "lon": 120.226,
     "country": "台灣",
     "region": "台灣",
-    "quote": "在奇美，在奇美博物馆，他们有展一次",
-    "context": "英國國家美術館200週年巡迴亞洲展覽在台灣的展出地點。"
+    "quote": "在奇美博物馆里面",
+    "context": "2024年國家美術館200周年巡展台灣站"
   },
   {
-    "name": "國家兩廳院",
-    "name_en": "National Theater and Concert Hall",
-    "lat": 25.035,
-    "lon": 121.518,
+    "name": "龜山島",
+    "name_en": "Guishan Island",
+    "lat": 24.8415,
+    "lon": 121.9533,
     "country": "台灣",
     "region": "台灣",
-    "quote": "你爸爸开了一个理发厅在什么，在两厅院旁边，然后两厅院里面的人",
-    "context": "主持人用來比喻透納父親理髮廳位置的絕佳性，方便台灣聽眾理解。",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/DSCN7120P_%288149622548%29.jpg/330px-DSCN7120P_%288149622548%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    "quote": "我以为是龟山岛",
+    "context": "講者看《藍色瑞吉山》聯想到的島嶼"
   }
 ]

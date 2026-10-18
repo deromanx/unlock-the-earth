@@ -1,13 +1,23 @@
 [
   {
-    "name": "蒼古",
-    "name_en": "Canggu",
-    "lat": -8.647,
+    "name": "巴厘島",
+    "name_en": "Canggu, Bali",
+    "lat": -8.648,
     "lon": 115.138,
     "country": "印尼",
     "region": "亞洲",
-    "quote": "圈谷的那个住宿是只抢手的",
-    "context": "討論在峇里島數位遊牧時尋找住宿的熱門街區"
+    "quote": "巴厘岛因为那时候在圈谷嘛",
+    "context": "講者找住宿受挫的經驗，數位游牧熱點"
+  },
+  {
+    "name": "布達佩斯",
+    "name_en": "Budapest",
+    "lat": 47.498,
+    "lon": 19.04,
+    "country": "匈牙利",
+    "region": "歐洲",
+    "quote": "現在的話主要就是住在那個匈牙利布達佩斯",
+    "context": "講者目前長期定居的據點"
   },
   {
     "name": "斯普利特",
@@ -16,18 +26,39 @@
     "lon": 16.44,
     "country": "克羅埃西亞",
     "region": "歐洲",
-    "quote": "我就很喜欢那个克罗莱西亚的Split",
-    "context": "受訪者喜愛的數位遊牧私房據點"
+    "quote": "我覺得我就很喜歡那個克羅埃西亞的Split",
+    "context": "講者喜歡的據點，海美且有朋友"
+  },
+  {
+    "name": "里斯本",
+    "name_en": "Lisbon",
+    "lat": 38.722,
+    "lon": -9.139,
+    "country": "葡萄牙",
+    "region": "歐洲",
+    "quote": "里斯本也是一個數位游牧的大本營",
+    "context": "數位游牧大本營，討論狗屎、鵝卵石坡道與慵懶酒吧",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Lisboa_-_Portugal_%2852597836992%29.jpg/330px-Lisboa_-_Portugal_%2852597836992%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "海德堡",
     "name_en": "Heidelberg",
-    "lat": 49.407,
-    "lon": 8.69,
+    "lat": 49.399,
+    "lon": 8.672,
     "country": "德國",
     "region": "歐洲",
-    "quote": "像我自己在国外生活过两年嘛在海德堡",
-    "context": "受訪者過去曾生活兩年並建立社群的城市",
+    "quote": "我在海德堡生活過兩年",
+    "context": "主持人留學生活，獨處與思鄉記憶",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/K%C3%B6nigstuhl%2C_Heidelberg%2C_U-17.jpg/330px-K%C3%B6nigstuhl%2C_Heidelberg%2C_U-17.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "日惹",
+    "name_en": "Yogyakarta",
+    "lat": -7.797,
+    "lon": 110.37,
+    "country": "印尼",
+    "region": "亞洲",
+    "quote": "我在那個爪哇島中爪哇島日惹",
+    "context": "主持人在青旅初次見到數位游牧者"
   }
 ]

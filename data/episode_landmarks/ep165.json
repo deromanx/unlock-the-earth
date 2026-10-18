@@ -1,45 +1,34 @@
 [
   {
-    "name": "草悟道廣場B區",
-    "name_en": "Calligraphy Greenway Plaza Area B",
-    "lat": 24.1504,
-    "lon": 120.6632,
+    "name": "草悟道",
+    "name_en": "Calligraphy Greenway",
+    "lat": 24.1405,
+    "lon": 120.6625,
     "country": "台灣",
     "region": "台灣",
-    "quote": "所以他們即將在10月13號下午2點，在台中市草務道廣場B區，為這些用心的創業青年舉辦頒獎典禮",
-    "context": "2023青年創業品牌特色標章活動頒獎典禮的地點"
-  },
-  {
-    "name": "鳳凰山",
-    "name_en": "Lantau Peak",
-    "lat": 22.249,
-    "lon": 113.917,
-    "country": "中國香港",
-    "region": "亞洲",
-    "quote": "香港的第二高峰叫做鳳凰山，其實就在大嶼山...我到了那個鳳凰山的山下",
-    "context": "嘉賓分享在香港第一次行山的具體地點與慘痛經驗",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Lantau_Peak%2C_Hongkong.jpg/330px-Lantau_Peak%2C_Hongkong.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    "quote": "欢迎大家到台中市最绿意盎然的草务道",
+    "context": "台中青創市集與頒獎典禮舉辦地點",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/%E7%B6%93%E5%9C%8B%E5%9C%92%E9%81%93%28%E8%8D%89%E6%82%9F%E9%81%93%29.JPG/330px-%E7%B6%93%E5%9C%8B%E5%9C%92%E9%81%93%28%E8%8D%89%E6%82%9F%E9%81%93%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "大嶼山",
     "name_en": "Lantau Island",
-    "lat": 22.261,
-    "lon": 113.946,
-    "country": "中國香港",
+    "lat": 22.2663,
+    "lon": 113.942,
+    "country": "香港",
     "region": "亞洲",
-    "quote": "機場它的地點就在大嶼山，大嶼山其實本身就是一個非常有名的爬山的地方",
-    "context": "介紹機場所在地以及香港知名的登山區域",
+    "quote": "机场它的地点就在大雨山",
+    "context": "香港機場所在地，知名行山地點",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Lantau_Island_-_Hong_Kong.svg/330px-Lantau_Island_-_Hong_Kong.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "草悟道",
-    "name_en": "Calligraphy Greenway",
-    "lat": 24.1501,
-    "lon": 120.6635,
-    "country": "台灣",
-    "region": "台灣",
-    "quote": "歡迎大家到台中市最綠意盎然的草務道，共同支持在地優質的新創品牌",
-    "context": "主持人推薦聽眾造訪的台中市知名綠色廊道",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/%E7%B6%93%E5%9C%8B%E5%9C%92%E9%81%93%28%E8%8D%89%E6%82%9F%E9%81%93%29.JPG/330px-%E7%B6%93%E5%9C%8B%E5%9C%92%E9%81%93%28%E8%8D%89%E6%82%9F%E9%81%93%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    "name": "鳳凰山",
+    "name_en": "Lantau Peak (Fung Wong Shan)",
+    "lat": 22.25,
+    "lon": 113.92,
+    "country": "香港",
+    "region": "亞洲",
+    "quote": "香港的第二高峰叫做凤凰山",
+    "context": "主持人第一次行山並中暑的經驗"
   }
 ]

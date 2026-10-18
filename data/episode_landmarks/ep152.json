@@ -1,22 +1,42 @@
 [
   {
-    "name": "國際呼麥中心",
-    "name_en": "International Khoomei Center",
-    "lat": 51.716,
-    "lon": 94.428,
+    "name": "台北流行音樂中心",
+    "name_en": "Taipei Music Center",
+    "lat": 25.0526,
+    "lon": 121.5993,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "地點在台北流行音樂中心",
+    "context": "Hans Zimmer 音樂會舉辦地點"
+  },
+  {
+    "name": "烏蘭巴托",
+    "name_en": "Ulaanbaatar",
+    "lat": 47.8864,
+    "lon": 106.9057,
+    "country": "蒙古",
+    "region": "亞洲",
+    "quote": "有去過蒙古國烏蘭巴托",
+    "context": "來賓高中時當志工並學馬頭琴的地方"
+  },
+  {
+    "name": "克孜勒",
+    "name_en": "Kyzyl",
+    "lat": 51.7191,
+    "lon": 94.4378,
     "country": "俄羅斯",
     "region": "亞洲",
-    "quote": "去呼麦中心 然后找呼麦老师讨论一下学习事宜",
-    "context": "講者在當地交流與學習呼麥的機構"
+    "quote": "對對在首都克斯蘭",
+    "context": "圖瓦首都，旅程停留與國慶活動所在地"
   },
   {
     "name": "亞洲中心紀念碑",
     "name_en": "Center of Asia Monument",
-    "lat": 51.724,
-    "lon": 94.443,
+    "lat": 51.7167,
+    "lon": 94.4333,
     "country": "俄羅斯",
     "region": "亞洲",
-    "quote": "打开Maps.me看就叫做Central of Asia",
-    "context": "位於圖瓦首都的亞洲地理中心實體標誌"
+    "quote": "看就叫做Central of Asia",
+    "context": "克孜勒市中心標示亞洲地理中心的金鹿角建築"
   }
 ]

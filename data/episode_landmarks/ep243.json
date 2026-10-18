@@ -1,33 +1,43 @@
 [
   {
-    "name": "烏魯魯 (大岩石)",
-    "name_en": "Uluru",
-    "lat": -25.344,
-    "lon": 131.037,
-    "country": "澳洲",
-    "region": "大洋洲",
-    "quote": "就是那塊大岩石，就為了去中間去看看而出現的地方",
-    "context": "澳洲內陸最著名的自然地標，常被稱為大岩石",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/ULURU.jpg/330px-ULURU.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
     "name": "愛麗絲泉",
     "name_en": "Alice Springs",
     "lat": -23.698,
     "lon": 133.881,
     "country": "澳洲",
     "region": "大洋洲",
-    "quote": "像是愛麗絲泉，他那個大部分都是為了觀光存在的",
-    "context": "位於澳洲中心的小鎮，是前往烏魯魯的重要基地"
+    "quote": "像是愛麗絲泉他那個大部分都是為了觀光存在的",
+    "context": "澳洲內陸少數城市，因觀光與大岩石而存在"
   },
   {
     "name": "艾迪卡拉山區",
     "name_en": "Ediacara Hills",
-    "lat": -30.816,
-    "lon": 138.133,
+    "lat": -30.317,
+    "lon": 138.15,
     "country": "澳洲",
     "region": "大洋洲",
-    "quote": "在那個艾迪卡拉山區，他發現了一堆長得很奇怪的化石",
-    "context": "著名的古生物化石發現地，定義了艾迪卡拉紀"
+    "quote": "在南澳的時候在那個艾迪卡拉山區他發現了一堆長得很奇怪的化石",
+    "context": "發現古老化石，艾迪卡拉紀因此命名"
+  },
+  {
+    "name": "坎培拉",
+    "name_en": "Canberra",
+    "lat": -35.281,
+    "lon": 149.129,
+    "country": "澳洲",
+    "region": "大洋洲",
+    "quote": "我們就在兩個首都的中間直接蓋一個首都",
+    "context": "為平息雪梨與墨爾本之爭而興建的首都",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Canberra_panorama_from_Mount_Ainslie.jpg/330px-Canberra_panorama_from_Mount_Ainslie.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "哈維鎮",
+    "name_en": "Harvey",
+    "lat": -33.078,
+    "lon": 115.894,
+    "country": "澳洲",
+    "region": "大洋洲",
+    "quote": "我在的小鎮的harvey他有個harvey秀",
+    "context": "西澳小鎮，每年舉辦農業與鄉鎮展覽活動"
   }
 ]

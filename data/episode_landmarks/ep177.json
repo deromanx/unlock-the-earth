@@ -1,43 +1,107 @@
 [
   {
-    "name": "喀布爾國際機場",
-    "name_en": "Kabul International Airport",
-    "lat": 34.565,
-    "lon": 69.212,
+    "name": "巴米揚大佛",
+    "name_en": "Buddhas of Bamiyan",
+    "lat": 34.8483,
+    "lon": 67.8267,
     "country": "阿富汗",
     "region": "亞洲",
-    "quote": "很多阿富汗的男人在機場的跑道上追了那台飛機",
-    "context": "提及2021年美軍撤退時的混亂畫面",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Flightline_at_Kabul_International_Airport.jpeg/330px-Flightline_at_Kabul_International_Airport.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    "quote": "他是全世界最高的立佛嘛",
+    "context": "被塔利班炸毀的世界文化遺產，殘跡與洞窟"
   },
   {
-    "name": "阿富汗駐巴基斯坦大使館",
+    "name": "賈姆宣禮塔",
+    "name_en": "Minaret of Jam",
+    "lat": 34.3964,
+    "lon": 64.5158,
+    "country": "阿富汗",
+    "region": "亞洲",
+    "quote": "它是有65公尺高",
+    "context": "12世紀山谷中的宣禮塔，需長途土路前往",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Jam_afghan_architecture_harirud_brick.jpg/330px-Jam_afghan_architecture_harirud_brick.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "班迪阿米爾國家公園（藍湖）",
+    "name_en": "Band-e Amir National Park",
+    "lat": 34.8392,
+    "lon": 67.2306,
+    "country": "阿富汗",
+    "region": "亞洲",
+    "quote": "我們可以在裡面踩船",
+    "context": "藍色湖泊公園，女性被禁止入內",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Afghanistan%27s_Grand_Canyon.jpg/330px-Afghanistan%27s_Grand_Canyon.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "馬札里沙里夫藍色清真寺",
+    "name_en": "Blue Mosque of Mazar-i-Sharif",
+    "lat": 36.7069,
+    "lon": 67.1128,
+    "country": "阿富汗",
+    "region": "亞洲",
+    "quote": "全部都是用藍色馬賽克",
+    "context": "15世紀藍色馬賽克清真寺，女性不得靠近"
+  },
+  {
+    "name": "尖叫之城",
+    "name_en": "Shahr-e Zohak (City of Screams)",
+    "lat": 34.8197,
+    "lon": 67.815,
+    "country": "阿富汗",
+    "region": "亞洲",
+    "quote": "所以那座城市叫做City of Scream",
+    "context": "被成吉思汗屠城的廢棄城市遺址"
+  },
+  {
+    "name": "坎大哈",
+    "name_en": "Kandahar",
+    "lat": 31.6289,
+    "lon": 65.7372,
+    "country": "阿富汗",
+    "region": "亞洲",
+    "quote": "就是塔利班的總部",
+    "context": "塔利班發源地與軍事中心，談及舞童陋習",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Aerial_view_of_a_section_of_Kandahar_in_2013.jpg/330px-Aerial_view_of_a_section_of_Kandahar_in_2013.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "喀布爾",
+    "name_en": "Kabul",
+    "lat": 34.5281,
+    "lon": 69.1723,
+    "country": "阿富汗",
+    "region": "亞洲",
+    "quote": "它其實算一個山城",
+    "context": "首都，山城地貌、檢查哨與舊車",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Kabul%2C_Afghanistan_view.jpg/330px-Kabul%2C_Afghanistan_view.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "馬札里沙里夫",
+    "name_en": "Mazar-i-Sharif",
+    "lat": 36.709,
+    "lon": 67.1109,
+    "country": "阿富汗",
+    "region": "亞洲",
+    "quote": "我們是飛到第四大城",
+    "context": "行程第一站，以香瓜聞名",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Nowruz_in_northern_Afghanistan-2011_%28cropped%29.jpg/330px-Nowruz_in_northern_Afghanistan-2011_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "伊斯蘭馬巴德阿富汗大使館",
     "name_en": "Embassy of Afghanistan, Islamabad",
-    "lat": 33.721,
-    "lon": 73.111,
+    "lat": 33.7294,
+    "lon": 73.0931,
     "country": "巴基斯坦",
     "region": "亞洲",
-    "quote": "他們首都在那邊有大使館，阿富汗大使館",
-    "context": "辦理阿富汗入境簽證的地點"
+    "quote": "他們首都在那邊有大使館",
+    "context": "辦理阿富汗簽證的地點"
   },
   {
-    "name": "藍色清真寺",
-    "name_en": "Blue Mosque (Shrine of Hazrat Ali)",
-    "lat": 36.708,
-    "lon": 67.11,
-    "country": "阿富汗",
+    "name": "巴布亞食人豬部落",
+    "name_en": "Korowai/Papua Tribal Area",
+    "lat": -5.5,
+    "lon": 139.9,
+    "country": "印尼",
     "region": "亞洲",
-    "quote": "那邊有一個藍色清真寺，這個藍色清真寺其實就是很漂亮，全部都是用藍色馬賽克",
-    "context": "阿富汗行程的第一站，目前女性被禁止進入"
-  },
-  {
-    "name": "巴米洋大佛",
-    "name_en": "Buddhas of Bamiyan",
-    "lat": 34.832,
-    "lon": 67.823,
-    "country": "阿富汗",
-    "region": "亞洲",
-    "quote": "他拿RPG火箭筒直接對著那個大佛發射，然後把他炸了一個稀巴爛",
-    "context": "討論塔利班過去炸毀世界文化遺產的歷史"
+    "quote": "就再次回去的那個印尼的巴布亞森",
+    "context": "主持人今年重返部落拜訪酋長"
   }
 ]

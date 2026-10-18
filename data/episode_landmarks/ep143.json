@@ -1,53 +1,86 @@
 [
   {
-    "name": "聖母峰基地營",
-    "name_en": "Everest Base Camp",
-    "lat": 28.002,
-    "lon": 86.852,
-    "country": "尼泊爾",
-    "region": "亞洲",
-    "quote": "第一個就是東邊的聖峰基地",
-    "context": "提及尼泊爾東邊最著名的登山路線"
-  },
-  {
     "name": "安納普納基地營",
     "name_en": "Annapurna Base Camp",
     "lat": 28.53,
     "lon": 83.878,
     "country": "尼泊爾",
     "region": "亞洲",
-    "quote": "不管是查安那普那基地",
-    "context": "講者本次前往健行長達十天的主要目的地"
+    "quote": "最後到了Bestcam",
+    "context": "十天健行的終點，雨季雲霧中仍震撼"
   },
   {
-    "name": "泰美爾區",
+    "name": "普恩山",
+    "name_en": "Poon Hill",
+    "lat": 28.4,
+    "lon": 83.682,
+    "country": "尼泊爾",
+    "region": "亞洲",
+    "quote": "ABC它途中會經過一個叫Pong Hill",
+    "context": "適合新手的3至4天健行終點，可眺望群峰"
+  },
+  {
+    "name": "博卡拉",
+    "name_en": "Pokhara",
+    "lat": 28.209,
+    "lon": 83.986,
+    "country": "尼泊爾",
+    "region": "亞洲",
+    "quote": "波卡拉是一個登山的城市",
+    "context": "登山出發城市，有湖與假登山用品街",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Pokhara_Valley.jpg/330px-Pokhara_Valley.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "泰美爾",
     "name_en": "Thamel",
     "lat": 27.715,
     "lon": 85.311,
     "country": "尼泊爾",
     "region": "亞洲",
     "quote": "我們大部分背包客都會停在一個鬧區叫Tamiel",
-    "context": "加德滿都背包客聚集的鬧區，有很多旅行社",
+    "context": "加德滿都背包客區，旅行社與火鍋店林立",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Thamel_at_Night_-_Kathmandu%2C_Nepal_%281%29.jpg/330px-Thamel_at_Night_-_Kathmandu%2C_Nepal_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "布恩山",
-    "name_en": "Poon Hill",
-    "lat": 28.4,
-    "lon": 83.689,
+    "name": "加德滿都",
+    "name_en": "Kathmandu",
+    "lat": 27.717,
+    "lon": 85.324,
     "country": "尼泊爾",
     "region": "亞洲",
-    "quote": "ABC它途中會經過一個叫Pong Hill",
-    "context": "ABC路線途中可以眺望整個山脈的小山頭"
+    "quote": "從山上下來回到加德滿多",
+    "context": "志工行程與登山前後的落腳首都",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Kathmandu-Durbar_Square-06-Mahavishnu-Kuh-Vishnu-Pratapamalla-Jagannath-2007-gje.jpg/330px-Kathmandu-Durbar_Square-06-Mahavishnu-Kuh-Vishnu-Pratapamalla-Jagannath-2007-gje.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "魚尾峰",
     "name_en": "Machapuchare",
     "lat": 28.495,
-    "lon": 83.948,
+    "lon": 83.949,
     "country": "尼泊爾",
     "region": "亞洲",
-    "quote": "然後到魚尾峰",
-    "context": "從布恩山上可以眺望的著名山峰"
+    "quote": "然後到魚尾峰什麼都可以一圈看",
+    "context": "安納普納山區代表性山峰"
+  },
+  {
+    "name": "珠穆朗瑪峰基地營",
+    "name_en": "Everest Base Camp",
+    "lat": 28.003,
+    "lon": 86.852,
+    "country": "尼泊爾",
+    "region": "亞洲",
+    "quote": "第一個就是東邊的聖峰基地",
+    "context": "與安納普納並列的另一條主要健行路線"
+  },
+  {
+    "name": "杜布羅夫尼克",
+    "name_en": "Dubrovnik",
+    "lat": 42.65,
+    "lon": 18.094,
+    "country": "克羅埃西亞",
+    "region": "歐洲",
+    "quote": "我就去了那個克羅來西亞的Dubonik",
+    "context": "陸路前往英國途中的停留點",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/The_walls_of_the_fortress_and_View_of_the_old_city._panorama.jpg/330px-The_walls_of_the_fortress_and_View_of_the_old_city._panorama.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]

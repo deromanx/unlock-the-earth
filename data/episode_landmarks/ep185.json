@@ -6,58 +6,58 @@
     "lon": 103.867,
     "country": "柬埔寨",
     "region": "亞洲",
-    "quote": "當然去了吳哥，然後去了金邊，我自己的感受就是當然吳哥是一個很，就是視覺上很恢弘的一個地方",
-    "context": "作為千年王朝的古都，與現代金邊形成強烈對比",
+    "quote": "吳哥是一個很就是視覺上很恢弘的一個地方",
+    "context": "千年王朝古都，與現代金邊形成強烈對比",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Angkor_Wat.jpg/330px-Angkor_Wat.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
+    "name": "暹粒",
+    "name_en": "Siem Reap",
+    "lat": 13.362,
+    "lon": 103.86,
+    "country": "柬埔寨",
+    "region": "亞洲",
+    "quote": "從京邊搭公車或客運到仙利就是吳哥庫的地方",
+    "context": "吳哥窟所在地，從金邊搭巴士沿途皆田園風光"
+  },
+  {
+    "name": "金邊",
+    "name_en": "Phnom Penh",
+    "lat": 11.562,
+    "lon": 104.916,
+    "country": "柬埔寨",
+    "region": "亞洲",
+    "quote": "我就覺得金邊是一個反映出來現代柬埔寨人的生活樣貌的一個地方",
+    "context": "講者工作與生活之地，反映現代柬埔寨"
+  },
+  {
     "name": "鑽石島",
-    "name_en": "Diamond Island",
-    "lat": 11.556,
-    "lon": 104.938,
+    "name_en": "Koh Pich (Diamond Island)",
+    "lat": 11.538,
+    "lon": 104.936,
     "country": "柬埔寨",
     "region": "亞洲",
-    "quote": "如果是在柬埔寨金邊的話，有一個鑽石島，那個島基本上就Diamond Island",
-    "context": "中國一帶一路政策在金邊的大型開發與造鎮計畫"
-  },
-  {
-    "name": "永旺夢樂城",
-    "name_en": "Aeon Mall",
-    "lat": 11.549,
-    "lon": 104.934,
-    "country": "柬埔寨",
-    "region": "亞洲",
-    "quote": "每一兩年都會有一個新的百貨公司，就那個當地百貨公司叫Aeon，就現在已經開到Aeon 3了",
-    "context": "反映金邊快速發展與現代化的指標性百貨公司"
-  },
-  {
-    "name": "BKK區",
-    "name_en": "Boeung Keng Kang",
-    "lat": 11.551,
-    "lon": 104.925,
-    "country": "柬埔寨",
-    "region": "亞洲",
-    "quote": "他在BKK那邊，下次有機會可以去看一下",
-    "context": "金邊的高級街區，有豪華的星巴克旗艦店"
+    "quote": "有一個鑽石島那個島基本上就Diamond Island",
+    "context": "由中國建設公司開發的一帶一路代表工地"
   },
   {
     "name": "西哈努克港",
     "name_en": "Sihanoukville",
-    "lat": 10.625,
+    "lat": 10.627,
     "lon": 103.523,
     "country": "柬埔寨",
     "region": "亞洲",
-    "quote": "因為西哈努克港，他其實是中國一帶一路的建設，就是挑在柬埔寨裡面，一個重要的海運的部分",
-    "context": "中國一帶一路重點建設，發展出合法與非法博弈產業"
+    "quote": "西哈努克港就是這樣子起來的",
+    "context": "深水港與賭場詐騙園區聚集地，租金暴漲"
   },
   {
-    "name": "駐胡志明市台北經濟文化辦事處",
+    "name": "胡志明市台北經濟文化辦事處",
     "name_en": "Taipei Economic and Cultural Office in Ho Chi Minh City",
-    "lat": 10.773,
-    "lon": 106.69,
+    "lat": 10.783,
+    "lon": 106.699,
     "country": "越南",
     "region": "亞洲",
-    "quote": "因為他是掛在胡志明辦公室的下面",
-    "context": "辦理跨國婚姻面試及簽證手續的機構"
+    "quote": "他是掛在胡志明辦公室的下面",
+    "context": "柬埔寨婚姻面談、簽證與健檢需往返此處"
   }
 ]

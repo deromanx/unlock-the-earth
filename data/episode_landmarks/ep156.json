@@ -1,12 +1,72 @@
 [
   {
-    "name": "番紅花城",
-    "name_en": "Safranbolu",
-    "lat": 41.243,
-    "lon": 32.693,
+    "name": "烏法（尚勒烏爾法）",
+    "name_en": "Şanlıurfa",
+    "lat": 37.159,
+    "lon": 38.797,
     "country": "土耳其",
     "region": "亞洲",
-    "quote": "我在翻红花城的时候 遇到一个就是 店员很夸张",
-    "context": "來賓分享遇到聽得懂中文的當地店員的趣事"
+    "quote": "我自己知道在烏法 它是一個那個亞伯拉罕的出生地",
+    "context": "土耳其東部朝聖城市，來賓在此被排隊合照"
+  },
+  {
+    "name": "亞伯拉罕池（魚池）",
+    "name_en": "Balıklıgöl (Pool of Abraham)",
+    "lat": 37.147,
+    "lon": 38.787,
+    "country": "土耳其",
+    "region": "亞洲",
+    "quote": "它有一個池子非常有名",
+    "context": "相傳亞伯拉罕出生地，吸引大批朝聖者與遊客"
+  },
+  {
+    "name": "哈蘭遺址",
+    "name_en": "Harran",
+    "lat": 36.863,
+    "lon": 39.033,
+    "country": "土耳其",
+    "region": "亞洲",
+    "quote": "伊斯蘭教的第一座大學 哈蘭",
+    "context": "伊斯蘭世界第一座大學遺址，當時仍是石頭廢墟"
+  },
+  {
+    "name": "卡帕多奇亞",
+    "name_en": "Cappadocia",
+    "lat": 38.643,
+    "lon": 34.829,
+    "country": "土耳其",
+    "region": "亞洲",
+    "quote": "會比你去看卡布托多特的那個什麼熱氣球啊",
+    "context": "熱氣球名勝，來賓建議在旁邊看更美"
+  },
+  {
+    "name": "卡帕多奇亞日落觀景點",
+    "name_en": "Cappadocia Sunset Viewpoint",
+    "lat": 38.637,
+    "lon": 34.824,
+    "country": "土耳其",
+    "region": "亞洲",
+    "quote": "它旁邊有一個叫山西點 就是夕陽西下的點",
+    "context": "凌晨拍整片熱氣球的省錢拍照秘訣點"
+  },
+  {
+    "name": "番紅花城",
+    "name_en": "Safranbolu",
+    "lat": 41.25,
+    "lon": 32.69,
+    "country": "土耳其",
+    "region": "亞洲",
+    "quote": "我在翻紅花城的時候 遇到一個就是店員很誇張",
+    "context": "店員聽得懂中文，說明中國遊客增多"
+  },
+  {
+    "name": "伊斯坦堡舊城區",
+    "name_en": "Istanbul Old City (Sultanahmet)",
+    "lat": 41.005,
+    "lon": 28.977,
+    "country": "土耳其",
+    "region": "亞洲",
+    "quote": "就是在舊城區 隨地可能就看到我",
+    "context": "來賓常在此路邊發呆，被讀者認出"
   }
 ]

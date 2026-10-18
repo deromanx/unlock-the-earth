@@ -1,33 +1,152 @@
 [
   {
-    "name": "提拉納碉堡博物館",
-    "name_en": "Bunk'Art Museum",
-    "lat": 41.349,
-    "lon": 19.861,
+    "name": "提拉那",
+    "name_en": "Tirana",
+    "lat": 41.327,
+    "lon": 19.819,
     "country": "阿爾巴尼亞",
     "region": "歐洲",
-    "quote": "我在阿尔巴尼亚的首都Tirana的一个碉堡博物馆里面还有看到的一些历史相关资料",
-    "context": "來賓在此看到共產時期受迫害的歷史統計資料"
+    "quote": "我在阿尔巴尼亚的首都Tirana的一个碉堡博物馆里面",
+    "context": "阿爾巴尼亞首都，碉堡博物館所在地，旅程據點"
   },
   {
-    "name": "烏斯懷亞",
-    "name_en": "Ushuaia",
-    "lat": -54.801,
-    "lon": -68.303,
-    "country": "阿根廷",
-    "region": "美洲",
-    "quote": "一路走到阿根廷的乌斯淮亚，然后从乌斯淮亚再搭船",
-    "context": "來賓計畫搭船前往南極洲的起點城市",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Ushuaia_aerial_panorama.jpg/330px-Ushuaia_aerial_panorama.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    "name": "Bunkart 碉堡博物館（近郊館）",
+    "name_en": "BunkArt 1",
+    "lat": 41.3447,
+    "lon": 19.8464,
+    "country": "阿爾巴尼亞",
+    "region": "歐洲",
+    "quote": "我当时参观完Bunkart 1就是位于近郊的那一座碉堡之后",
+    "context": "講述1939年起入侵到共產崛起衰敗，遇見工作人員Elite"
   },
   {
-    "name": "加拉巴哥群島",
-    "name_en": "Galápagos Islands",
-    "lat": -0.823,
-    "lon": -91.1,
-    "country": "厄瓜多",
-    "region": "美洲",
-    "quote": "我去加拉巴尔丘寻岛潜水，然后那边遇到一对德国情侣",
-    "context": "來賓在此潛水並遇到推薦阿爾巴尼亞的旅客"
+    "name": "Bunkart 2 碉堡博物館（市中心館）",
+    "name_en": "BunkArt 2",
+    "lat": 41.3261,
+    "lon": 19.8217,
+    "country": "阿爾巴尼亞",
+    "region": "歐洲",
+    "quote": "一座就在市中心 然后主要是讲就是 共产极权统治的时代",
+    "context": "介紹共產極權時期受迫害者的故事"
+  },
+  {
+    "name": "薩蘭達",
+    "name_en": "Sarandë",
+    "lat": 39.875,
+    "lon": 20.005,
+    "country": "阿爾巴尼亞",
+    "region": "歐洲",
+    "quote": "很推荐你到南边的那个叫Saranda",
+    "context": "南部海灘小城，適合游泳放鬆"
+  },
+  {
+    "name": "提特國家公園",
+    "name_en": "Theth National Park",
+    "lat": 42.395,
+    "lon": 19.775,
+    "country": "阿爾巴尼亞",
+    "region": "歐洲",
+    "quote": "你一定要到北边的那个Seth国家公园",
+    "context": "北部健行熱門地，有三天兩夜登山路線"
+  },
+  {
+    "name": "布特林特",
+    "name_en": "Butrint",
+    "lat": 39.746,
+    "lon": 20.026,
+    "country": "阿爾巴尼亞",
+    "region": "歐洲",
+    "quote": "你可以到南边的Botlin",
+    "context": "古希臘羅馬遺址，已規劃為國家公園，遊客少"
+  },
+  {
+    "name": "培拉特",
+    "name_en": "Berat",
+    "lat": 40.705,
+    "lon": 19.952,
+    "country": "阿爾巴尼亞",
+    "region": "歐洲",
+    "quote": "还有一座小镇叫Berat 然后它被誉为所谓的千窗之城",
+    "context": "鄂圖曼風格建築的千窗之城"
+  },
+  {
+    "name": "莫斯塔爾",
+    "name_en": "Mostar",
+    "lat": 43.343,
+    "lon": 17.808,
+    "country": "波士尼亞與赫塞哥維納",
+    "region": "歐洲",
+    "quote": "我入境呢是先从南部的一个城市叫Mostar先进去的",
+    "context": "參加徒步導覽，了解莫斯塔爾圍城與古橋被毀"
+  },
+  {
+    "name": "莫斯塔爾古橋",
+    "name_en": "Stari Most",
+    "lat": 43.337,
+    "lon": 17.815,
+    "country": "波士尼亞與赫塞哥維納",
+    "region": "歐洲",
+    "quote": "最重要的一个地标模式 还有古桥 其实也是在那个时候 被炸毁的",
+    "context": "1993年克族軍隊圍城時被炸毀的地標"
+  },
+  {
+    "name": "塞拉耶佛",
+    "name_en": "Sarajevo",
+    "lat": 43.859,
+    "lon": 18.431,
+    "country": "波士尼亞與赫塞哥維納",
+    "region": "歐洲",
+    "quote": "搭了三个小时 到首都的塞拉耶佛",
+    "context": "首都，圍城戰與文化交匯的老城區"
+  },
+  {
+    "name": "斐迪南大公遇刺轉角",
+    "name_en": "Assassination site of Archduke Franz Ferdinand (Latin Bridge corner)",
+    "lat": 43.8581,
+    "lon": 18.4287,
+    "country": "波士尼亞與赫塞哥維納",
+    "region": "歐洲",
+    "quote": "那个转角应该就是 这个斐迪安大公 遇刺的那个转角",
+    "context": "一戰導火線地點，如今成為打卡景點"
+  },
+  {
+    "name": "塞拉耶佛東西文化交會線",
+    "name_en": "Sarajevo Meeting of Cultures",
+    "lat": 43.8597,
+    "lon": 18.4316,
+    "country": "波士尼亞與赫塞哥維納",
+    "region": "歐洲",
+    "quote": "上面就写着 Sarayevil Meeting of Cultures",
+    "context": "地面白漆指南針標示東西文化分界"
+  },
+  {
+    "name": "塞拉耶佛老城區",
+    "name_en": "Baščaršija",
+    "lat": 43.8598,
+    "lon": 18.4313,
+    "country": "波士尼亞與赫塞哥維納",
+    "region": "歐洲",
+    "quote": "除此之外 就老神居非常非常好逛",
+    "context": "手工藝品店林立，有子彈鑰匙圈"
+  },
+  {
+    "name": "希望隧道博物館",
+    "name_en": "Tunnel of Hope",
+    "lat": 43.8197,
+    "lon": 18.3355,
+    "country": "波士尼亞與赫塞哥維納",
+    "region": "歐洲",
+    "quote": "它的名字就叫 The Tunnel of Hope 就是希望隧道",
+    "context": "圍城期間通往機場的800公尺救命隧道"
+  },
+  {
+    "name": "塞拉耶佛國際機場",
+    "name_en": "Sarajevo International Airport",
+    "lat": 43.8246,
+    "lon": 18.3315,
+    "country": "波士尼亞與赫塞哥維納",
+    "region": "歐洲",
+    "quote": "唯一可以所谓的逃出升天的通道 就只有市区到机场",
+    "context": "圍城時唯一逃生出口，隧道終點"
   }
 ]

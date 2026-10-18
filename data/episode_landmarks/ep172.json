@@ -2,121 +2,91 @@
   {
     "name": "威尼斯人",
     "name_en": "The Venetian Macao",
-    "lat": 22.148,
-    "lon": 113.561,
-    "country": "中國",
+    "lat": 22.1472,
+    "lon": 113.5614,
+    "country": "中國澳門",
     "region": "亞洲",
-    "quote": "就是威尼斯人他第一个在澳门成立全世界最大的酒店",
-    "context": "帶動澳門路氹區發展的指標性大型綜合度假村"
-  },
-  {
-    "name": "澳門半島",
-    "name_en": "Macau Peninsula",
-    "lat": 22.198,
-    "lon": 113.544,
-    "country": "中國",
-    "region": "亞洲",
-    "quote": "第一个是澳门半岛它有一部分的土地是跟广东的土地是连在一起的",
-    "context": "澳門發展最早的主要區域，保留傳統風貌"
-  },
-  {
-    "name": "氹仔島",
-    "name_en": "Taipa",
-    "lat": 22.159,
-    "lon": 113.559,
-    "country": "中國",
-    "region": "亞洲",
-    "quote": "第二个是淡宅岛然后第三个应该是最下面的陆环岛",
-    "context": "澳門三個主要組成部分之一"
-  },
-  {
-    "name": "路環島",
-    "name_en": "Coloane",
-    "lat": 22.118,
-    "lon": 113.564,
-    "country": "中國",
-    "region": "亞洲",
-    "quote": "最下面那个路环岛因为澳门政府已经把它规划成一个自然生态保育的地方",
-    "context": "澳門南部被規劃為自然生態保育區的島嶼"
+    "quote": "威尼斯人他第一个在澳门成立全世界最大的酒店",
+    "context": "路氹填海區指標性度假村，室內運河與貢多拉"
   },
   {
     "name": "路氹填海區",
-    "name_en": "Cotai",
-    "lat": 22.143,
+    "name_en": "Cotai Strip",
+    "lat": 22.145,
     "lon": 113.564,
-    "country": "中國",
+    "country": "中國澳門",
     "region": "亞洲",
-    "quote": "我们称之为一个路淡填海区所以它是填海造路扩增一些土地出来",
-    "context": "填海造陸形成的新區，現為大型酒店聚集地"
-  },
-  {
-    "name": "媽閣廟",
-    "name_en": "A-Ma Temple",
-    "lat": 22.186,
-    "lon": 113.531,
-    "country": "中國",
-    "region": "亞洲",
-    "quote": "当时当地人以为葡萄人他说这里是哪里他一看这个就是马格庙",
-    "context": "澳門名稱的由來，供奉媽祖的著名中式寺廟"
+    "quote": "我们称之为一个路淡填海区",
+    "context": "填海造地，聚集三十家國際級酒店與博弈業"
   },
   {
     "name": "大三巴牌坊",
     "name_en": "Ruins of St. Paul's",
-    "lat": 22.198,
+    "lat": 22.1976,
     "lon": 113.541,
-    "country": "中國",
+    "country": "中國澳門",
     "region": "亞洲",
-    "quote": "大三八排放它很有它的历史因为它以前是我们它是远东地区最大的天主教堂",
-    "context": "澳門代表性地標，前身為遭火焚毀的聖保祿教堂"
+    "quote": "烧了只剩一片墙",
+    "context": "聖保祿教堂遺跡，含日本教徒與玻璃棺木故事"
   },
   {
-    "name": "議事亭前地",
-    "name_en": "Senado Square",
-    "lat": 22.193,
-    "lon": 113.54,
-    "country": "中國",
+    "name": "媽閣廟",
+    "name_en": "A-Ma Temple",
+    "lat": 22.1865,
+    "lon": 113.5314,
+    "country": "中國澳門",
     "region": "亞洲",
-    "quote": "然后从第12个议事庭前提一直走到第25个东望阳灯塔炮台的地方",
-    "context": "澳門歷史城區的著名核心廣場"
-  },
-  {
-    "name": "東望洋燈塔",
-    "name_en": "Guia Lighthouse",
-    "lat": 22.196,
-    "lon": 113.55,
-    "country": "中國",
-    "region": "亞洲",
-    "quote": "一直走到第25个东望阳灯塔炮台的地方那大概差不多半天的时间",
-    "context": "澳門歷史城區的最高點與地標之一"
-  },
-  {
-    "name": "何東圖書館",
-    "name_en": "Sir Robert Ho Tung Library",
-    "lat": 22.192,
-    "lon": 113.537,
-    "country": "中國",
-    "region": "亞洲",
-    "quote": "特别在讲一个河东图书馆河东图书馆很有意思他是一个荷兰籍的犹太人",
-    "context": "香港首富何東避難居所，後捐贈成為圖書館"
+    "quote": "这也是全世界第一个以林默娘命名的",
+    "context": "澳門地名由來，供奉媽祖"
   },
   {
     "name": "大炮台",
     "name_en": "Mount Fortress",
-    "lat": 22.197,
-    "lon": 113.542,
-    "country": "中國",
+    "lat": 22.1979,
+    "lon": 113.543,
+    "country": "中國澳門",
     "region": "亞洲",
-    "quote": "它当初是一个炮台很大的炮台那个我记得那个炮上面有炮架打的话有大概有35座的炮台",
-    "context": "曾由傳教士建立，後成為總督官邸與軍營"
+    "quote": "你在这个大三八排放右边然后你会看到一个像叫做澳门博物馆",
+    "context": "抵禦荷蘭人的炮台，後成總督官邸與監獄"
   },
   {
-    "name": "澳門博物館",
-    "name_en": "Macao Museum",
-    "lat": 22.197,
-    "lon": 113.542,
+    "name": "何東圖書館",
+    "name_en": "Sir Robert Ho Tung Library",
+    "lat": 22.1942,
+    "lon": 113.5383,
+    "country": "中國澳門",
+    "region": "亞洲",
+    "quote": "仍然是澳门地区最大的图书馆",
+    "context": "香港首富何東捐贈，與何世禮的故事"
+  },
+  {
+    "name": "蓮峰廟",
+    "name_en": "Lin Fung Temple",
+    "lat": 22.2018,
+    "lon": 113.5445,
+    "country": "中國澳門",
+    "region": "亞洲",
+    "quote": "1839年的时候林哲徐就是在联峰寺这个地方",
+    "context": "林則徐宣布禁止鴉片之處，旁有紀念館"
+  },
+  {
+    "name": "林則徐紀念館",
+    "name_en": "Lin Zexu Memorial Museum",
+    "lat": 22.202,
+    "lon": 113.5447,
+    "country": "中國澳門",
+    "region": "亞洲",
+    "quote": "我们现在在旁边盖一个林哲徐纪念馆",
+    "context": "位於蓮峰廟旁"
+  },
+  {
+    "name": "伶仃洋",
+    "name_en": "Lingdingyang",
+    "lat": 22.25,
+    "lon": 113.75,
     "country": "中國",
     "region": "亞洲",
-    "quote": "你在这个大三八排坊右边然后你会看到一个像叫做澳门博物馆它当初是一个炮台",
-    "context": "位於大炮台旁，由舊炮台空間改建"
+    "quote": "那林丁阳就是澳门跟横情中间那条",
+    "context": "文天祥〈過零丁洋〉典故，港珠澳大橋所在"
   }
 ]

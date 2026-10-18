@@ -1,16 +1,5 @@
 [
   {
-    "name": "杜拜國際機場",
-    "name_en": "Dubai International Airport",
-    "lat": 25.253,
-    "lon": 55.365,
-    "country": "阿拉伯聯合大公國",
-    "region": "亞洲",
-    "quote": "我机场就很大 很大 如同大家想象的杜拜的机场一样",
-    "context": "討論初次造訪杜拜的機場印象",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/DXB_word_mark.svg/330px-DXB_word_mark.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
     "name": "哈里發塔",
     "name_en": "Burj Khalifa",
     "lat": 25.197,
@@ -18,78 +7,115 @@
     "country": "阿拉伯聯合大公國",
     "region": "亞洲",
     "quote": "因为哈里发塔大概20072008才盖好",
-    "context": "討論杜拜地標與金融危機的命名歷史",
+    "context": "杜拜城市品牌核心，原名杜拜塔，因資金困難改名",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Burj_Khalifa_%28worlds_tallest_building%29_and_the_Dubai_skyline_%2825781049892%29.jpg/330px-Burj_Khalifa_%28worlds_tallest_building%29_and_the_Dubai_skyline_%2825781049892%29.jpg"
   },
   {
     "name": "棕櫚島",
-    "name_en": "Palm Islands",
+    "name_en": "Palm Jumeirah",
     "lat": 25.112,
     "lon": 55.139,
     "country": "阿拉伯聯合大公國",
     "region": "亞洲",
-    "quote": "那什么棕榈岛 对对对 世界群岛 很炫炮",
-    "context": "討論杜拜知名的人造島嶼計畫"
+    "quote": "但其实真正盖好的岛 盖好像棕榈岛那样 也只盖好一个棕榈岛",
+    "context": "杜拜人造島嶼，唯一成功完成的棕櫚島",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Artificial_Archipelagos%2C_Dubai%2C_United_Arab_Emirates_ISS022-E-024940_lrg_%28cropped%29.jpg/330px-Artificial_Archipelagos%2C_Dubai%2C_United_Arab_Emirates_ISS022-E-024940_lrg_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "世界群島",
     "name_en": "The World Islands",
-    "lat": 25.216,
-    "lon": 55.166,
+    "lat": 25.223,
+    "lon": 55.229,
     "country": "阿拉伯聯合大公國",
     "region": "亞洲",
-    "quote": "那什么棕榈岛 对对对 世界群岛 很炫炮",
-    "context": "杜拜著名但鮮少人買的填海造陸計畫"
+    "quote": "后来世界群岛还是有盖好 然后他上面 还是有个台湾 但是没有人买",
+    "context": "以各國為名的人造島群，賣不出去"
   },
   {
     "name": "謝赫扎耶德路",
     "name_en": "Sheikh Zayed Road",
-    "lat": 25.204,
-    "lon": 55.27,
+    "lat": 25.208,
+    "lon": 55.272,
     "country": "阿拉伯聯合大公國",
     "region": "亞洲",
-    "quote": "或是那条大道 叫Shed Zero 你可以把它当成是 杜拜的宗孝东路",
-    "context": "全杜拜最繁華的八線道主要幹道"
-  },
-  {
-    "name": "科威特塔",
-    "name_en": "Kuwait Towers",
-    "lat": 29.389,
-    "lon": 48.003,
-    "country": "科威特",
-    "region": "亞洲",
-    "quote": "科威特也有像这样的塔 可是他们 他们不擦玻璃",
-    "context": "與杜拜的塔做對比，提到其玻璃不乾淨"
-  },
-  {
-    "name": "忠孝東路",
-    "name_en": "Zhongxiao East Road",
-    "lat": 25.041,
-    "lon": 121.543,
-    "country": "台灣",
-    "region": "台灣",
     "quote": "你可以把它当成是 杜拜的宗孝东路",
-    "context": "用來比喻謝赫扎耶德路的繁華"
+    "context": "杜拜最繁華的八線道大道，嚴重塞車"
   },
   {
-    "name": "山手線",
-    "name_en": "Yamanote Line",
-    "lat": 35.681,
-    "lon": 139.767,
-    "country": "日本",
+    "name": "杜拜運河",
+    "name_en": "Dubai Canal",
+    "lat": 25.195,
+    "lon": 55.264,
+    "country": "阿拉伯聯合大公國",
     "region": "亞洲",
-    "quote": "如果东京 我们讲三首线好了 或是台北的板南线",
-    "context": "用來比喻杜拜地鐵擁擠程度的日本鐵路",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Yamanote-Line-E235.jpg/330px-Yamanote-Line-E235.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    "quote": "就像 Dubai Canal 因为像是运河",
+    "context": "人造水道，可搭傳統Abra船遊覽",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Dubai_Water_Canal.jpg/330px-Dubai_Water_Canal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "板南線",
-    "name_en": "Bannan Line",
-    "lat": 25.046,
-    "lon": 121.516,
-    "country": "台灣",
-    "region": "台灣",
-    "quote": "如果东京 我们讲三首线好了 或是台北的板南线",
-    "context": "用來比喻杜拜地鐵擁擠程度的台北捷運"
+    "name": "環球村",
+    "name_en": "Global Village",
+    "lat": 25.07,
+    "lon": 55.307,
+    "country": "阿拉伯聯合大公國",
+    "region": "亞洲",
+    "quote": "他真的叫做Global VH",
+    "context": "冬季限定的大型各國主題館遊樂區",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Global_Village_Book.jpg/330px-Global_Village_Book.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "杜拜濕地火烈鳥保護區",
+    "name_en": "Ras Al Khor Wildlife Sanctuary",
+    "lat": 25.188,
+    "lon": 55.337,
+    "country": "阿拉伯聯合大公國",
+    "region": "亞洲",
+    "quote": "这些火烈鸟 他也是以数以百知记的",
+    "context": "市區內保留濕地，免費賞火烈鳥",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Ras_Al_Khor_1.JPG/330px-Ras_Al_Khor_1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "阿布達比羅浮宮",
+    "name_en": "Louvre Abu Dhabi",
+    "lat": 24.534,
+    "lon": 54.398,
+    "country": "阿拉伯聯合大公國",
+    "region": "亞洲",
+    "quote": "那个阿布达比洛福宫 就是有点像故宫男院的概念",
+    "context": "羅浮宮海外唯一分館，推薦參觀",
+    "image": "https://thumb.wikimedia.org/wikipedia/en/thumb/5/55/LouvreAD_exterior.jpg/330px-LouvreAD_exterior.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "艾因綠洲",
+    "name_en": "Al Ain Oasis",
+    "lat": 24.223,
+    "lon": 55.775,
+    "country": "阿拉伯聯合大公國",
+    "region": "亞洲",
+    "quote": "它是阿联酋里面唯一的失业遗产的那个所在地",
+    "context": "世界遺產，傳統灌溉系統與椰棗田",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Alley_in_Al_Ain_Oasis.JPG/330px-Alley_in_Al_Ain_Oasis.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "沙迦",
+    "name_en": "Sharjah",
+    "lat": 25.346,
+    "lon": 55.421,
+    "country": "阿拉伯聯合大公國",
+    "region": "亞洲",
+    "quote": "Shazha的话 他是很多现在在杜拜的劳工 他如果租不起在杜拜的房子",
+    "context": "勞工居住地，博物館與老東西較多",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Al_Qasba.jpg/330px-Al_Qasba.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "杜拜國際機場",
+    "name_en": "Dubai International Airport",
+    "lat": 25.253,
+    "lon": 55.366,
+    "country": "阿拉伯聯合大公國",
+    "region": "亞洲",
+    "quote": "我机场就很大 很大",
+    "context": "講者首次轉機經驗，機場寬大免稅店多",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/DXB_word_mark.svg/330px-DXB_word_mark.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]

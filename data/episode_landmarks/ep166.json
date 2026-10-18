@@ -1,22 +1,64 @@
 [
   {
-    "name": "馬賽克博物館",
-    "name_en": "Zeugma Mosaic Museum",
-    "lat": 37.074,
-    "lon": 37.385,
+    "name": "安卡拉",
+    "name_en": "Ankara",
+    "lat": 39.933,
+    "lon": 32.859,
     "country": "土耳其",
     "region": "亞洲",
-    "quote": "那邊有一個超級漂亮的馬賽克博物館",
-    "context": "來賓推薦土耳其東部必訪，館內有極具代表性的馬賽克作品"
+    "quote": "一個是安卡拉，就是他們的首都",
+    "context": "講者交換學生就讀地，政變時遭轟炸",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Ankara_from_bus_station.jpg/330px-Ankara_from_bus_station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "塔克星廣場",
+    "name": "塔克辛廣場",
     "name_en": "Taksim Square",
     "lat": 41.037,
     "lon": 28.985,
     "country": "土耳其",
-    "region": "歐洲",
-    "quote": "就遇到伊斯坦堡的一個很有名的光叫塔克星廣場",
-    "context": "伊斯坦堡知名地標，來賓曾在此附近經歷炸彈恐怖攻擊"
+    "region": "亞洲",
+    "quote": "伊斯坦堡的一個很有名的廣場叫塔克星廣場",
+    "context": "曾發生自殺炸彈攻擊，講者初到時親歷"
+  },
+  {
+    "name": "貝西克塔什",
+    "name_en": "Beşiktaş",
+    "lat": 41.042,
+    "lon": 29.007,
+    "country": "土耳其",
+    "region": "亞洲",
+    "quote": "我們喝酒的地方叫做北希克塔什，它是伊斯坦堡靠海的一個區",
+    "context": "政變當晚講者喝酒與避難的臨海街區"
+  },
+  {
+    "name": "博斯普魯斯大橋",
+    "name_en": "Bosphorus Bridge",
+    "lat": 41.045,
+    "lon": 29.034,
+    "country": "土耳其",
+    "region": "亞洲",
+    "quote": "在那個博士普魯斯的大橋上面，跨海峽大橋上面，就有個軍人是被斬首的",
+    "context": "政變中軍方封鎖，士兵遭民眾攻擊"
+  },
+  {
+    "name": "阿塔圖克機場",
+    "name_en": "Atatürk Airport",
+    "lat": 40.976,
+    "lon": 28.814,
+    "country": "土耳其",
+    "region": "亞洲",
+    "quote": "Atatutu機場，舊的IST機場，好像是被恐攻的時候",
+    "context": "2016年遭恐怖攻擊，講者友人在場"
+  },
+  {
+    "name": "西門町",
+    "name_en": "Ximending",
+    "lat": 25.042,
+    "lon": 121.508,
+    "country": "台灣",
+    "region": "台灣",
+    "quote": "我去西門町找朋友，我從西門町捷運站出來的時候，不是有廣場嗎",
+    "context": "講者回台後因人多反射性恐懼",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/%E5%BE%9E%E5%B1%88%E8%87%A3%E6%B0%8F%E8%A5%BF%E9%96%80%E9%96%80%E5%B8%82%E5%88%B0%E9%8C%A2%E6%AB%83%E5%8F%B0%E5%8C%97%E4%B8%AD%E8%8F%AF%E6%96%B0%E9%A4%A8_20211204.jpg/330px-%E5%BE%9E%E5%B1%88%E8%87%A3%E6%B0%8F%E8%A5%BF%E9%96%80%E9%96%80%E5%B8%82%E5%88%B0%E9%8C%A2%E6%AB%83%E5%8F%B0%E5%8C%97%E4%B8%AD%E8%8F%AF%E6%96%B0%E9%A4%A8_20211204.jpg"
   }
 ]

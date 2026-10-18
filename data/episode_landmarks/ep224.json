@@ -1,52 +1,143 @@
 [
   {
-    "name": "乌兹别克驻泰国大使馆",
-    "name_en": "Embassy of Uzbekistan in Bangkok",
-    "lat": 13.741,
-    "lon": 100.544,
-    "country": "泰国",
+    "name": "地獄之門（達瓦札天然氣坑）",
+    "name_en": "Darvaza Gas Crater (Door to Hell)",
+    "lat": 40.253,
+    "lon": 58.44,
+    "country": "土庫曼",
     "region": "亞洲",
-    "quote": "就是到曼谷的物资别克大使馆办签证",
-    "context": "主持人办理乌兹别克实体签证的具体地点"
+    "quote": "地狱之门，它是1971年的时候苏联科学家在探勘的时候发现说这边有一个气坑",
+    "context": "本集核心景點，天然氣坑燃燒逾五十年，作者親訪過夜"
   },
   {
-    "name": "越南驻泰国大使馆",
-    "name_en": "Embassy of Vietnam in Bangkok",
-    "lat": 13.736,
-    "lon": 100.547,
-    "country": "泰国",
+    "name": "阿什哈巴德",
+    "name_en": "Ashgabat",
+    "lat": 37.95,
+    "lon": 58.38,
+    "country": "土庫曼",
     "region": "亞洲",
-    "quote": "大马路上有越南大使馆 非常的非常的宏伟",
-    "context": "乌兹别克大使馆周边大马路上的显著地标"
+    "quote": "阿斯哈巴德最有名就是纯白大理石之城",
+    "context": "土庫曼首都，白色大理石建築與獨裁者打造的城市"
   },
   {
-    "name": "日本驻泰国大使馆",
-    "name_en": "Embassy of Japan in Bangkok",
-    "lat": 13.73,
-    "lon": 100.545,
-    "country": "泰国",
+    "name": "馬雷",
+    "name_en": "Mary",
+    "lat": 37.594,
+    "lon": 61.83,
+    "country": "土庫曼",
     "region": "亞洲",
-    "quote": "附近有日本大使馆",
-    "context": "乌兹别克大使馆附近的其他国家大使馆"
+    "quote": "第三天我们就拉车前往Mary 马雷",
+    "context": "絲路重要城市，蘇聯時期成為棉花生產中心"
   },
   {
-    "name": "西瓦古城",
-    "name_en": "Itchan Kala",
-    "lat": 41.377,
-    "lon": 60.358,
-    "country": "乌兹别克斯坦",
+    "name": "merv古城遺址",
+    "name_en": "Ancient Merv",
+    "lat": 37.665,
+    "lon": 62.19,
+    "country": "土庫曼",
     "region": "亞洲",
-    "quote": "所以当时就从西瓦古城这边 入境土库曼",
-    "context": "主持人离开乌兹别克前往土库曼边境的出发地"
+    "quote": "我们来这边其实主要是去那个MURF那个地方去看蒙古人摧毁的古城残骸",
+    "context": "被蒙古人夷平的古城遺跡與蘇菲式陵墓"
   },
   {
-    "name": "Shava边境",
+    "name": "希瓦",
+    "name_en": "Khiva",
+    "lat": 41.378,
+    "lon": 60.364,
+    "country": "烏茲別克",
+    "region": "亞洲",
+    "quote": "当时就从西瓦古城这边入境土库曼",
+    "context": "出發前往土庫曼邊境的古城",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/View_from_the_city_walls%2C_Khiva_%284934484894%29.jpg/330px-View_from_the_city_walls%2C_Khiva_%284934484894%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "沙瓦特邊境口岸",
     "name_en": "Shavat Border Crossing",
-    "lat": 41.664,
-    "lon": 59.982,
-    "country": "乌兹别克斯坦",
+    "lat": 41.65,
+    "lon": 60.6,
+    "country": "烏茲別克",
     "region": "亞洲",
-    "quote": "到那个Shava的边境",
-    "context": "连接乌兹别克斯坦与土库曼斯坦两国的陆路口岸"
+    "quote": "从西瓦那边的边境Shafa进土库曼",
+    "context": "入境土庫曼的陸路邊境，通關過程冗長"
+  },
+  {
+    "name": "達沙古茲",
+    "name_en": "Dashoguz",
+    "lat": 41.836,
+    "lon": 59.966,
+    "country": "土庫曼",
+    "region": "亞洲",
+    "quote": "在达沙谷枝就是的市区补给，他带我们去当地的超市",
+    "context": "入境後的邊境城市，補給與超市見聞"
+  },
+  {
+    "name": "塔什干",
+    "name_en": "Tashkent",
+    "lat": 41.299,
+    "lon": 69.24,
+    "country": "烏茲別克",
+    "region": "亞洲",
+    "quote": "塔什干这个城市他在1966年的时候曾经有发生过大地震",
+    "context": "地震後以蘇聯風格重建的城市建築"
+  },
+  {
+    "name": "阿夫拉西亞卜古城",
+    "name_en": "Afrasiab Ancient City",
+    "lat": 39.672,
+    "lon": 66.985,
+    "country": "烏茲別克",
+    "region": "亞洲",
+    "quote": "塔什干市区有一个很大的古城遗迹，那这个古城遗迹还是一样被蒙古人毁掉",
+    "context": "千年古城遺跡與粟特壁畫，有各國使節"
+  },
+  {
+    "name": "土庫曼巴德",
+    "name_en": "Turkmenabat",
+    "lat": 39.073,
+    "lon": 63.579,
+    "country": "土庫曼",
+    "region": "亞洲",
+    "quote": "拉车前往到那个Tukmanbad就是一个边境城市",
+    "context": "離境前的邊境工業城市"
+  },
+  {
+    "name": "土庫曼室內摩天輪",
+    "name_en": "Alem Cultural and Entertainment Center",
+    "lat": 37.98,
+    "lon": 58.34,
+    "country": "土庫曼",
+    "region": "亞洲",
+    "quote": "我们那时候就去搭那个获得金世界纪录的最大室内摩天轮",
+    "context": "首都的世界紀錄室內摩天輪，包場乘坐"
+  },
+  {
+    "name": "土庫曼地毯博物館",
+    "name_en": "Turkmen Carpet Museum",
+    "lat": 37.925,
+    "lon": 58.355,
+    "country": "土庫曼",
+    "region": "亞洲",
+    "quote": "他们还有个近世界纪录最大的地毯放在地毯博物馆",
+    "context": "收藏世界最大地毯，導遊讓遊客觸摸"
+  },
+  {
+    "name": "阿什哈巴德獨立紀念廣場",
+    "name_en": "Ashgabat Independence Square",
+    "lat": 37.934,
+    "lon": 58.389,
+    "country": "土庫曼",
+    "region": "亞洲",
+    "quote": "首都市中心的地方会有广场，广场就会放他们很多所谓的伟人的雕像",
+    "context": "廣場上有伟人雕像，包括黑羊白羊王朝"
+  },
+  {
+    "name": "卡拉庫姆沙漠",
+    "name_en": "Karakum Desert",
+    "lat": 40.0,
+    "lon": 59.0,
+    "country": "土庫曼",
+    "region": "亞洲",
+    "quote": "整个国家被那个很大沙漠被那个卡拉库姆沙漠给覆盖",
+    "context": "覆蓋土庫曼的沙漠，前往地獄之門必經"
   }
 ]

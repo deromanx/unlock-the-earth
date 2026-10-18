@@ -2,64 +2,129 @@
   {
     "name": "南安普敦",
     "name_en": "Southampton",
-    "lat": 50.897,
+    "lat": 50.904,
     "lon": -1.404,
     "country": "英國",
     "region": "歐洲",
     "quote": "我們的母港是南安普敦",
-    "context": "該郵輪航線的起點與終點母港",
+    "context": "郵輪12天航程的起訖母港，船員乘客上下船處",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/View_across_Ocean_Village_Marina_%28geograph_5432669%29.jpg/330px-View_across_Ocean_Village_Marina_%28geograph_5432669%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "根西島",
-    "name_en": "Guernsey",
-    "lat": 49.465,
-    "lon": -2.585,
-    "country": "英國",
-    "region": "歐洲",
-    "quote": "一個島叫Gurrency",
-    "context": "不列顛群島郵輪航線經過的島嶼"
-  },
-  {
-    "name": "波特蘭島",
-    "name_en": "Isle of Portland",
-    "lat": 50.542,
-    "lon": -2.436,
-    "country": "英國",
-    "region": "歐洲",
-    "quote": "然後還有一個島叫Portland",
-    "context": "不列顛群島郵輪航線經過的島嶼"
   },
   {
     "name": "奧克尼群島",
     "name_en": "Orkney Islands",
-    "lat": 58.984,
-    "lon": -2.964,
+    "lat": 58.981,
+    "lon": -3.2,
     "country": "英國",
     "region": "歐洲",
-    "quote": "它叫奧克尼群島",
-    "context": "航線最北端，以體驗極地般氣候為賣點"
+    "quote": "很多客人來真的就是有想要想走郵輪就是為了要去那個奧克尼群島",
+    "context": "航線最北點，風大天冷，乘客特地為此搭船"
   },
   {
-    "name": "科夫",
-    "name_en": "Cobh",
-    "lat": 51.85,
-    "lon": -8.294,
-    "country": "愛爾蘭",
-    "region": "歐洲",
-    "quote": "就是COBH",
-    "context": "郵輪特別停靠的愛爾蘭小港口",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Cobh.jpg/330px-Cobh.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "勒阿弗爾",
+    "name": "勒哈佛",
     "name_en": "Le Havre",
     "lat": 49.494,
     "lon": 0.107,
     "country": "法國",
     "region": "歐洲",
-    "quote": "會停法國的第二大港",
-    "context": "供旅客下船轉乘前往巴黎的停靠港",
+    "quote": "會停法國的第二大港叫做The Huff",
+    "context": "返航前停靠港，美國乘客由此一日遊巴黎",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Panorama_of_Le_Havre%2C_September_2019.jpg/330px-Panorama_of_Le_Havre%2C_September_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "因弗內斯",
+    "name_en": "Inverness",
+    "lat": 57.478,
+    "lon": -4.225,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "Inverness就是算是基本上算是整個蘇格蘭最北邊的一個大城市",
+    "context": "蘇格蘭高地航點，蘇格蘭最北大城",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Inverness_Castle%2C_Scotland_-_Diliff.jpg/330px-Inverness_Castle%2C_Scotland_-_Diliff.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "格拉斯哥",
+    "name_en": "Glasgow",
+    "lat": 55.864,
+    "lon": -4.252,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "蘇格蘭就是會有Glasgow啊",
+    "context": "蘇格蘭兩大城之一，航線停靠港",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Glasgow_-_aerial_-_2025-04-17_14.jpg/330px-Glasgow_-_aerial_-_2025-04-17_14.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "愛丁堡",
+    "name_en": "Edinburgh",
+    "lat": 55.953,
+    "lon": -3.188,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "我們就一樣會走愛丁堡啊就是很多人愛丁堡很多人去過",
+    "context": "遊客熱愛的蘇格蘭景點，航線停靠港",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Skyline_of_Edinburgh.jpg/330px-Skyline_of_Edinburgh.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "貝爾法斯特",
+    "name_en": "Belfast",
+    "lat": 54.597,
+    "lon": -5.93,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "北愛爾蘭首都叫做Belfast",
+    "context": "北愛爾蘭首府，航線停靠港",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Belfast_Skyline_City_Quays.png/330px-Belfast_Skyline_City_Quays.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "科芙",
+    "name_en": "Cobh",
+    "lat": 51.851,
+    "lon": -8.299,
+    "country": "愛爾蘭",
+    "region": "歐洲",
+    "quote": "一個是COVE就是COBH",
+    "context": "愛爾蘭停靠港之一",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Cobh.jpg/330px-Cobh.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "都柏林",
+    "name_en": "Dublin",
+    "lat": 53.35,
+    "lon": -6.26,
+    "country": "愛爾蘭",
+    "region": "歐洲",
+    "quote": "另外一個就是大家熟悉的都柏林",
+    "context": "愛爾蘭停靠港之一"
+  },
+  {
+    "name": "利物浦",
+    "name_en": "Liverpool",
+    "lat": 53.408,
+    "lon": -2.992,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "在網上就是會有利物圖啊就是有些大家比較熟悉的",
+    "context": "航線上的英國港口"
+  },
+  {
+    "name": "根西島",
+    "name_en": "Guernsey",
+    "lat": 49.455,
+    "lon": -2.536,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "經過Gurrency一個島叫Gurrency",
+    "context": "航線經過的英倫海峽島嶼"
+  },
+  {
+    "name": "巴黎",
+    "name_en": "Paris",
+    "lat": 48.857,
+    "lon": 2.352,
+    "country": "法國",
+    "region": "歐洲",
+    "quote": "很多美國人來就是為了要去巴黎巴黎一日遊",
+    "context": "從勒哈佛出發的熱門一日遊行程",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg/330px-La_Tour_Eiffel_vue_de_la_Tour_Saint-Jacques%2C_Paris_ao%C3%BBt_2014_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]

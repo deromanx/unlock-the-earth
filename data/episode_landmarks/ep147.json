@@ -1,22 +1,22 @@
 [
   {
-    "name": "海牙皇家音樂學院（舊址）",
-    "name_en": "Royal Conservatoire of The Hague (Former Building)",
-    "lat": 52.08,
-    "lon": 4.332,
-    "country": "荷蘭",
-    "region": "歐洲",
-    "quote": "他们以荷兰海牙黄追亚艺术学院的旧大楼作为战时的庇护所",
-    "context": "作為烏克蘭聯合芭蕾舞團流亡期間的庇護所"
-  },
-  {
-    "name": "臺北流行音樂中心",
+    "name": "台北流行音樂中心",
     "name_en": "Taipei Music Center",
-    "lat": 25.053,
-    "lon": 121.599,
+    "lat": 25.0527,
+    "lon": 121.5985,
     "country": "台灣",
     "region": "台灣",
-    "quote": "地点在台北流行音乐中心",
-    "context": "烏克蘭聯合芭蕾舞團《戰時輓歌》在台灣的演出場地"
+    "quote": "地點在台北流行音樂中心",
+    "context": "烏克蘭聯合芭蕾舞團《戰時晚歌》的演出場地"
+  },
+  {
+    "name": "布拉提斯拉瓦",
+    "name_en": "Bratislava",
+    "lat": 48.1486,
+    "lon": 17.1077,
+    "country": "斯洛伐克",
+    "region": "歐洲",
+    "quote": "我很羞愧的要承認我已經只去過Bratisava",
+    "context": "斯洛伐克首都，來賓談其遊客少、住宿與旅行經驗"
   }
 ]

@@ -1,24 +1,55 @@
 [
   {
+    "name": "花神咖啡館",
+    "name_en": "Café de Flore",
+    "lat": 48.8541,
+    "lon": 2.3326,
+    "country": "法國",
+    "region": "歐洲",
+    "quote": "尤其我想巴黎最有名的就是那个双手跟花神嘛",
+    "context": "巴黎咖啡文化象徵，沙特與波娃寫作辯論之處",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Caf%C3%A9_de_Flore%2C_172_boulevard_Saint-Germain%2C_Paris_6e.jpg/330px-Caf%C3%A9_de_Flore%2C_172_boulevard_Saint-Germain%2C_Paris_6e.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
     "name": "雙叟咖啡館",
     "name_en": "Les Deux Magots",
     "lat": 48.854,
-    "lon": 2.333,
+    "lon": 2.3333,
     "country": "法國",
     "region": "歐洲",
     "quote": "尤其我想巴黎最有名的就是那个双手跟花神嘛",
-    "context": "舉例說明巴黎知名的咖啡文化與打卡景點",
+    "context": "與花神並稱的打卡名店，存在主義文人聚集地",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Les_Deux_Magots%2C_25_September_2019.jpg/330px-Les_Deux_Magots%2C_25_September_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "花神咖啡館",
-    "name_en": "Café de Flore",
-    "lat": 48.854,
-    "lon": 2.332,
+    "name": "威尼斯",
+    "name_en": "Venice",
+    "lat": 45.4408,
+    "lon": 12.3155,
+    "country": "義大利",
+    "region": "歐洲",
+    "quote": "你从一落地 一进到那个岛上开始",
+    "context": "分享好房東、丟開地圖在迷宮巷弄中迷路的體驗"
+  },
+  {
+    "name": "巴黎地鐵",
+    "name_en": "Paris Métro",
+    "lat": 48.8566,
+    "lon": 2.3522,
     "country": "法國",
     "region": "歐洲",
-    "quote": "尤其我想巴黎最有名的就是那个双手跟花神嘛",
-    "context": "舉例說明巴黎知名的咖啡文化與打卡景點",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Caf%C3%A9_de_Flore%2C_172_boulevard_Saint-Germain%2C_Paris_6e.jpg/330px-Caf%C3%A9_de_Flore%2C_172_boulevard_Saint-Germain%2C_Paris_6e.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    "quote": "巴黎地铁是 已经上百年了",
+    "context": "無電梯，帶大行李搬上搬下，成為震撼教育"
+  },
+  {
+    "name": "海德堡",
+    "name_en": "Heidelberg",
+    "lat": 49.3988,
+    "lon": 8.6724,
+    "country": "德國",
+    "region": "歐洲",
+    "quote": "我是住在海德堡",
+    "context": "來賓留學居住地，靠近法國邊境",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/K%C3%B6nigstuhl%2C_Heidelberg%2C_U-17.jpg/330px-K%C3%B6nigstuhl%2C_Heidelberg%2C_U-17.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]

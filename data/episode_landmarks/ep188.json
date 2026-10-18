@@ -1,72 +1,241 @@
 [
   {
-    "name": "海斯碼頭",
-    "name_en": "Hythe Pier",
-    "lat": 50.873,
-    "lon": -1.394,
+    "name": "溫徹斯特",
+    "name_en": "Winchester",
+    "lat": 51.063,
+    "lon": -1.308,
     "country": "英國",
     "region": "歐洲",
-    "quote": "它有全世界最長的碼頭鐵路...物理上，你可以從它的那個就是陸地端走到海中央",
-    "context": "擁有世界最長碼頭鐵路，可徒步走入海中，是講者印象深刻的景點。"
+    "quote": "就是有地方叫Winchester",
+    "context": "中世紀英格蘭首都，旅程起點",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Winchester_Montage.jpg/330px-Winchester_Montage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "溫徹斯特城堡大會廳",
-    "name_en": "The Great Hall, Winchester Castle",
-    "lat": 51.062,
-    "lon": -1.319,
+    "name": "溫徹斯特城堡大會堂（亞瑟王圓桌）",
+    "name_en": "Winchester Castle Great Hall",
+    "lat": 51.063,
+    "lon": -1.3195,
     "country": "英國",
     "region": "歐洲",
-    "quote": "號稱是當時的圓桌...就直接在牆壁上...他就放在Windows Castle有個所謂的大會廳",
-    "context": "存放傳說中亞瑟王與圓桌武士的圓桌，是溫徹斯特歷史的重要象徵。"
+    "quote": "那張圓桌到現在還在",
+    "context": "牆上懸掛號稱亞瑟王的圓桌"
   },
   {
     "name": "溫徹斯特大教堂",
     "name_en": "Winchester Cathedral",
-    "lat": 51.06,
-    "lon": -1.313,
+    "lat": 51.0605,
+    "lon": -1.3133,
     "country": "英國",
     "region": "歐洲",
-    "quote": "Winchester你可以也可以看到有一個很大教堂...只要是灌Cassetto的地方它一定就是City",
-    "context": "具有歷史意義的主教座堂，使溫徹斯特在法律地位上被定義為城市。"
+    "quote": "你同樣可以看到有一個很大教堂",
+    "context": "主教座堂，河岸草地步道旁"
+  },
+  {
+    "name": "海斯碼頭鐵路",
+    "name_en": "Hythe Pier Railway",
+    "lat": 50.87,
+    "lon": -1.4,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "它有全世界最長的碼頭鐵路",
+    "context": "可徒步走入海中的碼頭鐵軌",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Hythe_Pier_May_2026.jpg/330px-Hythe_Pier_May_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "新森林國家公園",
     "name_en": "New Forest National Park",
-    "lat": 50.865,
-    "lon": -1.565,
+    "lat": 50.87,
+    "lon": -1.58,
     "country": "英國",
     "region": "歐洲",
-    "quote": "全英國最新的國家公園叫做新森林國家公園...它其實裡面有很多它那個歷史真的可以最受到古羅馬時期",
-    "context": "英國較新的國家公園，擁有豐富自然景觀與古羅馬歷史背景。"
+    "quote": "全英國最新的國家公園叫做新森林國家公園",
+    "context": "歷史悠久的森林，童話靈感來源"
   },
   {
-    "name": "林德赫斯特",
+    "name": "林赫斯特",
     "name_en": "Lyndhurst",
-    "lat": 50.873,
-    "lon": -1.579,
+    "lat": 50.8708,
+    "lon": -1.5467,
     "country": "英國",
     "region": "歐洲",
-    "quote": "走進來這個國家公園之後你可以到一個叫Lindhurst...它是國家公園的正中心的一個行政中心",
-    "context": "新森林國家公園的行政中心，也是愛麗絲夢遊仙境原型的居住地。"
+    "quote": "你可以到一個叫Lindhurst",
+    "context": "新森林行政中心，愛麗絲原型居住地"
   },
   {
-    "name": "布萊頓海灘",
-    "name_en": "Brighton Beach",
-    "lat": 50.819,
-    "lon": -0.137,
+    "name": "南安普敦",
+    "name_en": "Southampton",
+    "lat": 50.9097,
+    "lon": -1.4044,
     "country": "英國",
     "region": "歐洲",
-    "quote": "純粹是因為我討厭岩灘...如果有人很喜歡那個岩石海灘Brighton是你一定要去的地方",
-    "context": "以著名的岩石海灘（岩灘）聞名，是倫敦近郊熱門的一日遊目的地。"
+    "quote": "像Southampton 南安普頓",
+    "context": "港口城市，前往外島的出發點",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/View_across_Ocean_Village_Marina_%28geograph_5432669%29.jpg/330px-View_across_Ocean_Village_Marina_%28geograph_5432669%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "普茲茅斯歷史造船廠",
-    "name_en": "Portsmouth Historic Dockyard",
-    "lat": 50.801,
-    "lon": -1.109,
+    "name": "樸茨茅斯",
+    "name_en": "Portsmouth",
+    "lat": 50.7989,
+    "lon": -1.0912,
     "country": "英國",
     "region": "歐洲",
-    "quote": "普茲茅斯很有名的軍港他聽很多軍艦",
-    "context": "著名的歷史軍港，停泊許多軍艦，是英格蘭南部的重要地標。"
+    "quote": "普茲茅斯很有名的軍港",
+    "context": "英國海軍本營，可看軍艦",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Portsmouth_Guildhall_-_geograph.org.uk_-_5431834.jpg/330px-Portsmouth_Guildhall_-_geograph.org.uk_-_5431834.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "懷特島",
+    "name_en": "Isle of Wight",
+    "lat": 50.6938,
+    "lon": -1.3047,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "英格蘭最大的外島之地叫Isle of White",
+    "context": "以音樂節聞名的外島",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/IsleOfWightFromTheISS.jpg/330px-IsleOfWightFromTheISS.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "索爾茲伯里",
+    "name_en": "Salisbury",
+    "lat": 51.0688,
+    "lon": -1.7945,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "你可以走到一個地方叫Southbury",
+    "context": "大憲章與最高尖塔所在城市",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/The_Wardrobe%2C_Salisbury.jpg/330px-The_Wardrobe%2C_Salisbury.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "老塞勒姆",
+    "name_en": "Old Sarum",
+    "lat": 51.0934,
+    "lon": -1.8033,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "有New Sarum就一定會有Old Sarum",
+    "context": "索爾茲伯里前身的古居住地",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Aerial_photograph_of_Old_Sarum_site%2C_on_departure_from_Old_Sarum_airfield.jpg/330px-Aerial_photograph_of_Old_Sarum_site%2C_on_departure_from_Old_Sarum_airfield.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "索爾茲伯里大教堂",
+    "name_en": "Salisbury Cathedral",
+    "lat": 51.0644,
+    "lon": -1.7978,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "其中一個正本是放在Southbury Cascade",
+    "context": "藏大憲章正本，英國最高尖塔",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/SalisburyCathedral-wyrdlight-EastExt.jpg/330px-SalisburyCathedral-wyrdlight-EastExt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "巨石陣",
+    "name_en": "Stonehenge",
+    "lat": 51.1789,
+    "lon": -1.8262,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "在巨石鎮開趴",
+    "context": "夏至開放，作者親身參與派對",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Stonehenge2007_07_30.jpg/330px-Stonehenge2007_07_30.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "巴斯",
+    "name_en": "Bath",
+    "lat": 51.3811,
+    "lon": -2.359,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "巴斯很有名是什麼 溫泉大澡堂",
+    "context": "羅馬浴場，倫敦一日遊熱門點"
+  },
+  {
+    "name": "皇家新月樓",
+    "name_en": "Royal Crescent",
+    "lat": 51.3869,
+    "lon": -2.3671,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "那個很壯觀的Royal Crescent",
+    "context": "巴斯半圓形建築"
+  },
+  {
+    "name": "沙夫茨伯里黃金山",
+    "name_en": "Gold Hill, Shaftesbury",
+    "lat": 51.0063,
+    "lon": -2.1977,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "他們一個地方叫做Golden Hill",
+    "context": "老電影經典結尾取景的下坡石板路"
+  },
+  {
+    "name": "伯恩茅斯",
+    "name_en": "Bournemouth",
+    "lat": 50.7192,
+    "lon": -1.8808,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "就是我的老本營之一 博恩茅斯",
+    "context": "夏季海灘度假城市，作者留學處"
+  },
+  {
+    "name": "普爾",
+    "name_en": "Poole",
+    "lat": 50.715,
+    "lon": -1.9872,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "普爾跟博文毛斯其實是一個都會區",
+    "context": "港口與海灣，奧運帆船比賽地"
+  },
+  {
+    "name": "桑德班克斯",
+    "name_en": "Sandbanks",
+    "lat": 50.6867,
+    "lon": -1.9411,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "叫Sandbanks",
+    "context": "名人豪宅區，英國地價最貴之地"
+  },
+  {
+    "name": "布朗西島",
+    "name_en": "Brownsea Island",
+    "lat": 50.6897,
+    "lon": -1.9606,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "它叫Bron Sea Island",
+    "context": "世界童軍運動發源地"
+  },
+  {
+    "name": "侏羅紀海岸",
+    "name_en": "Jurassic Coast",
+    "lat": 50.65,
+    "lon": -2.45,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "你會去到一個地方叫做諸羅紀海岸",
+    "context": "化石豐富的世界自然遺產海岸"
+  },
+  {
+    "name": "科夫城堡",
+    "name_en": "Corfe Castle",
+    "lat": 50.6396,
+    "lon": -2.0576,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "有一個地方叫庫夫卡索",
+    "context": "毀壞的古堡，常作電影場景"
+  },
+  {
+    "name": "勞倫斯之墓（莫頓聖尼古拉斯教堂）",
+    "name_en": "T. E. Lawrence Grave, Moreton",
+    "lat": 50.7108,
+    "lon": -2.28,
+    "country": "英國",
+    "region": "歐洲",
+    "quote": "阿博爾勞倫斯的墓 就是那邊的人",
+    "context": "阿拉伯的勞倫斯葬於此"
   }
 ]

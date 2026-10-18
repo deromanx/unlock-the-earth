@@ -2,22 +2,12 @@
   {
     "name": "小美人魚雕像",
     "name_en": "The Little Mermaid",
-    "lat": 55.693,
+    "lat": 55.692,
     "lon": 12.599,
     "country": "丹麥",
     "region": "歐洲",
-    "quote": "他有一個那個小美人語的 美人語的雕像",
-    "context": "哥本哈根著名地標，位於港口邊，實際看並不起眼"
-  },
-  {
-    "name": "蒂沃利花園",
-    "name_en": "Tivoli Gardens",
-    "lat": 55.674,
-    "lon": 12.568,
-    "country": "丹麥",
-    "region": "歐洲",
-    "quote": "他跟他一個世界上現存第二古老的主題樂園",
-    "context": "位於哥本哈根，有平面的雲霄飛車，名氣很大"
+    "quote": "他有一个那个小美人语的美人语的雕像",
+    "context": "哥本哈根地標，雕像不起眼卻是必訪景點"
   },
   {
     "name": "維格蘭雕塑公園",
@@ -26,27 +16,206 @@
     "lon": 10.7,
     "country": "挪威",
     "region": "歐洲",
-    "quote": "他有一個很有名的 就是他有一個雕塑公園 叫維格蘭 雕塑公園",
-    "context": "奧斯陸著名公園，內有212座雕像"
+    "quote": "他有一個雕塑公園叫維格蘭",
+    "context": "奧斯陸雕塑公園，有生命之柱"
   },
   {
     "name": "生命之柱",
-    "name_en": "The Monolith",
-    "lat": 59.928,
-    "lon": 10.699,
+    "name_en": "The Monolith (Monolitten)",
+    "lat": 59.927,
+    "lon": 10.7005,
     "country": "挪威",
     "region": "歐洲",
-    "quote": "那其實有一個最大 最醒目就是 叫生命之柱",
-    "context": "維格蘭公園內的地標，由121個人像組成"
+    "quote": "其實有一個最大最醒目就是叫生命之柱",
+    "context": "由121個人像組成的公園地標雕塑"
   },
   {
-    "name": "赫爾門科倫滑雪跳台",
+    "name": "霍爾門科倫跳台",
     "name_en": "Holmenkollen Ski Jump",
     "lat": 59.964,
-    "lon": 10.668,
+    "lon": 10.667,
     "country": "挪威",
     "region": "歐洲",
-    "quote": "然後我們去那邊 還有去看一個 滑雪的跳台 他叫赫爾門科倫 滑雪跳台",
-    "context": "巨大的滑雪跳台建築，近看非常震撼"
+    "quote": "我們去那邊還有去看一個滑雪的跳台",
+    "context": "奧斯陸滑雪跳台，夏季參觀感受震撼"
+  },
+  {
+    "name": "松恩峽灣",
+    "name_en": "Sognefjord",
+    "lat": 61.1,
+    "lon": 6.8,
+    "country": "挪威",
+    "region": "歐洲",
+    "quote": "那個地方就叫做松恩峽灣區",
+    "context": "挪威縮影路線的主要峽灣，盛產鮭魚",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Sognefjord%2C_Norway.jpg/330px-Sognefjord%2C_Norway.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "蓋倫格峽灣",
+    "name_en": "Geirangerfjord",
+    "lat": 62.101,
+    "lon": 7.094,
+    "country": "挪威",
+    "region": "歐洲",
+    "quote": "還有一個叫Garanger峽灣",
+    "context": "與松恩並列的世界遺產峽灣",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Geirangerfjord_.jpg/330px-Geirangerfjord_.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "羅弗敦群島",
+    "name_en": "Lofoten Islands",
+    "lat": 68.2,
+    "lon": 14.0,
+    "country": "挪威",
+    "region": "歐洲",
+    "quote": "叫Lofton Island就是洛夫頓群島",
+    "context": "北極圈內雨中騎單車的難忘經歷",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Moskenes_Reinebringen_lub_2025-07-21_img09_Aussicht.jpg/330px-Moskenes_Reinebringen_lub_2025-07-21_img09_Aussicht.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "納爾維克",
+    "name_en": "Narvik",
+    "lat": 68.438,
+    "lon": 17.427,
+    "country": "挪威",
+    "region": "歐洲",
+    "quote": "我們挪威最後一站是一個叫納維克的地方",
+    "context": "最北火車站所在，初見午夜太陽",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Narvik_from_above.JPG/330px-Narvik_from_above.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "基律納鐵礦",
+    "name_en": "Kiruna LKAB Iron Mine",
+    "lat": 67.857,
+    "lon": 20.225,
+    "country": "瑞典",
+    "region": "歐洲",
+    "quote": "一個叫做Kiluna的地方",
+    "context": "參觀地下鐵礦導覽，城市為礦而生"
+  },
+  {
+    "name": "哥特堡",
+    "name_en": "Gothenburg",
+    "lat": 57.709,
+    "lon": 11.975,
+    "country": "瑞典",
+    "region": "歐洲",
+    "quote": "瑞典的第二大城是哥特堡",
+    "context": "因足球賽客滿，被迫住進貴價飯店",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/G%C3%B6teborg_2503_stitch_%2828573994096%29.jpg/330px-G%C3%B6teborg_2503_stitch_%2828573994096%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "斯德哥爾摩市政廳",
+    "name_en": "Stockholm City Hall",
+    "lat": 59.328,
+    "lon": 18.054,
+    "country": "瑞典",
+    "region": "歐洲",
+    "quote": "他的市政廳就是每年都是在斯德哥爾摩的市政廳去搬這個諾貝爾獎",
+    "context": "諾貝爾獎頒獎場地",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Stockholms_stadshus_February_2026_02.jpg/330px-Stockholms_stadshus_February_2026_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "烏普薩拉大學",
+    "name_en": "Uppsala University",
+    "lat": 59.858,
+    "lon": 17.635,
+    "country": "瑞典",
+    "region": "歐洲",
+    "quote": "他其實是一個大學城那個城市就是一間叫烏普薩拉大學",
+    "context": "北歐最古老大學，講者最愛城市",
+    "image": "https://thumb.wikimedia.org/wikipedia/en/thumb/0/03/Uppsala_University_logo.svg/330px-Uppsala_University_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "林奈植物園",
+    "name_en": "Linnaeus Garden",
+    "lat": 59.855,
+    "lon": 17.631,
+    "country": "瑞典",
+    "region": "歐洲",
+    "quote": "我們有去參觀一個那個植物園叫林奈植物園",
+    "context": "學生寫生的人文學術氛圍",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/CarlvonLinne_Garden.jpg/330px-CarlvonLinne_Garden.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "馬爾默",
+    "name_en": "Malmö",
+    "lat": 55.605,
+    "lon": 13.0,
+    "country": "瑞典",
+    "region": "歐洲",
+    "quote": "叫馬爾蒙就是他們最南邊的一個城市",
+    "context": "瑞典南端城市，緊鄰松德海峽大橋",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Malm%C3%B6%E2%80%93flygbild_06_september_2014.jpg/330px-Malm%C3%B6%E2%80%93flygbild_06_september_2014.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "厄勒海峽大橋",
+    "name_en": "Øresund Bridge",
+    "lat": 55.572,
+    "lon": 12.829,
+    "country": "瑞典",
+    "region": "歐洲",
+    "quote": "有一個松德海峽大橋就是從馬爾蒙通到那個丹麥",
+    "context": "2000年7月落成，連接瑞典與丹麥"
+  },
+  {
+    "name": "羅瓦涅米聖誕老人村",
+    "name_en": "Santa Claus Village, Rovaniemi",
+    "lat": 66.543,
+    "lon": 25.847,
+    "country": "芬蘭",
+    "region": "歐洲",
+    "quote": "他有個地方叫做聖誕老人村",
+    "context": "北極圈線穿越的主題園區，夏季顯人工"
+  },
+  {
+    "name": "阿克雷里",
+    "name_en": "Akureyri",
+    "lat": 65.688,
+    "lon": -18.101,
+    "country": "冰島",
+    "region": "歐洲",
+    "quote": "我們先飛到他北方的一個叫雅庫萊里的小鎮",
+    "context": "搭螺旋槳飛機遇亂流驚魂降落"
+  },
+  {
+    "name": "胡薩維克",
+    "name_en": "Húsavík",
+    "lat": 66.045,
+    "lon": -17.338,
+    "country": "冰島",
+    "region": "歐洲",
+    "quote": "有個地方是他們賞鯨的聖地叫胡薩維克",
+    "context": "出海賞鯨，看到小型鯨魚"
+  },
+  {
+    "name": "米湖",
+    "name_en": "Lake Mývatn",
+    "lat": 65.6,
+    "lon": -17.0,
+    "country": "冰島",
+    "region": "歐洲",
+    "quote": "然後有去一個什麼米湖",
+    "context": "荒蕪地形中有綠意，但小蟲極多"
+  },
+  {
+    "name": "雷克雅維克",
+    "name_en": "Reykjavík",
+    "lat": 64.147,
+    "lon": -21.943,
+    "country": "冰島",
+    "region": "歐洲",
+    "quote": "我們從那邊搭飛機到雷克雅維克",
+    "context": "在麥當勞發現大麥克價格驚人"
+  },
+  {
+    "name": "藍湖溫泉",
+    "name_en": "Blue Lagoon",
+    "lat": 63.881,
+    "lon": -22.449,
+    "country": "冰島",
+    "region": "歐洲",
+    "quote": "有一個地方叫藍湖",
+    "context": "全球最大露天溫泉，白泥敷臉"
   }
 ]

@@ -1,16 +1,5 @@
 [
   {
-    "name": "喜馬拉雅山脈",
-    "name_en": "Himalayas",
-    "lat": 27.988,
-    "lon": 86.925,
-    "country": "中國/尼泊爾/印度",
-    "region": "亞洲",
-    "quote": "然後主要他靠近那個西亞脈雅山脈",
-    "context": "解釋克什米爾獨特地形與壯麗風景的地理成因",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Himalayas_and_allied_ranges_NASA_Landsat_showing_the_eight_thousanders%2C_annotated_with_major_rivers.jpg/330px-Himalayas_and_allied_ranges_NASA_Landsat_showing_the_eight_thousanders%2C_annotated_with_major_rivers.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
     "name": "斯里納加爾",
     "name_en": "Srinagar",
     "lat": 34.083,
@@ -18,7 +7,48 @@
     "country": "印度",
     "region": "亞洲",
     "quote": "那時候是去斯里納加爾",
-    "context": "來賓前往克什米爾實際造訪的冬季首府",
+    "context": "克什米爾夏季首府，作者兩次造訪並在此生活交友",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Red_and_Yellow_Tulips.JPG/330px-Red_and_Yellow_Tulips.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "拉達克",
+    "name_en": "Ladakh",
+    "lat": 34.152,
+    "lon": 77.577,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "拉達克之前很多人愛去",
+    "context": "因《三個傻瓜》知名，後因中印衝突遊客減少"
+  },
+  {
+    "name": "達爾湖",
+    "name_en": "Dal Lake",
+    "lat": 34.11,
+    "lon": 74.865,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "他的湖邊美景還有船屋",
+    "context": "高原湖泊與船屋住宿，旁有水上市場，景色絕美",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Dal_Lake_Hazratbal_Srinagar.jpg/330px-Dal_Lake_Hazratbal_Srinagar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "斯里納加爾波斯式花園",
+    "name_en": "Mughal Gardens, Srinagar",
+    "lat": 34.093,
+    "lon": 74.876,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "公園是波斯市的公園",
+    "context": "具水道灌溉系統的波斯式花園，需收門票"
+  },
+  {
+    "name": "達爾湖水上市場",
+    "name_en": "Dal Lake Floating Vegetable Market",
+    "lat": 34.105,
+    "lon": 74.852,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "旁邊還有那個水上市場",
+    "context": "清晨開市的水上市場，作者覺得還好"
   }
 ]

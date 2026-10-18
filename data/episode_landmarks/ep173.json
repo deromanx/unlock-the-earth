@@ -1,22 +1,45 @@
 [
   {
     "name": "印度理工學院孟買分校",
-    "name_en": "Indian Institute of Technology Bombay",
+    "name_en": "IIT Bombay",
     "lat": 19.133,
     "lon": 72.913,
     "country": "印度",
     "region": "亞洲",
-    "quote": "孟買的那個印度理工學院孟買分校",
-    "context": "講者去交換學生的學校，為本集主要分享背景"
+    "quote": "印度理工學院孟買分校",
+    "context": "主講人交換學生就讀的學校，校園生活與課程是主軸",
+    "image": "https://thumb.wikimedia.org/wikipedia/en/thumb/1/1d/Indian_Institute_of_Technology_Bombay_Logo.svg/330px-Indian_Institute_of_Technology_Bombay_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "希拉南達尼花園",
-    "name_en": "Hiranandani Gardens",
-    "lat": 19.12,
-    "lon": 72.909,
+    "name": "孟買",
+    "name_en": "Mumbai",
+    "lat": 19.076,
+    "lon": 72.878,
     "country": "印度",
     "region": "亞洲",
-    "quote": "有一區叫亦爾朗朗尼",
-    "context": "學校外有很多異國料理且生活便利的區域"
+    "quote": "我五月到六月有出差印度夢買五個星期",
+    "context": "主講人交換與出差的城市，談牛隻、捷運、外送等變化",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Mumbai_Bandra-Worli_Sea_Link.jpg/330px-Mumbai_Bandra-Worli_Sea_Link.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "喀拉拉邦柯枝",
+    "name_en": "Kochi",
+    "lat": 9.931,
+    "lon": 76.267,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "因為我去Kochin搭那個地鐵",
+    "context": "提到當地地鐵很新，並適合數位遊牧",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Kochi_Skyline.jpg/330px-Kochi_Skyline.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "維也納大學",
+    "name_en": "University of Vienna",
+    "lat": 48.213,
+    "lon": 16.36,
+    "country": "奧地利",
+    "region": "歐洲",
+    "quote": "我第一次去交換的時候是去奧地利威娜大學",
+    "context": "與印度交換經驗對照，德語授課受限"
   }
 ]

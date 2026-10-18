@@ -1,55 +1,34 @@
 [
   {
-    "name": "大安森林公園",
-    "name_en": "Daan Forest Park",
-    "lat": 25.029,
-    "lon": 121.536,
-    "country": "台灣",
-    "region": "台灣",
-    "quote": "將在大安森林公園 舉辦夏至關燈的野餐活動",
-    "context": "舉辦夏至關燈野餐活動的地點",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Daan_Park_20210817.jpg/330px-Daan_Park_20210817.jpg"
-  },
-  {
-    "name": "大峽谷",
-    "name_en": "Grand Canyon",
-    "lat": 36.054,
-    "lon": -112.14,
-    "country": "美國",
-    "region": "美洲",
-    "quote": "我去美國是有去大峽谷",
-    "context": "講者在美國旅行期間造訪的具體景點"
-  },
-  {
-    "name": "帕拉卡斯",
-    "name_en": "Paracas",
-    "lat": -13.84,
-    "lon": -76.22,
+    "name": "馬丘比丘",
+    "name_en": "Machu Picchu",
+    "lat": -13.163,
+    "lon": -72.545,
     "country": "秘魯",
     "region": "美洲",
-    "quote": "像Paracas這個地方 它就是海邊 你可以看到海島 海獅等等的",
-    "context": "可觀察海島與海獅的秘魯沿海景點"
-  },
-  {
-    "name": "華納奇卡",
-    "name_en": "Huacachina",
-    "lat": -14.087,
-    "lon": -75.763,
-    "country": "秘魯",
-    "region": "美洲",
-    "quote": "華納奇卡 它是一個綠洲",
-    "context": "講者推薦的秘魯沙漠綠洲景點"
+    "quote": "我本來就一直很想要去秘錄看那個馬丘比丘嘛",
+    "context": "旅程起因與夢想目的地，但體驗偏觀光化、路線單向"
   },
   {
     "name": "納斯卡線",
     "name_en": "Nazca Lines",
     "lat": -14.739,
-    "lon": -75.131,
+    "lon": -75.13,
     "country": "秘魯",
     "region": "美洲",
-    "quote": "納斯卡線 就是坐小飛機這樣子 它是在沙漠上 然後有神秘符號",
-    "context": "位於沙漠中需搭小飛機觀賞的神秘圖騰",
+    "quote": "納斯卡線就是坐小飛機這樣子",
+    "context": "沙漠地上巨大圖案，搭小飛機俯瞰",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/L%C3%ADneas_de_Nazca%2C_Nazca%2C_Per%C3%BA%2C_2015-07-29%2C_DD_49.JPG/330px-L%C3%ADneas_de_Nazca%2C_Nazca%2C_Per%C3%BA%2C_2015-07-29%2C_DD_49.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "的的喀喀湖蘆葦島",
+    "name_en": "Uros Floating Islands",
+    "lat": -15.826,
+    "lon": -69.97,
+    "country": "秘魯",
+    "region": "美洲",
+    "quote": "它就是用那個蘆葦製造出來的一個島",
+    "context": "普諾附近的蘆葦浮島，居民住島上，觀光價偏高"
   },
   {
     "name": "普諾",
@@ -58,37 +37,130 @@
     "lon": -70.021,
     "country": "秘魯",
     "region": "美洲",
-    "quote": "我還有去 噗嚨 噗嚨 就是TTT卡卡虎 你有聽過嗎",
-    "context": "提提卡卡湖畔的城市（音譯為噗嚨）"
-  },
-  {
-    "name": "提提卡卡湖",
-    "name_en": "Lake Titicaca",
-    "lat": -15.8,
-    "lon": -69.4,
-    "country": "秘魯",
-    "region": "美洲",
-    "quote": "噗嚨 噗嚨 就是TTT卡卡虎 你有聽過嗎 它就是用那個蘆葦製造出來的一個島",
-    "context": "擁有著名蘆葦浮島的高山湖泊（音譯為TTT卡卡虎）"
+    "quote": "我在Puno那邊的時候",
+    "context": "遇到墨西哥人Victor，學到放鬆心態"
   },
   {
     "name": "庫斯科",
     "name_en": "Cusco",
-    "lat": -13.531,
+    "lat": -13.532,
     "lon": -71.967,
     "country": "秘魯",
     "region": "美洲",
-    "quote": "庫斯科是秘魯的一個古城 ... 以前當初印加帝國的首都",
-    "context": "印加帝國古都，前往馬丘比丘的重要門戶"
+    "quote": "庫斯科是秘魯的一個古城",
+    "context": "印加古都，馬丘比丘基地，與旅伴分道揚鑣"
   },
   {
-    "name": "馬丘比丘",
-    "name_en": "Machu Picchu",
-    "lat": -13.163,
-    "lon": -72.545,
+    "name": "彩虹山",
+    "name_en": "Rainbow Mountain (Vinicunca)",
+    "lat": -13.87,
+    "lon": -71.303,
     "country": "秘魯",
     "region": "美洲",
-    "quote": "我本來就一直很想要去秘錄 看那個馬丘比丘嘛",
-    "context": "講者旅行的核心目標，印加帝國著名的遺蹟"
+    "quote": "彩虹山你知道嗎",
+    "context": "冰雪融化露出彩色地層的高海拔新景點，食物中毒處"
+  },
+  {
+    "name": "馬努雨林",
+    "name_en": "Manu Rainforest",
+    "lat": -12.25,
+    "lon": -71.75,
+    "country": "秘魯",
+    "region": "美洲",
+    "quote": "Cuzco附近有個叫馬努的雨林這樣子",
+    "context": "出院隔天前往，漂漂河與遇蛇，最喜歡的景點"
+  },
+  {
+    "name": "帕拉卡斯",
+    "name_en": "Paracas",
+    "lat": -13.833,
+    "lon": -76.25,
+    "country": "秘魯",
+    "region": "美洲",
+    "quote": "像Paracas這個地方它就是海邊",
+    "context": "海濱可看海島與海獅"
+  },
+  {
+    "name": "華卡奇納綠洲",
+    "name_en": "Huacachina",
+    "lat": -14.088,
+    "lon": -75.763,
+    "country": "秘魯",
+    "region": "美洲",
+    "quote": "華納奇卡它是一個綠洲",
+    "context": "沙漠中的綠洲，首次見到"
+  },
+  {
+    "name": "瓦哈卡",
+    "name_en": "Oaxaca",
+    "lat": 17.073,
+    "lon": -96.727,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "第一站在墨西哥是要去瓦哈卡的過王林節",
+    "context": "在當地家庭度過亡靈節，遊行與墓園守夜",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Oaxaqa_%2841%29.jpg/330px-Oaxaqa_%2841%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "墨西哥城",
+    "name_en": "Mexico City",
+    "lat": 19.433,
+    "lon": -99.133,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "在墨西哥城吃第一個",
+    "context": "借住朋友家、吃塔可、逛金字塔",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Sobrevuelos_CDMX_HJ2A4913_%2825514321687%29_%28cropped%29.jpg/330px-Sobrevuelos_CDMX_HJ2A4913_%2825514321687%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "特奧蒂瓦坎金字塔",
+    "name_en": "Teotihuacan",
+    "lat": 19.693,
+    "lon": -98.844,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "我們一起去逛金字塔",
+    "context": "朋友陪同參觀並預先查好資料講解"
+  },
+  {
+    "name": "托連塔戈溫泉",
+    "name_en": "Tolantongo Hot Springs",
+    "lat": 20.65,
+    "lon": -99.0,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "一個叫Tolentango這個是一個溫泉區",
+    "context": "偏遠山區戶外溫泉，朋友擔心送電擊棒"
+  },
+  {
+    "name": "瓜納華托",
+    "name_en": "Guanajuato",
+    "lat": 21.019,
+    "lon": -101.257,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "狂藍化都它是一個三層所以它是有一點斜坡的",
+    "context": "彩色房屋、藝術大學、街頭音樂，類似Coco場景",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_of_Guanajuato.svg/330px-Flag_of_Guanajuato.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "瓜納華托木乃伊博物館",
+    "name_en": "Museo de las Momias",
+    "lat": 21.021,
+    "lon": -101.262,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "當地有一個木乃伊的博物館",
+    "context": "自然風乾木乃伊展覽，引發對死亡的思考"
+  },
+  {
+    "name": "弗里達·卡蘿博物館",
+    "name_en": "Frida Kahlo Museum (Casa Azul)",
+    "lat": 19.355,
+    "lon": -99.162,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "你在參觀他的遺居或是看他的畫作的時候",
+    "context": "畫家故居，以生命熱情作為旅程收尾"
   }
 ]
