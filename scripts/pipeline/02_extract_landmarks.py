@@ -40,6 +40,8 @@ _NO_TOOLS = ['google_web_search', 'web_fetch', 'run_shell_command', 'read_file',
              'list_directory', 'glob', 'search_file_content', 'write_file', 'replace', 'save_memory']
 (_settings_dir / 'settings.json').write_text(json.dumps({'tools': {'exclude': _NO_TOOLS}, 'excludeTools': _NO_TOOLS}))
 GEMINI_MODEL    = 'gemini-2.5-flash'
+CLAUDE_MODEL    = 'sonnet'
+ENGINE          = 'gemini'
 
 REGIONS = ['亞洲', '歐洲', '美洲', '非洲', '大洋洲', '極地', '台灣']
 
@@ -115,24 +117,45 @@ def extract_landmarks(ep_num, prompt_template=GEMINI_PROMPT_TEMPLATE, min_releva
     prompt = prompt_template.format(ep_num=ep_num, transcript=text)
 
     # Clear NODE_OPTIONS to prevent Claude Code's temp file from breaking Gemini CLI
-    clean_env = {k: v for k, v in os.environ.items() if k != 'NODE_OPTIONS'}
+    clean_env = {k: v for k, v in os.environ.items() if k not in ('NODE_OPTIONS', 'CLAUDECODE')}
+    if ENGINE == 'claude':
+        # 無頭 Claude Code（訂閱額度）：關閉工具與 MCP，prompt 走 stdin，空目錄避免載入專案脈絡
+        cmd = ['claude', '-p', '--model', CLAUDE_MODEL, '--tools', '', '--strict-mcp-config',
+               '--no-session-persistence', '--output-format', 'json']
+        stdin = prompt
+    else:
+        cmd = ['gemini', '-m', GEMINI_MODEL, '--sandbox=false', '-p', prompt]
+        stdin = '\n'
     try:
-        result = subprocess.run(
-            ['gemini', '-m', GEMINI_MODEL, '--sandbox=false', '-p', prompt],
-            capture_output=True, text=True, timeout=300,
-            env=clean_env, input='\n', cwd=GEMINI_CWD,
-        )
-        if result.returncode != 0:
-            err = result.stderr
-            print(f"  Gemini error: {err[:200]}")
-            if re.search(r'429|quota|RESOURCE_EXHAUSTED|rate limit', err, re.I):
-                raise QuotaExceeded(err[:200])
-            return False
+        result = subprocess.run(cmd, capture_output=True, text=True, timeout=600,
+                                env=clean_env, input=stdin, cwd=GEMINI_CWD)
     except subprocess.TimeoutExpired:
         print(f"  Timeout for Ep.{ep_num}")
         return False
 
     raw = result.stdout.strip()
+    if ENGINE == 'claude':
+        try:
+            meta = json.loads(raw)
+        except json.JSONDecodeError:
+            meta = {'is_error': True, 'result': raw or result.stderr}
+        err = str(meta.get('result', ''))
+        if result.returncode != 0 or meta.get('is_error'):
+            print(f"  Claude error: {err[:200]}")
+            if re.search(r'usage limit|limit reached|rate limit|429', err, re.I):
+                raise QuotaExceeded(err[:200])
+            return False
+        u = meta.get('usage', {})
+        tokens = sum(u.get(k, 0) for k in ('input_tokens', 'cache_creation_input_tokens',
+                                           'cache_read_input_tokens', 'output_tokens'))
+        print(f"  Ep.{ep_num}: Claude 用量 {tokens:,} tokens（{meta.get('duration_ms', 0)/1000:.0f}s）")
+        raw = err.strip()
+    elif result.returncode != 0:
+        err = result.stderr
+        print(f"  Gemini error: {err[:200]}")
+        if re.search(r'429|quota|RESOURCE_EXHAUSTED|rate limit', err, re.I):
+            raise QuotaExceeded(err[:200])
+        return False
 
     # Strip interactive prompts that leak to stdout in non-TTY mode (e.g. "[Y/n]")
     raw = re.sub(r'\[Y/n\]', '', raw)
@@ -159,9 +182,9 @@ def extract_landmarks(ep_num, prompt_template=GEMINI_PROMPT_TEMPLATE, min_releva
 
     # 長逐字稿卻回傳空陣列，多半是模型偶發失誤：視為失敗以便重跑，並留存原始輸出供排查
     if not landmarks and len(text) > 5000:
-        debug_path = ROOT / 'logs' / f"empty_ep{ep_num:03d}_{GEMINI_MODEL}.txt"
+        debug_path = ROOT / 'logs' / f"empty_ep{ep_num:03d}_{ENGINE}.txt"
         debug_path.parent.mkdir(exist_ok=True)
-        debug_path.write_text(result.stdout, encoding='utf-8')
+        debug_path.write_text(raw, encoding='utf-8')
         print(f"  Ep.{ep_num}: 長逐字稿卻回傳 0 個地標，視為失敗（原始輸出：{debug_path.name}）")
         return False
 
@@ -203,7 +226,7 @@ def extract_landmarks(ep_num, prompt_template=GEMINI_PROMPT_TEMPLATE, min_releva
     return True
 
 def main():
-    global GEMINI_MODEL
+    global GEMINI_MODEL, ENGINE
     parser = argparse.ArgumentParser()
     parser.add_argument('--ep',            type=int,   help='Single episode number')
     parser.add_argument('--start',         type=int,   default=1,   help='Start from episode number')
@@ -211,6 +234,7 @@ def main():
     parser.add_argument('--prompt-file',   type=str,   help='Path to a custom Gemini prompt template')
     parser.add_argument('--min-relevance', type=int,   default=2,   help='Filter out landmarks below this relevance (1–3, default 2)')
     parser.add_argument('--force',         action='store_true',     help='Reprocess even if output already exists')
+    parser.add_argument('--engine',        choices=['gemini', 'claude'], default='gemini', help='gemini（免費額度）或 claude（訂閱額度，無頭 claude -p）')
     parser.add_argument('--model',         type=str,   default=GEMINI_MODEL, help='Gemini model')
     parser.add_argument('--workers',       type=int,   default=1,   help='Parallel Gemini calls')
     parser.add_argument('--done-file',     type=str,                help='With --force: skip episodes listed in this file; append each success (resume)')
@@ -229,6 +253,7 @@ def main():
 
     prompt_template = custom_prompt if custom_prompt else GEMINI_PROMPT_TEMPLATE
     GEMINI_MODEL = args.model
+    ENGINE = args.engine
 
     available = get_available_eps()
     if not available:

@@ -97,6 +97,15 @@ def transcribe(ep_num, audio_url):
             print(f"  No transcript found for Ep.{ep_num}")
             return False
 
+    # 品質檢查：Whisper 幻覺會整份重複同一句（「中文字幕」「!」等），重複率過高視為失敗
+    lines = [l.strip() for l in txt_out.read_text(encoding='utf-8').splitlines() if l.strip()]
+    if len(lines) < 200 or len(set(lines)) / len(lines) < 0.6:
+        bad = txt_out.with_suffix('.bad.txt')
+        txt_out.rename(bad)
+        print(f"  ✗ Ep.{ep_num} 逐字稿疑似幻覺（{len(lines)} 行，不重複 {len(set(lines))}）→ {bad.name}")
+        audio_path.unlink(missing_ok=True)
+        return False
+
     # Delete audio to save space
     audio_path.unlink(missing_ok=True)
     print(f"  ✓ Ep.{ep_num} done → {txt_out.name}")
