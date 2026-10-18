@@ -72,6 +72,8 @@ def transcribe(ep_num, audio_url):
             'mlx_whisper', str(audio_path),
             '--model', WHISPER_MODEL,
             '--language', 'zh',
+            # 避免解碼陷入重複迴圈卡死（Ep.253 曾卡 2 小時以上）
+            '--condition-on-previous-text', 'False',
             '--output-format', 'txt',
             '--output-dir', str(AUDIO_TMP),
         ], capture_output=True, text=True, timeout=7200)
