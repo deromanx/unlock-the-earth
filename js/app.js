@@ -1,13 +1,13 @@
 'use strict';
 
+// CARTO basemaps 2026 起需 API key（未帶 key 回傳 "API KEY REQUIRED" 佔位圖），改用免 key 的 Esri Canvas 灰階底圖
+const ESRI = 'https://server.arcgisonline.com/ArcGIS/rest/services/Canvas';
 const TILES = {
-  dark:  'https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png',
-  light: 'https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png',
+  dark:  `${ESRI}/World_Dark_Gray_Base/MapServer/tile/{z}/{y}/{x}`,
+  light: `${ESRI}/World_Light_Gray_Base/MapServer/tile/{z}/{y}/{x}`,
 };
-const TILE_ATTR = {
-  dark:  '© <a href="https://carto.com">CARTO</a> · © <a href="https://www.openstreetmap.org/copyright">OSM</a>',
-  light: '© <a href="https://carto.com">CARTO</a> · © <a href="https://www.openstreetmap.org/copyright">OSM</a>',
-};
+const TILE_ATTR_HTML = 'Tiles © <a href="https://www.esri.com">Esri</a> — Esri, HERE, Garmin, © <a href="https://www.openstreetmap.org/copyright">OSM</a>';
+const TILE_ATTR = { dark: TILE_ATTR_HTML, light: TILE_ATTR_HTML };
 let tileLayer = null;
 let currentTheme = localStorage.getItem('theme') || 'light';
 
@@ -50,7 +50,7 @@ async function init() {
 
   let episodes, landmarks, locations;
   try {
-    const _v = '?v=21';
+    const _v = '?v=22';
     [episodes, landmarks, locations] = await Promise.all([
       fetch(`data/episodes.json${_v}`).then(r => r.json()),
       fetch(`data/landmarks_global.json${_v}`).then(r => r.json()).catch(() => []),
@@ -118,11 +118,11 @@ function initMap() {
   if (currentTheme === 'light') document.body.classList.add('light');
   updateThemeIcons();
 
-  tileLayer = L.tileLayer(TILES[currentTheme], { maxZoom: 18 }).addTo(map);
+  tileLayer = L.tileLayer(TILES[currentTheme], { maxZoom: 18, maxNativeZoom: 16 }).addTo(map);
 
   L.control.zoom({ position: 'bottomright' }).addTo(map);
   L.control.attribution({ position: 'bottomleft', prefix: false })
-    .addAttribution('© <a href="https://carto.com">CARTO</a> · © <a href="https://www.openstreetmap.org/copyright">OSM</a>')
+    .addAttribution(TILE_ATTR_HTML)
     .addTo(map);
 
   clusterGroup = L.markerClusterGroup({
@@ -814,7 +814,7 @@ function toggleTheme() {
   updateThemeIcons();
   if (tileLayer) {
     map.removeLayer(tileLayer);
-    tileLayer = L.tileLayer(TILES[currentTheme], { maxZoom: 18 }).addTo(map);
+    tileLayer = L.tileLayer(TILES[currentTheme], { maxZoom: 18, maxNativeZoom: 16 }).addTo(map);
     tileLayer.bringToBack();
   }
 }
