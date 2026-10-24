@@ -161,7 +161,7 @@ function initGlobe() {
 
     .hexPolygonsData(countryFeatures)
     .hexPolygonResolution(f => (IS_SMALL && f.hexRes === 3) ? 2 : f.hexRes)
-    .hexPolygonMargin(0.55)
+    .hexPolygonMargin(0.7)
     .hexPolygonCurvatureResolution(3)
     .hexPolygonUseDots(true)
     .hexPolygonAltitude(hexAltitude)
@@ -427,7 +427,7 @@ function refreshHex() {
 }
 
 // 地標分成幾組粒子：高亮／淡化 × 多集／單集；每組一個顏色、一個大小（螢幕像素，不隨縮放變）
-const DOT_PX = { one: 3.2, many: 4.6 };
+const DOT_PX = { one: 2.2, many: 3.2 };
 function setPoints(list) {
   if (!globe) return;
   const t = THEMES[theme];
