@@ -41,30 +41,30 @@ const ICONS = {
 const THEMES = {
   dark: {
     globe: '#0b1830', night: 'rgba(0,3,12,0.55)', lights: 0.95, atmosphere: '#6fb4ff',
-    hexBase: 'rgba(150,162,180,0.40)', dim: 0.16,
+    landOff: 'rgba(120,135,160,0.20)', dim: 0.16,
     // OKLCH 線性內插：亮度 0.42→0.84、彩度 0.035→0.17 同步遞增，越多集越「濃」
     ramp: ['#574b37', '#80663b', '#ab813a', '#da9c34', '#ffb823'],
     pin: '#7FD8F5',
-    hexVisitedOff: 'rgba(150,162,180,0.30)',
-    cap: 'rgba(90,105,130,0.22)', capHover: 'rgba(160,175,200,0.40)', stroke: 'rgba(170,185,210,0.38)',
+    visitedOn: 'rgba(244,199,55,0.92)', visitedOff: 'rgba(120,135,160,0.16)',
+    hover: 0.28, stroke: 'rgba(6,11,24,0.85)',
   },
   light: {
     globe: '#f4e8cc', night: 'rgba(40,40,80,0.20)', lights: 0.55, atmosphere: '#e6a82a',
-    hexBase: 'rgba(70,55,35,0.36)', dim: 0.22,
+    landOff: 'rgba(70,55,35,0.13)', dim: 0.22,
     // 淺色底：亮度 0.86→0.50 遞減、彩度 0.04→0.14 遞增
     ramp: ['#ddd0b4', '#cab085', '#b99056', '#a86f21', '#974d00'],
     pin: '#0E6F82',
-    hexVisitedOff: 'rgba(70,55,35,0.28)',
-    cap: 'rgba(120,95,55,0.16)', capHover: 'rgba(120,95,55,0.30)', stroke: 'rgba(70,55,35,0.38)',
+    visitedOn: 'rgba(214,150,20,0.92)', visitedOff: 'rgba(70,55,35,0.11)',
+    hover: -0.18, stroke: 'rgba(251,243,223,0.95)',
   },
   // 復古探險地圖：羊皮紙地球、經緯線、深褐墨水色階、朱紅地標，沒有日夜和城市燈火
   vintage: {
     globe: '#e9d8b0', night: 'rgba(0,0,0,0)', lights: 0, atmosphere: '#c9a46b', paper: true,
-    hexBase: 'rgba(92,60,28,0.30)', dim: 0.2,
+    landOff: 'rgba(92,60,28,0.12)', dim: 0.2,
     ramp: ['#d6bf90', '#c09a5f', '#a26f37', '#82451c', '#5c210b'],
     pin: '#a3301f',
-    hexVisitedOff: 'rgba(92,60,28,0.24)',
-    cap: 'rgba(120,85,40,0.10)', capHover: 'rgba(120,85,40,0.24)', stroke: 'rgba(92,60,28,0.55)',
+    visitedOn: 'rgba(163,48,31,0.75)', visitedOff: 'rgba(92,60,28,0.10)',
+    hover: -0.16, stroke: 'rgba(70,42,18,0.6)',
   },
 };
 const THEME_ORDER = ['dark', 'light', 'vintage'];
@@ -135,7 +135,7 @@ async function init() {
   ix.maxCountryEps = Math.max(1, ...[...ix.countries.values()].filter(c => c.key !== HOME_COUNTRY).map(c => c.eps.size));
 
   // data/countries.json：world-atlas 110m＋50m/10m 補的小國，已清掉退化多邊形並驗證 h3 不會丟錯
-  // （globe.gl 遇到一國丟錯，之後所有國家都不畫點陣）。hexRes 是預先算好鋪得出點的解析度
+  // （globe.gl 遇到一國丟錯，之後所有國家都不畫點陣）。hexRes 是當年點陣用的解析度，影片腳本仍會用到
   countryFeatures = geo.features;
   for (const f of countryFeatures) f.hexRes = f.properties.hexRes || 3;
   for (const f of countryFeatures) {
@@ -181,18 +181,9 @@ function initGlobe() {
     .width(innerWidth)
     .height(innerHeight)
 
-    .hexPolygonsData(countryFeatures)
-    .hexPolygonResolution(f => (IS_SMALL && f.hexRes === 3) ? 2 : f.hexRes)
-    .hexPolygonMargin(0.7)
-    .hexPolygonCurvatureResolution(3)
-    .hexPolygonUseDots(true)
-    .hexPolygonAltitude(hexAltitude)
-    .hexPolygonColor(hexColor)
-    // 點陣只負責畫：滑鼠偵測交給下面的國界填色層（點陣有幾萬個三角形，每次移動滑鼠都要算，很卡）
-
-    // 底層國界＋淡色填色：節目沒去過的國家也看得出輪廓
+    // 國家直接依「去過幾集」整片填色＋細國界（2026-10 起取代點陣：點陣看不出差別又雜，也最吃效能）
     .polygonsData(countryFeatures)
-    .polygonAltitude(0.002)
+    .polygonAltitude(0.004)
     .polygonCapColor(capColor)
     .polygonSideColor(() => 'rgba(0,0,0,0)')
     .polygonStrokeColor(() => THEMES[theme].stroke)
@@ -239,8 +230,6 @@ function initGlobe() {
     .onZoom(onZoom)
     .onGlobeReady(() => {
       document.body.classList.remove('globe-pending');
-      muteHexRaycast();
-      setInterval(muteHexRaycast, 3000);   // 降級時點陣會重建
       setTimeout(watchPerformance, 1500);
     });
 
@@ -263,16 +252,6 @@ function initGlobe() {
 
   addEventListener('resize', () => { globe.width(innerWidth).height(innerHeight); applyPixelRatio(); drawStars(); });
   drawStars();
-}
-
-// 國家點陣不參與滑鼠偵測：globe.gl 每次移動滑鼠都會對場景所有物件做射線檢測，
-// 點陣有幾萬個三角形，是電腦上拖曳、滑過時卡頓的主因。國家的 hover／點擊由底下的國界填色層負責
-const noRaycast = () => {};
-function muteHexRaycast() {
-  globe.scene().traverse(o => {
-    if (o.__globeObjType !== 'hexPolygon' || o.raycast === noRaycast) return;
-    o.traverse(c => { c.raycast = noRaycast; });
-  });
 }
 
 // Retina 螢幕用高解析度線條才不會糊，但總像素數要設上限：大螢幕全幅 2 倍等於畫 4 倍像素，電腦會卡
@@ -415,18 +394,15 @@ function subsolarPoint(date) {
   return { lat: decl, lng };
 }
 
-function hexColor(f) {
+// 國家填色：去過的依集數走色階，沒去過的淡淡一層看得出陸地；聚焦某國時其他國家變淡
+function countryColor(f) {
   const t = THEMES[theme];
-  if (visitedOn) {
-    return f.a2 && visited.has(f.a2) ? 'rgba(244,199,55,0.95)' : t.hexVisitedOff;
-  }
+  if (visitedOn) return f.a2 && visited.has(f.a2) ? t.visitedOn : t.visitedOff;
   const h = heat(f);
-  if (h < 0) return focus.countryKey ? fade(t.hexBase, 0.7) : t.hexBase;
-
+  if (h < 0) return focus.countryKey ? fade(t.landOff, 0.6) : t.landOff;
   const [r, g, b] = rampColor(t.ramp, h);
-  let a = 0.95;
-  if (focus.countryKey) a = f.country.key === focus.countryKey ? 1 : a * 0.35;
-  return `rgba(${r},${g},${b},${a.toFixed(2)})`;
+  const a = focus.countryKey && f.country.key !== focus.countryKey ? 0.3 : 0.92;
+  return `rgba(${r},${g},${b},${a})`;
 }
 
 // 國家熱度：依「去過幾集」開根號，1 集 = 0、海外最多集的國家 = 1；沒去過回傳 -1
@@ -443,10 +419,6 @@ function heat(f) {
   return ix.maxCountryEps > 1 ? Math.min(1, Math.sqrt((n - 1) / (ix.maxCountryEps - 1))) : 1;
 }
 
-function hexAltitude(f) {
-  return visitedOn ? 0.004 : 0.004 + 0.014 * Math.max(0, heat(f));
-}
-
 function rampColor(stops, h) {
   const x = Math.max(0, Math.min(1, h)) * (stops.length - 1);
   const i = Math.min(stops.length - 2, Math.floor(x));
@@ -459,20 +431,20 @@ function fade(rgba, mul) {
   return rgba.replace(/[\d.]+\)$/, a => `${Math.min(1, parseFloat(a) * mul).toFixed(3)})`);
 }
 
-// 底色也帶熱度色，小國點陣很細時仍看得出有沒有去過
+// 滑過的國家：深色主題調亮、淺色主題調深
 function capColor(f) {
+  const c = countryColor(f);
+  if (f !== hoverFeature) return c;
   const t = THEMES[theme];
-  if (f === hoverFeature) return t.capHover;
-  if (visitedOn) return f.a2 && visited.has(f.a2) ? 'rgba(244,199,55,0.28)' : t.cap;
-  if (heat(f) < 0) return t.cap;
-  return fade(hexColor(f), 0.3);
+  const [r, g, b, a] = c.match(/[\d.]+/g).map(Number);
+  const target = t.hover > 0 ? 255 : 0, k = Math.abs(t.hover);
+  const m = v => Math.round(v + (target - v) * k);
+  return `rgba(${m(r)},${m(g)},${m(b)},${Math.min(1, a + 0.25)})`;
 }
 
 function refreshHex() {
   if (!globe) return;
-  globe.hexPolygonColor(hexColor)
-    .hexPolygonAltitude(hexAltitude)
-    .polygonCapColor(capColor)
+  globe.polygonCapColor(capColor)
     .polygonStrokeColor(() => THEMES[theme].stroke);
 }
 
@@ -1806,7 +1778,6 @@ function degrade(level) {
   document.documentElement.dataset.lite = level;
   globe.renderer().setPixelRatio(1);
   globe.showAtmosphere(false).arcDashAnimateTime(0);
-  if (level >= 2) globe.hexPolygonResolution(f => Math.max(2, f.hexRes - 1));
   console.info(`[perf] 降級到等級 ${level}`);
 }
 
