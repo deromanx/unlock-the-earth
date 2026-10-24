@@ -147,7 +147,7 @@ async function init() {
     f.zh = zh;
     f.country = (a2 && ix.countryByA2.get(a2)) || ix.countries.get(zh) || null;
   }
-  buildGlowSamples();
+  buildDotSamples();
 
   renderFilters();
   renderEpList();
@@ -185,8 +185,8 @@ function initGlobe() {
     .width(innerWidth)
     .height(innerHeight)
 
-    // 國家用夜景燈光呈現（visuals.js 的 glowSets，和地標一起放在粒子層）；
-    // 這層只畫暗暗的陸地與國界，也負責國家的滑鼠偵測
+    // 國家用細密小點呈現（visuals.js 的 dotSets／drawCountryDots）；
+    // 這層只畫淡淡的陸地與國界，也負責國家的滑鼠偵測
     .polygonsData(countryFeatures)
     .polygonAltitude(0.003)
     .polygonCapColor(capColor)
@@ -434,7 +434,7 @@ function capColor(f) {
   return t.cap;
 }
 
-// 國家呈現更新：底層填色＋夜景光點（光點和地標同在粒子層，一起重組）
+// 國家呈現更新：底層填色＋細密小點（visuals.js），跟地標一起重畫
 function refreshHex() {
   if (!globe) return;
   globe.polygonCapColor(capColor)
@@ -463,7 +463,7 @@ function setPoints(list) {
   const sets = [...groups.values()].sort((a, b) => a.lit - b.lit);
   for (const set of sets) set.tex = dotTexture(set.color);
   globe.particlesData(sets).particlesTexture(sets.every(x => x.tex) ? set => set.tex : null);
-  drawGlow(glowSets(list));
+  drawCountryDots(dotSets());
   if (!sets.every(x => x.tex) && !dotTexWait) {
     dotTexWait = setInterval(() => { if (dotTexCtor()) { clearInterval(dotTexWait); refreshPoints(); } }, 300);
   }

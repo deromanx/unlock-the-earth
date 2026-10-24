@@ -336,18 +336,15 @@ function hslHex(h, s, l) {
   return `#${f(0)}${f(8)}${f(4)}`;
 }
 
-// ── 夜景燈光：國家呈現 ────────────────────────────────
-// 去過的國家像城市夜景一樣發光；台灣用主場綠；沒去過的只留暗暗的輪廓。兩層光：
-//   底光：國界內均勻撒的淡光點（約每 1° 一點、依緯度修正成等面積），集數越多越密越亮
-//   城市光：節目去過的每個地標一團亮光，光聚在節目真的去過的地方，像城市燈火
-// 都用粒子層畫：每個亮度等級一組、一次繪製。粒子層的經度欄位是 lon（跟地標資料一樣），不是 lng
-let glowSamples = null;
-const glowFeatureByKey = new Map();
-function buildGlowSamples() {
-  glowSamples = new Map();
-  let seed = 9;
-  const rnd = () => (seed = (seed * 16807) % 2147483647) / 2147483647;
-  const STEP = IS_SMALL ? 1.4 : 1.0;
+// ── 細密小點：國家呈現 ────────────────────────────────
+// 每個國家鋪滿一格一格的細小圓點（蜂巢排列、依緯度修正成等面積），點的顏色依去過幾集走色階，台灣主場綠，
+// 沒去過的是淡灰小點。點的大小跟著地球縮放（拉近點跟著變大，像印在地表上）。
+// 自己建一層 THREE.Points（建構子借地標粒子物件的），全部點分成幾十組、每組一次繪製。
+// globe.gl 的 hexPolygon 點陣每個點都是一片幾何，細密到十萬點會卡；粒子一點只是一個頂點
+let dotSamples = null;
+const dotFeatureByKey = new Map();
+function buildDotSamples() {
+  dotSamples = new Map();
   const inRing = (lng, lat, ring) => {
     let inside = false;
     for (let i = 0, j = ring.length - 1; i < ring.length; j = i++) {
@@ -357,166 +354,117 @@ function buildGlowSamples() {
     return inside;
   };
   for (const f of countryFeatures) {
-    if (f.country) glowFeatureByKey.set(f.country.key, f);
+    if (f.country) dotFeatureByKey.set(f.country.key, f);
     const polys = f.geometry.type === 'Polygon' ? [f.geometry.coordinates] : f.geometry.coordinates;
+    let x0 = 180, x1 = -180, y0 = 90, y1 = -90;
+    for (const poly of polys) for (const [x, y] of poly[0]) { x0 = Math.min(x0, x); x1 = Math.max(x1, x); y0 = Math.min(y0, y); y1 = Math.max(y1, y); }
+    // 小國點距減半再減半，至少鋪得出幾十點（點距只取幾個固定值，同色同距的國家才能併成一組畫）
+    let step = IS_SMALL ? 0.5 : 0.36;   // 大國的點距（度）
+    while (step > 0.03 && Math.sqrt((x1 - x0) * (y1 - y0)) / step < 7) step /= 2;
     const pts = [];
     for (const poly of polys) {
       const outer = poly[0];
-      let x0 = 180, x1 = -180, y0 = 90, y1 = -90;
-      for (const [x, y] of outer) { x0 = Math.min(x0, x); x1 = Math.max(x1, x); y0 = Math.min(y0, y); y1 = Math.max(y1, y); }
       const before = pts.length;
-      // 小國（台灣、荷蘭）格子要細，至少撒得到十幾點；大國維持 1°
-      const step = Math.max(0.12, Math.min(STEP, Math.sqrt((x1 - x0) * (y1 - y0)) / 4));
-      for (let lat = Math.ceil(y0 / step) * step; lat <= y1; lat += step) {
-        const dLng = step / Math.max(0.25, Math.cos(lat * Math.PI / 180));   // 高緯度經線收攏，間距放寬維持等面積
-        for (let lng = Math.ceil(x0 / dLng) * dLng; lng <= x1; lng += dLng) {
-          const la = lat + (rnd() - 0.5) * step * 0.9, lo = lng + (rnd() - 0.5) * dLng * 0.9;
-          if (inRing(lo, la, outer) && !poly.slice(1).some(h => inRing(lo, la, h))) pts.push({ lat: la, lon: lo, k: rnd() });
+      let row = 0;
+      for (let lat = Math.floor(y0 / step) * step; lat <= y1; lat += step * 0.866, row++) {
+        const dLng = step / Math.max(0.2, Math.cos(lat * Math.PI / 180));   // 高緯度經線收攏，間距放寬維持等面積
+        for (let lng = Math.floor(x0 / dLng) * dLng + (row % 2) * dLng / 2; lng <= x1; lng += dLng) {
+          if (inRing(lng, lat, outer) && !poly.slice(1).some(h => inRing(lng, lat, h))) pts.push({ lat, lon: lng });
         }
       }
-      // 小國（新加坡、馬爾地夫）格點落不進去：至少放一點在輪廓中心
-      if (pts.length === before && outer.length) {
+      // 太小的島國（馬爾地夫）格點落不進去：放一點在輪廓中心
+      if (pts.length === before && outer.length > 2 && polys.length < 4) {
         const c = outer.reduce((s, [x, y]) => [s[0] + x / outer.length, s[1] + y / outer.length], [0, 0]);
-        pts.push({ lat: c[1], lon: c[0], k: 0 });
+        pts.push({ lat: c[1], lon: c[0] });
       }
     }
-    glowSamples.set(f, pts);
+    dotSamples.set(f, { pts, step });
   }
 }
 
-// 同一個亮度等級沿用同一個物件：globe.gl 依物件辨認資料，沿用就只更新位置、不重建 3D 物件
-const glowSetCache = new Map();
-function glowBucket(buckets, key, make) {
-  if (!buckets.has(key)) {
-    let set = glowSetCache.get(key);
-    if (!set) { set = make(); glowSetCache.set(key, set); }
-    set.items = [];
-    buckets.set(key, set);
-  }
-  return buckets.get(key);
-}
+const solidHex = (rgba, bg, boost = 1) => {   // rgba 疊在地球底色上的實色
+  const [r, g, b, a = 1] = rgba.match(/[\d.]+/g).map(Number);
+  return mixHex(bg, '#' + [r, g, b].map(v => Math.round(v).toString(16).padStart(2, '0')).join(''), Math.min(1, a * boost));
+};
 
-function glowSets(visibleLms = []) {
-  if (!glowSamples || !dotTexCtor()) return [];   // 貼圖建構子還沒好：先不畫，好了 setPoints 會重畫
+function dotSets() {
+  if (!dotSamples || !dotTexCtor()) return [];   // 貼圖建構子還沒好：先不畫，好了 setPoints 會重畫
   const t = THEMES[theme];
   const buckets = new Map();
-  const colorOf = f => {
-    const h = heat(f);
-    if (h < 0) return null;
-    return f.country.key === HOME_COUNTRY ? hexToRgb(t.home).split(',').map(Number) : rampColor(t.ramp, 0.4 + 0.6 * h);
-  };
+  const offColor = solidHex(t.landOff, t.globe, 2.6);
   for (const f of countryFeatures) {
-    let level, rgb;
+    const { pts, step } = dotSamples.get(f);
+    if (!pts.length) continue;
+    let color, on;
     if (visitedOn) {
-      if (!(f.a2 && visited.has(f.a2))) continue;
-      level = 1;
-      rgb = t.visitedOn.match(/\d+/g).slice(0, 3).map(Number);
+      on = !!(f.a2 && visited.has(f.a2));
+      color = on ? solidHex(t.visitedOn, t.globe) : offColor;
     } else {
       const h = heat(f);
-      if (h < 0) continue;
-      level = Math.round(h * 5) / 5;
-      rgb = colorOf(f);
+      on = h >= 0;
+      if (!on) color = offColor;
+      else if (f.country.key === HOME_COUNTRY) color = t.home;
+      else color = '#' + rampColor(t.ramp, Math.round(h * 20) / 20).map(v => v.toString(16).padStart(2, '0')).join('');
     }
-    const dim = !!focus.countryKey && f.country?.key !== focus.countryKey;
-    const color = `rgb(${rgb.join(',')})`;
-    const key = `${theme}|${color}|${level}|${dim}`;
-    const set = glowBucket(buckets, key, () => ({
-      key, items: [], alt: 0.005,
-      size: (3.5 + 4 * level) * (IS_SMALL ? 0.8 : 1),
-      tex: glowTexture(color, dim ? 0.16 : 0.45 + 0.4 * level),
-    }));
-    const keep = 0.22 + 0.5 * level;   // 集數越多光點越密
-    for (const p of glowSamples.get(f)) if (p.k < keep) set.items.push(p);
-  }
-
-  // 城市光：每個地標一團亮光，顏色跟所在國家同色；多集提到的更大
-  if (!visitedOn) {
-    for (const lm of visibleLms) {
-      const f = glowFeatureByKey.get(lm.countryKey);
-      const rgb = f && colorOf(f);
-      if (!rgb) continue;
-      const dim = !!focus.countryKey && lm.countryKey !== focus.countryKey;
-      const big = lm.epNums.length > 2;
-      const color = `rgb(${rgb.join(',')})`;
-      const key = `${theme}|${color}|city|${big}|${dim}`;
-      glowBucket(buckets, key, () => ({
-        key, items: [], alt: 0.006,
-        size: (big ? 11 : 7.5) * (IS_SMALL ? 0.8 : 1),
-        tex: glowTexture(color, dim ? 0.2 : 0.95),
-      })).items.push({ lat: lm.lat, lon: lm.lon });
+    if (focus.countryKey && f.country?.key !== focus.countryKey) color = mixHex(color, t.globe, 0.6);
+    const key = `${theme}|${color}|${step}|${on}`;
+    if (!buckets.has(key)) {
+      let set = dotSetCache.get(key);
+      if (!set) {
+        // 點的直徑：去過的約點距 6 成、沒去過的 4 成（世界座標，地球半徑 100）
+        set = { key, alt: 0.0045, world: step * Math.PI / 180 * 100 * (on ? 0.6 : 0.4), tex: dotTexture(color) };
+        dotSetCache.set(key, set);
+      }
+      set.items = [];
+      set.sig = '';
+      buckets.set(key, set);
     }
+    const set = buckets.get(key);
+    set.items.push(...pts);
+    set.sig += f.properties.name + ',';
   }
   return [...buckets.values()];
 }
+const dotSetCache = new Map();
 
-// 發光貼圖：中心亮、往外漸暗。深色主題用疊加混色（重疊處更亮，像真的燈光），淺色主題用一般混色
-const glowTextures = new Map();
-function glowTexture(color, alpha) {
-  const key = `${color}|${alpha.toFixed(2)}|${theme}`;
-  if (glowTextures.has(key)) return glowTextures.get(key);
-  const Tex = dotTexCtor();
-  if (!Tex) return null;
-  const cv = document.createElement('canvas');
-  cv.width = cv.height = 64;
-  const ctx = cv.getContext('2d');
-  const g = ctx.createRadialGradient(32, 32, 0, 32, 32, 32);
-  const rgb = color.slice(4, -1);
-  const soft = theme === 'dark';
-  g.addColorStop(0, `rgba(${rgb},${alpha})`);
-  g.addColorStop(soft ? 0.18 : 0.35, `rgba(${rgb},${alpha * (soft ? 0.75 : 0.85)})`);
-  g.addColorStop(soft ? 0.5 : 0.7, `rgba(${rgb},${alpha * (soft ? 0.22 : 0.35)})`);
-  g.addColorStop(1, `rgba(${rgb},0)`);
-  ctx.fillStyle = g;
-  ctx.fillRect(0, 0, 64, 64);
-  const tex = new Tex(cv);
-  tex.needsUpdate = true;
-    glowTextures.set(key, tex);
-  return tex;
-}
-
-// 光點自己一層，不走 globe.gl 的粒子層：粒子層對有貼圖的點固定設成不透明＋alphaTest 0.5，
-// 柔邊整個被切掉，而且每次更新都會蓋回去。這裡自己建 THREE.Points（建構子借地標粒子物件的），
-// 材質一次設好：柔邊、深色主題疊加混色、不寫深度、最後才畫（renderOrder），光點不攔滑鼠
-const glowObjs = new Map();   // 亮度組 key → THREE.Points
-let glowPending = null, glowRetry = 0;
+const dotObjs = new Map();   // 組 key → THREE.Points
+let dotPending = null, dotRetry = 0;
 const noRaycast = () => {};
-function drawGlow(sets) {
-  glowPending = sets;
+function drawCountryDots(sets) {
+  dotPending = sets;
   if (!globe) return;
   let proto = null;
   globe.scene().traverse(o => { if (!proto && o.__globeObjType === 'particles' && o.geometry?.getAttribute?.('position')) proto = o; });
   if (!proto) {   // 地標粒子還沒建好：稍後再畫
-    if (!glowRetry) glowRetry = setTimeout(() => { glowRetry = 0; drawGlow(glowPending); }, 300);
+    if (!dotRetry) dotRetry = setTimeout(() => { dotRetry = 0; drawCountryDots(dotPending); }, 300);
     return;
   }
   const Points = proto.constructor, Geom = proto.geometry.constructor, Mat = proto.material.constructor;
   const Attr = proto.geometry.getAttribute('position').constructor;
-  const blending = theme === 'dark' ? 2 : 1;   // THREE.AdditiveBlending / NormalBlending
+  // 粒子大小隨距離縮放時，three 的換算等於 90° 視角；依實際視角換回世界座標的直徑（貼圖圓只佔 30/32）
+  const fovK = 1 / Math.tan(((globe.camera()?.fov || 50) / 2) * Math.PI / 180) * 32 / 30;
   const used = new Set();
   for (const set of sets) {
     used.add(set.key);
-    let o = glowObjs.get(set.key);
+    let o = dotObjs.get(set.key);
     if (!o) {
-      o = new Points(new Geom(), new Mat({
-        size: set.size, sizeAttenuation: false, map: set.tex, transparent: true,
-        alphaTest: 0.003, depthWrite: false, blending,
-      }));
-      o.renderOrder = 5;
+      o = new Points(new Geom(), new Mat({ size: set.world * fovK, sizeAttenuation: true, map: set.tex, alphaTest: 0.5 }));
       o.frustumCulled = false;
-      o.raycast = noRaycast;
-      o.__glowLayer = true;
+      o.raycast = noRaycast;   // 點不攔滑鼠：國家的滑過／點擊交給底下的填色層
       proto.parent.add(o);
-      glowObjs.set(set.key, o);
+      dotObjs.set(set.key, o);
     }
+    o.visible = set.items.length > 0;
+    if (o.__sig === set.sig) continue;   // 同一組國家沒變就不重算位置
+    o.__sig = set.sig;
     const xyz = new Float32Array(set.items.length * 3);
     set.items.forEach((p, i) => {
-      const c = p.xyz?.[set.alt] || ((p.xyz ||= {})[set.alt] = globe.getCoords(p.lat, p.lon, set.alt));
+      const c = p.xyz || (p.xyz = globe.getCoords(p.lat, p.lon, set.alt));
       xyz[i * 3] = c.x; xyz[i * 3 + 1] = c.y; xyz[i * 3 + 2] = c.z;
     });
     o.geometry.dispose();
     o.geometry = new Geom();
     o.geometry.setAttribute('position', new Attr(xyz, 3));
-    o.visible = set.items.length > 0;
   }
-  for (const [key, o] of glowObjs) if (!used.has(key)) o.visible = false;
+  for (const [key, o] of dotObjs) if (!used.has(key)) o.visible = false;
 }
