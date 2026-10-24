@@ -20,10 +20,10 @@
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600;700&family=Klee+One:wght@400;600&family=Noto+Sans+TC:wght@400;500;700;900&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600;700&family=LXGW+WenKai+TC:wght@400;700&family=Noto+Sans+TC:wght@400;500;700;900&display=swap" rel="stylesheet">
 
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flag-icons@7.2.3/css/flag-icons.min.css">
-  <link rel="stylesheet" href="css/globe.css?v=8">
+  <link rel="stylesheet" href="css/globe.css?v=9">
   <script>
     // 先套主題，避免載入時閃一下深色
     try { document.documentElement.dataset.theme = localStorage.getItem('ute-theme-v2') || 'dark'; } catch (e) {}
@@ -139,7 +139,6 @@
     <div class="tl-top">
       <div class="tl-date" id="tl-date">—</div>
       <div class="tl-counts"><b id="tl-lms">0</b> 地標 · <b id="tl-cty">0</b> 國</div>
-      <button class="tl-export" id="tl-export" hidden><span data-icon="film"></span>匯出 Reels 影片</button>
       <button class="icon-btn" id="tl-exit" aria-label="結束時間線">✕</button>
     </div>
     <div class="tl-ep" id="tl-ep"></div>
@@ -198,17 +197,6 @@
     </div>
   </div>
 
-  <!-- ── 匯出影片進度 ── -->
-  <div id="reel-modal" class="modal">
-    <div class="modal-card reel-card">
-      <h2>正在製作 Reels 影片</h2>
-      <p class="reel-note">1080 × 1920 · 30fps · 約 33 秒<br>錄製期間請保持這個分頁在前景</p>
-      <div class="progress"><i id="reel-bar"></i></div>
-      <p class="reel-status" id="reel-status">準備中…</p>
-      <div class="modal-actions"><button class="btn btn-ghost" id="reel-cancel">取消</button></div>
-    </div>
-  </div>
-
   <div id="tooltip" role="tooltip"></div>
   <div id="toast"></div>
   <div id="spin-veil"><span>🎲 命運的骰子轉動中…</span></div>
@@ -222,8 +210,7 @@
 
   <script src="https://cdn.jsdelivr.net/npm/globe.gl@2.46.2/dist/globe.gl.min.js"></script>
   <script src="js/globe/data.js?v=2"></script>
-  <script src="js/globe/app.js?v=14"></script>
-  <script src="js/globe/share.js?v=4"></script>
-  <script src="js/globe/reel.js?v=2"></script>
+  <script src="js/globe/app.js?v=15"></script>
+  <script src="js/globe/share.js?v=5"></script>
 </body>
 </html>

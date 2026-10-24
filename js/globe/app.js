@@ -31,7 +31,6 @@ const ICONS = {
   link: svgIcon('<path d="M10 13a5 5 0 0 0 7.5.5l3-3a5 5 0 0 0-7-7l-1.7 1.7"/><path d="M14 11a5 5 0 0 0-7.5-.5l-3 3a5 5 0 0 0 7 7l1.7-1.7"/>'),
   image: svgIcon('<rect x="3" y="3" width="18" height="18" rx="3"/><circle cx="9" cy="9" r="2"/><path d="m21 15-5-5L5 21"/>'),
   share: svgIcon('<path d="M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8"/><path d="m16 6-4-4-4 4"/><path d="M12 2v13"/>'),
-  film: svgIcon('<rect x="3" y="3" width="18" height="18" rx="2"/><path d="M7 3v18M17 3v18M3 7.5h4M17 7.5h4M3 12h18M3 16.5h4M17 16.5h4"/>'),
   download: svgIcon('<path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><path d="m7 10 5 5 5-5"/><path d="M12 15V3"/>'),
 };
 
@@ -70,7 +69,6 @@ let hoverRings = [];
 let idleTimer = null;
 
 const timeline = { on: false, playing: false, ms: 0, min: 0, max: 0, raf: 0, lastEp: null, countryCounts: new Map() };
-const reel = { active: false };   // 匯出影片中（js/globe/reel.js）
 const story = { on: false, ep: null, stops: [], i: 0, playing: true, timer: null };
 let visitedOn = false;
 let visited = new Set(JSON.parse(readStore('ute-visited') || '[]'));
@@ -446,7 +444,7 @@ function stopAutoRotate() {
 }
 
 function onUserInteract() {
-  if (timeline.on && !reel.active) timeline.follow = false;   // 播放中使用者自己轉地球，就不再搶鏡頭
+  if (timeline.on) timeline.follow = false;   // 播放中使用者自己轉地球，就不再搶鏡頭
   stopAutoRotate();
   document.body.classList.remove('intro');
   scheduleIdleRotate();
@@ -1500,9 +1498,6 @@ function bindEvents() {
 
   $('tl-play').addEventListener('click', () => timeline.playing ? stopTimelinePlay() : startTimelinePlay());
   $('tl-exit').addEventListener('click', exitTimeline);
-  if (canExportReel() && !IS_SMALL) $('tl-export').hidden = false;
-  $('tl-export').addEventListener('click', exportReel);
-  $('reel-cancel').addEventListener('click', () => { reel.cancelled = true; });
   $('tl-slider').addEventListener('input', e => { stopTimelinePlay(); setTimeline(Number(e.target.value)); });
 
   $('v-share').addEventListener('click', shareVisited);
@@ -1519,7 +1514,6 @@ function bindEvents() {
 
   addEventListener('keydown', e => {
     if (e.target.matches('input')) { if (e.key === 'Escape') e.target.blur(); return; }
-    if (reel.active) return;
     if (e.key === 'Escape') {
       const modal = document.querySelector('.modal.open');
       if (modal) return closeModal(modal.id);
