@@ -89,10 +89,10 @@ function paintBackground(ctx) {
 async function paintHeader(ctx) {
   const logo = await loadImage('assets/logo-256.png').catch(() => null);
   if (logo) ctx.drawImage(logo, 72, 84, 104, 104);
-  // 品牌字用臺灣道路體外框（assets/titles/brand.svg）；字型檔本身不能放上網站
-  const brand = await loadTitleImage('brand', '#F4C737').catch(() => null);
-  if (brand) ctx.drawImage(brand, 200, 82, 66 * brand.width / brand.height, 66);
+  ctx.fillStyle = '#F4C737';
+  ctx.font = '900 58px "Noto Sans TC", sans-serif';
   ctx.textBaseline = 'alphabetic';
+  ctx.fillText('解鎖地球', 200, 140);
   ctx.fillStyle = 'rgba(238,242,250,0.6)';
   ctx.font = '500 26px "Noto Sans TC", sans-serif';
   ctx.fillText('旅 行 · 歷 史 · 文 化　PODCAST', 202, 182);
@@ -209,13 +209,6 @@ function paintFooter(ctx, cta) {
   ctx.fill();
   centerText(ctx, cta, CARD_H - 160, '700 38px "Noto Sans TC", sans-serif', '#F4C737');
   centerText(ctx, 'deromanx.github.io/unlock-the-earth', CARD_H - 112, '500 26px "Fredoka", sans-serif', 'rgba(238,242,250,0.7)');
-}
-
-// 固定標題的 SVG 外框沒有填色，畫進 canvas 前把顏色塞進去
-async function loadTitleImage(key, color) {
-  const svg = await (await fetch(`assets/titles/${key}.svg`)).text();
-  const url = 'data:image/svg+xml;charset=utf-8,' + encodeURIComponent(svg.replace('<path ', `<path fill="${color}" `));
-  return loadImage(url);
 }
 
 // ── 國旗 ──────────────────────────────────────────────

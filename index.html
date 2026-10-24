@@ -25,7 +25,7 @@
 
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flag-icons@7.2.3/css/flag-icons.min.css">
   <link rel="preload" as="script" href="https://cdn.jsdelivr.net/npm/globe.gl@2.46.2/dist/globe.gl.min.js">
-  <link rel="stylesheet" href="css/globe.css?v=10">
+  <link rel="stylesheet" href="css/globe.css?v=11">
   <script>
     // 先套主題，避免載入時閃一下深色
     try { document.documentElement.dataset.theme = localStorage.getItem('ute-theme-v2') || 'dark'; } catch (e) {}
@@ -42,7 +42,7 @@
     <button class="brand" id="brand" title="回到起點">
       <img src="assets/logo-256.png" alt="" class="brand-logo">
       <span class="brand-text">
-        <span class="brand-title"><span class="ttl" style="--ar:1.98;-webkit-mask-image:url(assets/titles/brand.svg);mask-image:url(assets/titles/brand.svg)" role="img" aria-label="解鎖地球"></span></span>
+        <span class="brand-title">解鎖地球</span>
         <span class="brand-sub">旅行 · 歷史 · 文化</span>
       </span>
     </button>
@@ -98,7 +98,7 @@
   <!-- ── 集數抽屜 ── -->
   <aside id="drawer" class="sheet sheet-left" aria-label="集數列表">
     <div class="sheet-head">
-      <h2 class="sheet-title"><span class="ttl" style="--ar:1.98;-webkit-mask-image:url(assets/titles/episodes.svg);mask-image:url(assets/titles/episodes.svg)" role="img" aria-label="所有集數"></span> <span class="sheet-count" id="ep-count"></span></h2>
+      <h2 class="sheet-title">所有集數 <span class="sheet-count" id="ep-count"></span></h2>
       <button class="icon-btn" data-close="drawer" aria-label="關閉">✕</button>
     </div>
     <div class="search-box">
@@ -177,7 +177,7 @@
   <div id="stats-modal" class="modal">
     <div class="modal-card stats-card">
       <div class="modal-head">
-        <h2><span class="ttl" style="--ar:1.96;-webkit-mask-image:url(assets/titles/stats.svg);mask-image:url(assets/titles/stats.svg)" role="img" aria-label="節目統計"></span></h2>
+        <h2>節目統計</h2>
         <button class="icon-btn" data-close="stats-modal" aria-label="關閉">✕</button>
       </div>
       <div id="stats-body"></div>
@@ -188,7 +188,7 @@
   <div id="share-modal" class="modal">
     <div class="modal-card share-card">
       <div class="modal-head">
-        <h2><span class="ttl" style="--ar:1.96;-webkit-mask-image:url(assets/titles/share.svg);mask-image:url(assets/titles/share.svg)" role="img" aria-label="分享圖卡"></span></h2>
+        <h2>分享圖卡</h2>
         <button class="icon-btn" data-close="share-modal" aria-label="關閉">✕</button>
       </div>
       <div class="share-stage"><img id="share-preview" alt="分享圖卡預覽"></div>
@@ -207,13 +207,13 @@
 
   <div id="loading">
     <img src="assets/logo-256.png" alt="">
-    <p><span class="ttl" style="--ar:2.99;-webkit-mask-image:url(assets/titles/loading.svg);mask-image:url(assets/titles/loading.svg)" role="img" aria-label="正在解鎖地球"></span></p>
+    <p>正在解鎖地球…</p>
   </div>
 
   <noscript><p class="fallback">本網站需要 JavaScript 才能顯示互動地球。</p></noscript>
 
   <script src="js/globe/data.js?v=3"></script>
-  <script src="js/globe/app.js?v=16"></script>
-  <script src="js/globe/share.js?v=5"></script>
+  <script src="js/globe/app.js?v=17"></script>
+  <script src="js/globe/share.js?v=6"></script>
 </body>
 </html>

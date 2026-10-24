@@ -141,6 +141,7 @@ async function init() {
   }
   initGlobe();
   bindEvents();
+  refreshPoints();
   pulseLatest();
   if (document.body.classList.contains('intro')) setIntro(true);
   updateCountryLabels(globe.pointOfView().altitude);
@@ -160,13 +161,12 @@ function initGlobe() {
 
     .hexPolygonsData(countryFeatures)
     .hexPolygonResolution(f => (IS_SMALL && f.hexRes === 3) ? 2 : f.hexRes)
-    .hexPolygonMargin(0.4)
+    .hexPolygonMargin(0.55)
     .hexPolygonCurvatureResolution(3)
     .hexPolygonUseDots(true)
     .hexPolygonAltitude(hexAltitude)
     .hexPolygonColor(hexColor)
-    .onHexPolygonHover(onCountryHover)
-    .onHexPolygonClick(onCountryClick)
+    // 點陣只負責畫：滑鼠偵測交給下面的國界填色層（點陣有幾萬個三角形，每次移動滑鼠都要算，很卡）
 
     // 底層國界＋淡色填色：節目沒去過的國家也看得出輪廓
     .polygonsData(countryFeatures)
@@ -178,16 +178,17 @@ function initGlobe() {
     .onPolygonHover(onCountryHover)
     .onPolygonClick(onCountryClick)
 
-    .pointsData(landmarks)
-    .pointLat('lat')
-    .pointLng('lon')
-    .pointColor(pointColor)
-    .pointAltitude(lm => 0.006 + 0.01 * Math.min(lm.epNums.length, 8))
-    .pointRadius(pointRadiusFor(2.5))
-    .pointResolution(12)
-    .pointsTransitionDuration(400)
-    .onPointHover(onPointHover)
-    .onPointClick(lm => showLandmark(lm))
+    // 地標用粒子層：一組點一次畫完。原本每個地標是一根立體圓柱，1,900 根就是 1,900 次繪製，電腦上會卡
+    .particlesData([])
+    .particlesList(set => set.items)
+    .particleLat('lat')
+    .particleLng('lon')
+    .particleAltitude(set => set.alt)
+    .particlesSize(set => set.size)
+    .particlesSizeAttenuation(false)
+    .particlesColor(set => set.color)
+    .onParticleHover(lm => onPointHover(lm?.items ? null : lm))
+    .onParticleClick(lm => { if (!lm?.items) showLandmark(lm); })
 
     .ringsData([])
     .ringColor(r => t => `rgba(${r.rgb},${1 - t})`)
@@ -216,11 +217,12 @@ function initGlobe() {
     .onZoom(onZoom)
     .onGlobeReady(() => {
       document.body.classList.remove('globe-pending');
+      muteHexRaycast();
+      setInterval(muteHexRaycast, 3000);   // 降級時點陣會重建
       setTimeout(watchPerformance, 1500);
     });
 
-  // Retina 螢幕用原生解析度，線條和點陣才不會糊；上限 2 避免手機過熱
-  globe.renderer().setPixelRatio(Math.min(devicePixelRatio || 1, 2));
+  applyPixelRatio();
   setupLights();
   applyGlobeTheme();
   updateDayNight();
@@ -237,8 +239,26 @@ function initGlobe() {
 
   globe.pointOfView({ lat: HOME.lat - 5, lng: HOME.lng - 20, altitude: IS_SMALL ? 2.8 : 2.4 }, 0);
 
-  addEventListener('resize', () => { globe.width(innerWidth).height(innerHeight); drawStars(); });
+  addEventListener('resize', () => { globe.width(innerWidth).height(innerHeight); applyPixelRatio(); drawStars(); });
   drawStars();
+}
+
+// 國家點陣不參與滑鼠偵測：globe.gl 每次移動滑鼠都會對場景所有物件做射線檢測，
+// 點陣有幾萬個三角形，是電腦上拖曳、滑過時卡頓的主因。國家的 hover／點擊由底下的國界填色層負責
+const noRaycast = () => {};
+function muteHexRaycast() {
+  globe.scene().traverse(o => {
+    if (o.__globeObjType !== 'hexPolygon' || o.raycast === noRaycast) return;
+    o.traverse(c => { c.raycast = noRaycast; });
+  });
+}
+
+// Retina 螢幕用高解析度線條才不會糊，但總像素數要設上限：大螢幕全幅 2 倍等於畫 4 倍像素，電腦會卡
+const MAX_RENDER_PIXELS = 4.2e6;
+function applyPixelRatio() {
+  if (perfLevel > 0) return;
+  const budget = Math.sqrt(MAX_RENDER_PIXELS / (innerWidth * innerHeight));
+  globe.renderer().setPixelRatio(Math.max(1, Math.min(devicePixelRatio || 1, 2, budget)));
 }
 
 // ── 地球外觀 ──────────────────────────────────────────
@@ -406,15 +426,59 @@ function refreshHex() {
     .polygonStrokeColor(() => THEMES[theme].stroke);
 }
 
-function pointColor(lm) {
-  const base = THEMES[theme].pin;
-  if (!focus.lms) return base;
-  return focus.lms.has(lm) ? base : hexToRgba(base, THEMES[theme].dim);
+// 地標分成幾組粒子：高亮／淡化 × 多集／單集；每組一個顏色、一個大小（螢幕像素，不隨縮放變）
+const DOT_PX = { one: 3.2, many: 4.6 };
+function setPoints(list) {
+  if (!globe) return;
+  const t = THEMES[theme];
+  const dimColor = mixHex(t.pin, t.globe, 1 - t.dim * 2.2);
+  const groups = new Map();
+  for (const lm of list) {
+    const lit = !focus.lms || focus.lms.has(lm);
+    const many = lm.epNums.length > 1;
+    const key = `${lit}-${many}`;
+    if (!groups.has(key)) groups.set(key, {
+      items: [], color: lit ? t.pin : dimColor, size: many ? DOT_PX.many : DOT_PX.one,
+      alt: lit ? 0.012 : 0.008, lit,
+    });
+    groups.get(key).items.push(lm);
+  }
+  // 淡化的先畫，高亮的壓在上面
+  const sets = [...groups.values()].sort((a, b) => a.lit - b.lit);
+  for (const set of sets) set.tex = dotTexture(set.color);
+  globe.particlesData(sets).particlesTexture(sets.every(x => x.tex) ? set => set.tex : null);
+  if (!sets.every(x => x.tex) && !dotTexWait) {
+    dotTexWait = setInterval(() => { if (dotTexCtor()) { clearInterval(dotTexWait); refreshPoints(); } }, 300);
+  }
 }
 
 function refreshPoints() {
-  if (!globe) return;
-  globe.pointsData(visiblePoints()).pointColor(pointColor);
+  setPoints(visiblePoints());
+}
+
+// 圓點貼圖：粒子預設是方塊。THREE 沒有對外公開，借地球貼圖的建構子來用（貼圖載好之前先用方塊）
+const dotTextures = new Map();
+let dotTexWait = 0;
+function dotTexCtor() { return globe?.globeMaterial()?.map?.constructor || null; }
+function dotTexture(color) {
+  if (dotTextures.has(color)) return dotTextures.get(color);
+  const Tex = dotTexCtor();
+  if (!Tex) return null;
+  const cv = document.createElement('canvas');
+  cv.width = cv.height = 64;
+  const ctx = cv.getContext('2d');
+  ctx.fillStyle = color;
+  ctx.beginPath(); ctx.arc(32, 32, 30, 0, Math.PI * 2); ctx.fill();
+  const tex = new Tex(cv);
+  tex.needsUpdate = true;
+  dotTextures.set(color, tex);
+  return tex;
+}
+
+function mixHex(a, b, t) {
+  const [r1, g1, b1] = hexToRgb(a).split(',').map(Number), [r2, g2, b2] = hexToRgb(b).split(',').map(Number);
+  const m = (x, y) => Math.round(x + (y - x) * t).toString(16).padStart(2, '0');
+  return `#${m(r1, r2)}${m(g1, g2)}${m(b1, b2)}`;
 }
 
 function visiblePoints() {
@@ -432,17 +496,8 @@ function visiblePoints() {
   });
 }
 
-// 地標粗細跟著鏡頭高度縮放，不然拉近到城市時光點會糊成一片
-let radiusBucket = null;
-function pointRadiusFor(alt) {
-  return Math.min(0.32, Math.max(0.012, alt * 0.11));
-}
 function onZoom({ altitude }) {
   updateCountryLabels(altitude);
-  const bucket = Math.round(Math.log2(altitude) * 3);
-  if (bucket === radiusBucket) return;
-  radiusBucket = bucket;
-  globe.pointRadius(pointRadiusFor(altitude));
 }
 
 function hexToRgba(hex, a) {
@@ -1250,7 +1305,7 @@ function setTimeline(ms) {
   const n = countLE(timeline.sortedMs, ms);
   if (n !== timeline.nVisible) {
     timeline.nVisible = n;
-    globe.pointsData(timeline.sorted.slice(0, n)).pointColor(pointColor);
+    setPoints(timeline.sorted.slice(0, n));
     document.getElementById('tl-lms').textContent = n.toLocaleString();
   }
 
@@ -1682,7 +1737,7 @@ function degrade(level) {
   perfLevel = level;
   document.documentElement.dataset.lite = level;
   globe.renderer().setPixelRatio(1);
-  globe.showAtmosphere(false).pointResolution(6).arcDashAnimateTime(0);
+  globe.showAtmosphere(false).arcDashAnimateTime(0);
   if (level >= 2) globe.hexPolygonResolution(f => Math.max(2, f.hexRes - 1));
   console.info(`[perf] 降級到等級 ${level}`);
 }

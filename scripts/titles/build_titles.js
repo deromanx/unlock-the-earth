@@ -2,7 +2,7 @@
  * 固定標題 → SVG 外框（臺灣道路體）
  *
  * justfont 授權不允許把字型檔放上網站（網頁要用付費 Web Font 服務），但「製成圖片不需額外授權」。
- * 所以會變動的文字（集數標題、地名）用思源黑體，固定的標題用這支腳本轉成向量外框：
+ * 所以只有首頁大標用這支腳本轉成向量外框（其他標題字小，道路體不好讀，用思源黑體）：
  * 輸出 assets/titles/<key>.svg，網頁用 CSS mask 上色（顏色跟著深淺主題走），並印出每個檔的長寬比。
  *
  * 字型檔只在本機（~/Library/Fonts/twroadfont-1.0.otf），不要 commit。
@@ -19,13 +19,8 @@ const OUT = path.resolve(__dirname, '../../assets/titles');
 
 // key → 文字。改文字或新增標題後重跑，再把印出的 --ar 值貼到 index.html
 const TITLES = {
-  'brand': '解鎖地球',
   'hero-1': '用耳朵',
   'hero-2': '走遍世界',
-  'episodes': '所有集數',
-  'stats': '節目統計',
-  'share': '分享圖卡',
-  'loading': '正在解鎖地球',
 };
 
 const font = opentype.loadSync(FONT);
