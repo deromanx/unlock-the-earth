@@ -340,7 +340,7 @@ function hslHex(h, s, l) {
 // 去過的國家像城市夜景一樣發光；台灣用主場綠；沒去過的只留暗暗的輪廓。兩層光：
 //   底光：國界內均勻撒的淡光點（約每 1° 一點、依緯度修正成等面積），集數越多越密越亮
 //   城市光：節目去過的每個地標一團亮光，光聚在節目真的去過的地方，像城市燈火
-// 都用粒子層畫：每個亮度等級一組、一次繪製
+// 都用粒子層畫：每個亮度等級一組、一次繪製。粒子層的經度欄位是 lon（跟地標資料一樣），不是 lng
 let glowSamples = null;
 const glowFeatureByKey = new Map();
 function buildGlowSamples() {
@@ -371,13 +371,13 @@ function buildGlowSamples() {
         const dLng = step / Math.max(0.25, Math.cos(lat * Math.PI / 180));   // 高緯度經線收攏，間距放寬維持等面積
         for (let lng = Math.ceil(x0 / dLng) * dLng; lng <= x1; lng += dLng) {
           const la = lat + (rnd() - 0.5) * step * 0.9, lo = lng + (rnd() - 0.5) * dLng * 0.9;
-          if (inRing(lo, la, outer) && !poly.slice(1).some(h => inRing(lo, la, h))) pts.push({ lat: la, lng: lo, k: rnd() });
+          if (inRing(lo, la, outer) && !poly.slice(1).some(h => inRing(lo, la, h))) pts.push({ lat: la, lon: lo, k: rnd() });
         }
       }
       // 小國（新加坡、馬爾地夫）格點落不進去：至少放一點在輪廓中心
       if (pts.length === before && outer.length) {
         const c = outer.reduce((s, [x, y]) => [s[0] + x / outer.length, s[1] + y / outer.length], [0, 0]);
-        pts.push({ lat: c[1], lng: c[0], k: 0 });
+        pts.push({ lat: c[1], lon: c[0], k: 0 });
       }
     }
     glowSamples.set(f, pts);
@@ -443,7 +443,7 @@ function glowSets(visibleLms = []) {
         glow: true, items: [], alt: 0.006,
         size: (big ? 11 : 7.5) * (IS_SMALL ? 0.8 : 1),
         tex: glowTexture(color, dim ? 0.2 : 0.95),
-      })).items.push({ lat: lm.lat, lng: lm.lon });
+      })).items.push({ lat: lm.lat, lon: lm.lon });
     }
   }
   return [...buckets.values()];
