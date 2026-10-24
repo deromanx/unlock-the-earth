@@ -1,0 +1,13 @@
+{
+  "name": "unlock-earth-reel",
+  "private": true,
+  "description": "把網站時間線動畫渲染成 IG Reels 直式影片（1080x1920 H.264）",
+  "scripts": {
+    "render": "node render_timeline_reel.js"
+  },
+  "dependencies": {
+    "@napi-rs/canvas": "0.1.65",
+    "d3-geo": "3.1.1",
+    "h3-js": "4.1.0"
+  }
+}
