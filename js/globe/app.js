@@ -41,31 +41,31 @@ const ICONS = {
 const THEMES = {
   dark: {
     globe: '#0b1830', night: 'rgba(0,3,12,0.55)', lights: 0.95, atmosphere: '#6fb4ff',
-    landOff: 'rgba(150,162,180,0.40)', dim: 0.16, home: '#4cc38a',
+    landOff: 'rgba(150,162,180,0.20)', dim: 0.16, home: '#4cc38a',
     // OKLCH 線性內插：亮度 0.42→0.84、彩度 0.035→0.17 同步遞增，越多集越「濃」
     ramp: ['#574b37', '#80663b', '#ab813a', '#da9c34', '#ffb823'],
     pin: '#7FD8F5',
-    visitedOn: 'rgba(244,199,55,0.92)', visitedOff: 'rgba(150,162,180,0.30)',
+    visitedOn: 'rgba(244,199,55,0.92)', visitedOff: 'rgba(150,162,180,0.18)',
     stroke: 'rgba(170,185,210,0.20)',
     cap: 'rgba(90,105,130,0.12)', capHover: 'rgba(160,175,200,0.32)',
   },
   light: {
     globe: '#f4e8cc', night: 'rgba(40,40,80,0.20)', lights: 0.55, atmosphere: '#e6a82a',
-    landOff: 'rgba(70,55,35,0.34)', dim: 0.22, home: '#2e8b57',
+    landOff: 'rgba(70,55,35,0.15)', dim: 0.22, home: '#2e8b57',
     // 淺色底：亮度 0.86→0.50 遞減、彩度 0.04→0.14 遞增
     ramp: ['#ddd0b4', '#cab085', '#b99056', '#a86f21', '#974d00'],
     pin: '#0E6F82',
-    visitedOn: 'rgba(214,150,20,0.92)', visitedOff: 'rgba(70,55,35,0.26)',
+    visitedOn: 'rgba(214,150,20,0.92)', visitedOff: 'rgba(70,55,35,0.14)',
     stroke: 'rgba(70,55,35,0.22)',
     cap: 'rgba(120,95,55,0.08)', capHover: 'rgba(120,95,55,0.22)',
   },
   // 復古探險地圖：羊皮紙地球、經緯線、深褐墨水色階、朱紅地標，沒有日夜和城市燈火
   vintage: {
     globe: '#e9d8b0', night: 'rgba(0,0,0,0)', lights: 0, atmosphere: '#c9a46b', paper: true,
-    landOff: 'rgba(92,60,28,0.30)', dim: 0.2, home: '#4f7a3a',
+    landOff: 'rgba(92,60,28,0.14)', dim: 0.2, home: '#4f7a3a',
     ramp: ['#d6bf90', '#c09a5f', '#a26f37', '#82451c', '#5c210b'],
     pin: '#a3301f',
-    visitedOn: 'rgba(163,48,31,0.75)', visitedOff: 'rgba(92,60,28,0.24)',
+    visitedOn: 'rgba(163,48,31,0.75)', visitedOff: 'rgba(92,60,28,0.13)',
     stroke: 'rgba(70,42,18,0.4)',
     cap: 'rgba(120,85,40,0.07)', capHover: 'rgba(120,85,40,0.2)',
   },
@@ -184,16 +184,16 @@ function initGlobe() {
     .width(innerWidth)
     .height(innerHeight)
 
-    // 半色調網點：去過越多集點越大越亮，沒去過只剩細點（使用者從參考圖選定）
+    // 蜂巢六角磚（像《文明帝國》的地圖格）：格子緊密相連、只留細縫，顏色依集數
     .hexPolygonsData(countryFeatures)
     .hexPolygonResolution(f => (IS_SMALL && f.hexRes === 3) ? 2 : f.hexRes)
-    .hexPolygonMargin(dotMargin)
+    .hexPolygonMargin(0.14)
     .hexPolygonCurvatureResolution(3)
-    .hexPolygonUseDots(true)
+    .hexPolygonUseDots(false)
     .hexPolygonAltitude(0.006)
     .hexPolygonColor(countryColor)
 
-    // 底層淡色填色＋國界：滑鼠偵測也由這層負責（點陣不參與，見 muteHexRaycast）
+    // 底層淡色填色＋國界：滑鼠偵測也由這層負責（六角格不參與，見 muteHexRaycast）
     .polygonsData(countryFeatures)
     .polygonAltitude(0.003)
     .polygonCapColor(capColor)
@@ -268,8 +268,8 @@ function initGlobe() {
   drawStars();
 }
 
-// 國家點陣不參與滑鼠偵測：globe.gl 每次移動滑鼠都會對場景所有物件做射線檢測，
-// 點陣有幾萬個三角形，是電腦上拖曳、滑過時卡頓的主因。國家的 hover／點擊由底下的填色層負責
+// 六角格不參與滑鼠偵測：globe.gl 每次移動滑鼠都會對場景所有物件做射線檢測，
+// 這層有幾萬個三角形，是電腦上拖曳、滑過時卡頓的主因。國家的 hover／點擊由底下的填色層負責
 const noRaycast = () => {};
 function muteHexRaycast() {
   globe.scene().traverse(o => {
@@ -418,7 +418,7 @@ function subsolarPoint(date) {
   return { lat: decl, lng };
 }
 
-// 點的顏色：去過的依集數走色階、台灣綠色，沒去過的灰；聚焦某國時其他國家變淡
+// 六角格顏色：去過的依集數走色階、台灣綠色，沒去過的灰；聚焦某國時其他國家變淡
 function countryColor(f) {
   const t = THEMES[theme];
   if (visitedOn) return f.a2 && visited.has(f.a2) ? t.visitedOn : t.visitedOff;
@@ -456,16 +456,6 @@ function fade(rgba, mul) {
   return rgba.replace(/[\d.]+\)$/, a => `${Math.min(1, parseFloat(a) * mul).toFixed(3)})`);
 }
 
-// 半色調：點的大小（hexPolygonMargin 越大點越小）。沒去過 0.86 只剩細點，去最多集的 0.22。
-// 時間線播放中只換顏色、不換大小：改大小會讓整層點陣重建，每集都重建會卡
-function dotMargin(f) {
-  if (visitedOn) return f.a2 && visited.has(f.a2) ? 0.3 : 0.86;
-  const c = f.country;
-  if (!c || !c.eps.size) return 0.86;
-  const h = c.key === HOME_COUNTRY ? 1 : Math.min(1, Math.sqrt((c.eps.size - 1) / Math.max(1, ix.maxCountryEps - 1)));
-  return 0.72 - 0.5 * h;
-}
-
 // 底層填色：一律淡淡一層，滑過時亮一點；足跡模式去過的國家帶一點金
 function capColor(f) {
   const t = THEMES[theme];
@@ -474,17 +464,11 @@ function capColor(f) {
   return t.cap;
 }
 
-let lastMarginMode = null;
 function refreshHex() {
   if (!globe) return;
   globe.hexPolygonColor(countryColor)
     .polygonCapColor(capColor)
     .polygonStrokeColor(() => THEMES[theme].stroke);
-  const mode = visitedOn ? `v:${[...visited].sort().join(',')}` : 'eps';
-  if (mode !== lastMarginMode) {
-    lastMarginMode = mode;
-    globe.hexPolygonMargin(dotMargin);
-  }
 }
 
 // 地標分成幾組粒子：高亮／淡化 × 多集／單集；每組一個顏色、一個大小（螢幕像素，不隨縮放變）
