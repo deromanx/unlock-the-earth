@@ -6,18 +6,18 @@
     "lon": 133.881,
     "country": "澳洲",
     "region": "大洋洲",
-    "quote": "像是愛麗絲泉他那個大部分都是為了觀光存在的",
-    "context": "澳洲內陸少數城市，因觀光與大岩石而存在"
+    "quote": "少數內陸的城市像是愛麗絲泉",
+    "context": "澳洲內陸少數城市，主要因觀光而存在"
   },
   {
     "name": "艾迪卡拉山區",
     "name_en": "Ediacara Hills",
-    "lat": -30.317,
-    "lon": 138.15,
+    "lat": -30.31,
+    "lon": 138.63,
     "country": "澳洲",
     "region": "大洋洲",
-    "quote": "在南澳的時候在那個艾迪卡拉山區他發現了一堆長得很奇怪的化石",
-    "context": "發現古老化石，艾迪卡拉紀因此命名"
+    "quote": "在南澳的時候，在那個艾迪卡拉山區，他發現了一堆長得很奇怪的化石",
+    "context": "發現古老化石並命名艾迪卡拉紀的地點"
   },
   {
     "name": "坎培拉",
@@ -26,18 +26,18 @@
     "lon": 149.129,
     "country": "澳洲",
     "region": "大洋洲",
-    "quote": "我們就在兩個首都的中間直接蓋一個首都",
+    "quote": "我們就在兩個首都的中間，直接蓋一個首都",
     "context": "為平息雪梨與墨爾本之爭而興建的首都",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Canberra_panorama_from_Mount_Ainslie.jpg/330px-Canberra_panorama_from_Mount_Ainslie.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "哈維鎮",
-    "name_en": "Harvey",
-    "lat": -33.078,
-    "lon": 115.894,
+    "name_en": "Harvey, Western Australia",
+    "lat": -33.077,
+    "lon": 115.899,
     "country": "澳洲",
     "region": "大洋洲",
-    "quote": "我在的小鎮的harvey他有個harvey秀",
-    "context": "西澳小鎮，每年舉辦農業與鄉鎮展覽活動"
+    "quote": "我那時候我在的小鎮的harvey，他有個harvey秀",
+    "context": "來賓打工度假居住的小鎮，有年度農業展覽"
   }
 ]

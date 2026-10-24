@@ -6,87 +6,87 @@
     "lon": 58.44,
     "country": "土庫曼",
     "region": "亞洲",
-    "quote": "地獄之門在土庫曼的沙漠中它其實它大概是一個美式足球場的大小",
-    "context": "燃燒數十年的天然氣坑，本集核心景點，旅人在附近蒙古包過夜"
+    "quote": "大部分觀光客進去土庫曼是為了要看地獄之門",
+    "context": "沙漠中燃燒逾50年的天然氣坑，作者在附近蒙古包過夜"
   },
   {
     "name": "阿什哈巴德",
     "name_en": "Ashgabat",
-    "lat": 37.95,
-    "lon": 58.38,
+    "lat": 37.96,
+    "lon": 58.326,
     "country": "土庫曼",
     "region": "亞洲",
-    "quote": "所以你就可以看到就是一堆白色的建築物很多都是大理石建造的",
-    "context": "土庫曼首都，白色大理石城市與多項金氏紀錄建築"
+    "quote": "你就可以看到就是一堆白色的建築物很多都是大理石建造的",
+    "context": "白色大理石首都，破紀錄建築林立，作者在此跨年"
   },
   {
-    "name": "室內摩天輪",
+    "name": "室內摩天輪（阿拉姆娛樂中心）",
     "name_en": "Alem Cultural and Entertainment Center",
-    "lat": 37.985,
-    "lon": 58.34,
+    "lat": 37.986,
+    "lon": 58.347,
     "country": "土庫曼",
     "region": "亞洲",
-    "quote": "它還有全世界最大的室內摩天輪",
-    "context": "世界最大室內摩天輪，作者在此跨年看煙火與晚會"
+    "quote": "它有全世界最大的室內摩天輪",
+    "context": "高57米的世界最大室內摩天輪，作者於此跨年"
   },
   {
     "name": "地毯博物館",
     "name_en": "Turkmen Carpet Museum",
-    "lat": 37.935,
-    "lon": 58.395,
+    "lat": 37.929,
+    "lon": 58.389,
     "country": "土庫曼",
     "region": "亞洲",
     "quote": "然後它有全世界最大的手工地毯在它的博物館內",
-    "context": "收藏三百平方公尺世界最大手工地毯"
+    "context": "收藏世界最大手工地毯的博物館"
   },
   {
-    "name": "教育部大樓",
-    "name_en": "Ministry of Education Building, Ashgabat",
-    "lat": 37.936,
+    "name": "阿什哈巴德噴泉群",
+    "name_en": "Fountain complex (Oguzkhan Presidential Palace area), Ashgabat",
+    "lat": 37.944,
     "lon": 58.376,
     "country": "土庫曼",
     "region": "亞洲",
-    "quote": "像他們有個教育部就設計成像一本書的樣子",
-    "context": "設計成書本造型的全白政府建築"
+    "quote": "15 公頃的噴泉",
+    "context": "佔地15公頃、27座噴泉的世界紀錄噴泉池"
   },
   {
-    "name": "噴泉公園",
-    "name_en": "Oguzhan Fountain Complex",
-    "lat": 37.987,
-    "lon": 58.343,
-    "country": "土庫曼",
-    "region": "亞洲",
-    "quote": "它也有一個噴泉是佔地15公頃",
-    "context": "佔地15公頃、27座噴泉的金氏紀錄噴泉群"
-  },
-  {
-    "name": "奧林匹克體育場",
+    "name": "阿什哈巴德體育場（馬形雕像）",
     "name_en": "Olympic Stadium, Ashgabat",
-    "lat": 37.889,
-    "lon": 58.303,
+    "lat": 37.896,
+    "lon": 58.368,
     "country": "土庫曼",
     "region": "亞洲",
-    "quote": "它的體育場內呢也有金氏劑紀錄列為全世界最高的馬型雕像",
-    "context": "園內有世界最高馬像，只能從外面偷拍"
+    "quote": "它的體育場內也有金氏紀紀錄列為全世界最高的馬型雕像",
+    "context": "擁有金氏紀錄最高馬形雕像的體育場"
   },
   {
-    "name": "星形廣播電視塔",
+    "name": "土庫曼廣播電視塔（星形建築）",
     "name_en": "Turkmenistan Television Tower",
-    "lat": 37.883,
+    "lat": 37.881,
+    "lon": 58.296,
+    "country": "土庫曼",
+    "region": "亞洲",
+    "quote": "它有一個廣播電臺是全世界最大的新型建築",
+    "context": "高211米的星形世界紀錄建築，只能從外面看"
+  },
+  {
+    "name": "教育部大樓（書本造型）",
+    "name_en": "Ministry of Education Building, Ashgabat",
+    "lat": 37.935,
     "lon": 58.38,
     "country": "土庫曼",
     "region": "亞洲",
-    "quote": "高211米",
-    "context": "星形建築，被列為世界最大的星形建築"
+    "quote": "他們有個教育部就設計成像一本書的樣子",
+    "context": "白色大理石書本造型的政府建築"
   },
   {
-    "name": "庫尼亞烏爾根奇",
+    "name": "古爾根奇",
     "name_en": "Konye-Urgench",
     "lat": 42.318,
-    "lon": 59.152,
+    "lon": 59.157,
     "country": "土庫曼",
     "region": "亞洲",
-    "quote": "像它有之前古波茲首都Urganch它是那個思路上非常重要的城市",
-    "context": "絲路重鎮、世界遺產，被提及為其他景點"
+    "quote": "它是那個思路上非常重要的城市",
+    "context": "絲路重鎮世界遺產，政府主推的景點"
   }
 ]

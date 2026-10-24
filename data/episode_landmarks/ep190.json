@@ -1,12 +1,22 @@
 [
   {
-    "name": "卡布丘",
-    "name_en": "Caboolture",
-    "lat": -27.083,
-    "lon": 152.951,
-    "country": "澳洲",
-    "region": "大洋洲",
-    "quote": "像有一陣子新聞爆出那個恐怖球就卡布球的，那個臺灣人壓榨臺灣人的事情",
-    "context": "發生過著名的「恐怖卡布丘」臺灣人壓榨同胞事件的地點。"
+    "name": "桃園國際機場",
+    "name_en": "Taiwan Taoyuan International Airport",
+    "lat": 25.077,
+    "lon": 121.233,
+    "country": "臺灣",
+    "region": "台灣",
+    "quote": "然後再從永和開車帶我到桃園",
+    "context": "同學開車送行至機場，來不及好好擁抱告別"
+  },
+  {
+    "name": "國立東華大學",
+    "name_en": "National Dong Hwa University",
+    "lat": 23.897,
+    "lon": 121.543,
+    "country": "臺灣",
+    "region": "台灣",
+    "quote": "因為我是東華華文所嘛我們是創作組",
+    "context": "作者就讀的研究所，小說視為畢業證書"
   }
 ]

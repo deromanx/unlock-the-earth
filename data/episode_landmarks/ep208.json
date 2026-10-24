@@ -1,12 +1,248 @@
 [
   {
-    "name": "安平古堡（熱蘭遮城）",
-    "name_en": "Fort Zeelandia (Anping Fort)",
+    "name": "皇后鎮",
+    "name_en": "Queenstown",
+    "lat": -45.031,
+    "lon": 168.663,
+    "country": "紐西蘭",
+    "region": "大洋洲",
+    "quote": "這個地方就是叫 Queen's Town",
+    "context": "極限運動天堂，高空彈跳發源地"
+  },
+  {
+    "name": "麥肯齊盆地",
+    "name_en": "Mackenzie Basin",
+    "lat": -44.0,
+    "lon": 170.5,
+    "country": "紐西蘭",
+    "region": "大洋洲",
+    "quote": "它是世界上最大的 international dark sky reserve",
+    "context": "全球最大暗空保護區，鮭魚養殖"
+  },
+  {
+    "name": "蒂卡波湖",
+    "name_en": "Lake Tekapo",
+    "lat": -44.004,
+    "lon": 170.477,
+    "country": "紐西蘭",
+    "region": "大洋洲",
+    "quote": "它這個地方就是從 Lake Ticapo 一直到 Mount Cook",
+    "context": "暗空保護區起點，觀星勝地"
+  },
+  {
+    "name": "庫克山",
+    "name_en": "Aoraki / Mount Cook",
+    "lat": -43.595,
+    "lon": 170.142,
+    "country": "紐西蘭",
+    "region": "大洋洲",
+    "quote": "庫克山的話就是說是紐西蘭最高峰",
+    "context": "紐西蘭最高峰，毛利語意為雲之巔"
+  },
+  {
+    "name": "塔斯曼冰河",
+    "name_en": "Tasman Glacier",
+    "lat": -43.7,
+    "lon": 170.25,
+    "country": "紐西蘭",
+    "region": "大洋洲",
+    "quote": "有一條那個塔斯曼冰河是這個紐西蘭最大的冰河",
+    "context": "紐西蘭最大冰河，長30公里"
+  },
+  {
+    "name": "胡克谷步道",
+    "name_en": "Hooker Valley Track",
+    "lat": -43.708,
+    "lon": 170.093,
+    "country": "紐西蘭",
+    "region": "大洋洲",
+    "quote": "上面的話還有一條非常著名的一個叫做胡克谷的一個步道",
+    "context": "經吊橋通往冰河湖的三小時步道"
+  },
+  {
+    "name": "瓦納卡",
+    "name_en": "Wanaka",
+    "lat": -44.703,
+    "lon": 169.132,
+    "country": "紐西蘭",
+    "region": "大洋洲",
+    "quote": "再往下走的話就是到一個也是很有名的地方叫 Wanaka",
+    "context": "湖畔小鎮，孤樹與登山步道所在"
+  },
+  {
+    "name": "瓦納卡樹",
+    "name_en": "Wanaka Tree",
+    "lat": -44.696,
+    "lon": 169.121,
+    "country": "紐西蘭",
+    "region": "大洋洲",
+    "quote": "被譽為世界上最孤獨的樹",
+    "context": "長在湖中的孤樹，打卡名景點",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/ThatWanakaTree_at_Sunrise.jpg/330px-ThatWanakaTree_at_Sunrise.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "羅伊峰",
+    "name_en": "Roys Peak",
+    "lat": -44.671,
+    "lon": 169.057,
+    "country": "紐西蘭",
+    "region": "大洋洲",
+    "quote": "可以去一個地方叫 Roy's Peak",
+    "context": "登頂可環視湖與雪山的挑戰步道"
+  },
+  {
+    "name": "卡德羅納胸罩圍籬",
+    "name_en": "Cardrona Bra Fence",
+    "lat": -44.87,
+    "lon": 168.95,
+    "country": "紐西蘭",
+    "region": "大洋洲",
+    "quote": "它叫 kadrona bra fence",
+    "context": "掛滿胸罩的獵奇圍籬，募款防治乳癌",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Cardrona_bra_fence.jpg/330px-Cardrona_bra_fence.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "基督城",
+    "name_en": "Christchurch",
+    "lat": -43.532,
+    "lon": 172.636,
+    "country": "紐西蘭",
+    "region": "大洋洲",
+    "quote": "我覺得我們就是從基督城開始講",
+    "context": "南島起點，2011年地震後重建"
+  },
+  {
+    "name": "185張白色椅子紀念裝置",
+    "name_en": "185 Empty Chairs Memorial",
+    "lat": -43.53,
+    "lon": 172.64,
+    "country": "紐西蘭",
+    "region": "大洋洲",
+    "quote": "這個藝術裝置就叫做 185 張白色的椅子",
+    "context": "紀念地震罹難者的藝術裝置"
+  },
+  {
+    "name": "米佛峽灣",
+    "name_en": "Milford Sound",
+    "lat": -44.671,
+    "lon": 167.926,
+    "country": "紐西蘭",
+    "region": "大洋洲",
+    "quote": "這個地方是世界上最潮濕的地方",
+    "context": "冰河峽灣，雨天有上百條瀑布"
+  },
+  {
+    "name": "凱庫拉",
+    "name_en": "Kaikoura",
+    "lat": -42.4,
+    "lon": 173.68,
+    "country": "紐西蘭",
+    "region": "大洋洲",
+    "quote": "第一個地方就叫 kaikura",
+    "context": "賞鯨、海豹，鯨骨粉紅屋",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Kaik%C5%8Dura_seen_from_Kaik%C5%8Dura_Peninsula.jpg/330px-Kaik%C5%8Dura_seen_from_Kaik%C5%8Dura_Peninsula.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "奧馬魯",
+    "name_en": "Oamaru",
+    "lat": -45.097,
+    "lon": 170.971,
+    "country": "紐西蘭",
+    "region": "大洋洲",
+    "quote": "它是一個非常古色古香的一個古城",
+    "context": "維多利亞古城，可看藍企鵝歸巢",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Oamaru_Victoria_style_buildings_%28cropped%29.jpg/330px-Oamaru_Victoria_style_buildings_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "因弗卡吉爾",
+    "name_en": "Invercargill",
+    "lat": -46.413,
+    "lon": 168.354,
+    "country": "紐西蘭",
+    "region": "大洋洲",
+    "quote": "基本上就是一個南島非常南端最南端幾乎上是最南端的一個城市",
+    "context": "南島最南城市，拆屋村莊所在地",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_in_Esk_Street_-_Invercargill.jpg/330px-Spring_in_Esk_Street_-_Invercargill.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "拆除村莊",
+    "name_en": "Demolition World Village",
+    "lat": -46.41,
+    "lon": 168.35,
+    "country": "紐西蘭",
+    "region": "大洋洲",
+    "quote": "他在他家後院蓋了一個村莊",
+    "context": "用拆房廢料打造、擺滿人偶的詭異村落"
+  },
+  {
+    "name": "克利爾沃特湖與桑迪山",
+    "name_en": "Lake Clearwater and Mt Sunday",
+    "lat": -43.575,
+    "lon": 171.05,
+    "country": "紐西蘭",
+    "region": "大洋洲",
+    "quote": "這個地方就是魔界",
+    "context": "魔戒洛汗國取景地，無訊號免費營地"
+  },
+  {
+    "name": "聖巴斯贊",
+    "name_en": "St Bathans",
+    "lat": -44.903,
+    "lon": 169.82,
+    "country": "紐西蘭",
+    "region": "大洋洲",
+    "quote": "這個地方叫 Saint-Bastion",
+    "context": "淘金古鎮，鬧鬼旅館與湖畔步道"
+  },
+  {
+    "name": "Fergburger",
+    "name_en": "Fergburger",
+    "lat": -45.034,
+    "lon": 168.659,
+    "country": "紐西蘭",
+    "region": "大洋洲",
+    "quote": "你一定不能不提這個 Fur Burger",
+    "context": "皇后鎮名店，被評為世界第一漢堡"
+  },
+  {
+    "name": "TSS 恩斯勞號蒸汽船",
+    "name_en": "TSS Earnslaw",
+    "lat": -45.035,
+    "lon": 168.658,
+    "country": "紐西蘭",
+    "region": "大洋洲",
+    "quote": "這個船它是一個古董的蒸汽船",
+    "context": "與鐵達尼號同年服役的古董蒸汽船"
+  },
+  {
+    "name": "卡瓦勞橋",
+    "name_en": "Kawarau Bridge",
+    "lat": -45.011,
+    "lon": 168.916,
+    "country": "紐西蘭",
+    "region": "大洋洲",
+    "quote": "它那邊有一個橋它是古蹟的一個橋",
+    "context": "全球第一個商業高空彈跳地"
+  },
+  {
+    "name": "奧克蘭",
+    "name_en": "Auckland",
+    "lat": -36.848,
+    "lon": 174.763,
+    "country": "紐西蘭",
+    "region": "大洋洲",
+    "quote": "我住在奧克蘭",
+    "context": "講者居住地，紐西蘭最大城",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Auckland_skyline_-_May_2024_%282%29.jpg/330px-Auckland_skyline_-_May_2024_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "安平古堡",
+    "name_en": "Fort Zeelandia (Anping)",
     "lat": 23.001,
-    "lon": 120.1604,
+    "lon": 120.16,
     "country": "臺灣",
     "region": "台灣",
-    "quote": "臺南的安平古堡",
-    "context": "用來類比荷蘭人以澤蘭省命名，說明紐西蘭名稱由來"
+    "quote": "臺南的安平古堡現在叫什麼",
+    "context": "荷蘭澤蘭省命名，與New Zealand同源"
   }
 ]

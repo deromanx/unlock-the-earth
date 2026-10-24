@@ -1,24 +1,115 @@
 [
   {
-    "name": "富士山",
-    "name_en": "Mount Fuji",
-    "lat": 35.3606,
-    "lon": 138.7274,
+    "name": "清洲城",
+    "name_en": "Kiyosu Castle",
+    "lat": 35.2008,
+    "lon": 136.8481,
     "country": "日本",
     "region": "亞洲",
-    "quote": "富士山它整顆在你面前這樣",
-    "context": "主持人旅途中天氣極好，飯店可直接看到富士山景",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/View_of_Mount_Fuji_from_%C5%8Cwakudani_20211202.jpg/330px-View_of_Mount_Fuji_from_%C5%8Cwakudani_20211202.jpg"
+    "quote": "信長的居城不在那古野城而是在近郊的青州城",
+    "context": "信長的居城，小而精緻、遊客稀少，信長迷必訪"
   },
   {
-    "name": "新宿",
-    "name_en": "Shinjuku",
-    "lat": 35.6938,
-    "lon": 139.7036,
+    "name": "名古屋城",
+    "name_en": "Nagoya Castle",
+    "lat": 35.1856,
+    "lon": 136.8993,
     "country": "日本",
     "region": "亞洲",
-    "quote": "我們去東京去新宿那種",
-    "context": "提到新宿居酒屋串燒價格與臺灣相近"
+    "quote": "大部分人去名古屋都會看名古屋城",
+    "context": "由德川家康重修的名古屋主城，遊客眾多"
+  },
+  {
+    "name": "桶狹間",
+    "name_en": "Okehazama",
+    "lat": 35.06,
+    "lon": 136.98,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "桶霞間其實桶霞間現在也是有遺址",
+    "context": "信長奇襲今川義元的古戰場，位置不確定僅有紀念碑"
+  },
+  {
+    "name": "熱田神宮",
+    "name_en": "Atsuta Shrine",
+    "lat": 35.1277,
+    "lon": 136.9071,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "叫熱田神宮 日本三大神宮之一",
+    "context": "信長出陣桶狹間前禱告之處"
+  },
+  {
+    "name": "駿府城",
+    "name_en": "Sunpu Castle",
+    "lat": 34.9759,
+    "lon": 138.3834,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "他老家老巢就是在靜岡郡府城",
+    "context": "今川家根據地，後為德川家康居城，現為公園",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Sunpu-castle_tatsumi-yagura.JPG/330px-Sunpu-castle_tatsumi-yagura.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "久能山東照宮",
+    "name_en": "Kunozan Toshogu Shrine",
+    "lat": 34.9575,
+    "lon": 138.4639,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "九能山上面有個神社叫東照宮",
+    "context": "德川家康埋葬處，可同時眺望靜岡市、富士山與大海"
+  },
+  {
+    "name": "武田神社（躑躅崎館遺址）",
+    "name_en": "Takeda Shrine",
+    "lat": 35.6769,
+    "lon": 138.5687,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "現在被改建成原址被改建成叫武田神社的地方",
+    "context": "武田信玄居館遺址，民宅間有信玄墓"
+  },
+  {
+    "name": "濱松城",
+    "name_en": "Hamamatsu Castle",
+    "lat": 34.7114,
+    "lon": 137.7197,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "在冰松城這個城堡旁邊有一棵松樹",
+    "context": "家康三方原敗逃後掛鎧甲的松樹所在"
+  },
+  {
+    "name": "三方原古戰場",
+    "name_en": "Mikatahara Battlefield",
+    "lat": 34.76,
+    "lon": 137.69,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "三方元之戰過沒多久他就病死了",
+    "context": "武田信玄大破織田德川聯軍的戰場"
+  },
+  {
+    "name": "小田原城",
+    "name_en": "Odawara Castle",
+    "lat": 35.25,
+    "lon": 139.1553,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "戰國名城從來沒有被攻陷過",
+    "context": "北條家居城，投降標誌戰國時代結束",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Odawara-jo.jpg/330px-Odawara-jo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "本能寺",
+    "name_en": "Honnō-ji",
+    "lat": 35.0083,
+    "lon": 135.7683,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "這個時候就經過了京都附近的一個地方叫做本能寺",
+    "context": "明智光秀叛變、信長切腹之地"
   },
   {
     "name": "大阪城",
@@ -27,8 +118,39 @@
     "lon": 135.5262,
     "country": "日本",
     "region": "亞洲",
-    "quote": "蓋到後來蓋出一個史上最屌的城",
-    "context": "豐臣秀吉擅長築城，最終蓋出大阪城",
+    "quote": "蓋出一個史上最屌的城 大阪城 這是它蓋的",
+    "context": "豐臣秀吉所建的最宏偉城池",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Osaka_Castle_03bs3200.jpg/330px-Osaka_Castle_03bs3200.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "新宿",
+    "name_en": "Shinjuku",
+    "lat": 35.6938,
+    "lon": 139.7036,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "新宿有很多這種什麼風俗店",
+    "context": "夜生活、牛郎店與酒醉景象的街區"
+  },
+  {
+    "name": "澀谷",
+    "name_en": "Shibuya",
+    "lat": 35.6595,
+    "lon": 139.7005,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "我們在故意在澀谷待了很晚",
+    "context": "等待醉客奇景卻撲空的地點",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Shibuya_skyline_from_Tokyu_Plaza_in_Omotesando%2C_Harajuku%2C_Tokyo%2C_2024_May.jpg/330px-Shibuya_skyline_from_Tokyu_Plaza_in_Omotesando%2C_Harajuku%2C_Tokyo%2C_2024_May.jpg"
+  },
+  {
+    "name": "大久保公園",
+    "name_en": "Okubo Park",
+    "lat": 35.7003,
+    "lon": 139.7004,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "新宿附近就有一個很有名的大酒保公園",
+    "context": "街頭站立攬客的知名地點"
   }
 ]

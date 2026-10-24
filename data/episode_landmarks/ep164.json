@@ -1,24 +1,44 @@
 [
   {
-    "name": "草悟道",
-    "name_en": "Calligraphy Greenway",
-    "lat": 24.144,
-    "lon": 120.6634,
+    "name": "草悟道廣場",
+    "name_en": "Caowudao (Calligraphy Greenway) Plaza",
+    "lat": 24.1386,
+    "lon": 120.6633,
     "country": "臺灣",
     "region": "台灣",
-    "quote": "歡迎大家到臺中市最綠意盎然的草務道",
-    "context": "片頭廣告：青創品牌頒獎典禮與青創市集舉辦地點",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/%E7%B6%93%E5%9C%8B%E5%9C%92%E9%81%93%28%E8%8D%89%E6%82%9F%E9%81%93%29.JPG/330px-%E7%B6%93%E5%9C%8B%E5%9C%92%E9%81%93%28%E8%8D%89%E6%82%9F%E9%81%93%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    "quote": "在臺中市草悟道廣場 B 區",
+    "context": "開場廣告：青創品牌頒獎典禮與青創市集舉辦地點"
   },
   {
-    "name": "政治大學",
+    "name": "莫斯科州",
+    "name_en": "Moscow Oblast",
+    "lat": 55.5043,
+    "lon": 38.0353,
+    "country": "俄羅斯",
+    "region": "歐洲",
+    "quote": "我是莫斯科郊外",
+    "context": "來賓老家所在，離莫斯科市五六十公里的小鎮"
+  },
+  {
+    "name": "國立政治大學",
     "name_en": "National Chengchi University",
-    "lat": 24.9867,
-    "lon": 121.576,
+    "lat": 24.9871,
+    "lon": 121.5771,
     "country": "臺灣",
     "region": "台灣",
-    "quote": "所以就找到了政大",
-    "context": "來賓赴臺就讀的學校，就讀俄羅斯研究所"
+    "quote": "所以我就找到了政大",
+    "context": "來賓就讀俄羅斯研究所的學校"
+  },
+  {
+    "name": "深圳",
+    "name_en": "Shenzhen",
+    "lat": 22.5431,
+    "lon": 114.0579,
+    "country": "中國",
+    "region": "亞洲",
+    "quote": "到深圳在廣東那邊",
+    "context": "來賓大三赴中國交換一學期的地點",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Commercial_area_of_futian_to_east2020.jpg/330px-Commercial_area_of_futian_to_east2020.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "索契",
@@ -27,8 +47,29 @@
     "lon": 39.7231,
     "country": "俄羅斯",
     "region": "歐洲",
-    "quote": "我真的有聽說過索契",
-    "context": "黑海濱度假勝地，說明俄羅斯並非全年酷寒",
+    "quote": "索契就是黑海邊嘛",
+    "context": "俄羅斯南方溫暖的度假勝地，辦過冬奧",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Sochi_harbour.jpg/330px-Sochi_harbour.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "莫斯科",
+    "name_en": "Moscow",
+    "lat": 55.7558,
+    "lon": 37.6173,
+    "country": "俄羅斯",
+    "region": "歐洲",
+    "quote": "你隨便在莫斯科逛一逛會看到到處有很多教堂",
+    "context": "教堂林立，也是來賓通勤與返鄉所在",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Saint_Basil%27s_Cathedral_and_the_Red_Square.jpg/330px-Saint_Basil%27s_Cathedral_and_the_Red_Square.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "俄羅斯駐臺北代表處",
+    "name_en": "Representative Office of Russia in Taipei",
+    "lat": 25.0396,
+    "lon": 121.5434,
+    "country": "臺灣",
+    "region": "台灣",
+    "quote": "去我們的代表處那邊有一個小小的抗議活動",
+    "context": "戰爭爆發隔天來賓參加反戰抗議的地點"
   }
 ]

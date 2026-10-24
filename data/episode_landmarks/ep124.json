@@ -7,7 +7,7 @@
     "country": "巴西",
     "region": "美洲",
     "quote": "我是去巴西利亞大學交換",
-    "context": "主持人交換與念碩士的學校，在首都巴西利亞",
+    "context": "講者交換與日後念碩士的學校所在地",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Webysther_20160322_-_Logo_UnB_%28sem_texto%29.svg/330px-Webysther_20160322_-_Logo_UnB_%28sem_texto%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
@@ -18,27 +18,17 @@
     "country": "巴西",
     "region": "美洲",
     "quote": "巴西利亞它是一個被創造出來的城市",
-    "context": "人造首都，城市無聊但利於專心學業"
+    "context": "人工規劃的首都，講者最初落腳處，城市較無聊"
   },
   {
-    "name": "里約熱內盧貧民窟",
-    "name_en": "Favelas of Rio de Janeiro",
-    "lat": -22.986,
-    "lon": -43.249,
-    "country": "巴西",
-    "region": "美洲",
-    "quote": "我就很常到裡約去做研究啊以及就是在貧民窟做志工",
-    "context": "主持人在貧民窟做研究與志工"
-  },
-  {
-    "name": "里約海灘",
+    "name": "里約熱內盧海灘",
     "name_en": "Rio de Janeiro Beaches",
     "lat": -22.971,
     "lon": -43.182,
     "country": "巴西",
     "region": "美洲",
-    "quote": "裡約有很多很多海灘就我們是住在海灘邊的城市",
-    "context": "海灘文化影響穿著、身材焦慮與生活風格"
+    "quote": "就會看到很多里約人不是都喜歡躺在海灘上嗎",
+    "context": "裡約海灘文化、身材焦慮與泳裝風格"
   },
   {
     "name": "聖保羅",
@@ -47,8 +37,18 @@
     "lon": -46.633,
     "country": "巴西",
     "region": "美洲",
-    "quote": "聖保羅其實他那個城市我覺得就很臺北啦",
-    "context": "都會型城市，與裡約對比，亞裔移民眾多",
+    "quote": "聖保羅其實就等於是一個臺北",
+    "context": "巴西最大都會，效率高、亞裔多，與裡約對比",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Marginal_Pinheiros_e_Jockey_Club.jpg/330px-Marginal_Pinheiros_e_Jockey_Club.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "里約貧民窟",
+    "name_en": "Rio de Janeiro Favela",
+    "lat": -22.95,
+    "lon": -43.23,
+    "country": "巴西",
+    "region": "美洲",
+    "quote": "裡約的貧民窟其實也都在城市的裡面",
+    "context": "講者長期當志工，山坡上階層與膚色分佈明顯"
   }
 ]

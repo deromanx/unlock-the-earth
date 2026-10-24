@@ -1,34 +1,67 @@
 [
   {
-    "name": "罕薩谷地",
-    "name_en": "Hunza Valley",
-    "lat": 36.322,
-    "lon": 74.659,
+    "name": "中巴公路",
+    "name_en": "Karakoram Highway",
+    "lat": 36.318,
+    "lon": 74.65,
     "country": "巴基斯坦",
     "region": "亞洲",
-    "quote": "超過吉爾吉特之後到轟殺那邊",
-    "context": "傳說是風之谷靈感來源，男女平等的伊斯瑪裡教派世外桃源"
+    "quote": "其實有一條中八公路其實很漂亮",
+    "context": "連接中國新疆與巴基斯坦的公路，作者走過一小段",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/KKH.png/330px-KKH.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "巴爾蒂特堡",
+    "name": "拉合爾",
+    "name_en": "Lahore",
+    "lat": 31.558,
+    "lon": 74.351,
+    "country": "巴基斯坦",
+    "region": "亞洲",
+    "quote": "那我那時候在拉荷的時候",
+    "context": "作者抵達的第一個城市，借住沙發衝浪家庭",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Lahore_Fort_view_from_Baradari.jpg/330px-Lahore_Fort_view_from_Baradari.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "伊斯蘭瑪巴德",
+    "name_en": "Islamabad",
+    "lat": 33.684,
+    "lon": 73.048,
+    "country": "巴基斯坦",
+    "region": "亞洲",
+    "quote": "然後我在 Islamabad 他們首都的時候",
+    "context": "巴基斯坦首都，遇妓院大樓事件與中餐廳",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Faisal_Mosque%2C_Islamabad_III.jpg/330px-Faisal_Mosque%2C_Islamabad_III.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "罕薩谷地",
+    "name_en": "Hunza Valley",
+    "lat": 36.316,
+    "lon": 74.65,
+    "country": "巴基斯坦",
+    "region": "亞洲",
+    "quote": "那邊以前曾經是一個獨立的王國",
+    "context": "風之谷靈感說、男女平等的世外桃源"
+  },
+  {
+    "name": "罕薩堡壘",
     "name_en": "Baltit Fort",
-    "lat": 36.331,
-    "lon": 74.668,
+    "lat": 36.332,
+    "lon": 74.665,
     "country": "巴基斯坦",
     "region": "亞洲",
     "quote": "而且它在山頭上還有一個碉堡",
-    "context": "昔日罕薩王國國王俯瞰領地與人民的山頭堡壘",
+    "context": "山頭古堡，昔日罕薩國王俯瞰領地",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Baltit_fort%2C_Hunza_Valley.jpg/330px-Baltit_fort%2C_Hunza_Valley.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "吉爾吉特",
     "name_en": "Gilgit",
-    "lat": 35.919,
-    "lon": 74.314,
+    "lat": 35.92,
+    "lon": 74.308,
     "country": "巴基斯坦",
     "region": "亞洲",
-    "quote": "超過吉爾吉特之後到轟殺那邊",
-    "context": "前往罕薩的必經之地，路段有軍人護送且曾發生巴士劫持",
+    "quote": "他跟吉爾吉特就是一步之遙",
+    "context": "通往罕薩前的城鎮，風氣保守、曾有巴士被挾持",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Gilgit_City_a_View_from_Gilgit_serena_hotel.jpg/330px-Gilgit_City_a_View_from_Gilgit_serena_hotel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]

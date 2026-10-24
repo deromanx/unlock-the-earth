@@ -1,34 +1,143 @@
 [
   {
-    "name": "草悟道",
-    "name_en": "Calligraphy Greenway",
-    "lat": 24.1405,
-    "lon": 120.6625,
+    "name": "草悟道廣場",
+    "name_en": "Caowudao Plaza",
+    "lat": 24.1408,
+    "lon": 120.6637,
     "country": "臺灣",
     "region": "台灣",
-    "quote": "歡迎大家到臺中市最綠意盎然的草務道",
-    "context": "臺中青創市集與頒獎典禮舉辦地點",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/%E7%B6%93%E5%9C%8B%E5%9C%92%E9%81%93%28%E8%8D%89%E6%82%9F%E9%81%93%29.JPG/330px-%E7%B6%93%E5%9C%8B%E5%9C%92%E9%81%93%28%E8%8D%89%E6%82%9F%E9%81%93%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "大嶼山",
-    "name_en": "Lantau Island",
-    "lat": 22.2663,
-    "lon": 113.942,
-    "country": "香港",
-    "region": "亞洲",
-    "quote": "機場它的地點就在大雨山",
-    "context": "香港機場所在地，知名行山地點",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Lantau_Island_-_Hong_Kong.svg/330px-Lantau_Island_-_Hong_Kong.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    "quote": "在臺中市草悟道廣場 B 區為這些用心的創業青年舉辦頒獎典禮進行表揚",
+    "context": "臺中青創品牌頒獎與市集舉辦地點"
   },
   {
     "name": "鳳凰山",
     "name_en": "Lantau Peak (Fung Wong Shan)",
     "lat": 22.25,
-    "lon": 113.92,
+    "lon": 113.9333,
     "country": "香港",
     "region": "亞洲",
-    "quote": "香港的第二高峰叫做鳳凰山",
-    "context": "主持人第一次行山並中暑的經驗"
+    "quote": "香港的第二高峰叫做鳳凰山其實就在大嶼山",
+    "context": "講者首次爬山失敗的香港第二高峰"
+  },
+  {
+    "name": "大嶼山",
+    "name_en": "Lantau Island",
+    "lat": 22.2667,
+    "lon": 113.95,
+    "country": "香港",
+    "region": "亞洲",
+    "quote": "大嶼山其實本身就是一個非常有名的爬山的地方",
+    "context": "機場所在，著名行山地點，路邊有放牧的牛",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Lantau_Island_-_Hong_Kong.svg/330px-Lantau_Island_-_Hong_Kong.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "大帽山",
+    "name_en": "Tai Mo Shan",
+    "lat": 22.4083,
+    "lon": 114.1244,
+    "country": "香港",
+    "region": "亞洲",
+    "quote": "最簡單的就是那個大茂山就是香港第一高峰",
+    "context": "香港最高峰，公車可達半山，交通便利"
+  },
+  {
+    "name": "太平山",
+    "name_en": "Victoria Peak (Tai Ping Shan)",
+    "lat": 22.2759,
+    "lon": 114.1455,
+    "country": "香港",
+    "region": "亞洲",
+    "quote": "入門的話當然最簡單的應該是太平山",
+    "context": "入門行山首選，有纜車，可俯瞰港島九龍夜景"
+  },
+  {
+    "name": "山頂廣場",
+    "name_en": "The Peak Tower / Peak Galleria",
+    "lat": 22.2706,
+    "lon": 114.1498,
+    "country": "香港",
+    "region": "亞洲",
+    "quote": "到了山頂廣場然後逛一逛然後你再找一個山徑的路線走下來",
+    "context": "太平山纜車終點，可由此步行下山"
+  },
+  {
+    "name": "山頂纜車",
+    "name_en": "Peak Tram",
+    "lat": 22.2814,
+    "lon": 114.1588,
+    "country": "香港",
+    "region": "亞洲",
+    "quote": "因為太平山有纜車然後它的纜車就是觀光客都會去的地方",
+    "context": "剛翻新的玻璃屋頂纜車，遊客眾多需排隊"
+  },
+  {
+    "name": "香港大學",
+    "name_en": "The University of Hong Kong",
+    "lat": 22.283,
+    "lon": 114.1371,
+    "country": "香港",
+    "region": "亞洲",
+    "quote": "從香港大學那邊就有山徑可以上去然後一路都有標誌",
+    "context": "徒步上太平山的登山口之一"
+  },
+  {
+    "name": "龍脊",
+    "name_en": "Dragon's Back",
+    "lat": 22.2344,
+    "lon": 114.2406,
+    "country": "香港",
+    "region": "亞洲",
+    "quote": "龍脊就是港島的最東邊它像一個龍的背一樣",
+    "context": "推薦進階行山路線，海景絕佳但無遮蔭"
+  },
+  {
+    "name": "南丫島",
+    "name_en": "Lamma Island",
+    "lat": 22.2,
+    "lon": 114.1167,
+    "country": "香港",
+    "region": "亞洲",
+    "quote": "我會先推薦周潤發的故鄉南丫島",
+    "context": "周潤發故鄉，有家樂徑、海鮮與豆花"
+  },
+  {
+    "name": "家樂徑",
+    "name_en": "Lamma Island Family Trail",
+    "lat": 22.215,
+    "lon": 114.125,
+    "country": "香港",
+    "region": "亞洲",
+    "quote": "家樂徑就是名副其實就是 family trail 就是大人小孩都可以走",
+    "context": "南丫島連接兩個港口的親子友善步道"
+  },
+  {
+    "name": "中環碼頭",
+    "name_en": "Central Piers",
+    "lat": 22.2866,
+    "lon": 114.1582,
+    "country": "香港",
+    "region": "亞洲",
+    "quote": "你可以從譬如說從中環碼頭你就可以坐船到其中一個港口",
+    "context": "前往南丫島的搭船起點"
+  },
+  {
+    "name": "二刀（孖峰）",
+    "name_en": "Twin Peaks (Hong Kong Island)",
+    "lat": 22.253,
+    "lon": 114.185,
+    "country": "香港",
+    "region": "亞洲",
+    "quote": "我爬過最難的一個山叫做 twin peak",
+    "context": "港島南北貫穿的鐵人訓練路線"
+  },
+  {
+    "name": "赤柱",
+    "name_en": "Stanley",
+    "lat": 22.219,
+    "lon": 114.212,
+    "country": "香港",
+    "region": "亞洲",
+    "quote": "當然最後的獎賞就是衝到赤柱去好好吃一頓這樣",
+    "context": "Twin Peak 路線終點，用餐慶功"
   }
 ]

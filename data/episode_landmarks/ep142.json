@@ -1,104 +1,193 @@
 [
   {
-    "name": "南竿",
-    "name_en": "Nangan",
-    "lat": 26.15,
-    "lon": 119.95,
+    "name": "馬祖南竿",
+    "name_en": "Nangan, Matsu",
+    "lat": 26.158,
+    "lon": 119.951,
     "country": "臺灣",
     "region": "台灣",
-    "quote": "南竿的話基本上呢可能就跟臺北的一個區是差不多",
-    "context": "主持人服役所在島嶼，介紹大小與生活",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/%E5%8D%97%E7%AB%BF%E5%A4%A9%E5%90%8E%E5%AE%AE.JPG/330px-%E5%8D%97%E7%AB%BF%E5%A4%A9%E5%90%8E%E5%AE%AE.JPG?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    "quote": "馬祖的話南竿的話它算是一個就是馬祖的行政中心",
+    "context": "作者服役之地，馬祖行政中心與主要敘事場域"
   },
   {
-    "name": "介壽村（三龍）",
-    "name_en": "Jieshou Village",
-    "lat": 26.1588,
-    "lon": 119.9514,
+    "name": "馬祖北竿",
+    "name_en": "Beigan, Matsu",
+    "lat": 26.224,
+    "lon": 119.998,
     "country": "臺灣",
     "region": "台灣",
-    "quote": "全馬祖唯一一間首搖飲料店在三龍",
-    "context": "南竿市集區，伴手禮、美食與飲料店集中"
+    "quote": "北竿的話因為我也只有去過一次",
+    "context": "透過眷探計劃造訪，介紹板裡與芹壁"
   },
   {
-    "name": "馬港",
-    "name_en": "Magang",
-    "lat": 26.1448,
-    "lon": 119.9228,
+    "name": "津沙村",
+    "name_en": "Jinsha Village",
+    "lat": 26.1385,
+    "lon": 119.9425,
     "country": "臺灣",
     "region": "台灣",
-    "quote": "馬港的話其實就是地圖上看到馬祖村",
-    "context": "南竿西側，主持人連隊附近常去的休閒地"
+    "quote": "金沙的話它其實就叫金沙村",
+    "context": "南竿最愛地點，閩東聚落與沙灘，療癒人心"
   },
   {
-    "name": "馬祖天后宮",
-    "name_en": "Matsu Tianhou Temple",
-    "lat": 26.145,
-    "lon": 119.9232,
+    "name": "介壽村（山隴）",
+    "name_en": "Jieshou Village (Shanlong)",
+    "lat": 26.1555,
+    "lon": 119.9535,
+    "country": "臺灣",
+    "region": "台灣",
+    "quote": "它就是馬祖的西門町",
+    "context": "南竿最熱鬧商圈，採買與小吃集中地"
+  },
+  {
+    "name": "獅子市場",
+    "name_en": "Shizi Market",
+    "lat": 26.1555,
+    "lon": 119.954,
+    "country": "臺灣",
+    "region": "台灣",
+    "quote": "那邊有一個市場叫獅子市場",
+    "context": "馬祖最大市場，賣蔬果與地方小吃"
+  },
+  {
+    "name": "馬港天后宮",
+    "name_en": "Matsu Tianhou Temple (Magang)",
+    "lat": 26.1535,
+    "lon": 119.9235,
     "country": "臺灣",
     "region": "台灣",
     "quote": "這邊就是有一個最特色的東西就是馬祖的天后宮",
-    "context": "馬港最大景點，馬祖信仰中心"
+    "context": "馬祖地名由來，媽祖衣冠塚與巨大媽祖像"
   },
   {
-    "name": "媽祖巨神像",
-    "name_en": "Matsu Giant Statue",
-    "lat": 26.1498,
-    "lon": 119.9244,
+    "name": "馬祖劍碑",
+    "name_en": "Matsu Sword Monument",
+    "lat": 26.152,
+    "lon": 119.9245,
     "country": "臺灣",
     "region": "台灣",
-    "quote": "大家宣傳馬祖有一個超大的馬祖像",
-    "context": "馬祖宣傳常見的地標巨像"
+    "quote": "就是馬祖劍碑",
+    "context": "馬港轉角插劍並刻有「馬祖」的地標"
   },
   {
-    "name": "津沙聚落",
-    "name_en": "Jinsha Village",
-    "lat": 26.1273,
-    "lon": 119.9317,
+    "name": "鐵板村",
+    "name_en": "Tieban Village",
+    "lat": 26.15,
+    "lon": 119.989,
     "country": "臺灣",
     "region": "台灣",
-    "quote": "金沙的話這邊還是有居民的就是他還是保持就是一個居民區的感覺",
-    "context": "南竿保留居民生活感的聚落，有青年旅館"
+    "quote": "南竿的話還有另外一個地方我也覺得蠻好玩就是鐵板",
+    "context": "北海坑道、大漢據點所在，也有名產繼餅"
+  },
+  {
+    "name": "北海坑道",
+    "name_en": "Beihai Tunnel",
+    "lat": 26.152,
+    "lon": 119.993,
+    "country": "臺灣",
+    "region": "台灣",
+    "quote": "北海坑道跟大漢區點",
+    "context": "軍事坑道，現為賞藍眼淚勝地"
+  },
+  {
+    "name": "大漢據點",
+    "name_en": "Dahan Stronghold",
+    "lat": 26.1465,
+    "lon": 119.9955,
+    "country": "臺灣",
+    "region": "台灣",
+    "quote": "還有另外一個大漢據點這就是軍事的設施就是開放給民眾去看看",
+    "context": "開放參觀的軍事據點，設有大口徑火炮"
   },
   {
     "name": "雲台山軍情館",
     "name_en": "Yuntai Mountain Military Intelligence Hall",
-    "lat": 26.1535,
-    "lon": 119.9442,
-    "country": "臺灣",
-    "region": "台灣",
-    "quote": "一個就是雲台山軍情館",
-    "context": "南竿最高處的搖動觀測所，仍有士兵駐守"
-  },
-  {
-    "name": "天美軒",
-    "name_en": "Tianmeixuan",
-    "lat": 26.1583,
+    "lat": 26.162,
     "lon": 119.951,
     "country": "臺灣",
     "region": "台灣",
-    "quote": "南竿有一間天美軒的店他有專門在做這個",
-    "context": "推薦的福龍酥名店"
+    "quote": "一個就是雲台山軍情館",
+    "context": "南竿最高處觀測所，可遠眺對岸"
   },
   {
-    "name": "萬家鄉二店",
-    "name_en": "Wanjiaxiang No. 2",
-    "lat": 26.1585,
-    "lon": 119.9508,
+    "name": "勝利山莊",
+    "name_en": "Victory Villa",
+    "lat": 26.1495,
+    "lon": 119.933,
     "country": "臺灣",
     "region": "台灣",
-    "quote": "我們推薦的是萬家鄉二店",
-    "context": "介壽的狗麵推薦店家"
+    "quote": "我最推薦有一個景點叫勝利山莊",
+    "context": "山洞內軍方招待所，有總統套房與歷史照片"
+  },
+  {
+    "name": "金沙至馬港戰備道",
+    "name_en": "Jinsha–Magang Coastal Military Road",
+    "lat": 26.145,
+    "lon": 119.934,
+    "country": "臺灣",
+    "region": "台灣",
+    "quote": "從這個金沙一路走走到那個馬港的這條戰備道",
+    "context": "沿海岸徒步的水泥戰備道路"
+  },
+  {
+    "name": "板里大宅",
+    "name_en": "Banli Mansion",
+    "lat": 26.2245,
+    "lon": 120.001,
+    "country": "臺灣",
+    "region": "台灣",
+    "quote": "傳統閩東式的超大宅院叫做板裡大宅",
+    "context": "北竿免費參觀的閩東大宅與宗祠"
+  },
+  {
+    "name": "白馬尊王廟",
+    "name_en": "Baima Zunwang Temple",
+    "lat": 26.224,
+    "lon": 120.0,
+    "country": "臺灣",
+    "region": "台灣",
+    "quote": "白馬大王的廟",
+    "context": "板裡的閩東信仰廟宇"
+  },
+  {
+    "name": "芹壁村",
+    "name_en": "Qinbi Village",
+    "lat": 26.2285,
+    "lon": 119.985,
+    "country": "臺灣",
+    "region": "台灣",
+    "quote": "再來的話就是秦碧村了",
+    "context": "馬祖第一印象，閩東石屋聚落有地中海風情"
+  },
+  {
+    "name": "大坵島",
+    "name_en": "Daqiu Island",
+    "lat": 26.238,
+    "lon": 120.021,
+    "country": "臺灣",
+    "region": "台灣",
+    "quote": "就是大丘島",
+    "context": "梅花鹿棲息的無人島，居民已遷往北竿"
+  },
+  {
+    "name": "赤鳥咖啡",
+    "name_en": "Chiwu Cafe (Bunker Cafe)",
+    "lat": 26.17,
+    "lon": 119.943,
+    "country": "臺灣",
+    "region": "台灣",
+    "quote": "它其實就是以前的碉堡去改建的咖啡廳啦",
+    "context": "碉堡改建的文青咖啡廳，景色優美"
   },
   {
     "name": "金門",
     "name_en": "Kinmen",
-    "lat": 24.4493,
-    "lon": 118.3767,
+    "lat": 24.449,
+    "lon": 118.377,
     "country": "臺灣",
     "region": "台灣",
-    "quote": "我非常喜歡金門",
-    "context": "主持人對金門的印象與馬祖比較",
+    "quote": "我非常喜歡金門啊",
+    "context": "與馬祖對比，有軍事氛圍並可望對岸廈門",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Kinmen_Montage.png/330px-Kinmen_Montage.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]

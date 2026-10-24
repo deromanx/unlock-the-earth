@@ -3,50 +3,40 @@
     "name": "帕拉馬利波",
     "name_en": "Paramaribo",
     "lat": 5.852,
-    "lon": -55.204,
+    "lon": -55.203,
     "country": "蘇利南",
     "region": "美洲",
     "quote": "我在帕拉瑪利波待了三個禮拜",
-    "context": "蘇利南首都，荷蘭殖民木造建築、多元文化與數位游牧據點"
-  },
-  {
-    "name": "24 Hostel",
-    "name_en": "24 Hostel",
-    "lat": 5.8225,
-    "lon": -55.1655,
-    "country": "蘇利南",
-    "region": "美洲",
-    "quote": "直接去這個24hostel你不用找了",
-    "context": "蘇利南唯一青年旅館，認識當地人的據點"
-  },
-  {
-    "name": "中國市集",
-    "name_en": "Chinese Market, Paramaribo",
-    "lat": 5.8265,
-    "lon": -55.1675,
-    "country": "蘇利南",
-    "region": "美洲",
-    "quote": "一個是中國的",
-    "context": "週末市集，客家移民後裔的小吃聚集地"
-  },
-  {
-    "name": "爪哇市集",
-    "name_en": "Javanese Market, Paramaribo",
-    "lat": 5.8235,
-    "lon": -55.169,
-    "country": "蘇利南",
-    "region": "美洲",
-    "quote": "一個是Javanese就是爪哇市集",
-    "context": "週末小吃市集，印尼風味美食"
+    "context": "蘇利南首都，荷蘭殖民木造建築、多元族群與美食，講者停留三週"
   },
   {
     "name": "布朗斯堡",
     "name_en": "Brownsberg Nature Park",
-    "lat": 4.9333,
-    "lon": -55.1833,
+    "lat": 4.935,
+    "lon": -55.185,
     "country": "蘇利南",
     "region": "美洲",
     "quote": "Brunsburg是一個很出名的",
-    "context": "南部雨林景點，可觀賞野生動物"
+    "context": "熱帶雨林景點，可觀賞野生動物與鳥類的旅遊行程"
+  },
+  {
+    "name": "爪哇市集",
+    "name_en": "Javanese Market, Paramaribo",
+    "lat": 5.836,
+    "lon": -55.171,
+    "country": "蘇利南",
+    "region": "美洲",
+    "quote": "一個是中國的 一個是呃 Javanese 就是爪哇市集",
+    "context": "週末美食市集，匯集印尼風味小吃"
+  },
+  {
+    "name": "中國市集",
+    "name_en": "Chinese Market, Paramaribo",
+    "lat": 5.832,
+    "lon": -55.17,
+    "country": "蘇利南",
+    "region": "美洲",
+    "quote": "中國市集就是很有趣",
+    "context": "客家移民後裔的週末市集，小吃豐富"
   }
 ]

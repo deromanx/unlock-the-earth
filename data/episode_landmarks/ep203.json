@@ -1,24 +1,14 @@
 [
   {
-    "name": "臘戍",
+    "name": "臘戌",
     "name_en": "Lashio",
     "lat": 22.935,
     "lon": 97.749,
     "country": "緬甸",
     "region": "亞洲",
-    "quote": "我們把緬甸分為兩個部分 一個是上緬甸 一個是下緬甸",
-    "context": "講者家鄉，緬北華人聚居的邊境貿易城鎮，遭戰火波及",
+    "quote": "緬甸北部 臘旭",
+    "context": "來賓家鄉，華人佔八成的緬北城市，因戰爭被迫離開",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Lashio_sight_IMG_0595.JPG/330px-Lashio_sight_IMG_0595.JPG"
-  },
-  {
-    "name": "滇緬公路",
-    "name_en": "Burma Road",
-    "lat": 23.433,
-    "lon": 98.883,
-    "country": "緬甸",
-    "region": "亞洲",
-    "quote": "滇緬公路呢 早期的時候也是 二戰的時候也是 它成為一條 這個補給的 非常重要的路",
-    "context": "二戰補給要道，臘戍為重要中轉點"
   },
   {
     "name": "曼德勒",
@@ -27,28 +17,38 @@
     "lon": 96.083,
     "country": "緬甸",
     "region": "亞洲",
-    "quote": "最遠最北的主要曼德勒",
-    "context": "作為上下緬甸分界與臘戍交通往來的參照點",
+    "quote": "我之前去緬甸玩的時候最遠最北就是走到曼德勒",
+    "context": "上下緬甸的分界，與臘戌的距離對照",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Mandalay%2C_Myanmar.jpg/330px-Mandalay%2C_Myanmar.jpg"
+  },
+  {
+    "name": "滇緬公路",
+    "name_en": "Burma Road",
+    "lat": 23.6,
+    "lon": 98.5,
+    "country": "緬甸",
+    "region": "亞洲",
+    "quote": "滇緬公路早期的時候也是二戰的時候也是它成為一條補給的非常重要的路",
+    "context": "二戰補給要道，帶動臘戌華人聚集"
   },
   {
     "name": "華新街",
     "name_en": "Huaxin Street",
     "lat": 24.998,
-    "lon": 121.508,
+    "lon": 121.509,
     "country": "臺灣",
     "region": "台灣",
-    "quote": "我去吃那個 南市角的緬甸 對的 華興街裡面的",
-    "context": "新北中和緬甸料理聚集地，口味已在地化"
+    "quote": "我去吃那個南勢角的緬甸華興街裡面的",
+    "context": "新北中和緬甸社群聚集地，口味高度在地化"
   },
   {
-    "name": "南勢角",
-    "name_en": "Nanshijiao",
-    "lat": 24.9894,
-    "lon": 121.5089,
-    "country": "臺灣",
-    "region": "台灣",
-    "quote": "我去吃那個 南市角的緬甸",
-    "context": "講者在臺灣吃緬甸料理的地點"
+    "name": "泰北",
+    "name_en": "Northern Thailand",
+    "lat": 20.05,
+    "lon": 99.88,
+    "country": "泰國",
+    "region": "亞洲",
+    "quote": "我覺得說泰北做這個孤軍的這些事情讓更多人看見孤軍",
+    "context": "孤軍後裔知名度較高，與緬北對照"
   }
 ]

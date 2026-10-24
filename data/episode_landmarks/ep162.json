@@ -7,28 +7,17 @@
     "country": "印度",
     "region": "亞洲",
     "quote": "我的藏語老師住在北印度的達蘭薩拉",
-    "context": "主持人快閃拜訪藏語老師的地點，停留不到24小時"
+    "context": "主持人快閃拜訪藏語老師的地點"
   },
   {
-    "name": "曼尼拉",
-    "name_en": "Manila",
-    "lat": 14.599,
-    "lon": 120.984,
-    "country": "菲律賓",
-    "region": "亞洲",
-    "quote": "我的菲律賓語老師住在菲律賓曼尼拉",
-    "context": "主持人首次線下拜訪菲律賓語老師",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Cityscape_of_Manila%2C_2025_%2801%29.jpg/330px-Cityscape_of_Manila%2C_2025_%2801%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "德里英迪拉甘地國際機場",
+    "name": "新德里英迪拉·甘地國際機場",
     "name_en": "Indira Gandhi International Airport",
     "lat": 28.556,
     "lon": 77.1,
     "country": "印度",
     "region": "亞洲",
-    "quote": "我晚上到新德里的機場，然後晚上就待機場",
-    "context": "前往達蘭薩拉前在機場過夜，安檢分區嚴格"
+    "quote": "我晚上到新德里的機場",
+    "context": "在機場過夜，分享安檢分區經驗"
   },
   {
     "name": "日惹",
@@ -37,8 +26,19 @@
     "lon": 110.37,
     "country": "印尼",
     "region": "亞洲",
-    "quote": "日澤真的很棒，而且是個很有藝術氣息的地方",
-    "context": "爪哇島古蹟與數位游牧友善的悠閒城市"
+    "quote": "日澤真的很棒而且是個很有藝術氣息的地方然後很悠閒的地方",
+    "context": "藝術氣息濃厚，適合數位游牧"
+  },
+  {
+    "name": "雅加達",
+    "name_en": "Jakarta",
+    "lat": -6.175,
+    "lon": 106.827,
+    "country": "印尼",
+    "region": "亞洲",
+    "quote": "雅加達最讓我驚訝的地方就是過馬路實在不太好過",
+    "context": "交通壅塞、殖民老建築、快捷公車",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Bundaran_Hotel_Indonesia_%282025%29_%28cropped%29.jpg/330px-Bundaran_Hotel_Indonesia_%282025%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "萬隆",
@@ -47,8 +47,8 @@
     "lon": 107.619,
     "country": "印尼",
     "region": "亞洲",
-    "quote": "萬龍它是個比較位在山上的城市",
-    "context": "位於高地，氣溫比平地低五六度",
+    "quote": "萬隆它是個比較位在山上的城市",
+    "context": "高地城市，氣溫較涼爽",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Bandung_View_dari_Gedung_Wisma_HSBC_Asia_Afrika_4.jpg/330px-Bandung_View_dari_Gedung_Wisma_HSBC_Asia_Afrika_4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
@@ -58,39 +58,29 @@
     "lon": 112.769,
     "country": "印尼",
     "region": "亞洲",
-    "quote": "我知道大部分人去火山都是從四水去的",
-    "context": "前往火山群的常見出發點，也是火車終點",
+    "quote": "我從泗水坐到日舌",
+    "context": "搭火車起點，也是機場提款卡遺失之地",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Central_Surabaya_view_taken_from_JW_Marriott_Surabaya.jpg/330px-Central_Surabaya_view_taken_from_JW_Marriott_Surabaya.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "婆羅摩火山",
-    "name_en": "Mount Bromo",
-    "lat": -7.942,
-    "lon": 112.953,
-    "country": "印尼",
-    "region": "亞洲",
-    "quote": "然後再去看火山口",
-    "context": "清晨看日出與火山口的行程高潮"
-  },
-  {
     "name": "伊真火山",
-    "name_en": "Ijen Crater",
+    "name_en": "Ijen Volcano",
     "lat": -8.058,
     "lon": 114.242,
     "country": "印尼",
     "region": "亞洲",
-    "quote": "那個我有去，但是那個也是一大早要起來",
-    "context": "需凌晨起床上下坡的硫磺噴氣孔"
+    "quote": "你說的是伊箏火山對不對",
+    "context": "一大早上山看火山口與噴氣孔"
   },
   {
-    "name": "巴釐島",
+    "name": "峇里島",
     "name_en": "Bali",
     "lat": -8.409,
     "lon": 115.189,
     "country": "印尼",
     "region": "亞洲",
-    "quote": "巴釐島就是觀光客很多的地方",
-    "context": "印度教島嶼，豬肉料理，行程中休息放鬆"
+    "quote": "峇裡島它主要是印度教",
+    "context": "印度教寺廟、豬肉料理，休息放鬆之處"
   },
   {
     "name": "弗洛勒斯島",
@@ -99,28 +89,81 @@
     "lon": 121.08,
     "country": "印尼",
     "region": "亞洲",
-    "quote": "去佛羅倫斯島主要是我要去看那個克莫多龍",
-    "context": "前往科莫多龍的出發島嶼"
+    "quote": "可以坐船從佛羅倫斯到科摩多島",
+    "context": "前往科摩多龍的出發地"
   },
   {
-    "name": "科莫多島",
-    "name_en": "Komodo Island",
+    "name": "科摩多國家公園",
+    "name_en": "Komodo National Park",
     "lat": -8.55,
-    "lon": 119.489,
+    "lon": 119.49,
     "country": "印尼",
     "region": "亞洲",
-    "quote": "科莫多島跟佛羅倫斯島是在同一個差不多地方",
-    "context": "可看科莫多龍的島嶼，包船過夜浮潛"
+    "quote": "它是國家公園",
+    "context": "看野生科摩多龍，需導遊陪同",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Komodo_dragon_at_Komodo_National_Park.jpg/330px-Komodo_dragon_at_Komodo_National_Park.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "雅加達",
-    "name_en": "Jakarta",
-    "lat": -6.209,
-    "lon": 106.846,
+    "name": "托拉賈",
+    "name_en": "Tana Toraja",
+    "lat": -3.075,
+    "lon": 119.82,
     "country": "印尼",
     "region": "亞洲",
-    "quote": "雅加達的觀光資源比較貧乏",
-    "context": "過馬路困難、交通擁擠，有荷蘭殖民老建築",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Bundaran_Hotel_Indonesia_%282025%29_%28cropped%29.jpg/330px-Bundaran_Hotel_Indonesia_%282025%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    "quote": "一個地方叫做 Tana Tung Raja",
+    "context": "特殊喪葬習俗、巖洞墓與木偶",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Ke%27te%27_Kesu%27_1.jpg/330px-Ke%27te%27_Kesu%27_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "望加錫",
+    "name_en": "Makassar",
+    "lat": -5.147,
+    "lon": 119.432,
+    "country": "印尼",
+    "region": "亞洲",
+    "quote": "它生的城市就是在其中一根生出來的地方",
+    "context": "蘇拉威西最大城市，前往托拉賈的起點",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Makassar%2C_March_2019_%28cropped%29.jpg/330px-Makassar%2C_March_2019_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "森卡郎",
+    "name_en": "Sengkang",
+    "lat": -4.13,
+    "lon": 120.03,
+    "country": "印尼",
+    "region": "亞洲",
+    "quote": "中間有停有一個城市叫做 Sengan",
+    "context": "途中停留，有湖與水上人家",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Compassvale_Court%2C_Sep_06.JPG/330px-Compassvale_Court%2C_Sep_06.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "婆羅摩火山",
+    "name_en": "Mount Bromo",
+    "lat": -7.942,
+    "lon": 112.953,
+    "country": "印尼",
+    "region": "亞洲",
+    "quote": "然後隔天看日出然後再去看火山口",
+    "context": "日出與火山口行程（推測為婆羅摩）"
+  },
+  {
+    "name": "烏節路",
+    "name_en": "Orchard Road",
+    "lat": 1.304,
+    "lon": 103.832,
+    "country": "新加坡",
+    "region": "亞洲",
+    "quote": "新加坡有一條很著名的商業街叫烏節路",
+    "context": "舉例說明福建話音譯地名"
+  },
+  {
+    "name": "裕廊工業區",
+    "name_en": "Jurong Industrial Estate",
+    "lat": 1.32,
+    "lon": 103.7,
+    "country": "新加坡",
+    "region": "亞洲",
+    "quote": "他們有一個工業區叫裕廊工業區",
+    "context": "舉例說明福建話音譯地名"
   }
 ]

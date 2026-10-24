@@ -6,8 +6,8 @@
     "lon": 70.0,
     "country": "俄羅斯",
     "region": "亞洲",
-    "quote": "是在亞馬爾半島,寧內語詞這樣的",
-    "context": "本集主軸,北極圈內涅涅茨人游牧地"
+    "quote": "亞馬爾半島其實就根據我上次第一次跟你對談的時候後來去 google",
+    "context": "本集主題，位於北極圈內的涅涅茨人聚居半島"
   },
   {
     "name": "薩列哈爾德",
@@ -16,28 +16,28 @@
     "lon": 66.601,
     "country": "俄羅斯",
     "region": "亞洲",
-    "quote": "從莫斯科到那個薩列哈爾德",
-    "context": "亞馬爾地區首府,博物館與北極研究中心所在"
+    "quote": "我就訂了一張機票從 Moscow 到那個 Salihard",
+    "context": "亞馬爾-涅涅茨自治區首府，旅程起點與據點"
   },
   {
-    "name": "薩列哈爾德博物館",
-    "name_en": "Shemanovsky Yamal-Nenets District Museum",
-    "lat": 66.53,
-    "lon": 66.61,
+    "name": "薩列哈爾德地方博物館",
+    "name_en": "Shemanovsky Yamal-Nenets Regional Museum Complex",
+    "lat": 66.534,
+    "lon": 66.603,
     "country": "俄羅斯",
     "region": "亞洲",
-    "quote": "我就直接去當地的博物館",
-    "context": "下飛機直奔博物館,獲得薩滿線索與住處"
+    "quote": "我直接去當地的博物館",
+    "context": "下機後直奔博物館，獲館員協助安排行程"
   },
   {
     "name": "北極研究中心",
     "name_en": "Scientific Center of Arctic Studies",
     "lat": 66.531,
-    "lon": 66.605,
+    "lon": 66.608,
     "country": "俄羅斯",
     "region": "亞洲",
-    "quote": "我還去了那個北極研究中心",
-    "context": "研究北極民族學的官方機構,獲院長接待"
+    "quote": "還去了那個北極研究中心",
+    "context": "研究北極民族誌的官方機構，協助規劃路線"
   },
   {
     "name": "亞爾薩雷",
@@ -46,27 +46,37 @@
     "lon": 70.833,
     "country": "俄羅斯",
     "region": "亞洲",
-    "quote": "我就到了亞爾薩雷",
-    "context": "搭船抵達,寄宿原住民家庭並教小兒推拿"
+    "quote": "我就到了 yara sale",
+    "context": "沿河抵達的小鎮，借住原住民家庭"
   },
   {
     "name": "蘇尼薩雷",
-    "name_en": "Seyakha (Sunisa area)",
+    "name_en": "Seyakha (Sunisale area)",
     "lat": 70.15,
     "lon": 72.55,
     "country": "俄羅斯",
     "region": "亞洲",
-    "quote": "我就打聽到有地方叫Sunisa",
-    "context": "有大薩滿的村落,作者訪談薩滿與村民義診處"
+    "quote": "我就打聽到有個地方叫 Sunisa 咧",
+    "context": "北極圈內小漁村，拜訪大薩滿所在地"
   },
   {
-    "name": "古拉格鐵路遺跡",
-    "name_en": "Gulag Railway (Polar Railway ruins)",
+    "name": "古拉格鐵路遺址",
+    "name_en": "Gulag Railway Ruins (Stalin's Dead Road)",
     "lat": 66.6,
-    "lon": 67.2,
+    "lon": 67.5,
     "country": "俄羅斯",
     "region": "亞洲",
-    "quote": "我們要沿著俄羅斯派政治犯去修鐵路的路線",
-    "context": "健行重走政治犯修建的廢棄鐵軌,遇熊與蚊群"
+    "quote": "我們要沿著俄羅斯派政治犯去修鐵路的路線我們就沿著廢棄還沒修好的鐵軌",
+    "context": "健行兩日前往廢棄勞改營與鐵軌"
+  },
+  {
+    "name": "聖彼得堡中醫院",
+    "name_en": "Beijing University of Chinese Medicine Hospital, St. Petersburg",
+    "lat": 59.934,
+    "lon": 30.335,
+    "country": "俄羅斯",
+    "region": "歐洲",
+    "quote": "我在夏天的時候有去聖彼得堡的中醫院看病看針灸",
+    "context": "村民看過針灸的醫院，恰是作者母校開設"
   }
 ]

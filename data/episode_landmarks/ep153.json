@@ -1,52 +1,102 @@
 [
   {
-    "name": "里那里聚落",
-    "name_en": "Rinari Village",
-    "lat": 22.766,
-    "lon": 120.662,
+    "name": "瑪家部落（原鄉）",
+    "name_en": "Makazayazaya Old Village (Maga)",
+    "lat": 22.708,
+    "lon": 120.699,
     "country": "臺灣",
     "region": "台灣",
-    "quote": "那裡那裡那邊看起來是好幾個不同的部落聚在一起",
-    "context": "八八風災後三部落合併遷居的永久屋聚落"
+    "quote": "就看到很多過去的石板屋",
+    "context": "排灣族原鄉舊部落，石板屋、室內葬與入山儀式所在"
   },
   {
-    "name": "原鄉馬家部落",
-    "name_en": "Makazayazaya (Majia) Original Village",
-    "lat": 22.728,
-    "lon": 120.711,
+    "name": "禮納里部落",
+    "name_en": "Rinari Village",
+    "lat": 22.7285,
+    "lon": 120.656,
     "country": "臺灣",
     "region": "台灣",
-    "quote": "原鄉馬家是都還蠻完整的",
-    "context": "排灣族原鄉部落，保留許多石板屋"
+    "quote": "所以才移居到現在的裡納裡聚落",
+    "context": "八八風災後三個部落遷居的永久屋聚落"
   },
   {
     "name": "好茶部落",
-    "name_en": "Kucapungane (Haocha) Village",
-    "lat": 22.709,
-    "lon": 120.744,
+    "name_en": "Kochapongan (Haocha) Village",
+    "lat": 22.661,
+    "lon": 120.749,
     "country": "臺灣",
     "region": "台灣",
-    "quote": "最嚴重的是好茶部落就是它原鄉的好茶部落整個被衝不見了",
-    "context": "魯凱族舊部落，風災嚴重受損後遷居"
+    "quote": "好茶部落整個被沖不見了",
+    "context": "魯凱族原鄉，風災後遷居禮納裡"
   },
   {
     "name": "大社部落",
     "name_en": "Dashe Village",
-    "lat": 22.76,
-    "lon": 120.67,
+    "lat": 22.753,
+    "lon": 120.665,
     "country": "臺灣",
     "region": "台灣",
-    "quote": "還有來自三地門鄉的大社村大社部落是排灣族",
-    "context": "三地門鄉排灣族部落，一半被沖毀"
+    "quote": "大社村大社部落是排灣族",
+    "context": "三地門鄉排灣族部落，風災後半數被沖毀"
   },
   {
-    "name": "隘寮溪",
-    "name_en": "Ailiao River",
-    "lat": 22.735,
-    "lon": 120.65,
+    "name": "瑪家原鄉小教堂",
+    "name_en": "Old Maga Village Chapel",
+    "lat": 22.7085,
+    "lon": 120.6995,
     "country": "臺灣",
     "region": "台灣",
-    "quote": "他們原本居住的地方在愛寮溪的河畔旁邊",
-    "context": "好茶部落原居河畔，易受水災侵襲"
+    "quote": "我們那時候不知道去那個小教堂",
+    "context": "門打不開，從窗見羽毛聖母像"
+  },
+  {
+    "name": "左營高鐵站",
+    "name_en": "Zuoying THSR Station",
+    "lat": 22.687,
+    "lon": 120.308,
+    "country": "臺灣",
+    "region": "台灣",
+    "quote": "我們一開始就直接從左營高鐵站",
+    "context": "旅程出發點"
+  },
+  {
+    "name": "北大武山",
+    "name_en": "Beidawu Mountain",
+    "lat": 22.625,
+    "lon": 120.765,
+    "country": "臺灣",
+    "region": "台灣",
+    "quote": "大部分的登山客都會想要去的地方叫去爬北大武山",
+    "context": "登山客常經過瑪家的目的地"
+  },
+  {
+    "name": "關渡",
+    "name_en": "Guandu",
+    "lat": 25.117,
+    "lon": 121.465,
+    "country": "臺灣",
+    "region": "台灣",
+    "quote": "我們會在關渡的一個遊艇上面做演出",
+    "context": "遊艇電音派對出發地"
+  },
+  {
+    "name": "淡水河",
+    "name_en": "Tamsui River",
+    "lat": 25.165,
+    "lon": 121.43,
+    "country": "臺灣",
+    "region": "台灣",
+    "quote": "就是在淡水河上",
+    "context": "遊河電音派對航行水域"
+  },
+  {
+    "name": "女巫店",
+    "name_en": "The Witch House",
+    "lat": 25.021,
+    "lon": 121.532,
+    "country": "臺灣",
+    "region": "台灣",
+    "quote": "第一場會在 6 月 10 號在臺北的女屋店",
+    "context": "臺北巡迴演出場地"
   }
 ]

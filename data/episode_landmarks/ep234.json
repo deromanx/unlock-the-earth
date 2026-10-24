@@ -1,34 +1,24 @@
 [
   {
-    "name": "馬斯喀特機場",
+    "name": "馬斯克特國際機場",
     "name_en": "Muscat International Airport",
     "lat": 23.593,
     "lon": 58.284,
     "country": "阿曼",
     "region": "亞洲",
-    "quote": "它機場超大超華麗",
-    "context": "抵達阿曼的第一印象，燈光與地毯營造豪華感",
+    "quote": "我們就是在馬斯克機場抵達",
+    "context": "抵達阿曼的第一站，燈光與地毯給人豪華印象",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Aerial_view_of_Muscat_International_Airport_%28Ank_Kunar%2C_Infosys_Limited%29_02.jpg/330px-Aerial_view_of_Muscat_International_Airport_%28Ank_Kunar%2C_Infosys_Limited%29_02.jpg"
   },
   {
-    "name": "馬斯喀特中央市場",
-    "name_en": "Muscat Central Market (Muttrah Souq)",
-    "lat": 23.617,
-    "lon": 58.567,
-    "country": "阿曼",
-    "region": "亞洲",
-    "quote": "我們就有先去中央市場",
-    "context": "在此購買整套阿曼傳統服飾"
-  },
-  {
-    "name": "蘇爾碉堡",
-    "name_en": "Sur Fort",
+    "name": "蘇爾",
+    "name_en": "Sur",
     "lat": 22.567,
     "lon": 59.529,
     "country": "阿曼",
     "region": "亞洲",
-    "quote": "像我們在設了那個城市的碉堡往下看的時候",
-    "context": "登高俯瞰海與城市，景色如畫"
+    "quote": "我們那時候從馬斯克拉要前往那個海灣的城市叫 Sur",
+    "context": "海灣城市，車子拋錨後前往，登上碉堡俯瞰"
   },
   {
     "name": "瓦希巴沙漠",
@@ -37,17 +27,120 @@
     "lon": 58.8,
     "country": "阿曼",
     "region": "亞洲",
-    "quote": "就是瓦蜜巴沙漠",
-    "context": "拍沙漠婚紗並住進沙漠營地，借宿沙發主"
+    "quote": "就是 Wahiba 沙漠",
+    "context": "住貝都因營地、拍婚紗、騎駱駝、看星空"
   },
   {
-    "name": "蘇爾",
-    "name_en": "Sur",
-    "lat": 22.567,
-    "lon": 59.528,
+    "name": "尼茲瓦",
+    "name_en": "Nizwa",
+    "lat": 22.933,
+    "lon": 57.53,
     "country": "阿曼",
     "region": "亞洲",
-    "quote": "那個海灣的城市叫SUR",
-    "context": "從馬斯喀特前往的海灣城市，車子曾拋錨"
+    "quote": "往他們的算第二大城也是以前的首都叫 Nizwa",
+    "context": "古城，有夜市、堡壘與咖啡廳，停留數日",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Nizwa_%287%29.jpg/330px-Nizwa_%287%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "尼茲瓦堡",
+    "name_en": "Nizwa Fort",
+    "lat": 22.933,
+    "lon": 57.531,
+    "country": "阿曼",
+    "region": "亞洲",
+    "quote": "最後就還有去它的 Nizwa Fort 就是那個堡壘那個也很值得去",
+    "context": "規模大於馬斯喀特城堡，每天有傳統歌舞表演"
+  },
+  {
+    "name": "阿曼跨越時空博物館",
+    "name_en": "Oman Across Ages Museum",
+    "lat": 22.795,
+    "lon": 57.527,
+    "country": "阿曼",
+    "region": "亞洲",
+    "quote": "有一個是新蓋的那個國家歷史博物館",
+    "context": "建築壯麗的現代博物館，展示阿曼歷史"
+  },
+  {
+    "name": "馬納",
+    "name_en": "Manah",
+    "lat": 22.8,
+    "lon": 57.527,
+    "country": "阿曼",
+    "region": "亞洲",
+    "quote": "它叫做 Manah",
+    "context": "Nizwa 南邊小城，國家歷史博物館所在地"
+  },
+  {
+    "name": "巴赫拉小鎮",
+    "name_en": "Bahla",
+    "lat": 22.964,
+    "lon": 57.305,
+    "country": "阿曼",
+    "region": "亞洲",
+    "quote": "巴勒哈小鎮",
+    "context": "購買彎刀、咖啡廳位於老宅區，像迪化街",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Bahla_Fort.jpg/330px-Bahla_Fort.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "米斯法特阿布里恩",
+    "name_en": "Misfat Al Abriyyin",
+    "lat": 23.125,
+    "lon": 57.268,
+    "country": "阿曼",
+    "region": "亞洲",
+    "quote": "他們以前的傳統住宿在那邊它就是在大岩石的那個山壁",
+    "context": "山城，傳統巖洞住宅改民宿，有健行步道與灌溉系統"
+  },
+  {
+    "name": "廢棄城鎮（哈拉特・巴尼・米斯法特）",
+    "name_en": "Old Birkat Al Mouz",
+    "lat": 22.87,
+    "lon": 57.52,
+    "country": "阿曼",
+    "region": "亞洲",
+    "quote": "然後它是一個廢棄的城鎮",
+    "context": "內戰後被毀的廢墟，旁有山與完整清真寺"
+  },
+  {
+    "name": "西卜",
+    "name_en": "Seeb",
+    "lat": 23.67,
+    "lon": 58.189,
+    "country": "阿曼",
+    "region": "亞洲",
+    "quote": "有在經過 Moscow 旁邊的一個城市叫 Siebe",
+    "context": "有極簡現代清真寺，光影設計令人驚豔"
+  },
+  {
+    "name": "蘇丹卡布斯大清真寺",
+    "name_en": "Sultan Qaboos Grand Mosque",
+    "lat": 23.583,
+    "lon": 58.384,
+    "country": "阿曼",
+    "region": "亞洲",
+    "quote": "我們回到首都的時候有去他們的那個大清真寺",
+    "context": "紀念品店可議價，價格比外面便宜",
+    "image": "https://thumb.wikimedia.org/wikipedia/en/thumb/5/5b/Sultan_Qaboos_Grand_Mosque_RB.jpg/330px-Sultan_Qaboos_Grand_Mosque_RB.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "馬特拉市集",
+    "name_en": "Muttrah Souq",
+    "lat": 23.616,
+    "lon": 58.567,
+    "country": "阿曼",
+    "region": "亞洲",
+    "quote": "我們就有先去中央市場然後買好會員整套的阿福",
+    "context": "首日購買傳統服飾阿袍與帽子的市場"
+  },
+  {
+    "name": "夏布峽谷",
+    "name_en": "Wadi Shab",
+    "lat": 22.836,
+    "lon": 59.236,
+    "country": "阿曼",
+    "region": "亞洲",
+    "quote": "一個叫 wadi shop 的地方",
+    "context": "最後一站，步行四十分鐘的溯溪與瀑布景點"
   }
 ]

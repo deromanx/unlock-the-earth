@@ -2,31 +2,52 @@
   {
     "name": "聖地牙哥德孔波斯特拉大教堂",
     "name_en": "Santiago de Compostela Cathedral",
-    "lat": 42.8806,
-    "lon": -8.5447,
+    "lat": 42.881,
+    "lon": -8.544,
     "country": "西班牙",
     "region": "歐洲",
-    "quote": "反正他的終點呢就一定是那個San Diego就是那個教堂",
-    "context": "朝聖之路的固定終點，所有路線皆通往此教堂"
+    "quote": "它的終點是教堂就是聖地牙哥它主要你要說它是他的墓地也好因為裡面其實是有放他的骨骸",
+    "context": "朝聖之路終點，安放聖雅各遺骸並頒發證書"
   },
   {
     "name": "法國之路",
     "name_en": "Camino Francés",
-    "lat": 42.8,
-    "lon": -1.64,
+    "lat": 42.817,
+    "lon": -1.236,
     "country": "西班牙",
     "region": "歐洲",
-    "quote": "我選擇就是最簡單的路最簡單就是最多人然後比較偏安全的路就是法國之路",
-    "context": "講者所走的朝聖路線，全長約800公里"
+    "quote": "最簡單就是最多人然後比較偏安全的路就是法國之路",
+    "context": "講者選擇的朝聖路線，全長約800公里"
   },
   {
-    "name": "庇里牛斯山朝聖第一天路段",
-    "name_en": "Pyrenees Crossing (Napoleon Route)",
-    "lat": 43.02,
-    "lon": -1.29,
+    "name": "比利牛斯山",
+    "name_en": "Pyrenees (Camino first-day crossing)",
+    "lat": 43.009,
+    "lon": -1.318,
     "country": "法國",
     "region": "歐洲",
-    "quote": "第一天你就會經過一個非常猛大家俗稱大魔王的一個山",
-    "context": "朝聖第一天的艱難翻山路段，常讓人崩潰或失溫"
+    "quote": "你第一天就會經過一個非常猛大家俗稱大魔王的一個山",
+    "context": "朝聖第一天翻越的大魔王山，講者險遭困境"
+  },
+  {
+    "name": "北方之路",
+    "name_en": "Camino del Norte",
+    "lat": 43.32,
+    "lon": -1.985,
+    "country": "西班牙",
+    "region": "歐洲",
+    "quote": "有一條路它是叫北方之路它就是靠海的",
+    "context": "講者未來想嘗試的靠海朝聖路線"
+  },
+  {
+    "name": "舊金山",
+    "name_en": "San Francisco",
+    "lat": 37.774,
+    "lon": -122.419,
+    "country": "美國",
+    "region": "美洲",
+    "quote": "在舊金山一個地方待了三個月是自助旅行",
+    "context": "講者人生低潮時前往，三個月內蛻變",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Zeppelin-ride-020100925-195_%285029394846%29.jpg/330px-Zeppelin-ride-020100925-195_%285029394846%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]

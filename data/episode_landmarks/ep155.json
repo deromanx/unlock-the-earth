@@ -1,14 +1,14 @@
 [
   {
-    "name": "仰光",
-    "name_en": "Yangon",
-    "lat": 16.866,
-    "lon": 96.195,
+    "name": "仰光機場",
+    "name_en": "Yangon International Airport",
+    "lat": 16.907,
+    "lon": 96.133,
     "country": "緬甸",
     "region": "亞洲",
-    "quote": "仰光是緬甸第一大城",
-    "context": "作者抵達與停留的主要城市，殖民建築與多元人口",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/ShwedagonPagoda.jpg/330px-ShwedagonPagoda.jpg"
+    "quote": "我那時候一進到仰光我在等那個海關的時候因為那時候海關排了很多人",
+    "context": "作者拍vlog被警察推出隊伍盤查",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Yangon_International_Airport_MRD-2.jpg/330px-Yangon_International_Airport_MRD-2.jpg"
   },
   {
     "name": "蒲甘",
@@ -17,81 +17,111 @@
     "lon": 94.86,
     "country": "緬甸",
     "region": "亞洲",
-    "quote": "蒲甘其實不會輸吳哥窟啊",
-    "context": "世界遺產級古蹟，當年可爬佛塔且遊客稀少",
+    "quote": "即使像普甘這種超大的大型很明顯是讓世界遺跡等級的觀光客沒幾個",
+    "context": "世界遺產古蹟，王朝以建佛塔象徵國力",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bagan%2C_Burma.jpg/330px-Bagan%2C_Burma.jpg"
   },
   {
-    "name": "仰光大金塔",
-    "name_en": "Shwedagon Pagoda",
-    "lat": 16.798,
-    "lon": 96.149,
-    "country": "緬甸",
-    "region": "亞洲",
-    "quote": "大金塔它的塔頂上不是我記得他好像說有5000多顆鑽石跟紅寶石嗎",
-    "context": "信眾捐獻寶石裝飾，象徵緬甸人的信仰"
-  },
-  {
-    "name": "仰光國際機場",
-    "name_en": "Yangon International Airport",
-    "lat": 16.907,
-    "lon": 96.133,
-    "country": "緬甸",
-    "region": "亞洲",
-    "quote": "我剛抵達仰光我講話才沒講到一半我就突然有人從後面又很大力道把我從排隊人龍給推出去",
-    "context": "作者錄影遭海關警察盤查，第一印象不佳",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Yangon_International_Airport_MRD-2.jpg/330px-Yangon_International_Airport_MRD-2.jpg"
-  },
-  {
-    "name": "茵萊湖",
-    "name_en": "Inle Lake",
-    "lat": 20.54,
-    "lon": 96.9,
-    "country": "緬甸",
-    "region": "亞洲",
-    "quote": "在那個英來湖附近的旅店一住就是住了四五天",
-    "context": "作者徒步後生病，在湖區旅店休養",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Inle_Lake_%28Myanmar%29.jpg/330px-Inle_Lake_%28Myanmar%29.jpg"
-  },
-  {
-    "name": "曼德勒",
-    "name_en": "Mandalay",
-    "lat": 21.975,
-    "lon": 96.083,
-    "country": "緬甸",
-    "region": "亞洲",
-    "quote": "像我在曼德勒有一個地方叫做那個馬哈加納陽神院",
-    "context": "千人僧侶用餐的佛學院所在地",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Mandalay%2C_Myanmar.jpg/330px-Mandalay%2C_Myanmar.jpg"
-  },
-  {
-    "name": "馬哈伽納揚僧院",
-    "name_en": "Maha Gandayon Monastery",
-    "lat": 21.943,
-    "lon": 96.06,
-    "country": "緬甸",
-    "region": "亞洲",
-    "quote": "他很著名的就是這個景象叫做千人僧飯嘛",
-    "context": "佛學院，千名僧侶排隊用餐的著名景象"
-  },
-  {
-    "name": "蘇雷塔",
-    "name_en": "Sule Pagoda",
+    "name": "仰光市中心公園與蘇雷塔",
+    "name_en": "Sule Pagoda and Maha Bandula Park",
     "lat": 16.7745,
     "lon": 96.1585,
     "country": "緬甸",
     "region": "亞洲",
-    "quote": "就是那個蘇雷塔附近的公園",
-    "context": "仰光市中心周圍盡是英式殖民建築與政府機關"
+    "quote": "你從那個市中心的公園去那個蘇雷塔附近的公園哇你這樣 360 度看一圈全部都是英式建築都是政府機關",
+    "context": "周圍滿是英式殖民建築與政府機關"
+  },
+  {
+    "name": "仰光環狀鐵路",
+    "name_en": "Yangon Circular Railway",
+    "lat": 16.794,
+    "lon": 96.16,
+    "country": "緬甸",
+    "region": "亞洲",
+    "quote": "我那時候搭火車搭仰光環狀鐵路一整趟下來好像 10 塊臺幣吧",
+    "context": "便宜的環城火車，沿線可見小販與貧民窟"
+  },
+  {
+    "name": "仰光華人會館",
+    "name_en": "Chinese Clan Association Hall, Yangon",
+    "lat": 16.779,
+    "lon": 96.156,
+    "country": "緬甸",
+    "region": "亞洲",
+    "quote": "我記得是什麼福建海廣東會館我忘了然後我那時候就是進去看一下",
+    "context": "拜訪緬甸華人會館並聽老先生講述華人處境"
+  },
+  {
+    "name": "華新街（緬甸街）",
+    "name_en": "Huaxin Street (Burmese Street), Zhonghe",
+    "lat": 24.9955,
+    "lon": 121.486,
+    "country": "臺灣",
+    "region": "台灣",
+    "quote": "我之前在那個華新街喝奶茶的時候然後我那時候就跟一個隔壁桌的阿姨聊天",
+    "context": "緬甸華人聚居地，與緬甸移民歷史相連"
+  },
+  {
+    "name": "仰光郊區貧民窟",
+    "name_en": "Yangon Outskirts Slum",
+    "lat": 16.84,
+    "lon": 96.19,
+    "country": "緬甸",
+    "region": "亞洲",
+    "quote": "在仰光我有看到一個貧民窟它是在你說城市外面",
+    "context": "環狀鐵路沿線所見的強烈貧富對比"
+  },
+  {
+    "name": "格勞",
+    "name_en": "Kalaw",
+    "lat": 20.633,
+    "lon": 96.564,
+    "country": "緬甸",
+    "region": "亞洲",
+    "quote": "我那時候仰光的下一站我是到一個叫 Kalau 的城市",
+    "context": "撣邦徒步起點，少數民族文化",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Kalaw_21.jpg/330px-Kalaw_21.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "茵萊湖",
+    "name_en": "Inle Lake",
+    "lat": 20.55,
+    "lon": 96.9,
+    "country": "緬甸",
+    "region": "亞洲",
+    "quote": "因為那個拉肚子讓我在那個英乃湖附近的旅店一住就是住了四五天",
+    "context": "徒步生病後下山休養之地",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Inle_Lake_%28Myanmar%29.jpg/330px-Inle_Lake_%28Myanmar%29.jpg"
+  },
+  {
+    "name": "瑞大金塔",
+    "name_en": "Shwedagon Pagoda",
+    "lat": 16.7983,
+    "lon": 96.1497,
+    "country": "緬甸",
+    "region": "亞洲",
+    "quote": "像大金塔它的塔頂上不是我記得它好像說有五千多顆鑽石跟紅寶石",
+    "context": "以鑽石寶石裝飾，體現信眾虔誠"
+  },
+  {
+    "name": "馬哈伽納央僧院",
+    "name_en": "Mahagandayon Monastery",
+    "lat": 21.9,
+    "lon": 96.077,
+    "country": "緬甸",
+    "region": "亞洲",
+    "quote": "像我在曼德勒有一個地方叫做馬哈加納養生院它是一個佛學院",
+    "context": "千人僧飯景象，過午不食文化",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Mahagandhayon_Monastery%2C_Amarapura%2C_Mandalay%2C_Myanmar_-_20141207-09.JPG/330px-Mahagandhayon_Monastery%2C_Amarapura%2C_Mandalay%2C_Myanmar_-_20141207-09.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "自由廣場",
-    "name_en": "Liberty Square (Zhonghe)",
-    "lat": 24.9972,
-    "lon": 121.4864,
+    "name_en": "Liberty Square, Zhonghe",
+    "lat": 24.9995,
+    "lon": 121.485,
     "country": "臺灣",
     "region": "台灣",
-    "quote": "還是有在比如像在自由廣場或是在緬甸街上有去做遊行",
-    "context": "臺灣緬甸僑民聲援政變抗爭的集會地點"
+    "quote": "還是有在比如像在自由廣場或是在緬甸街上有去做遊行或是一些一些聲援造勢的活動",
+    "context": "臺灣緬甸社群聲援政變抗議集會地點"
   }
 ]

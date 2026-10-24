@@ -1,42 +1,62 @@
 [
   {
-    "name": "臺北流行音樂中心",
-    "name_en": "Taipei Music Center",
-    "lat": 25.0526,
-    "lon": 121.5993,
-    "country": "臺灣",
-    "region": "台灣",
-    "quote": "地點在臺北流行音樂中心",
-    "context": "Hans Zimmer 音樂會舉辦地點"
-  },
-  {
-    "name": "烏蘭巴托",
-    "name_en": "Ulaanbaatar",
-    "lat": 47.8864,
-    "lon": 106.9057,
-    "country": "蒙古",
-    "region": "亞洲",
-    "quote": "有去過蒙古國烏蘭巴托",
-    "context": "來賓高中時當志工並學馬頭琴的地方"
-  },
-  {
-    "name": "克孜勒",
-    "name_en": "Kyzyl",
-    "lat": 51.7191,
-    "lon": 94.4378,
+    "name": "土瓦共和國",
+    "name_en": "Tuva Republic (Kyzyl area)",
+    "lat": 51.719,
+    "lon": 94.438,
     "country": "俄羅斯",
     "region": "亞洲",
-    "quote": "對對在首都克斯蘭",
-    "context": "圖瓦首都，旅程停留與國慶活動所在地"
+    "quote": "我的畢業旅行的下一站就是土瓦共和國",
+    "context": "本集主軸，薩滿、呼麥與國慶見聞"
   },
   {
     "name": "亞洲中心紀念碑",
     "name_en": "Center of Asia Monument",
-    "lat": 51.7167,
-    "lon": 94.4333,
+    "lat": 51.714,
+    "lon": 94.453,
     "country": "俄羅斯",
     "region": "亞洲",
-    "quote": "看就叫做Central of Asia",
-    "context": "克孜勒市中心標示亞洲地理中心的金鹿角建築"
+    "quote": "打開 Maps me 看就知道說 center of asia",
+    "context": "克孜勒市區標示亞洲地理中心的金鹿角建築"
+  },
+  {
+    "name": "克孜勒",
+    "name_en": "Kyzyl",
+    "lat": 51.719,
+    "lon": 94.438,
+    "country": "俄羅斯",
+    "region": "亞洲",
+    "quote": "對在首都克斯勒",
+    "context": "土瓦首都，作者停留與參加國慶之處"
+  },
+  {
+    "name": "貝加爾湖",
+    "name_en": "Lake Baikal",
+    "lat": 53.559,
+    "lon": 108.165,
+    "country": "俄羅斯",
+    "region": "亞洲",
+    "quote": "我後來就下一站就去到貝加爾湖",
+    "context": "土瓦之後的下一站，夏日湖浪與海豹"
+  },
+  {
+    "name": "烏蘭烏德",
+    "name_en": "Ulan-Ude",
+    "lat": 51.834,
+    "lon": 107.584,
+    "country": "俄羅斯",
+    "region": "亞洲",
+    "quote": "烏蘭烏德就是貝加爾湖的所在城市的首府",
+    "context": "布里亞特首府，蒙古拉力賽終點之一"
+  },
+  {
+    "name": "烏蘭巴托",
+    "name_en": "Ulaanbaatar",
+    "lat": 47.919,
+    "lon": 106.917,
+    "country": "蒙古國",
+    "region": "亞洲",
+    "quote": "有去過蒙古國烏蘭巴托當英文老師",
+    "context": "作者高中當志工並學馬頭琴之處"
   }
 ]

@@ -1,13 +1,13 @@
 [
   {
-    "name": "苦舊村",
-    "name_en": "Kujiu Village (East Java, approximate location)",
-    "lat": -7.98,
-    "lon": 112.63,
-    "country": "印尼",
+    "name": "瑯勃拉邦",
+    "name_en": "Luang Prabang",
+    "lat": 19.8856,
+    "lon": 102.1347,
+    "country": "寮國",
     "region": "亞洲",
-    "quote": "那個村莊叫苦舊村",
-    "context": "從未有外國人到訪的村莊，進行寄宿體驗與社區交流"
+    "quote": "比如說寮國龍坡邦我們就會有一個下午的走讀",
+    "context": "隨行旅人帶領下午走讀的例子"
   },
   {
     "name": "瑪琅",
@@ -16,18 +16,29 @@
     "lon": 112.6326,
     "country": "印尼",
     "region": "亞洲",
-    "quote": "然後我們再回到了那個城市的馬浪",
-    "context": "爬完火山後回到的城市，也是前往村莊的據點",
+    "quote": "我們再回到了那個城市那個城市叫馬浪",
+    "context": "爪哇行程中遇到大學老師、前往村莊的據點",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Tugu_Malang.jpg/330px-Tugu_Malang.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "琅勃拉邦",
-    "name_en": "Luang Prabang",
-    "lat": 19.8856,
-    "lon": 102.1347,
-    "country": "寮國",
+    "name": "苦柱村",
+    "name_en": "Kukuh Village (Java, near Malang)",
+    "lat": -8.05,
+    "lon": 112.7,
+    "country": "印尼",
     "region": "亞洲",
-    "quote": "比如說遼國龍泊幫我們就會有一個下午的走讀",
-    "context": "舉例隨行旅人需帶領的城市走讀行程"
+    "quote": "然後老師就帶著我們去到其中一個村莊那個村莊叫苦柱村",
+    "context": "爪哇偏鄉村莊，寄宿家庭與宗教晚會的核心地點"
+  },
+  {
+    "name": "馬祖",
+    "name_en": "Matsu (Lienchiang)",
+    "lat": 26.1602,
+    "lon": 119.951,
+    "country": "臺灣",
+    "region": "台灣",
+    "quote": "我就獨享了一整片青壁跟那一整片海",
+    "context": "作者疫情低潮時前往沉澱，後成明星國內團",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/%E9%A6%AC%E7%A5%96%E4%B9%8B%E5%8A%8D.JPG/330px-%E9%A6%AC%E7%A5%96%E4%B9%8B%E5%8A%8D.JPG?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]

@@ -6,8 +6,78 @@
     "lon": 139.669,
     "country": "日本",
     "region": "亞洲",
-    "quote": "我很喜歡跑去像自由之丘",
-    "context": "東京人週末買雜貨小物、逛甜點咖啡的高級住宅區"
+    "quote": "自由之丘賣這種小物的雜貨店是一條街",
+    "context": "雜貨小物與甜點咖啡廳聚集的城南高級住宅區"
+  },
+  {
+    "name": "本鄉",
+    "name_en": "Hongo",
+    "lat": 35.713,
+    "lon": 139.762,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "它叫文京區，文就是文學的文，京就是京都的京",
+    "context": "東大周邊文京區，文人與吃茶店的學術街區"
+  },
+  {
+    "name": "東京大學",
+    "name_en": "University of Tokyo",
+    "lat": 35.713,
+    "lon": 139.762,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "以本鄉來說它環繞的東大這校區",
+    "context": "主持人曾交換留學，校園格局像臺大"
+  },
+  {
+    "name": "倉島神社",
+    "name_en": "Yushima Tenman-gu",
+    "lat": 35.708,
+    "lon": 139.769,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "據說所有考上東大的人都一定要去那個神社",
+    "context": "祈求考試順利的天神，繪馬眾多"
+  },
+  {
+    "name": "雜司谷",
+    "name_en": "Zoshigaya",
+    "lat": 35.718,
+    "lon": 139.714,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "那邊的感覺就很像停在三四十年前",
+    "context": "副都心線新設站，保留昭和懷舊風情的住宅區"
+  },
+  {
+    "name": "三軒茶屋",
+    "name_en": "Sangenjaya",
+    "lat": 35.644,
+    "lon": 139.67,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "三軒茶屋這一個詞它以前真的是三間茶屋在那裡",
+    "context": "新舊並存、村上春樹《1Q84》場景、新鮮人落腳處"
+  },
+  {
+    "name": "世田谷公園",
+    "name_en": "Setagaya Park",
+    "lat": 35.644,
+    "lon": 139.658,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "我也介紹了它一個很大的四田穀公園",
+    "context": "三軒茶屋居民生活所倚的大公園"
+  },
+  {
+    "name": "日本橋",
+    "name_en": "Nihonbashi",
+    "lat": 35.684,
+    "lon": 139.774,
+    "country": "日本",
+    "region": "亞洲",
+    "quote": "日本橋為什麼是日本橋",
+    "context": "銀行與證交所重鎮，老舖林立，舊銀行改建咖啡廳"
   },
   {
     "name": "高圓寺",
@@ -17,67 +87,28 @@
     "country": "日本",
     "region": "亞洲",
     "quote": "我自己去高原市有的時候想要去看看古著",
-    "context": "古著一條街與吃茶店林立的街區"
+    "context": "古著一條街，每家店風格強烈"
   },
   {
-    "name": "日本橋",
-    "name_en": "Nihonbashi",
-    "lat": 35.684,
-    "lon": 139.774,
+    "name": "港區",
+    "name_en": "Minato",
+    "lat": 35.658,
+    "lon": 139.751,
     "country": "日本",
     "region": "亞洲",
-    "quote": "日本橋為什麼是日本橋它到底二次接待之後怎麼發展起來的",
-    "context": "昔日金融重鎮，老鋪林立，銀行改建咖啡廳"
+    "quote": "像港區那邊什麼三代的那種很多喔",
+    "context": "東京頂級富人區，講究三代血統"
   },
   {
-    "name": "本鄉",
-    "name_en": "Hongo",
-    "lat": 35.708,
-    "lon": 139.76,
-    "country": "日本",
-    "region": "亞洲",
-    "quote": "東大旁邊的本鄉",
-    "context": "東京大學周邊文人區，有吃茶店與老鋪"
-  },
-  {
-    "name": "東京大學",
-    "name_en": "University of Tokyo",
-    "lat": 35.713,
-    "lon": 139.762,
-    "country": "日本",
-    "region": "亞洲",
-    "quote": "我在東大交換學生的時候",
-    "context": "本鄉區核心，作者交換學生地，格局似臺大"
-  },
-  {
-    "name": "湯島天神",
-    "name_en": "Yushima Tenjin",
-    "lat": 35.708,
-    "lon": 139.769,
-    "country": "日本",
-    "region": "亞洲",
-    "quote": "那個神社叫湯島神社",
-    "context": "考生祈求金榜題名的學問之神神社"
-  },
-  {
-    "name": "雜司谷",
-    "name_en": "Zoshigaya",
-    "lat": 35.717,
-    "lon": 139.714,
-    "country": "日本",
-    "region": "亞洲",
-    "quote": "雜絲谷應該很少人聽過",
-    "context": "保留懷舊昭和氛圍的住宅區，有老糖果店"
-  },
-  {
-    "name": "新宿",
-    "name_en": "Shinjuku",
+    "name": "新宿站",
+    "name_en": "Shinjuku Station",
     "lat": 35.69,
     "lon": 139.7,
     "country": "日本",
     "region": "亞洲",
-    "quote": "左邊西邊有一個新速車站",
-    "context": "山手線西側主要車站，作者居住生活圈"
+    "quote": "我自己是以新宿當作主要的車站",
+    "context": "主持人生活圈核心，西側主要車站",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/JRE_Shinjuku-STA_South.jpg/330px-JRE_Shinjuku-STA_South.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "東京車站",
@@ -87,7 +118,7 @@
     "country": "日本",
     "region": "亞洲",
     "quote": "東邊有一個東京車站",
-    "context": "山手線東側，與新宿相距十七分鐘",
+    "context": "與新宿相距17分鐘，說明東京之大",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Tokyo-STA_Marunouchi-Entrance_2023.jpg/330px-Tokyo-STA_Marunouchi-Entrance_2023.jpg"
   },
   {
@@ -97,19 +128,20 @@
     "lon": 139.777,
     "country": "日本",
     "region": "亞洲",
-    "quote": "我說上野有點遠",
-    "context": "東京東側居民的主要車站",
+    "quote": "朋友來一到那邊就說那我在上野我們約個吃飯",
+    "context": "東邊居民的主要車站",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Ueno_park.jpg/330px-Ueno_park.jpg"
   },
   {
-    "name": "港區",
-    "name_en": "Minato",
-    "lat": 35.658,
-    "lon": 139.752,
+    "name": "東京鐵塔",
+    "name_en": "Tokyo Tower",
+    "lat": 35.659,
+    "lon": 139.745,
     "country": "日本",
     "region": "亞洲",
-    "quote": "像港區那邊什麼三代的那種",
-    "context": "講究三代的東京高級區，被比作天龍人"
+    "quote": "我很喜歡拍東京鐵塔",
+    "context": "書中專章收錄各角度與季節點燈",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Tokyo_Tower_2023.jpg/330px-Tokyo_Tower_2023.jpg"
   },
   {
     "name": "陽明山",
@@ -118,8 +150,8 @@
     "lon": 121.549,
     "country": "臺灣",
     "region": "台灣",
-    "quote": "陽明山就是臺北人的臺北",
-    "context": "以臺北人的臺北為例，臺北人的假日踏青地",
+    "quote": "觀光客要在第一次來就去陽明山幾乎不可能",
+    "context": "以臺北人的臺北作比喻",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Mount_Qixing_under_clear_sky_on_13th_February_2016.jpg/330px-Mount_Qixing_under_clear_sky_on_13th_February_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
@@ -130,18 +162,7 @@
     "country": "臺灣",
     "region": "台灣",
     "quote": "我可能會帶他去公館走走",
-    "context": "臺北人的臺北代表街區"
-  },
-  {
-    "name": "古亭站",
-    "name_en": "Guting Station",
-    "lat": 25.026,
-    "lon": 121.523,
-    "country": "臺灣",
-    "region": "台灣",
-    "quote": "我可能會帶他去古亭站那邊找個酒吧喝酒",
-    "context": "在地人喝酒的區域",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Cross-platform_transfer_at_Guting_station_April_2026.jpg/330px-Cross-platform_transfer_at_Guting_station_April_2026.jpg"
+    "context": "臺北人的臺北之例"
   },
   {
     "name": "臨江街夜市",
@@ -155,24 +176,24 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Linjiang_Street_Night_Market.jpg/330px-Linjiang_Street_Night_Market.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "桶狹間",
-    "name_en": "Okehazama",
-    "lat": 35.062,
-    "lon": 136.994,
-    "country": "日本",
-    "region": "亞洲",
-    "quote": "金川義元最著名的就是在統霞間",
-    "context": "今川義元被織田信長擊敗之戰場"
+    "name": "古亭站",
+    "name_en": "Guting Station",
+    "lat": 25.026,
+    "lon": 121.523,
+    "country": "臺灣",
+    "region": "台灣",
+    "quote": "我可能會帶她去古亭站那邊找個酒吧喝酒",
+    "context": "在地人喝酒之處",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Cross-platform_transfer_at_Guting_station_April_2026.jpg/330px-Cross-platform_transfer_at_Guting_station_April_2026.jpg"
   },
   {
-    "name": "駿府城",
-    "name_en": "Sunpu Castle",
-    "lat": 34.977,
-    "lon": 138.384,
-    "country": "日本",
-    "region": "亞洲",
-    "quote": "有個叫郡府城的地方",
-    "context": "今川義元的領地，逆行路線終點",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Sunpu-castle_tatsumi-yagura.JPG/330px-Sunpu-castle_tatsumi-yagura.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    "name": "北投",
+    "name_en": "Beitou",
+    "lat": 25.137,
+    "lon": 121.499,
+    "country": "臺灣",
+    "region": "台灣",
+    "quote": "你也比較少看到觀光客會去北投",
+    "context": "臺北人的臺北例子"
   }
 ]

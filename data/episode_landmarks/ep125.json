@@ -2,23 +2,23 @@
   {
     "name": "托木斯克",
     "name_en": "Tomsk",
-    "lat": 56.488,
+    "lat": 56.485,
     "lon": 84.948,
     "country": "俄羅斯",
     "region": "亞洲",
-    "quote": "我是在托穆斯克是在西伯利亞州的一個小城鎮",
-    "context": "主持來賓留學與工作多年的西伯利亞學術小城",
+    "quote": "我是在托木斯克是在西伯利亞州的一個小城鎮",
+    "context": "來賓求學與工作多年的西伯利亞學術小城",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Tomsk0293.JPG/330px-Tomsk0293.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "新西伯利亞",
-    "name_en": "Novosibirsk",
-    "lat": 55.008,
-    "lon": 82.935,
+    "name": "貝加爾湖",
+    "name_en": "Lake Baikal",
+    "lat": 53.559,
+    "lon": 108.165,
     "country": "俄羅斯",
     "region": "亞洲",
-    "quote": "其實是新西伯利亞市",
-    "context": "西伯利亞最大城市，抵達托木斯克的轉機點"
+    "quote": "貝加爾湖我倒是非常推薦大家可以去看看",
+    "context": "冬季結冰可開車行駛，景緻冷冽，觀光客眾多"
   },
   {
     "name": "莫斯科",
@@ -28,7 +28,7 @@
     "country": "俄羅斯",
     "region": "歐洲",
     "quote": "莫斯科真的是一個商業氣息比較濃厚的城市",
-    "context": "與西伯利亞對比的商業首都，來賓曾在此求學工作",
+    "context": "來賓讀碩士與工作之處，與西伯利亞對比",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Saint_Basil%27s_Cathedral_and_the_Red_Square.jpg/330px-Saint_Basil%27s_Cathedral_and_the_Red_Square.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
@@ -38,28 +38,27 @@
     "lon": 30.336,
     "country": "俄羅斯",
     "region": "歐洲",
-    "quote": "聖比德堡就是真的比較relax就是觀光的城市",
-    "context": "來賓待過半年，氛圍輕鬆國際化的觀光城市"
+    "quote": "那聖彼得堡就是比較 relax 就是觀光的城市",
+    "context": "靠海近芬蘭，氛圍輕鬆國際化的觀光城市"
   },
   {
-    "name": "葉卡捷琳堡",
-    "name_en": "Yekaterinburg",
-    "lat": 56.838,
-    "lon": 60.605,
+    "name": "新西伯利亞",
+    "name_en": "Novosibirsk",
+    "lat": 55.008,
+    "lon": 82.935,
     "country": "俄羅斯",
     "region": "亞洲",
-    "quote": "葉卡傑林堡也算是大城市了",
-    "context": "俄羅斯第三大城，朋友曾交換留學之處",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/E-burg_asv2019-05_img46_view_from_VysotSky.jpg/330px-E-burg_asv2019-05_img46_view_from_VysotSky.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    "quote": "西伯利亞的大城市其實是新西伯利亞市",
+    "context": "西伯利亞大城，距托木斯克約四小時車程，有肯德基"
   },
   {
-    "name": "堪察加半島",
-    "name_en": "Kamchatka Peninsula",
-    "lat": 56.0,
-    "lon": 160.0,
+    "name": "托木斯克無線電子系統與無線電工程大學",
+    "name_en": "Tomsk State University of Control Systems and Radioelectronics",
+    "lat": 56.469,
+    "lon": 84.954,
     "country": "俄羅斯",
     "region": "亞洲",
-    "quote": "東邊的話就是勘察加半島",
-    "context": "歷史課本常見的遠東地區，朋友曾旅行"
+    "quote": "我們學校它就是無線電子系統工資大學",
+    "context": "以無線電技術聞名，每年無線電日砸舊電器"
   }
 ]

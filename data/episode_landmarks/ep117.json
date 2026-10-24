@@ -1,53 +1,63 @@
 [
   {
-    "name": "冬街酒吧街",
-    "name_en": "Untere Straße (Winter Strasse), Heidelberg",
-    "lat": 49.4117,
-    "lon": 8.7086,
-    "country": "德國",
-    "region": "歐洲",
-    "quote": "Winter Strasse就是在海德堡的一個酒吧街",
-    "context": "主持人住所所在的海德堡酒吧街，夜間喧鬧，常有人聚會開趴"
-  },
-  {
     "name": "海德堡",
     "name_en": "Heidelberg",
     "lat": 49.3988,
     "lon": 8.6724,
     "country": "德國",
     "region": "歐洲",
-    "quote": "最後才又搬回了海德堡這附近",
-    "context": "來賓居住多年的城市，氣候溫暖、冬季陰暗",
+    "quote": "海德堡的確是一個漂亮舒服的小鎮",
+    "context": "來賓定居的大學小城，節目背景，氣候與景色受讚賞",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/K%C3%B6nigstuhl%2C_Heidelberg%2C_U-17.jpg/330px-K%C3%B6nigstuhl%2C_Heidelberg%2C_U-17.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "科隆中央車站",
-    "name_en": "Köln Hauptbahnhof",
-    "lat": 50.9432,
-    "lon": 6.9589,
+    "name": "下街（酒吧街）",
+    "name_en": "Untere Straße",
+    "lat": 49.4107,
+    "lon": 8.7085,
     "country": "德國",
     "region": "歐洲",
-    "quote": "沒想到要開進科隆火車站的時候",
-    "context": "分享德鐵誤點經歷，列車在此被卡了一個半小時"
-  },
-  {
-    "name": "黑森林",
-    "name_en": "Black Forest",
-    "lat": 48.0,
-    "lon": 8.2,
-    "country": "德國",
-    "region": "歐洲",
-    "quote": "我們去黑森林好了",
-    "context": "以黑森林雪地為例說明越野滑雪的玩法"
+    "quote": "winter's tussle 就是在海賊堡的一個酒吧街",
+    "context": "海德堡舊城酒吧街，夜晚喧鬧，主持人曾住在此"
   },
   {
     "name": "內卡河",
     "name_en": "Neckar River",
-    "lat": 49.4108,
-    "lon": 8.7015,
+    "lat": 49.412,
+    "lon": 8.7,
     "country": "德國",
     "region": "歐洲",
-    "quote": "因為這邊不是那個NECA就是一條河嗎",
-    "context": "流經海德堡，夏天水上活動豐富"
+    "quote": "海賊王因為這邊不是那個 neca 就是一條河嗎",
+    "context": "流經海德堡的河，夏季水上活動很多"
+  },
+  {
+    "name": "黑森林",
+    "name_en": "Black Forest",
+    "lat": 48.2,
+    "lon": 8.2,
+    "country": "德國",
+    "region": "歐洲",
+    "quote": "越野滑雪其實就是你可以把它想像我們去黑森林好了",
+    "context": "以越野滑雪為例，說明冬季戶外活動"
+  },
+  {
+    "name": "科隆中央車站",
+    "name_en": "Köln Hauptbahnhof",
+    "lat": 50.943,
+    "lon": 6.9588,
+    "country": "德國",
+    "region": "歐洲",
+    "quote": "結果沒想到要開進科隆火車站的時候呢",
+    "context": "列車因前方故障與越軌事件被困一個半小時"
+  },
+  {
+    "name": "臺北駐慕尼黑經濟文化辦事處",
+    "name_en": "Taipei Economic and Cultural Office in Munich",
+    "lat": 48.1496,
+    "lon": 11.6155,
+    "country": "德國",
+    "region": "歐洲",
+    "quote": "我就打電話去給慕尼黑的德國辦事處問說",
+    "context": "以停留簽證辦理僅需3到5天對比德國行政效率"
   }
 ]

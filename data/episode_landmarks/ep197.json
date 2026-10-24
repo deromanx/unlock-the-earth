@@ -6,29 +6,87 @@
     "lon": 49.867,
     "country": "亞塞拜然",
     "region": "亞洲",
-    "quote": "八庫也是其中一個城市",
-    "context": "亞塞拜然首都，舉辦F1與歐洲杯賽事，經濟富裕"
+    "quote": "它的首都其實就是巴庫",
+    "context": "亞塞拜然首都，作者入境與停留的主要城市"
   },
   {
-    "name": "提比里斯",
-    "name_en": "Tbilisi",
-    "lat": 41.716,
-    "lon": 44.783,
-    "country": "喬治亞",
-    "region": "亞洲",
-    "quote": "我剛入境我還看到就是welcome to tbilis",
-    "context": "主持人在此機場遭遣返的經歷",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/View_of_Tbilisi_from_Tabori_Church_2023-10-08-2.jpg/330px-View_of_Tbilisi_from_Tabori_Church_2023-10-08-2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "納戈爾諾-卡拉巴赫",
-    "name_en": "Nagorno-Karabakh",
-    "lat": 39.815,
-    "lon": 46.752,
+    "name": "巴庫老城",
+    "name_en": "Icherisheher (Baku Old City)",
+    "lat": 40.366,
+    "lon": 49.837,
     "country": "亞塞拜然",
     "region": "亞洲",
-    "quote": "亞賽拜仁跟亞美尼亞這個爭議區域",
-    "context": "亞美尼亞與亞塞拜然爭議地區，納卡戰爭",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Location_Nagorno-Karabakh2.png/330px-Location_Nagorno-Karabakh2.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    "quote": "其實巴庫本身就是一個世界文化遺產",
+    "context": "世界遺產老城，內有皇宮與少女塔"
+  },
+  {
+    "name": "少女塔",
+    "name_en": "Maiden Tower",
+    "lat": 40.366,
+    "lon": 49.837,
+    "country": "亞塞拜然",
+    "region": "亞洲",
+    "quote": "它有一個皇宮跟一個少女塔",
+    "context": "巴庫老城中古世紀城堡般的塔樓"
+  },
+  {
+    "name": "火焰塔",
+    "name_en": "Flame Towers",
+    "lat": 40.36,
+    "lon": 49.826,
+    "country": "亞塞拜然",
+    "region": "亞洲",
+    "quote": "它最有名的其實就是火焰塔",
+    "context": "巴庫著名三棟火焰造型高樓，內為商辦"
+  },
+  {
+    "name": "戈布斯坦岩石藝術保護區",
+    "name_en": "Gobustan Rock Art Cultural Landscape",
+    "lat": 40.109,
+    "lon": 49.381,
+    "country": "亞塞拜然",
+    "region": "亞洲",
+    "quote": "叫做那個哥布斯岩石歷史園區",
+    "context": "石器時代壁畫的世界遺產，作者主要目的地"
+  },
+  {
+    "name": "戈布斯坦泥火山",
+    "name_en": "Gobustan Mud Volcanoes",
+    "lat": 40.268,
+    "lon": 49.425,
+    "country": "亞塞拜然",
+    "region": "亞洲",
+    "quote": "在歷史遠遠區旁邊還有一個泥火山",
+    "context": "泥漿不斷噴發的奇特景觀"
+  },
+  {
+    "name": "燃燒山",
+    "name_en": "Yanar Dag",
+    "lat": 40.595,
+    "lon": 49.962,
+    "country": "亞塞拜然",
+    "region": "亞洲",
+    "quote": "它叫 yana gada 就是它就是一團火",
+    "context": "巴庫近郊持續燃燒的火山，被比喻為迷你地獄之門"
+  },
+  {
+    "name": "第比利斯機場",
+    "name_en": "Tbilisi International Airport",
+    "lat": 41.669,
+    "lon": 44.955,
+    "country": "喬治亞",
+    "region": "亞洲",
+    "quote": "我就到了提比里斯",
+    "context": "作者在此被拒絕入境並遭遣返"
+  },
+  {
+    "name": "巴庫喬治亞大使館",
+    "name_en": "Embassy of Georgia in Baku",
+    "lat": 40.375,
+    "lon": 49.848,
+    "country": "亞塞拜然",
+    "region": "亞洲",
+    "quote": "你去那個巴庫的喬治亞大使館",
+    "context": "遣返後作者前往詢問入境可行性"
   }
 ]

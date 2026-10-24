@@ -1,32 +1,216 @@
 [
   {
-    "name": "藍色清真寺",
-    "name_en": "Blue Mosque (Sultanahmet Mosque)",
-    "lat": 41.0054,
-    "lon": 28.9768,
-    "country": "土耳其",
-    "region": "亞洲",
-    "quote": "你不可能住在藍色清真寺旁邊每天吧",
-    "context": "觀光客印象中的土耳其美景，對比當地居民的真實生活"
-  },
-  {
     "name": "塔克西姆廣場",
     "name_en": "Taksim Square",
     "lat": 41.037,
     "lon": 28.985,
     "country": "土耳其",
     "region": "亞洲",
-    "quote": "你去Taxim的話那邊又是一個遊行熱區",
-    "context": "伊斯坦堡的遊行熱區與領事館聚集地，常見武裝警察"
+    "quote": "你一定一定會去的區域叫做 Taksim",
+    "context": "伊斯坦堡的遊行熱區與領事館聚集地，有如西門町"
   },
   {
     "name": "獨立大道",
-    "name_en": "İstiklal Avenue",
+    "name_en": "Istiklal Avenue",
     "lat": 41.034,
-    "lon": 28.978,
+    "lon": 28.977,
     "country": "土耳其",
     "region": "亞洲",
-    "quote": "往那個獨立大道上面的地方走的一些小區域",
-    "context": "塔克西姆廣場延伸的步行大道，長期擺放柵欄"
+    "quote": "一直長期擺在 Taksim 的廣場跟往那個獨立大道上面的地方走的一些小區域",
+    "context": "塔克西姆延伸的步行大街，常駐警方柵欄",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Istiklal_Avenue_in_Istanbul_-_Turkey.jpg/330px-Istiklal_Avenue_in_Istanbul_-_Turkey.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "藍色清真寺",
+    "name_en": "Blue Mosque (Sultanahmet Mosque)",
+    "lat": 41.006,
+    "lon": 28.977,
+    "country": "土耳其",
+    "region": "亞洲",
+    "quote": "你不可能住在藍色清真寺旁邊每天吧",
+    "context": "老城區著名觀光景點，以觀光客眾多為例"
+  },
+  {
+    "name": "法提赫區",
+    "name_en": "Fatih",
+    "lat": 41.019,
+    "lon": 28.939,
+    "country": "土耳其",
+    "region": "亞洲",
+    "quote": "其實老城區那一區我們叫 Fatih Fatih 很大",
+    "context": "老城區，治安較差，扒手搶劫與換錢尾隨較多"
+  },
+  {
+    "name": "博斯普魯斯海峽",
+    "name_en": "Bosphorus Strait",
+    "lat": 41.085,
+    "lon": 29.055,
+    "country": "土耳其",
+    "region": "亞洲",
+    "quote": "去逛波斯布魯斯海峽那是一個噱頭啦",
+    "context": "遊船行程，票價約15里拉，並遇到排外辱罵",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Turkish_Strait_disambig.svg/330px-Turkish_Strait_disambig.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "海峽大學",
+    "name_en": "Boğaziçi University",
+    "lat": 41.085,
+    "lon": 29.051,
+    "country": "土耳其",
+    "region": "亞洲",
+    "quote": "他直接指派了一個海峽大學在伊斯坦堡",
+    "context": "空降校長事件引發師生抗議"
+  },
+  {
+    "name": "卡拉廓伊",
+    "name_en": "Karaköy",
+    "lat": 41.023,
+    "lon": 28.977,
+    "country": "土耳其",
+    "region": "亞洲",
+    "quote": "特別在卡拉QE那個地區跟 Taksim 有一些些",
+    "context": "阿拉伯人整形後逛街的區域，鄰近塔克西姆"
+  },
+  {
+    "name": "以弗所古城",
+    "name_en": "Ephesus",
+    "lat": 37.939,
+    "lon": 27.341,
+    "country": "土耳其",
+    "region": "亞洲",
+    "quote": "他們有一個很有名很有名的叫 Ephesus",
+    "context": "伊茲密爾附近的古羅馬大城，推薦前往"
+  },
+  {
+    "name": "聖母瑪利亞之家",
+    "name_en": "House of the Virgin Mary",
+    "lat": 37.913,
+    "lon": 27.333,
+    "country": "土耳其",
+    "region": "亞洲",
+    "quote": "聽說聖母瑪利亞在臨終之前是住在那個小屋裡面的",
+    "context": "以弗所附近的朝聖小屋",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/House_of_the_Virgin_Mary_%2813951299641%29_%28cropped%29.jpg/330px-House_of_the_Virgin_Mary_%2813951299641%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "伊茲密爾",
+    "name_en": "Izmir",
+    "lat": 38.423,
+    "lon": 27.143,
+    "country": "土耳其",
+    "region": "亞洲",
+    "quote": "Izmir 是一個很風氣很自由開放的城市",
+    "context": "土耳其第三大城，愛琴海畔，風氣自由",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Cumhuriyet_Square.jpg/330px-Cumhuriyet_Square.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "安塔利亞",
+    "name_en": "Antalya",
+    "lat": 36.897,
+    "lon": 30.713,
+    "country": "土耳其",
+    "region": "亞洲",
+    "quote": "Antalya 也是一個很 cool 的地方他們可以出海",
+    "context": "地中海城市，海盜船出海行程，夏季酷熱",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Falezlerden_Antalya_Konyaalt%C4%B1_Plaj%C4%B1na_do%C4%9Fru_bir_g%C3%B6r%C3%BCn%C3%BCm.jpg/330px-Falezlerden_Antalya_Konyaalt%C4%B1_Plaj%C4%B1na_do%C4%9Fru_bir_g%C3%B6r%C3%BCn%C3%BCm.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "阿達納",
+    "name_en": "Adana",
+    "lat": 37.0,
+    "lon": 35.321,
+    "country": "土耳其",
+    "region": "亞洲",
+    "quote": "他們 adana 跟 gaziantep 的烤肉真的就是從他們那邊來的",
+    "context": "烤肉發源地，Adana Kebab 命名由來",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Adana_Roman_Bridge_%28Ta%C5%9Fk%C3%B6pr%C3%BC%29%2C_Turkey_%2836694356272%29.jpg/330px-Adana_Roman_Bridge_%28Ta%C5%9Fk%C3%B6pr%C3%BC%29%2C_Turkey_%2836694356272%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "加濟安泰普",
+    "name_en": "Gaziantep",
+    "lat": 37.066,
+    "lon": 37.383,
+    "country": "土耳其",
+    "region": "亞洲",
+    "quote": "你就可以到 Adana 或是 Agaziantep 這些城市",
+    "context": "靠近敘利亞邊界的烤肉與甜點之城",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/AntepKale2_%28cropped%29.jpg/330px-AntepKale2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "安卡拉城堡",
+    "name_en": "Ankara Castle",
+    "lat": 39.94,
+    "lon": 32.864,
+    "country": "土耳其",
+    "region": "亞洲",
+    "quote": "你要到一個山丘上面看那個城堡",
+    "context": "安卡拉少數經典景點之一",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Ankara_Castle.jpg/330px-Ankara_Castle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "阿塔圖克陵墓",
+    "name_en": "Anıtkabir",
+    "lat": 39.925,
+    "lon": 32.837,
+    "country": "土耳其",
+    "region": "亞洲",
+    "quote": "凱默爾的國父陵寢也是在安卡拉嘛",
+    "context": "土耳其國父凱末爾陵寢，安卡拉景點",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Ataturk%27s_Mausoleum_%286225341313%29.jpg/330px-Ataturk%27s_Mausoleum_%286225341313%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "安卡拉",
+    "name_en": "Ankara",
+    "lat": 39.933,
+    "lon": 32.859,
+    "country": "土耳其",
+    "region": "亞洲",
+    "quote": "安卡拉算是比較中上那安卡拉是首都吧",
+    "context": "政治首都，乾燥內陸，被評為無聊",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Ankara_from_bus_station.jpg/330px-Ankara_from_bus_station.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "孔亞",
+    "name_en": "Konya",
+    "lat": 37.871,
+    "lon": 32.485,
+    "country": "土耳其",
+    "region": "亞洲",
+    "quote": "孔雅是也是一個古首都",
+    "context": "古首都，一望無際平原，鄰近新石器遺跡",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Konyaaltincarsi.jpg/330px-Konyaaltincarsi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "加泰土丘",
+    "name_en": "Çatalhöyük",
+    "lat": 37.667,
+    "lon": 32.828,
+    "country": "土耳其",
+    "region": "亞洲",
+    "quote": "在巨石鎮的附近有另外一個是新石器時代還是舊石器時代的人類聚落",
+    "context": "孔亞附近的新石器時代聚落遺址",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/%C3%87atalh%C3%B6y%C3%BCk%2C_7400_BC%2C_Konya%2C_Turkey_-_UNESCO_World_Heritage_Site%2C_08.jpg/330px-%C3%87atalh%C3%B6y%C3%BCk%2C_7400_BC%2C_Konya%2C_Turkey_-_UNESCO_World_Heritage_Site%2C_08.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "里澤",
+    "name_en": "Rize",
+    "lat": 41.021,
+    "lon": 40.522,
+    "country": "土耳其",
+    "region": "亞洲",
+    "quote": "Rize 是一個非常有名的種茶的地方",
+    "context": "土耳其紅茶著名產地",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Georgian_Laz_people_monument_in_Rize_%28Modern_Day_Turkey%29.jpg/330px-Georgian_Laz_people_monument_in_Rize_%28Modern_Day_Turkey%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "凡城",
+    "name_en": "Van",
+    "lat": 38.494,
+    "lon": 43.38,
+    "country": "土耳其",
+    "region": "亞洲",
+    "quote": "Van 那邊有一個很有名的除了 Van 湖之外還有 Van 貓",
+    "context": "以凡湖與一藍一綠眼凡貓聞名，設貓咪培育中心",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/2018_Ford_Transit_Custom_300_Base_2.0_facelift.jpg/330px-2018_Ford_Transit_Custom_300_Base_2.0_facelift.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]
