@@ -25,7 +25,7 @@
 
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flag-icons@7.2.3/css/flag-icons.min.css">
   <link rel="preload" as="script" href="https://cdn.jsdelivr.net/npm/globe.gl@2.46.2/dist/globe.gl.min.js">
-  <link rel="stylesheet" href="css/globe.css?v=12">
+  <link rel="stylesheet" href="css/globe.css?v=13">
   <script>
     // 先套主題，避免載入時閃一下深色
     try { document.documentElement.dataset.theme = localStorage.getItem('ute-theme-v2') || 'dark'; } catch (e) {}
@@ -96,7 +96,7 @@
   <div id="legend" aria-label="國家顏色圖例">
     <span class="legend-title">節目去過幾集</span>
     <span class="legend-bar" id="legend-bar"></span>
-    <span class="legend-scale"><span>1</span><span id="legend-mid"></span><span id="legend-max"></span></span>
+    <span class="legend-scale" id="legend-scale"></span>
     <span class="legend-home" id="legend-home"></span>
   </div>
 
@@ -239,8 +239,8 @@
   <noscript><p class="fallback">本網站需要 JavaScript 才能顯示互動地球。</p></noscript>
 
   <script src="js/globe/data.js?v=3"></script>
-  <script src="js/globe/visuals.js?v=7"></script>
-  <script src="js/globe/app.js?v=26"></script>
+  <script src="js/globe/visuals.js?v=8"></script>
+  <script src="js/globe/app.js?v=27"></script>
   <script src="js/globe/share.js?v=7"></script>
 </body>
 </html>

@@ -147,7 +147,6 @@ async function init() {
     f.zh = zh;
     f.country = (a2 && ix.countryByA2.get(a2)) || ix.countries.get(zh) || null;
   }
-  buildDotSamples();
 
   renderFilters();
   renderEpList();
@@ -185,11 +184,10 @@ function initGlobe() {
     .width(innerWidth)
     .height(innerHeight)
 
-    // 國家用細密小點呈現（visuals.js 的 dotSets／drawCountryDots）；
-    // 這層只畫淡淡的陸地與國界，也負責國家的滑鼠偵測
+    // 國家用網格填色（visuals.js 的 gridMaterial）：依集數分級的顏色＋濃度，這層也負責國家的滑鼠偵測
     .polygonsData(countryFeatures)
     .polygonAltitude(0.003)
-    .polygonCapColor(capColor)
+    .polygonCapMaterial(capMaterial)
     .polygonSideColor(() => 'rgba(0,0,0,0)')
     .polygonStrokeColor(() => THEMES[theme].stroke)
     .polygonsTransitionDuration(0)
@@ -407,11 +405,15 @@ function countryEps(f) {
   if (!c) return 0;
   return timeline.on ? (timeline.countryCounts.get(c.key) || 0) : c.eps.size;
 }
+// 熱度分 6 級：去過 1、2、3–4、5–7、8–12、13 集以上（各級國家數接近），顏色和濃度一級一級拉開；台灣主場直接最高級
+const HEAT_BINS = [1, 2, 3, 5, 8, 13];
 function heat(f) {
   const n = countryEps(f);
   if (!n) return -1;
   if (f.country.key === HOME_COUNTRY) return 1;
-  return ix.maxCountryEps > 1 ? Math.min(1, Math.sqrt((n - 1) / (ix.maxCountryEps - 1))) : 1;
+  let i = 0;
+  while (i < HEAT_BINS.length - 1 && n >= HEAT_BINS[i + 1]) i++;
+  return i / (HEAT_BINS.length - 1);
 }
 
 function rampColor(stops, h) {
@@ -426,18 +428,33 @@ function fade(rgba, mul) {
   return rgba.replace(/[\d.]+\)$/, a => `${Math.min(1, parseFloat(a) * mul).toFixed(3)})`);
 }
 
-// 底層填色：一律淡淡一層，滑過時亮一點；足跡模式去過的國家帶一點金
-function capColor(f) {
+// 國家填色：底色濃度 fill、網格線濃度 line。去過的依級數，越多集顏色越深、底色越濃；
+// 沒去過的只有淡淡一層、不畫網格；聚焦某國時其他國家變淡，滑過的加亮
+const rgbaParts = c => c.match(/[\d.]+/g).map(Number);
+const toHex = rgb => '#' + rgb.map(v => Math.round(v).toString(16).padStart(2, '0')).join('');
+function capStyle(f) {
   const t = THEMES[theme];
-  if (f === hoverFeature) return t.capHover;
-  if (visitedOn && f.a2 && visited.has(f.a2)) return fade(t.visitedOn, 0.3);
-  return t.cap;
+  const [r, g, b, a] = rgbaParts(t.landOff);
+  let s = { color: toHex([r, g, b]), fill: a, line: a };
+  if (visitedOn) {
+    if (f.a2 && visited.has(f.a2)) s = { color: toHex(rgbaParts(t.visitedOn).slice(0, 3)), fill: 0.4, line: 0.95 };
+  } else {
+    const h = heat(f);
+    if (h >= 0) s = {
+      color: f.country.key === HOME_COUNTRY ? t.home : toHex(rampColor(t.ramp, h)),
+      fill: 0.12 + 0.58 * h, line: 0.5 + 0.5 * h,
+    };
+    if (focus.countryKey && f.country?.key !== focus.countryKey) s = { ...s, fill: s.fill * 0.35, line: s.line * 0.35 };
+  }
+  if (f === hoverFeature) s = { ...s, fill: Math.min(1, s.fill + 0.18), line: Math.min(1, s.line + 0.2) };
+  return s;
 }
+const capMaterial = f => gridMaterial(capStyle(f));
 
 // 國家呈現更新：底層填色＋細密小點（visuals.js），跟地標一起重畫
 function refreshHex() {
   if (!globe) return;
-  globe.polygonCapColor(capColor)
+  globe.polygonCapMaterial(capMaterial)
     .polygonStrokeColor(() => THEMES[theme].stroke);
   refreshPoints();
 }
@@ -463,7 +480,6 @@ function setPoints(list) {
   const sets = [...groups.values()].sort((a, b) => a.lit - b.lit);
   for (const set of sets) set.tex = dotTexture(set.color);
   globe.particlesData(sets).particlesTexture(sets.every(x => x.tex) ? set => set.tex : null);
-  drawCountryDots(dotSets());
   if (!sets.every(x => x.tex) && !dotTexWait) {
     dotTexWait = setInterval(() => { if (dotTexCtor()) { clearInterval(dotTexWait); refreshPoints(); } }, 300);
   }
@@ -703,7 +719,7 @@ let hoverFeature = null;
 function onCountryHover(f) {
   if (f !== hoverFeature && !IS_TOUCH) {
     hoverFeature = f || null;
-    globe.polygonCapColor(capColor);
+    globe.polygonCapMaterial(capMaterial);
   }
   if (!f || IS_TOUCH) return hideTooltip();
   const c = f.country;
@@ -1102,13 +1118,18 @@ function pulseLatest() {
   if (latest) setRings(ix.lmByEp.get(latest.episode) || [], { maxR: 3, period: 1400 });
 }
 
-// 圖例刻度跟 heat() 同一條開根號尺
+// 圖例跟 heat() 同樣分 6 級：每一格是該級疊在地球底色上的樣子
 function renderLegend() {
-  const max = ix.maxCountryEps;
-  document.getElementById('legend-bar').style.background =
-    `linear-gradient(90deg, ${THEMES[theme].ramp.join(', ')})`;
-  document.getElementById('legend-mid').textContent = Math.round(1 + (max - 1) / 4);   // heat = 0.5 的位置
-  document.getElementById('legend-max').textContent = `${max} 集`;
+  const t = THEMES[theme];
+  const n = HEAT_BINS.length;
+  const steps = HEAT_BINS.map((_, i) => {
+    const h = i / (n - 1);
+    const c = mixHex(t.globe, toHex(rampColor(t.ramp, h)), Math.min(1, 0.12 + 0.58 * h + 0.25));
+    return `${c} ${(i / n * 100).toFixed(1)}% ${((i + 1) / n * 100).toFixed(1)}%`;
+  });
+  document.getElementById('legend-bar').style.background = `linear-gradient(90deg, ${steps.join(', ')})`;
+  document.getElementById('legend-scale').innerHTML = HEAT_BINS.map((v, i) =>
+    `<span>${i === n - 1 ? `${v}+` : HEAT_BINS[i + 1] - v > 1 ? `${v}–${HEAT_BINS[i + 1] - 1}` : v}</span>`).join('');
   const home = ix.countries.get(HOME_COUNTRY);
   document.getElementById('legend-home').innerHTML =
     `<i style="background:${THEMES[theme].pin}"></i>地標　·　<i style="background:${THEMES[theme].home}"></i>台灣主場 ${home ? home.eps.size : 0} 集`;

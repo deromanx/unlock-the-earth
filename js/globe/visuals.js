@@ -336,135 +336,40 @@ function hslHex(h, s, l) {
   return `#${f(0)}${f(8)}${f(4)}`;
 }
 
-// ── 細密小點：國家呈現 ────────────────────────────────
-// 每個國家鋪滿一格一格的細小圓點（蜂巢排列、依緯度修正成等面積），點的顏色依去過幾集走色階，台灣主場綠，
-// 沒去過的是淡灰小點。點的大小跟著地球縮放（拉近點跟著變大，像印在地表上）。
-// 自己建一層 THREE.Points（建構子借地標粒子物件的），全部點分成幾十組、每組一次繪製。
-// globe.gl 的 hexPolygon 點陣每個點都是一片幾何，細密到十萬點會卡；粒子一點只是一個頂點
-let dotSamples = null;
-const dotFeatureByKey = new Map();
-function buildDotSamples() {
-  dotSamples = new Map();
-  const inRing = (lng, lat, ring) => {
-    let inside = false;
-    for (let i = 0, j = ring.length - 1; i < ring.length; j = i++) {
-      const [xi, yi] = ring[i], [xj, yj] = ring[j];
-      if ((yi > lat) !== (yj > lat) && lng < (xj - xi) * (lat - yi) / (yj - yi) + xi) inside = !inside;
-    }
-    return inside;
+// ── 網格填色：國家呈現 ────────────────────────────────
+// 國家整片填色，上面再鋪一層經緯網格線（每 1.5°），線用同一個顏色、比底色濃。
+// 網格直接在 shader 裡依每個像素的經緯度算出來：任何縮放都是細細一條、不會糊，也不多一次繪製。
+// 材質建構子借地球本體的（MeshPhongMaterial），用 onBeforeCompile 把網格加進原本的著色程式
+const GRID_STEP = 1.5;
+const gridMaterials = new Map();
+function gridMaterial({ color, fill, line }) {
+  const key = `${color}|${fill.toFixed(3)}|${line.toFixed(3)}`;
+  if (gridMaterials.has(key)) return gridMaterials.get(key);
+  const Mat = globe.globeMaterial().constructor;
+  const m = new Mat({ color, transparent: true, side: 2, shininess: 0, specular: '#000000' });   // side 2 = DoubleSide
+  const lineW = Math.min(2, globe.renderer().getPixelRatio()) * 0.9;
+  m.onBeforeCompile = shader => {
+    Object.assign(shader.uniforms, { uFill: { value: fill }, uLine: { value: line }, uStep: { value: GRID_STEP }, uLineW: { value: lineW } });
+    shader.vertexShader = shader.vertexShader
+      .replace('#include <common>', '#include <common>\nvarying vec3 vGridPos;')
+      .replace('#include <begin_vertex>', '#include <begin_vertex>\nvGridPos = position;');
+    shader.fragmentShader = shader.fragmentShader
+      .replace('#include <common>', '#include <common>\nvarying vec3 vGridPos;\nuniform float uFill, uLine, uStep, uLineW;')
+      .replace('#include <color_fragment>', `#include <color_fragment>
+        {
+          // globe.gl 座標：y 朝北極，經度 = 90° − atan(z, x)
+          vec3 gp = normalize(vGridPos);
+          vec2 g = vec2(degrees(asin(clamp(gp.y, -1.0, 1.0))), 90.0 - degrees(atan(gp.z, gp.x))) / uStep;
+          vec2 fw = fwidth(g);
+          float period = 360.0 / uStep;   // 經度在 ±180° 接縫跳一圈，改用平移半圈的版本算寬度
+          fw.y = min(fw.y, fwidth(fract(g.y / period + 0.5)) * period);
+          vec2 d = abs(fract(g - 0.5) - 0.5) / max(fw, vec2(1e-5)) / uLineW;
+          float onLine = 1.0 - clamp(min(d.x, d.y), 0.0, 1.0);
+          diffuseColor.a = mix(uFill, uLine, onLine);
+        }`);
   };
-  for (const f of countryFeatures) {
-    if (f.country) dotFeatureByKey.set(f.country.key, f);
-    const polys = f.geometry.type === 'Polygon' ? [f.geometry.coordinates] : f.geometry.coordinates;
-    let x0 = 180, x1 = -180, y0 = 90, y1 = -90;
-    for (const poly of polys) for (const [x, y] of poly[0]) { x0 = Math.min(x0, x); x1 = Math.max(x1, x); y0 = Math.min(y0, y); y1 = Math.max(y1, y); }
-    // 小國點距減半再減半，至少鋪得出幾十點（點距只取幾個固定值，同色同距的國家才能併成一組畫）
-    let step = IS_SMALL ? 0.5 : 0.36;   // 大國的點距（度）
-    while (step > 0.03 && Math.sqrt((x1 - x0) * (y1 - y0)) / step < 7) step /= 2;
-    const pts = [];
-    for (const poly of polys) {
-      const outer = poly[0];
-      const before = pts.length;
-      let row = 0;
-      for (let lat = Math.floor(y0 / step) * step; lat <= y1; lat += step * 0.866, row++) {
-        const dLng = step / Math.max(0.2, Math.cos(lat * Math.PI / 180));   // 高緯度經線收攏，間距放寬維持等面積
-        for (let lng = Math.floor(x0 / dLng) * dLng + (row % 2) * dLng / 2; lng <= x1; lng += dLng) {
-          if (inRing(lng, lat, outer) && !poly.slice(1).some(h => inRing(lng, lat, h))) pts.push({ lat, lon: lng });
-        }
-      }
-      // 太小的島國（馬爾地夫）格點落不進去：放一點在輪廓中心
-      if (pts.length === before && outer.length > 2 && polys.length < 4) {
-        const c = outer.reduce((s, [x, y]) => [s[0] + x / outer.length, s[1] + y / outer.length], [0, 0]);
-        pts.push({ lat: c[1], lon: c[0] });
-      }
-    }
-    dotSamples.set(f, { pts, step });
-  }
-}
-
-const solidHex = (rgba, bg, boost = 1) => {   // rgba 疊在地球底色上的實色
-  const [r, g, b, a = 1] = rgba.match(/[\d.]+/g).map(Number);
-  return mixHex(bg, '#' + [r, g, b].map(v => Math.round(v).toString(16).padStart(2, '0')).join(''), Math.min(1, a * boost));
-};
-
-function dotSets() {
-  if (!dotSamples || !dotTexCtor()) return [];   // 貼圖建構子還沒好：先不畫，好了 setPoints 會重畫
-  const t = THEMES[theme];
-  const buckets = new Map();
-  const offColor = solidHex(t.landOff, t.globe, 2.6);
-  for (const f of countryFeatures) {
-    const { pts, step } = dotSamples.get(f);
-    if (!pts.length) continue;
-    let color, on;
-    if (visitedOn) {
-      on = !!(f.a2 && visited.has(f.a2));
-      color = on ? solidHex(t.visitedOn, t.globe) : offColor;
-    } else {
-      const h = heat(f);
-      on = h >= 0;
-      if (!on) color = offColor;
-      else if (f.country.key === HOME_COUNTRY) color = t.home;
-      else color = '#' + rampColor(t.ramp, Math.round(h * 20) / 20).map(v => v.toString(16).padStart(2, '0')).join('');
-    }
-    if (focus.countryKey && f.country?.key !== focus.countryKey) color = mixHex(color, t.globe, 0.6);
-    const key = `${theme}|${color}|${step}|${on}`;
-    if (!buckets.has(key)) {
-      let set = dotSetCache.get(key);
-      if (!set) {
-        // 點的直徑：去過的約點距 6 成、沒去過的 4 成（世界座標，地球半徑 100）
-        set = { key, alt: 0.0045, world: step * Math.PI / 180 * 100 * (on ? 0.6 : 0.4), tex: dotTexture(color) };
-        dotSetCache.set(key, set);
-      }
-      set.items = [];
-      set.sig = '';
-      buckets.set(key, set);
-    }
-    const set = buckets.get(key);
-    set.items.push(...pts);
-    set.sig += f.properties.name + ',';
-  }
-  return [...buckets.values()];
-}
-const dotSetCache = new Map();
-
-const dotObjs = new Map();   // 組 key → THREE.Points
-let dotPending = null, dotRetry = 0;
-const noRaycast = () => {};
-function drawCountryDots(sets) {
-  dotPending = sets;
-  if (!globe) return;
-  let proto = null;
-  globe.scene().traverse(o => { if (!proto && o.__globeObjType === 'particles' && o.geometry?.getAttribute?.('position')) proto = o; });
-  if (!proto) {   // 地標粒子還沒建好：稍後再畫
-    if (!dotRetry) dotRetry = setTimeout(() => { dotRetry = 0; drawCountryDots(dotPending); }, 300);
-    return;
-  }
-  const Points = proto.constructor, Geom = proto.geometry.constructor, Mat = proto.material.constructor;
-  const Attr = proto.geometry.getAttribute('position').constructor;
-  // 粒子大小隨距離縮放時，three 的換算等於 90° 視角；依實際視角換回世界座標的直徑（貼圖圓只佔 30/32）
-  const fovK = 1 / Math.tan(((globe.camera()?.fov || 50) / 2) * Math.PI / 180) * 32 / 30;
-  const used = new Set();
-  for (const set of sets) {
-    used.add(set.key);
-    let o = dotObjs.get(set.key);
-    if (!o) {
-      o = new Points(new Geom(), new Mat({ size: set.world * fovK, sizeAttenuation: true, map: set.tex, alphaTest: 0.5 }));
-      o.frustumCulled = false;
-      o.raycast = noRaycast;   // 點不攔滑鼠：國家的滑過／點擊交給底下的填色層
-      proto.parent.add(o);
-      dotObjs.set(set.key, o);
-    }
-    o.visible = set.items.length > 0;
-    if (o.__sig === set.sig) continue;   // 同一組國家沒變就不重算位置
-    o.__sig = set.sig;
-    const xyz = new Float32Array(set.items.length * 3);
-    set.items.forEach((p, i) => {
-      const c = p.xyz || (p.xyz = globe.getCoords(p.lat, p.lon, set.alt));
-      xyz[i * 3] = c.x; xyz[i * 3 + 1] = c.y; xyz[i * 3 + 2] = c.z;
-    });
-    o.geometry.dispose();
-    o.geometry = new Geom();
-    o.geometry.setAttribute('position', new Attr(xyz, 3));
-  }
-  for (const [key, o] of dotObjs) if (!used.has(key)) o.visible = false;
+  m.userData.grid = { fill, line };
+  m.customProgramCacheKey = () => 'ute-grid';   // 所有國家共用同一支著色程式，只有 uniform 不同
+  gridMaterials.set(key, m);
+  return m;
 }
