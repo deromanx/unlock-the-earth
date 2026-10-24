@@ -518,19 +518,20 @@ html[data-lite] .country-label { text-shadow: 0 1px 2px var(--bg); }
   transition: opacity 0.8s, visibility 0.8s;
 }
 /* 載入畫面：logo 當黑膠唱片中間的圓標，唱片旋轉、唱臂放上來 */
-.vinyl { position: relative; width: 150px; height: 150px; }
+/* 尺寸都用 --v 等比例：唱片直徑 220px，手機最多螢幕寬的 58% */
+.vinyl { --v: min(220px, 58vw); position: relative; width: var(--v); height: var(--v); }
 .vinyl-disc {
   position: absolute; inset: 0; border-radius: 50%;
   display: grid; place-items: center;
   background:
     radial-gradient(circle, transparent 0 31%, rgba(0,0,0,0.55) 31.5% 33%, transparent 33.5%),
-    repeating-radial-gradient(circle, #141418 0 1.2px, #1f1f25 1.2px 2.6px);
+    repeating-radial-gradient(circle, #141418 0 1.4px, #1f1f25 1.4px 3px);
   box-shadow: 0 10px 30px rgba(0,0,0,0.45), inset 0 0 0 2px #0b0b0e, inset 0 0 0 4px #24242b;
   animation: spin 1.8s linear infinite;   /* 33⅓ 轉 */
 }
-.vinyl-label { width: 62px; height: 62px; border-radius: 50%; box-shadow: 0 0 0 2px #0b0b0e; }
+.vinyl-label { width: calc(var(--v) * 0.41); height: calc(var(--v) * 0.41); border-radius: 50%; box-shadow: 0 0 0 2px #0b0b0e; }
 .vinyl-disc::after {   /* 中心軸孔 */
-  content: ''; position: absolute; width: 7px; height: 7px; border-radius: 50%;
+  content: ''; position: absolute; width: calc(var(--v) * 0.045); height: calc(var(--v) * 0.045); border-radius: 50%;
   background: var(--bg); box-shadow: 0 0 0 1.5px rgba(0,0,0,0.6);
 }
 /* 光澤不跟著轉，唱片轉起來紋路才會閃 */
@@ -540,8 +541,8 @@ html[data-lite] .country-label { text-shadow: 0 1px 2px var(--bg); }
   -webkit-mask: radial-gradient(circle, transparent 0 32%, #000 33%); mask: radial-gradient(circle, transparent 0 32%, #000 33%);
 }
 .tonearm {
-  position: absolute; width: 60px; height: 120px; right: -34px; top: -16px;
-  transform-origin: 44px 14px; transform: rotate(-28deg);
+  position: absolute; width: calc(var(--v) * 0.4); height: calc(var(--v) * 0.8); right: calc(var(--v) * -0.227); top: calc(var(--v) * -0.107);
+  transform-origin: 73.33% 11.67%;   /* 唱臂轉軸 (44, 14) / viewBox 60×120 */ transform: rotate(-28deg);
   animation: arm-in 0.9s 0.3s cubic-bezier(.3,.7,.3,1) forwards;
   fill: #c9cbd3; stroke: #c9cbd3; stroke-width: 4; stroke-linecap: round; stroke-linejoin: round;
 }
