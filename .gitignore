@@ -10,7 +10,6 @@ __pycache__/
 *.bad.txt
 logs/empty_*
 
-# reel 渲染
-scripts/reel/node_modules/
-scripts/reel/fonts/
-exports/
+
+# 標題外框產生器（字型檔不進 repo）
+scripts/titles/node_modules/

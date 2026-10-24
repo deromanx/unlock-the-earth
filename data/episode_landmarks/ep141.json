@@ -6,7 +6,7 @@
     "lon": 102.633,
     "country": "寮國",
     "region": "亞洲",
-    "quote": "我觉得永真很棒 非常棒",
+    "quote": "我覺得永真很棒 非常棒",
     "context": "寮國首都，氣氛悠閒、咖啡廳多，作者最想重返",
     "image": "https://thumb.wikimedia.org/wikipedia/en/thumb/2/28/Vientiane_-_Patuxai_-_0003.jpg/330px-Vientiane_-_Patuxai_-_0003.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
@@ -17,7 +17,7 @@
     "lon": 102.448,
     "country": "寮國",
     "region": "亞洲",
-    "quote": "旺阳真的是一个party city",
+    "quote": "旺陽真的是一個party city",
     "context": "派對小鎮，石灰岩地形、藍色潟湖與輪胎漂流",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/VientianeProvince_VangVieng9_tango7174.jpg/330px-VientianeProvince_VangVieng9_tango7174.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
@@ -28,7 +28,7 @@
     "lon": 103.218,
     "country": "寮國",
     "region": "亞洲",
-    "quote": "封沙湾是一个小镇",
+    "quote": "封沙灣是一個小鎮",
     "context": "越戰集束炸彈遺留地，有排雷NGO與被炸毀佛像"
   },
   {
@@ -38,7 +38,7 @@
     "lon": 103.158,
     "country": "寮國",
     "region": "亞洲",
-    "quote": "石缸平原的一个景点",
+    "quote": "石缸平原的一個景點",
     "context": "草坪滿布炸彈坑洞，見證戰爭遺痕"
   },
   {
@@ -48,8 +48,8 @@
     "lon": 102.135,
     "country": "寮國",
     "region": "亞洲",
-    "quote": "龙坡邦是世界的化遗产嘛",
-    "context": "世界遺產古城，布施文化與觀光化"
+    "quote": "龍坡邦是世界的化遺產嘛",
+    "context": "世界遺產古城，佈施文化與觀光化"
   },
   {
     "name": "蒙羅伊",
@@ -58,8 +58,8 @@
     "lon": 102.68,
     "country": "寮國",
     "region": "亞洲",
-    "quote": "蒙罗伊这个村落是它其实不大",
-    "context": "需搭船抵達的原始小村，布施更貼近日常"
+    "quote": "蒙羅伊這個村落是它其實不大",
+    "context": "需搭船抵達的原始小村，佈施更貼近日常"
   },
   {
     "name": "農橋",
@@ -68,7 +68,7 @@
     "lon": 102.612,
     "country": "寮國",
     "region": "亞洲",
-    "quote": "我在北上到了那个农桥",
+    "quote": "我在北上到了那個農橋",
     "context": "前往蒙羅伊的小鎮，作為轉乘點"
   },
   {
@@ -78,7 +78,7 @@
     "lon": 100.416,
     "country": "寮國",
     "region": "亞洲",
-    "quote": "会赛就是在边界上",
+    "quote": "會賽就是在邊界上",
     "context": "湄公河慢船終點，寮泰邊境口岸"
   },
   {
@@ -99,7 +99,7 @@
     "lon": 106.2,
     "country": "寮國",
     "region": "亞洲",
-    "quote": "P了一个叫做胡志明小径",
+    "quote": "P了一個叫做胡志明小徑",
     "context": "越戰北越運補路線，遭美軍大量轟炸"
   }
 ]

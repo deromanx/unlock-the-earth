@@ -6,18 +6,18 @@
     "lon": 135.6746,
     "country": "日本",
     "region": "亞洲",
-    "quote": "就是山崎可以推荐大家",
+    "quote": "就是山崎可以推薦大家",
     "context": "日本第一間威士忌蒸餾所，鳥井信治郎創立，預約抽籤制",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/YamazakiDistillery_01.jpg/330px-YamazakiDistillery_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "余市蒸餾所",
+    "name": "餘市蒸餾所",
     "name_en": "Nikka Yoichi Distillery",
     "lat": 43.1894,
     "lon": 140.7832,
     "country": "日本",
     "region": "亞洲",
-    "quote": "他还在古法酿造的去用这所谓的这个煤炭直火加热",
+    "quote": "他還在古法釀造的去用這所謂的這個煤炭直火加熱",
     "context": "竹鶴政孝在北海道創立，堅持煤炭直火蒸餾"
   },
   {
@@ -27,7 +27,7 @@
     "lon": 135.6908,
     "country": "日本",
     "region": "亞洲",
-    "quote": "那个就是大家知道那个封城秀吉",
+    "quote": "那個就是大家知道那個封城秀吉",
     "context": "山崎合戰古戰場，「天王山之戰」一詞由來"
   },
   {
@@ -37,7 +37,7 @@
     "lon": 135.6759,
     "country": "日本",
     "region": "亞洲",
-    "quote": "因为它就是一个小小的车站",
+    "quote": "因為它就是一個小小的車站",
     "context": "位於京都與大阪交界，站旁有府界石碑"
   },
   {
@@ -47,7 +47,7 @@
     "lon": 135.6733,
     "country": "日本",
     "region": "亞洲",
-    "quote": "他附近有那个千利修",
+    "quote": "他附近有那個千利修",
     "context": "千利休的茶室，山崎蒸餾所附近水質佳"
   },
   {
@@ -57,8 +57,8 @@
     "lon": 140.9947,
     "country": "日本",
     "region": "亞洲",
-    "quote": "小尊还算热闹嘛",
-    "context": "前往余市的交通中轉，運河與壽司"
+    "quote": "小尊還算熱鬧嘛",
+    "context": "前往餘市的交通中轉，運河與壽司"
   },
   {
     "name": "天狗山",
@@ -78,8 +78,8 @@
     "lon": 140.7889,
     "country": "日本",
     "region": "亞洲",
-    "quote": "所以那一条路就叫做Rita大道",
-    "context": "余市蒸餾所前以竹鶴妻子命名的道路"
+    "quote": "所以那一條路就叫做Rita大道",
+    "context": "餘市蒸餾所前以竹鶴妻子命名的道路"
   },
   {
     "name": "宮城峽蒸餾所",
@@ -88,7 +88,7 @@
     "lon": 140.5933,
     "country": "日本",
     "region": "亞洲",
-    "quote": "阿正又带着他的儿子去盖了一间酒厂在仙台",
+    "quote": "阿正又帶著他的兒子去蓋了一間酒廠在仙台",
     "context": "1969年竹鶴建造，生產無泥煤威士忌"
   },
   {
@@ -98,7 +98,7 @@
     "lon": 138.3028,
     "country": "日本",
     "region": "亞洲",
-    "quote": "又去盖了白州真六所",
+    "quote": "又去蓋了白州真六所",
     "context": "三得利1973年建造，生產淡泥煤威士忌",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/160825_Suntory_Hakushu_Distillery_Hokuto_Yamanashi_pref_Japan04s3.jpg/330px-160825_Suntory_Hakushu_Distillery_Hokuto_Yamanashi_pref_Japan04s3.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }

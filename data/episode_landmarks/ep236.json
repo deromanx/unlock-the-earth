@@ -6,7 +6,7 @@
     "lon": 22.8,
     "country": "南非",
     "region": "非洲",
-    "quote": "花园大道是蛮多欧洲人移民的地方",
+    "quote": "花園大道是蠻多歐洲人移民的地方",
     "context": "講者定居地，山海兼具的南非海岸路線與移民聚落"
   },
   {
@@ -16,7 +16,7 @@
     "lon": 18.424,
     "country": "南非",
     "region": "非洲",
-    "quote": "除了开普敦之外，剩下Downtown都不要去",
+    "quote": "除了開普敦之外，剩下Downtown都不要去",
     "context": "南非西南部城市，自駕環線的起終點",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Camps_bay_%2853460319478%29_%28cropped%29.jpg/330px-Camps_bay_%2853460319478%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
@@ -27,7 +27,7 @@
     "lon": 20.007,
     "country": "南非",
     "region": "非洲",
-    "quote": "过了那个非洲最南端的那个点",
+    "quote": "過了那個非洲最南端的那個點",
     "context": "非洲大陸最南端，花園大道方位參照"
   },
   {
@@ -37,7 +37,7 @@
     "lon": 28.044,
     "country": "南非",
     "region": "非洲",
-    "quote": "约翰尼斯堡CBD我从来没去过",
+    "quote": "約翰尼斯堡CBD我從來沒去過",
     "context": "治安差的市中心，連南非人都避開"
   },
   {
@@ -47,8 +47,8 @@
     "lon": 25.619,
     "country": "南非",
     "region": "非洲",
-    "quote": "他在伊利莎白港的Downtown被抢",
-    "context": "台灣旅客遭搶的地點，也是自駕路線起點"
+    "quote": "他在伊利莎白港的Downtown被搶",
+    "context": "臺灣旅客遭搶的地點，也是自駕路線起點"
   },
   {
     "name": "克魯格國家公園",
@@ -57,7 +57,7 @@
     "lon": 31.554,
     "country": "南非",
     "region": "非洲",
-    "quote": "克鲁哥国家公园一定要去",
+    "quote": "克魯哥國家公園一定要去",
     "context": "南非經典賞動物景點，住宿等級差異大"
   },
   {
@@ -67,7 +67,7 @@
     "lon": 31.022,
     "country": "南非",
     "region": "非洲",
-    "quote": "有个地方叫德本，德本有很多的印度人",
+    "quote": "有個地方叫德本，德本有很多的印度人",
     "context": "印度裔與祖魯人聚居地",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Durban_from_the_Balcony_%28Dennis_Sylvester_Hurd%29_1.jpg/330px-Durban_from_the_Balcony_%28Dennis_Sylvester_Hurd%29_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
@@ -78,7 +78,7 @@
     "lon": 18.415,
     "country": "南非",
     "region": "非洲",
-    "quote": "甚至开普敦有一个区域，就是有很多",
+    "quote": "甚至開普敦有一個區域，就是有很多",
     "context": "馬來奴隸後裔聚居區，伊斯蘭與飲食文化"
   },
   {
@@ -88,7 +88,7 @@
     "lon": 18.474,
     "country": "南非",
     "region": "非洲",
-    "quote": "你就可以多花点时间去好望角好好的看",
+    "quote": "你就可以多花點時間去好望角好好的看",
     "context": "開普半島一日遊重點",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/CapeHopePeninsulaMap.png/330px-CapeHopePeninsulaMap.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
@@ -99,7 +99,7 @@
     "lon": 18.451,
     "country": "南非",
     "region": "非洲",
-    "quote": "一个是Simon's Town旁边的Borders Beach",
+    "quote": "一個是Simon's Town旁邊的Borders Beach",
     "context": "熱門企鵝觀賞點，有圍欄"
   },
   {
@@ -109,7 +109,7 @@
     "lon": 18.887,
     "country": "南非",
     "region": "非洲",
-    "quote": "另外一个地方叫Stoning Point",
+    "quote": "另外一個地方叫Stoning Point",
     "context": "遊客少、野生自由的企鵝棲地"
   },
   {
@@ -119,7 +119,7 @@
     "lon": 19.23,
     "country": "南非",
     "region": "非洲",
-    "quote": "海岸线这条路有名的是",
+    "quote": "海岸線這條路有名的是",
     "context": "可從岸上肉眼看到鯨魚的海岸公路"
   }
 ]

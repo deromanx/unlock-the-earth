@@ -6,7 +6,7 @@
     "lon": 11.2589,
     "country": "義大利",
     "region": "歐洲",
-    "quote": "佛罗伦斯有一个学院美术馆",
+    "quote": "佛羅倫斯有一個學院美術館",
     "context": "館內大衛像尺度震撼，用來說明親身體驗空間的重要"
   },
   {
@@ -16,7 +16,7 @@
     "lon": 4.6376,
     "country": "法國",
     "region": "歐洲",
-    "quote": "那些地方叫做拉图雷特修道院",
+    "quote": "那些地方叫做拉圖雷特修道院",
     "context": "柯比意晚期代表作，混凝土方盒修道院與色彩光線設計",
     "image": "https://thumb.wikimedia.org/wikipedia/en/thumb/d/d8/Sainte_Marie_de_La_Tourette_2007.jpg/330px-Sainte_Marie_de_La_Tourette_2007.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
@@ -27,7 +27,7 @@
     "lon": 4.6383,
     "country": "法國",
     "region": "歐洲",
-    "quote": "一个叫做Eveux的小镇",
+    "quote": "一個叫做Eveux的小鎮",
     "context": "拉圖雷特修道院所在的里昂西北小鎮"
   },
   {
@@ -37,7 +37,7 @@
     "lon": 2.1744,
     "country": "西班牙",
     "region": "歐洲",
-    "quote": "譬如说我看圣家堂",
+    "quote": "譬如說我看聖家堂",
     "context": "高第作品，以表現對神的信仰為首要，人的行為次之",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/SF_maig_2_cropped.jpg/330px-SF_maig_2_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
@@ -46,9 +46,9 @@
     "name_en": "Taipei Performing Arts Center",
     "lat": 25.0879,
     "lon": 121.5249,
-    "country": "台灣",
+    "country": "臺灣",
     "region": "台灣",
-    "quote": "台北的建坛站有一栋叫做表演艺术中心",
+    "quote": "臺北的建壇站有一棟叫做表演藝術中心",
     "context": "庫哈斯設計，用來介紹威尼斯建築雙年展策展人",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Taipei_Performing_Arts_Center_07.23_%282%29.jpg/330px-Taipei_Performing_Arts_Center_07.23_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
@@ -59,7 +59,7 @@
     "lon": 12.3562,
     "country": "義大利",
     "region": "歐洲",
-    "quote": "意大利要举行那个建筑双年展",
+    "quote": "意大利要舉行那個建築雙年展",
     "context": "旅程動機之一，在威尼斯停留較多天看展"
   },
   {
@@ -69,7 +69,7 @@
     "lon": 110.3695,
     "country": "印尼",
     "region": "亞洲",
-    "quote": "爪哇岛中部的一个算是一个古城",
+    "quote": "爪哇島中部的一個算是一個古城",
     "context": "傍晚街道擁擠，說明旅人與當地人心境差異"
   }
 ]

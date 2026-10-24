@@ -20,8 +20,7 @@ Global landmark format (deduplication by proximity + name):
       {
         "ep": 266,
         "quote": "逐字稿原文",
-        "context": "摘要",
-        "source": "transcript"
+        "context": "摘要"
       }
     ]
   }
@@ -42,6 +41,7 @@ ROOT        = Path(__file__).parent.parent.parent
 LM_DIR      = ROOT / 'data' / 'episode_landmarks'
 EPISODES_F  = ROOT / 'data' / 'episodes.json'
 OUTPUT_F    = ROOT / 'data' / 'landmarks_global.json'
+EXTRACTED_F = ROOT / 'data' / 'extracted_eps.json'
 
 def haversine_m(lat1, lon1, lat2, lon2):
     R = 6_371_000
@@ -90,6 +90,9 @@ def to_traditional(landmarks: list[dict]) -> int:
         return 0
     changed = 0
     for (d, k), v in zip(slots, lines):
+        # OpenCC 會把音譯地名的「里」轉成「裡」（武裡南、裡約、葉裡溫），地名和國名一律改回「里」
+        if k in ('name', 'country'):
+            v = v.replace('裡', '里')
         if (d.get(k) or '') != v and k in d:
             d[k] = v
             changed += 1
@@ -131,6 +134,13 @@ def main():
 
     per_ep = {e: json.loads((LM_DIR / f"ep{e:03d}.json").read_text(encoding='utf-8')) for e in available}
     print(f"繁體轉換：{to_traditional([lm for lms in per_ep.values() for lm in lms])} 個欄位")
+    # 轉好的繁體寫回各集檔案：之後在沒有 opencc 的環境（GitHub Actions）重建也不會退回簡體
+    if not args.dry_run:
+        for e, lms in per_ep.items():
+            path = LM_DIR / f"ep{e:03d}.json"
+            new = json.dumps(lms, ensure_ascii=False, indent=2)
+            if path.read_text(encoding='utf-8') != new:
+                path.write_text(new, encoding='utf-8')
 
     for ep_num in available:
         lms = per_ep[ep_num]
@@ -143,7 +153,6 @@ def main():
                 'ep':      ep_num,
                 'quote':   lm.get('quote', ''),
                 'context': lm.get('context', ''),
-                'source':  'transcript',
             }
             total_appearances += 1
 
@@ -191,10 +200,16 @@ def main():
         print("\n(dry-run: not writing output)")
         return
 
+    # 網頁一開就要下載這份，不縮排、圖片網址去掉追蹤參數
+    for lm in global_landmarks:
+        if lm.get('image'):
+            lm['image'] = lm['image'].split('?')[0]
     OUTPUT_F.write_text(
-        json.dumps(global_landmarks, ensure_ascii=False, indent=2),
+        json.dumps(global_landmarks, ensure_ascii=False, separators=(',', ':')),
         encoding='utf-8'
     )
+    # 已抽過地標的集數：網頁用來區分「這集沒有地點」和「地點還在整理中」
+    EXTRACTED_F.write_text(json.dumps(available), encoding='utf-8')
     print(f"\n✓ Written: {OUTPUT_F}")
 
 if __name__ == '__main__':

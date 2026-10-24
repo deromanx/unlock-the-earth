@@ -6,7 +6,7 @@
     "lon": -0.0802,
     "country": "英國",
     "region": "歐洲",
-    "quote": "那其中有个教堂叫St Olaf's",
+    "quote": "那其中有個教堂叫St Olaf's",
     "context": "埋有瘟疫死者與皮普斯的教堂，建築受疫情影響"
   },
   {
@@ -16,7 +16,7 @@
     "lon": -1.6746,
     "country": "英國",
     "region": "歐洲",
-    "quote": "所以他们最后决定自我隔离",
+    "quote": "所以他們最後決定自我隔離",
     "context": "1666年瘟疫期間自我封鎖的小鎮"
   },
   {
@@ -26,7 +26,7 @@
     "lon": -0.091,
     "country": "英國",
     "region": "歐洲",
-    "quote": "他是我们英国算是伦敦最老的这个蔬国市集",
+    "quote": "他是我們英國算是倫敦最老的這個蔬國市集",
     "context": "倫敦最老的食物市集，鄰近南華克大教堂"
   },
   {
@@ -36,7 +36,7 @@
     "lon": -0.0894,
     "country": "英國",
     "region": "歐洲",
-    "quote": "就是伦敦河岸南部保留最完整的教堂",
+    "quote": "就是倫敦河岸南部保留最完整的教堂",
     "context": "埋葬哈佛家族與江湖術士萊昂納·洛克"
   },
   {
@@ -46,7 +46,7 @@
     "lon": -0.0878,
     "country": "英國",
     "region": "歐洲",
-    "quote": "就叫旧手术剧院博物馆",
+    "quote": "就叫舊手術劇院博物館",
     "context": "教堂閣樓改建的19世紀手術教學室"
   },
   {
@@ -66,7 +66,7 @@
     "lon": -0.136,
     "country": "英國",
     "region": "歐洲",
-    "quote": "有一个酒馆叫John Snow的酒馆",
+    "quote": "有一個酒館叫John Snow的酒館",
     "context": "紀念霍亂水泵與斯諾防疫的酒吧"
   },
   {
@@ -76,8 +76,8 @@
     "lon": -0.1297,
     "country": "英國",
     "region": "歐洲",
-    "quote": "在大英博物馆的后面有一个英国热带疾病学校",
-    "context": "萬巴德創辦，與台灣有淵源，外牆有蚊蛇裝飾"
+    "quote": "在大英博物館的後面有一個英國熱帶疾病學校",
+    "context": "萬巴德創辦，與臺灣有淵源，外牆有蚊蛇裝飾"
   },
   {
     "name": "威爾康收藏館",
@@ -96,7 +96,7 @@
     "lon": -0.1186,
     "country": "英國",
     "region": "歐洲",
-    "quote": "所以这个博物馆就是成立男丁格尔的一生",
+    "quote": "所以這個博物館就是成立男丁格爾的一生",
     "context": "展示南丁格爾生平、寵物標本與土耳其燈籠"
   },
   {
@@ -106,7 +106,7 @@
     "lon": -0.1491,
     "country": "英國",
     "region": "歐洲",
-    "quote": "哈利街靠近这个Mayfair这里",
+    "quote": "哈利街靠近這個Mayfair這裡",
     "context": "私人診所聚集，萊諾·羅格辦公室所在"
   },
   {
@@ -116,7 +116,7 @@
     "lon": -0.1736,
     "country": "英國",
     "region": "歐洲",
-    "quote": "叫Lindowinds这个地方就是很有名的私人的医院",
+    "quote": "叫Lindowinds這個地方就是很有名的私人的醫院",
     "context": "皇室寶寶出生的私人產科醫院"
   },
   {
@@ -136,7 +136,7 @@
     "lon": -0.0877,
     "country": "英國",
     "region": "歐洲",
-    "quote": "伦敦桥垮下来有关",
+    "quote": "倫敦橋垮下來有關",
     "context": "聖奧拉夫協助擊敗維京人的傳說場景",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/London_Bridge_from_St_Olaf_Stairs.jpg/330px-London_Bridge_from_St_Olaf_Stairs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
@@ -145,9 +145,9 @@
     "name_en": "Takao (Kaohsiung)",
     "lat": 22.6163,
     "lon": 120.2655,
-    "country": "台灣",
+    "country": "臺灣",
     "region": "台灣",
-    "quote": "他当时就去了打狗就是高雄",
+    "quote": "他當時就去了打狗就是高雄",
     "context": "萬巴德研究熱帶疾病的地點"
   },
   {
@@ -155,9 +155,9 @@
     "name_en": "Penghu",
     "lat": 23.5711,
     "lon": 119.5793,
-    "country": "台灣",
+    "country": "臺灣",
     "region": "台灣",
-    "quote": "所有澎湖人都欠Patrick Manson一条命",
+    "quote": "所有澎湖人都欠Patrick Manson一條命",
     "context": "萬巴德處理水源、抑制象皮病之地",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Penghu_County_Montage.png/330px-Penghu_County_Montage.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }

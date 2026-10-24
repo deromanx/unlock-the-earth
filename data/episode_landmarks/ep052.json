@@ -37,7 +37,7 @@
     "country": "墨西哥",
     "region": "美洲",
     "quote": "就是墨西哥的中央政府機構 然後兼總統府",
-    "context": "政府機構兼博物館，內有里維拉大壁畫"
+    "context": "政府機構兼博物館，內有裡維拉大壁畫"
   },
   {
     "name": "憲法廣場",
@@ -108,7 +108,7 @@
     "country": "墨西哥",
     "region": "美洲",
     "quote": "每次大家想到馬雅金字塔 一定是想到奇形易渣",
-    "context": "拍手回音、春分蛇影，但過度商業化",
+    "context": "拍手迴音、春分蛇影，但過度商業化",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Chichen_Itza_3.jpg/330px-Chichen_Itza_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
@@ -142,14 +142,14 @@
     "context": "壁畫與文字繁複的遺址，夜車前往"
   },
   {
-    "name": "貝里斯城台灣街大使館",
+    "name": "貝里斯城臺灣街大使館",
     "name_en": "Embassy of Taiwan, Belize City",
     "lat": 17.495,
     "lon": -88.186,
     "country": "貝里斯",
     "region": "美洲",
-    "quote": "中美洲貝里斯市台灣街一號 就是我們大使館的位置這樣子",
-    "context": "台灣駐貝里斯大使館所在街道"
+    "quote": "中美洲貝里斯市臺灣街一號 就是我們大使館的位置這樣子",
+    "context": "臺灣駐貝里斯大使館所在街道"
   },
   {
     "name": "藍洞",

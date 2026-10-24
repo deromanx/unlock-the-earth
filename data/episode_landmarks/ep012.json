@@ -6,7 +6,7 @@
     "lon": 123.885,
     "country": "菲律賓",
     "region": "亞洲",
-    "quote": "其实我主要是在宿物啦",
+    "quote": "其實我主要是在宿物啦",
     "context": "主持來賓留學與旅行的主要據點"
   },
   {
@@ -16,7 +16,7 @@
     "lon": 123.99,
     "country": "菲律賓",
     "region": "亞洲",
-    "quote": "我那时候去了一个很特别的岛 就是资深堂岛",
+    "quote": "我那時候去了一個很特別的島 就是資深堂島",
     "context": "被日本出版社老闆買下的小島，設有學校"
   },
   {
@@ -26,7 +26,7 @@
     "lon": 123.902,
     "country": "菲律賓",
     "region": "亞洲",
-    "quote": "所以是许有一个圣阴大教堂 就是以这个命名",
+    "quote": "所以是許有一個聖陰大教堂 就是以這個命名",
     "context": "供奉嬰兒耶穌像，聖嬰節的核心"
   },
   {
@@ -36,18 +36,18 @@
     "lon": 124.113,
     "country": "菲律賓",
     "region": "亞洲",
-    "quote": "那个北冰有个岛 叫做 马拉帕斯瓜",
+    "quote": "那個北冰有個島 叫做 馬拉帕斯瓜",
     "context": "潛水看長尾鯊的島嶼"
   },
   {
-    "name": "奧斯陸（鯨鯊共游）",
+    "name": "奧斯陸（鯨鯊共遊）",
     "name_en": "Oslob",
     "lat": 9.46,
     "lon": 123.383,
     "country": "菲律賓",
     "region": "亞洲",
-    "quote": "他们一定会去奥斯路",
-    "context": "跟團必去的鯨鯊共游景點"
+    "quote": "他們一定會去奧斯路",
+    "context": "跟團必去的鯨鯊共遊景點"
   },
   {
     "name": "薄荷島",
@@ -56,18 +56,18 @@
     "lon": 124.1435,
     "country": "菲律賓",
     "region": "亞洲",
-    "quote": "它旁边有一个叫做薄荷岛的",
+    "quote": "它旁邊有一個叫做薄荷島的",
     "context": "生態與山海行程豐富的大島",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Chocolate_Hills_Bohol_Philippines.jpg/330px-Chocolate_Hills_Bohol_Philippines.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "班塔岩島",
+    "name": "班塔巖島",
     "name_en": "Bantayan Island",
     "lat": 11.168,
     "lon": 123.722,
     "country": "菲律賓",
     "region": "亞洲",
-    "quote": "叫做班塔岩岛",
+    "quote": "叫做班塔巖島",
     "context": "人少景美、可玩極限運動的推薦小島"
   },
   {
@@ -77,7 +77,7 @@
     "lon": 123.397,
     "country": "菲律賓",
     "region": "亞洲",
-    "quote": "大家一定会去莫保 去看沙丁鱼",
+    "quote": "大家一定會去莫保 去看沙丁魚",
     "context": "沙丁魚風暴潛水勝地"
   },
   {
@@ -87,7 +87,7 @@
     "lon": 123.377,
     "country": "菲律賓",
     "region": "亞洲",
-    "quote": "附近有一个叫做 Kawasan 的这个瀑布",
+    "quote": "附近有一個叫做 Kawasan 的這個瀑布",
     "context": "六小時跳瀑布溯溪行程"
   },
   {
@@ -97,7 +97,7 @@
     "lon": 123.515,
     "country": "菲律賓",
     "region": "亞洲",
-    "quote": "那我要推荐一个很特别的地方 它叫做西基岛",
+    "quote": "那我要推薦一個很特別的地方 它叫做西基島",
     "context": "女巫島，賣愛情靈藥，騎摩托環島"
   },
   {
@@ -107,7 +107,7 @@
     "lon": 123.3054,
     "country": "菲律賓",
     "region": "亞洲",
-    "quote": "然后搭船到杜马盖地",
+    "quote": "然後搭船到杜馬蓋地",
     "context": "前往錫基霍爾島的轉乘港口城市"
   }
 ]

@@ -1,8 +1,9 @@
 name: Update Episodes from RSS
 
+# 每天抓 RSS：新集數上架後，本機先 commit 的地標（scripts/add_episode.sh）會在這裡併進地球
 on:
   schedule:
-    - cron: '0 2 * * 3'   # 每週三 10:00 台灣時間
+    - cron: '0 2 * * *'   # 每天 10:00 台灣時間
   push:
     branches: [main]
   workflow_dispatch:
@@ -19,17 +20,33 @@ jobs:
         with:
           python-version: '3.12'
 
+      - name: Install opencc（地標簡轉繁）
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq opencc > /dev/null
+
       - name: Fetch RSS → episodes.json
         run: python scripts/fetch_rss.py
+
+      - name: Rebuild landmarks（新集數上架後併進地標總表）
+        shell: bash -eo pipefail {0}
+        run: |
+          python scripts/pipeline/04_build_landmarks.py | grep -E "Total landmarks|Written"
+          python scripts/pipeline/05_wikipedia_info.py | tail -2
 
       - name: Build per-episode share pages
         run: python scripts/build_ep_pages.py
 
+      - name: Stamp data version
+        run: python scripts/stamp_data_version.py
+
+      - name: Check site data（出錯就讓這次 workflow 失敗）
+        run: python scripts/check_site_data.py
+
       - name: Commit if changed
+        shell: bash -eo pipefail {0}
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/episodes.json ep/
+          git add data/ ep/ index.html
           if git diff --cached --quiet; then
             echo "no changes"
           else

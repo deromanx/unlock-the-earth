@@ -10,13 +10,13 @@
     "context": "茉莉花革命抗爭地，啟發同名舞蹈作品"
   },
   {
-    "name": "台北流行音樂中心",
+    "name": "臺北流行音樂中心",
     "name_en": "Taipei Music Center",
     "lat": 25.0527,
     "lon": 121.5993,
-    "country": "台灣",
+    "country": "臺灣",
     "region": "台灣",
-    "quote": "地點在台北流行音樂中心",
+    "quote": "地點在臺北流行音樂中心",
     "context": "烏克蘭聯合芭蕾舞團演出場地"
   },
   {
@@ -24,20 +24,20 @@
     "name_en": "Shuiyuan Theater",
     "lat": 25.0188,
     "lon": 121.5338,
-    "country": "台灣",
+    "country": "臺灣",
     "region": "台灣",
-    "quote": "在台北的水源劇場",
-    "context": "《多情城市》台北演出場地"
+    "quote": "在臺北的水源劇場",
+    "context": "《多情城市》臺北演出場地"
   },
   {
-    "name": "台江劇場",
+    "name": "臺江劇場",
     "name_en": "Taijiang Theater",
     "lat": 23.0345,
     "lon": 120.1425,
-    "country": "台灣",
+    "country": "臺灣",
     "region": "台灣",
-    "quote": "然後在台南的台江劇場",
-    "context": "《多情城市》台南演出場地"
+    "quote": "然後在臺南的臺江劇場",
+    "context": "《多情城市》臺南演出場地"
   },
   {
     "name": "荷蘭海牙藝術學院舊大樓",
@@ -46,7 +46,7 @@
     "lon": 4.3248,
     "country": "荷蘭",
     "region": "歐洲",
-    "quote": "他们以荷兰海牙黄追阿艺术学院的旧大楼作为战时的庇护所",
+    "quote": "他們以荷蘭海牙黃追阿藝術學院的舊大樓作為戰時的庇護所",
     "context": "烏克蘭舞者的戰時庇護所與練舞處"
   }
 ]

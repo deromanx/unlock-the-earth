@@ -1,0 +1,99 @@
+[
+  {
+    "name": "杜布羅夫尼克古城",
+    "name_en": "Dubrovnik Old Town",
+    "lat": 42.641,
+    "lon": 18.108,
+    "country": "克羅埃西亞",
+    "region": "歐洲",
+    "quote": "你到杜布羅夫尼克的時候 他們是真的有生活的軌跡 在這個城裡面",
+    "context": "權力遊戲拍攝地，古城居民仍生活其中，門票含博物館"
+  },
+  {
+    "name": "赫瓦爾島",
+    "name_en": "Hvar Island",
+    "lat": 43.172,
+    "lon": 16.441,
+    "country": "克羅埃西亞",
+    "region": "歐洲",
+    "quote": "這個島在歐洲啊 其實是陽光之島",
+    "context": "陽光度假島，薰衣草、蜂蜜、橄欖油與白酒聞名",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/View_of_Hvar_02.jpg/330px-View_of_Hvar_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "戴克里先宮",
+    "name_en": "Diocletian's Palace",
+    "lat": 43.508,
+    "lon": 16.44,
+    "country": "克羅埃西亞",
+    "region": "歐洲",
+    "quote": "他這個皇宮叫戴克裡先宮",
+    "context": "羅馬皇帝退休皇宮，內有從埃及搬來的人面獅身像",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Croatia-01239_-_The_Peristil_%289551533404%29.jpg/330px-Croatia-01239_-_The_Peristil_%289551533404%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "斯普利特",
+    "name_en": "Split",
+    "lat": 43.508,
+    "lon": 16.44,
+    "country": "克羅埃西亞",
+    "region": "歐洲",
+    "quote": "因為中間在Split那邊 它是一個很大的轉運站",
+    "context": "中部港口轉運站，前往外島的樞紐"
+  },
+  {
+    "name": "十六湖國家公園",
+    "name_en": "Plitvice Lakes National Park",
+    "lat": 44.865,
+    "lon": 15.582,
+    "country": "克羅埃西亞",
+    "region": "歐洲",
+    "quote": "十六湖 如果你不是跟旅行團的話 我也是非常建議至少在這裡 待一天到兩天",
+    "context": "分上下湖區，烤鱒魚特產與湖泊傳說",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/View_in_Plitvice_Lakes_National_Park.jpg/330px-View_in_Plitvice_Lakes_National_Park.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "羅維尼",
+    "name_en": "Rovinj",
+    "lat": 45.081,
+    "lon": 13.639,
+    "country": "克羅埃西亞",
+    "region": "歐洲",
+    "quote": "這個羅維尼 它有一點像 比較平價版的威尼斯",
+    "context": "伊斯特拉半島彩色小城，松露美食與夕陽",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Rovinj%2C_Croatia.jpg/330px-Rovinj%2C_Croatia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "伊斯特拉半島",
+    "name_en": "Istria Peninsula",
+    "lat": 45.2,
+    "lon": 13.9,
+    "country": "克羅埃西亞",
+    "region": "歐洲",
+    "quote": "這個伊斯特拉半島 我超建議大家去",
+    "context": "盛產松露、觀光客少、物價較低",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Istria.png/330px-Istria.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "札格雷布",
+    "name_en": "Zagreb",
+    "lat": 45.815,
+    "lon": 15.982,
+    "country": "克羅埃西亞",
+    "region": "歐洲",
+    "quote": "畢竟我只待在 那個札格雷布嘛",
+    "context": "首都，電車、失戀博物館與農產品小店",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Zagreb_%2829255640143%29.jpg/330px-Zagreb_%2829255640143%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "失戀博物館",
+    "name_en": "Museum of Broken Relationships",
+    "lat": 45.816,
+    "lon": 15.974,
+    "country": "克羅埃西亞",
+    "region": "歐洲",
+    "quote": "再來就是失戀博物館",
+    "context": "首都特色博物館，需付費入場",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Museum_of_Broken_Relationships_logo.svg/330px-Museum_of_Broken_Relationships_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  }
+]

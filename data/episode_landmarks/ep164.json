@@ -4,9 +4,9 @@
     "name_en": "Calligraphy Greenway",
     "lat": 24.144,
     "lon": 120.6634,
-    "country": "台灣",
+    "country": "臺灣",
     "region": "台灣",
-    "quote": "歡迎大家到台中市最綠意盎然的草務道",
+    "quote": "歡迎大家到臺中市最綠意盎然的草務道",
     "context": "片頭廣告：青創品牌頒獎典禮與青創市集舉辦地點",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/%E7%B6%93%E5%9C%8B%E5%9C%92%E9%81%93%28%E8%8D%89%E6%82%9F%E9%81%93%29.JPG/330px-%E7%B6%93%E5%9C%8B%E5%9C%92%E9%81%93%28%E8%8D%89%E6%82%9F%E9%81%93%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
@@ -15,10 +15,10 @@
     "name_en": "National Chengchi University",
     "lat": 24.9867,
     "lon": 121.576,
-    "country": "台灣",
+    "country": "臺灣",
     "region": "台灣",
     "quote": "所以就找到了政大",
-    "context": "來賓赴台就讀的學校，就讀俄羅斯研究所"
+    "context": "來賓赴臺就讀的學校，就讀俄羅斯研究所"
   },
   {
     "name": "索契",
@@ -27,7 +27,7 @@
     "lon": 39.7231,
     "country": "俄羅斯",
     "region": "歐洲",
-    "quote": "我真的有听说过索契",
+    "quote": "我真的有聽說過索契",
     "context": "黑海濱度假勝地，說明俄羅斯並非全年酷寒",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Sochi_harbour.jpg/330px-Sochi_harbour.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }

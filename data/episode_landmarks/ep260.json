@@ -6,7 +6,7 @@
     "lon": 36.927,
     "country": "肯亞",
     "region": "非洲",
-    "quote": "所以是飞到奈若比国际机场这样子",
+    "quote": "所以是飛到奈若比國際機場這樣子",
     "context": "首次赴非洲的入境地，機場簡陋、拿紙本簽證"
   },
   {
@@ -16,7 +16,7 @@
     "lon": 36.4,
     "country": "肯亞",
     "region": "非洲",
-    "quote": "哦是大猎谷,哦对东非大猎谷",
+    "quote": "哦是大獵谷,哦對東非大獵谷",
     "context": "前往學校途中停車，初次看見地理課本中的景觀"
   },
   {
@@ -24,9 +24,9 @@
     "name_en": "Taoyuan International Airport",
     "lat": 25.08,
     "lon": 121.232,
-    "country": "台灣",
+    "country": "臺灣",
     "region": "台灣",
-    "quote": "然后我们就在桃圆机场见面",
+    "quote": "然後我們就在桃圓機場見面",
     "context": "六位團員首次集合、扛十二個行李箱出發",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Taoyuan_International_Airport.jpg/330px-Taoyuan_International_Airport.jpg"
   },
@@ -35,30 +35,30 @@
     "name_en": "Kampala",
     "lat": 0.348,
     "lon": 32.582,
-    "country": "烏干達",
+    "country": "烏幹達",
     "region": "非洲",
-    "quote": "首都叫坎帕拉,又有千秋之城的那种",
-    "context": "烏干達首都，坡多塞車，講者在此開車生活"
+    "quote": "首都叫坎帕拉,又有千秋之城的那種",
+    "context": "烏幹達首都，坡多塞車，講者在此開車生活"
   },
   {
     "name": "維多利亞湖",
     "name_en": "Lake Victoria",
     "lat": -1.0,
     "lon": 33.0,
-    "country": "烏干達",
+    "country": "烏幹達",
     "region": "非洲",
-    "quote": "叫维多利亚湖,对,它是台湾的两倍大的湖",
-    "context": "烏干達南部巨大湖泊，孕育河馬等生態"
+    "quote": "叫維多利亞湖,對,它是臺灣的兩倍大的湖",
+    "context": "烏幹達南部巨大湖泊，孕育河馬等生態"
   },
   {
     "name": "尼羅河源頭",
     "name_en": "Source of the Nile (Jinja)",
     "lat": 0.427,
     "lon": 33.205,
-    "country": "烏干達",
+    "country": "烏幹達",
     "region": "非洲",
-    "quote": "因为它是尼洛河的源头",
-    "context": "烏干達水量豐沛、為非洲糧倉之一"
+    "quote": "因為它是尼洛河的源頭",
+    "context": "烏幹達水量豐沛、為非洲糧倉之一"
   },
   {
     "name": "馬賽馬拉國家保護區",
@@ -67,7 +67,7 @@
     "lon": 35.144,
     "country": "肯亞",
     "region": "非洲",
-    "quote": "就是肯亚的马赛马啦,跟坦桑尼亚的赛伦盖提",
+    "quote": "就是肯亞的馬賽馬啦,跟坦桑尼亞的賽倫蓋提",
     "context": "以動物大遷徙聞名的肯亞觀光公園",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Masai_Mara_at_Sunset.jpg/330px-Masai_Mara_at_Sunset.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
@@ -78,7 +78,7 @@
     "lon": 34.833,
     "country": "坦尚尼亞",
     "region": "非洲",
-    "quote": "就是肯亚的马赛马啦,跟坦桑尼亚的赛伦盖提",
+    "quote": "就是肯亞的馬賽馬啦,跟坦桑尼亞的賽倫蓋提",
     "context": "與馬賽馬拉並稱的大遷徙著名公園",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Serengeti-Landscape-2012.JPG/330px-Serengeti-Landscape-2012.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }

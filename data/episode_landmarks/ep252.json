@@ -6,7 +6,7 @@
     "lon": 109.278,
     "country": "中國",
     "region": "亞洲",
-    "quote": "兵马俑这个东西虽然从小就已经从课本上看到无数次了",
+    "quote": "兵馬俑這個東西雖然從小就已經從課本上看到無數次了",
     "context": "西安必去經典，鎮館之寶保存完好的俑",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/51714-Terracota-Army.jpg/330px-51714-Terracota-Army.jpg"
   },
@@ -17,7 +17,7 @@
     "lon": 109.213,
     "country": "中國",
     "region": "亞洲",
-    "quote": "华清池的话它其实也是复刻的经典",
+    "quote": "華清池的話它其實也是復刻的經典",
     "context": "唐玄宗與楊貴妃泡澡之地，西安事變地點",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Huaqingchi_1.JPG/330px-Huaqingchi_1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
@@ -28,7 +28,7 @@
     "lon": 108.217,
     "country": "中國",
     "region": "亞洲",
-    "quote": "就是那个唐高宗跟武则天的前陵",
+    "quote": "就是那個唐高宗跟武則天的前陵",
     "context": "唐高宗與武則天合葬陵，未被盜過"
   },
   {
@@ -38,7 +38,7 @@
     "lon": 110.079,
     "country": "中國",
     "region": "亞洲",
-    "quote": "华山其实离那个西安也不远",
+    "quote": "華山其實離那個西安也不遠",
     "context": "金庸小說華山論劍地，搭纜車與長空棧道"
   },
   {
@@ -48,7 +48,7 @@
     "lon": 110.077,
     "country": "中國",
     "region": "亞洲",
-    "quote": "他有一个长空战道",
+    "quote": "他有一個長空戰道",
     "context": "華山南峰第一險，30公分木板繫安全繩"
   },
   {
@@ -58,7 +58,7 @@
     "lon": 108.951,
     "country": "中國",
     "region": "亞洲",
-    "quote": "他叫做七贤庄青年旅馆",
+    "quote": "他叫做七賢莊青年旅館",
     "context": "八路軍辦事處舊址改建的大宅院青旅"
   },
   {
@@ -68,7 +68,7 @@
     "lon": 108.944,
     "country": "中國",
     "region": "亞洲",
-    "quote": "西安的那个古城他的城门也是蛮有特色",
+    "quote": "西安的那個古城他的城門也是蠻有特色",
     "context": "城內古色古香，城外高樓林立"
   },
   {
@@ -78,7 +78,7 @@
     "lon": 108.943,
     "country": "中國",
     "region": "亞洲",
-    "quote": "叫做永宁门",
+    "quote": "叫做永寧門",
     "context": "西安現存最古老的隋代城門，有穿越感"
   },
   {
@@ -88,7 +88,7 @@
     "lon": 109.234,
     "country": "中國",
     "region": "亞洲",
-    "quote": "我们附近有个就是当初鸿门宴",
+    "quote": "我們附近有個就是當初鴻門宴",
     "context": "項羽劉邦鴻門宴疑似地點，多為新建"
   },
   {
@@ -98,7 +98,7 @@
     "lon": 108.954,
     "country": "中國",
     "region": "亞洲",
-    "quote": "还有那个陕西历史博物馆",
+    "quote": "還有那個陝西曆史博物館",
     "context": "可看西安歷代文物展覽",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Shaanxi_History_Museum.jpg/330px-Shaanxi_History_Museum.jpg"
   },
@@ -109,7 +109,7 @@
     "lon": 108.94,
     "country": "中國",
     "region": "亞洲",
-    "quote": "他高铁站西安北站的部分",
+    "quote": "他高鐵站西安北站的部分",
     "context": "離開西安時遇到拼車騙局的起點"
   },
   {
@@ -119,7 +119,7 @@
     "lon": 103.826,
     "country": "中國",
     "region": "亞洲",
-    "quote": "黄河是就是直接从兰州市区里面直接穿过",
+    "quote": "黃河是就是直接從蘭州市區裡面直接穿過",
     "context": "黃河穿過蘭州市區，河水真的是黃色"
   },
   {
@@ -129,7 +129,7 @@
     "lon": 103.775,
     "country": "中國",
     "region": "亞洲",
-    "quote": "真正的那个就在那个兰州的甘肃城博物馆里面",
+    "quote": "真正的那個就在那個蘭州的甘肅城博物館裡面",
     "context": "收藏馬踏飛燕真品"
   },
   {
@@ -139,7 +139,7 @@
     "lon": 100.452,
     "country": "中國",
     "region": "亞洲",
-    "quote": "叫做那个大佛寺就是西夏时代留下来的古迹",
+    "quote": "叫做那個大佛寺就是西夏時代留下來的古蹟",
     "context": "西夏國寺，傳忽必烈出生於此"
   },
   {
@@ -149,8 +149,8 @@
     "lon": 100.138,
     "country": "中國",
     "region": "亞洲",
-    "quote": "他有一个那个就是丹霞地貌",
-    "context": "雨後放晴的七彩岩層景觀"
+    "quote": "他有一個那個就是丹霞地貌",
+    "context": "雨後放晴的七彩巖層景觀"
   },
   {
     "name": "鳴沙山月牙泉",
@@ -159,7 +159,7 @@
     "lon": 94.68,
     "country": "中國",
     "region": "亞洲",
-    "quote": "那个明沙山跟月牙泉",
+    "quote": "那個明沙山跟月牙泉",
     "context": "敦煌細沙沙漠，騎駱駝賞黃昏"
   },
   {
@@ -169,7 +169,7 @@
     "lon": 94.805,
     "country": "中國",
     "region": "亞洲",
-    "quote": "像墨高窟里面它就保存了很多",
+    "quote": "像墨高窟裡面它就保存了很多",
     "context": "保存北魏壁畫，文物曾被西方探險家帶走",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Mogao_Caves_%2854376969262%29.jpg/330px-Mogao_Caves_%2854376969262%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
@@ -180,7 +180,7 @@
     "lon": 93.862,
     "country": "中國",
     "region": "亞洲",
-    "quote": "我有去到最西边最西边的玉门关",
+    "quote": "我有去到最西邊最西邊的玉門關",
     "context": "修復但保持土堆原貌的漢代邊塞",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Yumenguan.jpg/330px-Yumenguan.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
@@ -191,7 +191,7 @@
     "lon": 93.9,
     "country": "中國",
     "region": "亞洲",
-    "quote": "你人爬不过来马跳不过来他能够挡胸奴那他就是长城",
+    "quote": "你人爬不過來馬跳不過來他能夠擋胸奴那他就是長城",
     "context": "土堆形態的漢長城，賣票員說明其功能"
   },
   {
@@ -201,7 +201,7 @@
     "lon": 98.215,
     "country": "中國",
     "region": "亞洲",
-    "quote": "万里长城的西边的终点就在嘉育关",
+    "quote": "萬裡長城的西邊的終點就在嘉育關",
     "context": "明長城西端終點，放棄敦煌",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Jiayu_Guan_2014.01.01_11-03-14.jpg/330px-Jiayu_Guan_2014.01.01_11-03-14.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
@@ -212,7 +212,7 @@
     "lon": 95.783,
     "country": "中國",
     "region": "亞洲",
-    "quote": "那个地方真的是风超大",
+    "quote": "那個地方真的是風超大",
     "context": "西域三絕之一的風，滿布風力發電",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Location_of_Guazhou_within_Gansu_%28China%29.png/330px-Location_of_Guazhou_within_Gansu_%28China%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
@@ -223,7 +223,7 @@
     "lon": 102.64,
     "country": "中國",
     "region": "亞洲",
-    "quote": "你在这个它出土的这个地方也可以看到一尊很大的马踏飞烟",
+    "quote": "你在這個它出土的這個地方也可以看到一尊很大的馬踏飛煙",
     "context": "馬踏飛燕出土處，夜光杯特產"
   },
   {
@@ -233,7 +233,7 @@
     "lon": 106.231,
     "country": "中國",
     "region": "亞洲",
-    "quote": "银川是很不错的他是以前那个什么西夏首都吗",
+    "quote": "銀川是很不錯的他是以前那個什麼西夏首都嗎",
     "context": "西夏首都，有新建的西夏主題景點",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Skyline_of_Jinfeng_District%2C_Yinchuan_%2853724463112%29.jpg/330px-Skyline_of_Jinfeng_District%2C_Yinchuan_%2853724463112%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }

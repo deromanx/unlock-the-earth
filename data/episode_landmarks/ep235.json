@@ -4,9 +4,9 @@
     "name_en": "Southern Branch of the National Palace Museum",
     "lat": 23.4693,
     "lon": 120.3098,
-    "country": "台灣",
+    "country": "臺灣",
     "region": "台灣",
-    "quote": "上周末才从故宫南院回来",
+    "quote": "上週末才從故宮南院回來",
     "context": "本集核心，浮世繪特展與南院特色、定位介紹",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Southern_Branch_of_the_National_Palace_Museum_main_building_and_zhimei_bridge.jpg/330px-Southern_Branch_of_the_National_Palace_Museum_main_building_and_zhimei_bridge.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
@@ -15,9 +15,9 @@
     "name_en": "National Palace Museum",
     "lat": 25.1024,
     "lon": 121.5485,
-    "country": "台灣",
+    "country": "臺灣",
     "region": "台灣",
-    "quote": "北院的观光客团客特别多",
+    "quote": "北院的觀光客團客特別多",
     "context": "與南院比較，翠玉白菜、肉形石等鎮館之寶所在",
     "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/73/National_Palace_Museum_logo.svg/330px-National_Palace_Museum_logo.svg.png"
   },
@@ -28,7 +28,7 @@
     "lon": 139.7745,
     "country": "日本",
     "region": "亞洲",
-    "quote": "他这条东海道53次呢他的起点是日本桥",
+    "quote": "他這條東海道53次呢他的起點是日本橋",
     "context": "東海道五十三次的起點"
   },
   {
@@ -38,7 +38,7 @@
     "lon": 135.7715,
     "country": "日本",
     "region": "亞洲",
-    "quote": "终点是这个京都的三条大桥",
+    "quote": "終點是這個京都的三條大橋",
     "context": "東海道五十三次終點，鴨川旁"
   },
   {
@@ -48,7 +48,7 @@
     "lon": 135.771,
     "country": "日本",
     "region": "亞洲",
-    "quote": "鸦川又是著名的景点",
+    "quote": "鴉川又是著名的景點",
     "context": "三條大橋下的河川，今昔對比",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Kamogawa_sakura.jpg/330px-Kamogawa_sakura.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
@@ -59,7 +59,7 @@
     "lon": 139.1553,
     "country": "日本",
     "region": "亞洲",
-    "quote": "你有去过那个啊小田园",
+    "quote": "你有去過那個啊小田園",
     "context": "東海道驛站之一，主持人旅程經過"
   },
   {
@@ -69,7 +69,7 @@
     "lon": 139.7978,
     "country": "日本",
     "region": "亞洲",
-    "quote": "吉原游扩的部分",
+    "quote": "吉原遊擴的部分",
     "context": "江戶花街，美人繪與大首繪的題材來源",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cherry_Blossom_Time_in_Nakanocho_of_the_Yoshiwara_LACMA_16.14.48.jpg/330px-Cherry_Blossom_Time_in_Nakanocho_of_the_Yoshiwara_LACMA_16.14.48.jpg"
   },
@@ -80,7 +80,7 @@
     "lon": 139.7623,
     "country": "日本",
     "region": "亞洲",
-    "quote": "来自出光美术馆的这个江户民所图屏风",
+    "quote": "來自出光美術館的這個江戶民所圖屏風",
     "context": "借展江戶名所圖屏風的來源館",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Imperial_Garden_Theater%2C_Tokyo.jpg/330px-Imperial_Garden_Theater%2C_Tokyo.jpg"
   },
@@ -91,7 +91,7 @@
     "lon": 139.8016,
     "country": "日本",
     "region": "亞洲",
-    "quote": "我还是蛮想要去东京的这个北斋美术馆",
+    "quote": "我還是蠻想要去東京的這個北齋美術館",
     "context": "主持人想再看北齋作品的地點"
   },
   {
@@ -101,8 +101,8 @@
     "lon": 139.7671,
     "country": "日本",
     "region": "亞洲",
-    "quote": "东京车站的这个建筑设计师是陈也金武",
-    "context": "辰野金吾代表作，與台灣建築相呼應",
+    "quote": "東京車站的這個建築設計師是陳也金武",
+    "context": "辰野金吾代表作，與臺灣建築相呼應",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Tokyo-STA_Marunouchi-Entrance_2023.jpg/330px-Tokyo-STA_Marunouchi-Entrance_2023.jpg"
   },
   {
@@ -120,9 +120,9 @@
     "name_en": "Chiayi Old Prison (Museum of Prison Arts)",
     "lat": 23.485,
     "lon": 120.459,
-    "country": "台灣",
+    "country": "臺灣",
     "region": "台灣",
-    "quote": "嘉义旧监狱监狱改成的博物馆",
+    "quote": "嘉義舊監獄監獄改成的博物館",
     "context": "全球僅二的賓州式木造監獄建築"
   },
   {
@@ -130,9 +130,9 @@
     "name_en": "Chiayi Art Museum",
     "lat": 23.4797,
     "lon": 120.451,
-    "country": "台灣",
+    "country": "臺灣",
     "region": "台灣",
-    "quote": "我很喜欢嘉义势力美术馆非常漂亮",
+    "quote": "我很喜歡嘉義勢力美術館非常漂亮",
     "context": "前身為菸酒公賣局嘉義分局，玻璃帷幕改造"
   },
   {
@@ -140,19 +140,19 @@
     "name_en": "National Museum of Taiwan Literature",
     "lat": 22.9915,
     "lon": 120.2035,
-    "country": "台灣",
+    "country": "臺灣",
     "region": "台灣",
-    "quote": "台湾文学馆呢他的前身台南周厅",
-    "context": "辰野式建築，前身為台南州廳"
+    "quote": "臺灣文學館呢他的前身臺南周廳",
+    "context": "辰野式建築，前身為臺南州廳"
   },
   {
     "name": "國立臺灣博物館",
     "name_en": "National Taiwan Museum",
     "lat": 25.0425,
     "lon": 121.5152,
-    "country": "台灣",
+    "country": "臺灣",
     "region": "台灣",
-    "quote": "台湾博物馆他的本馆呢他之前就是台湾总督府博物馆",
+    "quote": "臺灣博物館他的本館呢他之前就是臺灣總督府博物館",
     "context": "日治時期總督府博物館建築"
   },
   {
@@ -160,9 +160,9 @@
     "name_en": "National Taiwan Museum Railway Department Park",
     "lat": 25.0477,
     "lon": 121.5147,
-    "country": "台灣",
+    "country": "臺灣",
     "region": "台灣",
-    "quote": "台湾博物馆的铁道园区之前是台湾总督府交通局铁道园",
+    "quote": "臺灣博物館的鐵道園區之前是臺灣總督府交通局鐵道園",
     "context": "前身為總督府交通局鐵道部"
   },
   {
@@ -170,29 +170,29 @@
     "name_en": "National Taiwan Museum Nanmen Park",
     "lat": 25.0343,
     "lon": 121.5189,
-    "country": "台灣",
+    "country": "臺灣",
     "region": "台灣",
-    "quote": "南门园区则是台湾总督府专卖局台北南门工厂",
-    "context": "前身為專賣局台北南門工廠"
+    "quote": "南門園區則是臺灣總督府專賣局臺北南門工廠",
+    "context": "前身為專賣局臺北南門工廠"
   },
   {
     "name": "國家攝影文化中心",
     "name_en": "National Center of Photography and Images",
     "lat": 25.0493,
     "lon": 121.5115,
-    "country": "台灣",
+    "country": "臺灣",
     "region": "台灣",
-    "quote": "国家摄影文化中心你有印象吗",
-    "context": "前身為大阪商船台北支店，國美館分館"
+    "quote": "國家攝影文化中心你有印象嗎",
+    "context": "前身為大阪商船臺北支店，國美館分館"
   },
   {
     "name": "國立臺灣美術館",
     "name_en": "National Taiwan Museum of Fine Arts",
     "lat": 24.1403,
     "lon": 120.6637,
-    "country": "台灣",
+    "country": "臺灣",
     "region": "台灣",
-    "quote": "廉池的话也是国美馆典场",
+    "quote": "廉池的話也是國美館典場",
     "context": "典藏林玉山〈蓮池〉等國寶"
   },
   {
@@ -200,9 +200,9 @@
     "name_en": "Taipei Fine Arts Museum",
     "lat": 25.0724,
     "lon": 121.5249,
-    "country": "台灣",
+    "country": "臺灣",
     "region": "台灣",
-    "quote": "我之前就是去北美馆看展",
+    "quote": "我之前就是去北美館看展",
     "context": "展出膠彩畫特展，門票僅30元"
   },
   {
@@ -212,7 +212,7 @@
     "lon": 28.9802,
     "country": "土耳其",
     "region": "亞洲",
-    "quote": "拜占庭人的世界奇观是圣索贝亚大教堂",
+    "quote": "拜占庭人的世界奇觀是聖索貝亞大教堂",
     "context": "對比土耳其門票昂貴，需另購套票",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Hagia_Sophia_%28228968325%29.jpeg/330px-Hagia_Sophia_%28228968325%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
@@ -223,7 +223,7 @@
     "lon": 28.9768,
     "country": "土耳其",
     "region": "亞洲",
-    "quote": "另外一个是蓝色清真寺",
+    "quote": "另外一個是藍色清真寺",
     "context": "鄂圖曼世界奇觀，清真寺免門票"
   }
 ]

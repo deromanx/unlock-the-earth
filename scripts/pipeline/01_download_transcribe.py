@@ -8,16 +8,22 @@ Usage:
   python3 scripts/pipeline/01_download_transcribe.py              # all episodes
   python3 scripts/pipeline/01_download_transcribe.py --ep 266     # single episode
   python3 scripts/pipeline/01_download_transcribe.py --batch 10   # batch size
+  python3 scripts/pipeline/01_download_transcribe.py --ep 208 --force   # 逐字稿壞掉（幻覺迴圈）時重轉
 """
 import json, re, subprocess, sys, argparse, xml.etree.ElementTree as ET
 from pathlib import Path
 from urllib.request import urlopen, Request, urlretrieve
 
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+from transcript_quality import quality, SEVERE_LOOP
+
 ROOT        = Path(__file__).parent.parent.parent
 TRANSCRIPT_DIR = ROOT / 'data' / 'transcripts'
 AUDIO_TMP   = Path('/tmp/podcast_audio')
 RSS_URL     = "https://feed.firstory.me/rss/user/cjzryn64q34i607580oyblh1u"
-WHISPER_MODEL = "mlx-community/whisper-large-v3-turbo"
+# Breeze ASR 25：聯發科針對台灣華語微調的 Whisper，和 /podcast-post 用同一個（2026-10 起）
+WHISPER_MODEL = "rueispaw/Breeze-ASR-25-mlx-q8"
+WHISPER_PROMPT = "以下是台灣繁體中文 Podcast《解鎖地球》的對話，主持人是游尚傑。請全程使用繁體中文。"
 
 TRANSCRIPT_DIR.mkdir(parents=True, exist_ok=True)
 AUDIO_TMP.mkdir(parents=True, exist_ok=True)
@@ -72,6 +78,7 @@ def transcribe(ep_num, audio_url):
             'mlx_whisper', str(audio_path),
             '--model', WHISPER_MODEL,
             '--language', 'zh',
+            '--initial-prompt', WHISPER_PROMPT,
             # 避免解碼陷入重複迴圈卡死（Ep.253 曾卡 2 小時以上）
             '--condition-on-previous-text', 'False',
             '--output-format', 'txt',
@@ -84,27 +91,27 @@ def transcribe(ep_num, audio_url):
         print(f"  Timeout for Ep.{ep_num}")
         return False
 
-    # Move transcript to data/transcripts/
     tmp_txt = AUDIO_TMP / f"ep{ep_num:03d}.txt"
-    if tmp_txt.exists():
-        tmp_txt.rename(txt_out)
-    else:
+    if not tmp_txt.exists():
         # whisper names output after input file
         candidates = list(AUDIO_TMP.glob(f"ep{ep_num:03d}*.txt"))
-        if candidates:
-            candidates[0].rename(txt_out)
-        else:
+        if not candidates:
             print(f"  No transcript found for Ep.{ep_num}")
             return False
+        tmp_txt = candidates[0]
 
-    # 品質檢查：Whisper 幻覺會整份重複同一句（「中文字幕」「!」等），重複率過高視為失敗
-    lines = [l.strip() for l in txt_out.read_text(encoding='utf-8').splitlines() if l.strip()]
-    if len(lines) < 200 or len(set(lines)) / len(lines) < 0.6:
+    # 品質檢查（在覆蓋舊檔之前做，--force 重轉失敗時保留原本的逐字稿）：
+    # Whisper 幻覺會整份重複同一句（「中文字幕」「!」等），或同一個字連打幾百次（「嗯嗯嗯…」）
+    text = tmp_txt.read_text(encoding='utf-8')
+    lines = [l.strip() for l in text.splitlines() if l.strip()]
+    loop = quality(text, 60)['loop']
+    if len(lines) < 200 or len(set(lines)) / len(lines) < 0.6 or loop >= SEVERE_LOOP:
         bad = txt_out.with_suffix('.bad.txt')
-        txt_out.rename(bad)
-        print(f"  ✗ Ep.{ep_num} 逐字稿疑似幻覺（{len(lines)} 行，不重複 {len(set(lines))}）→ {bad.name}")
+        tmp_txt.rename(bad)
+        print(f"  ✗ Ep.{ep_num} 逐字稿疑似幻覺（{len(lines)} 行，不重複 {len(set(lines))}，迴圈 {loop:.0%}）→ {bad.name}")
         audio_path.unlink(missing_ok=True)
         return False
+    tmp_txt.rename(txt_out)
 
     # Delete audio to save space
     audio_path.unlink(missing_ok=True)
@@ -116,6 +123,7 @@ def main():
     parser.add_argument('--ep',    type=int, help='Single episode number')
     parser.add_argument('--batch', type=int, default=20, help='Batch size')
     parser.add_argument('--start', type=int, default=1, help='Start from episode number')
+    parser.add_argument('--force', action='store_true', help='已有逐字稿也重轉（品質不過關時保留舊檔）')
     args = parser.parse_args()
 
     print("Fetching episode list from RSS…")
@@ -129,7 +137,7 @@ def main():
     else:
         episodes = [e for e in episodes if e['ep'] >= args.start]
 
-    todo = [e for e in episodes if not already_done(e['ep'])]
+    todo = episodes if args.force else [e for e in episodes if not already_done(e['ep'])]
     print(f"To process: {len(todo)} (skipping {len(episodes)-len(todo)} already done)\n")
 
     success = fail = 0

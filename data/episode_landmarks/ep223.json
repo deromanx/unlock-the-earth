@@ -16,7 +16,7 @@
     "lon": -0.1236,
     "country": "英國",
     "region": "歐洲",
-    "quote": "就是21号Mainton Lane",
+    "quote": "就是21號Mainton Lane",
     "context": "透納父親理髮廳舊址，現為酒吧並有綠色紀念牌"
   },
   {
@@ -26,7 +26,7 @@
     "lon": -0.1394,
     "country": "英國",
     "region": "歐洲",
-    "quote": "皇家艺术学院的Royal Academy of Arts",
+    "quote": "皇家藝術學院的Royal Academy of Arts",
     "context": "透納的母校，24歲成為最年輕院士，與康斯塔伯較勁"
   },
   {
@@ -66,7 +66,7 @@
     "lon": -0.0984,
     "country": "英國",
     "region": "歐洲",
-    "quote": "他最后是埋葬在圣保罗大教堂里面",
+    "quote": "他最後是埋葬在聖保羅大教堂裡面",
     "context": "透納安葬於地下墓室的藝術家區"
   },
   {
@@ -76,7 +76,7 @@
     "lon": -0.0077,
     "country": "英國",
     "region": "歐洲",
-    "quote": "Greenwich这一代就是从16世纪以后",
+    "quote": "Greenwich這一代就是從16世紀以後",
     "context": "造船與海事重地，海事博物館所在"
   },
   {
@@ -96,7 +96,7 @@
     "lon": -0.1721,
     "country": "英國",
     "region": "歐洲",
-    "quote": "今天我们叫这个Cheney Walk这一带",
+    "quote": "今天我們叫這個Cheney Walk這一帶",
     "context": "透納晚年與情婦居住的富人區"
   },
   {
@@ -106,7 +106,7 @@
     "lon": 8.4854,
     "country": "瑞士",
     "region": "歐洲",
-    "quote": "Rigi这个地方其实是在瑞士",
+    "quote": "Rigi這個地方其實是在瑞士",
     "context": "透納《藍色瑞吉山》描繪的風景，與龜山島相聯想"
   },
   {
@@ -116,7 +116,7 @@
     "lon": 1.3862,
     "country": "英國",
     "region": "歐洲",
-    "quote": "Margat是沿海一带的小城市",
+    "quote": "Margat是沿海一帶的小城市",
     "context": "透納少年時期常去的海邊小鎮，影響其海景創作",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Margate_Clock_Tower_Oast_House_Archive.jpg/330px-Margate_Clock_Tower_Oast_House_Archive.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
@@ -127,7 +127,7 @@
     "lon": -6.0333,
     "country": "西班牙",
     "region": "歐洲",
-    "quote": "他出现在这个特拉法加之战里面",
+    "quote": "他出現在這個特拉法加之戰裡面",
     "context": "無畏號參與的1805年海戰，納爾遜陣亡"
   },
   {
@@ -137,7 +137,7 @@
     "lon": -0.1167,
     "country": "英國",
     "region": "歐洲",
-    "quote": "这个开幕的滑铁卢之桥",
+    "quote": "這個開幕的滑鐵盧之橋",
     "context": "康斯塔伯展出《滑鐵盧橋開幕》，透納以紅點搶風頭"
   },
   {
@@ -147,7 +147,7 @@
     "lon": -0.05,
     "country": "英國",
     "region": "歐洲",
-    "quote": "大概在今天的Canada Water或Devr这一带",
+    "quote": "大概在今天的Canada Water或Devr這一帶",
     "context": "無畏號被拖往解體的泰晤士河東南區"
   },
   {
@@ -155,19 +155,19 @@
     "name_en": "Chimei Museum",
     "lat": 22.9345,
     "lon": 120.226,
-    "country": "台灣",
+    "country": "臺灣",
     "region": "台灣",
-    "quote": "在奇美博物馆里面",
-    "context": "2024年國家美術館200周年巡展台灣站"
+    "quote": "在奇美博物館裡面",
+    "context": "2024年國家美術館200週年巡展臺灣站"
   },
   {
     "name": "龜山島",
     "name_en": "Guishan Island",
     "lat": 24.8415,
     "lon": 121.9533,
-    "country": "台灣",
+    "country": "臺灣",
     "region": "台灣",
-    "quote": "我以为是龟山岛",
+    "quote": "我以為是龜山島",
     "context": "講者看《藍色瑞吉山》聯想到的島嶼"
   }
 ]

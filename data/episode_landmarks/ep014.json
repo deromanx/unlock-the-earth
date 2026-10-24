@@ -6,7 +6,7 @@
     "lon": -79.075,
     "country": "加拿大",
     "region": "美洲",
-    "quote": "就在尼加拉瀑布那边是美国的边界然后有一个长虹桥",
+    "quote": "就在尼加拉瀑布那邊是美國的邊界然後有一個長虹橋",
     "context": "換簽證需出境，走過彩虹橋到美國再回來"
   },
   {
@@ -16,7 +16,7 @@
     "lon": -79.069,
     "country": "加拿大",
     "region": "美洲",
-    "quote": "然后有一个长虹桥我就要过去走过去然后再走回来",
+    "quote": "然後有一個長虹橋我就要過去走過去然後再走回來",
     "context": "步行過橋出境十秒再入境換簽證"
   },
   {
@@ -26,8 +26,8 @@
     "lon": -78.378,
     "country": "加拿大",
     "region": "美洲",
-    "quote": "叫做阿尔冠国家公园阿康克林",
-    "context": "划獨木舟露營三天兩夜，最推薦的旅行方式"
+    "quote": "叫做阿爾冠國家公園阿康克林",
+    "context": "劃獨木舟露營三天兩夜，最推薦的旅行方式"
   },
   {
     "name": "愛德華王子島",
@@ -36,7 +36,7 @@
     "lon": -63.417,
     "country": "加拿大",
     "region": "美洲",
-    "quote": "从多伦多开车旅行开到爱德华王子岛来回",
+    "quote": "從多倫多開車旅行開到愛德華王子島來回",
     "context": "與家人開車露營旅行的目的地"
   },
   {
@@ -46,7 +46,7 @@
     "lon": -71.2,
     "country": "加拿大",
     "region": "美洲",
-    "quote": "然后就沿着圣罗人士河一路开其实影点还蛮多的",
+    "quote": "然後就沿著聖羅人士河一路開其實影點還蠻多的",
     "context": "家庭露營旅行沿河而行"
   },
   {
@@ -56,7 +56,7 @@
     "lon": -122.957,
     "country": "加拿大",
     "region": "美洲",
-    "quote": "去温哥华霍斯勒那边真的是大山",
+    "quote": "去溫哥華霍斯勒那邊真的是大山",
     "context": "滑雪推薦地，需搭機前往"
   },
   {
@@ -66,7 +66,7 @@
     "lon": -66.643,
     "country": "加拿大",
     "region": "美洲",
-    "quote": "从多伦多骑到右边的东边的New Brunswick Fredericton大概1600公里",
+    "quote": "從多倫多騎到右邊的東邊的New Brunswick Fredericton大概1600公里",
     "context": "單車旅行終點"
   },
   {
@@ -76,7 +76,7 @@
     "lon": -122.679,
     "country": "美國",
     "region": "美洲",
-    "quote": "从欧瑞罗州波特兰一路到最南端美墨边界Sandyago",
+    "quote": "從歐瑞羅州波特蘭一路到最南端美墨邊界Sandyago",
     "context": "美西單車旅行起點"
   },
   {
@@ -86,7 +86,7 @@
     "lon": -117.161,
     "country": "美國",
     "region": "美洲",
-    "quote": "一路到最南端美墨边界Sandyago",
+    "quote": "一路到最南端美墨邊界Sandyago",
     "context": "美西單車旅行終點",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/La_Jolla_Shores_view_%28cropped%29.jpg/330px-La_Jolla_Shores_view_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }

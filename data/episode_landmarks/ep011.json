@@ -4,9 +4,9 @@
     "name_en": "Yangmingshan",
     "lat": 25.156,
     "lon": 121.549,
-    "country": "台灣",
+    "country": "臺灣",
     "region": "台灣",
-    "quote": "大家就去那个阳明山的什么春天酒店",
+    "quote": "大家就去那個陽明山的什麼春天酒店",
     "context": "員工旅遊泡溫泉；也曾獨自到草地看書",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Mount_Qixing_under_clear_sky_on_13th_February_2016.jpg/330px-Mount_Qixing_under_clear_sky_on_13th_February_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
@@ -17,7 +17,7 @@
     "lon": 174.763,
     "country": "紐西蘭",
     "region": "大洋洲",
-    "quote": "我在奥克兰等着大概十几天",
+    "quote": "我在奧克蘭等著大概十幾天",
     "context": "首次背包旅行的轉捩點，告白與贈石頭",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Auckland_skyline_-_May_2024_%282%29.jpg/330px-Auckland_skyline_-_May_2024_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
@@ -28,7 +28,7 @@
     "lon": 175.652,
     "country": "紐西蘭",
     "region": "大洋洲",
-    "quote": "我要去那个爬一个山叫Tanker Rural Crossing",
+    "quote": "我要去那個爬一個山叫Tanker Rural Crossing",
     "context": "與德國女生同行，才得知是魔戒取景地"
   },
   {
@@ -38,7 +38,7 @@
     "lon": 175.918,
     "country": "紐西蘭",
     "region": "大洋洲",
-    "quote": "我们当时去一个叫陶坡湖",
+    "quote": "我們當時去一個叫陶坡湖",
     "context": "住宿客滿，泡溫泉認識怪異當地人"
   },
   {
@@ -48,7 +48,7 @@
     "lon": 174.776,
     "country": "紐西蘭",
     "region": "大洋洲",
-    "quote": "在那个首都的威灵顿有遇到一个couch serving的",
+    "quote": "在那個首都的威靈頓有遇到一個couch serving的",
     "context": "沙發主人宴請十多人過聖誕節",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Seddon_Statue_in_Parliament_Grounds.jpg/330px-Seddon_Statue_in_Parliament_Grounds.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
@@ -59,7 +59,7 @@
     "lon": 28.978,
     "country": "土耳其",
     "region": "亞洲",
-    "quote": "那时候我在伊斯坦堡",
+    "quote": "那時候我在伊斯坦堡",
     "context": "遭黑店詐騙，也在渡輪上結識當地女孩",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Historical_peninsula_and_modern_skyline_of_Istanbul.jpg/330px-Historical_peninsula_and_modern_skyline_of_Istanbul.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
@@ -70,7 +70,7 @@
     "lon": 106.699,
     "country": "越南",
     "region": "亞洲",
-    "quote": "我去越南西贡的时候它那边有一个书店街",
+    "quote": "我去越南西貢的時候它那邊有一個書店街",
     "context": "買下越南文版《尋羊冒險記》捐給書店"
   },
   {
@@ -78,10 +78,10 @@
     "name_en": "Brilliant Time Bookstore",
     "lat": 25.047,
     "lon": 121.517,
-    "country": "台灣",
+    "country": "臺灣",
     "region": "台灣",
-    "quote": "在台湾有一个书店叫做灿烂时光书店",
-    "context": "關注東南亞移工，發起帶一本看不懂的書回台灣"
+    "quote": "在臺灣有一個書店叫做燦爛時光書店",
+    "context": "關注東南亞移工，發起帶一本看不懂的書回臺灣"
   },
   {
     "name": "成都",
@@ -90,7 +90,7 @@
     "lon": 104.066,
     "country": "中國",
     "region": "亞洲",
-    "quote": "那一次是在中国的成都",
+    "quote": "那一次是在中國的成都",
     "context": "沙發衝浪主人提供客房與早餐的美好經驗"
   }
 ]

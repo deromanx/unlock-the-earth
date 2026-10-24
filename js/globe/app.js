@@ -8,7 +8,9 @@ const {
 
 const PODCAST_COVER = 'https://d3mww1g1pfq2pt.cloudfront.net/Avatar/cjzryn64q34i607580oyblh1u/1616036848631.jpg';
 const SITE_URL = 'https://deromanx.github.io/unlock-the-earth/';
-const DATA_V = '?v=1';
+const GLOBE_LIB = 'https://cdn.jsdelivr.net/npm/globe.gl@2.46.2/dist/globe.gl.min.js';   // index.html 也有一行 preload，改版本要一起改
+// 資料版本：scripts/stamp_data_version.py 依資料檔內容算出、寫進 index.html，資料一更新瀏覽器就不會拿到舊快取
+const DATA_V = '?v=' + (document.querySelector('meta[name="data-version"]')?.content || '1');
 const HOME_COUNTRY = '台灣';   // 主場集數遠超其他國，不參與刻度上限、直接顯示最亮色
 const REGIONS = ['亞洲', '歐洲', '美洲', '非洲', '大洋洲', '台灣', '極地'];
 const IS_TOUCH = matchMedia('(hover: none)').matches;
@@ -62,7 +64,8 @@ let landmarks = [];
 let countryFeatures = [];
 let theme = readStore('ute-theme-v2') || 'dark';
 
-const filters = { query: '', region: 'all', year: null };
+const filters = { query: '', region: 'all', year: null, tag: null };
+let tagList = [];             // 主題標籤（data/episode_tags.json）
 const focus = { lms: null, countryKey: null };   // 目前高亮的地標集合／國家
 let detailStack = [];
 let hoverRings = [];
@@ -71,6 +74,7 @@ let idleTimer = null;
 const timeline = { on: false, playing: false, ms: 0, min: 0, max: 0, raf: 0, lastEp: null, countryCounts: new Map() };
 const story = { on: false, ep: null, stops: [], i: 0, playing: true, timer: null };
 let visitedOn = false;
+let extractedEps = null;      // 已抽過地標的集數（data/extracted_eps.json）；沒抽過的顯示「地點整理中」
 let visited = new Set(JSON.parse(readStore('ute-visited') || '[]'));
 
 // ── 啟動 ──────────────────────────────────────────────
@@ -80,25 +84,34 @@ async function init() {
   document.querySelectorAll('[data-icon]').forEach(el => { el.innerHTML = ICONS[el.dataset.icon] || ''; });
   applyTheme(theme, false);
   if (!hasWebGL()) {
-    showFatal('你的瀏覽器不支援 3D 繪圖。可以改看 <a href="classic.html">平面地圖版</a>。');
+    showFatal('你的瀏覽器不支援 3D 繪圖，請換用較新版本的 Chrome、Safari 或 Edge。');
     return;
   }
 
-  let episodes, geo;
+  // 地球引擎（globe.gl，約 1.9MB）和資料同時下載；資料先到就先顯示標題和集數列表，不必等地球
+  const globeLib = loadScript(GLOBE_LIB);
+  globeLib.catch(() => {});
+  let episodes, geo, tagData;
   try {
-    [episodes, landmarks, geo] = await Promise.all([
+    [episodes, landmarks, geo, extractedEps, tagData] = await Promise.all([
       fetchJson(`data/episodes.json${DATA_V}`),
       fetchJson(`data/landmarks_global.json${DATA_V}`),
       fetchJson(`data/countries.json${DATA_V}`),
+      fetchJson(`data/extracted_eps.json${DATA_V}`).then(a => new Set(a)).catch(() => null),
+      fetchJson(`data/episode_tags.json${DATA_V}`).catch(() => ({ tags: [], episodes: {} })),
     ]);
   } catch (e) {
     console.error('Failed to load data:', e);
-    showFatal('資料載入失敗，請重新整理。也可以改看 <a href="classic.html">平面地圖版</a>。');
+    showFatal('資料載入失敗，請重新整理。');
     return;
   }
 
   landmarks.forEach((lm, i) => { lm.id = i; });
   ix = buildIndex(episodes, landmarks);
+  // 主題標籤：篩選用，也加進搜尋文字（搜「美食」找得到）
+  tagList = tagData.tags;
+  ix.tagsByEp = new Map(Object.entries(tagData.episodes).map(([n, t]) => [Number(n), t]));
+  for (const [n, t] of ix.tagsByEp) if (ix.searchText.has(n)) ix.searchText.set(n, `${ix.searchText.get(n)} ${t.join(' ')}`);
   ix.maxCountryEps = Math.max(1, ...[...ix.countries.values()].filter(c => c.key !== HOME_COUNTRY).map(c => c.eps.size));
 
   // data/countries.json：world-atlas 110m＋50m/10m 補的小國，已清掉退化多邊形並驗證 h3 不會丟錯
@@ -112,12 +125,25 @@ async function init() {
     f.country = (a2 && ix.countryByA2.get(a2)) || ix.countries.get(zh) || null;
   }
 
-  initGlobe();
   renderFilters();
   renderEpList();
   renderHero();
   renderLegend();
+  countUpHero();
+  document.body.classList.add('globe-pending');
+  document.getElementById('loading').classList.add('done');
+
+  try {
+    await globeLib;
+  } catch (e) {
+    showFatal('地球載入失敗，請重新整理。');
+    return;
+  }
+  initGlobe();
   bindEvents();
+  pulseLatest();
+  if (document.body.classList.contains('intro')) setIntro(true);
+  updateCountryLabels(globe.pointOfView().altitude);
 
   if (new URLSearchParams(location.search).get('visited')) loadVisitedFromUrl();
   handleDeepLink();
@@ -189,8 +215,7 @@ function initGlobe() {
     .onGlobeClick(() => { if (!visitedOn && !story.on) { clearFocus(); closeDetail(); } })
     .onZoom(onZoom)
     .onGlobeReady(() => {
-      document.getElementById('loading').classList.add('done');
-      countUpHero();
+      document.body.classList.remove('globe-pending');
       setTimeout(watchPerformance, 1500);
     });
 
@@ -210,7 +235,7 @@ function initGlobe() {
   controls.maxDistance = 600;
   controls.addEventListener('start', onUserInteract);
 
-  globe.pointOfView({ lat: HOME.lat - 5, lng: HOME.lng - 20, altitude: IS_SMALL ? 3.2 : 2.4 }, 0);
+  globe.pointOfView({ lat: HOME.lat - 5, lng: HOME.lng - 20, altitude: IS_SMALL ? 2.8 : 2.4 }, 0);
 
   addEventListener('resize', () => { globe.width(innerWidth).height(innerHeight); drawStars(); });
   drawStars();
@@ -402,6 +427,7 @@ function visiblePoints() {
     }
     if (filters.region !== 'all' && lm.region !== filters.region) return false;
     if (filters.year && !lm.epNums.some(n => ix.epMeta.get(n)?.pubDate?.startsWith(filters.year))) return false;
+    if (filters.tag && !lm.epNums.some(n => (ix.tagsByEp.get(n) || []).includes(filters.tag))) return false;
     return true;
   });
 }
@@ -412,6 +438,7 @@ function pointRadiusFor(alt) {
   return Math.min(0.32, Math.max(0.012, alt * 0.11));
 }
 function onZoom({ altitude }) {
+  updateCountryLabels(altitude);
   const bucket = Math.round(Math.log2(altitude) * 3);
   if (bucket === radiusBucket) return;
   radiusBucket = bucket;
@@ -446,7 +473,7 @@ function stopAutoRotate() {
 function onUserInteract() {
   if (timeline.on) timeline.follow = false;   // 播放中使用者自己轉地球，就不再搶鏡頭
   stopAutoRotate();
-  document.body.classList.remove('intro');
+  setIntro(false);
   scheduleIdleRotate();
 }
 
@@ -541,7 +568,7 @@ function setRings(items, opts = {}) {
 }
 
 function setLabels(items) {
-  globe.htmlElementsData(items.slice(0, 24).map(lm => {
+  focusLabels = items.slice(0, 24).map(lm => {
     const el = document.createElement('button');
     el.className = 'globe-label';
     el.textContent = lm.name;
@@ -549,7 +576,44 @@ function setLabels(items) {
     // 導覽站點是單集檔的副本，點擊時換回全域地標物件
     if (lm.id !== undefined && !story.on) el.addEventListener('click', e => { e.stopPropagation(); showLandmark(landmarks[lm.id]); });
     return { lat: lm.lat, lng: lm.lng ?? lm.lon, el, alt: 0.01 + 0.01 * Math.min(lm.epNums?.length || 1, 8) };
-  }));
+  });
+  renderHtmlLayer();
+}
+
+// ── 國名標籤 ──────────────────────────────────────────
+// 節目去過的國家在地球上標國名；集數多的優先，彼此太近就略過（拉近時間距變小、標得更多）。
+// 開著地標／集數標籤時先收起來，避免兩層字疊在一起
+let focusLabels = [];
+let countryLabels = [];
+let countryLabelBucket = null;
+
+function renderHtmlLayer() {
+  globe.htmlElementsData(focusLabels.length ? focusLabels : countryLabels);
+}
+
+function updateCountryLabels(altitude) {
+  const bucket = Math.round(altitude * 4);
+  if (bucket === countryLabelBucket) return;
+  countryLabelBucket = bucket;
+  const minSep = Math.max(3.5, altitude * 7);   // 兩個國名之間至少隔幾度
+  const picked = [];
+  const ranked = [...ix.countries.values()].filter(c => c.a2 && c.landmarks.length).sort((a, b) => b.eps.size - a.eps.size);
+  for (const c of ranked) {
+    const p = countryCentroid(c);
+    if (picked.every(q => angularDistance(p, q.p) / DEG >= minSep)) picked.push({ c, p });   // angularDistance 回傳弧度
+    if (picked.length >= 45) break;
+  }
+  countryLabels = picked.map(({ c, p }) => ({ lat: p.lat, lng: p.lng, el: countryLabelEl(c), alt: 0.004 }));
+  if (!focusLabels.length) renderHtmlLayer();
+}
+
+// 每次重建新元素：globe.gl 換資料時會移除舊物件的 DOM，共用同一個元素會被一起拿掉
+function countryLabelEl(c) {
+  const el = document.createElement('button');
+  el.className = 'country-label';
+  el.textContent = c.key;
+  el.addEventListener('click', e => { e.stopPropagation(); showCountry(c.key); });
+  return el;
 }
 
 // ── Hover ─────────────────────────────────────────────
@@ -624,7 +688,7 @@ function openDetail(html, entry) {
   body.scrollTop = 0;
   document.getElementById('detail').classList.add('open');
   document.body.classList.add('has-detail');
-  document.body.classList.remove('intro');
+  setIntro(false);
   if (IS_SMALL) closeDrawer();
   stopAutoRotate();
 }
@@ -685,11 +749,14 @@ function showLandmark(lm, { fly = true } = {}) {
         ${lm.countryKey ? `<button class="chip" data-act="country" data-c="${escHtml(lm.countryKey)}">${flag(lm.a2)} ${escHtml(lm.countryKey)}</button>` : ''}
         <span class="chip chip-quiet">在 ${lm.epNums.length} 集中出現</span>
       </div>
+      <div class="d-about" data-about="${lm.id}"></div>
       ${lm.epNums.length > 1 ? revisitStrip(lm) : ''}
       <h3 class="d-section">節目裡怎麼說</h3>
       ${appHtml}
       <a class="link-out" href="https://www.google.com/maps/search/?api=1&query=${mapsQuery}" target="_blank" rel="noopener">在 Google Maps 開啟 ↗</a>
     </div>`, { type: 'lm', id: lm.id, label: lm.name });
+
+  fillAbout(lm);
 
   // 被多集提到的地標：畫出同集一起出現的其他地點（回訪網）；只出現一次就從台灣拉線
   const co = lm.epNums.length > 1 ? coLandmarks(lm) : [];
@@ -703,6 +770,18 @@ function showLandmark(lm, { fly = true } = {}) {
     const v = globe.pointOfView();
     flyTo([lm], 1500, Math.min(v.altitude, 0.6));
   }
+}
+
+// 維基百科簡介（data/landmark_info.json，05_wikipedia_info.py 產生）：點開地標才載入，不拖慢首頁
+let landmarkInfo = null;
+async function fillAbout(lm) {
+  landmarkInfo ||= fetchJson(`data/landmark_info.json${DATA_V}`).catch(() => ({}));
+  const info = (await landmarkInfo)[lm.name];
+  const el = document.querySelector(`#detail-body [data-about="${lm.id}"]`);
+  if (!info || !el) return;
+  el.innerHTML = `
+    ${info.s ? `<p class="d-about-text">${escHtml(info.s)}</p>` : ''}
+    ${info.w ? `<a class="d-about-src" href="${escHtml(info.w)}" target="_blank" rel="noopener">維基百科 ↗</a>` : ''}`;
 }
 
 // 集數
@@ -733,9 +812,12 @@ function showEpisode(epNum, { fly = true } = {}) {
         <button class="btn btn-ghost btn-icon-only" data-act="share" data-ep="${epNum}" title="複製這集的連結" aria-label="複製這集的連結">${ICONS.link}</button>
         <button class="btn btn-ghost btn-icon-only" data-act="card" data-kind="episode" data-id="${epNum}" title="產生分享圖卡" aria-label="產生分享圖卡">${ICONS.image}</button>
       </div>
+      ${(ix.tagsByEp.get(epNum) || []).length ? `<div class="chip-row">${ix.tagsByEp.get(epNum).map(t =>
+        `<button class="chip chip-tag" data-act="tag" data-tag="${escHtml(t)}"># ${escHtml(t)}</button>`).join('')}</div>` : ''}
       ${countries.length ? `<div class="chip-row">${countries.map(l =>
         `<button class="chip" data-act="country" data-c="${escHtml(l.countryKey)}">${flag(l.a2)} ${escHtml(l.countryKey)}</button>`).join('')}</div>` : ''}
       ${lms.length ? `<h3 class="d-section">這集去了 ${lms.length} 個地方</h3><div class="lm-list">${lmHtml}</div>`
+        : isPending(epNum) ? `<p class="d-empty">這集的地點還在整理中，過幾天就會出現在地球上，先收聽吧！</p>`
         : `<p class="d-empty">這集沒有標記地點，直接收聽吧！</p>`}
     </div>`, { type: 'ep', id: epNum, label: `Ep.${epNum}` });
 
@@ -817,6 +899,7 @@ function onDetailClick(e) {
   else if (act === 'lm') showLandmark(landmarks[Number(t.dataset.lm)]);
   else if (act === 'country') showCountry(t.dataset.c);
   else if (act === 'story') startStory(Number(t.dataset.ep));
+  else if (act === 'tag') { setTagFilter(t.dataset.tag); openDrawer(); }
   else if (act === 'share') copyText(`${SITE_URL}ep/${t.dataset.ep}.html`, '已複製這集的連結 ✓');
   else if (act === 'card') openShareCard(t.dataset.kind, t.dataset.kind === 'episode' ? Number(t.dataset.id) : t.dataset.id);
   else if (act === 'visit') {
@@ -840,7 +923,7 @@ function onDetailClick(e) {
 function openDrawer() {
   document.getElementById('drawer').classList.add('open');
   document.body.classList.add('has-drawer');
-  document.body.classList.remove('intro');
+  setIntro(false);
   if (IS_SMALL) document.getElementById('detail').classList.remove('open');
 }
 function closeDrawer() {
@@ -854,6 +937,10 @@ function renderFilters() {
     ...REGIONS.map(r => `<button class="pill" data-region="${r}" style="--c:${REGION_COLORS[r]}">${r}</button>`)].join('');
 
   const years = [...new Set(ix.mainEps.map(e => (e.pubDate || '').slice(0, 4)).filter(Boolean))].sort().reverse();
+  const tp = document.getElementById('tag-pills');
+  tp.innerHTML = [`<button class="pill active" data-tag="">所有主題</button>`,
+    ...tagList.map(t => `<button class="pill" data-tag="${escHtml(t)}">${escHtml(t)}</button>`)].join('');
+
   const yp = document.getElementById('year-pills');
   yp.innerHTML = [`<button class="pill active" data-year="">所有年份</button>`,
     ...years.map(y => `<button class="pill" data-year="${y}">${y}</button>`)].join('');
@@ -877,10 +964,22 @@ function renderEpList() {
         <span class="ep-card-info">
           <span class="ep-card-top"><b>Ep.${ep.episode}</b>${isNew ? '<i class="tag-new">NEW</i>' : ''}<small>${escHtml((ep.pubDate || '').slice(0, 7))}</small></span>
           <span class="ep-card-title">${escHtml(ep.title)}</span>
-          ${lms.length ? `<span class="ep-card-meta">${flags.slice(0, 5).map(a => flag(a)).join('')}${flags.length > 5 ? `+${flags.length - 5}` : ''} <small>${lms.length} 個地標</small></span>` : ''}
+          ${lms.length ? `<span class="ep-card-meta">${flags.slice(0, 5).map(a => flag(a)).join('')}${flags.length > 5 ? `+${flags.length - 5}` : ''} <small>${lms.length} 個地標</small></span>`
+            : isPending(ep.episode) ? '<span class="ep-card-meta ep-pending">地點整理中</span>' : ''}
         </span>
       </button>`;
   }).join('');
+}
+
+function setTagFilter(tag) {
+  filters.tag = tag;
+  document.querySelectorAll('#tag-pills .pill').forEach(x => x.classList.toggle('active', (x.dataset.tag || null) === tag));
+  renderEpList();
+  refreshPoints();
+}
+
+function isPending(epNum) {
+  return !!extractedEps && !extractedEps.has(epNum) && !(ix.lmByEp.get(epNum) || []).length;
 }
 
 function onEpListClick(e) {
@@ -905,10 +1004,21 @@ function renderHero() {
   const btn = document.getElementById('hero-latest');
   btn.hidden = false;
   btn.innerHTML = `<img src="${escHtml(epCover(latest))}" alt=""><span><small>最新一集</small><b>Ep.${latest.episode} ${escHtml(latest.title)}</b></span>`;
-  btn.addEventListener('click', () => showEpisode(latest.episode));
+  btn.addEventListener('click', () => { if (globe) showEpisode(latest.episode); });
+}
 
-  // 最新一集的地標放持續脈衝
-  setRings(ix.lmByEp.get(latest.episode) || [], { maxR: 3, period: 1400 });
+// 手機開場：介紹文字壓在下半部，地球往上挪到剩下的空間置中；離開開場就回到正中
+function setIntro(on) {
+  document.body.classList.toggle('intro', on);
+  if (!globe || !IS_SMALL) return;
+  const hero = document.getElementById('hero');
+  globe.globeOffset([0, on ? -Math.round(hero.offsetHeight / 2) : 0]);
+}
+
+// 最新一集的地標放持續脈衝
+function pulseLatest() {
+  const latest = ix.mainEps[0];
+  if (latest) setRings(ix.lmByEp.get(latest.episode) || [], { maxR: 3, period: 1400 });
 }
 
 // 圖例刻度跟 heat() 同一條開根號尺
@@ -952,7 +1062,7 @@ function randomTrip() {
 
   closeDetail();
   clearFocus();
-  document.body.classList.remove('intro');
+  setIntro(false);
   const veil = document.getElementById('spin-veil');
   veil.classList.add('show');
 
@@ -1478,6 +1588,10 @@ function bindEvents() {
     renderEpList();
     refreshPoints();
   });
+  $('tag-pills').addEventListener('click', e => {
+    const p = e.target.closest('.pill');
+    if (p) setTagFilter(p.dataset.tag || null);
+  });
   $('year-pills').addEventListener('click', e => {
     const p = e.target.closest('.pill');
     if (!p) return;
@@ -1535,9 +1649,9 @@ function resetHome() {
   closeDetail();
   closeDrawer();
   clearFocus();
-  document.body.classList.add('intro');
+  setIntro(true);
   renderHero();
-  globe.pointOfView({ lat: HOME.lat - 5, lng: HOME.lng - 20, altitude: IS_SMALL ? 3.2 : 2.4 }, 1400);
+  globe.pointOfView({ lat: HOME.lat - 5, lng: HOME.lng - 20, altitude: IS_SMALL ? 2.8 : 2.4 }, 1400);
   const c = globe.controls();
   c.autoRotateSpeed = 0.45;
   c.autoRotate = true;
@@ -1595,6 +1709,16 @@ function drawStars() {
 }
 
 // ── 工具 ──────────────────────────────────────────────
+function loadScript(src) {
+  return new Promise((resolve, reject) => {
+    const sc = document.createElement('script');
+    sc.src = src;
+    sc.onload = resolve;
+    sc.onerror = reject;
+    document.head.appendChild(sc);
+  });
+}
+
 async function fetchJson(url) {
   const r = await fetch(url);
   if (!r.ok) throw new Error(`${url}: HTTP ${r.status}`);

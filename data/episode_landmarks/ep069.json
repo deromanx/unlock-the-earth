@@ -44,7 +44,7 @@
     "name_en": "Matsu Library",
     "lat": 26.1597,
     "lon": 119.9519,
-    "country": "台灣",
+    "country": "臺灣",
     "region": "台灣",
     "quote": "我第一個去的地方是圖書館就是我到馬祖之後",
     "context": "離島遠距工作，圖書館幾乎無人使用"
@@ -70,13 +70,13 @@
     "context": "座位少、無WiFi，無法工作"
   },
   {
-    "name": "台北車站",
+    "name": "臺北車站",
     "name_en": "Taipei Main Station",
     "lat": 25.0478,
     "lon": 121.517,
-    "country": "台灣",
+    "country": "臺灣",
     "region": "台灣",
-    "quote": "在台北車站附近就會聚集真的是成百上千的穆斯林移工",
+    "quote": "在臺北車站附近就會聚集真的是成百上千的穆斯林移工",
     "context": "開齋節穆斯林移工聚會地點"
   }
 ]

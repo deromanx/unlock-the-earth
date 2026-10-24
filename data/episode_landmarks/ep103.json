@@ -1,6 +1,6 @@
 [
   {
-    "name": "爱丁堡皇家一英里大道",
+    "name": "愛丁堡皇家一英里大道",
     "name_en": "Royal Mile",
     "lat": 55.95,
     "lon": -3.19,
@@ -110,8 +110,8 @@
     "lon": -3.1925,
     "country": "英國",
     "region": "歐洲",
-    "quote": "在這個中學旁邊有一座另外一座很古老的坟墓",
-    "context": "湯姆·里德爾墓碑所在，啟發佛地魔名字",
+    "quote": "在這個中學旁邊有一座另外一座很古老的墳墓",
+    "context": "湯姆·裡德爾墓碑所在，啟發佛地魔名字",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Greyfriars_Kirkyard_-_03.jpg/330px-Greyfriars_Kirkyard_-_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
@@ -164,7 +164,7 @@
     "lon": -3.1857,
     "country": "英國",
     "region": "歐洲",
-    "quote": "爱丁堡也有一个福尔摩斯像",
+    "quote": "愛丁堡也有一個福爾摩斯像",
     "context": "虛構人物的銅像，與愛丁堡文學淵源"
   }
 ]

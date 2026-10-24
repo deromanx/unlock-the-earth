@@ -6,7 +6,7 @@
     "lon": 115.831,
     "country": "澳洲",
     "region": "大洋洲",
-    "quote": "像是一个是国王公园 King's Park",
+    "quote": "像是一個是國王公園 King's Park",
     "context": "伯斯市區植物園與二戰紀念碑，引出殖民與戰爭記憶"
   },
   {
@@ -16,7 +16,7 @@
     "lon": 115.857,
     "country": "澳洲",
     "region": "大洋洲",
-    "quote": "其实叫做北桥 North Bridge",
+    "quote": "其實叫做北橋 North Bridge",
     "context": "伯斯華人聚集區，有亞洲超市與餐廳",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Motherboard_diagram.svg/langzh-330px-Motherboard_diagram.svg.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
@@ -27,7 +27,7 @@
     "lon": 115.859,
     "country": "澳洲",
     "region": "大洋洲",
-    "quote": "伦敦阁就是这个东西 它是一个就是很银齿的间银",
+    "quote": "倫敦閣就是這個東西 它是一個就是很銀齒的間銀",
     "context": "伯斯仿英式拱廊街，像哈利波特斜角巷",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/.00_2609_London_Court_shopping_arcade_in_Perth_%28Australia%29.jpg/330px-.00_2609_London_Court_shopping_arcade_in_Perth_%28Australia%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
@@ -38,7 +38,7 @@
     "lon": 115.746,
     "country": "澳洲",
     "region": "大洋洲",
-    "quote": "在靠海岸那边有个叫Fremantle的地方",
+    "quote": "在靠海岸那邊有個叫Fremantle的地方",
     "context": "港口歷史古城，有監獄與藝術市集"
   },
   {
@@ -48,7 +48,7 @@
     "lon": 115.7583,
     "country": "澳洲",
     "region": "大洋洲",
-    "quote": "其中一个很重要的就是有一个博士监狱",
+    "quote": "其中一個很重要的就是有一個博士監獄",
     "context": "流放地遺址，犯人挖地下水隧道之旅",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Freo_prison_WMAU_gnangarra-131.jpg/330px-Freo_prison_WMAU_gnangarra-131.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
@@ -59,7 +59,7 @@
     "lon": 115.157,
     "country": "澳洲",
     "region": "大洋洲",
-    "quote": "一个叫做尖峰石镇 它是一个 它这个公园的话",
+    "quote": "一個叫做尖峰石鎮 它是一個 它這個公園的話",
     "context": "南邦國家公園沙漠地形，可開車進入"
   },
   {
@@ -69,7 +69,7 @@
     "lon": 114.62,
     "country": "澳洲",
     "region": "大洋洲",
-    "quote": "再过来 你再往上开一点之后 会有一个叫 粉红湖",
+    "quote": "再過來 你再往上開一點之後 會有一個叫 粉紅湖",
     "context": "藻類造成粉紅色鹽湖，早晨夏季最美"
   },
   {
@@ -79,7 +79,7 @@
     "lon": 114.615,
     "country": "澳洲",
     "region": "大洋洲",
-    "quote": "往北有一个城镇 一个叫做杰拉尔顿",
+    "quote": "往北有一個城鎮 一個叫做傑拉爾頓",
     "context": "北行途中城鎮，有海事博物館與沉船"
   },
   {
@@ -89,7 +89,7 @@
     "lon": 114.164,
     "country": "澳洲",
     "region": "大洋洲",
-    "quote": "像是卡尔巴黎跟吉拉尔顿",
+    "quote": "像是卡爾巴黎跟吉拉爾頓",
     "context": "北行小鎮，鄰近海岸懸崖與國家公園"
   },
   {
@@ -99,18 +99,18 @@
     "lon": 114.47,
     "country": "澳洲",
     "region": "大洋洲",
-    "quote": "通常会去一个地方 叫做世界之窗",
+    "quote": "通常會去一個地方 叫做世界之窗",
     "context": "岩石天然相框，高溫酷熱，適合拍全家福"
   },
   {
-    "name": "波浪岩",
+    "name": "波浪巖",
     "name_en": "Wave Rock",
     "lat": -32.444,
     "lon": 118.898,
     "country": "澳洲",
     "region": "大洋洲",
-    "quote": "波浪岩就是Weblog 就是一个澳洲一个蛮著名的景点",
-    "context": "海登巨岩，清晨造訪最佳，有環形步道"
+    "quote": "波浪巖就是Weblog 就是一個澳洲一個蠻著名的景點",
+    "context": "海登巨巖，清晨造訪最佳，有環形步道"
   },
   {
     "name": "海登",
@@ -119,8 +119,8 @@
     "lon": 118.866,
     "country": "澳洲",
     "region": "大洋洲",
-    "quote": "海灯的话 它的景点会稍微少一点",
-    "context": "波浪岩所在小鎮，朋友在此工作"
+    "quote": "海燈的話 它的景點會稍微少一點",
+    "context": "波浪巖所在小鎮，朋友在此工作"
   },
   {
     "name": "莫卡洞",
@@ -129,7 +129,7 @@
     "lon": 118.953,
     "country": "澳洲",
     "region": "大洋洲",
-    "quote": "我比较想要讲的是一个 叫莫卡洞的地方",
+    "quote": "我比較想要講的是一個 叫莫卡洞的地方",
     "context": "原住民手印壁畫洞穴，約四百幅"
   },
   {
@@ -139,7 +139,7 @@
     "lon": 116.769,
     "country": "澳洲",
     "region": "大洋洲",
-    "quote": "去海灯的路上 会经过一个叫约克镇",
+    "quote": "去海燈的路上 會經過一個叫約克鎮",
     "context": "內陸途中小鎮，有烘焙房肉派",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/York_Minster_%282797690%29.jpg/330px-York_Minster_%282797690%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
@@ -150,7 +150,7 @@
     "lon": 116.76,
     "country": "澳洲",
     "region": "大洋洲",
-    "quote": "有个叫做狗狗公墓的地方 他其实在约克镇",
+    "quote": "有個叫做狗狗公墓的地方 他其實在約克鎮",
     "context": "約克鎮外約一千五百隻狗長眠處"
   },
   {
@@ -160,17 +160,17 @@
     "lon": 117.884,
     "country": "澳洲",
     "region": "大洋洲",
-    "quote": "我最喜欢的城市 叫做Albany",
+    "quote": "我最喜歡的城市 叫做Albany",
     "context": "南部度假小城，海灣、潛水與步道"
   },
   {
-    "name": "狗頭岩",
+    "name": "狗頭巖",
     "name_en": "Dog Rock",
     "lat": -35.027,
     "lon": 117.876,
     "country": "澳洲",
     "region": "大洋洲",
-    "quote": "狗头眼的地方 可能没有很 不是什么很famous的地方",
+    "quote": "狗頭眼的地方 可能沒有很 不是什麼很famous的地方",
     "context": "形似狗頭的天然岩石，路邊可見"
   },
   {
@@ -180,7 +180,7 @@
     "lon": 117.8825,
     "country": "澳洲",
     "region": "大洋洲",
-    "quote": "像是natural bridge 就是我们所谓的 海石洞",
+    "quote": "像是natural bridge 就是我們所謂的 海石洞",
     "context": "奧爾巴尼海岸懸崖與天空步道"
   },
   {
@@ -200,7 +200,7 @@
     "lon": 117.35,
     "country": "澳洲",
     "region": "大洋洲",
-    "quote": "这条很特别的践行步道 是从博斯出发",
+    "quote": "這條很特別的踐行步道 是從博斯出發",
     "context": "從伯斯到奧爾巴尼約千公里長程步道"
   },
   {
@@ -210,7 +210,7 @@
     "lon": 116.995,
     "country": "澳洲",
     "region": "大洋洲",
-    "quote": "有一个蛮值得停留的点 叫做树梯",
+    "quote": "有一個蠻值得停留的點 叫做樹梯",
     "context": "高大紅檉樹林空中步道，走在樹冠層"
   },
   {
@@ -220,7 +220,7 @@
     "lon": 115.075,
     "country": "澳洲",
     "region": "大洋洲",
-    "quote": "然后到玛格丽特河 玛格丽特河其实有很多酒庄",
+    "quote": "然後到瑪格麗特河 瑪格麗特河其實有很多酒莊",
     "context": "酒莊、石灰岩洞與農夫市集產區"
   },
   {
@@ -230,7 +230,7 @@
     "lon": 115.04,
     "country": "澳洲",
     "region": "大洋洲",
-    "quote": "我自己最喜欢的是 有一个叫 Giant Cave的地方",
+    "quote": "我自己最喜歡的是 有一個叫 Giant Cave的地方",
     "context": "無燈需爬行的探險型洞穴"
   },
   {
@@ -240,8 +240,8 @@
     "lon": 115.641,
     "country": "澳洲",
     "region": "大洋洲",
-    "quote": "有另外一个城镇 叫做Bumbery",
-    "context": "海豚灣可近距離看海豚、共游"
+    "quote": "有另外一個城鎮 叫做Bumbery",
+    "context": "海豚灣可近距離看海豚、共遊"
   },
   {
     "name": "哈維",
@@ -250,7 +250,7 @@
     "lon": 115.893,
     "country": "澳洲",
     "region": "大洋洲",
-    "quote": "我其实一直都住在一个叫哈比小镇",
+    "quote": "我其實一直都住在一個叫哈比小鎮",
     "context": "主持來賓打工度假居住的小鎮"
   }
 ]

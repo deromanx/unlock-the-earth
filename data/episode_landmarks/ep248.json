@@ -6,7 +6,7 @@
     "lon": 116.397,
     "country": "中國",
     "region": "亞洲",
-    "quote": "我第一天就直接杀到紫禁城",
+    "quote": "我第一天就直接殺到紫禁城",
     "context": "北京皇城核心，討論格局、匾額滿漢文與太和殿標準化象徵",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/The_Forbidden_City_-_View_from_Coal_Hill.jpg/330px-The_Forbidden_City_-_View_from_Coal_Hill.jpg"
   },
@@ -17,7 +17,7 @@
     "lon": 116.391,
     "country": "中國",
     "region": "亞洲",
-    "quote": "天安门广场就是你前面看到一个很大的地方",
+    "quote": "天安門廣場就是你前面看到一個很大的地方",
     "context": "政治中心氣氛、需實名預約、周邊建築歷史變遷",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Tiananmen_Square_%2854137047250%29.jpg/330px-Tiananmen_Square_%2854137047250%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
@@ -28,7 +28,7 @@
     "lon": 116.397,
     "country": "中國",
     "region": "亞洲",
-    "quote": "天安门呢是他那个皇城的最南边的一个入口",
+    "quote": "天安門呢是他那個皇城的最南邊的一個入口",
     "context": "皇城最南端主入口，需預約進入"
   },
   {
@@ -38,7 +38,7 @@
     "lon": 116.381,
     "country": "中國",
     "region": "亞洲",
-    "quote": "中南海现在是他们的办公机关",
+    "quote": "中南海現在是他們的辦公機關",
     "context": "歷代政權行政中心，周邊戒備森嚴需安檢"
   },
   {
@@ -48,7 +48,7 @@
     "lon": 116.396,
     "country": "中國",
     "region": "亞洲",
-    "quote": "紫禁城的北边呢它叫景山公园",
+    "quote": "紫禁城的北邊呢它叫景山公園",
     "context": "崇禎皇帝上吊處，原稱煤山"
   },
   {
@@ -58,7 +58,7 @@
     "lon": 116.383,
     "country": "中國",
     "region": "亞洲",
-    "quote": "中南海的北边有一个北海",
+    "quote": "中南海的北邊有一個北海",
     "context": "原皇家園林，現為公園，石碑有漢滿蒙文"
   },
   {
@@ -68,8 +68,8 @@
     "lon": 116.386,
     "country": "中國",
     "region": "亞洲",
-    "quote": "它那条街叫樱桃斜街",
-    "context": "作者住宿的胡同，曾住梅蘭芳、有梨園公會"
+    "quote": "它那條街叫櫻桃斜街",
+    "context": "作者住宿的衚衕，曾住梅蘭芳、有梨園公會"
   },
   {
     "name": "鐵樹斜街",
@@ -78,8 +78,8 @@
     "lon": 116.383,
     "country": "中國",
     "region": "亞洲",
-    "quote": "我们旁边那条叫铁树斜街",
-    "context": "鄰近胡同，以植物命名"
+    "quote": "我們旁邊那條叫鐵樹斜街",
+    "context": "鄰近衚衕，以植物命名"
   },
   {
     "name": "大園賓館",
@@ -88,7 +88,7 @@
     "lon": 116.298,
     "country": "中國",
     "region": "亞洲",
-    "quote": "我们挑一个它叫达园",
+    "quote": "我們挑一個它叫達園",
     "context": "國務院直屬賓館，原圓明園一部分，接待過西哈努克"
   },
   {
@@ -98,7 +98,7 @@
     "lon": 116.298,
     "country": "中國",
     "region": "亞洲",
-    "quote": "这个地方其实以前是圆明园的一部分",
+    "quote": "這個地方其實以前是圓明園的一部分",
     "context": "大園所在地的歷史淵源"
   },
   {
@@ -108,7 +108,7 @@
     "lon": 116.275,
     "country": "中國",
     "region": "亞洲",
-    "quote": "再挑就是颐和园园明园就是园林的地方",
+    "quote": "再挑就是頤和園園明園就是園林的地方",
     "context": "選擇住宿區域的園林風格代表"
   },
   {
@@ -118,7 +118,7 @@
     "lon": 116.386,
     "country": "中國",
     "region": "亞洲",
-    "quote": "你可以看到那个什么人民大会堂啊",
+    "quote": "你可以看到那個什麼人民大會堂啊",
     "context": "位於清代錦衣衛舊址，兩會舉行地"
   },
   {
@@ -128,7 +128,7 @@
     "lon": 116.401,
     "country": "中國",
     "region": "亞洲",
-    "quote": "这边是什么国家博物馆",
+    "quote": "這邊是什麼國家博物館",
     "context": "清代為吏部戶部等官署舊址"
   },
   {
@@ -138,7 +138,7 @@
     "lon": 116.397,
     "country": "中國",
     "region": "亞洲",
-    "quote": "太和殿等于是真的是皇帝要登基的时候的那个地方",
+    "quote": "太和殿等於是真的是皇帝要登基的時候的那個地方",
     "context": "日晷與嘉量象徵標準化統一"
   },
   {
@@ -148,7 +148,7 @@
     "lon": 116.288,
     "country": "中國",
     "region": "亞洲",
-    "quote": "现在叫做西静元公墓西边安静的静",
+    "quote": "現在叫做西靜元公墓西邊安靜的靜",
     "context": "九一八後流落北京的東北人安葬處"
   }
 ]

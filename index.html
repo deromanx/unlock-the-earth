@@ -6,6 +6,7 @@
   <title>解鎖地球 — 互動旅遊地球儀</title>
   <meta name="description" content="解鎖地球 Podcast：旅行、歷史、文化。轉動地球，探索每一集去過的地方。">
   <meta name="theme-color" content="#060b18">
+  <meta name="data-version" content="3f1d8faea6">
 
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="解鎖地球">
@@ -20,10 +21,11 @@
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600;700&family=LXGW+WenKai+TC:wght@400;700&family=Noto+Sans+TC:wght@400;500;700;900&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600;700&family=Noto+Sans+TC:wght@400;500;700;900&display=swap" rel="stylesheet">
 
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flag-icons@7.2.3/css/flag-icons.min.css">
-  <link rel="stylesheet" href="css/globe.css?v=9">
+  <link rel="preload" as="script" href="https://cdn.jsdelivr.net/npm/globe.gl@2.46.2/dist/globe.gl.min.js">
+  <link rel="stylesheet" href="css/globe.css?v=10">
   <script>
     // 先套主題，避免載入時閃一下深色
     try { document.documentElement.dataset.theme = localStorage.getItem('ute-theme-v2') || 'dark'; } catch (e) {}
@@ -40,7 +42,7 @@
     <button class="brand" id="brand" title="回到起點">
       <img src="assets/logo-256.png" alt="" class="brand-logo">
       <span class="brand-text">
-        <span class="brand-title">解鎖地球</span>
+        <span class="brand-title"><span class="ttl" style="--ar:1.98;-webkit-mask-image:url(assets/titles/brand.svg);mask-image:url(assets/titles/brand.svg)" role="img" aria-label="解鎖地球"></span></span>
         <span class="brand-sub">旅行 · 歷史 · 文化</span>
       </span>
     </button>
@@ -70,7 +72,7 @@
   <!-- ── 開場 ── -->
   <section id="hero">
     <p class="hero-kicker">PODCAST · 互動地球儀</p>
-    <h1 class="hero-title">用耳朵<br>走遍世界</h1>
+    <h1 class="hero-title" aria-label="用耳朵走遍世界"><span class="ttl" style="--ar:1.46;-webkit-mask-image:url(assets/titles/hero-1.svg);mask-image:url(assets/titles/hero-1.svg)" aria-hidden="true"></span><br><span class="ttl" style="--ar:1.96;-webkit-mask-image:url(assets/titles/hero-2.svg);mask-image:url(assets/titles/hero-2.svg)" aria-hidden="true"></span></h1>
     <div class="hero-stats">
       <div class="hero-stat"><b id="hs-eps">0</b><span>集節目</span></div>
       <div class="hero-stat"><b id="hs-lms">0</b><span>個地標</span></div>
@@ -82,6 +84,7 @@
     </div>
     <button class="hero-latest" id="hero-latest" hidden></button>
     <p class="hero-hint">拖曳轉動地球 · 點光點看地標 · 點國家看專頁</p>
+    <p class="hero-loading" aria-live="polite">地球載入中…</p>
   </section>
 
   <!-- ── 圖例 ── -->
@@ -95,7 +98,7 @@
   <!-- ── 集數抽屜 ── -->
   <aside id="drawer" class="sheet sheet-left" aria-label="集數列表">
     <div class="sheet-head">
-      <h2 class="sheet-title">所有集數 <span class="sheet-count" id="ep-count"></span></h2>
+      <h2 class="sheet-title"><span class="ttl" style="--ar:1.98;-webkit-mask-image:url(assets/titles/episodes.svg);mask-image:url(assets/titles/episodes.svg)" role="img" aria-label="所有集數"></span> <span class="sheet-count" id="ep-count"></span></h2>
       <button class="icon-btn" data-close="drawer" aria-label="關閉">✕</button>
     </div>
     <div class="search-box">
@@ -103,6 +106,7 @@
       <input type="search" id="search" placeholder="搜尋集數、地標或國家…" autocomplete="off">
     </div>
     <div class="pills" id="region-pills"></div>
+    <div class="pills pills-scroll" id="tag-pills"></div>
     <div class="pills pills-scroll" id="year-pills"></div>
     <div class="ep-list" id="ep-list"></div>
   </aside>
@@ -173,7 +177,7 @@
   <div id="stats-modal" class="modal">
     <div class="modal-card stats-card">
       <div class="modal-head">
-        <h2>節目統計</h2>
+        <h2><span class="ttl" style="--ar:1.96;-webkit-mask-image:url(assets/titles/stats.svg);mask-image:url(assets/titles/stats.svg)" role="img" aria-label="節目統計"></span></h2>
         <button class="icon-btn" data-close="stats-modal" aria-label="關閉">✕</button>
       </div>
       <div id="stats-body"></div>
@@ -184,7 +188,7 @@
   <div id="share-modal" class="modal">
     <div class="modal-card share-card">
       <div class="modal-head">
-        <h2>分享圖卡</h2>
+        <h2><span class="ttl" style="--ar:1.96;-webkit-mask-image:url(assets/titles/share.svg);mask-image:url(assets/titles/share.svg)" role="img" aria-label="分享圖卡"></span></h2>
         <button class="icon-btn" data-close="share-modal" aria-label="關閉">✕</button>
       </div>
       <div class="share-stage"><img id="share-preview" alt="分享圖卡預覽"></div>
@@ -203,14 +207,13 @@
 
   <div id="loading">
     <img src="assets/logo-256.png" alt="">
-    <p>正在解鎖地球…</p>
+    <p><span class="ttl" style="--ar:2.99;-webkit-mask-image:url(assets/titles/loading.svg);mask-image:url(assets/titles/loading.svg)" role="img" aria-label="正在解鎖地球"></span></p>
   </div>
 
-  <noscript><p class="fallback">本網站需要 JavaScript。也可以看 <a href="classic.html">平面地圖版</a>。</p></noscript>
+  <noscript><p class="fallback">本網站需要 JavaScript 才能顯示互動地球。</p></noscript>
 
-  <script src="https://cdn.jsdelivr.net/npm/globe.gl@2.46.2/dist/globe.gl.min.js"></script>
-  <script src="js/globe/data.js?v=2"></script>
-  <script src="js/globe/app.js?v=15"></script>
+  <script src="js/globe/data.js?v=3"></script>
+  <script src="js/globe/app.js?v=16"></script>
   <script src="js/globe/share.js?v=5"></script>
 </body>
 </html>

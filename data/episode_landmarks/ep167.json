@@ -1,13 +1,13 @@
 [
   {
-    "name": "台東史前館",
+    "name": "臺東史前館",
     "name_en": "National Museum of Prehistory",
     "lat": 22.7336,
     "lon": 121.1022,
-    "country": "台灣",
+    "country": "臺灣",
     "region": "台灣",
-    "quote": "最近那個就是台東史前館",
-    "context": "重新開幕並新設南島廳，把台灣放進南島語族脈絡"
+    "quote": "最近那個就是臺東史前館",
+    "context": "重新開幕並新設南島廳，把臺灣放進南島語族脈絡"
   },
   {
     "name": "夏威夷大學",
@@ -24,7 +24,7 @@
     "name_en": "Keelung",
     "lat": 25.1283,
     "lon": 121.7419,
-    "country": "台灣",
+    "country": "臺灣",
     "region": "台灣",
     "quote": "因為我自己是基隆人",
     "context": "來賓家鄉，移民城市，海洋疏離感的例子",
@@ -38,7 +38,7 @@
     "country": "美國",
     "region": "大洋洲",
     "quote": "我2016年的時候去關島參加一個太平洋藝術節",
-    "context": "來賓參加太平洋藝術節，觀察台灣與大洋洲落差",
+    "context": "來賓參加太平洋藝術節，觀察臺灣與大洋洲落差",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Flag_of_Guam.svg/330px-Flag_of_Guam.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]

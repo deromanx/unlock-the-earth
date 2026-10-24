@@ -6,7 +6,7 @@
     "lon": 96.0956,
     "country": "緬甸",
     "region": "亞洲",
-    "quote": "我的hustle其实距离那个曼德勒的大皇宫大概就三四个街口三四个block",
+    "quote": "我的hustle其實距離那個曼德勒的大皇宮大概就三四個街口三四個block",
     "context": "住宿位置參照點，並提及皇宮內不安全",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Mandalay_Palace%2C_Myanmar.jpg/330px-Mandalay_Palace%2C_Myanmar.jpg"
   },
@@ -17,7 +17,7 @@
     "lon": 94.8585,
     "country": "緬甸",
     "region": "亞洲",
-    "quote": "到了蒲干平原之后你才会理解到什么叫树大便是美",
+    "quote": "到了蒲幹平原之後你才會理解到什麼叫樹大便是美",
     "context": "萬座佛塔的平原，講者看日出與遇賣畫人",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bagan%2C_Burma.jpg/330px-Bagan%2C_Burma.jpg"
   },
@@ -28,7 +28,7 @@
     "lon": 96.0153,
     "country": "緬甸",
     "region": "亞洲",
-    "quote": "过了伊洛瓦底江对面有一个叫敏贡的小城市他有一个有名的佛塔",
+    "quote": "過了伊洛瓦底江對面有一個叫敏貢的小城市他有一個有名的佛塔",
     "context": "白色佛塔上有反抗軍士兵駐守"
   },
   {
@@ -38,7 +38,7 @@
     "lon": 95.9833,
     "country": "緬甸",
     "region": "亞洲",
-    "quote": "有一个叫英瓦古城",
+    "quote": "有一個叫英瓦古城",
     "context": "曼德勒南郊景點，受局勢影響通行"
   },
   {
@@ -48,7 +48,7 @@
     "lon": 96.02,
     "country": "緬甸",
     "region": "亞洲",
-    "quote": "伊洛瓦底江上面有两条跨江的大桥",
+    "quote": "伊洛瓦底江上面有兩條跨江的大橋",
     "context": "跨江大橋通行狀況每日變動",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Irrawaddy-River-Myanmar-Burma-2005.jpg/330px-Irrawaddy-River-Myanmar-Burma-2005.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
@@ -59,8 +59,8 @@
     "lon": 96.9,
     "country": "緬甸",
     "region": "亞洲",
-    "quote": "英来湖比较是自然风光",
-    "context": "以腳划漁夫聞名，講者因故未前往",
+    "quote": "英來湖比較是自然風光",
+    "context": "以腳劃漁夫聞名，講者因故未前往",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Inle_Lake_%28Myanmar%29.jpg/330px-Inle_Lake_%28Myanmar%29.jpg"
   },
   {
@@ -70,7 +70,7 @@
     "lon": 96.156,
     "country": "緬甸",
     "region": "亞洲",
-    "quote": "他其实在那个翁山市市场他里面就很多因为缅甸的产域嘛",
+    "quote": "他其實在那個翁山市市場他裡面就很多因為緬甸的產域嘛",
     "context": "玉石與紀念品市場，黑市換匯所在"
   }
 ]

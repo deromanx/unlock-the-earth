@@ -10,14 +10,14 @@
     "context": "富士搖滾的舉辦地，動線、餐飲、廁所與親子設施皆為典範"
   },
   {
-    "name": "天堂原野舞台",
+    "name": "天堂原野舞臺",
     "name_en": "Field of Heaven",
     "lat": 36.8585,
     "lon": 138.7765,
     "country": "日本",
     "region": "亞洲",
     "quote": "就是在最山上 叫Field of Heaven",
-    "context": "富士搖滾最高處的舞台，從第一個舞台要走近一小時"
+    "context": "富士搖滾最高處的舞臺，從第一個舞臺要走近一小時"
   },
   {
     "name": "苗場王子飯店",
@@ -57,7 +57,7 @@
     "country": "英國",
     "region": "歐洲",
     "quote": "他們選的是 Liverpool的老街",
-    "context": "以閒置空間作舞台，讓老街區重新活絡的城市音樂節"
+    "context": "以閒置空間作舞臺，讓老街區重新活絡的城市音樂節"
   },
   {
     "name": "香港科學園（Sónar 香港會場）",
@@ -74,7 +74,7 @@
     "name_en": "Neihu Science Park",
     "lat": 25.0807,
     "lon": 121.574,
-    "country": "台灣",
+    "country": "臺灣",
     "region": "台灣",
     "quote": "應該要在內湖科學園區來一次的",
     "context": "提議仿效香港做法，週末辦音樂節"
@@ -84,9 +84,9 @@
     "name_en": "Bopiliao Historic Block",
     "lat": 25.0366,
     "lon": 121.5006,
-    "country": "台灣",
+    "country": "臺灣",
     "region": "台灣",
-    "quote": "好適合在台北的剝皮寮來一次",
+    "quote": "好適合在臺北的剝皮寮來一次",
     "context": "提議以城市音樂節復興老街區"
   },
   {
@@ -104,9 +104,9 @@
     "name_en": "Wulai Old Street",
     "lat": 24.8636,
     "lon": 121.5502,
-    "country": "台灣",
+    "country": "臺灣",
     "region": "台灣",
-    "quote": "在幾條老街之間搭了一個舞台",
+    "quote": "在幾條老街之間搭了一個舞臺",
     "context": "在烏來舉辦音樂節，看完團可泡湯"
   },
   {
@@ -114,17 +114,17 @@
     "name_en": "Dajia Riverside Park",
     "lat": 25.0735,
     "lon": 121.534,
-    "country": "台灣",
+    "country": "臺灣",
     "region": "台灣",
-    "quote": "之前在台北大江河濱公園辦過 就是國際級的Ultra",
-    "context": "台北舉辦Ultra電子音樂節的場地"
+    "quote": "之前在臺北大江河濱公園辦過 就是國際級的Ultra",
+    "context": "臺北舉辦Ultra電子音樂節的場地"
   },
   {
     "name": "海貨市集（花蓮海岸）",
     "name_en": "Haihuo Market, Hualien",
     "lat": 23.97,
     "lon": 121.62,
-    "country": "台灣",
+    "country": "臺灣",
     "region": "台灣",
     "quote": "他叫做海貨 他是一個市集",
     "context": "花蓮海邊口耳相傳的嬉皮風市集與音樂演出"
@@ -134,7 +134,7 @@
     "name_en": "Megaport Festival, Kaohsiung",
     "lat": 22.62,
     "lon": 120.281,
-    "country": "台灣",
+    "country": "臺灣",
     "region": "台灣",
     "quote": "大港在去年年底 腐敗的時候",
     "context": "高雄大型音樂節，場地與陣容盛大"

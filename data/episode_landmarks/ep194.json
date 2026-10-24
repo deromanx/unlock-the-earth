@@ -6,8 +6,8 @@
     "lon": 16.608,
     "country": "捷克",
     "region": "歐洲",
-    "quote": "就是一个大学城 他叫 Berno",
-    "context": "捷克大學城，艺文活動多，未前往",
+    "quote": "就是一個大學城 他叫 Berno",
+    "context": "捷克大學城，藝文活動多，未前往",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Brno_Montage_IV.png/330px-Brno_Montage_IV.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
@@ -17,7 +17,7 @@
     "lon": 17.9,
     "country": "捷克",
     "region": "歐洲",
-    "quote": "在深山里的实验小学",
+    "quote": "在深山裡的實驗小學",
     "context": "由媽媽們創辦，主持人志工三週的學校"
   },
   {
@@ -27,17 +27,17 @@
     "lon": 17.95,
     "country": "捷克",
     "region": "歐洲",
-    "quote": "深山里面有小麦工厂",
+    "quote": "深山裡面有小麥工廠",
     "context": "探險營闖入的荒廢水力小麥磨坊"
   },
   {
-    "name": "風箏平原觀景台",
+    "name": "風箏平原觀景臺",
     "name_en": "Open Plain Viewpoint",
     "lat": 49.11,
     "lon": 17.93,
     "country": "捷克",
     "region": "歐洲",
-    "quote": "那就是一片广阔的平原这样 然后又有一个观景台",
+    "quote": "那就是一片廣闊的平原這樣 然後又有一個觀景臺",
     "context": "探險營途中放風箏的開闊平原"
   },
   {
@@ -47,7 +47,7 @@
     "lon": 17.6,
     "country": "捷克",
     "region": "歐洲",
-    "quote": "他其实坐个火车大概二十几分钟就可以过了",
+    "quote": "他其實坐個火車大概二十幾分鍾就可以過了",
     "context": "學校位於捷克與斯洛伐克交界附近"
   }
 ]

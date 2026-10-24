@@ -6,7 +6,7 @@
     "lon": -16.629,
     "country": "西班牙",
     "region": "非洲",
-    "quote": "今天我们要去加拉利群岛",
+    "quote": "今天我們要去加拉利群島",
     "context": "本集主題，西班牙位於北非外海的海外領土"
   },
   {
@@ -16,7 +16,7 @@
     "lon": -15.589,
     "country": "西班牙",
     "region": "非洲",
-    "quote": "我花比较多的时间是在大加拉利岛",
+    "quote": "我花比較多的時間是在大加拉利島",
     "context": "作者停留最久的島，有森林、沙漠與火山"
   },
   {
@@ -26,7 +26,7 @@
     "lon": -16.605,
     "country": "西班牙",
     "region": "非洲",
-    "quote": "旁边有一个叫Denelife",
+    "quote": "旁邊有一個叫Denelife",
     "context": "另一座主要島嶼，以嘉年華會與省旗聞名"
   },
   {
@@ -36,7 +36,7 @@
     "lon": -15.43,
     "country": "西班牙",
     "region": "非洲",
-    "quote": "那个大家立岛的首都叫做las palmas",
+    "quote": "那個大家立島的首都叫做las palmas",
     "context": "大加那利島首府，黃色公車Guagua可達"
   },
   {
@@ -46,7 +46,7 @@
     "lon": -15.416,
     "country": "西班牙",
     "region": "非洲",
-    "quote": "到了那个三毛的那个故居的地方叫做Delte",
+    "quote": "到了那個三毛的那個故居的地方叫做Delte",
     "context": "三毛故居所在安靜小鎮，鄰居保留遺物"
   },
   {
@@ -56,8 +56,8 @@
     "lon": -15.4143,
     "country": "西班牙",
     "region": "非洲",
-    "quote": "最经典就是他们的哥伦布 那个 哥伦布之家",
-    "context": "典型加那利風格木雕陽台建築與博物館"
+    "quote": "最經典就是他們的哥倫布 那個 哥倫布之家",
+    "context": "典型加那利風格木雕陽臺建築與博物館"
   },
   {
     "name": "上帝的手指",
@@ -67,7 +67,7 @@
     "country": "西班牙",
     "region": "非洲",
     "quote": "叫做上帝的手指",
-    "context": "大加那利島上形似手指的直立巨岩",
+    "context": "大加那利島上形似手指的直立巨巖",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Dedo_de_Dios_am_30.09.2005.jpg/330px-Dedo_de_Dios_am_30.09.2005.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
@@ -77,18 +77,18 @@
     "lon": -15.5733,
     "country": "西班牙",
     "region": "非洲",
-    "quote": "甚至有一个海滩叫做英国人海滩",
+    "quote": "甚至有一個海灘叫做英國人海灘",
     "context": "因英國遊客眾多而得名的度假海灘",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Playa_des_ingles_shoppingbeach_A.jpg/330px-Playa_des_ingles_shoppingbeach_A.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "台灣飯店",
+    "name": "臺灣飯店",
     "name_en": "Restaurante Taiwan",
     "lat": 28.4636,
     "lon": -16.2518,
     "country": "西班牙",
     "region": "非洲",
-    "quote": "加拿大利群道有一个餐厅叫做台湾饭店",
-    "context": "特內里費島上招牌有鶴的中式餐廳"
+    "quote": "加拿大利群道有一個餐廳叫做臺灣飯店",
+    "context": "特內裡費島上招牌有鶴的中式餐廳"
   }
 ]

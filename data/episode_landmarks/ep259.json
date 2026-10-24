@@ -1,22 +1,22 @@
 [
   {
-    "name": "和田生烟（和田茂之）甜點店",
+    "name": "和田生煙（和田茂之）甜點店",
     "name_en": "Patisserie Wada (Oyamadai area)",
     "lat": 35.601,
     "lon": 139.652,
     "country": "日本",
     "region": "亞洲",
-    "quote": "他店不在市中心 他店很远 在尾台山",
+    "quote": "他店不在市中心 他店很遠 在尾台山",
     "context": "法國國寶級甜點師的老派法式甜點店，如同70年代時光屋"
   },
   {
-    "name": "尾山台",
+    "name": "尾山臺",
     "name_en": "Oyamadai",
     "lat": 35.602,
     "lon": 139.652,
     "country": "日本",
     "region": "亞洲",
-    "quote": "他店不在市中心 他店很远 在尾台山",
+    "quote": "他店不在市中心 他店很遠 在尾台山",
     "context": "東京西南郊的小車站，國寶甜點店所在地",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/TokyuOyamadaiSta-FutakoGates.jpg/330px-TokyuOyamadaiSta-FutakoGates.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
@@ -27,7 +27,7 @@
     "lon": 135.7745,
     "country": "日本",
     "region": "亞洲",
-    "quote": "我记得我第一个去吃的是 呃 一个叫建善良房的",
+    "quote": "我記得我第一個去吃的是 呃 一個叫建善良房的",
     "context": "京都百年老店，以葛切體驗安靜卻震撼的口感"
   },
   {
@@ -37,7 +37,7 @@
     "lon": 134.093,
     "country": "日本",
     "region": "亞洲",
-    "quote": "我那时候去一个其中一个岛 叫丰岛",
+    "quote": "我那時候去一個其中一個島 叫豐島",
     "context": "瀨戶內海小島，荒涼安靜，居民約900人"
   },
   {
@@ -47,7 +47,7 @@
     "lon": 134.0951,
     "country": "日本",
     "region": "亞洲",
-    "quote": "上面有一个丰岛美术馆",
+    "quote": "上面有一個豐島美術館",
     "context": "拱形建築內水珠滾動的靈性空間，作者人生最強烈體驗"
   },
   {
@@ -57,7 +57,7 @@
     "lon": 133.9,
     "country": "日本",
     "region": "亞洲",
-    "quote": "赖湖内海 赖湖内海上面很多岛",
+    "quote": "賴湖內海 賴湖內海上面很多島",
     "context": "四國北方海域，島嶼眾多"
   },
   {
@@ -67,7 +67,7 @@
     "lon": 134.043,
     "country": "日本",
     "region": "亞洲",
-    "quote": "四国的高松 也就是这个河山盆堂的这个来源",
+    "quote": "四國的高松 也就是這個河山盆堂的這個來源",
     "context": "四國最大城市，港口咖啡廳與和三盆體驗",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Hanazyukai20220729_7a.jpg/330px-Hanazyukai20220729_7a.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
@@ -78,7 +78,7 @@
     "lon": 133.531,
     "country": "日本",
     "region": "亞洲",
-    "quote": "礼拜天早上 还有一个街市",
+    "quote": "禮拜天早上 還有一個街市",
     "context": "高知週日朝市，販售柑橘、文旦等當地農產"
   },
   {
@@ -88,7 +88,7 @@
     "lon": 133.531,
     "country": "日本",
     "region": "亞洲",
-    "quote": "我在四国的最后一站 然后就直接往南拉 就去到高知",
+    "quote": "我在四國的最後一站 然後就直接往南拉 就去到高知",
     "context": "四國南部，柑橘產地，行程最後一站",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Kochi_Skyline.jpg/330px-Kochi_Skyline.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
@@ -99,7 +99,7 @@
     "lon": 139.7454,
     "country": "日本",
     "region": "亞洲",
-    "quote": "有一家店叫做荷丽屋",
+    "quote": "有一家店叫做荷麗屋",
     "context": "以低奶低糖、突顯栗子風味的日式蒙布朗聞名"
   },
   {
@@ -109,7 +109,7 @@
     "lon": 135.7681,
     "country": "日本",
     "region": "亞洲",
-    "quote": "你去到一个很空灵的地方",
+    "quote": "你去到一個很空靈的地方",
     "context": "木造建築與靜謐氛圍改變作者味覺偏好"
   },
   {
@@ -119,7 +119,7 @@
     "lon": 13.3777,
     "country": "德國",
     "region": "歐洲",
-    "quote": "布兰灯宝门 然后那个门怎么说呢",
+    "quote": "布蘭燈寶門 然後那個門怎麼說呢",
     "context": "看過太多影像，親臨反而無震撼的例子",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Brandenburger_Tor_abends.jpg/330px-Brandenburger_Tor_abends.jpg"
   }

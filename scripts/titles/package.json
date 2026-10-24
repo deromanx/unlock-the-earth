@@ -1,0 +1,8 @@
+{
+  "name": "unlock-the-earth-titles",
+  "private": true,
+  "description": "把固定標題用臺灣道路體轉成 SVG 外框（字型檔不上網站，justfont 授權允許製成圖片）",
+  "dependencies": {
+    "opentype.js": "1.3.4"
+  }
+}

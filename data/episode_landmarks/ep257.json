@@ -4,9 +4,9 @@
     "name_en": "Yonghe",
     "lat": 25.008,
     "lon": 121.516,
-    "country": "台灣",
+    "country": "臺灣",
     "region": "台灣",
-    "quote": "其实我感觉起来我自己体感是",
+    "quote": "其實我感覺起來我自己體感是",
     "context": "來賓住處，道路與人行道不連貫的典型案例"
   },
   {
@@ -16,7 +16,7 @@
     "lon": 5.122,
     "country": "荷蘭",
     "region": "歐洲",
-    "quote": "荷兰有个城市叫乌特勒芝",
+    "quote": "荷蘭有個城市叫烏特勒芝",
     "context": "與新竹對比，自行車與大眾運輸減少塞車"
   },
   {
@@ -24,7 +24,7 @@
     "name_en": "Hsinchu City",
     "lat": 24.813,
     "lon": 120.967,
-    "country": "台灣",
+    "country": "臺灣",
     "region": "台灣",
     "quote": "新竹市塞到包",
     "context": "缺乏人行道與公運，人人開車而塞車"
@@ -34,9 +34,9 @@
     "name_en": "Minsheng Community",
     "lat": 25.06,
     "lon": 121.563,
-    "country": "台灣",
+    "country": "臺灣",
     "region": "台灣",
-    "quote": "可以去看看民生社区",
+    "quote": "可以去看看民生社區",
     "context": "巷弄錯位設計，阻止過境車流的佳例"
   },
   {
@@ -44,9 +44,9 @@
     "name_en": "Fuzhong MRT Station",
     "lat": 25.008,
     "lon": 121.459,
-    "country": "台灣",
+    "country": "臺灣",
     "region": "台灣",
-    "quote": "他在捷运府中站那边他有一条路",
+    "quote": "他在捷運府中站那邊他有一條路",
     "context": "新北車道改徒步區，提升路口效率的案例"
   },
   {
@@ -54,9 +54,9 @@
     "name_en": "Penghu Tianhou Temple",
     "lat": 23.567,
     "lon": 119.565,
-    "country": "台灣",
+    "country": "臺灣",
     "region": "台灣",
-    "quote": "或是澎湖天后宫那边有一条路非常的沾",
+    "quote": "或是澎湖天后宮那邊有一條路非常的沾",
     "context": "石板鋪面道路讓駕駛自然減速"
   },
   {
@@ -66,7 +66,7 @@
     "lon": 141.347,
     "country": "日本",
     "region": "亞洲",
-    "quote": "我去一个就下雪的北海道",
+    "quote": "我去一個就下雪的北海道",
     "context": "積雪顯示車輪軌跡，示範以車道推導設計"
   }
 ]

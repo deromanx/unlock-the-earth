@@ -6,7 +6,7 @@
     "lon": -135.055,
     "country": "加拿大",
     "region": "美洲",
-    "quote": "我有个朋友在育空的白马镇这边",
+    "quote": "我有個朋友在育空的白馬鎮這邊",
     "context": "育空首府，作者旅居生活的主要據點"
   },
   {
@@ -16,7 +16,7 @@
     "lon": -135.314,
     "country": "美國",
     "region": "美洲",
-    "quote": "离白马最近的阿拉斯加的点就叫Skateway",
+    "quote": "離白馬最近的阿拉斯加的點就叫Skateway",
     "context": "阿拉斯加冰河峽灣小鎮，直升機冰川健行與極光"
   },
   {
@@ -26,7 +26,7 @@
     "lon": -139.432,
     "country": "加拿大",
     "region": "美洲",
-    "quote": "道森这边形成了一个就是像淘金小镇之类的一个地方",
+    "quote": "道森這邊形成了一個就是像淘金小鎮之類的一個地方",
     "context": "淘金熱小鎮，房屋因凍土歪斜",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Dawson_Yukon_June_07.jpg/330px-Dawson_Yukon_June_07.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
@@ -37,7 +37,7 @@
     "lon": -135.05,
     "country": "加拿大",
     "region": "美洲",
-    "quote": "玉空河其实跟我讲的不太一样",
+    "quote": "玉空河其實跟我講的不太一樣",
     "context": "白馬段水流湍急，與文章中的想像不同"
   },
   {
@@ -47,7 +47,7 @@
     "lon": -139.4,
     "country": "加拿大",
     "region": "美洲",
-    "quote": "有个叫Klondike River的一个地方",
+    "quote": "有個叫Klondike River的一個地方",
     "context": "淘金熱的發源地"
   },
   {
@@ -57,7 +57,7 @@
     "lon": -136.0,
     "country": "加拿大",
     "region": "美洲",
-    "quote": "其中一条就是cloneback highway",
+    "quote": "其中一條就是cloneback highway",
     "context": "串聯白馬與道森的公路"
   },
   {
@@ -67,7 +67,7 @@
     "lon": -134.5,
     "country": "加拿大",
     "region": "美洲",
-    "quote": "阿拉斯加highway是玉空通往阿拉斯加的一条路",
+    "quote": "阿拉斯加highway是玉空通往阿拉斯加的一條路",
     "context": "兩側森林與群山的經典公路景象"
   },
   {
@@ -77,7 +77,7 @@
     "lon": -135.02,
     "country": "加拿大",
     "region": "美洲",
-    "quote": "我们就走到一个超远的地方Long Lake",
+    "quote": "我們就走到一個超遠的地方Long Lake",
     "context": "白馬鎮附近隨興健行抵達的湖"
   }
 ]

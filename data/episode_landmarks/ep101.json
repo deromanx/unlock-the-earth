@@ -1,13 +1,13 @@
 [
   {
-    "name": "生動台北錄音室（Star Hostel 台北車站）",
+    "name": "生動臺北錄音室（Star Hostel 臺北車站）",
     "name_en": "Star Hostel Taipei Main Station",
     "lat": 25.0485,
     "lon": 121.516,
-    "country": "台灣",
+    "country": "臺灣",
     "region": "台灣",
-    "quote": "台北車站後站",
-    "context": "本集錄音地點，位於台北車站後站的旅舍"
+    "quote": "臺北車站後站",
+    "context": "本集錄音地點，位於臺北車站後站的旅舍"
   },
   {
     "name": "墨西哥城亡靈節遊行",
@@ -16,7 +16,7 @@
     "lon": -99.1332,
     "country": "墨西哥",
     "region": "美洲",
-    "quote": "然後現在墨西哥市還會辦王林杰遊行",
+    "quote": "然後現在墨西哥市還會辦王林傑遊行",
     "context": "主持人參加亡靈節遊行、化骷髏妝的體驗"
   },
   {

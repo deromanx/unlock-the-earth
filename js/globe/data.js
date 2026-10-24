@@ -304,10 +304,11 @@ function buildIndex(episodes, landmarks) {
   return { epMeta, mainEps, lmByEp, countries, countryByA2, lmFirstMs, searchText };
 }
 
-function filterEpisodes(index, { query = '', region = 'all', year = null } = {}) {
+function filterEpisodes(index, { query = '', region = 'all', year = null, tag = null } = {}) {
   const q = query.trim().toLowerCase();
   return index.mainEps.filter(ep => {
     if (year && !(ep.pubDate || '').startsWith(year)) return false;
+    if (tag && !(index.tagsByEp?.get(ep.episode) || []).includes(tag)) return false;
     if (region !== 'all') {
       const lms = index.lmByEp.get(ep.episode) || [];
       if (!lms.some(l => l.region === region)) return false;

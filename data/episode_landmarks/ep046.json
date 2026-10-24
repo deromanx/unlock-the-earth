@@ -4,9 +4,9 @@
     "name_en": "Dadaocheng",
     "lat": 25.0553,
     "lon": 121.51,
-    "country": "台灣",
+    "country": "臺灣",
     "region": "台灣",
-    "quote": "我是在台北的这个历史街区叫做大稻城这个地方出生长大的",
+    "quote": "我是在臺北的這個歷史街區叫做大稻城這個地方出生長大的",
     "context": "主講人家鄉，導覽事業起點與核心街區"
   },
   {
@@ -14,7 +14,7 @@
     "name_en": "Dihua Street",
     "lat": 25.062,
     "lon": 121.5096,
-    "country": "台灣",
+    "country": "臺灣",
     "region": "台灣",
     "quote": "迪化街只是大稻埕的其中一條街",
     "context": "外國人熟知的大稻埕代表街道，年貨大街所在"
@@ -24,7 +24,7 @@
     "name_en": "Former Consulates along Tamsui River, Dadaocheng",
     "lat": 25.0565,
     "lon": 121.5075,
-    "country": "台灣",
+    "country": "臺灣",
     "region": "台灣",
     "quote": "當時大部分的這個國領事館都是在淡水河岸的洋樓",
     "context": "清代各國領事館因快速道路被拆除"
@@ -34,7 +34,7 @@
     "name_en": "Bangka (Monga)",
     "lat": 25.0373,
     "lon": 121.4995,
-    "country": "台灣",
+    "country": "臺灣",
     "region": "台灣",
     "quote": "一開始我們先從大稻埕嘛然後還有艋舺",
     "context": "早期導覽路線之一，青山王遶境所在"
@@ -44,7 +44,7 @@
     "name_en": "Dalongdong",
     "lat": 25.073,
     "lon": 121.515,
-    "country": "台灣",
+    "country": "臺灣",
     "region": "台灣",
     "quote": "或者是算四分之一的大龍峒人",
     "context": "早期導覽的老街區之一"
@@ -54,7 +54,7 @@
     "name_en": "228 Peace Memorial Park",
     "lat": 25.0425,
     "lon": 121.515,
-    "country": "台灣",
+    "country": "臺灣",
     "region": "台灣",
     "quote": "晚上的時候不能去那個當時叫做新公園",
     "context": "老一輩同志活動場域，同志導覽路線"
@@ -64,7 +64,7 @@
     "name_en": "Red House Theater",
     "lat": 25.042,
     "lon": 121.508,
-    "country": "台灣",
+    "country": "臺灣",
     "region": "台灣",
     "quote": "他為什麼會發生在紅樓",
     "context": "同志歷史與現今活動空間之一"
@@ -74,7 +74,7 @@
     "name_en": "Ximending",
     "lat": 25.042,
     "lon": 121.507,
-    "country": "台灣",
+    "country": "臺灣",
     "region": "台灣",
     "quote": "他們為什麼會出現在西門町",
     "context": "現今同志活動場域的導覽重點",
@@ -85,7 +85,7 @@
     "name_en": "Linsen North Road",
     "lat": 25.056,
     "lon": 121.527,
-    "country": "台灣",
+    "country": "臺灣",
     "region": "台灣",
     "quote": "臨森北路條通的酒店導覽",
     "context": "日式酒店條通文化導覽，由媽媽桑帶領"
@@ -95,7 +95,7 @@
     "name_en": "Quchi",
     "lat": 24.94,
     "lon": 121.54,
-    "country": "台灣",
+    "country": "臺灣",
     "region": "台灣",
     "quote": "我們到了這個新店的屈尺",
     "context": "新店近年熱門導覽路線，水力發電廠所在"
@@ -105,37 +105,37 @@
     "name_en": "Xiaocukeng Power Plant",
     "lat": 24.942,
     "lon": 121.545,
-    "country": "台灣",
+    "country": "臺灣",
     "region": "台灣",
     "quote": "它那邊有個電廠叫小粗坑電廠",
-    "context": "全台第一座水力發電廠，百年仍運作"
+    "context": "全臺第一座水力發電廠，百年仍運作"
   },
   {
     "name": "翡翠水庫",
     "name_en": "Feitsui Reservoir",
     "lat": 24.87,
     "lon": 121.58,
-    "country": "台灣",
+    "country": "臺灣",
     "region": "台灣",
     "quote": "新店溪可能就是翡翠水庫",
-    "context": "常被誤認為台北飲用水來源"
+    "context": "常被誤認為臺北飲用水來源"
   },
   {
     "name": "直潭淨水場",
     "name_en": "Zhitan Water Treatment Plant",
     "lat": 24.944,
     "lon": 121.542,
-    "country": "台灣",
+    "country": "臺灣",
     "region": "台灣",
-    "quote": "其實台北人喝的水是取新店溪的直潭壩的水",
-    "context": "台北飲用水實際取水處"
+    "quote": "其實臺北人喝的水是取新店溪的直潭壩的水",
+    "context": "臺北飲用水實際取水處"
   },
   {
     "name": "東海大學",
     "name_en": "Tunghai University",
     "lat": 24.181,
     "lon": 120.602,
-    "country": "台灣",
+    "country": "臺灣",
     "region": "台灣",
     "quote": "我看到裡面有一個像東海大學的",
     "context": "建築導覽路線，8月行程"
@@ -145,7 +145,7 @@
     "name_en": "Donggang",
     "lat": 22.466,
     "lon": 120.438,
-    "country": "台灣",
+    "country": "臺灣",
     "region": "台灣",
     "quote": "比較有名的是東港",
     "context": "三大王船祭典之一"
@@ -155,7 +155,7 @@
     "name_en": "Xiaoliuqiu",
     "lat": 22.34,
     "lon": 120.37,
-    "country": "台灣",
+    "country": "臺灣",
     "region": "台灣",
     "quote": "然後再來就是小琉球",
     "context": "三大王船祭典之一"
@@ -165,9 +165,9 @@
     "name_en": "Xigang",
     "lat": 23.12,
     "lon": 120.2,
-    "country": "台灣",
+    "country": "臺灣",
     "region": "台灣",
-    "quote": "另外一個是台南的西港",
+    "quote": "另外一個是臺南的西港",
     "context": "三大王船祭典之一"
   },
   {
@@ -175,7 +175,7 @@
     "name_en": "Toucheng",
     "lat": 24.859,
     "lon": 121.823,
-    "country": "台灣",
+    "country": "臺灣",
     "region": "台灣",
     "quote": "我們有辦頭城搶孤的導覽",
     "context": "宜蘭鬼月最後活動搶孤",

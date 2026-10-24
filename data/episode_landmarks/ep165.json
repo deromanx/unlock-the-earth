@@ -4,10 +4,10 @@
     "name_en": "Calligraphy Greenway",
     "lat": 24.1405,
     "lon": 120.6625,
-    "country": "台灣",
+    "country": "臺灣",
     "region": "台灣",
-    "quote": "欢迎大家到台中市最绿意盎然的草务道",
-    "context": "台中青創市集與頒獎典禮舉辦地點",
+    "quote": "歡迎大家到臺中市最綠意盎然的草務道",
+    "context": "臺中青創市集與頒獎典禮舉辦地點",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/%E7%B6%93%E5%9C%8B%E5%9C%92%E9%81%93%28%E8%8D%89%E6%82%9F%E9%81%93%29.JPG/330px-%E7%B6%93%E5%9C%8B%E5%9C%92%E9%81%93%28%E8%8D%89%E6%82%9F%E9%81%93%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
@@ -17,7 +17,7 @@
     "lon": 113.942,
     "country": "香港",
     "region": "亞洲",
-    "quote": "机场它的地点就在大雨山",
+    "quote": "機場它的地點就在大雨山",
     "context": "香港機場所在地，知名行山地點",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Lantau_Island_-_Hong_Kong.svg/330px-Lantau_Island_-_Hong_Kong.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
@@ -28,7 +28,7 @@
     "lon": 113.92,
     "country": "香港",
     "region": "亞洲",
-    "quote": "香港的第二高峰叫做凤凰山",
+    "quote": "香港的第二高峰叫做鳳凰山",
     "context": "主持人第一次行山並中暑的經驗"
   }
 ]

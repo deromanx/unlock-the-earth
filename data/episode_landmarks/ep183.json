@@ -6,19 +6,19 @@
     "lon": -88.568,
     "country": "墨西哥",
     "region": "美洲",
-    "quote": "它应该是说后骨点其中算巅峰时期的一个代表性建筑物",
-    "context": "羽蛇神庙光影蛇影、阶梯暗藏历法的玛雅遗址",
+    "quote": "它應該是說後骨點其中算巔峰時期的一個代表性建築物",
+    "context": "羽蛇神廟光影蛇影、階梯暗藏曆法的瑪雅遺址",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Chichen_Itza_3.jpg/330px-Chichen_Itza_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "羽蛇神庙（庫庫爾坎金字塔）",
+    "name": "羽蛇神廟（庫庫爾坎金字塔）",
     "name_en": "Temple of Kukulcan (El Castillo)",
     "lat": 20.683,
     "lon": -88.569,
     "country": "墨西哥",
     "region": "美洲",
-    "quote": "它其实是有一段阶梯阶梯的下方是一个舌头那这个就是代表雨蛇神的意思",
-    "context": "春秋分光影如蛇蠕动，阶梯数对应历法"
+    "quote": "它其實是有一段階梯階梯的下方是一個舌頭那這個就是代表雨蛇神的意思",
+    "context": "春秋分光影如蛇蠕動，階梯數對應曆法"
   },
   {
     "name": "圖盧姆",
@@ -27,8 +27,8 @@
     "lon": -87.429,
     "country": "墨西哥",
     "region": "美洲",
-    "quote": "它是建在那个沿海上所以你在去参观这个遗址的时候你还可以去眺望到这个大海",
-    "context": "少见的海岸玛雅遗址，有风神庙",
+    "quote": "它是建在那個沿海上所以你在去參觀這個遺址的時候你還可以去眺望到這個大海",
+    "context": "少見的海岸瑪雅遺址，有風神廟",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Tulum_2.jpg/330px-Tulum_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
@@ -38,8 +38,8 @@
     "lon": -87.429,
     "country": "墨西哥",
     "region": "美洲",
-    "quote": "里面有一个风神庙那据说这个风神庙它是有这个景绍的功能",
-    "context": "據說能在飓风来临前发出警示声"
+    "quote": "裡面有一個風神廟那據說這個風神廟它是有這個景紹的功能",
+    "context": "據說能在颶風來臨前發出警示聲"
   },
   {
     "name": "聖諾特（天坑）",
@@ -49,7 +49,7 @@
     "country": "墨西哥",
     "region": "美洲",
     "quote": "Sanote是熔岩洞",
-    "context": "石灰岩天坑，玛雅人用于活人献祭"
+    "context": "石灰岩天坑，瑪雅人用於活人獻祭"
   },
   {
     "name": "墨西哥城舊城區憲法廣場",
@@ -58,8 +58,8 @@
     "lon": -99.133,
     "country": "墨西哥",
     "region": "美洲",
-    "quote": "就是在墨西哥市的旧城区它的县府广场那边",
-    "context": "阿兹特克首都遗迹与西班牙教堂所在"
+    "quote": "就是在墨西哥市的舊城區它的縣府廣場那邊",
+    "context": "阿茲特克首都遺蹟與西班牙教堂所在"
   },
   {
     "name": "墨西哥城主教座堂",
@@ -68,8 +68,8 @@
     "lon": -99.133,
     "country": "墨西哥",
     "region": "美洲",
-    "quote": "那边有一栋很维尔的这个西班牙祖教堂",
-    "context": "建于阿兹特克遗迹之上的殖民教堂"
+    "quote": "那邊有一棟很維爾的這個西班牙祖教堂",
+    "context": "建於阿茲特克遺蹟之上的殖民教堂"
   },
   {
     "name": "大神廟遺址",
@@ -78,8 +78,8 @@
     "lon": -99.131,
     "country": "墨西哥",
     "region": "美洲",
-    "quote": "在这个祖教堂它的北边它其实还有一块",
-    "context": "阿兹特克主神庙遗迹，有骷髅头祭台"
+    "quote": "在這個祖教堂它的北邊它其實還有一塊",
+    "context": "阿茲特克主神廟遺蹟，有骷髏頭祭臺"
   },
   {
     "name": "特諾奇提特蘭",
@@ -88,8 +88,8 @@
     "lon": -99.132,
     "country": "墨西哥",
     "region": "美洲",
-    "quote": "创建了这个湖中央的一个水中威尼斯叫做特诺奇迪特兰",
-    "context": "阿兹特克湖中首都，被科尔特斯攻陷"
+    "quote": "創建了這個湖中央的一個水中威尼斯叫做特諾奇迪特蘭",
+    "context": "阿茲特克湖中首都，被科爾特斯攻陷"
   },
   {
     "name": "特奧蒂瓦坎（日月神廟）",
@@ -98,8 +98,8 @@
     "lon": -98.844,
     "country": "墨西哥",
     "region": "美洲",
-    "quote": "其实这个日月神庙一开始它并不是阿兹特克的所建的一个遗址",
-    "context": "前阿兹特克文明遗址，羽蛇神信仰来源"
+    "quote": "其實這個日月神廟一開始它並不是阿茲特克的所建的一個遺址",
+    "context": "前阿茲特克文明遺址，羽蛇神信仰來源"
   },
   {
     "name": "韋拉克魯斯港",
@@ -108,8 +108,8 @@
     "lon": -96.134,
     "country": "墨西哥",
     "region": "美洲",
-    "quote": "那这个是Velacruz海港登陆",
-    "context": "科尔特斯登陆墨西哥之地"
+    "quote": "那這個是Velacruz海港登陸",
+    "context": "科爾特斯登陸墨西哥之地"
   },
   {
     "name": "阿爾班山",
@@ -118,8 +118,8 @@
     "lon": -96.768,
     "country": "墨西哥",
     "region": "美洲",
-    "quote": "阿尔班山Monte Aarban那就是萨坡特克他们的遗址",
-    "context": "萨波特克政治中心金字塔遗址"
+    "quote": "阿爾班山Monte Aarban那就是薩坡特克他們的遺址",
+    "context": "薩波特克政治中心金字塔遺址"
   },
   {
     "name": "米特拉",
@@ -128,8 +128,8 @@
     "lon": -96.36,
     "country": "墨西哥",
     "region": "美洲",
-    "quote": "在米特拉这个地方就是算是后期的一个壮大起来的行政中心之一",
-    "context": "萨波特克独特回纹雕花建筑"
+    "quote": "在米特拉這個地方就是算是後期的一個壯大起來的行政中心之一",
+    "context": "薩波特克獨特回紋雕花建築"
   },
   {
     "name": "圖雷樹",
@@ -138,8 +138,8 @@
     "lon": -96.636,
     "country": "墨西哥",
     "region": "美洲",
-    "quote": "他其实是世界上树为最大的树而且他不是并幕",
-    "context": "瓦哈卡著名巨木，有传说与动物形树根"
+    "quote": "他其實是世界上樹為最大的樹而且他不是並幕",
+    "context": "瓦哈卡著名巨木，有傳說與動物形樹根"
   },
   {
     "name": "瓦哈卡",
@@ -149,7 +149,7 @@
     "country": "墨西哥",
     "region": "美洲",
     "quote": "他的老家在瓦哈卡就是在墨西哥的南部",
-    "context": "主讲者婆家，17个原住民族聚居",
+    "context": "主講者婆家，17個原住民族聚居",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Oaxaqa_%2841%29.jpg/330px-Oaxaqa_%2841%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }
 ]

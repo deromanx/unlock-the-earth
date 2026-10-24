@@ -6,7 +6,7 @@
     "lon": 18.956,
     "country": "挪威",
     "region": "歐洲",
-    "quote": "其实有一次我就是去挪威很北边的一个城市,它叫做极光,它就是一个极光小镇,然后叫做特罗姆色",
+    "quote": "其實有一次我就是去挪威很北邊的一個城市,它叫做極光,它就是一個極光小鎮,然後叫做特羅姆色",
     "context": "北極圈極光小鎮，作者自行追極光、吃最北漢堡王",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Troms%C3%B8_sentrum_%285835702754%29.jpg/330px-Troms%C3%B8_sentrum_%285835702754%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
@@ -17,7 +17,7 @@
     "lon": 10.752,
     "country": "挪威",
     "region": "歐洲",
-    "quote": "奥斯陆在挪威应该算是比较南端的城市",
+    "quote": "奧斯陸在挪威應該算是比較南端的城市",
     "context": "來賓交換地點，介紹地形、氣候與生活",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Nationaltheatret_evening.jpg/330px-Nationaltheatret_evening.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
@@ -28,7 +28,7 @@
     "lon": 7.114,
     "country": "挪威",
     "region": "歐洲",
-    "quote": "就是可以看峡湾的地方它叫做佛赖木",
+    "quote": "就是可以看峽灣的地方它叫做佛賴木",
     "context": "挪威縮影行程小鎮，遇火車罷工受困"
   },
   {
@@ -38,7 +38,7 @@
     "lon": 10.743,
     "country": "挪威",
     "region": "歐洲",
-    "quote": "叫做卡尔约翰大道",
+    "quote": "叫做卡爾約翰大道",
     "context": "奧斯陸國慶日遊行的步行大道，通往皇宮"
   },
   {
@@ -48,28 +48,28 @@
     "lon": 10.727,
     "country": "挪威",
     "region": "歐洲",
-    "quote": "然后走到皇宫",
+    "quote": "然後走到皇宮",
     "context": "國慶日遊行終點，國王向民眾揮手"
   },
   {
-    "name": "講壇岩",
+    "name": "講壇巖",
     "name_en": "Preikestolen (Pulpit Rock)",
     "lat": 58.986,
     "lon": 6.19,
     "country": "挪威",
     "region": "歐洲",
-    "quote": "第一个就是圣坛岩,它就是一个很像讲台的那个地方",
-    "context": "挪威三大奇岩之一，斷崖平台景點"
+    "quote": "第一個就是聖壇巖,它就是一個很像講臺的那個地方",
+    "context": "挪威三大奇巖之一，斷崖平臺景點"
   },
   {
-    "name": "奇蹟岩",
+    "name": "奇蹟巖",
     "name_en": "Kjeragbolten",
     "lat": 59.034,
     "lon": 6.594,
     "country": "挪威",
     "region": "歐洲",
-    "quote": "第二个是奇迹岩,这个很多人应该都有听过就是他就是一颗石头夹在两个山的中间",
-    "context": "三大奇岩之一，卡在兩山壁間的巨石",
+    "quote": "第二個是奇蹟巖,這個很多人應該都有聽過就是他就是一顆石頭夾在兩個山的中間",
+    "context": "三大奇巖之一，卡在兩山壁間的巨石",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Kjerakbolten_Freddy_Fish.jpg/330px-Kjerakbolten_Freddy_Fish.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
@@ -79,8 +79,8 @@
     "lon": 6.74,
     "country": "挪威",
     "region": "歐洲",
-    "quote": "第三个就叫做巨人之蛇,然后它是一个很像舌头",
-    "context": "三大奇岩之一，凸出山壁的舌狀岩石",
+    "quote": "第三個就叫做巨人之蛇,然後它是一個很像舌頭",
+    "context": "三大奇巖之一，凸出山壁的舌狀岩石",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Trolltunga_2017.jpg/330px-Trolltunga_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
@@ -90,7 +90,7 @@
     "lon": 5.322,
     "country": "挪威",
     "region": "歐洲",
-    "quote": "然后带你到西边的城市叫贝尔根",
+    "quote": "然後帶你到西邊的城市叫貝爾根",
     "context": "挪威縮影行程的西岸終點城市",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Bergen_panorama_at_night_-_panoramio_%281%29.jpg/330px-Bergen_panorama_at_night_-_panoramio_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }

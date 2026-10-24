@@ -6,7 +6,7 @@
     "lon": 20.866,
     "country": "科索沃",
     "region": "歐洲",
-    "quote": "科索沃的北边有一个城市叫做Mitrovica",
+    "quote": "科索沃的北邊有一個城市叫做Mitrovica",
     "context": "被河流一分為二，阿族與塞族分居兩岸，橋上常有衝突"
   },
   {
@@ -16,7 +16,7 @@
     "lon": 20.741,
     "country": "科索沃",
     "region": "歐洲",
-    "quote": "科索沃南边的古城他叫Prizzman",
+    "quote": "科索沃南邊的古城他叫Prizzman",
     "context": "奧斯曼風格古城，每年舉辦Dukufest紀錄片影展"
   },
   {
@@ -36,7 +36,7 @@
     "lon": 21.164,
     "country": "科索沃",
     "region": "歐洲",
-    "quote": "我又跑去他们的国家博物馆提案说要做展览",
+    "quote": "我又跑去他們的國家博物館提案說要做展覽",
     "context": "講者提案並舉辦「科索沃未來展」的地點"
   },
   {
@@ -46,18 +46,18 @@
     "lon": 21.164,
     "country": "科索沃",
     "region": "歐洲",
-    "quote": "到处都会有他们一个伟人的雕像叫做Skanderbeck",
-    "context": "阿爾巴尼亞十五世紀民族英雄雕像，遍布城市"
+    "quote": "到處都會有他們一個偉人的雕像叫做Skanderbeck",
+    "context": "阿爾巴尼亞十五世紀民族英雄雕像，遍佈城市"
   },
   {
     "name": "大安森林公園",
     "name_en": "Daan Forest Park",
     "lat": 25.03,
     "lon": 121.536,
-    "country": "台灣",
+    "country": "臺灣",
     "region": "台灣",
-    "quote": "然后大家一起从大安站出发大安森林公园",
-    "context": "台灣舉辦挪威國慶遊行的起點",
+    "quote": "然後大家一起從大安站出發大安森林公園",
+    "context": "臺灣舉辦挪威國慶遊行的起點",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Daan_Park_20210817.jpg/330px-Daan_Park_20210817.jpg"
   }
 ]

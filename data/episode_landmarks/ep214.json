@@ -6,7 +6,7 @@
     "lon": 139.669,
     "country": "日本",
     "region": "亞洲",
-    "quote": "我很喜欢跑去像自由之丘",
+    "quote": "我很喜歡跑去像自由之丘",
     "context": "東京人週末買雜貨小物、逛甜點咖啡的高級住宅區"
   },
   {
@@ -16,8 +16,8 @@
     "lon": 139.65,
     "country": "日本",
     "region": "亞洲",
-    "quote": "我自己去高原市有的时候想要去看看古着",
-    "context": "古著一條街與喫茶店林立的街區"
+    "quote": "我自己去高原市有的時候想要去看看古著",
+    "context": "古著一條街與吃茶店林立的街區"
   },
   {
     "name": "日本橋",
@@ -26,7 +26,7 @@
     "lon": 139.774,
     "country": "日本",
     "region": "亞洲",
-    "quote": "日本桥为什么是日本桥它到底二次接待之后怎么发展起来的",
+    "quote": "日本橋為什麼是日本橋它到底二次接待之後怎麼發展起來的",
     "context": "昔日金融重鎮，老鋪林立，銀行改建咖啡廳"
   },
   {
@@ -36,8 +36,8 @@
     "lon": 139.76,
     "country": "日本",
     "region": "亞洲",
-    "quote": "东大旁边的本乡",
-    "context": "東京大學周邊文人區，有喫茶店與老鋪"
+    "quote": "東大旁邊的本鄉",
+    "context": "東京大學周邊文人區，有吃茶店與老鋪"
   },
   {
     "name": "東京大學",
@@ -46,8 +46,8 @@
     "lon": 139.762,
     "country": "日本",
     "region": "亞洲",
-    "quote": "我在东大交换学生的时候",
-    "context": "本鄉區核心，作者交換學生地，格局似台大"
+    "quote": "我在東大交換學生的時候",
+    "context": "本鄉區核心，作者交換學生地，格局似臺大"
   },
   {
     "name": "湯島天神",
@@ -56,7 +56,7 @@
     "lon": 139.769,
     "country": "日本",
     "region": "亞洲",
-    "quote": "那个神社叫汤岛神社",
+    "quote": "那個神社叫湯島神社",
     "context": "考生祈求金榜題名的學問之神神社"
   },
   {
@@ -66,7 +66,7 @@
     "lon": 139.714,
     "country": "日本",
     "region": "亞洲",
-    "quote": "杂丝谷应该很少人听过",
+    "quote": "雜絲谷應該很少人聽過",
     "context": "保留懷舊昭和氛圍的住宅區，有老糖果店"
   },
   {
@@ -76,7 +76,7 @@
     "lon": 139.7,
     "country": "日本",
     "region": "亞洲",
-    "quote": "左边西边有一个新速车站",
+    "quote": "左邊西邊有一個新速車站",
     "context": "山手線西側主要車站，作者居住生活圈"
   },
   {
@@ -86,7 +86,7 @@
     "lon": 139.767,
     "country": "日本",
     "region": "亞洲",
-    "quote": "东边有一个东京车站",
+    "quote": "東邊有一個東京車站",
     "context": "山手線東側，與新宿相距十七分鐘",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Tokyo-STA_Marunouchi-Entrance_2023.jpg/330px-Tokyo-STA_Marunouchi-Entrance_2023.jpg"
   },
@@ -97,7 +97,7 @@
     "lon": 139.777,
     "country": "日本",
     "region": "亞洲",
-    "quote": "我说上野有点远",
+    "quote": "我說上野有點遠",
     "context": "東京東側居民的主要車站",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Ueno_park.jpg/330px-Ueno_park.jpg"
   },
@@ -108,7 +108,7 @@
     "lon": 139.752,
     "country": "日本",
     "region": "亞洲",
-    "quote": "像港区那边什么三代的那种",
+    "quote": "像港區那邊什麼三代的那種",
     "context": "講究三代的東京高級區，被比作天龍人"
   },
   {
@@ -116,10 +116,10 @@
     "name_en": "Yangmingshan",
     "lat": 25.156,
     "lon": 121.549,
-    "country": "台灣",
+    "country": "臺灣",
     "region": "台灣",
-    "quote": "阳明山就是台北人的台北",
-    "context": "以台北人的台北為例，台北人的假日踏青地",
+    "quote": "陽明山就是臺北人的臺北",
+    "context": "以臺北人的臺北為例，臺北人的假日踏青地",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Mount_Qixing_under_clear_sky_on_13th_February_2016.jpg/330px-Mount_Qixing_under_clear_sky_on_13th_February_2016.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
@@ -127,19 +127,19 @@
     "name_en": "Gongguan",
     "lat": 25.014,
     "lon": 121.534,
-    "country": "台灣",
+    "country": "臺灣",
     "region": "台灣",
-    "quote": "我可能会带他去公馆走走",
-    "context": "台北人的台北代表街區"
+    "quote": "我可能會帶他去公館走走",
+    "context": "臺北人的臺北代表街區"
   },
   {
     "name": "古亭站",
     "name_en": "Guting Station",
     "lat": 25.026,
     "lon": 121.523,
-    "country": "台灣",
+    "country": "臺灣",
     "region": "台灣",
-    "quote": "我可能会带他去古亭站那边找个酒吧喝酒",
+    "quote": "我可能會帶他去古亭站那邊找個酒吧喝酒",
     "context": "在地人喝酒的區域",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Cross-platform_transfer_at_Guting_station_April_2026.jpg/330px-Cross-platform_transfer_at_Guting_station_April_2026.jpg"
   },
@@ -148,9 +148,9 @@
     "name_en": "Linjiang Street Night Market",
     "lat": 25.03,
     "lon": 121.554,
-    "country": "台灣",
+    "country": "臺灣",
     "region": "台灣",
-    "quote": "我可能会带他去临江街",
+    "quote": "我可能會帶他去臨江街",
     "context": "較不擁擠的在地夜市",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Linjiang_Street_Night_Market.jpg/330px-Linjiang_Street_Night_Market.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
@@ -161,7 +161,7 @@
     "lon": 136.994,
     "country": "日本",
     "region": "亞洲",
-    "quote": "金川义元最著名的就是在统霞间",
+    "quote": "金川義元最著名的就是在統霞間",
     "context": "今川義元被織田信長擊敗之戰場"
   },
   {
@@ -171,7 +171,7 @@
     "lon": 138.384,
     "country": "日本",
     "region": "亞洲",
-    "quote": "有个叫郡府城的地方",
+    "quote": "有個叫郡府城的地方",
     "context": "今川義元的領地，逆行路線終點",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Sunpu-castle_tatsumi-yagura.JPG/330px-Sunpu-castle_tatsumi-yagura.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   }

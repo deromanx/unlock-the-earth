@@ -10,14 +10,14 @@
     "context": "撒馬爾罕經學院集中的廣場，夜間有燈光秀"
   },
   {
-    "name": "撒馬爾罕天文台（兀魯伯天文台）",
+    "name": "撒馬爾罕天文臺（兀魯伯天文臺）",
     "name_en": "Ulugh Beg Observatory",
     "lat": 39.6753,
     "lon": 66.9877,
     "country": "烏茲別克",
     "region": "亞洲",
-    "quote": "他們就建立了所謂的天文台",
-    "context": "帖木兒帝國時期半地下天文台，顯示科學發達"
+    "quote": "他們就建立了所謂的天文臺",
+    "context": "帖木兒帝國時期半地下天文臺，顯示科學發達"
   },
   {
     "name": "沙希津達陵墓群",
@@ -66,7 +66,7 @@
     "lon": 78.042,
     "country": "印度",
     "region": "亞洲",
-    "quote": "你仔細想太極馬哈林這個建筑形式",
+    "quote": "你仔細想太極馬哈林這個建築形式",
     "context": "蒙兀兒帝國伊斯蘭建築，反映帖木兒文化遺產",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Taj_Mahal_%28Edited%29.jpeg/330px-Taj_Mahal_%28Edited%29.jpeg"
   }

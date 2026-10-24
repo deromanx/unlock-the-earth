@@ -5,7 +5,7 @@
 
 const CARD_W = 1080;
 const CARD_H = 1920;
-const CARD_FONTS = ['700 64px "LXGW WenKai TC"', '700 40px "Noto Sans TC"', '600 40px "Fredoka"'];
+const CARD_FONTS = ['900 64px "Noto Sans TC"', '700 40px "Noto Sans TC"', '600 40px "Fredoka"'];
 let lastCard = null;   // { blob, url, file, title, link }
 
 async function openShareCard(kind, id) {
@@ -89,10 +89,10 @@ function paintBackground(ctx) {
 async function paintHeader(ctx) {
   const logo = await loadImage('assets/logo-256.png').catch(() => null);
   if (logo) ctx.drawImage(logo, 72, 84, 104, 104);
-  ctx.fillStyle = '#F4C737';
-  ctx.font = '700 58px "LXGW WenKai TC", "Noto Sans TC", sans-serif';
+  // 品牌字用臺灣道路體外框（assets/titles/brand.svg）；字型檔本身不能放上網站
+  const brand = await loadTitleImage('brand', '#F4C737').catch(() => null);
+  if (brand) ctx.drawImage(brand, 200, 82, 66 * brand.width / brand.height, 66);
   ctx.textBaseline = 'alphabetic';
-  ctx.fillText('解鎖地球', 200, 140);
   ctx.fillStyle = 'rgba(238,242,250,0.6)';
   ctx.font = '500 26px "Noto Sans TC", sans-serif';
   ctx.fillText('旅 行 · 歷 史 · 文 化　PODCAST', 202, 182);
@@ -128,7 +128,7 @@ async function paintVisited(ctx) {
   if (art) ctx.drawImage(art, CARD_W / 2 - 80, y, 160, 160);
   y += 222;
 
-  centerText(ctx, tier.title, y, '700 76px "LXGW WenKai TC", "Noto Sans TC", sans-serif', tier.color);
+  centerText(ctx, tier.title, y, '900 76px "Noto Sans TC", sans-serif', tier.color);
   y += 56;
   centerText(ctx, tier.sub, y, '500 32px "Noto Sans TC", sans-serif', 'rgba(238,242,250,0.7)');
   y += 128;
@@ -155,7 +155,7 @@ async function paintEpisode(ctx, epNum) {
 
   centerText(ctx, `EP.${ep.episode}`, y, '600 40px "Fredoka", sans-serif', '#F4C737');
   const [main, sub] = splitTitle(ep.title);
-  y = wrapCentered(ctx, main, y + 92, 78, 940, 3, '700 62px "LXGW WenKai TC", "Noto Sans TC", sans-serif', '#ffffff');
+  y = wrapCentered(ctx, main, y + 92, 78, 940, 3, '700 62px "Noto Sans TC", sans-serif', '#ffffff');
   if (sub) y = wrapCentered(ctx, sub, y + 66, 46, 900, 2, '500 31px "Noto Sans TC", sans-serif', 'rgba(238,242,250,0.72)');
 
   y += 44;
@@ -164,7 +164,7 @@ async function paintEpisode(ctx, epNum) {
   y += 46;
 
   const quote = (lms[0]?.appearances || []).find(a => a.ep === epNum)?.quote;
-  if (quote && y < 1560) wrapCentered(ctx, `「${quote}」`, y + 96, 54, 860, 2, '700 40px "LXGW WenKai TC", "Noto Sans TC", sans-serif', '#7FD8F5');
+  if (quote && y < 1560) wrapCentered(ctx, `「${quote}」`, y + 96, 54, 860, 2, '700 40px "Noto Sans TC", sans-serif', '#7FD8F5');
 
   return {
     title: `Ep.${ep.episode} ${ep.title}`,
@@ -186,7 +186,7 @@ async function paintCountry(ctx, key) {
     ctx.restore();
   }
   y += 200;
-  centerText(ctx, c.key, y, '700 84px "LXGW WenKai TC", "Noto Sans TC", sans-serif', '#ffffff');
+  centerText(ctx, c.key, y, '900 84px "Noto Sans TC", sans-serif', '#ffffff');
   y += 76;
   const y0 = new Date(c.firstMs).getFullYear(), y1 = new Date(c.lastMs).getFullYear();
   centerText(ctx, `${c.eps.size} 集 · ${c.landmarks.length} 個地標 · ${y0 === y1 ? y0 : `${y0}–${y1}`}`, y, '500 36px "Noto Sans TC", sans-serif', '#F4C737');
@@ -207,8 +207,15 @@ function paintFooter(ctx, cta) {
   ctx.fillStyle = 'rgba(244,199,55,0.14)';
   roundRect(ctx, 72, CARD_H - 210, CARD_W - 144, 120, 60);
   ctx.fill();
-  centerText(ctx, cta, CARD_H - 160, '700 38px "LXGW WenKai TC", "Noto Sans TC", sans-serif', '#F4C737');
+  centerText(ctx, cta, CARD_H - 160, '700 38px "Noto Sans TC", sans-serif', '#F4C737');
   centerText(ctx, 'deromanx.github.io/unlock-the-earth', CARD_H - 112, '500 26px "Fredoka", sans-serif', 'rgba(238,242,250,0.7)');
+}
+
+// 固定標題的 SVG 外框沒有填色，畫進 canvas 前把顏色塞進去
+async function loadTitleImage(key, color) {
+  const svg = await (await fetch(`assets/titles/${key}.svg`)).text();
+  const url = 'data:image/svg+xml;charset=utf-8,' + encodeURIComponent(svg.replace('<path ', `<path fill="${color}" `));
+  return loadImage(url);
 }
 
 // ── 國旗 ──────────────────────────────────────────────

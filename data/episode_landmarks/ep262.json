@@ -6,7 +6,7 @@
     "lon": -50.0,
     "country": "格陵蘭",
     "region": "美洲",
-    "quote": "它就是可以直接走到冰盖的边缘，然后你就看着冰盖在你前方",
+    "quote": "它就是可以直接走到冰蓋的邊緣，然後你就看著冰蓋在你前方",
     "context": "可徒步走到冰蓋邊緣，行程起點"
   },
   {
@@ -16,7 +16,7 @@
     "lon": -50.69,
     "country": "格陵蘭",
     "region": "美洲",
-    "quote": "通常Kangaloose Walk是我们从格陵兰以外的任何的国家进去的一个门户",
+    "quote": "通常Kangaloose Walk是我們從格陵蘭以外的任何的國家進去的一個門戶",
     "context": "格陵蘭主要國際門戶，氣候穩定、有機場",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Kangerlussuaq%2C_Greenland.jpg/330px-Kangerlussuaq%2C_Greenland.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
@@ -27,7 +27,7 @@
     "lon": -51.1,
     "country": "格陵蘭",
     "region": "美洲",
-    "quote": "Illulisat，然后也是我们这次旅游的重点",
+    "quote": "Illulisat，然後也是我們這次旅遊的重點",
     "context": "冰峽灣所在，本集旅程重點城鎮",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/The_colors_from_Ilulissat_-_Greenland._-_panoramio.jpg/330px-The_colors_from_Ilulissat_-_Greenland._-_panoramio.jpg"
   },
@@ -38,7 +38,7 @@
     "lon": -50.0,
     "country": "格陵蘭",
     "region": "美洲",
-    "quote": "它以它的冰霞湾列入UNESCO",
+    "quote": "它以它的冰霞灣列入UNESCO",
     "context": "世界遺產，冰山崩落奇景與健行步道"
   },
   {
@@ -48,7 +48,7 @@
     "lon": -50.2,
     "country": "格陵蘭",
     "region": "美洲",
-    "quote": "它会有一个叫做爱奇冰河，Akiglaser",
+    "quote": "它會有一個叫做愛奇冰河，Akiglaser",
     "context": "搭船可近距離目睹冰山崩落的冰川"
   },
   {
@@ -58,7 +58,7 @@
     "lon": -51.05,
     "country": "格陵蘭",
     "region": "美洲",
-    "quote": "那边只有45个的居民",
+    "quote": "那邊只有45個的居民",
     "context": "因紐特人小漁村，船長鎮長接待"
   },
   {
@@ -68,7 +68,7 @@
     "lon": -51.739,
     "country": "格陵蘭",
     "region": "美洲",
-    "quote": "往南的话就是格林兰的首都，就是Nuke",
+    "quote": "往南的話就是格林蘭的首都，就是Nuke",
     "context": "格陵蘭首都，人文中心，此行未前往",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Nuuk%2C_Greenland_skyline_aerial_view.jpg/330px-Nuuk%2C_Greenland_skyline_aerial_view.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
@@ -79,7 +79,7 @@
     "lon": -23.0,
     "country": "格陵蘭",
     "region": "極地",
-    "quote": "它是一个世界上现在最大的国家公园",
+    "quote": "它是一個世界上現在最大的國家公園",
     "context": "全球最大國家公園，需申請許可才可進入"
   }
 ]

@@ -75,8 +75,6 @@ def fetch():
     for item in channel.findall('item'):
         full_title = get(item, 'title') or get(item, 'title', 'itunes')
         link = get(item, 'link')
-        guid = get(item, 'guid')
-        ep_id = guid.split('/')[-1] if '/' in guid else guid
 
         pub_date = parse_date(get(item, 'pubDate'))
 
@@ -89,11 +87,9 @@ def fetch():
         title = clean_title(full_title)
 
         episodes.append({
-            'id':        ep_id,
             'episode':   ep_num,
             'type':      ep_type,
             'title':     title,
-            'fullTitle': full_title,
             'pubDate':   pub_date,
             'link':      link,
             'duration':  duration,
@@ -110,7 +106,7 @@ def main():
     episodes = fetch()
 
     with open(out, 'w', encoding='utf-8') as f:
-        json.dump(episodes, f, ensure_ascii=False, indent=2)
+        json.dump(episodes, f, ensure_ascii=False, separators=(',', ':'))   # 網頁一開就要下載，不縮排
 
     print(f'✓ {len(episodes)} episodes → {out}')
 
