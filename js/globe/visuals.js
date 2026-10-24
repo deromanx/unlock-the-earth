@@ -384,6 +384,18 @@ function buildGlowSamples() {
   }
 }
 
+// 同一個亮度等級沿用同一個物件：globe.gl 依物件辨認資料，沿用就只更新位置、不重建 3D 物件
+const glowSetCache = new Map();
+function glowBucket(buckets, key, make) {
+  if (!buckets.has(key)) {
+    let set = glowSetCache.get(key);
+    if (!set) { set = make(); glowSetCache.set(key, set); }
+    set.items = [];
+    buckets.set(key, set);
+  }
+  return buckets.get(key);
+}
+
 function glowSets(visibleLms = []) {
   if (!glowSamples || !dotTexCtor()) return [];   // 貼圖建構子還沒好：先不畫，好了 setPoints 會重畫
   const t = THEMES[theme];
@@ -407,14 +419,13 @@ function glowSets(visibleLms = []) {
     }
     const dim = !!focus.countryKey && f.country?.key !== focus.countryKey;
     const color = `rgb(${rgb.join(',')})`;
-    const key = `${color}|${level}|${dim}`;
-    if (!buckets.has(key)) buckets.set(key, {
+    const key = `${theme}|${color}|${level}|${dim}`;
+    const set = glowBucket(buckets, key, () => ({
       glow: true, items: [], alt: 0.005,
       size: (2.5 + 4 * level) * (IS_SMALL ? 0.8 : 1),
       tex: glowTexture(color, dim ? 0.14 : 0.32 + 0.45 * level),
-    });
+    }));
     const keep = 0.22 + 0.5 * level;   // 集數越多光點越密
-    const set = buckets.get(key);
     for (const p of glowSamples.get(f)) if (p.k < keep) set.items.push(p);
   }
 
@@ -427,13 +438,12 @@ function glowSets(visibleLms = []) {
       const dim = !!focus.countryKey && lm.countryKey !== focus.countryKey;
       const big = lm.epNums.length > 2;
       const color = `rgb(${rgb.join(',')})`;
-      const key = `${color}|city|${big}|${dim}`;
-      if (!buckets.has(key)) buckets.set(key, {
+      const key = `${theme}|${color}|city|${big}|${dim}`;
+      glowBucket(buckets, key, () => ({
         glow: true, items: [], alt: 0.006,
         size: (big ? 11 : 7.5) * (IS_SMALL ? 0.8 : 1),
         tex: glowTexture(color, dim ? 0.2 : 0.95),
-      });
-      buckets.get(key).items.push({ lat: lm.lat, lng: lm.lon });
+      })).items.push({ lat: lm.lat, lng: lm.lon });
     }
   }
   return [...buckets.values()];
@@ -460,22 +470,33 @@ function glowTexture(color, alpha) {
   ctx.fillRect(0, 0, 64, 64);
   const tex = new Tex(cv);
   tex.needsUpdate = true;
+  tex.userData = { ...tex.userData, glow: true };   // 用貼圖辨認發光組（見 glowBeforeRender）
   glowTextures.set(key, tex);
   return tex;
 }
 
-// globe.gl 對有貼圖的粒子固定設成不透明＋alphaTest 0.5（柔邊會被切掉），每次更新後把發光組改回柔邊混色
-function patchGlowMaterials() {
-  const apply = () => globe?.scene().traverse(o => {
-    if (o.__globeObjType !== 'particles' || !o.__data?.glow) return;
-    const m = o.material;
-    m.transparent = true;
+// globe.gl 對有貼圖的粒子固定設成不透明＋alphaTest 0.5，柔邊（不到一半透明度的部分）會整個被切掉，只剩小小的核心。
+// 它的更新經過好幾層延遲，事後改一次常被蓋回去，所以掛在每個粒子物件的 onBeforeRender：
+// 每一幀畫之前檢查，用的是發光貼圖就改回柔邊混色（有變才標記重編譯）
+const noRaycast = () => {};
+function glowBeforeRender(renderer, scene, camera, geometry, m) {
+  if (!m.map?.userData?.glow) return;
+  const blending = theme === 'dark' ? 2 : 1;   // THREE.AdditiveBlending / NormalBlending
+  if (m.alphaTest !== 0.003 || !m.transparent || m.depthWrite || m.blending !== blending) {
     m.alphaTest = 0.003;
+    m.transparent = true;
     m.depthWrite = false;
-    m.blending = theme === 'dark' ? 2 : 1;   // THREE.AdditiveBlending / NormalBlending
+    m.blending = blending;
     m.needsUpdate = true;
-    o.raycast = () => {};   // 光點不攔滑鼠：滑過國家要顯示國家資訊，不是光點
+  }
+  this.raycast = noRaycast;   // 光點不攔滑鼠：滑過國家要顯示國家資訊
+}
+
+function patchGlowMaterials() {
+  const hook = () => globe?.scene().traverse(o => {
+    if (o.__globeObjType === 'particles' && o.onBeforeRender !== glowBeforeRender) o.onBeforeRender = glowBeforeRender;
   });
-  setTimeout(apply, 0);
-  setTimeout(apply, 120);
+  setTimeout(hook, 0);
+  setTimeout(hook, 150);
+  setTimeout(hook, 600);
 }
