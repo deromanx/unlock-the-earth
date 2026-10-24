@@ -234,6 +234,7 @@ function initGlobe() {
     .onZoom(onZoom)
     .onGlobeReady(() => {
       document.body.classList.remove('globe-pending');
+      setPickRadius(globe.pointOfView().altitude);
       setTimeout(watchPerformance, 1500);
     });
 
@@ -490,6 +491,8 @@ function setPoints(list) {
   if (sig === pointsSig) return;
   pointsSig = sig;
   globe.particlesData(sets).particlesTexture(ready ? set => set.tex : null);
+  setTimeout(fixParticlePicking, 0);
+  setTimeout(fixParticlePicking, 300);
   if (!ready && !dotTexWait) {
     dotTexWait = setInterval(() => { if (dotTexCtor()) { clearInterval(dotTexWait); refreshPoints(); } }, 300);
   }
@@ -541,6 +544,25 @@ function visiblePoints() {
 
 function onZoom({ altitude }) {
   updateCountryLabels(altitude);
+  setPickRadius(altitude);
+}
+
+// 地標點的點擊範圍：globe.gl 預設 0.2 單位（世界座標），拉近看國家時點只有幾像素，幾乎點不到。
+// 依目前高度換算成螢幕上約 9 像素（地球半徑 100、視角 50°）
+function setPickRadius(altitude) {
+  const unitsPerPx = altitude * 100 * 2 * Math.tan(25 * DEG) / Math.max(1, innerHeight);
+  globe.lineHoverPrecision(Math.min(1.2, Math.max(0.15, 9 * unitsPerPx)));   // 遠看時上限 1.2，免得點到隔壁地標
+}
+
+// 地標組物件沿用時，globe.gl 只換點的位置、不清掉舊的包圍球；射線檢測先比包圍球，
+// 舊的球太小就整組點不到。每次檢測前重算（一組最多約兩千點，很快）
+function fixParticlePicking() {
+  globe?.scene().traverse(o => {
+    if (o.__globeObjType !== 'particles' || o.__pickFix) return;
+    const orig = o.raycast;
+    o.raycast = function (...args) { this.geometry.computeBoundingSphere(); return orig.apply(this, args); };
+    o.__pickFix = true;
+  });
 }
 
 function hexToRgba(hex, a) {
