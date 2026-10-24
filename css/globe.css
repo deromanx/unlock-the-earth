@@ -517,7 +517,37 @@ html[data-lite] .country-label { text-shadow: 0 1px 2px var(--bg); }
   background: var(--bg);
   transition: opacity 0.8s, visibility 0.8s;
 }
-#loading img { width: 88px; height: 88px; border-radius: 50%; animation: spin 2.4s linear infinite; }
+/* 載入畫面：logo 當黑膠唱片中間的圓標，唱片旋轉、唱臂放上來 */
+.vinyl { position: relative; width: 150px; height: 150px; }
+.vinyl-disc {
+  position: absolute; inset: 0; border-radius: 50%;
+  display: grid; place-items: center;
+  background:
+    radial-gradient(circle, transparent 0 31%, rgba(0,0,0,0.55) 31.5% 33%, transparent 33.5%),
+    repeating-radial-gradient(circle, #141418 0 1.2px, #1f1f25 1.2px 2.6px);
+  box-shadow: 0 10px 30px rgba(0,0,0,0.45), inset 0 0 0 2px #0b0b0e, inset 0 0 0 4px #24242b;
+  animation: spin 1.8s linear infinite;   /* 33⅓ 轉 */
+}
+.vinyl-label { width: 62px; height: 62px; border-radius: 50%; box-shadow: 0 0 0 2px #0b0b0e; }
+.vinyl-disc::after {   /* 中心軸孔 */
+  content: ''; position: absolute; width: 7px; height: 7px; border-radius: 50%;
+  background: var(--bg); box-shadow: 0 0 0 1.5px rgba(0,0,0,0.6);
+}
+/* 光澤不跟著轉，唱片轉起來紋路才會閃 */
+.vinyl-sheen {
+  position: absolute; inset: 0; border-radius: 50%; pointer-events: none;
+  background: conic-gradient(from 20deg, transparent 0 8%, rgba(255,255,255,0.13) 13%, transparent 19% 50%, rgba(255,255,255,0.09) 57%, transparent 63%);
+  -webkit-mask: radial-gradient(circle, transparent 0 32%, #000 33%); mask: radial-gradient(circle, transparent 0 32%, #000 33%);
+}
+.tonearm {
+  position: absolute; width: 60px; height: 120px; right: -34px; top: -16px;
+  transform-origin: 44px 14px; transform: rotate(-28deg);
+  animation: arm-in 0.9s 0.3s cubic-bezier(.3,.7,.3,1) forwards;
+  fill: #c9cbd3; stroke: #c9cbd3; stroke-width: 4; stroke-linecap: round; stroke-linejoin: round;
+}
+.tonearm path { fill: none; }
+.tonearm .ta-pin { fill: #6c6f7a; stroke: none; }
+@keyframes arm-in { to { transform: rotate(0deg); } }
 #loading p { font-family: var(--font-display); font-size: 18px; color: var(--text-2); text-align: center; padding: 0 24px; }
 #loading p a { color: var(--accent-text); text-decoration: underline; }
 #loading.done { opacity: 0; visibility: hidden; }
@@ -528,7 +558,8 @@ body.globe-pending .hero-hint { display: none; }
 body.globe-pending .toolbar, body.globe-pending .hero-actions, body.globe-pending .hero-latest,
 body.globe-pending #legend { opacity: 0.45; pointer-events: none; }
 @keyframes breathe { 50% { opacity: 0.45; } }
-#loading.fatal img { animation: none; }
+#loading.fatal .vinyl-disc { animation: none; }
+#loading.fatal .tonearm { animation: none; }
 @keyframes spin { to { transform: rotate(360deg); } }
 .fallback { position: fixed; inset: auto 0 40px; text-align: center; z-index: 101; }
 

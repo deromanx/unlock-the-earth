@@ -980,11 +980,10 @@ function showCountry(key, { fly = true } = {}) {
     </div>`, { type: 'country', id: key, label: c.key });
 
   setFocus({ lms: c.landmarks, countryKey: key });
-  // 回訪網：連到同集出現過的國家，線越粗代表一起出現越多集
-  const from = countryCentroid(c);
-  setArcPairs(co.slice(0, 15).map(({ c: o, n }) => ({ from, to: countryCentroid(o), stroke: Math.min(0.9, 0.18 + n * 0.12) })));
-  setRings([]);
-  setLabels(c.landmarks.slice(0, 8));
+  // 放大一個國家時只看地標本身：不畫連線、不標名字，每個地標一圈聲波
+  setArcPairs([]);
+  setRings(c.landmarks, { maxR: 1.6, period: 1500, speed: 1.2 });
+  setLabels([]);
   pushUrl(`country=${encodeURIComponent(key)}`);
   if (fly) flyTo(c.landmarks, 1800, 0.35);
 }

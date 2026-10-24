@@ -25,7 +25,7 @@
 
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flag-icons@7.2.3/css/flag-icons.min.css">
   <link rel="preload" as="script" href="https://cdn.jsdelivr.net/npm/globe.gl@2.46.2/dist/globe.gl.min.js">
-  <link rel="stylesheet" href="css/globe.css?v=13">
+  <link rel="stylesheet" href="css/globe.css?v=14">
   <script>
     // 先套主題，避免載入時閃一下深色
     try { document.documentElement.dataset.theme = localStorage.getItem('ute-theme-v2') || 'dark'; } catch (e) {}
@@ -232,15 +232,19 @@
   <div id="spin-veil"><span>🎲 命運的骰子轉動中…</span></div>
 
   <div id="loading">
-    <img src="assets/logo-256.png" alt="">
+    <div class="vinyl" aria-hidden="true">
+      <div class="vinyl-disc"><img class="vinyl-label" src="assets/logo-256.png" alt=""></div>
+      <div class="vinyl-sheen"></div>
+      <svg class="tonearm" viewBox="0 0 60 120"><circle cx="44" cy="14" r="10"/><circle cx="44" cy="14" r="4" class="ta-pin"/><path d="M44 14 L44 78 L22 104"/><rect x="12" y="98" width="16" height="12" rx="2" transform="rotate(38 20 104)"/></svg>
+    </div>
     <p>正在解鎖地球…</p>
   </div>
 
   <noscript><p class="fallback">本網站需要 JavaScript 才能顯示互動地球。</p></noscript>
 
   <script src="js/globe/data.js?v=3"></script>
-  <script src="js/globe/visuals.js?v=9"></script>
-  <script src="js/globe/app.js?v=28"></script>
+  <script src="js/globe/visuals.js?v=10"></script>
+  <script src="js/globe/app.js?v=29"></script>
   <script src="js/globe/share.js?v=7"></script>
 </body>
 </html>
