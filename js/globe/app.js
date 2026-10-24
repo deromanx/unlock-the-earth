@@ -11,7 +11,7 @@ const SITE_URL = 'https://deromanx.github.io/unlock-the-earth/';
 const GLOBE_LIB = 'https://cdn.jsdelivr.net/npm/globe.gl@2.46.2/dist/globe.gl.min.js';   // index.html 也有一行 preload，改版本要一起改
 // 資料版本：scripts/stamp_data_version.py 依資料檔內容算出、寫進 index.html，資料一更新瀏覽器就不會拿到舊快取
 const DATA_V = '?v=' + (document.querySelector('meta[name="data-version"]')?.content || '1');
-const HOME_COUNTRY = '台灣';   // 主場集數遠超其他國，不參與刻度上限、直接顯示最亮色
+const HOME_COUNTRY = '台灣';   // 主場集數遠超其他國，不參與刻度上限，填獨立的綠色（THEMES.*.home）
 const REGIONS = ['亞洲', '歐洲', '美洲', '非洲', '大洋洲', '台灣', '極地'];
 const IS_TOUCH = matchMedia('(hover: none)').matches;
 const IS_SMALL = matchMedia('(max-width: 760px)').matches;
@@ -41,7 +41,7 @@ const ICONS = {
 const THEMES = {
   dark: {
     globe: '#0b1830', night: 'rgba(0,3,12,0.55)', lights: 0.95, atmosphere: '#6fb4ff',
-    landOff: 'rgba(120,135,160,0.20)', dim: 0.16,
+    landOff: 'rgba(120,135,160,0.20)', dim: 0.16, home: '#4cc38a',
     // OKLCH 線性內插：亮度 0.42→0.84、彩度 0.035→0.17 同步遞增，越多集越「濃」
     ramp: ['#574b37', '#80663b', '#ab813a', '#da9c34', '#ffb823'],
     pin: '#7FD8F5',
@@ -50,7 +50,7 @@ const THEMES = {
   },
   light: {
     globe: '#f4e8cc', night: 'rgba(40,40,80,0.20)', lights: 0.55, atmosphere: '#e6a82a',
-    landOff: 'rgba(70,55,35,0.13)', dim: 0.22,
+    landOff: 'rgba(70,55,35,0.13)', dim: 0.22, home: '#2e8b57',
     // 淺色底：亮度 0.86→0.50 遞減、彩度 0.04→0.14 遞增
     ramp: ['#ddd0b4', '#cab085', '#b99056', '#a86f21', '#974d00'],
     pin: '#0E6F82',
@@ -60,7 +60,7 @@ const THEMES = {
   // 復古探險地圖：羊皮紙地球、經緯線、深褐墨水色階、朱紅地標，沒有日夜和城市燈火
   vintage: {
     globe: '#e9d8b0', night: 'rgba(0,0,0,0)', lights: 0, atmosphere: '#c9a46b', paper: true,
-    landOff: 'rgba(92,60,28,0.12)', dim: 0.2,
+    landOff: 'rgba(92,60,28,0.12)', dim: 0.2, home: '#4f7a3a',
     ramp: ['#d6bf90', '#c09a5f', '#a26f37', '#82451c', '#5c210b'],
     pin: '#a3301f',
     visitedOn: 'rgba(163,48,31,0.75)', visitedOff: 'rgba(92,60,28,0.10)',
@@ -400,7 +400,8 @@ function countryColor(f) {
   if (visitedOn) return f.a2 && visited.has(f.a2) ? t.visitedOn : t.visitedOff;
   const h = heat(f);
   if (h < 0) return focus.countryKey ? fade(t.landOff, 0.6) : t.landOff;
-  const [r, g, b] = rampColor(t.ramp, h);
+  // 台灣是主場，用獨立的綠色，不跟海外國家比濃淡
+  const [r, g, b] = f.country.key === HOME_COUNTRY ? hexToRgb(t.home).split(',').map(Number) : rampColor(t.ramp, h);
   const a = focus.countryKey && f.country.key !== focus.countryKey ? 0.3 : 0.92;
   return `rgba(${r},${g},${b},${a})`;
 }
@@ -1116,7 +1117,7 @@ function renderLegend() {
   document.getElementById('legend-max').textContent = `${max} 集`;
   const home = ix.countries.get(HOME_COUNTRY);
   document.getElementById('legend-home').innerHTML =
-    `<i style="background:${THEMES[theme].pin}"></i>地標　·　台灣主場 ${home ? home.eps.size : 0} 集以最濃色顯示`;
+    `<i style="background:${THEMES[theme].pin}"></i>地標　·　<i style="background:${THEMES[theme].home}"></i>台灣主場 ${home ? home.eps.size : 0} 集`;
 }
 
 function countUpHero() {
