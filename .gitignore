@@ -9,3 +9,8 @@ logs/
 __pycache__/
 *.bad.txt
 logs/empty_*
+
+# reel 渲染
+scripts/reel/node_modules/
+scripts/reel/fonts/
+exports/

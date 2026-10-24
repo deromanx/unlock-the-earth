@@ -2,146 +2,228 @@
 <html lang="zh-TW">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>解鎖地球 — 互動旅遊地圖</title>
-  <meta name="description" content="解鎖地球 Podcast：旅行、歷史、文化。在地圖上探索每一集的目的地。">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <title>解鎖地球 — 互動旅遊地球儀</title>
+  <meta name="description" content="解鎖地球 Podcast：旅行、歷史、文化。轉動地球，探索每一集去過的地方。">
+  <meta name="theme-color" content="#060b18">
 
-  <link rel="icon" type="image/png" href="assets/logo-circle.png">
-  <link rel="apple-touch-icon" href="assets/logo-circle.png">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="解鎖地球">
+  <meta property="og:title" content="解鎖地球 — 互動旅遊地球儀">
+  <meta property="og:description" content="轉動地球，探索《解鎖地球》每一集去過的地方：近 2,000 個地標、130 多個國家。">
+  <meta property="og:image" content="https://deromanx.github.io/unlock-the-earth/assets/banner-2400.jpg">
+  <meta property="og:url" content="https://deromanx.github.io/unlock-the-earth/">
+  <meta name="twitter:card" content="summary_large_image">
 
-  <!-- Leaflet -->
-  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin=""/>
-  <!-- Marker Cluster -->
-  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css"/>
-  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css"/>
-  <!-- Fonts -->
+  <link rel="icon" type="image/png" href="assets/logo-256.png">
+  <link rel="apple-touch-icon" href="assets/logo-256.png">
+
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600;700&family=Klee+One:wght@400;600&family=Noto+Sans+TC:wght@300;400;500;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600;700&family=Klee+One:wght@400;600&family=Noto+Sans+TC:wght@400;500;700;900&display=swap" rel="stylesheet">
 
-  <link rel="stylesheet" href="css/style.css?v=20">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flag-icons@7.2.3/css/flag-icons.min.css">
+  <link rel="stylesheet" href="css/globe.css?v=8">
+  <script>
+    // 先套主題，避免載入時閃一下深色
+    try { document.documentElement.dataset.theme = localStorage.getItem('ute-theme-v2') || 'dark'; } catch (e) {}
+  </script>
 </head>
-<body>
+<body class="intro">
 
-  <!-- ── Header ── -->
-  <header id="header">
-    <div class="logo">
-      <img src="assets/logo-circle.png" alt="解鎖地球" class="logo-img">
-      <div class="logo-text">
-        <span class="logo-title">解鎖地球</span>
-        <span class="logo-sub">旅行 · 歷史 · 文化</span>
-      </div>
-    </div>
-    <div class="header-right">
-      <div class="stats" id="stats">
-        <span class="stat" id="stat-eps">— 集</span>
-        <span class="stat-sep">·</span>
-        <span class="stat" id="stat-dest">— 個目的地</span>
-      </div>
-      <a href="london.html" class="btn-list btn-london" title="Craig 的倫敦地圖">
-        🇬🇧 倫敦特輯
-      </a>
-      <button id="timeline-btn" class="btn-list btn-timeline" title="節目世界觀時間線" style="display:none">
-        <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2">
-          <line x1="2" y1="12" x2="22" y2="12"/>
-          <circle cx="6"  cy="12" r="2.5" fill="currentColor" stroke="none"/>
-          <circle cx="13" cy="12" r="2.5" fill="currentColor" stroke="none"/>
-          <circle cx="19" cy="12" r="2.5" fill="currentColor" stroke="none"/>
-          <line x1="6"  y1="12" x2="6"  y2="6"/>
-          <line x1="13" y1="12" x2="13" y2="17"/>
-          <line x1="19" y1="12" x2="19" y2="7"/>
-        </svg>
-        時間線
+  <!-- ── 地球 ── -->
+  <canvas id="stars" aria-hidden="true"></canvas>
+  <div id="globe" aria-label="互動地球儀"></div>
+
+  <!-- ── 頂部列 ── -->
+  <header id="topbar">
+    <button class="brand" id="brand" title="回到起點">
+      <img src="assets/logo-256.png" alt="" class="brand-logo">
+      <span class="brand-text">
+        <span class="brand-title">解鎖地球</span>
+        <span class="brand-sub">旅行 · 歷史 · 文化</span>
+      </span>
+    </button>
+
+    <nav class="toolbar" aria-label="功能">
+      <button class="tool tool-primary" id="btn-random" title="隨機出發">
+        <span class="tool-ico" data-icon="dice"></span><span class="tool-label">隨機出發</span>
       </button>
-      <button id="theme-toggle" class="btn-icon" aria-label="切換主題" title="切換 Dark / Light 模式">
-        <svg id="icon-moon" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-          <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/>
-        </svg>
-        <svg id="icon-sun" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="display:none">
-          <circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/>
-          <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/>
-          <line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/>
-          <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/>
-        </svg>
+      <button class="tool" id="btn-episodes" title="所有集數">
+        <span class="tool-ico" data-icon="headphones"></span><span class="tool-label">集數</span>
       </button>
-      <button id="toggle-panel" class="btn-list" aria-label="開啟集數列表">
-        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2">
-          <line x1="8" y1="6" x2="21" y2="6"/><line x1="8" y1="12" x2="21" y2="12"/>
-          <line x1="8" y1="18" x2="21" y2="18"/>
-          <circle cx="3" cy="6" r="1" fill="currentColor"/><circle cx="3" cy="12" r="1" fill="currentColor"/>
-          <circle cx="3" cy="18" r="1" fill="currentColor"/>
-        </svg>
-        所有集數
+      <button class="tool" id="btn-timeline" title="時間線">
+        <span class="tool-ico" data-icon="history"></span><span class="tool-label">時間線</span>
       </button>
-    </div>
+      <button class="tool" id="btn-visited" title="標記我去過的國家">
+        <span class="tool-ico" data-icon="plane"></span><span class="tool-label">我的足跡</span>
+      </button>
+      <button class="tool" id="btn-stats" title="節目統計">
+        <span class="tool-ico" data-icon="chart"></span><span class="tool-label">統計</span>
+      </button>
+      <button class="tool tool-icon" id="btn-theme" aria-label="切換深淺色" title="切換深淺色">
+        <span class="tool-ico" id="theme-ico"></span>
+      </button>
+    </nav>
   </header>
 
-  <!-- ── Map ── -->
-  <div id="map"></div>
+  <!-- ── 開場 ── -->
+  <section id="hero">
+    <p class="hero-kicker">PODCAST · 互動地球儀</p>
+    <h1 class="hero-title">用耳朵<br>走遍世界</h1>
+    <div class="hero-stats">
+      <div class="hero-stat"><b id="hs-eps">0</b><span>集節目</span></div>
+      <div class="hero-stat"><b id="hs-lms">0</b><span>個地標</span></div>
+      <div class="hero-stat"><b id="hs-cty">0</b><span>個國家</span></div>
+    </div>
+    <div class="hero-actions">
+      <button class="btn btn-primary" id="hero-random"><span data-icon="dice"></span>隨機出發</button>
+      <button class="btn btn-ghost" id="hero-browse">瀏覽集數</button>
+    </div>
+    <button class="hero-latest" id="hero-latest" hidden></button>
+    <p class="hero-hint">拖曳轉動地球 · 點光點看地標 · 點國家看專頁</p>
+  </section>
 
-  <!-- ── Visited Mode Float Button ── -->
-  <button id="visited-btn" class="btn-visited-float" title="標記我去過的國家">✈️</button>
+  <!-- ── 圖例 ── -->
+  <div id="legend" aria-label="國家顏色圖例">
+    <span class="legend-title">節目去過幾集</span>
+    <span class="legend-bar" id="legend-bar"></span>
+    <span class="legend-scale"><span>1</span><span id="legend-mid"></span><span id="legend-max"></span></span>
+    <span class="legend-home" id="legend-home"></span>
+  </div>
 
-  <!-- ── Visited Overlay (result + share) ── -->
-  <div id="visited-overlay" class="visited-overlay">
-    <div class="visited-overlay-card">
-      <div class="visited-tier-illu" id="visited-tier-illu"></div>
-      <div class="visited-tier-title" id="visited-tier-title"></div>
-      <div class="visited-tier-sub" id="visited-tier-sub"></div>
-      <div class="visited-pct-big" id="visited-pct-text">0%</div>
+  <!-- ── 集數抽屜 ── -->
+  <aside id="drawer" class="sheet sheet-left" aria-label="集數列表">
+    <div class="sheet-head">
+      <h2 class="sheet-title">所有集數 <span class="sheet-count" id="ep-count"></span></h2>
+      <button class="icon-btn" data-close="drawer" aria-label="關閉">✕</button>
+    </div>
+    <div class="search-box">
+      <span class="search-ico" aria-hidden="true">⌕</span>
+      <input type="search" id="search" placeholder="搜尋集數、地標或國家…" autocomplete="off">
+    </div>
+    <div class="pills" id="region-pills"></div>
+    <div class="pills pills-scroll" id="year-pills"></div>
+    <div class="ep-list" id="ep-list"></div>
+  </aside>
+
+  <!-- ── 詳情面板（地標／集數／國家／足跡）── -->
+  <aside id="detail" class="sheet sheet-right" aria-live="polite">
+    <button class="icon-btn detail-close" data-close="detail" aria-label="關閉">✕</button>
+    <div id="detail-body"></div>
+  </aside>
+
+  <!-- ── 導覽模式 ── -->
+  <section id="story" aria-live="polite">
+    <div class="story-progress" id="story-progress"></div>
+    <div class="story-card">
+      <div class="story-img" id="story-img"></div>
+      <div class="story-text">
+        <div class="story-meta" id="story-meta"></div>
+        <h3 class="story-name" id="story-name"></h3>
+        <blockquote class="story-quote" id="story-quote"></blockquote>
+        <p class="story-context" id="story-context"></p>
+      </div>
+    </div>
+    <div class="story-controls">
+      <button class="icon-btn" id="story-prev" aria-label="上一站">◀</button>
+      <button class="icon-btn story-play" id="story-play" aria-label="暫停">❚❚</button>
+      <button class="icon-btn" id="story-next" aria-label="下一站">▶</button>
+      <a class="btn btn-small btn-primary" id="story-listen" target="_blank" rel="noopener">收聽這集</a>
+      <button class="btn btn-small btn-ghost" id="story-exit">結束導覽</button>
+    </div>
+  </section>
+
+  <!-- ── 時間線 ── -->
+  <section id="timeline">
+    <div class="tl-top">
+      <div class="tl-date" id="tl-date">—</div>
+      <div class="tl-counts"><b id="tl-lms">0</b> 地標 · <b id="tl-cty">0</b> 國</div>
+      <button class="tl-export" id="tl-export" hidden><span data-icon="film"></span>匯出 Reels 影片</button>
+      <button class="icon-btn" id="tl-exit" aria-label="結束時間線">✕</button>
+    </div>
+    <div class="tl-ep" id="tl-ep"></div>
+    <div class="tl-row">
+      <button class="icon-btn tl-play" id="tl-play" aria-label="播放">▶</button>
+      <div class="tl-track">
+        <input type="range" id="tl-slider" step="86400000" aria-label="時間">
+        <div class="tl-years" id="tl-years"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── 足跡結果 ── -->
+  <div id="visited-overlay" class="modal">
+    <div class="modal-card visited-card">
+      <div class="visited-illu" id="v-illu"></div>
+      <div class="visited-title" id="v-title"></div>
+      <div class="visited-sub" id="v-sub"></div>
+      <div class="visited-pct" id="v-pct">0%</div>
       <div class="visited-pct-label">解鎖地球</div>
-      <div class="visited-stats-sub" id="visited-stats-row"></div>
-      <div class="visited-chips-wrap" id="visited-chips"></div>
-      <div class="visited-overlay-actions">
-        <button class="btn-share-visited" onclick="copyVisitedShareUrl()">🔗 複製分享連結</button>
-        <button class="btn-visited-continue" onclick="hideVisitedOverlay()">繼續標記</button>
+      <div class="visited-count" id="v-count"></div>
+      <div class="visited-chips" id="v-chips"></div>
+      <div class="modal-actions">
+        <button class="btn btn-primary" id="v-card"><span data-icon="image"></span>產生分享圖卡</button>
+        <button class="btn btn-ghost" id="v-share"><span data-icon="link"></span>複製連結</button>
+        <button class="btn btn-ghost" data-close="visited-overlay">繼續標記</button>
       </div>
     </div>
   </div>
 
-  <!-- ── Copy Toast ── -->
-  <div id="copy-toast" class="copy-toast">已複製連結 ✓</div>
-  <!-- ── Country Tooltip ── -->
-  <div id="country-tooltip" class="country-tooltip"></div>
+  <!-- ── 統計 ── -->
+  <div id="stats-modal" class="modal">
+    <div class="modal-card stats-card">
+      <div class="modal-head">
+        <h2>節目統計</h2>
+        <button class="icon-btn" data-close="stats-modal" aria-label="關閉">✕</button>
+      </div>
+      <div id="stats-body"></div>
+    </div>
+  </div>
 
-  <!-- ── Side Panel ── -->
-  <aside id="panel">
-    <div class="panel-header">
-      <div class="panel-title-row">
-        <h2>集數列表</h2>
-        <button id="close-panel" aria-label="關閉">
-          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2">
-            <line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/>
-          </svg>
-        </button>
+  <!-- ── 分享圖卡 ── -->
+  <div id="share-modal" class="modal">
+    <div class="modal-card share-card">
+      <div class="modal-head">
+        <h2>分享圖卡</h2>
+        <button class="icon-btn" data-close="share-modal" aria-label="關閉">✕</button>
       </div>
-      <div class="search-box">
-        <svg class="search-icon" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
-          <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
-        </svg>
-        <input type="text" id="search-input" placeholder="搜尋目的地或集數…" autocomplete="off">
-        <button id="clear-search" class="clear-btn" aria-label="清除">✕</button>
-      </div>
-      <div class="region-filters" id="region-filters">
-        <button class="pill active" data-region="all">全部</button>
-        <button class="pill" data-region="亞洲">亞洲</button>
-        <button class="pill" data-region="歐洲">歐洲</button>
-        <button class="pill" data-region="美洲">美洲</button>
-        <button class="pill" data-region="非洲">非洲</button>
-        <button class="pill" data-region="大洋洲">大洋洲</button>
-        <button class="pill" data-region="極地">極地</button>
+      <div class="share-stage"><img id="share-preview" alt="分享圖卡預覽"></div>
+      <p class="share-hint">1080 × 1920，適合 IG／FB 限時動態</p>
+      <div class="modal-actions">
+        <button class="btn btn-primary" id="share-native" hidden><span data-icon="share"></span>分享</button>
+        <button class="btn btn-primary" id="share-download"><span data-icon="download"></span>下載圖片</button>
+        <button class="btn btn-ghost" id="share-copy"><span data-icon="link"></span>複製連結</button>
       </div>
     </div>
-    <div id="episode-list"></div>
-  </aside>
+  </div>
 
-  <!-- ── Overlay (mobile) ── -->
-  <div id="overlay"></div>
+  <!-- ── 匯出影片進度 ── -->
+  <div id="reel-modal" class="modal">
+    <div class="modal-card reel-card">
+      <h2>正在製作 Reels 影片</h2>
+      <p class="reel-note">1080 × 1920 · 30fps · 約 33 秒<br>錄製期間請保持這個分頁在前景</p>
+      <div class="progress"><i id="reel-bar"></i></div>
+      <p class="reel-status" id="reel-status">準備中…</p>
+      <div class="modal-actions"><button class="btn btn-ghost" id="reel-cancel">取消</button></div>
+    </div>
+  </div>
 
-  <!-- Scripts -->
-  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
-  <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
-  <script src="https://cdn.jsdelivr.net/npm/topojson-client@3.1.0/dist/topojson-client.min.js"></script>
-  <script src="js/app.js?v=22"></script>
+  <div id="tooltip" role="tooltip"></div>
+  <div id="toast"></div>
+  <div id="spin-veil"><span>🎲 命運的骰子轉動中…</span></div>
+
+  <div id="loading">
+    <img src="assets/logo-256.png" alt="">
+    <p>正在解鎖地球…</p>
+  </div>
+
+  <noscript><p class="fallback">本網站需要 JavaScript。也可以看 <a href="classic.html">平面地圖版</a>。</p></noscript>
+
+  <script src="https://cdn.jsdelivr.net/npm/globe.gl@2.46.2/dist/globe.gl.min.js"></script>
+  <script src="js/globe/data.js?v=2"></script>
+  <script src="js/globe/app.js?v=14"></script>
+  <script src="js/globe/share.js?v=4"></script>
+  <script src="js/globe/reel.js?v=2"></script>
 </body>
 </html>
