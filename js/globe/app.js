@@ -275,7 +275,7 @@ function applyGlobeTheme() {
   mat.color.set('#ffffff');
   mat.emissive.set('#000000');
   mat.shininess = 0;
-  globe.atmosphereColor(t.atmosphere);
+  setAtmosphere(t.atmosphere);
   refreshHex();
   updateDayNight();
 }
@@ -459,8 +459,12 @@ function refreshHex() {
   refreshPoints();
 }
 
-// 地標分成幾組粒子：高亮／淡化 × 多集／單集；每組一個顏色、一個大小（螢幕像素，不隨縮放變）
+// 地標分成幾組粒子：高亮／淡化 × 多集／單集；每組一個顏色、一個大小（螢幕像素，不隨縮放變）。
+// 組物件沿用同一個：globe.gl 依物件辨認資料，換新物件會整組 3D 物件拆掉重建（點一下就重建兩次，電腦會卡、記憶體越用越多）；
+// 內容完全沒變就直接跳過
 const DOT_PX = { one: 2.2, many: 3.2 };
+const pointSets = new Map();
+let pointsSig = '';
 function setPoints(list) {
   if (!globe) return;
   const t = THEMES[theme];
@@ -470,17 +474,23 @@ function setPoints(list) {
     const lit = !focus.lms || focus.lms.has(lm);
     const many = lm.epNums.length > 1;
     const key = `${lit}-${many}`;
-    if (!groups.has(key)) groups.set(key, {
-      items: [], color: lit ? t.pin : dimColor, size: many ? DOT_PX.many : DOT_PX.one,
-      alt: lit ? 0.012 : 0.008, lit,
-    });
+    if (!groups.has(key)) {
+      const set = pointSets.get(key) || {};
+      Object.assign(set, { items: [], color: lit ? t.pin : dimColor, size: many ? DOT_PX.many : DOT_PX.one, alt: lit ? 0.012 : 0.008, lit });
+      pointSets.set(key, set);
+      groups.set(key, set);
+    }
     groups.get(key).items.push(lm);
   }
   // 淡化的先畫，高亮的壓在上面
   const sets = [...groups.values()].sort((a, b) => a.lit - b.lit);
   for (const set of sets) set.tex = dotTexture(set.color);
-  globe.particlesData(sets).particlesTexture(sets.every(x => x.tex) ? set => set.tex : null);
-  if (!sets.every(x => x.tex) && !dotTexWait) {
+  const ready = sets.every(x => x.tex);
+  const sig = `${ready}|` + sets.map(s => `${s.color}:${s.size}:${s.items.map(l => l.id).join(',')}`).join('|');
+  if (sig === pointsSig) return;
+  pointsSig = sig;
+  globe.particlesData(sets).particlesTexture(ready ? set => set.tex : null);
+  if (!ready && !dotTexWait) {
     dotTexWait = setInterval(() => { if (dotTexCtor()) { clearInterval(dotTexWait); refreshPoints(); } }, 300);
   }
 }

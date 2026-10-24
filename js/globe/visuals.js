@@ -301,7 +301,7 @@ function applyEpisodeAccent(epNum) {
   if (!hex) {
     accentEp = null;
     vars.forEach(v => root.removeProperty(v));
-    if (globe) globe.atmosphereColor(THEMES[theme].atmosphere);
+    setAtmosphere(THEMES[theme].atmosphere);
     return;
   }
   accentEp = epNum;
@@ -314,7 +314,20 @@ function applyEpisodeAccent(epNum) {
   root.setProperty('--accent-text', hslHex(h, sat, dark ? 0.72 : 0.32));
   root.setProperty('--accent-soft', hexToRgba(accent, dark ? 0.16 : 0.18));
   root.setProperty('--line', hexToRgba(accent, dark ? 0.2 : 0.22));
-  if (globe && dark) globe.atmosphereColor(hslHex(h, sat, 0.62));
+  if (dark) setAtmosphere(hslHex(h, sat, 0.62));
+}
+
+// 換大氣層顏色：globe.atmosphereColor() 每次都整個重建大氣層（複製球體網格＋重編著色程式），
+// 每點一集都換色會一頓一頓。建好之後改用直接改材質的顏色參數
+let atmoColor = null;
+function setAtmosphere(color) {
+  if (!globe || color === atmoColor) return;
+  let obj = null;
+  globe.scene().traverse(o => { if (o.__globeObjType === 'atmosphere') obj = o; });
+  const u = obj?.material?.uniforms?.color;
+  if (u && atmoColor) u.value.set(color);
+  else globe.atmosphereColor(color);
+  atmoColor = color;
 }
 
 function rgbToHsl(r, g, b) {
