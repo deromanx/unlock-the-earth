@@ -13,14 +13,17 @@ echo "[收尾 2/6] 重建 landmarks_global.json"
 python3 scripts/pipeline/04_build_landmarks.py | grep -E "Total landmarks|Written" || { echo "ERROR: 重建失敗"; exit 1; }
 echo "[收尾 3/6] 維基百科補圖＋簡介（只查新地標）"
 python3 -u scripts/pipeline/05_wikipedia_info.py | tail -2
-echo "[收尾 4/6] 每集分享頁"
+echo "[收尾 4/6] 每集分享頁、封面配色與縮圖、最新一集聲紋"
 python3 scripts/build_ep_pages.py
+python3 scripts/build_episode_colors.py | tail -1
+python3 scripts/build_cover_thumbs.py | tail -1
+python3 scripts/build_waveform.py
 echo "[收尾 5/6] 資料版本號"
 python3 scripts/stamp_data_version.py
 echo "[收尾 6/6] 資料檢查"
 python3 scripts/check_site_data.py || { echo "ERROR: 資料檢查沒過，不 commit"; exit 1; }
 
-git add data/episode_landmarks data/transcripts data/*.json data/*.txt ep/ index.html
+git add data/episode_landmarks data/transcripts data/*.json data/*.txt ep/ assets/covers index.html
 if git diff --cached --quiet; then
   echo "  無變更"
 else

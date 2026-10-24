@@ -60,6 +60,7 @@ async function drawCard(kind, id) {
   let out;
   if (kind === 'visited') out = await paintVisited(ctx);
   else if (kind === 'episode') out = await paintEpisode(ctx, id);
+  else if (kind === 'trails') out = paintTrails(ctx);
   else out = await paintCountry(ctx, id);
 
   paintFooter(ctx, out.cta);
@@ -200,6 +201,27 @@ async function paintCountry(ctx, key) {
     link: `${SITE_URL}?country=${encodeURIComponent(c.key)}`,
     filename: `unlock-earth-${c.a2 || 'country'}.png`,
     cta: `跟著節目走一趟${c.key}`,
+  };
+}
+
+// 七年光軌：時間線播完後的地球（含所有航線）＋總數
+function paintTrails(ctx) {
+  let y = 1130;
+  const y0 = new Date(timeline.min).getFullYear(), y1 = new Date(timeline.max).getFullYear();
+  const eps = ix.mainEps.length;
+  const countries = [...ix.countries.values()].filter(c => c.a2).length;
+  centerText(ctx, '七年光軌', y, '900 96px "Noto Sans TC", sans-serif', '#ffffff');
+  y += 84;
+  centerText(ctx, `${y0} → ${y1}`, y, '600 52px "Fredoka", sans-serif', '#F4C737');
+  y += 84;
+  centerText(ctx, `${eps} 集 · ${countries} 個國家 · ${landmarks.length.toLocaleString()} 個地標`, y, '500 38px "Noto Sans TC", sans-serif', 'rgba(238,242,250,0.88)');
+  y += 70;
+  centerText(ctx, '每一條光，都是一趟從台灣出發的旅程', y, '500 34px "Noto Sans TC", sans-serif', 'rgba(238,242,250,0.6)');
+  return {
+    title: '解鎖地球：七年光軌',
+    link: SITE_URL,
+    filename: 'unlock-earth-trails.png',
+    cta: '用耳朵走遍世界',
   };
 }
 

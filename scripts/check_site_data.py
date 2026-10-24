@@ -79,6 +79,10 @@ orphan = [k for k in info if k not in names]
 if len(orphan) > 50:
     warnings.append(f'landmark_info.json 有 {len(orphan)} 筆對不到地標（跑一次 05_wikipedia_info.py 會重整）')
 
+no_thumb = sorted(n for n in main if not (ROOT / f'assets/covers/{n}.jpg').exists())
+if no_thumb:
+    warnings.append(f'{len(no_thumb)} 集沒有封面縮圖（跑 scripts/build_cover_thumbs.py）：{no_thumb[:10]}')
+
 for n in main:
     if not (ROOT / f'ep/{n}.html').exists():
         errors.append(f'缺少分享頁 ep/{n}.html（跑 scripts/build_ep_pages.py）')

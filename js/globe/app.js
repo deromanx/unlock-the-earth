@@ -33,6 +33,8 @@ const ICONS = {
   link: svgIcon('<path d="M10 13a5 5 0 0 0 7.5.5l3-3a5 5 0 0 0-7-7l-1.7 1.7"/><path d="M14 11a5 5 0 0 0-7.5-.5l-3 3a5 5 0 0 0 7 7l1.7-1.7"/>'),
   image: svgIcon('<rect x="3" y="3" width="18" height="18" rx="3"/><circle cx="9" cy="9" r="2"/><path d="m21 15-5-5L5 21"/>'),
   share: svgIcon('<path d="M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8"/><path d="m16 6-4-4-4 4"/><path d="M12 2v13"/>'),
+  compass: svgIcon('<circle cx="12" cy="12" r="9"/><path d="m15.5 8.5-2 5-5 2 2-5z"/>'),
+  grid: svgIcon('<rect x="3" y="3" width="7" height="7" rx="1.5"/><rect x="14" y="3" width="7" height="7" rx="1.5"/><rect x="3" y="14" width="7" height="7" rx="1.5"/><rect x="14" y="14" width="7" height="7" rx="1.5"/>'),
   download: svgIcon('<path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><path d="m7 10 5 5 5-5"/><path d="M12 15V3"/>'),
 };
 
@@ -55,6 +57,21 @@ const THEMES = {
     hexVisitedOff: 'rgba(70,55,35,0.28)',
     cap: 'rgba(120,95,55,0.16)', capHover: 'rgba(120,95,55,0.30)', stroke: 'rgba(70,55,35,0.38)',
   },
+  // 復古探險地圖：羊皮紙地球、經緯線、深褐墨水色階、朱紅地標，沒有日夜和城市燈火
+  vintage: {
+    globe: '#e9d8b0', night: 'rgba(0,0,0,0)', lights: 0, atmosphere: '#c9a46b', paper: true,
+    hexBase: 'rgba(92,60,28,0.30)', dim: 0.2,
+    ramp: ['#d6bf90', '#c09a5f', '#a26f37', '#82451c', '#5c210b'],
+    pin: '#a3301f',
+    hexVisitedOff: 'rgba(92,60,28,0.24)',
+    cap: 'rgba(120,85,40,0.10)', capHover: 'rgba(120,85,40,0.24)', stroke: 'rgba(92,60,28,0.55)',
+  },
+};
+const THEME_ORDER = ['dark', 'light', 'vintage'];
+const THEME_META = {
+  dark: { icon: 'moon', color: '#060b18', label: '深色' },
+  light: { icon: 'sun', color: '#fbf3df', label: '淺色' },
+  vintage: { icon: 'compass', color: '#efe2c4', label: '探險地圖' },
 };
 
 // ── 狀態 ──────────────────────────────────────────────
@@ -63,6 +80,7 @@ let ix;                       // buildIndex() 結果
 let landmarks = [];
 let countryFeatures = [];
 let theme = readStore('ute-theme-v2') || 'dark';
+if (!THEMES[theme]) theme = 'dark';
 
 const filters = { query: '', region: 'all', year: null, tag: null };
 let tagList = [];             // 主題標籤（data/episode_tags.json）
@@ -91,14 +109,16 @@ async function init() {
   // 地球引擎（globe.gl，約 1.9MB）和資料同時下載；資料先到就先顯示標題和集數列表，不必等地球
   const globeLib = loadScript(GLOBE_LIB);
   globeLib.catch(() => {});
-  let episodes, geo, tagData;
+  let episodes, geo, tagData, waveData;
   try {
-    [episodes, landmarks, geo, extractedEps, tagData] = await Promise.all([
+    [episodes, landmarks, geo, extractedEps, tagData, episodeColors, waveData] = await Promise.all([
       fetchJson(`data/episodes.json${DATA_V}`),
       fetchJson(`data/landmarks_global.json${DATA_V}`),
       fetchJson(`data/countries.json${DATA_V}`),
       fetchJson(`data/extracted_eps.json${DATA_V}`).then(a => new Set(a)).catch(() => null),
       fetchJson(`data/episode_tags.json${DATA_V}`).catch(() => ({ tags: [], episodes: {} })),
+      fetchJson(`data/episode_colors.json${DATA_V}`).catch(() => ({})),
+      fetchJson(`data/waveform.json${DATA_V}`).catch(() => null),
     ]);
   } catch (e) {
     console.error('Failed to load data:', e);
@@ -142,7 +162,9 @@ async function init() {
   initGlobe();
   bindEvents();
   refreshPoints();
+  buildAmbientRings();
   pulseLatest();
+  startWaveRing(waveData);
   if (document.body.classList.contains('intro')) setIntro(true);
   updateCountryLabels(globe.pointOfView().altitude);
 
@@ -191,7 +213,7 @@ function initGlobe() {
     .onParticleClick(lm => { if (!lm?.items) showLandmark(lm); })
 
     .ringsData([])
-    .ringColor(r => t => `rgba(${r.rgb},${1 - t})`)
+    .ringColor(r => t => `rgba(${r.rgb},${(r.alpha ?? 1) * (1 - t)})`)
     .ringMaxRadius(r => r.maxR || 3)
     .ringPropagationSpeed(r => r.speed || 2)
     .ringRepeatPeriod(r => r.period || 1100)
@@ -200,10 +222,10 @@ function initGlobe() {
     .arcColor(a => a.colors)
     .arcStroke(a => a.stroke || 0.35)
     .arcAltitudeAutoScale(0.45)
-    .arcDashLength(0.45)
-    .arcDashGap(0.25)
+    .arcDashLength(a => a.solid ? 1 : 0.45)
+    .arcDashGap(a => a.solid ? 0 : 0.25)
     .arcDashInitialGap(() => Math.random())
-    .arcDashAnimateTime(2600)
+    .arcDashAnimateTime(a => a.solid ? 0 : 2600)
     .arcsTransitionDuration(0)
 
     .htmlElementsData([])
@@ -304,6 +326,11 @@ function updateDayNight() {
   const ctx = cv.getContext('2d');
   ctx.fillStyle = t.globe;
   ctx.fillRect(0, 0, W, H);
+  if (t.paper) {
+    paintParchment(ctx, W, H);
+    globe.globeImageUrl(cv.toDataURL('image/jpeg', 0.86));
+    return;
+  }
 
   // 夜半球遮罩（低解析度算完再放大，邊緣自然柔和）
   const mw = 360, mh = 180;
@@ -346,6 +373,29 @@ function updateDayNight() {
   ctx.globalAlpha = t.lights;
   ctx.drawImage(lights, 0, 0);
   globe.globeImageUrl(cv.toDataURL('image/jpeg', 0.86));
+}
+
+// 探險地圖的地球貼圖：紙張斑點＋每 15° 一條經緯線，赤道和本初子午線加粗
+function paintParchment(ctx, W, H) {
+  let seed = 7;
+  const rnd = () => (seed = (seed * 16807) % 2147483647) / 2147483647;
+  for (let i = 0; i < W * 3; i++) {
+    ctx.fillStyle = rnd() < 0.5 ? 'rgba(92,60,28,0.06)' : 'rgba(255,250,235,0.08)';
+    ctx.beginPath();
+    ctx.arc(rnd() * W, rnd() * H, rnd() * W / 260, 0, Math.PI * 2);
+    ctx.fill();
+  }
+  ctx.strokeStyle = 'rgba(92,60,28,0.28)';
+  for (let lng = -180; lng <= 180; lng += 15) {
+    ctx.lineWidth = lng === 0 ? W / 700 : W / 1400;
+    const x = (lng + 180) / 360 * W;
+    ctx.beginPath(); ctx.moveTo(x, 0); ctx.lineTo(x, H); ctx.stroke();
+  }
+  for (let lat = -75; lat <= 75; lat += 15) {
+    ctx.lineWidth = lat === 0 ? W / 700 : W / 1400;
+    const y = (90 - lat) / 180 * H;
+    ctx.beginPath(); ctx.moveTo(0, y); ctx.lineTo(W, y); ctx.stroke();
+  }
 }
 
 // 太陽直射點（NOAA 簡化公式，誤差 < 1°）
@@ -614,12 +664,14 @@ function revisitStrip(lm) {
     </div>`;
 }
 
+// 沒有指定光圈時，換成背景的聲波地標（visuals.js）
 function setRings(items, opts = {}) {
-  globe.ringsData(items.slice(0, 60).map(lm => ({
+  const rings = items.slice(0, 60).map(lm => ({
     lat: lm.lat, lng: lm.lng ?? lm.lon,
     rgb: hexToRgb(THEMES[theme].pin),
     ...opts,
-  })));
+  }));
+  globe.ringsData(rings.length ? rings : ambientRingData());
 }
 
 function setLabels(items) {
@@ -749,6 +801,8 @@ function openDetail(html, entry) {
 }
 
 function closeDetail() {
+  cancelLanding();
+  if (!story.on) applyEpisodeAccent(null);
   document.getElementById('detail').classList.remove('open');
   document.body.classList.remove('has-detail');
   detailStack = [];
@@ -772,10 +826,11 @@ function epCover(ep) {
 
 // 地標
 function showLandmark(lm, { fly = true } = {}) {
+  if (!lm.epNums.includes(accentEp)) applyEpisodeAccent(null);   // 從集數點進來的地標保留那集的配色
   const color = REGION_COLORS[lm.region] || DEFAULT_COLOR;
   const apps = lm.appearances || [];
   const header = lm.image
-    ? `<div class="d-hero" style="--img:url('${escHtml(lm.image)}')"></div>`
+    ? `<div class="d-hero d-hero-photo" style="--img:url('${escHtml(lm.image)}')"></div>`
     : `<div class="d-hero d-hero-plain" style="--c:${color}">${flag(lm.a2, 'd-flag')}</div>`;
 
   const appHtml = apps.map(a => {
@@ -821,7 +876,8 @@ function showLandmark(lm, { fly = true } = {}) {
   else setArcs([lm]);
   setLabels([lm]);
   pushUrl(lm.epNums[0] ? `ep=${lm.epNums[0]}` : null);
-  if (fly) {
+  if (fly && lm.image && !REDUCED_MOTION && perfLevel < 2) landOn(lm);
+  else if (fly) {
     const v = globe.pointOfView();
     flyTo([lm], 1500, Math.min(v.altitude, 0.6));
   }
@@ -843,6 +899,7 @@ async function fillAbout(lm) {
 function showEpisode(epNum, { fly = true } = {}) {
   const ep = ix.epMeta.get(epNum);
   if (!ep) return;
+  applyEpisodeAccent(epNum);
   const lms = ix.lmByEp.get(epNum) || [];
   const countries = [...new Map(lms.filter(l => l.countryKey).map(l => [l.countryKey, l])).values()];
 
@@ -888,6 +945,7 @@ function showEpisode(epNum, { fly = true } = {}) {
 function showCountry(key, { fly = true } = {}) {
   const c = ix.countries.get(key);
   if (!c) return;
+  applyEpisodeAccent(null);
   const eps = [...c.eps].map(n => ix.epMeta.get(n)).filter(Boolean).sort((a, b) => b.episode - a.episode);
   const firstY = Number.isFinite(c.firstMs) ? new Date(c.firstMs).getFullYear() : '—';
   const lastY = Number.isFinite(c.lastMs) ? new Date(c.lastMs).getFullYear() : '—';
@@ -904,6 +962,7 @@ function showCountry(key, { fly = true } = {}) {
   openDetail(`
     <div class="d-hero d-hero-country" style="--c:${color}">
       ${flag(c.a2, 'd-flag')}
+      <div class="d-stamp">${stampSvg(countryStampInfo(c.a2, c.key))}</div>
     </div>
     <div class="d-body">
       <div class="d-kicker" style="--c:${color}">國家專頁 · ${escHtml(c.region || '')}</div>
@@ -1138,6 +1197,7 @@ function randomTrip() {
 // ── 導覽模式 ──────────────────────────────────────────
 async function startStory(epNum) {
   const ep = ix.epMeta.get(epNum);
+  applyEpisodeAccent(epNum);
   const fallback = (ix.lmByEp.get(epNum) || []).map(lm => {
     const a = (lm.appearances || []).find(x => x.ep === epNum) || {};
     return { ...lm, quote: a.quote, context: a.context };
@@ -1370,6 +1430,7 @@ function stepTimelineCamera(dt, target = timelineCamTarget()) {
 
 function startTimelinePlay() {
   if (!timeline.on || timeline.playing) return;
+  clearTrails();
   if (timeline.ms >= timeline.max) setTimeline(timeline.min);
   timeline.playing = true;
   timeline.follow = true;
@@ -1380,7 +1441,7 @@ function startTimelinePlay() {
     const dt = Math.min(100, now - last);
     last = now;
     const next = timeline.ms + dt * timeline.rate;
-    if (next >= timeline.max) { setTimeline(timeline.max); stopTimelinePlay(); return; }
+    if (next >= timeline.max) { setTimeline(timeline.max); stopTimelinePlay(); showTrails(); return; }
     setTimeline(next);
     stepTimelineCamera(dt);
     timeline.raf = requestAnimationFrame(tick);
@@ -1397,6 +1458,7 @@ function stopTimelinePlay() {
 function exitTimeline() {
   if (!timeline.on) return;
   stopTimelinePlay();
+  clearTrails();
   timeline.on = false;
   document.body.classList.remove('timeline-mode');
   document.getElementById('btn-timeline').classList.remove('active');
@@ -1479,12 +1541,12 @@ function renderVisitedPanel() {
       <p class="d-sub">${n} / ${TOTAL_COUNTRIES} 個國家${listened.length ? ` · 其中 ${listened.length} 國節目也去過` : ''}</p>
       <p class="hint-box">在地球上點國家來標記，金色就是去過的地方</p>
       ${n ? `<button class="btn btn-primary btn-block" data-act="v-result">查看我的旅人稱號 &amp; 分享 →</button>` : ''}
-      ${list.length ? `<h3 class="d-section">去過的地方</h3>
-        <div class="v-list">${list.map(c => `
-          <button class="v-row" data-act="v-country" data-a2="${c.a2}">
-            ${flag(c.a2, 'v-flag')}
-            <span><b>${escHtml(c.zh)}</b><em>${c.epCount ? `${c.epCount} 集 · ${c.lmCount} 個地標` : '節目還沒去過'}</em></span>
-          </button>`).join('')}</div>` : ''}
+      ${list.length ? `<h3 class="d-section">我的護照</h3>
+        <div class="stamp-grid">${list.map(c => `
+          <button class="stamp-cell" data-act="v-country" data-a2="${c.a2}" title="${escHtml(c.zh)}${c.epCount ? ` · 節目去過 ${c.epCount} 集` : ' · 節目還沒去過'}">
+            ${stampSvg(countryStampInfo(c.a2), { faded: !c.epCount })}
+          </button>`).join('')}</div>
+        <p class="d-more">章上的日期是節目第一次去那裡的那一集；灰色的章是節目還沒去過的國家</p>` : ''}
       <button class="btn btn-ghost btn-block" data-close-visited>結束標記</button>
     </div>`, { type: 'visited', id: 'visited', label: '我的足跡' });
   document.querySelector('[data-close-visited]')?.addEventListener('click', exitVisited);
@@ -1511,7 +1573,7 @@ function showVisitedOverlay() {
   p.style.color = tier.color;
   document.getElementById('v-count').textContent = `你去過 ${n} 個國家 / ${TOTAL_COUNTRIES} 個`;
   document.getElementById('v-chips').innerHTML = visitedDetails().map(c =>
-    `<span class="v-chip${c.epCount ? ' has-ep' : ''}">${flag(c.a2)} ${escHtml(c.zh)}</span>`).join('');
+    `<span class="v-stamp">${stampSvg(countryStampInfo(c.a2), { faded: !c.epCount })}</span>`).join('');
   openModal('visited-overlay');
 }
 
@@ -1577,8 +1639,11 @@ function closeModal(id) { document.getElementById(id).classList.remove('open'); 
 function applyTheme(t, persist = true) {
   theme = t;
   document.documentElement.dataset.theme = t;
-  document.getElementById('theme-ico').innerHTML = t === 'dark' ? ICONS.moon : ICONS.sun;
-  document.querySelector('meta[name="theme-color"]').content = t === 'dark' ? '#060b18' : '#fbf3df';
+  const meta = THEME_META[t];
+  document.getElementById('theme-ico').innerHTML = ICONS[meta.icon];
+  document.getElementById('btn-theme').title = `目前：${meta.label}（點一下切換深色／淺色／探險地圖）`;
+  document.querySelector('meta[name="theme-color"]').content = meta.color;
+  if (accentEp != null) applyEpisodeAccent(accentEp);   // 配色依主題重算亮度
   if (persist) writeStore('ute-theme-v2', t);
   applyGlobeTheme();
   refreshPoints();
@@ -1611,7 +1676,7 @@ function bindEvents() {
   $('btn-timeline').addEventListener('click', () => timeline.on ? exitTimeline() : enterTimeline());
   $('btn-visited').addEventListener('click', () => visitedOn ? exitVisited() : enterVisited());
   $('btn-stats').addEventListener('click', () => { renderStats(); openModal('stats-modal'); });
-  $('btn-theme').addEventListener('click', () => applyTheme(theme === 'dark' ? 'light' : 'dark'));
+  $('btn-theme').addEventListener('click', () => applyTheme(THEME_ORDER[(THEME_ORDER.indexOf(theme) + 1) % THEME_ORDER.length]));
   saveVisited();
 
   document.addEventListener('click', e => {
@@ -1667,7 +1732,10 @@ function bindEvents() {
 
   $('tl-play').addEventListener('click', () => timeline.playing ? stopTimelinePlay() : startTimelinePlay());
   $('tl-exit').addEventListener('click', exitTimeline);
-  $('tl-slider').addEventListener('input', e => { stopTimelinePlay(); setTimeline(Number(e.target.value)); });
+  $('tl-slider').addEventListener('input', e => { stopTimelinePlay(); clearTrails(); setTimeline(Number(e.target.value)); });
+  $('tl-trails-card').addEventListener('click', () => openShareCard('trails'));
+  $('btn-mosaic').addEventListener('click', openMosaic);
+  $('landing').addEventListener('click', cancelLanding);
 
   $('v-share').addEventListener('click', shareVisited);
   $('v-card').addEventListener('click', () => openShareCard('visited'));

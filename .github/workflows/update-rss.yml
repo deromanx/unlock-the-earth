@@ -32,6 +32,12 @@ jobs:
       - name: Build per-episode share pages
         run: python scripts/build_ep_pages.py
 
+      - name: Cover colors, thumbnails, latest-episode waveform（runner 內建 ffmpeg）
+        run: |
+          python scripts/build_episode_colors.py
+          python scripts/build_cover_thumbs.py
+          python scripts/build_waveform.py
+
       - name: Stamp data version
         run: python scripts/stamp_data_version.py
 
@@ -43,7 +49,7 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/ ep/ index.html
+          git add data/ ep/ assets/covers/ index.html
           if git diff --cached --quiet; then
             echo "no changes"
           else

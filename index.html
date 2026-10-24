@@ -6,7 +6,7 @@
   <title>解鎖地球 — 互動旅遊地球儀</title>
   <meta name="description" content="解鎖地球 Podcast：旅行、歷史、文化。轉動地球，探索每一集去過的地方。">
   <meta name="theme-color" content="#060b18">
-  <meta name="data-version" content="97b4ad8875">
+  <meta name="data-version" content="9402b989c6">
 
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="解鎖地球">
@@ -21,11 +21,11 @@
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600;700&family=Noto+Sans+TC:wght@400;500;700;900&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600;700&family=Noto+Sans+TC:wght@400;500;700;900&family=Noto+Serif+TC:wght@700;900&display=swap" rel="stylesheet">
 
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flag-icons@7.2.3/css/flag-icons.min.css">
   <link rel="preload" as="script" href="https://cdn.jsdelivr.net/npm/globe.gl@2.46.2/dist/globe.gl.min.js">
-  <link rel="stylesheet" href="css/globe.css?v=11">
+  <link rel="stylesheet" href="css/globe.css?v=12">
   <script>
     // 先套主題，避免載入時閃一下深色
     try { document.documentElement.dataset.theme = localStorage.getItem('ute-theme-v2') || 'dark'; } catch (e) {}
@@ -35,6 +35,7 @@
 
   <!-- ── 地球 ── -->
   <canvas id="stars" aria-hidden="true"></canvas>
+  <canvas id="wave" aria-hidden="true"></canvas>
   <div id="globe" aria-label="互動地球儀"></div>
 
   <!-- ── 頂部列 ── -->
@@ -60,6 +61,9 @@
       <button class="tool" id="btn-visited" title="標記我去過的國家">
         <span class="tool-ico" data-icon="plane"></span><span class="tool-label">我的足跡</span>
       </button>
+      <button class="tool" id="btn-mosaic" title="封面地圖：每一集的封面擺在它去的地方">
+        <span class="tool-ico" data-icon="grid"></span><span class="tool-label">封面地圖</span>
+      </button>
       <button class="tool" id="btn-stats" title="節目統計">
         <span class="tool-ico" data-icon="chart"></span><span class="tool-label">統計</span>
       </button>
@@ -84,6 +88,7 @@
     </div>
     <button class="hero-latest" id="hero-latest" hidden></button>
     <p class="hero-hint">拖曳轉動地球 · 點光點看地標 · 點國家看專頁</p>
+    <p class="hero-wave-note" id="hero-wave-note" hidden></p>
     <p class="hero-loading" aria-live="polite">地球載入中…</p>
   </section>
 
@@ -146,6 +151,10 @@
       <button class="icon-btn" id="tl-exit" aria-label="結束時間線">✕</button>
     </div>
     <div class="tl-ep" id="tl-ep"></div>
+    <div class="tl-trails" id="tl-trails" hidden>
+      <span><b>七年光軌</b><em id="tl-trails-text"></em></span>
+      <button class="btn btn-primary" id="tl-trails-card"><span data-icon="image"></span>存成圖卡</button>
+    </div>
     <div class="tl-row">
       <button class="icon-btn tl-play" id="tl-play" aria-label="播放">▶</button>
       <div class="tl-track">
@@ -201,6 +210,23 @@
     </div>
   </div>
 
+  <!-- ── 封面地圖 ── -->
+  <div id="mosaic-modal" class="modal">
+    <div class="modal-card mosaic-card">
+      <div class="modal-head">
+        <h2>封面地圖 <small id="mosaic-count"></small></h2>
+        <button class="icon-btn" data-close="mosaic-modal" aria-label="關閉">✕</button>
+      </div>
+      <p class="mosaic-caption" id="mosaic-caption">把滑鼠移到封面上看是哪一集，點下去就飛過去</p>
+      <div class="mosaic-scroll">
+        <div class="mosaic-map" id="mosaic-map"><canvas id="mosaic-land" aria-hidden="true"></canvas></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── 降落轉場 ── -->
+  <div id="landing" aria-hidden="true"><span></span></div>
+
   <div id="tooltip" role="tooltip"></div>
   <div id="toast"></div>
   <div id="spin-veil"><span>🎲 命運的骰子轉動中…</span></div>
@@ -213,7 +239,8 @@
   <noscript><p class="fallback">本網站需要 JavaScript 才能顯示互動地球。</p></noscript>
 
   <script src="js/globe/data.js?v=3"></script>
-  <script src="js/globe/app.js?v=18"></script>
-  <script src="js/globe/share.js?v=6"></script>
+  <script src="js/globe/visuals.js?v=2"></script>
+  <script src="js/globe/app.js?v=19"></script>
+  <script src="js/globe/share.js?v=7"></script>
 </body>
 </html>

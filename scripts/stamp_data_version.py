@@ -14,7 +14,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 FILES = ['data/episodes.json', 'data/landmarks_global.json', 'data/countries.json', 'data/landmark_info.json',
-         'data/extracted_eps.json', 'data/episode_tags.json']
+         'data/extracted_eps.json', 'data/episode_tags.json', 'data/episode_colors.json', 'data/waveform.json']
 
 
 def main():
