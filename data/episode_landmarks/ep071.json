@@ -1,23 +1,56 @@
 [
   {
-    "name": "喀什廣場",
-    "name_en": "Kashgar Square",
+    "name": "喀什",
+    "name_en": "Kashgar",
     "lat": 39.47,
     "lon": 75.989,
     "country": "中國",
     "region": "亞洲",
-    "quote": "有一次就是我在新疆的卡什那邊擺攤",
-    "context": "在新疆喀什廣場擺攤一整天無人光顧"
+    "quote": "有一次就是我在新疆的喀什那邊擺攤 然後我是擺了一整天 但是沒有任何一個人來",
+    "context": "在喀什廣場擺攤一整天無人光顧，推測與伊斯蘭禁偶像崇拜有關",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/H%C3%ABytgah_Mosque%2C_Kashi_%2820230923100109%29.jpg/330px-H%C3%ABytgah_Mosque%2C_Kashi_%2820230923100109%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "聖索菲亞大教堂",
-    "name_en": "Hagia Sophia",
+    "name": "伊斯坦堡",
+    "name_en": "Istanbul",
     "lat": 41.008,
-    "lon": 28.98,
+    "lon": 28.978,
     "country": "土耳其",
     "region": "亞洲",
-    "quote": "一定要畫那個聖索菲亞大教堂",
-    "context": "客人常要求以聖索菲亞為肖像背景",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Hagia_Sophia_%28228968325%29.jpeg/330px-Hagia_Sophia_%28228968325%29.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    "quote": "我在土耳其卻是大賺了很多筆",
+    "context": "民風開放、外國人多，畫肖像擺攤大賺",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Historical_peninsula_and_modern_skyline_of_Istanbul.jpg/330px-Historical_peninsula_and_modern_skyline_of_Istanbul.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "西安街頭",
+    "name_en": "Xi'an",
+    "lat": 34.265,
+    "lon": 108.954,
+    "country": "中國",
+    "region": "亞洲",
+    "quote": "那時候西安的街上其實不能擺攤 所以我要常常跑警察",
+    "context": "擺攤被警察沒收，得知是臺灣人後歸還；也靠客人請客省飯錢",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/City_wall_of_Xi%27an_51550-Xian_%2827959363326%29.jpg/330px-City_wall_of_Xi%27an_51550-Xian_%2827959363326%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "納達姆大會會場",
+    "name_en": "Naadam Festival Venue (Ulaanbaatar)",
+    "lat": 47.909,
+    "lon": 106.92,
+    "country": "蒙古",
+    "region": "亞洲",
+    "quote": "我擺攤是在叫做納達木大會",
+    "context": "閉幕音樂會旁擺攤，人潮太多被請收攤"
+  },
+  {
+    "name": "尚吉巴島",
+    "name_en": "Zanzibar",
+    "lat": -6.165,
+    "lon": 39.202,
+    "country": "坦尚尼亞",
+    "region": "非洲",
+    "quote": "它是一個非常觀光的一個島",
+    "context": "向當地人打聽到私人家庭便當，省下餐費",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Zanzibar.svg/330px-Flag_of_Zanzibar.svg.png"
   }
 ]
