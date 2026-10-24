@@ -20,16 +20,13 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Install opencc（地標簡轉繁）
-        run: sudo apt-get update -qq && sudo apt-get install -y -qq opencc > /dev/null
-
       - name: Fetch RSS → episodes.json
         run: python scripts/fetch_rss.py
 
-      - name: Rebuild landmarks（新集數上架後併進地標總表）
+      - name: Rebuild landmarks（新集數上架後併進地標總表；簡轉繁已在本機做過）
         shell: bash -eo pipefail {0}
         run: |
-          python scripts/pipeline/04_build_landmarks.py | grep -E "Total landmarks|Written"
+          python scripts/pipeline/04_build_landmarks.py --no-convert | grep -E "Total landmarks|Written"
           python scripts/pipeline/05_wikipedia_info.py | tail -2
 
       - name: Build per-episode share pages

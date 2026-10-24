@@ -109,6 +109,7 @@ def get_available_eps():
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--dry-run', action='store_true')
+    parser.add_argument('--no-convert', action='store_true', help='不做簡轉繁（GitHub Actions 用；各集檔案在本機已轉好）')
     args = parser.parse_args()
 
     # Load episode metadata for episode numbers lookup
@@ -132,11 +133,14 @@ def main():
 
     total_appearances = 0
 
-    per_ep = {e: json.loads((LM_DIR / f"ep{e:03d}.json").read_text(encoding='utf-8')) for e in available}
-    print(f"繁體轉換：{to_traditional([lm for lms in per_ep.values() for lm in lms])} 個欄位")
-    # 轉好的繁體寫回各集檔案：之後在沒有 opencc 的環境（GitHub Actions）重建也不會退回簡體
-    if not args.dry_run:
-        for e, lms in per_ep.items():
+    # 簡轉繁只在本機做（--no-convert 跳過）：轉好的繁體寫回各集檔案（含還沒上 RSS 的新集），
+    # GitHub Actions 重建時不再轉。不同版本的 OpenCC 對已是繁體的字會再改（Ubuntu 版把「喬托」改成「喬託」）
+    every = {e: json.loads((LM_DIR / f"ep{e:03d}.json").read_text(encoding='utf-8')) for e in get_available_eps()}
+    per_ep = {e: every[e] for e in available}
+    if not args.no_convert:
+        print(f"繁體轉換：{to_traditional([lm for lms in every.values() for lm in lms])} 個欄位")
+    if not args.dry_run and not args.no_convert:
+        for e, lms in every.items():
             path = LM_DIR / f"ep{e:03d}.json"
             new = json.dumps(lms, ensure_ascii=False, indent=2)
             if path.read_text(encoding='utf-8') != new:
