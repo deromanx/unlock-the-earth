@@ -1,12 +1,12 @@
 [
   {
-    "name": "托木斯克",
+    "name": "託木斯克",
     "name_en": "Tomsk",
     "lat": 56.488,
     "lon": 84.948,
     "country": "俄羅斯",
     "region": "亞洲",
-    "quote": "我是在托穆斯克是在西伯利亞州的一個小城鎮",
+    "quote": "我是在託穆斯克是在西伯利亞州的一個小城鎮",
     "context": "主持來賓留學與工作多年的西伯利亞學術小城",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Tomsk0293.JPG/330px-Tomsk0293.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
@@ -18,7 +18,7 @@
     "country": "俄羅斯",
     "region": "亞洲",
     "quote": "其實是新西伯利亞市",
-    "context": "西伯利亞最大城市，抵達托木斯克的轉機點"
+    "context": "西伯利亞最大城市，抵達託木斯克的轉機點"
   },
   {
     "name": "莫斯科",

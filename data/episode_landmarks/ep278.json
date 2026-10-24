@@ -47,8 +47,8 @@
     "lon": -99.34,
     "country": "墨西哥",
     "region": "美洲",
-    "quote": "托爾特克的首都叫土拉",
-    "context": "托爾特克首都，傳說與奇琴伊察有關"
+    "quote": "託爾特克的首都叫土拉",
+    "context": "託爾特克首都，傳說與奇琴伊察有關"
   },
   {
     "name": "奇琴伊察",
@@ -58,7 +58,7 @@
     "country": "墨西哥",
     "region": "美洲",
     "quote": "世界新七大集井",
-    "context": "馬雅與托爾特克融合，門票昂貴",
+    "context": "馬雅與託爾特克融合，門票昂貴",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Chichen_Itza_3.jpg/330px-Chichen_Itza_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
@@ -163,7 +163,7 @@
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Oaxaqa_%2841%29.jpg/330px-Oaxaqa_%2841%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "瓜納華托",
+    "name": "瓜納華託",
     "name_en": "Guanajuato",
     "lat": 21.019,
     "lon": -101.257,
