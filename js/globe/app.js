@@ -147,6 +147,7 @@ async function init() {
     f.zh = zh;
     f.country = (a2 && ix.countryByA2.get(a2)) || ix.countries.get(zh) || null;
   }
+  buildGlowSamples();
 
   renderFilters();
   renderEpList();
@@ -184,16 +185,8 @@ function initGlobe() {
     .width(innerWidth)
     .height(innerHeight)
 
-    // 蜂巢六角磚（像《文明帝國》的地圖格）：格子緊密相連、只留細縫，顏色依集數
-    .hexPolygonsData(countryFeatures)
-    .hexPolygonResolution(f => (IS_SMALL && f.hexRes === 3) ? 2 : f.hexRes)
-    .hexPolygonMargin(0.14)
-    .hexPolygonCurvatureResolution(3)
-    .hexPolygonUseDots(false)
-    .hexPolygonAltitude(0.006)
-    .hexPolygonColor(countryColor)
-
-    // 底層淡色填色＋國界：滑鼠偵測也由這層負責（六角格不參與，見 muteHexRaycast）
+    // 國家用夜景燈光呈現（visuals.js 的 glowSets，和地標一起放在粒子層）；
+    // 這層只畫暗暗的陸地與國界，也負責國家的滑鼠偵測
     .polygonsData(countryFeatures)
     .polygonAltitude(0.003)
     .polygonCapColor(capColor)
@@ -212,8 +205,9 @@ function initGlobe() {
     .particlesSize(set => set.size)
     .particlesSizeAttenuation(false)
     .particlesColor(set => set.color)
-    .onParticleHover(lm => onPointHover(lm?.items ? null : lm))
-    .onParticleClick(lm => { if (!lm?.items) showLandmark(lm); })
+    // 只有地標回應滑鼠（國家光點不攔，見 patchGlowMaterials；這裡再擋一次以防萬一）
+    .onParticleHover(p => onPointHover(p?.epNums ? p : null))
+    .onParticleClick(p => { if (p?.epNums) showLandmark(p); })
 
     .ringsData([])
     .ringColor(r => t => `rgba(${r.rgb},${(r.alpha ?? 1) * (1 - t)})`)
@@ -242,8 +236,6 @@ function initGlobe() {
     .onZoom(onZoom)
     .onGlobeReady(() => {
       document.body.classList.remove('globe-pending');
-      muteHexRaycast();
-      setInterval(muteHexRaycast, 3000);   // 足跡模式、降級時點陣會重建
       setTimeout(watchPerformance, 1500);
     });
 
@@ -266,16 +258,6 @@ function initGlobe() {
 
   addEventListener('resize', () => { globe.width(innerWidth).height(innerHeight); applyPixelRatio(); drawStars(); });
   drawStars();
-}
-
-// 六角格不參與滑鼠偵測：globe.gl 每次移動滑鼠都會對場景所有物件做射線檢測，
-// 這層有幾萬個三角形，是電腦上拖曳、滑過時卡頓的主因。國家的 hover／點擊由底下的填色層負責
-const noRaycast = () => {};
-function muteHexRaycast() {
-  globe.scene().traverse(o => {
-    if (o.__globeObjType !== 'hexPolygon' || o.raycast === noRaycast) return;
-    o.traverse(c => { c.raycast = noRaycast; });
-  });
 }
 
 // Retina 螢幕用高解析度線條才不會糊，但總像素數要設上限：大螢幕全幅 2 倍等於畫 4 倍像素，電腦會卡
@@ -418,18 +400,6 @@ function subsolarPoint(date) {
   return { lat: decl, lng };
 }
 
-// 六角格顏色：去過的依集數走色階、台灣綠色，沒去過的灰；聚焦某國時其他國家變淡
-function countryColor(f) {
-  const t = THEMES[theme];
-  if (visitedOn) return f.a2 && visited.has(f.a2) ? t.visitedOn : t.visitedOff;
-  const h = heat(f);
-  if (h < 0) return focus.countryKey ? fade(t.landOff, 0.6) : t.landOff;
-  // 台灣是主場，用獨立的綠色，不跟海外國家比濃淡
-  const [r, g, b] = f.country.key === HOME_COUNTRY ? hexToRgb(t.home).split(',').map(Number) : rampColor(t.ramp, h);
-  const a = focus.countryKey && f.country.key !== focus.countryKey ? 0.3 : 0.95;
-  return `rgba(${r},${g},${b},${a})`;
-}
-
 // 國家熱度：依「去過幾集」開根號，1 集 = 0、海外最多集的國家 = 1；沒去過回傳 -1
 // （開根號在 1–22 集之間的視覺變化最接近線性，對數會把前段班擠在一起）
 function countryEps(f) {
@@ -464,11 +434,12 @@ function capColor(f) {
   return t.cap;
 }
 
+// 國家呈現更新：底層填色＋夜景光點（光點和地標同在粒子層，一起重組）
 function refreshHex() {
   if (!globe) return;
-  globe.hexPolygonColor(countryColor)
-    .polygonCapColor(capColor)
+  globe.polygonCapColor(capColor)
     .polygonStrokeColor(() => THEMES[theme].stroke);
+  refreshPoints();
 }
 
 // 地標分成幾組粒子：高亮／淡化 × 多集／單集；每組一個顏色、一個大小（螢幕像素，不隨縮放變）
@@ -491,7 +462,9 @@ function setPoints(list) {
   // 淡化的先畫，高亮的壓在上面
   const sets = [...groups.values()].sort((a, b) => a.lit - b.lit);
   for (const set of sets) set.tex = dotTexture(set.color);
-  globe.particlesData(sets).particlesTexture(sets.every(x => x.tex) ? set => set.tex : null);
+  const all = [...glowSets(list), ...sets];
+  globe.particlesData(all).particlesTexture(all.every(x => x.tex) ? set => set.tex : null);
+  patchGlowMaterials();
   if (!sets.every(x => x.tex) && !dotTexWait) {
     dotTexWait = setInterval(() => { if (dotTexCtor()) { clearInterval(dotTexWait); refreshPoints(); } }, 300);
   }
@@ -1801,7 +1774,6 @@ function degrade(level) {
   document.documentElement.dataset.lite = level;
   globe.renderer().setPixelRatio(1);
   globe.showAtmosphere(false).arcDashAnimateTime(0);
-  if (level >= 2) globe.hexPolygonResolution(f => Math.max(2, f.hexRes - 1));
   console.info(`[perf] 降級到等級 ${level}`);
 }
 
