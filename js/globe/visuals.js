@@ -421,9 +421,9 @@ function glowSets(visibleLms = []) {
     const color = `rgb(${rgb.join(',')})`;
     const key = `${theme}|${color}|${level}|${dim}`;
     const set = glowBucket(buckets, key, () => ({
-      glow: true, items: [], alt: 0.005,
-      size: (2.5 + 4 * level) * (IS_SMALL ? 0.8 : 1),
-      tex: glowTexture(color, dim ? 0.14 : 0.32 + 0.45 * level),
+      key, items: [], alt: 0.005,
+      size: (3.5 + 4 * level) * (IS_SMALL ? 0.8 : 1),
+      tex: glowTexture(color, dim ? 0.16 : 0.45 + 0.4 * level),
     }));
     const keep = 0.22 + 0.5 * level;   // 集數越多光點越密
     for (const p of glowSamples.get(f)) if (p.k < keep) set.items.push(p);
@@ -440,7 +440,7 @@ function glowSets(visibleLms = []) {
       const color = `rgb(${rgb.join(',')})`;
       const key = `${theme}|${color}|city|${big}|${dim}`;
       glowBucket(buckets, key, () => ({
-        glow: true, items: [], alt: 0.006,
+        key, items: [], alt: 0.006,
         size: (big ? 11 : 7.5) * (IS_SMALL ? 0.8 : 1),
         tex: glowTexture(color, dim ? 0.2 : 0.95),
       })).items.push({ lat: lm.lat, lon: lm.lon });
@@ -470,33 +470,53 @@ function glowTexture(color, alpha) {
   ctx.fillRect(0, 0, 64, 64);
   const tex = new Tex(cv);
   tex.needsUpdate = true;
-  tex.userData = { ...tex.userData, glow: true };   // 用貼圖辨認發光組（見 glowBeforeRender）
-  glowTextures.set(key, tex);
+    glowTextures.set(key, tex);
   return tex;
 }
 
-// globe.gl 對有貼圖的粒子固定設成不透明＋alphaTest 0.5，柔邊（不到一半透明度的部分）會整個被切掉，只剩小小的核心。
-// 它的更新經過好幾層延遲，事後改一次常被蓋回去，所以掛在每個粒子物件的 onBeforeRender：
-// 每一幀畫之前檢查，用的是發光貼圖就改回柔邊混色（有變才標記重編譯）
+// 光點自己一層，不走 globe.gl 的粒子層：粒子層對有貼圖的點固定設成不透明＋alphaTest 0.5，
+// 柔邊整個被切掉，而且每次更新都會蓋回去。這裡自己建 THREE.Points（建構子借地標粒子物件的），
+// 材質一次設好：柔邊、深色主題疊加混色、不寫深度、最後才畫（renderOrder），光點不攔滑鼠
+const glowObjs = new Map();   // 亮度組 key → THREE.Points
+let glowPending = null, glowRetry = 0;
 const noRaycast = () => {};
-function glowBeforeRender(renderer, scene, camera, geometry, m) {
-  if (!m.map?.userData?.glow) return;
-  const blending = theme === 'dark' ? 2 : 1;   // THREE.AdditiveBlending / NormalBlending
-  if (m.alphaTest !== 0.003 || !m.transparent || m.depthWrite || m.blending !== blending) {
-    m.alphaTest = 0.003;
-    m.transparent = true;
-    m.depthWrite = false;
-    m.blending = blending;
-    m.needsUpdate = true;
+function drawGlow(sets) {
+  glowPending = sets;
+  if (!globe) return;
+  let proto = null;
+  globe.scene().traverse(o => { if (!proto && o.__globeObjType === 'particles' && o.geometry?.getAttribute?.('position')) proto = o; });
+  if (!proto) {   // 地標粒子還沒建好：稍後再畫
+    if (!glowRetry) glowRetry = setTimeout(() => { glowRetry = 0; drawGlow(glowPending); }, 300);
+    return;
   }
-  this.raycast = noRaycast;   // 光點不攔滑鼠：滑過國家要顯示國家資訊
-}
-
-function patchGlowMaterials() {
-  const hook = () => globe?.scene().traverse(o => {
-    if (o.__globeObjType === 'particles' && o.onBeforeRender !== glowBeforeRender) o.onBeforeRender = glowBeforeRender;
-  });
-  setTimeout(hook, 0);
-  setTimeout(hook, 150);
-  setTimeout(hook, 600);
+  const Points = proto.constructor, Geom = proto.geometry.constructor, Mat = proto.material.constructor;
+  const Attr = proto.geometry.getAttribute('position').constructor;
+  const blending = theme === 'dark' ? 2 : 1;   // THREE.AdditiveBlending / NormalBlending
+  const used = new Set();
+  for (const set of sets) {
+    used.add(set.key);
+    let o = glowObjs.get(set.key);
+    if (!o) {
+      o = new Points(new Geom(), new Mat({
+        size: set.size, sizeAttenuation: false, map: set.tex, transparent: true,
+        alphaTest: 0.003, depthWrite: false, blending,
+      }));
+      o.renderOrder = 5;
+      o.frustumCulled = false;
+      o.raycast = noRaycast;
+      o.__glowLayer = true;
+      proto.parent.add(o);
+      glowObjs.set(set.key, o);
+    }
+    const xyz = new Float32Array(set.items.length * 3);
+    set.items.forEach((p, i) => {
+      const c = p.xyz?.[set.alt] || ((p.xyz ||= {})[set.alt] = globe.getCoords(p.lat, p.lon, set.alt));
+      xyz[i * 3] = c.x; xyz[i * 3 + 1] = c.y; xyz[i * 3 + 2] = c.z;
+    });
+    o.geometry.dispose();
+    o.geometry = new Geom();
+    o.geometry.setAttribute('position', new Attr(xyz, 3));
+    o.visible = set.items.length > 0;
+  }
+  for (const [key, o] of glowObjs) if (!used.has(key)) o.visible = false;
 }

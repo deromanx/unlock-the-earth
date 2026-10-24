@@ -205,11 +205,11 @@ function initGlobe() {
     .particlesSize(set => set.size)
     .particlesSizeAttenuation(false)
     .particlesColor(set => set.color)
-    // 只有地標回應滑鼠（國家光點不攔，見 patchGlowMaterials；這裡再擋一次以防萬一）
     .onParticleHover(p => onPointHover(p?.epNums ? p : null))
     .onParticleClick(p => { if (p?.epNums) showLandmark(p); })
 
     .ringsData([])
+    .ringAltitude(0.008)   // 要高過國家填色（0.003）與光點，不然聲波被壓在地圖底下
     .ringColor(r => t => `rgba(${r.rgb},${(r.alpha ?? 1) * (1 - t)})`)
     .ringMaxRadius(r => r.maxR || 3)
     .ringPropagationSpeed(r => r.speed || 2)
@@ -462,9 +462,8 @@ function setPoints(list) {
   // 淡化的先畫，高亮的壓在上面
   const sets = [...groups.values()].sort((a, b) => a.lit - b.lit);
   for (const set of sets) set.tex = dotTexture(set.color);
-  const all = [...glowSets(list), ...sets];
-  globe.particlesData(all).particlesTexture(all.every(x => x.tex) ? set => set.tex : null);
-  patchGlowMaterials();
+  globe.particlesData(sets).particlesTexture(sets.every(x => x.tex) ? set => set.tex : null);
+  drawGlow(glowSets(list));
   if (!sets.every(x => x.tex) && !dotTexWait) {
     dotTexWait = setInterval(() => { if (dotTexCtor()) { clearInterval(dotTexWait); refreshPoints(); } }, 300);
   }
