@@ -154,7 +154,9 @@ async function init() {
   renderLegend();
   countUpHero();
   document.body.classList.add('globe-pending');
-  document.getElementById('loading').classList.add('done');
+  const loadingEl = document.getElementById('loading');
+  loadingEl.classList.add('done');
+  setTimeout(() => { if (loadingEl.classList.contains('done')) loadingEl.style.display = 'none'; }, 900);   // 淡出完整個拿掉，黑膠動畫不再跑
 
   try {
     await globeLib;
@@ -236,6 +238,7 @@ function initGlobe() {
       document.body.classList.remove('globe-pending');
       setPickRadius(globe.pointOfView().altitude);
       setBorders(THEMES[theme].stroke);
+      muteRaycast();
       setTimeout(watchPerformance, 1500);
     });
 
@@ -307,14 +310,16 @@ function updateDayNight() {
 
   const t = THEMES[theme];
   const W = IS_SMALL ? 1024 : 2048, H = W / 2;
-  const cv = document.createElement('canvas');
-  cv.width = W; cv.height = H;
+  const cv = dayNightCv || (dayNightCv = document.createElement('canvas'));
+  if (cv.width !== W) { cv.width = W; cv.height = H; }
   const ctx = cv.getContext('2d');
+  ctx.globalCompositeOperation = 'source-over';
+  ctx.globalAlpha = 1;
   ctx.fillStyle = t.globe;
   ctx.fillRect(0, 0, W, H);
   if (t.paper) {
     paintParchment(ctx, W, H);
-    globe.globeImageUrl(cv.toDataURL('image/jpeg', 0.86));
+    commitGlobeTexture(cv);
     return;
   }
 
@@ -358,7 +363,21 @@ function updateDayNight() {
   ctx.globalCompositeOperation = 'lighter';
   ctx.globalAlpha = t.lights;
   ctx.drawImage(lights, 0, 0);
-  globe.globeImageUrl(cv.toDataURL('image/jpeg', 0.86));
+  ctx.globalAlpha = 1;
+  commitGlobeTexture(cv);
+}
+
+// 第一次走 globeImageUrl（globe.gl 等貼圖載完才算地球就緒）；之後直接把畫布換進現有貼圖重新上傳，
+// 不必每次轉成 JPEG 網址再解碼一張 2048×1024（主題切換、每 10 分鐘日夜更新都會卡一下）
+let dayNightCv = null;
+function commitGlobeTexture(cv) {
+  const map = globe.globeMaterial().map;
+  if (map) {
+    map.image = cv;
+    map.needsUpdate = true;
+  } else {
+    globe.globeImageUrl(cv.toDataURL('image/jpeg', 0.86));
+  }
 }
 
 // 探險地圖的地球貼圖：紙張斑點＋每 15° 一條經緯線，赤道和本初子午線加粗
@@ -457,9 +476,8 @@ const capMaterial = f => gridMaterial(capStyle(f));
 // 國家呈現更新：底層填色＋細密小點（visuals.js），跟地標一起重畫
 function refreshHex() {
   if (!globe) return;
-  globe.polygonCapMaterial(capMaterial);
+  updateCaps(capMaterial);
   setBorders(THEMES[theme].stroke);
-  refreshPoints();
 }
 
 // 地標分成幾組粒子：高亮／淡化 × 多集／單集；每組一個顏色、一個大小（螢幕像素，不隨縮放變）。
@@ -641,6 +659,7 @@ function setArcPairs(pairs) {
     colors: [hexToRgba(c, 0.25), hexToRgba(c, 0.95)],
     stroke,
   })));
+  if (pairs.length) setTimeout(muteRaycast, 50);   // 弧線不用點，建好後關掉射線檢測
 }
 
 // ── 回訪網 ────────────────────────────────────────────
@@ -755,8 +774,9 @@ function onPointHover(lm) {
 let hoverFeature = null;
 function onCountryHover(f) {
   if (f !== hoverFeature && !IS_TOUCH) {
+    const prev = hoverFeature;
     hoverFeature = f || null;
-    globe.polygonCapMaterial(capMaterial);
+    updateCaps(capMaterial, [prev, hoverFeature]);
   }
   if (!f || IS_TOUCH) return hideTooltip();
   const c = f.country;
@@ -843,6 +863,16 @@ function goBack() {
 function epCover(ep) {
   return ep?.image || PODCAST_COVER;
 }
+// 清單用的小封面：Firstory 原圖一張約 190KB，列表捲動時一次解碼幾十張大圖會卡。
+// 改用 scripts/build_cover_thumbs.py 做的 120px 縮圖（約 6KB），沒有縮圖時退回原圖
+function epThumb(ep) {
+  if (!ep?.image) return PODCAST_COVER;
+  if (ep.type === 'main' && ep.episode) return `assets/covers/${ep.episode}.jpg`;
+  return `assets/covers/x/${ep.image.split('/').pop().replace(/\.\w+$/, '')}.jpg`;
+}
+function thumbImg(ep, lazy = true) {
+  return `<img src="${escHtml(epThumb(ep))}" alt=""${lazy ? ' loading="lazy"' : ''} decoding="async" onerror="this.onerror=null;this.src='${escHtml(epCover(ep))}'">`;
+}
 
 // 地標
 function showLandmark(lm, { fly = true } = {}) {
@@ -860,7 +890,7 @@ function showLandmark(lm, { fly = true } = {}) {
     return `
       <div class="appear">
         <button class="appear-head" data-act="ep" data-ep="${a.ep}">
-          <img src="${escHtml(epCover(ep))}" alt="" loading="lazy">
+          ${thumbImg(ep)}
           <span><b>Ep.${a.ep}</b><em>${escHtml(ep.title)}</em></span>
         </button>
         ${a.quote ? `<blockquote style="--c:${color}">「${escHtml(a.quote)}」</blockquote>` : ''}
@@ -1018,7 +1048,7 @@ function showCountry(key, { fly = true } = {}) {
 function epMiniHtml(ep) {
   return `
     <button class="ep-mini" data-act="ep" data-ep="${ep.episode}">
-      <img src="${escHtml(epCover(ep))}" alt="" loading="lazy">
+      ${thumbImg(ep)}
       <span><b>Ep.${ep.episode}</b><em>${escHtml(ep.title)}</em></span>
     </button>`;
 }
@@ -1093,7 +1123,7 @@ function renderEpList() {
     const isNew = Date.now() - Date.parse(ep.pubDate) < 30 * 864e5;
     return `
       <button class="ep-card" data-ep="${ep.episode}">
-        <img src="${escHtml(epCover(ep))}" alt="" loading="lazy">
+        ${thumbImg(ep)}
         <span class="ep-card-info">
           <span class="ep-card-top"><b>Ep.${ep.episode}</b>${isNew ? '<i class="tag-new">NEW</i>' : ''}<small>${escHtml((ep.pubDate || '').slice(0, 7))}</small></span>
           <span class="ep-card-title">${escHtml(ep.title)}</span>
@@ -1136,7 +1166,7 @@ function renderHero() {
   if (!latest) return;
   const btn = document.getElementById('hero-latest');
   btn.hidden = false;
-  btn.innerHTML = `<img src="${escHtml(epCover(latest))}" alt=""><span><small>最新一集</small><b>Ep.${latest.episode} ${escHtml(latest.title)}</b></span>`;
+  btn.innerHTML = `${thumbImg(latest, false)}<span><small>最新一集</small><b>Ep.${latest.episode} ${escHtml(latest.title)}</b></span>`;
   btn.addEventListener('click', () => { if (globe) showEpisode(latest.episode); });
 }
 
@@ -1899,6 +1929,8 @@ function hasWebGL() {
 function showFatal(html) {
   const l = document.getElementById('loading');
   l.querySelector('p').innerHTML = html;
+  l.classList.remove('done');   // 地球引擎載入失敗時載入畫面已經淡出，要叫回來才看得到訊息
+  l.style.display = '';
   l.classList.add('fatal');
 }
 

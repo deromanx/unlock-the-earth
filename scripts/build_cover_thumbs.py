@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """
-每集封面縮圖 → assets/covers/<集數>.jpg（120×120，約 5KB），封面拼貼世界地圖用。
+每集封面縮圖 → assets/covers/<集數>.jpg（120×120，約 5KB），封面拼貼世界地圖、集數列表用。
+特別篇沒有集數，用原圖檔名 → assets/covers/x/<檔名>.jpg（app.js epThumb 用同樣規則）。
 直接用 Firstory 原圖要下載 288 張、約 47MB；縮圖全部加起來約 1.5MB。
 已有縮圖的集數跳過（封面換了就刪掉那張再跑）。GitHub Actions 每天跑，新集數自動補上。
 
@@ -8,6 +9,7 @@
 """
 import json
 import subprocess
+from urllib.parse import urlparse
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -17,10 +19,14 @@ SIZE = 120
 
 def main():
     OUT.mkdir(parents=True, exist_ok=True)
-    episodes = [e for e in json.loads((ROOT / 'data/episodes.json').read_text()) if e.get('type') == 'main' and e.get('image')]
+    episodes = [e for e in json.loads((ROOT / 'data/episodes.json').read_text()) if e.get('image')]
+    (OUT / 'x').mkdir(exist_ok=True)
     made = failed = 0
     for e in episodes:
-        dst = OUT / f"{e['episode']}.jpg"
+        if e.get('type') == 'main' and e.get('episode'):
+            dst = OUT / f"{e['episode']}.jpg"
+        else:
+            dst = OUT / 'x' / f"{Path(urlparse(e['image']).path).stem}.jpg"
         if dst.exists():
             continue
         r = subprocess.run(['ffmpeg', '-v', 'error', '-y', '-i', e['image'],
@@ -31,7 +37,7 @@ def main():
         else:
             failed += 1
             print(f"  ✗ Ep.{e['episode']}: {r.stderr.decode()[:120]}")
-    have = len(list(OUT.glob('*.jpg')))
+    have = len(list(OUT.glob('*.jpg'))) + len(list(OUT.glob('x/*.jpg')))
     print(f'封面縮圖：新做 {made}，失敗 {failed}，共 {have}/{len(episodes)} 集')
 
 

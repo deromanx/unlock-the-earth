@@ -67,7 +67,12 @@ function drawWave(now) {
   const [ox, oy] = globe.globeOffset?.() || [0, 0];
   const cx = innerWidth / 2 + ox, cy = innerHeight / 2 + oy;
 
-  const color = getComputedStyle(document.documentElement).getPropertyValue('--accent').trim() || '#F4C737';
+  // 每幀 getComputedStyle 會強迫瀏覽器重算樣式；顏色只在換主題／集數配色時變，記下來 1 秒更新一次
+  if (!wave.color || now - wave.colorAt > 1000) {
+    wave.color = getComputedStyle(document.documentElement).getPropertyValue('--accent').trim() || '#F4C737';
+    wave.colorAt = now;
+  }
+  const color = wave.color;
   const n = wave.bins.length;
   const rot = now / 60000 * Math.PI * 2 / 3;   // 三分鐘轉一圈
   ctx.strokeStyle = color;
@@ -167,6 +172,7 @@ function showTrails() {
     shown = Math.min(trails.length, shown + 10);
     globe.arcsData(trails.slice(0, shown));
     if (shown < trails.length) trailTimer = setTimeout(grow, 45);
+    else setTimeout(muteRaycast, 50);
   })();
   globe.pointOfView({ lat: 28, lng: 70, altitude: IS_SMALL ? 3.4 : 2.7 }, 2400);
   timeline.trails = true;
@@ -414,3 +420,53 @@ function setBorders(color) {
   borderObj.material.opacity = a;
   return true;
 }
+
+// ── 國家填色換材質 ────────────────────────────────────
+// globe.polygonCapMaterial() 會讓 globe.gl 把 458 塊多邊形全部重跑一遍（比對幾何、補間高度），
+// 滑鼠滑過、自轉時國家從游標底下經過都會觸發，一頓一頓的。改成直接換那塊網格的材質；
+// 只給 features 時只換那幾國。多邊形物件只在 polygonsData 時建一次，索引建好就沿用
+let capIndex = null;   // feature → [填色網格]
+function updateCaps(materialFor, features = null) {
+  if (!capIndex || !capIndex.size) {
+    capIndex = new Map();
+    globe.scene().traverse(o => {
+      if (o.__globeObjType !== 'polygon' || !o.__data?.data) return;
+      const f = o.__data.data, cap = o.children[0];
+      if (!cap?.material) return;
+      if (!capIndex.has(f)) capIndex.set(f, []);
+      capIndex.get(f).push(cap);
+    });
+    if (!capIndex.size) { capIndex = null; globe.polygonCapMaterial(materialFor); return; }   // 物件還沒建好
+  }
+  for (const f of features || capIndex.keys()) {
+    if (!f) continue;
+    const m = materialFor(f);
+    for (const cap of capIndex.get(f) || []) {
+      // 沒有側面時材質陣列只有填色一格；保險起見找現在放網格材質的那格
+      const mats = cap.material;
+      if (Array.isArray(mats)) { const i = Math.max(0, mats.findIndex(x => x?.userData?.grid)); mats[i] = m; }
+      else cap.material = m;
+    }
+  }
+}
+
+// ── 滑鼠偵測瘦身 ──────────────────────────────────────
+// globe.gl 每 50ms 對整個場景做一次射線檢測（不管物件看不看得到），之後才過濾。
+// 線條（隱藏的經緯網格、國界、聲波圈）、大氣層、弧線都不用點，直接不檢測：
+// 線條在原型上關掉（聲波每圈都是新物件），大氣層和弧線在建好後逐一關
+function muteRaycast() {
+  if (!globe) return;
+  globe.scene().traverse(o => {
+    if (o.isLine && !lineRayMuted) {
+      let p = Object.getPrototypeOf(o);
+      while (p && !Object.prototype.hasOwnProperty.call(p, 'raycast')) p = Object.getPrototypeOf(p);
+      if (p) p.raycast = function () {};   // Line.prototype；LineSegments 沿用它
+      lineRayMuted = true;
+    }
+    if ((o.__globeObjType === 'atmosphere' || o.__globeObjType === 'arc') && !o.__rayMuted) {
+      o.traverse(c => { c.raycast = function () {}; });
+      o.__rayMuted = true;
+    }
+  });
+}
+let lineRayMuted = false;
