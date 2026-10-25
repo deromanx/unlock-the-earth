@@ -786,20 +786,29 @@ function onCountryHover(f) {
   showTooltip(`<b>${flag(f.a2)} ${escHtml(f.zh)}</b><span>${sub}</span>`);
 }
 
+// 提示框大小只在換內容時量一次：滑鼠每動一下都讀 offsetWidth，會逼瀏覽器當場重排整頁
+// （地球上的國名標籤每幀都在改樣式，排版一直是髒的），轉動時移動滑鼠就會一頓一頓
+const tipSize = { w: 0, h: 0, shown: false, html: '' };
 function showTooltip(html) {
   const tip = document.getElementById('tooltip');
-  tip.innerHTML = html;
-  tip.classList.add('show');
+  if (tipSize.html !== html) {
+    tipSize.html = html;
+    tip.innerHTML = html;
+    tipSize.w = tip.offsetWidth;
+    tipSize.h = tip.offsetHeight;
+  }
+  if (!tipSize.shown) { tip.classList.add('show'); tipSize.shown = true; }
   moveTooltip();
 }
 function moveTooltip() {
-  const tip = document.getElementById('tooltip');
-  if (!tip.classList.contains('show')) return;
-  const x = Math.min(mouse.x + 16, innerWidth - tip.offsetWidth - 8);
-  tip.style.transform = `translate(${x}px, ${mouse.y - 12 - tip.offsetHeight}px)`;
+  if (!tipSize.shown) return;
+  const x = Math.min(mouse.x + 16, innerWidth - tipSize.w - 8);
+  document.getElementById('tooltip').style.transform = `translate(${x}px, ${mouse.y - 12 - tipSize.h}px)`;
 }
 function hideTooltip() {
+  if (!tipSize.shown) return;
   document.getElementById('tooltip').classList.remove('show');
+  tipSize.shown = false;
 }
 
 // ── 國家點擊 ──────────────────────────────────────────
@@ -1964,4 +1973,56 @@ function readStore(k) {
 }
 function writeStore(k, v) {
   try { localStorage.setItem(k, v); } catch (e) { /* 私密模式 */ }
+}
+
+// ── 效能診斷（網址加 ?perf）────────────────────────────
+// 左下角顯示每秒幀數、最近 10 秒最慢的一幀、卡頓次數、繪製次數與 3D 物件數，以及哪些函式在卡頓那幀跑了多久。
+// 使用者轉一轉後截圖回報即可，不必開開發者工具
+if (new URLSearchParams(location.search).has('perf')) {
+  const probe = { fn: new Map(), frame: new Map(), stalls: [], frames: [] };
+  for (const name of ['updateCaps', 'setPoints', 'setRings', 'setArcPairs', 'onCountryHover', 'onPointHover', 'updateDayNight',
+    'updateCountryLabels', 'setBorders', 'muteRaycast', 'renderEpList', 'showTooltip', 'onZoom']) {
+    const orig = window[name];
+    if (typeof orig !== 'function') continue;
+    window[name] = function (...args) {
+      const t0 = performance.now();
+      try { return orig.apply(this, args); } finally {
+        const dt = performance.now() - t0;
+        probe.frame.set(name, (probe.frame.get(name) || 0) + dt);
+        const f = probe.fn.get(name) || { n: 0, ms: 0, max: 0 };
+        f.n++; f.ms += dt; f.max = Math.max(f.max, dt);
+        probe.fn.set(name, f);
+      }
+    };
+  }
+  let longTasks = 0;
+  try { new PerformanceObserver(l => { longTasks += l.getEntries().length; }).observe({ type: 'longtask', buffered: true }); } catch (e) { /* Safari 不支援 */ }
+  const box = document.createElement('pre');
+  box.style.cssText = 'position:fixed;left:8px;bottom:8px;z-index:999;margin:0;padding:8px 10px;max-width:92vw;font:11px/1.45 ui-monospace,monospace;color:#cfe;background:rgba(0,0,0,.78);border-radius:8px;pointer-events:none;white-space:pre-wrap';
+  document.body.appendChild(box);
+  let last = performance.now();
+  (function tick(now) {
+    const dt = now - last;
+    last = now;
+    probe.frames.push([now, dt]);
+    if (dt > 50 && !document.hidden) probe.stalls.push({ at: now, dt, fns: [...probe.frame].filter(([, ms]) => ms > 2).map(([n, ms]) => `${n} ${ms.toFixed(0)}`).join(', ') });
+    probe.frame.clear();
+    requestAnimationFrame(tick);
+  })(last);
+  setInterval(() => {
+    const now = performance.now();
+    probe.frames = probe.frames.filter(([t]) => now - t < 10000);
+    probe.stalls = probe.stalls.filter(s => now - s.at < 30000);
+    const fps = probe.frames.filter(([t]) => now - t < 1000).length;
+    const worst = Math.max(0, ...probe.frames.map(([, d]) => d));
+    const info = globe?.renderer().info;
+    const top = [...probe.fn].sort((a, b) => b[1].max - a[1].max).slice(0, 4).map(([n, f]) => `${n} ×${f.n} 最慢${f.max.toFixed(0)}ms`).join('\n  ');
+    box.textContent = [
+      `FPS ${fps}　近10秒最慢一幀 ${worst.toFixed(0)}ms　降級 ${perfLevel}　解析度×${globe?.renderer().getPixelRatio().toFixed(2)}`,
+      `近30秒卡頓(>50ms) ${probe.stalls.length} 次　long task ${longTasks}`,
+      info ? `繪製 ${info.render.calls} 次/幀　三角形 ${(info.render.triangles / 1000).toFixed(0)}k　幾何 ${info.memory.geometries}　貼圖 ${info.memory.textures}　著色程式 ${info.programs?.length ?? '?'}` : '',
+      `函式：\n  ${top}`,
+      probe.stalls.length ? `最近卡頓：\n  ${probe.stalls.slice(-4).map(s => `${s.dt.toFixed(0)}ms${s.fns ? '（' + s.fns + '）' : ''}`).join('\n  ')}` : '',
+    ].filter(Boolean).join('\n');
+  }, 1000);
 }
