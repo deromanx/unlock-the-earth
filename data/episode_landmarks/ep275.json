@@ -6,8 +6,28 @@
     "lon": 78.042,
     "country": "印度",
     "region": "亞洲",
-    "quote": "我發現它是世界七大七淨",
-    "context": "主持人大學時看到泰姬瑪哈陵掛布，種下印度夢",
+    "quote": "太極瑪哈林門口全都是垃圾堆",
+    "context": "談北印度環境衛生，疫情後門口垃圾消失",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Taj_Mahal_%28Edited%29.jpeg/330px-Taj_Mahal_%28Edited%29.jpeg"
+  },
+  {
+    "name": "瓦拉納西恆河河壇",
+    "name_en": "Varanasi Ghats",
+    "lat": 25.311,
+    "lon": 83.011,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "大家每次講到恆河的時候心中浮現的畫面就是瓦拉納西",
+    "context": "恆河髒亂印象的來源，焚屍與日常生活交織"
+  },
+  {
+    "name": "月光市集",
+    "name_en": "Chandni Chowk",
+    "lat": 28.656,
+    "lon": 77.231,
+    "country": "印度",
+    "region": "亞洲",
+    "quote": "我安排一個行程就是坐人力車夫遊月光市集",
+    "context": "德里老城市集，人力車穿梭與小孩討錢"
   }
 ]

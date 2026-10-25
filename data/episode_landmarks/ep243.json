@@ -1,23 +1,34 @@
 [
   {
+    "name": "珀斯",
+    "name_en": "Perth",
+    "lat": -31.95,
+    "lon": 115.86,
+    "country": "澳洲",
+    "region": "大洋洲",
+    "quote": "西澳的波斯那邊那邊人比較多一點",
+    "context": "西澳最大城市，講者假日採買購物與跨年特賣常去之地",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Perth_CBD_skyline_from_State_War_Memorial_Lookout%2C_2023%2C_04_b.jpg/330px-Perth_CBD_skyline_from_State_War_Memorial_Lookout%2C_2023%2C_04_b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
     "name": "愛麗絲泉",
     "name_en": "Alice Springs",
     "lat": -23.698,
     "lon": 133.881,
     "country": "澳洲",
     "region": "大洋洲",
-    "quote": "少數內陸的城市像是愛麗絲泉",
-    "context": "澳洲內陸少數城市，主要因觀光而存在"
+    "quote": "少數內陸的城市像是愛麗絲圈 它那個大部分都是為了那個觀光存在的就是那塊大岩石",
+    "context": "內陸觀光小城，為前往烏魯魯而存在"
   },
   {
-    "name": "艾迪卡拉山區",
+    "name": "愛迪卡拉山區",
     "name_en": "Ediacara Hills",
-    "lat": -30.31,
-    "lon": 138.63,
+    "lat": -31.32,
+    "lon": 138.13,
     "country": "澳洲",
     "region": "大洋洲",
-    "quote": "在南澳的時候，在那個艾迪卡拉山區，他發現了一堆長得很奇怪的化石",
-    "context": "發現古老化石並命名艾迪卡拉紀的地點"
+    "quote": "在那個愛迪卡拉山區他發現了一堆長得很奇怪的化石",
+    "context": "發現古老化石，「埃迪卡拉紀」命名由來"
   },
   {
     "name": "坎培拉",
@@ -26,18 +37,38 @@
     "lon": 149.129,
     "country": "澳洲",
     "region": "大洋洲",
-    "quote": "我們就在兩個首都的中間，直接蓋一個首都",
+    "quote": "其實澳洲的首都坎培拉",
     "context": "為平息雪梨與墨爾本之爭而興建的首都",
     "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Canberra_panorama_from_Mount_Ainslie.jpg/330px-Canberra_panorama_from_Mount_Ainslie.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
-    "name": "哈維鎮",
-    "name_en": "Harvey, Western Australia",
-    "lat": -33.077,
-    "lon": 115.899,
+    "name": "奧巴尼",
+    "name_en": "Albany",
+    "lat": -35.024,
+    "lon": 117.881,
     "country": "澳洲",
     "region": "大洋洲",
-    "quote": "我那時候我在的小鎮的harvey，他有個harvey秀",
-    "context": "來賓打工度假居住的小鎮，有年度農業展覽"
+    "quote": "它只分布在奧巴尼到奧古斯塔這個區塊",
+    "context": "講者為看捕蟲植物選擇西澳的原因之一"
+  },
+  {
+    "name": "奧古斯塔",
+    "name_en": "Augusta",
+    "lat": -34.315,
+    "lon": 115.159,
+    "country": "澳洲",
+    "region": "大洋洲",
+    "quote": "它只分布在奧巴尼到奧古斯塔這個區塊",
+    "context": "西澳西南端小鎮，捕蟲植物分佈區端點"
+  },
+  {
+    "name": "哈維鎮",
+    "name_en": "Harvey",
+    "lat": -33.081,
+    "lon": 115.896,
+    "country": "澳洲",
+    "region": "大洋洲",
+    "quote": "我那時候在的小鎮叫 Harvey 它有一個 Harvey Show",
+    "context": "講者居住兩年半的小鎮，有年度農業展"
   }
 ]

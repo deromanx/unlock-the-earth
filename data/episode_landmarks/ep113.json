@@ -3,21 +3,31 @@
     "name": "南極半島",
     "name_en": "Antarctic Peninsula",
     "lat": -65.0,
-    "lon": -64.0,
-    "country": "南極洲",
-    "region": "極地",
-    "quote": "我是去玩那種 11 天的那種就只會在南極半島登陸而已",
-    "context": "11天行程登陸地點，可看企鵝、參觀研究站"
-  },
-  {
-    "name": "德雷克海峽",
-    "name_en": "Drake Passage",
-    "lat": -58.5,
     "lon": -63.0,
     "country": "南極洲",
     "region": "極地",
-    "quote": "我們剛剛不是說過會經過那個 drag passage 那個海峽嗎",
-    "context": "航行兩天，風浪大，乘客暈船嘔吐"
+    "quote": "就只會在南極半島登陸而已",
+    "context": "11天南極行程的登陸地，看企鵝、參觀研究站與跳海"
+  },
+  {
+    "name": "德瑞克海峽",
+    "name_en": "Drake Passage",
+    "lat": -58.5,
+    "lon": -65.0,
+    "country": "公海（阿根廷與南極洲之間）",
+    "region": "極地",
+    "quote": "因為我們剛剛不是說過會經過那個 drag passage 那個海峽嗎",
+    "context": "航程兩天的風浪區，許多人暈船嘔吐"
+  },
+  {
+    "name": "洛克羅伊港英國研究站",
+    "name_en": "Port Lockroy",
+    "lat": -64.825,
+    "lon": -63.491,
+    "country": "南極洲",
+    "region": "極地",
+    "quote": "如果你去英國的研究站因為通常大部分南極船應該都會經過英國的那個研究站",
+    "context": "設有紀念品小屋，可寄明信片並蓋南極郵戳"
   },
   {
     "name": "烏斯懷亞",
@@ -27,27 +37,17 @@
     "country": "阿根廷",
     "region": "美洲",
     "quote": "通常終點站就是烏斯華雅",
-    "context": "南極船出發港，可等候最後一分鐘船票",
+    "context": "南極船出發港，可在此等待最後一分鐘船票",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Ushuaia_aerial_panorama.jpg/330px-Ushuaia_aerial_panorama.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "南喬治亞島",
     "name_en": "South Georgia Island",
-    "lat": -54.28,
-    "lon": -36.51,
+    "lat": -54.277,
+    "lon": -36.509,
     "country": "英國海外領地",
     "region": "極地",
-    "quote": "然後到 20 天的那種行程更貴的行程然後你就可以到好像是南喬治亞島吧",
-    "context": "長天數行程可看國王企鵝等不同企鵝"
-  },
-  {
-    "name": "英國南極研究站",
-    "name_en": "British Antarctic Research Station (Port Lockroy)",
-    "lat": -64.825,
-    "lon": -63.495,
-    "country": "南極洲",
-    "region": "極地",
-    "quote": "如果你去英國的研究站因為通常大部分南極船應該都會經過英國的那個研究站",
-    "context": "設有紀念品小屋，可寄明信片蓋南極印章"
+    "quote": "然後你就可以到好像是南喬治亞島吧",
+    "context": "較長行程可到達，能看到國王企鵝"
   }
 ]

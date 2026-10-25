@@ -1,56 +1,34 @@
 [
   {
     "name": "鼎泰豐",
-    "name_en": "Din Tai Fung",
-    "lat": 25.0334,
-    "lon": 121.5303,
+    "name_en": "Din Tai Fung (Xinyi Branch)",
+    "lat": 25.0335,
+    "lon": 121.5296,
     "country": "臺灣",
     "region": "台灣",
-    "quote": "我們第一站是頂太風",
-    "context": "MBA團第一站，飲食限制多、高粱與18天插曲",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Taiwan_2009_Taipei_DinTaiFung_Dumpling_House_at_Pacific_Sogo_ZhongXiao_Store_FRD_9000.jpg/330px-Taiwan_2009_Taipei_DinTaiFung_Dumpling_House_at_Pacific_Sogo_ZhongXiao_Store_FRD_9000.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    "quote": "我們第一站是鼎泰豐",
+    "context": "MBA 臺灣團第一餐，60人湧入、酒與飲食限制混亂",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Din_Tai_Fung_Xinyi_Branch_20230704.jpg/330px-Din_Tai_Fung_Xinyi_Branch_20230704.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "山海樓",
-    "name_en": "Shanhai Lou",
-    "lat": 25.0535,
-    "lon": 121.5284,
+    "name_en": "Shanhailou",
+    "lat": 25.0436,
+    "lon": 121.5249,
     "country": "臺灣",
     "region": "台灣",
     "quote": "我們有一天去吃了山海樓",
-    "context": "片鴨與整隻雞頭表演嚇到素食同學"
+    "context": "高價餐廳，整隻雞頭表演嚇到素食同學"
   },
   {
-    "name": "迪化街",
-    "name_en": "Dihua Street",
-    "lat": 25.0553,
-    "lon": 121.5097,
+    "name": "南門市場",
+    "name_en": "Nanmen Market",
+    "lat": 25.033,
+    "lon": 121.5112,
     "country": "臺灣",
     "region": "台灣",
-    "quote": "那條整條迪化就擠到不行",
-    "context": "年貨大街，年前人潮擁擠"
-  },
-  {
-    "name": "臺北霞海城隍廟",
-    "name_en": "Taipei Xia-Hai City God Temple",
-    "lat": 25.056,
-    "lon": 121.51,
-    "country": "臺灣",
-    "region": "台灣",
-    "quote": "你們拜的是狹海城皇廟嗎是狹海城皇廟60個人",
-    "context": "外國同學集體拜月老的趣事",
-    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Taipei_Xia-Hai_City_God_Temple_07.23.jpg/330px-Taipei_Xia-Hai_City_God_Temple_07.23.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
-  },
-  {
-    "name": "九份",
-    "name_en": "Jiufen",
-    "lat": 25.1091,
-    "lon": 121.8449,
-    "country": "臺灣",
-    "region": "台灣",
-    "quote": "他們到九份的第一個活動是比賽誰先跑到最上面",
-    "context": "階梯賽跑、茶行喝茶、買茶具",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Jiufen_Amei_Tea_House_08.23.jpg/330px-Jiufen_Amei_Tea_House_08.23.jpg"
+    "quote": "我第一天去南門市場的時候",
+    "context": "傳統市場菜單無英文，幫忙翻譯臊子麵"
   },
   {
     "name": "士林夜市",
@@ -59,8 +37,40 @@
     "lon": 121.5241,
     "country": "臺灣",
     "region": "台灣",
-    "quote": "比如說士林夜市",
-    "context": "大雞排、地瓜球，自由探索"
+    "quote": "像士林夜市他們一定是很習慣有很多觀光客",
+    "context": "觀光夜市中英文菜單完善，大雞排地瓜球"
+  },
+  {
+    "name": "寧夏夜市",
+    "name_en": "Ningxia Night Market",
+    "lat": 25.0565,
+    "lon": 121.5153,
+    "country": "臺灣",
+    "region": "台灣",
+    "quote": "大家就是跟著我去寧夏夜市",
+    "context": "以黃仁勳去過為號召帶同學去吃甜點",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Ningxia_Night_Market_20250520.jpg/330px-Ningxia_Night_Market_20250520.jpg"
+  },
+  {
+    "name": "永康街",
+    "name_en": "Yongkang Street",
+    "lat": 25.033,
+    "lon": 121.5295,
+    "country": "臺灣",
+    "region": "台灣",
+    "quote": "我們有一天去永康街他們也是吃芒果冰吃的蠻開心",
+    "context": "同學在此吃芒果冰"
+  },
+  {
+    "name": "九份",
+    "name_en": "Jiufen",
+    "lat": 25.1094,
+    "lon": 121.8449,
+    "country": "臺灣",
+    "region": "台灣",
+    "quote": "反正他們到九份的第一個活動是比賽誰先跑到最上面",
+    "context": "平日人少，同學比賽爬階梯、買茶具",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Jiufen_Amei_Tea_House_08.23.jpg/330px-Jiufen_Amei_Tea_House_08.23.jpg"
   },
   {
     "name": "圓山大飯店",
@@ -69,87 +79,98 @@
     "lon": 121.5265,
     "country": "臺灣",
     "region": "台灣",
-    "quote": "他們就是IG發最多的一個地方是圓山大飯店",
-    "context": "最符合東方想像，同學最愛"
+    "quote": "他們就是 IG 發最多的一個地方是圓山大飯店",
+    "context": "同學最愛，符合東方想像，導覽介紹貴賓"
   },
   {
-    "name": "龍山寺",
-    "name_en": "Lungshan Temple",
-    "lat": 25.0372,
-    "lon": 121.4999,
+    "name": "迪化街",
+    "name_en": "Dihua Street",
+    "lat": 25.0572,
+    "lon": 121.51,
     "country": "臺灣",
     "region": "台灣",
-    "quote": "因為像我朋友他們有去龍山寺",
-    "context": "中式古蹟，與臺南歐式古蹟對比"
+    "quote": "迪化街因為是年貨大街嘛",
+    "context": "過年前年貨大街人潮擁擠"
   },
   {
-    "name": "安平",
-    "name_en": "Anping",
-    "lat": 23.001,
+    "name": "臺北霞海城隍廟",
+    "name_en": "Taipei Xiahai City God Temple",
+    "lat": 25.0555,
+    "lon": 121.5105,
+    "country": "臺灣",
+    "region": "台灣",
+    "quote": "那你們拜的是狹海城隍廟嗎",
+    "context": "60人拜月老，香倒插趣事",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/%E5%A4%A7%E7%A8%BB%E5%9F%95%E9%9C%9E%E6%B5%B7%E5%9F%8E%E9%9A%8D%E5%BB%9F%E6%AD%A3%E9%9D%A2%E7%85%A7.jpg/330px-%E5%A4%A7%E7%A8%BB%E5%9F%95%E9%9C%9E%E6%B5%B7%E5%9F%8E%E9%9A%8D%E5%BB%9F%E6%AD%A3%E9%9D%A2%E7%85%A7.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "太魯閣國家公園",
+    "name_en": "Taroko National Park",
+    "lat": 24.159,
+    "lon": 121.6215,
+    "country": "臺灣",
+    "region": "台灣",
+    "quote": "我記得太魯閣國家公園是沒有開的",
+    "context": "地震後未開放，無法安排東部行程"
+  },
+  {
+    "name": "安平運河",
+    "name_en": "Anping Canal (Tainan)",
+    "lat": 22.993,
     "lon": 120.16,
     "country": "臺灣",
     "region": "台灣",
     "quote": "我們第一個行程安平遊船",
-    "context": "臺南首站遊船卻遇雨穿雨衣"
+    "context": "遊船遇雨，全員穿雨衣"
   },
   {
     "name": "赤崁樓",
     "name_en": "Chihkan Tower",
     "lat": 22.9972,
-    "lon": 120.2027,
+    "lon": 120.2025,
     "country": "臺灣",
     "region": "台灣",
-    "quote": "我們就去赤坎樓啊然後孔廟啊然後林百貨這些地方",
+    "quote": "我們就去赤崁樓啊",
     "context": "臺南行程古蹟之一"
   },
   {
     "name": "臺南孔廟",
     "name_en": "Tainan Confucius Temple",
     "lat": 22.9902,
-    "lon": 120.2042,
+    "lon": 120.2046,
     "country": "臺灣",
     "region": "台灣",
-    "quote": "我們就去赤坎樓啊然後孔廟啊然後林百貨這些地方",
+    "quote": "然後孔廟啊",
     "context": "臺南行程古蹟之一"
   },
   {
     "name": "林百貨",
     "name_en": "Hayashi Department Store",
-    "lat": 22.9922,
-    "lon": 120.1975,
+    "lat": 22.9916,
+    "lon": 120.203,
     "country": "臺灣",
     "region": "台灣",
-    "quote": "我們就去赤坎樓啊然後孔廟啊然後林百貨這些地方",
+    "quote": "然後林百貨這些地方就帶他們去走一走",
     "context": "臺南行程景點之一"
   },
   {
     "name": "神農街",
     "name_en": "Shennong Street",
-    "lat": 22.9987,
-    "lon": 120.1971,
+    "lat": 22.9965,
+    "lon": 120.1976,
     "country": "臺灣",
     "region": "台灣",
-    "quote": "尤其像那個神農街附近啊",
-    "context": "夜間酒吧巡禮，街景氣氛好、安全"
+    "quote": "尤其像那個神農街附近啊你去那邊走你會覺得這個感覺很好",
+    "context": "夜間酒吧串聯，散步安全氣氛好"
   },
   {
-    "name": "安平古堡",
-    "name_en": "Anping Fort",
-    "lat": 23.0013,
-    "lon": 120.1604,
+    "name": "龍山寺",
+    "name_en": "Lungshan Temple (Taipei)",
+    "lat": 25.0372,
+    "lon": 121.4999,
     "country": "臺灣",
     "region": "台灣",
-    "quote": "我們因為我們也沒有去什麼安平古堡啊",
-    "context": "歐式古蹟，與中式古蹟對比"
-  },
-  {
-    "name": "太魯閣國家公園",
-    "name_en": "Taroko National Park",
-    "lat": 24.158,
-    "lon": 121.62,
-    "country": "臺灣",
-    "region": "台灣",
-    "quote": "我記得太魯的國家公司沒有開的",
-    "context": "因地震未能前往東部爬山"
+    "quote": "因為像我朋友他們有去龍山寺",
+    "context": "朋友造訪的中式古蹟，與臺南對比"
   }
 ]

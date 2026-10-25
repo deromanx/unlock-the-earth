@@ -3,40 +3,80 @@
     "name": "帕拉馬利波",
     "name_en": "Paramaribo",
     "lat": 5.852,
-    "lon": -55.203,
+    "lon": -55.204,
     "country": "蘇利南",
     "region": "美洲",
-    "quote": "我在帕拉瑪利波待了三個禮拜",
-    "context": "蘇利南首都，荷蘭殖民木造建築、多元族群與美食，講者停留三週"
+    "quote": "首都叫做 Palamaribo",
+    "context": "蘇利南首都，作者停留三週，描述荷蘭殖民木造建築與多元生活"
   },
   {
-    "name": "布朗斯堡",
-    "name_en": "Brownsberg Nature Park",
-    "lat": 4.935,
-    "lon": -55.185,
+    "name": "熱蘭遮堡（蘇利南）",
+    "name_en": "Fort Zeelandia, Paramaribo",
+    "lat": 5.8205,
+    "lon": -55.1675,
     "country": "蘇利南",
     "region": "美洲",
-    "quote": "Brunsburg是一個很出名的",
-    "context": "熱帶雨林景點，可觀賞野生動物與鳥類的旅遊行程"
+    "quote": "那邊也有一個熱蘭遮城",
+    "context": "與臺灣同名荷蘭古堡，館內展示奴隸歷史"
   },
   {
-    "name": "爪哇市集",
-    "name_en": "Javanese Market, Paramaribo",
-    "lat": 5.836,
-    "lon": -55.171,
-    "country": "蘇利南",
-    "region": "美洲",
-    "quote": "一個是中國的 一個是呃 Javanese 就是爪哇市集",
-    "context": "週末美食市集，匯集印尼風味小吃"
-  },
-  {
-    "name": "中國市集",
-    "name_en": "Chinese Market, Paramaribo",
-    "lat": 5.832,
+    "name": "24 Hostel",
+    "name_en": "24 Hostel Paramaribo",
+    "lat": 5.8225,
     "lon": -55.17,
     "country": "蘇利南",
     "region": "美洲",
-    "quote": "中國市集就是很有趣",
-    "context": "客家移民後裔的週末市集，小吃豐富"
+    "quote": "直接去這個 24 hostel 你不用找了",
+    "context": "講者打工換宿的青年旅館，是認識當地人的據點"
+  },
+  {
+    "name": "科托博物館",
+    "name_en": "Museum of Koto (Kotomuseum)",
+    "lat": 5.824,
+    "lon": -55.165,
+    "country": "蘇利南",
+    "region": "美洲",
+    "quote": "我可以跟大家推薦一個博物館它叫做 Koto Museum",
+    "context": "介紹克里奧爾女性頭巾及其表達情緒的文化"
+  },
+  {
+    "name": "新尼克里",
+    "name_en": "Nieuw Nickerie",
+    "lat": 5.9333,
+    "lon": -57.0,
+    "country": "蘇利南",
+    "region": "美洲",
+    "quote": "西部有個地方叫做 New Nikili",
+    "context": "西部印度裔聚居地，湖上高腳屋賞鳥與夜遊鱷魚"
+  },
+  {
+    "name": "阿特拉布魯",
+    "name_en": "Atjoni (Pokigron)",
+    "lat": 4.46,
+    "lon": -55.06,
+    "country": "蘇利南",
+    "region": "美洲",
+    "quote": "你是要開車到 achoni 這一個路的盡頭",
+    "context": "南部公路終點，需轉乘船進入雨林馬龍人村落"
+  },
+  {
+    "name": "布朗斯堡自然公園",
+    "name_en": "Brownsberg Nature Park",
+    "lat": 4.9333,
+    "lon": -55.1833,
+    "country": "蘇利南",
+    "region": "美洲",
+    "quote": "比如說像是 Brownsburg 是一個很出名的",
+    "context": "知名雨林景點，可觀賞野生動物與鳥類"
+  },
+  {
+    "name": "爪哇週末市集",
+    "name_en": "Javanese Weekend Market, Paramaribo",
+    "lat": 5.83,
+    "lon": -55.17,
+    "country": "蘇利南",
+    "region": "美洲",
+    "quote": "他們的週末市集有兩個超大的一個是中國的一個是 Javanese",
+    "context": "美食市集，展現客家與爪哇族群文化"
   }
 ]
