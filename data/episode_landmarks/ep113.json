@@ -1,53 +1,54 @@
 [
   {
-    "name": "南極半島",
-    "name_en": "Antarctic Peninsula",
-    "lat": -65.0,
-    "lon": -63.0,
-    "country": "南極洲",
-    "region": "極地",
-    "quote": "就只會在南極半島登陸而已",
-    "context": "11天南極行程的登陸地，看企鵝、參觀研究站與跳海"
-  },
-  {
-    "name": "德瑞克海峽",
-    "name_en": "Drake Passage",
-    "lat": -58.5,
-    "lon": -65.0,
-    "country": "公海（阿根廷與南極洲之間）",
-    "region": "極地",
-    "quote": "因為我們剛剛不是說過會經過那個 drag passage 那個海峽嗎",
-    "context": "航程兩天的風浪區，許多人暈船嘔吐"
-  },
-  {
-    "name": "洛克羅伊港英國研究站",
-    "name_en": "Port Lockroy",
-    "lat": -64.825,
-    "lon": -63.491,
-    "country": "南極洲",
-    "region": "極地",
-    "quote": "如果你去英國的研究站因為通常大部分南極船應該都會經過英國的那個研究站",
-    "context": "設有紀念品小屋，可寄明信片並蓋南極郵戳"
-  },
-  {
     "name": "烏斯懷亞",
     "name_en": "Ushuaia",
     "lat": -54.801,
     "lon": -68.303,
     "country": "阿根廷",
     "region": "美洲",
-    "quote": "通常終點站就是烏斯華雅",
-    "context": "南極船出發港，可在此等待最後一分鐘船票",
+    "quote": "烏斯華雅是阿根廷最南端的小鎮",
+    "context": "前往南極的主要出發港，行前集合住宿地",
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Ushuaia_aerial_panorama.jpg/330px-Ushuaia_aerial_panorama.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "南極半島",
+    "name_en": "Antarctic Peninsula",
+    "lat": -64.5,
+    "lon": -62.0,
+    "country": "南極洲",
+    "region": "極地",
+    "quote": "反正他們會帶你到南極半島晃",
+    "context": "航程目的地，登陸看企鵝、冰山與研究站"
+  },
+  {
+    "name": "德雷克海峽",
+    "name_en": "Drake Passage",
+    "lat": -59.0,
+    "lon": -65.0,
+    "country": "南極洲",
+    "region": "極地",
+    "quote": "你要通過一個海峽叫做什麼 drag passage",
+    "context": "最難航行的海峽，船程兩天、暈船嚴重"
+  },
+  {
+    "name": "蓬塔阿雷納斯",
+    "name_en": "Punta Arenas",
+    "lat": -53.163,
+    "lon": -70.917,
+    "country": "智利",
+    "region": "美洲",
+    "quote": "智利的 Puntas Arenas",
+    "context": "可搭飛機前往南極的另一齣發點",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Montaje_Punta_Arenas.png/330px-Montaje_Punta_Arenas.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
   },
   {
     "name": "南喬治亞島",
     "name_en": "South Georgia Island",
     "lat": -54.277,
-    "lon": -36.509,
-    "country": "英國海外領地",
+    "lon": -36.508,
+    "country": "英屬南喬治亞",
     "region": "極地",
-    "quote": "然後你就可以到好像是南喬治亞島吧",
-    "context": "較長行程可到達，能看到國王企鵝"
+    "quote": "好像是南喬治亞島吧",
+    "context": "較長行程可抵達，能看到國王企鵝"
   }
 ]
