@@ -381,6 +381,7 @@ function gridMaterial({ color, fill, line }) {
           diffuseColor.a = mix(uFill, uLine, onLine);
         }`);
   };
+  m.forceSinglePass = true;   // 雙面透明材質 three 預設分兩次畫（先背面再正面），458 塊就多 458 次繪製；國家很薄不需要
   m.userData.grid = { fill, line };
   m.customProgramCacheKey = () => 'ute-grid';   // 所有國家共用同一支著色程式，只有 uniform 不同
   gridMaterials.set(key, m);

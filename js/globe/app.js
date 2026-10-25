@@ -544,8 +544,11 @@ function visiblePoints() {
   });
 }
 
+// 國名標籤等縮放停下來再換：飛行途中每換一級就重建 45 個 DOM 元素，拉近時會一頓一頓
+let labelZoomTimer = null;
 function onZoom({ altitude }) {
-  updateCountryLabels(altitude);
+  clearTimeout(labelZoomTimer);
+  labelZoomTimer = setTimeout(() => updateCountryLabels(altitude), 180);
   setPickRadius(altitude);
 }
 
@@ -683,7 +686,7 @@ function revisitStrip(lm) {
 
 // 沒有指定光圈時，換成背景的聲波地標（visuals.js）
 function setRings(items, opts = {}) {
-  const rings = items.slice(0, 60).map(lm => ({
+  const rings = items.slice(0, opts.max || 60).map(lm => ({
     lat: lm.lat, lng: lm.lng ?? lm.lon,
     rgb: hexToRgb(THEMES[theme].pin),
     ...opts,
@@ -1006,7 +1009,7 @@ function showCountry(key, { fly = true } = {}) {
   setFocus({ lms: c.landmarks, countryKey: key });
   // 放大一個國家時只看地標本身：不畫連線、不標名字，每個地標一圈聲波
   setArcPairs([]);
-  setRings(c.landmarks, { maxR: 1.6, period: 1500, speed: 1.2 });
+  setRings([...c.landmarks].sort((a, b) => b.epNums.length - a.epNums.length), { maxR: 1.6, period: 1500, speed: 1.2, max: 30 });   // 每圈聲波都是新建的線條物件，國家地標多時太多會卡
   setLabels([]);
   pushUrl(`country=${encodeURIComponent(key)}`);
   if (fly) flyTo(c.landmarks, 1800, 0.35);
