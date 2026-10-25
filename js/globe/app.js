@@ -188,8 +188,8 @@ function initGlobe() {
     .polygonsData(countryFeatures)
     .polygonAltitude(0.003)
     .polygonCapMaterial(capMaterial)
-    .polygonSideColor(() => 'rgba(0,0,0,0)')
-    .polygonStrokeColor(() => THEMES[theme].stroke)
+    .polygonSideColor(() => null)     // 不建側面：高度只有 0.003 看不到，建了每塊多一次繪製和滑鼠偵測
+    .polygonStrokeColor(() => null)   // 邊界線由 visuals.js setBorders 合併成一條畫
     .polygonsTransitionDuration(0)
     .onPolygonHover(onCountryHover)
     .onPolygonClick(onCountryClick)
@@ -235,6 +235,7 @@ function initGlobe() {
     .onGlobeReady(() => {
       document.body.classList.remove('globe-pending');
       setPickRadius(globe.pointOfView().altitude);
+      setBorders(THEMES[theme].stroke);
       setTimeout(watchPerformance, 1500);
     });
 
@@ -252,6 +253,7 @@ function initGlobe() {
   controls.minDistance = 102;
   controls.maxDistance = 600;
   controls.addEventListener('start', onUserInteract);
+  controls.addEventListener('start', watchDragPerformance);
 
   globe.pointOfView({ lat: HOME.lat - 5, lng: HOME.lng - 20, altitude: IS_SMALL ? 2.8 : 2.4 }, 0);
 
@@ -455,8 +457,8 @@ const capMaterial = f => gridMaterial(capStyle(f));
 // 國家呈現更新：底層填色＋細密小點（visuals.js），跟地標一起重畫
 function refreshHex() {
   if (!globe) return;
-  globe.polygonCapMaterial(capMaterial)
-    .polygonStrokeColor(() => THEMES[theme].stroke);
+  globe.polygonCapMaterial(capMaterial);
+  setBorders(THEMES[theme].stroke);
   refreshPoints();
 }
 
@@ -1815,6 +1817,24 @@ function watchPerformance(round = 0) {
     if (fps < 24) degrade(2);
     else if (fps < 40) degrade(perfLevel + 1);
     if (fps < 40 && round < 1) setTimeout(() => watchPerformance(round + 1), 1500);
+  })(t0);
+}
+
+// 開場量的是靜止自轉；拖曳、縮放時負擔更重，前幾次互動再量一次
+let dragChecks = 0, dragChecking = false;
+function watchDragPerformance() {
+  if (dragChecking || dragChecks >= 3 || perfLevel >= 2 || document.hidden) return;
+  dragChecking = true;
+  dragChecks++;
+  let frames = 0;
+  const t0 = performance.now();
+  (function tick(now) {
+    frames++;
+    if (now - t0 < 1500) return requestAnimationFrame(tick);
+    dragChecking = false;
+    const fps = frames * 1000 / (now - t0);
+    if (fps < 24) degrade(2);
+    else if (fps < 40) degrade(perfLevel + 1);
   })(t0);
 }
 

@@ -386,3 +386,30 @@ function gridMaterial({ color, fill, line }) {
   gridMaterials.set(key, m);
   return m;
 }
+
+// ── 國界線 ────────────────────────────────────────────
+// globe.gl 每塊多邊形各畫一條邊界線，458 塊（含島嶼）就是 458 次繪製；全部合併成一條線一次畫完。
+// 建構子借經緯網格物件的（globe.gl 一定會建、預設隱藏），幾何沿用它的球面線段算法
+let borderObj = null;
+function setBorders(color) {
+  if (!globe) return false;
+  if (!borderObj) {
+    let grat = null;
+    globe.scene().traverse(o => { if (!grat && o.isLineSegments && o.geometry?.parameters?.geoJson) grat = o; });
+    if (!grat || !countryFeatures.length) return false;
+    const coordinates = countryFeatures.flatMap(f => f.geometry.type === 'Polygon' ? [f.geometry.coordinates] : f.geometry.coordinates);
+    const R = globe.getGlobeRadius();
+    borderObj = new grat.constructor(
+      new grat.geometry.constructor({ type: 'MultiPolygon', coordinates }, R, 5),
+      new grat.material.constructor({ transparent: true, depthWrite: false })
+    );
+    borderObj.scale.setScalar(1 + 0.003 + 1e-4);   // 跟 globe.gl 原本的邊界線一樣，貼在國家填色（polygonAltitude 0.003）上面
+    borderObj.renderOrder = 1;                       // 透明的國家填色先畫，線才不會被蓋淡
+    borderObj.raycast = () => {};                    // 滑鼠偵測交給國家填色
+    globe.scene().add(borderObj);
+  }
+  const [r, g, b, a = 1] = color.match(/[\d.]+/g).map(Number);
+  borderObj.material.color.setRGB(r / 255, g / 255, b / 255);
+  borderObj.material.opacity = a;
+  return true;
+}

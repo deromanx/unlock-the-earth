@@ -151,6 +151,8 @@ def main():
 
     print(f"\n✓ Done: {success} succeeded, {fail} failed")
     print(f"Transcripts in: {TRANSCRIPT_DIR}")
+    if fail:
+        sys.exit(1)
 
 if __name__ == '__main__':
     main()
