@@ -1,0 +1,45 @@
+[
+  {
+    "name": "綠島",
+    "name_en": "Green Island",
+    "lat": 22.658,
+    "lon": 121.493,
+    "country": "臺灣",
+    "region": "台灣",
+    "quote": "我剛剛說 2024 在綠島換宿",
+    "context": "與阿根廷男生相遇、改變人生軌跡的地點"
+  },
+  {
+    "name": "富岡漁港",
+    "name_en": "Fugang Fishing Harbor",
+    "lat": 22.791,
+    "lon": 121.186,
+    "country": "臺灣",
+    "region": "台灣",
+    "quote": "去綠島是你要從富岡 富岡漁港搭船過去",
+    "context": "前往綠島的搭船港口，與阿根廷男生初遇處",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Taiwan_Fugang_Fishery_Harbor.JPG/330px-Taiwan_Fugang_Fishery_Harbor.JPG?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "墨西哥城",
+    "name_en": "Mexico City",
+    "lat": 19.433,
+    "lon": -99.133,
+    "country": "墨西哥",
+    "region": "美洲",
+    "quote": "我在墨西哥的第一天就是旅館就有人來跟我講話",
+    "context": "遇到走私動物黑道男、墨西哥姐姐的地方",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Sobrevuelos_CDMX_HJ2A4913_%2825514321687%29_%28cropped%29.jpg/330px-Sobrevuelos_CDMX_HJ2A4913_%2825514321687%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "釜山",
+    "name_en": "Busan",
+    "lat": 35.18,
+    "lon": 129.076,
+    "country": "南韓",
+    "region": "亞洲",
+    "quote": "我在韓國轉機我在釜山的時候就看到很多打工換宿的小幫手",
+    "context": "轉機時得知打工換宿平臺的契機",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Busan_City_Haeundae_District_%2801%29.jpg/330px-Busan_City_Haeundae_District_%2801%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  }
+]
