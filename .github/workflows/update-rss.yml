@@ -32,7 +32,11 @@ jobs:
       - name: Build per-episode share pages
         run: python scripts/build_ep_pages.py
 
-      - name: Cover colors, thumbnails, latest-episode waveform（runner 內建 ffmpeg）
+      # GitHub 的 ubuntu-latest 映像檔已不再內建 ffmpeg（2026-10-28 起封面縮圖因此失敗），自己裝
+      - name: Install ffmpeg
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg > /dev/null
+
+      - name: Cover colors, thumbnails, latest-episode waveform
         run: |
           python scripts/build_episode_colors.py
           python scripts/build_cover_thumbs.py
