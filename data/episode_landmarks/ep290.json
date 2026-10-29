@@ -1,0 +1,228 @@
+[
+  {
+    "name": "羅本島",
+    "name_en": "Robben Island",
+    "lat": -33.807,
+    "lon": 18.366,
+    "country": "南非",
+    "region": "非洲",
+    "quote": "它是一個島有點像綠島的感覺臺灣的綠島的感覺",
+    "context": "曼德拉被關押之處，世界文化遺產，團體行程反應普通",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Robben_Island_-_Cape_Town%2C_South_Africa_%283883849594%29.jpg/330px-Robben_Island_-_Cape_Town%2C_South_Africa_%283883849594%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "克魯格國家公園",
+    "name_en": "Kruger National Park",
+    "lat": -23.988,
+    "lon": 31.554,
+    "country": "南非",
+    "region": "非洲",
+    "quote": "可是如果你去到克魯格的話因為南部非洲的發展程度高他們的國家公園其實是有圍欄封閉的",
+    "context": "可自駕的成熟Safari國家公園，與東非對比"
+  },
+  {
+    "name": "馬賽馬拉國家保護區",
+    "name_en": "Maasai Mara National Reserve",
+    "lat": -1.489,
+    "lon": 35.144,
+    "country": "肯亞",
+    "region": "非洲",
+    "quote": "牠們走到肯亞的馬薩馬拉草原",
+    "context": "7至9月動物大遷徙抵達之處",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Masai_Mara_at_Sunset.jpg/330px-Masai_Mara_at_Sunset.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "奧卡萬戈三角洲",
+    "name_en": "Okavango Delta",
+    "lat": -19.286,
+    "lon": 22.906,
+    "country": "波札那",
+    "region": "非洲",
+    "quote": "它是世界上最大的一個內陸三角洲",
+    "context": "需飛入或搭船，頂級高價Safari",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Okavango_Delta%2C_Botswana1.jpg/330px-Okavango_Delta%2C_Botswana1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "喬貝國家公園",
+    "name_en": "Chobe National Park",
+    "lat": -18.8,
+    "lon": 25.15,
+    "country": "波札那",
+    "region": "非洲",
+    "quote": "還有所謂的 Chobe Moremi 這些就是國家公園",
+    "context": "波札那原始Safari保護區之一",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Gnus_zebras_chobe_national_park.jpg/330px-Gnus_zebras_chobe_national_park.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "莫雷米野生動物保護區",
+    "name_en": "Moremi Game Reserve",
+    "lat": -19.25,
+    "lon": 23.35,
+    "country": "波札那",
+    "region": "非洲",
+    "quote": "還有所謂的 Chobe Moremi 這些就是國家公園",
+    "context": "波札那原始Safari保護區之一",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Moremi_elephant.jpg/330px-Moremi_elephant.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "維多利亞瀑布",
+    "name_en": "Victoria Falls",
+    "lat": -17.925,
+    "lon": 25.857,
+    "country": "辛巴威",
+    "region": "非洲",
+    "quote": "維多利亞瀑布它有趣的點是它的就是枯水期跟豐水期非常非常的懸殊",
+    "context": "位於辛巴威與尚比亞邊界，水量季節差異大",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Cataratas_Victoria%2C_Zambia-Zimbabue%2C_2018-07-27%2C_DD_04.jpg/330px-Cataratas_Victoria%2C_Zambia-Zimbabue%2C_2018-07-27%2C_DD_04.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "惡魔泳池",
+    "name_en": "Devil's Pool",
+    "lat": -17.924,
+    "lon": 25.857,
+    "country": "尚比亞",
+    "region": "非洲",
+    "quote": "你可能去到就是那個瀑布真的是在那個 crater 最旁邊",
+    "context": "枯水期限定的瀑布邊天然水池",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/DevilsPool20.jpg/330px-DevilsPool20.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "皮蘭斯堡國家公園",
+    "name_en": "Pilanesberg National Park",
+    "lat": -25.25,
+    "lon": 27.1,
+    "country": "南非",
+    "region": "非洲",
+    "quote": "可能在匹林斯堡那些離約翰尼斯堡比較近的那些比較小的國家公園",
+    "context": "近約翰尼斯堡，可快速集齊非洲五霸",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Animals_at_Pilanesberg_National_Park_4.jpg/330px-Animals_at_Pilanesberg_National_Park_4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "拉利貝拉岩石教堂",
+    "name_en": "Rock-Hewn Churches of Lalibela",
+    "lat": 12.032,
+    "lon": 39.047,
+    "country": "衣索比亞",
+    "region": "非洲",
+    "quote": "拉利貝拉岩石教堂",
+    "context": "衣索比亞知名文化景點",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Biet_Gyiorgis_Church%2C_Lalibela_%2810065935595%29.jpg/330px-Biet_Gyiorgis_Church%2C_Lalibela_%2810065935595%29.jpg?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "爾塔阿雷火山",
+    "name_en": "Erta Ale",
+    "lat": 13.6,
+    "lon": 40.67,
+    "country": "衣索比亞",
+    "region": "非洲",
+    "quote": "它甚至還有一個爾塔阿雷火山就是你真的是可以看到一窩眼這樣在你眼前",
+    "context": "可見熔岩湖的火山，但北部動亂難前往",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Erta_Ale.jpg/330px-Erta_Ale.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "布萊德河峽谷",
+    "name_en": "Blyde River Canyon",
+    "lat": -24.57,
+    "lon": 30.8,
+    "country": "南非",
+    "region": "非洲",
+    "quote": "然後布萊德河峽谷就是阿湯哥的就是那個不可能任務",
+    "context": "《不可能的任務》取景地",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/20131119_162543b.jpg/330px-20131119_162543b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "桌山",
+    "name_en": "Table Mountain",
+    "lat": -33.963,
+    "lon": 18.403,
+    "country": "南非",
+    "region": "非洲",
+    "quote": "就是開普敦好望角桌山",
+    "context": "南非代表性自然美景",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Table_Mountain_DanieVDM.jpg/330px-Table_Mountain_DanieVDM.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "好望角",
+    "name_en": "Cape of Good Hope",
+    "lat": -34.357,
+    "lon": 18.497,
+    "country": "南非",
+    "region": "非洲",
+    "quote": "就是開普敦好望角桌山",
+    "context": "南非代表性自然美景",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/CapeHopePeninsulaMap.png/330px-CapeHopePeninsulaMap.png?utm_source=zh.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "馬拉喀什",
+    "name_en": "Marrakech",
+    "lat": 31.629,
+    "lon": -7.981,
+    "country": "摩洛哥",
+    "region": "非洲",
+    "quote": "對比紅色古城馬拉喀什這一些它的整個色彩的碰撞是很強烈的",
+    "context": "摩洛哥紅色古城"
+  },
+  {
+    "name": "舍夫沙萬",
+    "name_en": "Chefchaouen",
+    "lat": 35.168,
+    "lon": -5.269,
+    "country": "摩洛哥",
+    "region": "非洲",
+    "quote": "藍色的就是小鎮蕭安",
+    "context": "摩洛哥藍色小鎮"
+  },
+  {
+    "name": "馬若雷爾花園",
+    "name_en": "Jardin Majorelle",
+    "lat": 31.642,
+    "lon": -8.003,
+    "country": "摩洛哥",
+    "region": "非洲",
+    "quote": "有所謂的就是 YSL 的馬約爾花園 YSL 博物館這樣子",
+    "context": "聖羅蘭相關的時尚景點",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Le_jardin_des_majorelle_40.JPG/330px-Le_jardin_des_majorelle_40.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "赫爾格達",
+    "name_en": "Hurghada",
+    "lat": 27.257,
+    "lon": 33.812,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "如果我們是去赫爾格達附近的一個就是沙漠的話",
+    "context": "埃及撒哈拉沙漠碎石與白沙地貌",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/South_Hurghada.jpg/330px-South_Hurghada.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+  },
+  {
+    "name": "吉薩金字塔",
+    "name_en": "Pyramids of Giza",
+    "lat": 29.979,
+    "lon": 31.134,
+    "country": "埃及",
+    "region": "非洲",
+    "quote": "像是金字塔然後神廟然後搭配撒哈拉的沙漠",
+    "context": "埃及古文明代表景點",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Pyramids_of_the_Giza_Necropolis.jpg/330px-Pyramids_of_the_Giza_Necropolis.jpg"
+  },
+  {
+    "name": "尼加拉瀑布",
+    "name_en": "Niagara Falls",
+    "lat": 43.08,
+    "lon": -79.074,
+    "country": "美國",
+    "region": "美洲",
+    "quote": "直到我去年去看尼加拉瀑布之後發現哇",
+    "context": "主持人親訪的大瀑布體驗"
+  },
+  {
+    "name": "迦太基遺址",
+    "name_en": "Ruins of Carthage",
+    "lat": 36.853,
+    "lon": 10.323,
+    "country": "突尼西亞",
+    "region": "非洲",
+    "quote": "它還有所謂迦太基跟羅馬",
+    "context": "突尼西亞古文明代表"
+  }
+]
